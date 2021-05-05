@@ -1,0 +1,5 @@
+These resources are copyrighted and licensed under terms that allow free redistribution in some form. There may be requirements to credit the original authors, or restrictions on making modifications. Check the license posted on each site for such restrictions. Note well: many of these sources cannot be used directly in Wikipedia. See open content for more details.
+To make the distinction between these items and public domain and GFDL resources clear, 
+* please move public domain resources to the Wikipedia:Public domain resources page, and 
+* move all GFDL-licensed resources to the new Wikipedia:GNU Free Documentation License resources page.
+Free or semi-free non-public-domain information resources:

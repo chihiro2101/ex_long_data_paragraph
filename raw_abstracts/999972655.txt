@@ -1,0 +1,3 @@
+In computer science, program analysis<ref>Nielson, F., Nielson, H. R., & Hankin, C. (2015). urltoken Principles of program analysis. Springer.</ref> is the process of automatically analyzing the behavior of computer programs regarding a property such as correctness, robustness, safety and liveness. 
+Program analysis focuses on two major areas: program optimization and program correctness. The first focuses on improving the program’s performance while reducing the resource usage while the latter focuses on ensuring that the program does what it is supposed to do.
+Program analysis can be performed without executing the program (static program analysis), during runtime (dynamic program analysis) or in a combination of both.

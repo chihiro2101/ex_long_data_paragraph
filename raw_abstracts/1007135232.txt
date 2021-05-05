@@ -1,0 +1,6 @@
+</math>
+:If there is no remainder the check digit is 0, otherwise the remainder value is subtracted from 11 to give the check digit:
+::<math>11 - 6 = 5</math>
+:5 is the check digit, <code>C</code>.
+:For calculations, an upper case X in the check digit position indicates a check digit of 10 (like a Roman ten).
+To confirm the check digit, calculate the sum of all eight digits of the ISSN multiplied by its position in the number, counting from the right (if the check digit is X, then add 10 to the sum). The modulus 11 of the sum must be 0. There is an online ISSN checker that can validate an ISSN, based on the above algorithm.<ref></ref>

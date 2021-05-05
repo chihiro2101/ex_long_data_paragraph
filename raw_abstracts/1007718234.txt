@@ -1,0 +1,1 @@
+Distributed Artificial Intelligence (DAI) also called Decentralized Artificial Intelligence<ref>Demazeau, Yves, and J-P. Müller, eds. Decentralized Ai. Vol. 2. Elsevier, 1990.</ref> is a subfield of artificial intelligence research dedicated to the development of distributed solutions for problems. DAI is closely related to and a predecessor of the field of multi-agent systems.

@@ -1,0 +1,6 @@
+This is a list of notable chemical engineers, people who studied or practiced chemical engineering. The main list is those who achieved status in chemical engineering or a closely related field such as management or science. At the foot of the page is a list of people with chemical engineering qualifications who are notable for other reasons, such as actors, sportspeople and authors. These are people sufficiently notable to have an article in Wikipedia. Further articles on chemical engineers would be welcome. See the talk page for suggestions of people who should be added to the encyclopedia (and then to this list).
+__NOTOC__
+{| class="wikitable"
+!Name!!width=500|Known for!!Affiliation
+|-
+| colspan=3|

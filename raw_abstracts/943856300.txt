@@ -1,0 +1,2 @@
+In geometry, an orthocentric system is a set of four points on a plane, one of which is the orthocenter of the triangle formed by the other three. 
+If four points form an orthocentric system, then each of the four points is the orthocenter of the other three. These four possible triangles will all have the same nine-point circle. Consequently these four possible triangles must all have circumcircles with the same circumradius.

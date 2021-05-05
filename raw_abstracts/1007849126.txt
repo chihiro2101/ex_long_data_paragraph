@@ -1,0 +1,5 @@
+The World Geodetic System (WGS) is a standard for use in cartography, geodesy, and satellite navigation including GPS. This standard includes the definition of the coordinate system's fundamental and derived constants, the ellipsoidal (normal) Earth Gravitational Model (EGM), a description of the associated World Magnetic Model, and a current list of local datum transformations.<ref></ref>
+The latest revision is WGS&nbsp;84 (also known as WGS&nbsp;1984, EPSG:4326), established and maintained by the United States National Geospatial-Intelligence Agency since 1984, and last revised in 2014.<ref name=gps-world></ref> Earlier schemes included WGS&nbsp;72, WGS&nbsp;66, and WGS&nbsp;60. WGS&nbsp;84 is the reference coordinate system used by the Global Positioning System.
+As CRS standard, and expressing by URN, , it is composed of:<ref name="wgs84-gml"> urltoken 
+* a standard reference ellipsoid model,<ref name="EPSG7030"> urltoken named ;
+* and this ellipsoid is located a standard horizontal datum, named .

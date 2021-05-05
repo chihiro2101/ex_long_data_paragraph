@@ -1,0 +1,5 @@
+thumb
+An explosively pumped flux compression generator (EPFCG) is a device used to generate a high-power electromagnetic pulse by compressing magnetic flux using high explosive.
+An EPFCG only ever generates a single pulse as the device is physically destroyed during operation. An EPFCG package that could be easily carried by a person can produce pulses in the millions of amperes and tens of terawatts. They require a starting current pulse to operate, usually supplied by capacitors.
+Explosively pumped flux compression generators are used to create ultrahigh magnetic fields in physics and materials science research<ref></ref> and extremely intense pulses of electric current for pulsed power applications. They are being investigated as power sources for electronic warfare devices known as transient electromagnetic devices that generate an electromagnetic pulse without the costs, side effects, or enormous range of a nuclear electromagnetic pulse device.
+The first work on these generators was conducted by the VNIIEF center for nuclear research in Sarov in Soviet Union at the beginning of the 1950s followed by Los Alamos National Laboratory in the United States.

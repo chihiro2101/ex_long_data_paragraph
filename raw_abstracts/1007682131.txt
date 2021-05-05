@@ -1,0 +1,2 @@
+Newline (frequently called line ending, end of line (EOL), line feed, or line break) is a control character or sequence of control characters in a character encoding specification (e.g. ASCII or EBCDIC) that is used to signify the end of a line of text and the start of a new one. Some text editors set this special character when pressing the key.
+When displaying (or printing) a text file, this control character causes the text editor to show the following characters in a new line.

@@ -1,0 +1,2 @@
+This guideline describes the conventions for the naming of articles on fauna, that is, animals.
+Its advice also applies to protists, when appropriate, though instructions provided by WP:Naming conventions (flora) are sometimes more applicable, especially when the article uses the scientific name.

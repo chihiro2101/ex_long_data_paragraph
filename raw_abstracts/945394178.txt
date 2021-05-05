@@ -1,0 +1,2 @@
+right
+In cryptography, a rotor machine is an electro-mechanical stream cipher device used for encryption and decrypting messages. Rotor machines were the cryptographic state-of-the-art for a prominent period of history; they were in widespread use in the 1920s&ndash;1970s. The most famous example is the German Enigma machine, the output of which was deciphered by the Allies during World War II, producing intelligence code-named Ultra.

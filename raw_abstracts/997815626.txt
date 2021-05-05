@@ -1,0 +1,4 @@
+thumb
+Image:AmesHydro,CO.jpg|thumb|right|An 1895 hydroelectric plant near Telluride, Colorado.
+Small hydro is the development of hydroelectric power on a scale suitable for local community and industry, or to contribute to distributed generation in a regional electricity grid.<ref name=Thesis></ref> Precise definitions vary, but a "small hydro" project is less than 50 megawatts (MW), and can be further subdivide by scale into "mini" (<1MW), "micro" (<100&nbsp;kW), "pico" (<10&nbsp;kW). In contrast many hydroelectric projects are of enormous size, such as the generating plant at the Three Gorges Dam at 22,500 megawatts or the vast multiple projects of the Tennessee Valley Authority.
+Small hydro projects may be built in isolated areas that would be uneconomic to serve from a national electricity grid, or in areas where a national grid does not exist.

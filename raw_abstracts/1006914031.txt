@@ -1,0 +1,4 @@
+The electron affinity (E<sub>ea</sub>) of an atom or molecule is defined as the amount of energy released when an electron is attached to a neutral atom or molecule in the gaseous state to form a negative ion.<ref name="Compendiumof"></ref>
+::X(g) + e<sup>−</sup> → X<sup>−</sup>(g) + energy
+Note that this is not the same as the enthalpy change of electron capture ionization, which is defined as negative when energy is released. In other words, this enthalpy change and the electron affinity differ by a negative sign.
+In solid state physics, the electron affinity for a surface is defined somewhat differently (see below).

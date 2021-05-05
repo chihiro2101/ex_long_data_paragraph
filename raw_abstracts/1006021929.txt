@@ -1,0 +1,3 @@
+A Chinese radical or indexing component is a graphical component of a Chinese character under which the character is traditionally listed in a Chinese dictionary. This component is often a determinative similar to a morpheme, though sometimes it may be a phonetic component or even an artificially extracted portion of the character. In some cases the original semantic or phonological connection has become obscure, owing to changes in character meaning or pronunciation over time. 
+The English term "radical" is based on an analogy between the structure of characters and inflection of words in European languages.
+In some cases, chosen radicals used phonetically coincidentally are in keeping, in step, semantically.

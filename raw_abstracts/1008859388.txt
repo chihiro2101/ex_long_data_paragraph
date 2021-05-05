@@ -1,0 +1,2 @@
+Azide is the anion with the formula N. It is the conjugate base of hydrazoic acid (HN<sub>3</sub>). N is a linear anion that is isoelectronic with carbon dioxide, cyanate, nitrous oxide, NO and NCF. Per valence bond theory, azide can be described by several resonance structures; an important one being <chem>^-N=\oversetN=N^-</chem>. Azide is also a functional group in organic chemistry, RN<sub>3</sub>.<ref name = braese/>
+The dominant application of azides is as a propellant in air bags.

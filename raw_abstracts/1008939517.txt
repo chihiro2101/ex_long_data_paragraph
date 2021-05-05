@@ -1,0 +1,3 @@
+In finance, an interest rate swap (IRS) is an interest rate derivative. It involves exchange of interest rates between two parties. In particular it is a "linear" IRD and one of the most liquid, benchmark products. It has associations with forward rate agreement, and with zero coupon swap.
+In its December 2014 statistics release, the Bank for International Settlements reported that interest rate swaps were the largest component of the global OTC derivative market, representing 60%, with the notional amount outstanding in OTC interest rate swaps of $381 trillion, and the gross market value of $14 trillion.<ref></ref>
+Interest rate swaps can be traded as an index through the FTSE MTIRS Index.

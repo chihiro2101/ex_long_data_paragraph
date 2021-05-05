@@ -1,0 +1,6 @@
+</ref>
+* 2 November 2006: Spacecraft suffers an error while attempting to reorient a solar panel and communication was lost.
+* 5 November 2006: Weak signals were detected, indicating the spacecraft was awaiting instructions. The signal cut out later that day.<ref name="loss of contact" />
+* 21 November 2006: NASA announces the spacecraft has likely finished its operating career.
+* 6 December 2006: NASA releases imagery taken by MGS of a newly found gully deposit, suggesting that water still flows on Mars.
+* 13 April 2007: NASA releases its Preliminary Report on the cause(s) of MGS loss of contact.<ref name="loss of contact"></ref>

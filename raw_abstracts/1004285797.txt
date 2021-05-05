@@ -1,0 +1,6 @@
+MPEG-7 is a multimedia content description standard. It was standardized in ISO/IEC 15938 (Multimedia content description interface).<ref></ref><ref></ref><ref></ref><ref name="mpeg-standards"></ref> This description will be associated with the content itself, to allow fast and efficient searching for material that is of interest to the user. MPEG-7 is formally called Multimedia Content Description Interface. Thus, it is not a standard which deals with the actual encoding of moving pictures and audio, like MPEG-1, MPEG-2 and MPEG-4. It uses XML to store metadata, and can be attached to timecode in order to tag particular events, or synchronise lyrics to a song, for example.
+It was designed to standardize:
+* a set of Description Schemes ("DS") and Descriptors ("D")
+* a language to specify these schemes, called the Description Definition Language ("DDL")
+* a scheme for coding the description
+The combination of MPEG-4 and MPEG-7 has been sometimes referred to as MPEG-47.<ref></ref>

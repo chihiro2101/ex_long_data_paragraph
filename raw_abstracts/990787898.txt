@@ -1,0 +1,3 @@
+thumb
+IEEE&nbsp;488 is a short-range digital communications 8-bit parallel multi-master interface bus specification developed by Hewlett-Packard as HP-IB (Hewlett-Packard Interface Bus). It subsequently became the subject of several standards, and is generically known as GPIB (General Purpose Interface Bus).
+Although the bus was created in the late 1960s to connect together automated test equipment, it also had some success during the 1970s and 1980s as a peripheral bus for early microcomputers, notably the Commodore PET. Newer standards have largely replaced IEEE&nbsp;488 for computer use, but it is still used by some test equipment.

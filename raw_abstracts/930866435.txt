@@ -1,0 +1,4 @@
+thumb
+thumb
+The Big Board (1980) and Big Board II (1982) were Z80 based Single board computer designed by Jim Ferguson. They provided a complete CP/M compatible computer system on a single printed circuit board, including CPU, memory, disk drive interface, keyboard and video monitor interface.<ref>J.B. Ferguson: The Bigboard: An Overview, 1980.</ref> The printed circuit board was sized to match the Shugart 801 or 851 floppy drive. This allowed attachment to up to two 8&nbsp;inch or 5 1/4&nbsp;inch floppy disk drives . The Big Board II added a SASI interface which could be used to drive hard drives, enhancements to system speed (4&nbsp;MHz vs. 2.5&nbsp;MHz) and enhancements to the terminal interface.<ref>J.B. Ferguson: The Big Board II Assembly Manual, Cal-Tex Computers, 1982.</ref>
+One version of the Big Board was used in the Xerox 820.

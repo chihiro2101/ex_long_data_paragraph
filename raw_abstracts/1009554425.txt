@@ -1,0 +1,2 @@
+Coroutines are computer program components that generalize subroutines for non-preemptive multitasking, by allowing execution to be suspended and resumed. Coroutines are well-suited for implementing familiar program components such as cooperative tasks, exceptions, event loops, iterators, infinite lists and pipes.
+According to Donald Knuth, Melvin Conway coined the term coroutine in 1958 when he applied it to the construction of an assembly program.<ref name="KnuthVol1_1_4_5" /> The first published explanation of the coroutine appeared later, in 1963.<ref name="Conway1963"/>

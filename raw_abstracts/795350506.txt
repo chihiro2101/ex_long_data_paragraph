@@ -1,0 +1,3 @@
+de:Wikipedia:Wikiprojekt Deutsche Landkreise/Status
+When you work on a district, you should add it to one of these lists (In Progress/Done). It will be easier then to control, if we have really covered all districts.
+* urltoken Watchlist

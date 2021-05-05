@@ -1,0 +1,2 @@
+Military robots are autonomous robots or remote-controlled mobile robots designed for military applications, from transport to search & rescue and attack.
+Some such systems are currently in use, and many are under development.

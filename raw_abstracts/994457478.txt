@@ -1,0 +1,2 @@
+The Open Software Foundation (OSF) was a not-for-profit consortium for creating an open standard for an implementation of the operating system Unix. It was formed in 1988<ref></ref> and merged with X/Open in 1996, to become The Open Group.<ref></ref>
+Despite the similarities in name, OSF was unrelated to the Free Software Foundation (FSF, also based in Cambridge, Massachusetts), or the Open Source Initiative (OSI).

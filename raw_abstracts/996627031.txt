@@ -1,0 +1,2 @@
+In mathematics, Hilbert's second problem was posed by David Hilbert in 1900 as one of his 23 problems. It asks for a proof that the arithmetic is consistent &ndash; free of any internal contradictions. Hilbert stated that the axioms he considered for arithmetic were the ones given in , which include a second order completeness axiom.
+In the 1930s, Kurt Gödel and Gerhard Gentzen proved results that cast new light on the problem. Some feel that Gödel's theorems give a negative solution to the problem, while others consider Gentzen's proof as a partial positive solution.

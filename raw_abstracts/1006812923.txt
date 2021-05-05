@@ -1,0 +1,3 @@
+</math>
+Unfortunately, there is no way to directly observe or calculate the true score, so a variety of methods are used to estimate the reliability of a test.
+Some examples of the methods to estimate reliability include test-retest reliability, internal consistency reliability, and parallel-test reliability. Each method comes at the problem of figuring out the source of error in the test somewhat differently.

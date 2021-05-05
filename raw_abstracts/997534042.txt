@@ -1,0 +1,1 @@
+A digital subscriber line access multiplexer (DSLAM, often pronounced DEE-slam) is a network device, often located in telephone exchanges, that connects multiple customer digital subscriber line (DSL) interfaces to a high-speed digital communications channel using multiplexing techniques.<ref></ref>

@@ -1,0 +1,10 @@
+This page contains an overview of the key issues concerning article size. There are three related measures of an article's size:
+* Readable prose size: the amount of viewable text in the main sections of the article, not including tables, lists, or footer sections
+* Wiki markup size: the amount of text in the full page edit window, as shown in the character count of the edit history page
+* Browser page size: the total size of the page as loaded by a web browser
+Usability considerations concerning the size of an article have been determined to include:
+*Reader issues, such as attention span, readability, organization, information saturation, etc.
+*Editor issues, such as talkpage tension, arguments over trivial contributions, debates on how to split up a large article, etc.
+*Contribution issues, such as articles ceasing to grow significantly once they reach a certain size, even though there is still information on the topic that could be contributed
+*Other technical issues, such as limitations of mobile browsers.
+When an article is too large, consider Wikipedia:Split, spinning part of it out into a new article, or Wikipedia:Merging into another existing article. When an article is too small, it may be merged with one or more other existing articles. Such editorial decisions require consensus. Guidelines on the size of articles, and detailed solutions, are provided below. The licensing policy mandates that whenever any content is copied from one article to another new or existing article, an edit summary containing the required copy attribution must be used.

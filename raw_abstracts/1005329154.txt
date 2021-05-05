@@ -1,0 +1,6 @@
+File:Hydrogenation on catalyst.svg|thumb|
+Steps in the hydrogenation of a C=C double bond at a catalyst surface, for example Ni or Pt :<br />
+(1) The reactants are adsorbed on the catalyst surface and H<sub>2</sub> dissociates.<br />
+(2) An H atom bonds to one C atom. The other C atom is still attached to the surface.<br />
+(3) A second C atom bonds to an H atom. The molecule leaves the surface.
+Hydrogenation is a chemical reaction between molecular hydrogen (H<sub>2</sub>) and another compound or element, usually in the presence of a catalyst such as nickel, palladium or platinum. The process is commonly employed to redox or saturate organic compounds. Hydrogenation typically constitutes the addition of pairs of hydrogen atoms to a molecule, often an alkene. Catalysts are required for the reaction to be usable; non-catalytic hydrogenation takes place only at very high temperatures. Hydrogenation reduces double and triple bonds in hydrocarbons.<ref></ref>

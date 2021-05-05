@@ -1,0 +1,18 @@
+Image:Scipio-tomb.jpg|thumb|320px|The tomb of Lucius Cornelius Scipio Barbatus, erected around 150 BC, contains an Old Latin inscription in Saturnian meter.
+Saturnian meter or verse is an old Latin and Italic poetry form, of which the principles of versification have become obscure. Only 132 complete uncontroversial verses survive. 95 literary verses and partial fragments have been preserved as quotations in later grammatical writings, as well as 37 verses in funerary or dedicatory inscriptions. The majority of literary Saturnians come from the Odysseia (more commonly known as the Odissia or Odyssia), a translation/paraphrase of Homer's Odyssey by Livius Andronicus (c. 3rd century BC), and the Bellum Poenicum, an epic on the First Punic War by Gnaeus Naevius (c. 3rd century BC).
+The meter was moribund by the time of the literary verses and forgotten altogether by classical times, falling out of use with the adoption of the hexameter and other Greek verse forms. Quintus Ennius is the poet who is generally credited with introducing the Greek hexameter in Latin, and dramatic meters seem to have been well on their way to domestic adoption in the works of his approximate contemporary Plautus. These Greek verse forms were considered more sophisticated than the native tradition; Horace called the Saturnian horridus. Consequently, the poetry in this meter was not preserved. Cicero regretted the loss in his Brutus:
+:Atque utinam exstārent illa carmina, quae multīs saeclīs ante suam aetātem in epulīs esse cantitāta ā singulīs conuīuīs dē clārōrum uirōrum laudibus in Orīginibus scrīptum relīquit Catō.
+::'I heartily wish those venerable Odes were still extant, which Cato informs us in his Antiquities, used to be sung by every guest in his turn at the homely feasts of our ancestors, many ages before, to commemorate the feats of their heroes.'
+However, it has been noted that later poets like Ennius (by extension Virgil, who follows him in both time and technique) preserve something of the Saturnian aesthetic in hexameter verse. Ennius explicitly acknowledges Naevius' poem and skill (lines 206–7 and 208–9 in the edition of Skutsch, with translations by Goldberg):
+:. scrīpsēre aliī rem
+:vorsibus quōs ōlim Faunei vātesque canēbant
+::'. Others have given an account
+::in rhythms which the Fauns and seers sang.'
+:nam neque Mūsārum scopulōs ēscendit ad altōs
+:nec dictī studiōsus fuit Rōmānus homō ante hunc.
+::'For no Roman scaled the Muses' lofty crags
+::or was careful with his speech before this man.'
+Ancient grammarians sought to derive the verse from a Greek model, in which syllable weight or the arrangement of light and heavy syllables was the governing principle. Scholars today remain divided between two approaches:
+# The meter was quantitative (but not borrowed from Greek).
+# The meter was accentual or based on accented and unaccented syllables.
+Despite the division, there is some consensus regarding aspects of the verse's structure. A Saturnian line can be divided into two cola or half-lines, separated by a central caesura. The second colon is shorter than or as long as the first. Furthermore, in any half-line with seven or more syllables, the last three or four are preceded by word-end. This is known as Korsch's caesura or the caesura Korschiana, after its discoverer.

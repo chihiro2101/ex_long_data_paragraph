@@ -1,0 +1,8 @@
+</ref> Further, two-step-ahead or in general p-step-ahead forecasts can be computed by first forecasting the value immediately after the training set, then using this value with the training set values to forecast two periods ahead, etc.
+See also
+*Calculating demand forecast accuracy
+*Consensus forecasts
+*Forecast error
+*Predictability
+*Prediction intervals, similar to confidence intervals
+*Reference class forecasting

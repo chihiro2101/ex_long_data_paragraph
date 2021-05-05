@@ -1,0 +1,6 @@
+Clipper is an xBase compiler that implements a variant of the xBase computer programming language. It is used to create 
+or extend software programs that originally operated primarily under MS-DOS. Although it is a powerful general-purpose programming
+language, it was primarily used to create database/business programs.
+ 
+One major dBase feature not implemented in Clipper is the dot-prompt (. prompt) interactive command set,<ref></ref> which was an important part of the original dBase implementation.
+Clipper, from Nantucket Corp and later Computer Associates, started out as a native code compiler for dBase III databases, and later evolved.<ref></ref>

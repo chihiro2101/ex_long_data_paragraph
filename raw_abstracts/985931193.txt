@@ -1,0 +1,1 @@
+Unix security refers to the means of securing a Unix or Unix-like operating system. A secure environment is achieved not only by the design concepts of these operating systems, but also through vigilant user and administrative practices.

@@ -1,0 +1,6 @@
+<div class="selfreference noprint"><imagemap>
+File:Carl Oswald Rostosky - Zwei Kaninchen und ein Igel 1861.jpg|250px|thumb|right|This image reveals an Easter egg when the hedgehog is clicked or tapped. Another Easter egg can be found in a tooltip when a mouse pointer is hovered over it.<ref>"Zwei Kaninchen und ein Igel" ("Two rabbits and a hedgehog") by Carl Oswald Rostosky.</ref>
+rect 455 383 550 434 I'm a hedgehog, not an egg!
+desc none
+</imagemap></div>
+Easter egg is a term used to describe a message, image, or feature hidden in a video game, film, or other, usually electronic, medium. The term used in this manner was coined around 1979 by Steve Wright, the then Director of Software Development in the Atari Consumer Division, to describe a hidden message in the Atari video game Adventure, in reference to an egg hunt.

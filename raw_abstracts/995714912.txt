@@ -1,0 +1,4 @@
+thumb
+A pH meter is a scientific instrument that measures the hydrogen-ion activity in Aqueous solution, indicating its acidity or alkalinity expressed as pH.<ref name="EB"></ref> The pH meter measures the difference in electrical potential between a pH electrode and a reference electrode, and so the pH meter is sometimes referred to as a "potentiometric pH meter". The difference in electrical potential relates to the acidity or pH of the solution.<ref>Oxford Dictionary of Biochemistry and Molecular Biology (2 ed.), ed. Richard Cammack, Teresa Atwood, Peter Campbell, Howard Parish, Anthony Smith, Frank Vella, and John Stirling, Oxford University Press 2006, </ref> The pH meter is used in many applications ranging from Experimentation to quality control.<ref name="Global"></ref>
+<!-- this diagram is inadequate as there should be three knobs: calibrate, slope and temperature.
+thumbnail -->

@@ -1,0 +1,1 @@
+MPEG-1 Audio Layer II or MPEG-2 Audio Layer II (MP2, sometimes incorrectly called Musicam or MUSICAM)<ref name="mpegfaq"></ref> is a lossy audio compression format defined by ISO/IEC 11172-3 alongside MPEG-1 Audio Layer I and MPEG-1 Audio Layer III (MP3). While MP3 is much more popular for PC and Internet applications, MP2 remains a dominant standard for audio broadcasting.

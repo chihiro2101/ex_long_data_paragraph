@@ -1,0 +1,2 @@
+This FAQ answers the most common questions about editing Wikipedia. Editing most Wikipedia pages is easy. Wikipedia uses two methods of editing: the new VisualEditor (VE), and classic editing through wiki markup (wikitext). The explanations on this page deal with wikitext editing (the method most used). For instructions on using VisualEditor see the VisualEditor user guide.
+__TOC__

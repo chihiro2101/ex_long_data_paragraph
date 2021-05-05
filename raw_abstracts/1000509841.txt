@@ -1,0 +1,6 @@
+thumb
+The Compact Muon Solenoid (CMS) experiment is one of two large general-purpose particle physics detectors built on the Large Hadron Collider (LHC) at CERN in Switzerland and France. The goal of CMS experiment is to investigate a wide range of physics, including the search for the Higgs boson, extra dimensions, and particles that could make up dark matter.
+CMS is 21&nbsp;metres long, 15&nbsp;m in diameter, and weighs about 14,000&nbsp;tonnes.<ref></ref> Over 4,000 people, representing 206 scientific institutes and 47 countries, form the CMS collaboration who built and now operate the detector.<ref></ref> It is located in a cavern at Cessy in France, just across the border from Geneva. In July 2012, along with ATLAS, CMS tentatively discovered the Higgs boson.<ref name="dieter July 2012"></ref><ref name=ScienceNews>
+</ref><ref name="CERN Nov 2012">
+</ref> 
+By March 2013 its existence was confirmed.<ref name="CERN March 2013"></ref>

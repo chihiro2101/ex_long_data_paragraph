@@ -1,0 +1,3 @@
+Image:Comet plot 1.gif|thumb|300px|Phase path of the Duffing oscillator 
+Image:Focal stability.png|thumb|300px|right|Phase space of a dynamic system with focal stability, showing one phase space trajectory 
+In dynamical system theory, a phase space is a space in which all possible states of a system are represented, with each possible state corresponding to one unique point in the phase space. For mechanical systems, the phase space usually consists of all possible values of position and momentum variables. The concept of phase space was developed in the late 19th century by Ludwig Boltzmann, Henri Poincaré, and Josiah Willard Gibbs.<ref></ref>

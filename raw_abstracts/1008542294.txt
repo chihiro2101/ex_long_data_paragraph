@@ -1,0 +1,10 @@
+File:Mcpherson strut.jpg|thumb|400px|A simple MacPherson strut suspension on the left front wheel of a rear-wheel drive vehicle. The front of the vehicle is at bottom right of the image.
+<br>Upper green: Vehicle body/strut interface
+<br>Red: Steering knuckle or hub carrier
+<br>Blue: Lower control arm or track control arm
+<br>Light blue: Steering gear tie rod or track rod
+<br>Lower purple: Radius rod
+<br>Upper purple: Coil spring
+<br>Yellow: Tubular housing containing shock absorber or damper
+<br>Lower green: Vehicle frame or unibody member
+The MacPherson strut is a type of suspension (vehicle) system that uses the top of a telescopic damper as the upper steering pivot. It is widely used in the front suspension of modern vehicles and is named for American automotive engineer Earle S. MacPherson, who invented and developed the design.

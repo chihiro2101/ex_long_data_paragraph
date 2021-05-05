@@ -1,0 +1,7 @@
+T-symmetry or time reversal symmetry is the theoretical symmetry (physics) under the transformation of time reversal,
+:<math> T: t \mapsto -t.</math>
+Since the second law of thermodynamics states that entropy increases as time flows toward the future, in general, the macroscopic universe does not show symmetry under time reversal. In other words, time is said to be non-symmetric, or asymmetric, except for special equilibrium states when the second law of thermodynamics predicts the time symmetry to hold. However, quantum Weak measurement are predicted to violate time symmetry even in equilibrium,<ref name=non-time></ref> contrary to their classical counterparts, although this has not yet been experimentally confirmed.
+Time asymmetries generally are caused by one of three categories:
+# intrinsic to the dynamic physical law (e.g., for the weak force)
+# due to the Big Bang (e.g., for the second law of thermodynamics)
+# due to measurements (e.g., for the noninvasive measurements)

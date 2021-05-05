@@ -1,0 +1,8 @@
+300px
+Radio navigation or radionavigation is the application of radio frequencies to geolocalization of an object on the Earth, either the vessel or an obstruction.<ref name=DuttonNN15></ref><ref name=Kay-Fried-ANS></ref> Like radiolocation, it is a type of radiodetermination.
+The basic principles are measurements from/to electric beacons, especially
+* Angular directions, e.g. by bearing, radio phases or interferometry,
+* Distances, e.g. ranging by measurement of time of flight between one transmitter and multiple receivers or vice versa,
+* Distance differences by measurement of multilateration of signals from one transmitter to multiple receivers or vice versa
+* Partly also velocity, e.g. by means of radio Doppler shift.
+Combinations of these measurement principles also are important—e.g., many radars measure range and azimuth of a target.

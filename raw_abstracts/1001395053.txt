@@ -1,0 +1,7 @@
+An application server is a server that hosts applications.<ref></ref>
+Application server frameworks are software frameworks for building application servers. An application server framework provides both facilities to create web applications and a 
+server environment to run them.
+An application server framework contains a comprehensive service layer model. It includes a set of components accessible to the software developer through a standard API defined for the platform itself. For Web applications, these components usually run in the same environment as their web server(s), and their main job is to support the construction of dynamic pages. However, many application servers do more than generate web pages: they implement services such as clustering, fail-over, and load-balancing, so developers can focus on implementing the business logic.<ref>
+</ref>
+In the case of Java application servers, the server behaves like an extended JVM for running applications, transparently handling Java Persistence API on one side, and, often, JavaServer Pages on the other.
+Other uses of the term may refer to the services that a server makes available or the computer hardware on which the services run.
