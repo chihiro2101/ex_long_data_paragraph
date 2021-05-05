@@ -25,7 +25,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 class Summerizer(object):
-    def __init__(self, title, sentences, raw_sentences, population_size, max_generation, crossover_rate, mutation_rate, num_picked_sents, simWithTitle, simWithDoc, sim2sents, number_of_nouns, simWithAbs,  order_params):
+    def __init__(self, title, sentences, raw_sentences, population_size, max_generation, crossover_rate, mutation_rate, num_picked_sents, simWithTitle, simWithDoc, sim2sents, number_of_nouns, simWithAbs, rougeforsentences,  order_params):
         self.title = title
         self.raw_sentences = raw_sentences
         self.sentences = sentences
@@ -41,6 +41,7 @@ class Summerizer(object):
         self.number_of_nouns = number_of_nouns
         self.order_params = order_params
         self.simWithAbs = simWithAbs
+        self.rougeforsentences = rougeforsentences
 
 
     def generate_population(self, amount):
@@ -53,7 +54,7 @@ class Summerizer(object):
                 agent[np.random.choice(list(range(self.num_objects)), self.num_picked_sents, replace=True)] = 1
                 print("bug")
             agent = agent.tolist()
-            fitness = compute_fitness(self.title, self.sentences, agent, self.simWithTitle, self.simWithDoc, self.sim2sents, self.number_of_nouns, self.simWithAbs, self.order_params)
+            fitness = compute_fitness(self.title, self.sentences, agent, self.simWithTitle, self.simWithDoc, self.sim2sents, self.number_of_nouns, self.simWithAbs, self.rougeforsentences,  self.order_params)
             population.append((agent, fitness))
         return population 
 
@@ -98,7 +99,7 @@ class Summerizer(object):
             return individual_1[:], individual_2[:]
         crossover_point = 1 + random.randint(0, self.num_objects - 2)
         agent_1 = individual_1[0][:crossover_point] + individual_2[0][crossover_point:]
-        fitness_1 = compute_fitness(self.title, self.sentences, agent_1, self.simWithTitle, self.simWithDoc, self.sim2sents, self.number_of_nouns,self.simWithAbs, self.order_params)
+        fitness_1 = compute_fitness(self.title, self.sentences, agent_1, self.simWithTitle, self.simWithDoc, self.sim2sents, self.number_of_nouns,self.simWithAbs, self.rougeforsentences, self.order_params)
         child_1 = (agent_1, fitness_1)
         sum_sent_in_summary = sum(child_1[0])
         if sum_sent_in_summary > max_sent:
@@ -108,12 +109,12 @@ class Summerizer(object):
                     agent_1[remove_point] = 0
                     sent = self.sentences[remove_point]
                     sum_sent_in_summary -=1            
-            fitness_1 = compute_fitness(self.title, self.sentences, agent_1, self.simWithTitle, self.simWithDoc,self.sim2sents, self.number_of_nouns, self.simWithAbs, self.order_params)
+            fitness_1 = compute_fitness(self.title, self.sentences, agent_1, self.simWithTitle, self.simWithDoc,self.sim2sents, self.number_of_nouns, self.simWithAbs, self.rougeforsentences,  self.order_params)
             child_1 = (agent_1, fitness_1)
 
         crossover_point_2 = 1 + random.randint(0, self.num_objects - 2)
         agent_2 = individual_2[0][:crossover_point_2] + individual_1[0][crossover_point_2:]
-        fitness_2 = compute_fitness(self.title, self.sentences, agent_2, self.simWithTitle, self.simWithDoc,self.sim2sents, self.number_of_nouns,self.simWithAbs, self.order_params)
+        fitness_2 = compute_fitness(self.title, self.sentences, agent_2, self.simWithTitle, self.simWithDoc,self.sim2sents, self.number_of_nouns,self.simWithAbs, self.rougeforsentences, self.order_params)
         child_2 = (agent_2, fitness_2)
         sum_sent_in_summary_2 = sum(child_2[0])
         if sum_sent_in_summary_2 > max_sent:
@@ -123,7 +124,7 @@ class Summerizer(object):
                     agent_2[remove_point] = 0
                     sent = self.sentences[remove_point]
                     sum_sent_in_summary_2 -= 1
-            fitness_2 = compute_fitness(self.title, self.sentences, agent_2, self.simWithTitle, self.simWithDoc, self.sim2sents, self.number_of_nouns,self.simWithAbs, self.order_params)
+            fitness_2 = compute_fitness(self.title, self.sentences, agent_2, self.simWithTitle, self.simWithDoc, self.sim2sents, self.number_of_nouns,self.simWithAbs, self.rougeforsentences, self.order_params)
             child_2 = (agent_2, fitness_2)
         return child_1, child_2
     
@@ -140,7 +141,7 @@ class Summerizer(object):
                    agent[i] = 0
                    sum_sent_in_summary -=1
         
-        fitness = compute_fitness(self.title, self.sentences, agent, self.simWithTitle, self.simWithDoc, self.sim2sents, self.number_of_nouns,self.simWithAbs, self.order_params)
+        fitness = compute_fitness(self.title, self.sentences, agent, self.simWithTitle, self.simWithDoc, self.sim2sents, self.number_of_nouns,self.simWithAbs, self.rougeforsentences, self.order_params)
         return (agent, fitness)
 
     def compare(self, lst1, lst2):
@@ -300,54 +301,7 @@ def clean_text(text):
         return 'None'
     return text
 
-def evaluate_rouge(hyp_path):
-    hyp = hyp_path
-    raw_ref = 'abstracts'
-    FJoin = os.path.join
-    files_hyp = [FJoin(hyp, f) for f in os.listdir(hyp)]
-    files_raw_ref = [FJoin(raw_ref, f) for f in os.listdir(hyp)]
-    
-    f_hyp = []
-    f_raw_ref = []
-    print("number of document: ", len(files_hyp))
-    for file in files_hyp:
-        f = open(file)
-        f_hyp.append(f.read())
-        f.close()
-    for file in files_raw_ref:
-        f = open(file)
-        f_raw_ref.append(f.read())
-        f.close()
-        
-    rouge_1_tmp = []
-    rouge_2_tmp = []
-    rouge_L_tmp = []
-    for hyp, ref in zip(f_hyp, f_raw_ref):
-        try:
-            rouge = Rouge()
-            scores = rouge.get_scores(hyp, ref, avg=True)
-            rouge_1 = scores["rouge-1"]["f"]
-            rouge_2 = scores["rouge-2"]["f"]
-            rouge_L = scores["rouge-l"]["f"]
-            rouge_1_tmp.append(rouge_1)
-            rouge_2_tmp.append(rouge_2)
-            rouge_L_tmp.append(rouge_L)
-        except Exception:
-            pass
-        # print(scores)
-    rouge_1_avg = sta.mean(rouge_1_tmp)
-    rouge_2_avg = sta.mean(rouge_2_tmp)
-    rouge_L_avg = sta.mean(rouge_L_tmp)
-    print('Rouge-1: ', rouge_1_avg)
-    print('Rouge-2: ',rouge_2_avg )
-    print('Rouge-L: ', rouge_L_avg)
-
-    # for path in os.listdir(hyp_path):
-    #     full_path = os.path.join(hyp_path, path)
-    #     os.remove(full_path)
-
-    return rouge_1_avg, rouge_2_avg, rouge_L_avg  
-
+  
 def sim_with_title_of_paragraph(document):
     paragraphs = document.split('\n')
     sim_header = []
@@ -384,6 +338,19 @@ def sim_with_title_of_paragraph(document):
         del newdf
     
     return raw_sents, preprocessed_sents, sim_header
+
+def evaluate_rouge(raw_sentences, abstract):
+    rouge_scores = []
+    for sent in raw_sentences:
+        try:
+            rouge = Rouge()
+            scores = rouge.get_scores(sent, abstract, avg=True)
+            rouge1f = scores["rouge-1"]["f"]
+        except Exception:
+            rouge1f = 0 
+        rouge_scores.append(rouge1f)
+    return rouge_scores
+
 
 def start_run(processID, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, sub_stories, save_path, order_params):
    
@@ -458,7 +425,7 @@ def start_run(processID, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, sub_storie
         sim2sents = sim_2_sent(list_sentences_frequencies)
         simWithDoc = sim_with_doc(list_sentences_frequencies, document_vector)
         simWithAbs = sim_with_doc(list_sentences_frequencies, abstract_vector)
-          
+        rougeforsentences = evaluate_rouge(raw_sentences,abstract)
         print("Done preprocessing!")
         
         print('time for processing', time.time() - start_time)
@@ -467,7 +434,7 @@ def start_run(processID, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, sub_storie
         else:
             NUM_PICKED_SENTS = 4
         # DONE!
-        Solver = Summerizer(title, preprocessed_sentences, raw_sentences, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, NUM_PICKED_SENTS, simWithTitle, simWithDoc, sim2sents, number_of_nouns, simWithAbs, order_params)
+        Solver = Summerizer(title, preprocessed_sentences, raw_sentences, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, NUM_PICKED_SENTS, simWithTitle, simWithDoc, sim2sents, number_of_nouns, simWithAbs, rougeforsentences, order_params)
         best_individual = Solver.solve()
         file_name = os.path.join(save_path, example[1] )    
 
@@ -542,7 +509,7 @@ def main():
     
     # multiprocess(5, POPU_SIZE, MAX_GEN, CROSS_RATE,
     #              MUTATE_RATE, stories, save_path)
-    start_run(1, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, stories, save_path[0], 1)
+    start_run(1, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, stories, save_path[0], 4)
 
     print("--- %s mins ---" % ((time.time() - start_time)/(60.0*len(stories))))
 
