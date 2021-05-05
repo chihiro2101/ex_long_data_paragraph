@@ -295,7 +295,7 @@ def load_docs(directory):
 	return docs
 
 def clean_text(text):
-    cleaned = "".join(u for u in text if u not in ("?", ".", ";", ":", "!", ",", "'", "(", ")")).strip()
+    cleaned = "".join(u for u in text if u not in ("?", ".", ";", ":", "!", ",", "'", "(", ")" )).strip()
     check_text = "".join((item for item in cleaned if not item.isdigit())).strip()
     if len(check_text.split(" ")) < 4:
         return 'None'
@@ -360,7 +360,6 @@ def start_run(processID, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, sub_storie
         title = re.split("\n\n", example[0])[0] 
         abstract = re.split("\n\n", example[0])[2]
 
-
         #remove too short sentences
         # df = pd.DataFrame(raw_sents, columns =['raw'])
         # df['preprocess_raw'] = df['raw'].apply(lambda x: clean_text(x))
@@ -373,7 +372,6 @@ def start_run(processID, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, sub_storie
         #     preprocessed_sentences.append(preprocessed_sent)
  
         raw_sentences, preprocessed_sentences, simWithTitle = sim_with_title_of_paragraph(raw_doc)
-
         if len(raw_sentences) == 0:
             continue
 
@@ -482,7 +480,7 @@ def main():
     MUTATE_RATE = 0.4
     # NUM_PICKED_SENTS = 4
 
-    directory = 'test_data'
+    directory = 'raw_data_with_paragraphs'
     save_path=['hyp1', 'hyp2', 'hyp3', 'hyp4', 'hyp5']
 
     if not os.path.exists('hyp1'):

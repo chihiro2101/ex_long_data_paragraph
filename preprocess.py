@@ -157,6 +157,7 @@ def count_noun(sentences, option = False):
 
 
 def preprocess_raw_sent(raw_sent):
+    raw_sent = raw_sent.lower().replace("name=", "")
     symbols = "!\"#$%&()*+-./:;,\'<=>?@[\]^_`{|}~\n"
     for i in symbols:
         raw_sent = raw_sent.replace(i, '')
