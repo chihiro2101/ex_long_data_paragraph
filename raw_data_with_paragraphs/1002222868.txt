@@ -1,0 +1,106 @@
+Crescent
+
+==Symbolism==
+The crescent symbol is primarily used to represent the Moon, not necessarily in a particular lunar phase.
+When used to represent a waxing or waning lunar phase, "crescent" or "increscent" refers to the waxing first quarter, while the symbol representing the waning final quarter is called "decrescent".
+The crescent symbol was long used as a symbol of the Moon in astrology, and by extension of Silver (as the corresponding metal) in alchemy.<ref>Alchemy and Symbols, By M. E. Glidewell, Epsilon.</ref> The astrological use of the symbol is attested in early Greek papyri containing horoscopes.<ref>Neugebauer, Otto; Van Hoesen, H. B. (1987). Greek Horoscopes. pp. 1, 159, 163.</ref>
+In the 2nd-century Bianchini's planisphere, the personification of the Moon is shown with a crescent attached to her headdress.<ref>
+</ref>
+Its ancient association with Ishtar and Diana is preserved in the Moon (as symbolised by a crescent) representing the femininity (as juxtaposed with the Sun representing the masculinity), and (Artemis-Diana being a virgin goddess) especially virginity and female chastity.
+In Roman Catholic tradition, the crescent entered Marian iconography, by the association of Mary with the Woman of the Apocalypse (described with "the moon under her feet, and on her head a crown of twelve stars" in Revelation)
+The most well known representation of Mary as the Woman of the Apocalypse is the Virgin of Guadalupe.
+==Shape==
+The crescent shape is a type of lune, the latter consisting of a circular disk with a portion of another disk removed from it, so that what remains is a shape enclosed by two circular arcs which intersect at two points. In a crescent, the enclosed shape does not include the center of the original disk.
+The tapered regions towards the points of intersection of the two arcs are known as the "horns" of the crescent. The classical crescent shape has its horns pointing upward (and is often worn as horns when worn as a crown or diadem, e.g. in depictions of the lunar goddess, or in the headdress of Persian kings, etc.<ref>The new Moon at sunset and the old Moon at sunrise, when observed with horns pointing upward, is also known as "wet moon" in English, in an expression loaned from Hawaiian culture.</ref>
+The word crescent is derived etymologically from the present participle of the Latin verb "to grow", technically denoting the waxing moon . As seen from the northern hemisphere, the waxing Moon tends to appear with its horns pointing towards the left, and conversely the waning Moon with its horns pointing towards the right; the English word crescent may however refer to the shape regardless of its orientation, except for the technical language of blazoning used in heraldry, where the word "increscent" refers to a crescent shape with its horns to the left, and "decrescent" refers to one with its horns to the right, while the word "crescent" on its own denotes a crescent shape with horns pointing upward.<ref>Arthur Charles Fox-Davies, A Complete Guide to Heraldry (1909), p.&nbsp;289. Online texts at urltoken or urltoken .</ref>
+The shape of the lit side of a spherical body (most notably the Moon) that appears to be less than half illuminated by the Sun as seen by the viewer appears in a different shape from what is generally termed a crescent in planar geometry: 
+Assuming the terminator lies on a great circle, the crescent Moon will actually appear as the figure bounded by a half-ellipse and a half-circle, with the major axis of the ellipse coinciding with a diameter of the semicircle.
+Unicode encodes a crescent (increscent) at U+263D (☽) and a decrescent at U+263E (☾).
+The Miscellaneous Symbols and Pictographs block provides variants with faces: and .
+==History==
+===Early history===
+The crescent shape is used to represent the Moon, and the Moon deity Nanna/Sin from an early time, visible in Akkadian cylinder seals as early as 2300 BC.
+<div>The Egyptian logograph representing the Moon also had a crescent shape <hiero>N11</hiero> (Gardiner N11, "moon" (with increscent and decrescent variants); variant N12 <hiero>N12</hiero>). In addition, there is a 19th-dynasty hieroglyph representing the "moon with its lower half obscured (N9 <hiero>N9</hiero> , with a variant with a crescent shape N10 <hiero>N10</hiero>).<ref>A.H. Gardiner, Egyptian Grammar: Being an Introduction to the Study of Hieroglyphs. 3rd Ed., pub. Griffith Institute, Oxford, 1957 (1st edition 1927), p. 486.</ref></div>
+The crescent was well used in the iconography of the ancient Near East and was used transplanted by the Phoenicians in the 8th century BC as far as Carthage in modern Tunisia. The crescent and star also appears on pre-Islamic coins of South Arabia.<ref>Tombs and Moon Temple of Hureidah, Gertrude Caton Thompson, p.76</ref>
+The combination of star and crescent also arises in the ancient Near East, representing the Moon and Ishtar (the planet Venus), often combined into a triad with the Shamash.<ref>"the three celestial emblems, the sun disk of Shamash (Utu to the Sumerians), the crescent of Sin (Nanna), and the star of Ishtar (Inanna to the Sumerians)". Irving L. Finkel, Markham J. Geller, Sumerian Gods and Their Representations, Styx, 1997, p71.</ref> It was inherited both in Sassanian and Hellenistic iconography.
+===Classical antiquity===
+In the iconography of the Hellenistic period, the crescent became the symbol of Artemis-Diana, the virgin hunter goddess associated with the Moon. Numerous depictions show Artemis-Diana wearing the crescent Moon as part of her headdress.
+The related symbol of the star and crescent was the emblem of the Mithradates dynasty in the Kingdom of Pontus and was also used as the emblem of Byzantium.
+<gallery mode="packed" heights="180px">
+File:Astarte with horns.jpg|Astarte with horns, statuette from Seleucid-era Mesopotamia
+File:Clipeus Selene Terme.jpg|Bust of Selene on a Roman sarcophagus (3rd century)
+File:Tagh1.jpg|Taq-e Bostan, from the Sassanid Empire of Persia (pre-Islamic era). Note the crescent above the arch.
+</gallery>
+===Middle ages===
+The crescent remained in use as an emblem in Sassanid Persia, used as a Mah regal or astrological symbol. In the Crusades it came to be associated with the Orient (the Byzantine Empire, the Levant and Outremer in general) and was widely used (often alongside a star) in Crusader seals and coins. It was used as a heraldic charge by the later 13th century.
+Anna Notaras, daughter of the last megas doux of the Byzantine Empire Loukas Notaras, after the fall of Constantinople and her emigration to Italy, made a seal with her coat of arms which included "two lions holding above the crescent a cross or a sword".<ref>Tipaldos, G. E., Great Greek Encyclopedia, Vol. XII, page 292, Athens, 1930</ref>
+From its use in Sassanid Persia, the crescent also found its way into Islamic iconography after the Muslim conquest of Persia. Umar is said to have hung two crescent-shaped ornaments captured from the Sassanid capital Ctesiphon in the Kaaba.<ref>Oleg Grabar, "Umayyad Dome," Ars orientalis (1959), p. 50, cited after Berger (2012:164).</ref>
+The crescent appears to have been adopted as an emblem on Islamic flags by the Islamic armies from at least the 13th century, although the scholarly consensus holds that the widespread use of the crescent in Islam develops later, during the 14th to 15th century.<ref>Pamela Berger, The Crescent on the Temple: The Dome of the Rock as Image of the Ancient Jewish Sanctuary (2012), urltoken p. 164f</ref>
+The use of such flags is reflected in the 14th-century Libro del Conoscimiento and the Catalan Atlas.
+Examples include the flags attributed to Gabes, Tlemcen, Tunis and Buda,<ref>Znamierowski Flags through the ages: A guide to the world of flags, banners, standards and ensigns, (2000) section 'the Muslim crescent', cited by Ivan Sache, urltoken FOTW , 11 March 2001</ref> Nubia/Dongola (documented by Angelino Dulcert in 1339) and the Mamluks of Egypt.<ref>"After king Nasr ad din had fled to Cairo in 1397 to beg assistance against his cousin, the King of Nubia is depicted with a yellow flag with a white crescent but also with a yellow shield with a white crescent. At the same time the yellow crescented flag waves over all the Mameluk Empire. The flag of the Sultan of Egypt is yellow with three white crescents. From this we may conclude that any autonomy of the Nubian king was over at the time." Hubert de Vries, urltoken Muslim Nubia (hubert-herald.nl).</ref>
+The Roman Catholic fashion of depicting Madonna standing or sitting on a crescent develops in the 15th century.
+===Early modern and modern===
+The goddess Diana was associated with the Moon in classical mythology. In reference to this, feminine jewelry representing crescents, especially diadems, became popular in the early modern period. The tarot card of the "Popess" also wears a crescent on her head.
+Conrad Grünenberg in his Pilgrimage to the Holy Land (1486) consistently depicts cities in the Holy Land with crescent finials.<ref>so for Jaffa (29r), Raman (31v-32r), Jerusalem (35v-36r). Grünenberg's pilgrimage took place still during the late Mamluk era (Burji dynasty) of control over the Holy Land.</ref>
+Flags with crescents appear to have been used on Ottoman vessels since at least the 16th century.
+Prints depicting the Battle of Lepanto (1571), including the print by Agostino Barberigo of Rome made just a few weeks after the battle,<ref>Agostino Barberigo, L' ultimo Et vero Ritrato Di la vitoria de L'armata Cristiana de la santissima liga Contre a L'armata Turcheschà ., 1571. Antonio Lafreri , L’ordine tenuto dall’armata della santa Lega Christiana contro il Turcho ., n'e seguita la felicissima Vittoria li sette d'Ottobre MDLXXI ., Rome, 1571</ref> and the Martino Rota of Venice in the following year, show the Ottoman vessels displaying flags with one or several crescents in various orientations (as do the monumental paintings commissioned later based on these prints). Rota also shows numerous crescent finials, both on ships and on fortresses depicted in the background, as well as some finials with stars or suns radiant, and in some cases a sun radiant combined with a crescent in the star-and-crescent configuration.
+The official adoption of star and crescent as the Ottoman state symbol started during the reign of Mustafa III (1757–1774) and its use became well-established during Abdul Hamid I (1774–1789) and Selim III (1789–1807) periods. A (decree) from 1793 states that the ships in the Ottoman navy have that flag.<ref name="islamencyclopedia"></ref>
+Muhammad Ali, who became Pasha of Egypt in 1805, introduced the first national flag of Egypt, red with three white crescents, each accompanied by a white star.
+The association of the crescent with the Ottoman Empire appears to have resulted in a gradual association of the crescent shape with Islam in the 20th century. A Red Crescent appears to have been used as a replacement of the Red Cross as early as in the Russo-Turkish War of 1877/8, and it was officially adopted in 1929.
+While some Islamic organisations since the 1970s have embraced the crescent as their logo or emblem (e.g. Crescent International magazine, established 1980), Muslim publications tend to emphasize that the interpretation of the crescent, historically used on the banners of Muslim armies, as a "religious symbol" of Islam was an error made by the "Christians of Europe".<ref>"Like the Crusaders, the Christians of Europe were misled into a belief that the crescent was the religious symbol of Islam" Islamic Review 30 (1942), p. 70., "many Muslim scholars reject using the crescent moon as a symbol of Islam. The faith of Islam historically had no symbol, and many refuse to accept it.", Fiaz Fazli, Crescent magazine, Srinagar, September 2009, urltoken p. 42.</ref> The identification of the crescent as an "Islamic symbol" is mentioned by James Hastings as a "common error" to which "even approved writers on Oriental subjects" are prone as early as 1928.<ref>"There is no more common error than the supposition that the crescent (or rather crescent and star) is an Islamic symbol, and even approved writers on Oriental subjects are apt to fall into it." 
+James Hastings, Encyclopædia of Religion and Ethics, Volumes 11-12 (1928), p. 145.</ref>
+<gallery mode="packed" heights="180px">
+File:Crescents badge of the king Henry II of France.png|Triple crescent badge of Henry II of France (Château d'Écouen)
+File:BadWaldsee Frauenbergkirche Gemälde Madonna.jpg|Madonna on the crescent, Bad Waldsee church (17th century)
+File:Pompeo Batoni - Retrato de Dama como Diana Caçadora.jpg|Portrait of a Lady as Diana by Pompeo Batoni (1760s)
+File:Lepanto f1.jpg|The painting of the 1571 Battle of Lepanto by Tommaso Dolabella (c. 1632) shows a variety of naval flags with crescents attributed to the Ottoman flags.
+File:Three_Mamelukes_with_lances_on_horseback.jpg|Mamluk lancers, early 16th century (etching by Daniel Hopfer)
+File:Laureys_a_Castro_-_A_Sea_Fight_with_Barbary_Corsairs.jpg|A naval battle painting of the Barbary state of Ottoman Algiers titled A Sea Fight with Barbary Corsairs by Laureys a Castro, c. 1681
+</gallery>
+==Heraldry==
+The crescent has been used as a heraldic charge since the 13th century. 
+In heraldic terminology, the term "crescent" when used alone refers to a crescent with the horns pointing upward. A crescent with the horns pointing left (dexter) is called "a crescent increscent" (or simply "an increscent"), and when the horns are pointing right (sinister), it is called "a crescent decrescent" (or "a decrescent"). A crescent with horns pointing down is called "a crescent reversed". Two crescents with horns pointing away from each other are called "addorsed".<ref name="Fox-Davies_209">Arthur Charles Fox-Davies, A complete guide to heraldry (1909), p. 289.</ref>
+Siebmachers Wappenbuch (1605) has 48 coats of arms with one or more crescents, for example:<ref>Sara L. Uckelman, urltoken An Ordinary of Siebmacher's Wappenbuch (ellipsis.cx) (2014)</ref>
+*Azure, a crescent moon argent pierced by an arrow fesswise Or all between in chief three mullets of six points and in base two mullets of six points argent (von Hagen, p.&nbsp;176);
+*Azure, an increscent and a decrescent addorsed Or (von Stoternheim, p.&nbsp;146);
+*Per pale Or and sable, a crescent moon and in chief three mullets of six points counterchanged (von Bodenstein, p.&nbsp;182).
+In English heraldry, the crescent is used as a difference denoting a second son.<ref name="Fox-Davies_209"/>
+<gallery mode="packed" heights="180">
+File:DeringRoll.jpg|Three examples of coats of arms with crescents from the Dering Roll (c. 1270): No. 118: Willem FitzLel (sable semé and three crescents argent); no. 120: John Peche (gules, a crescent or, on a chief argent two mullets gules); no. 128: Rauf de Stopeham (argent, two (of three) crescents and a canton gules).
+File:Wappen Neuamt.png|Coat of arms of the Neuamt bailiwick of Zürich (16th century).<ref>geteilt von Blau mit gestürztem goldenem Halbmond und von Gold mit zwei roten Rosen ("per fess azure a crescent reversed or and of the second two roses gules") Historisch-Biographisches Lexikon der Schweiz, vol. V, p. 243.</ref> Its reversed crescent was taken up in the 20th-century municipal coats of arms of Niederglatt, Neerach and Stadel (canton of Zürich).
+File:Écu Divorde, armorial Toison d'Or Europe, fol. 34, vers 1440.jpg|This coat of arms of the Divorde family (Holland and Brabant), around 1440, shows three crescents.
+File:POL COA Kuczkowski.svg|Inverted crescent on Polish coat of arms.
+</gallery>
+==Contemporary use==
+The crescent remains in use as astrological symbol and astronomical symbol representing the Moon. 
+Use of a standalone crescent in flags is less common than the star and crescent combination. Crescents without stars are found in the flag of South Carolina (1861), the Flag of Pakistan (1947), the flag of the Maldives (1965), the 
+flag of the Organisation of Islamic Cooperation (1981)<ref>In 2011 replaced with a logo showing a crescent engulfing the globe. </ref> and the flag of the Sudan Liberation Movement/Army (c. 2002).
+New Orleans is nicknamed "the Crescent City", and a crescent (or crescent and star) is used to represent the city in official emblems.<ref name="History of the New Orleans Police Department Badge"> The origin is the crescent shape of the old city, hugging the East Bank of the Mississippi River.</ref>
+Crescents, often with faces, are found on numerous modern municipal coats of arms in Europe, e.g.
+Germany: Bönnigheim, Dettighofen, Dogern, Jesenwang, Karstädt, Angelbachtal, Waldbronn; 
+Switzerland: Boswil, Dättlikon, Neerach (from the 16th-century Neuamt coat of arms);
+France: Katzenthal, Mortcerf;
+Malta: Qormi;
+Sweden: Trosa.
+The crescent printed on military ration boxes is the US Department of Defense symbol for subsistence items. The symbol is used on packaged foodstuffs but not on fresh produce or on items intended for resale.<ref>MIL STD 129, FM 55-17</ref>
+Since 1993, the crescent has also been in use as chaplain badge for Muslim chaplains in the US military.<ref name=USchaplains/>
+==Other things called "crescent"==
+Image:Map of fertile crescent.svg|thumb|right|The Fertile Crescent
+The term crescent may also refer to objects with a shape reminiscent of the crescent shape, such as houses forming an arc, Crescent (solitaire), Crescent Nebula, glomerular crescent (crescent shaped scar of the glomeruli of the kidney),<ref name="urliROCKET Learning Module: Glomerular Pathology, Case I">. It is a sign of rapidly progressive glomerulonephritis (also called crescentic glomerulonephritis).
+</ref><ref name="urlRenal Pathology"></ref> the Fertile Crescent (the fertile area of land between Mesopotamia and Egypt roughly forming a crescent shape), and the croissant (the French form of the word) for the crescent-shaped pastry.
+==See also==
+*Lune (mathematics)
+*Star and crescent
+*Astronomical symbols
+*Astrological symbols
+*Lunar phase
+==Notes==
+
+A crescent shape , British English also <ref>
+Middle English of crescent-shaped ornaments, from Old French creissant, from Latin crēscēns "growing; waxing".
+See e.g. urltoken Collins English Dictionary - Complete & Unabridged 2012 Digital Edition (dictionary.com); urltoken oxforddictionaries.com.</ref>) is a symbol or emblem used to represent the lunar phase in the first quarter (the "sickle moon"), or by extension a symbol representing the Moon itself.
+In Hinduism, Lord Shiva is often shown wearing a crescent moon on his head symbolising that the lord is the master of time and is himself timeless.
+It is used as the astrological symbol for the Moon, and hence as the alchemical symbol for silver. It was also the emblem of Diana/Artemis, and hence represented virginity. In Roman Catholic Marian veneration, it is associated with the Virgin Mary.
+From its use as roof finial in Ottoman era mosques, it has also become associated with Islam, and the crescent was introduced as chaplain badge for Muslim chaplains in the US military in 1993.<ref name=USchaplains>On December 14, 1992, the Army Chief of Chaplains requested that an insignia be created for future Muslim chaplains, and the design (a crescent) was completed January 8, 1993. Emerson, William K., Encyclopedia of United States Army Insignia and Uniforms (1996), urltoken p. 269f.
+Prior to its association with Islam, a crescent badge had already been used in the US military for the rank of commissary sergeant (Emerson 1996:261f).
+</ref>

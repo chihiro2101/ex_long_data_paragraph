@@ -1,0 +1,72 @@
+Sambucus
+
+== Description ==
+The oppositely arranged leaf are pinnate with 5–9 leaflets (or, rarely, 3 or 11). Each leaf is long, and the leaflets have serrated margins. They bear large clusters of small white or cream-colored flowers in late spring; these are followed by clusters of small black, blue-black, or red berries (rarely yellow or white).
+=== Color ===
+Elderberries are rich in anthocyanidins<ref name=USDA6> urltoken Colors Derived from Agricultural Products, USDA</ref> that combine to give elderberry juice an intense blue-purple coloration that turns reddish on dilution with water.<ref name=register> urltoken National Organic Program (NOP)-Proposed Amendments to the National List of Allowed and Prohibited Substances (Processing)</ref> These pigments are used as colorants in various products, and "elderberry juice color" is listed by the USFDA as allowable in certified organic food products. In Japan, elderberry juice is listed as an approved "natural color additive" under the Food and Sanitation Law.<ref name="CRC"></ref> Fibers can be dyed with elderberry juice (using alum as a mordant)<ref name="dye"></ref> to give a light "elderberry" color.
+=== Toxicity ===
+Although the cooked berries (pulp and skin) of most species of Sambucus are edible,<ref name=nih/><ref name="jekka">McVicar, Jekka (2007). "Jekka's Complete Herb Book" p. 214–215. Raincoast Books, Vancouver. </ref> the uncooked berries and other parts of plants from this genus are poisonous.<ref name="senica"></ref> Leaves, twigs, branches, seeds, roots, flowers, and berries of Sambucus plants produce cyanogenic glycosides, which have toxic properties.<ref name=senica/> Ingesting a sufficient quantity of cyanogenic glycosides from berry juice, flower tea, or beverages made from fresh leaves, branches, and fruit has been shown to cause illness, including nausea, vomiting, abdominal cramps, diarrhea, and weakness.<ref name=nih/><ref name=senica/><ref name=cdc/> In August 1983, a group of 25 people in Monterey County, California, became suddenly ill by ingesting elderberry juice pressed from fresh, uncooked Sambucus mexicana berries, leaves, and stems.<ref name="cdc"></ref> The density of cyanogenic glycosides is higher in tea made from flowers (or leaves) than from the berries.<ref name=senica/><ref></ref>
+The seeds of Sambucus callicarpa are poisonous and may cause vomiting or diarrhea.<ref name=Knopf></ref>
+==Taxonomy==
+The taxonomy of the genus Sambucus <small>L.</small>, originally described by Carl Linnaeus and hence its botanical authority, has been complicated by its wide geographical distribution and morphological diversity. This has led to overdescription of the species and infraspecific taxa (subspecies, varieties or forms).
+The name comes from the Greek word sambuce, an ancient wind instrument, in reference to the removal of pith from the twigs to make whistles.<ref></ref>
+Species recognized in this genus are:
+* Sambucus adnata – Himalaya and eastern Asia
+* Sambucus australasica – New Guinea, eastern Australia
+* Sambucus australis – South America
+* Sambucus callicarpa – west coast of North America
+* Sambucus canadensis – eastern North America
+* Sambucus cerulea – western North America
+* Sambucus ebulus – central and southern Europe, northwest Africa and southwest Asia
+* Sambucus gaudichaudiana – south eastern Australia
+* Sambucus javanica – southeastern Asia
+* Sambucus lanceolata – Madeira Island
+* Sambucus latipinna – Korea, southeast Siberia
+* Sambucus melanocarpa – western North America
+* Sambucus microbotrys – southwest North America
+* Sambucus nigra – Europe and North America
+* Sambucus orbiculata – western North America
+* Sambucus palmensis – Canary Islands
+* Sambucus peruviana – Costa Rica, Panama and northwest South America
+* Sambucus pubens – northern North America
+* Sambucus racemosa – northern, central and southeastern Europe, northwest Asia, central North America
+* Sambucus sibirica – eastern Asia
+* Sambucus sieboldiana – Japan and Korea
+* Sambucus simpsonii – southeastern United States
+* Sambucus tigranii – southwest Asia
+* Sambucus velutina – southwestern North America
+* Sambucus wightiana – western Himalayas
+* Sambucus williamsii – northeast Asia
+== Distribution and habitat ==
+The genus occurs in temperate to subtropical regions of the world. More widespread in the Northern Hemisphere, its Southern Hemisphere occurrence is restricted to parts of Australasia and South America. Many species are widely cultivated for their ornamental leaves, flowers, and fruit.<ref></ref>
+=== Habitat ===
+Elder commonly grows near farms and homesteads. It is a nitrogen-dependent plant and thus is generally found near places of organic waste disposal. Elders are often grown as a hedgerow plant in Britain since they take very fast, can be bent into shape easily and grow quite profusely, thus having gained the reputation of being 'an instant hedge'. It is not generally affected by soil type or pH level and will virtually grow anywhere sufficient sunlight is available.
+== Ecology ==
+In Northern California, elderberries are a food for migrating band-tailed pigeons. Elders are used as food plants by the larvae of some Lepidoptera species including brown-tail, buff ermine, dot moth, emperor moth, engrailed moth, swallow-tailed moth and the V-pug. The crushed foliage and immature fruit have a strong fetid smell. Valley elderberry longhorn beetles in California are very often found around red or blue elderberry bushes. Females lay their eggs on the bark.<ref></ref> The pith of elder has been used by watchmaking for cleaning tools before intricate work.<ref> urltoken Materials used in construction and repair of watches</ref>
+== Cultivation ==
+Traditional uses of Sambucus involved berries, seeds, leaves, and flowers or component extracts.<ref name="abc"></ref> Ornamental varieties of Sambucus are grown in gardens for their showy flowers, fruits and lacy foliage which support habitat for wildlife.<ref name="stevens"></ref> Of the many native species, three are used as ornamentals, S. nigra, S. canadensis and S. racemosa.
+== Uses ==
+Image:Elderberries.jpeg|upright=1.13|thumb|Dried elderberries ready for steeping
+=== Nutrition ===
+Raw elderberries are 80% water, 18% carbohydrates, and less than 1% each of protein and fat (table). In a 100 gram amount, elderberries supply 73 calories and are a rich source of vitamin C, providing 43% of the Daily Value (DV). Elderberries also have moderate contents of vitamin B6 (18% DV) and iron (12% DV), with no other nutrients in significant content.
+===Dietary supplement===
+Elderberry fruit or flowers are used as dietary supplements to prevent or provide relief from minor diseases, such as flu, colds, constipation, and other conditions, often served as a tea, extract, or in a capsule.<ref name="nih"></ref> There is insufficient research to establish its effectiveness for such uses, or its safety profile.<ref name=nih/>
+=== Traditional medicine ===
+Although practitioners of traditional medicine have used elderberry over century,<ref name=stevens/> there is no evidence-based medicine that such practices provide any benefit.<ref name=nih/>
+===Other===
+The flowers of Sambucus nigra are used to produce elderflower cordial. St-Germain, a French liqueur, is made from elderflowers. Hallands Fläder, a Swedish akvavit, is flavoured with elderflowers.
+Hollowed elderberry twigs have traditionally been used as spiles to tap maple trees for syrup.<ref>Medve, Richard J. et al. Edible Wild Plants of Pennsylvania and Neighboring States Penn State Press, 1990, , p.161</ref>
+The fruit of S. callicarpa is eaten by birds and mammals. It is inedible to humans when raw but can be made into wine.<ref name=Knopf/>
+Elderberry twigs and fruit are employed in creating dyes for basketry. These stems are dyed a very deep black by soaking them in a wash made from the berry stems of the elderberry.<ref name="stevens" />
+== In popular culture ==
+Folklore related to elder trees is extensive and can vary according to region.<ref></ref> In some traditions, the elder tree is thought to ward off evil and give protection from witches, while other beliefs say that witches often congregate under the plant, especially when it is full of fruit.<ref></ref> If an elder tree was cut down, a spirit known as the Elder Mother would be released and take her revenge. The tree could only safely be cut while chanting a rhyme to the Elder Mother.<ref name=":0">Howard, Michael. Traditional Folk Remedies (Century, 1987); pp. 134–5</ref>
+Made from the branch of an elder tree, the Elder Wand plays a pivotal role in the final book of the Harry Potter series, which was nearly named Harry Potter and the Elder Wand before author J. K. Rowling decided on Harry Potter and the Deathly Hallows.<ref></ref><ref></ref>
+Elton John's 1973 album Don't Shoot Me I'm Only the Piano Player features a song titled "Elderberry Wine".
+==Gallery==
+<gallery>
+Image:Sambucus canadensis3.jpg|Sambucus canadensis showing the complex branching of the inflorescence
+Image:Sambucus canadensis W2 IMG 3144.jpg|Sambucus canadensis showing the inflorescence
+Image:Holunderkultur.JPG|Elderberry cultivation in Austria
+</gallery>
+
+Sambucus is a genus of flowering plants in the family Adoxaceae. The various species are commonly called elder or elderberry. The genus was formerly placed in the honeysuckle family, Caprifoliaceae, but was reclassified as Adoxaceae due to genetic and morphological comparisons to plants in the genus Adoxa.

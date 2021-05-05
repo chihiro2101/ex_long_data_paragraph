@@ -1,0 +1,76 @@
+Simulated reality
+
+==Arguments==
+===Simulation argument===
+A version of the simulation hypothesis was first theorised as a part of a philosophical argument on the part of René Descartes, and later by Hans Moravec.<ref name="frc.ri.cmu.edu">Moravec, Hans, urltoken Simulation, Consciousness, Existence</ref><ref>Moravec, Hans, Platt, Charles urltoken Superhumanism</ref><ref>Moravec, Hans urltoken Pigs in Cyberspace</ref> The philosopher Nick Bostrom developed an expanded argument examining the probability of our reality being a simulation.<ref name="bostrom2003"></ref> His argument states that at least one of the following statements is very likely to be true:
+# Human civilization or a comparable civilization is unlikely to reach a level of transhumanism capable of producing simulated realities or such simulations are physically impossible to construct.<ref name="bostrom2003"/>
+# A comparable civilization reaching aforementioned technological status will likely not produce a significant number of simulated realities (one that might push the probable existence of digital entities beyond the probable number of "real" entities in a Universe) for any of a number of reasons, such as diversion of computational processing power for other tasks, ethical considerations of holding entities captive in simulated realities, etc.<ref name="bostrom2003"/>
+# Any entities with our general set of experiences are almost certainly living in a simulation.<ref name="bostrom2003"/>
+# We are living in a reality in which posthumans have not developed yet and we are actually living in reality.<ref name="bostrom2003"/>
+# We will have no way of knowing that we live in a simulation because we will never reach the technological capacity to realize the marks of a simulated reality.<ref></ref>
+Bostrom's argument rests on the premise that given sufficiently advanced technology, it is possible to represent the populated surface of the Earth without recourse to digital physics; that the qualia experienced by a simulated consciousness are comparable or equivalent to those of a naturally occurring human consciousness, and that one or more levels of simulation within simulations would be feasible given only a modest expenditure of computational resources in the real world.<ref name="bostrom2003"/>
+If one assumes first that humans will not be destroyed nor destroy themselves before developing such a technology, and that human descendants will have no overriding legal restrictions or moral compunctions against simulating biospheres or their own historical biosphere, then, Bostrom argues, it would be unreasonable to count ourselves among the small minority of genuine organisms who, sooner or later, will be vastly outnumbered by artificial simulations.<ref name="bostrom2003"/>
+Epistemology, it is not impossible to tell whether we are living in a simulation. For example, Bostrom suggests that a window could pop up saying: "You are living in a simulation. Click here for more information." However, imperfections in a simulated environment might be difficult for the native inhabitants to identify and for purposes of authenticity, even the simulated memory of a blatant revelation might be purged programmatically. Nonetheless, should any evidence come to light, either for or against the skeptical hypothesis, it would radically alter the aforementioned probability.<ref name="bostrom2003"/>
+===Computationalism===
+Computationalism is a philosophy of mind theory stating that cognition is a form of computation. It is relevant to the simulation hypothesis in that it illustrates how a simulation could contain conscious subjects, as required by a "virtual people" simulation. For example, it is well known that physical systems can be simulated to some degree of accuracy. If computationalism is correct and if there is no problem in generating artificial consciousness or cognition, it would establish the theoretical possibility of a simulated reality. Nevertheless, the relationship between cognition and phenomenal qualia of consciousness is disputed. It is possible that consciousness requires a vitalism that a computer cannot provide and that simulated people, while behaving appropriately, would be philosophical zombies. This would undermine Nick Bostrom's simulation argument; we cannot be a simulated consciousness, if consciousness, as we know it, cannot be simulated. The skeptical hypothesis remains intact, however, and we could still be brain in a vats, existing as conscious beings within a simulated environment, even if consciousness cannot be simulated. It has been suggested that whereas virtual reality would enable a participant to experience only three senses (sight, sound and optionally smell), simulated reality would enable all five (including taste and touch).
+Some theorists<ref> urltoken Bruno Marchal</ref><ref> urltoken Russel Standish</ref> have argued that if the "consciousness-is-computation" version of computationalism and mathematical realism (or radical mathematical Platonism)<ref></ref> are true then consciousnesses is computation, which in principle is platform independent and thus admits of simulation. This argument states that a "Platonic realm" or ultimate ensemble would contain every algorithm, including those that implement consciousness. Hans Moravec has explored the simulation hypothesis and has argued for a kind of mathematical Platonism according to which every object (including, for example, a stone) can be regarded as implementing every possible computation.<ref name="frc.ri.cmu.edu"/>
+===Dreaming===
+A dream could be considered a type of simulation capable of fooling someone who is asleep. As a result, the "dream hypothesis" cannot be ruled out, although it has been argued that common sense and considerations of simplicity rule against it.<ref>"There is no logical impossibility in the supposition that the whole of life is a dream, in which we ourselves create all the objects that come before us. But although this is not logically impossible, there is no reason whatever to suppose that it is true; and it is, in fact, a less simple hypothesis, viewed as a means of accounting for the facts of our own life, than the common-sense hypothesis that there really are objects independent of us, whose action on us causes our sensations." Bertrand Russell, The Problems of Philosophy</ref> One of the first philosophers to question the distinction between reality and dreams was Zhuangzi, a China philosopher from the 4th century BC. He phrased the problem as the well-known "Butterfly Dream," which went as follows:
+<blockquote>Once Zhuangzi dreamt he was a butterfly, a butterfly flitting and fluttering around, happy with himself and doing as he pleased. He didn't know he was Zhuangzi. Suddenly he woke up and there he was, solid and unmistakable Zhuangzi. But he didn't know if he was Zhuangzi who had dreamt he was a butterfly or a butterfly dreaming he was Zhuangzi. Between Zhuangzi and a butterfly there must be some distinction! This is called the Transformation of Things. (2, tr. Burton Watson 1968:49)</blockquote>
+The philosophical underpinnings of this argument are also brought up by Descartes, who was one of the first Western philosophers to do so. In Meditations on First Philosophy, he states ". there are no certain indications by which we may clearly distinguish wakefulness from sleep",<ref name="Des">René Descartes, Meditations on the First Philosophy, from Descartes, The Philosophical Works of Descartes, trans. Elizabeth S. Haldane and G.R.T. Ross (Cambridge: Cambridge University Press, 1911 – reprinted with corrections 1931), Volume I, 145-46.</ref> and goes on to conclude that "It is possible that I am dreaming right now and that all of my perceptions are false".<ref name="Des"/>
+Chalmers (2003) discusses the dream hypothesis and notes that this comes in two distinct forms:
+* that he is currently dreaming, in which case many of his beliefs about the world are incorrect;
+* that he has always been dreaming, in which case the objects he perceives actually exist, albeit in his imagination.<ref>Chalmers, J., urltoken The Matrix as Metaphysics, Department of Philosophy, University of Arizona</ref>
+Both the dream argument and the simulation hypothesis can be regarded as skeptical hypothesis; however in raising these doubts, just as Descartes noted that his own thinking led him to be convinced of his own existence, the existence of the argument itself is testament to the possibility of its own truth. Another state of mind in which some argue an individual's perceptions have no physical basis in the real world is called psychosis though psychosis may have a physical basis in the real world and explanations vary.
+The dream hypothesis is also used to develop other philosophical concepts, such as Valberg's personal horizon: what this world would be internal to if this were all a dream.<ref></ref>
+===Existence of simulated reality unprovable in any concrete sense===
+Known as the idea of Nested Simulations: the existence of simulated reality is seen to be unprovable in any concrete sense as there is an infinite regress problem with the argument: any evidence that is directly observed could be another simulation itself.
+Even if we are a simulated reality, there is no way to be sure the beings running the simulation are not themselves a simulation and the operators of that simulation are not a simulation.<ref></ref>
+" involves a simulation or an entity in the simulation, creating another instance of the same simulation, running it and using its results" (Pooch and Sullivan 2000).<ref></ref>
+In August 2019, philosopher Preston Greene suggested that it may be best not to find out if we're living in a computer simulation since, if it were found to be true, such knowing may end the simulation.<ref name="NYT-20190810"></ref>
+(Greene's suggestion is similar to Douglas Adams' humorous idea presented in his novel "The Hitchhiker's Guide to the Galaxy": that if anyone in the Universe should actually work out 'The Meaning of Life, the Universe and Everything ', it would instantly disappear and be immediately replaced with something 'even more complex and inexplicable'.)
+==Philosophical and religious implications==
+Some philosophers and authors (Nick Bostrom's “Are You Living In a Computer Simulation?”, Jean Baudrillard's “Simulacra and Simulation”, Iurii Vovchenko's “Answers in Simulation”<ref name="Answers in Simulation"> urltoken Answers In Simulation</ref>) tried to address the implications of the simulated reality on mankind's way of life and future. Simulated reality has significant implications to the philosophical questions such as the questions of existence of gods, meaning of life, etc. There are attempts to link religion to the simulated reality.<ref name="Simulation Religion"> urltoken Simulation Religion</ref>
+==In fiction==
+Simulated reality in fiction has been explored by many authors, game designers and film directors.
+==See also==
+* Artificial life
+* Artificial society
+* Augmented reality
+* Boltzmann brain
+* Computational sociology
+* Consensus reality
+* Demiurge
+* Digital philosophy
+* Digital physics
+* Hyperreality
+* Margolus–Levitin theorem
+* Maya (religion)
+* Metaverse
+* Mind uploading
+* OpenWorm, project to simulate the roundworm Caenorhabditis elegans.
+* Philosophy of information
+* Simulation hypothesis
+* Social simulation
+* Theory of knowledge
+* Omega point (Tipler)
+* Virtual reality simulator
+* Virtual worlds
+===Major contributing thinkers===
+* Nick Bostrom and his simulation argument
+* René Descartes (1596–1650) and his Evil Demon, sometimes also called his 'Evil Genius'<ref name=MatrixChalmers> urltoken p.22</ref>
+* George Berkeley (1685–1753) and his "immaterialism" (later referred to as subjective idealism by others)
+* Plato (424/423 BC – 348/347 BC) and his Allegory of the Cave
+* Zhuangzi (around the 4th century BCE) and his Chinese Butterfly Dream
+==References==
+==Bibliography==
+* 
+* 
+* 
+* 
+* 
+* 
+== External links ==
+* urltoken
+
+Simulated reality is the hypothesis that reality could be simulated—for example by quantum computer simulation—to a degree indistinguishable from "true" reality. It could contain conscious minds that may or may not know that they live inside a simulation. This is quite different from the current, technologically achievable concept of virtual reality. Virtual reality is easily distinguished from the experience of actuality; participants are never in doubt about the nature of what they experience. Simulated reality, by contrast, would be hard or impossible to separate from "true" reality. There has been much debate over this topic, ranging from philosophical discourse to practical applications in computing.

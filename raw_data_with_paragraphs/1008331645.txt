@@ -1,0 +1,70 @@
+Business jet
+
+== History ==
+===Early developments===
+The first small jet-powered civil aircraft was the Morane-Saulnier MS.760 Paris, developed privately in the early 1950s from the MS.755 Fleuret two-seat jet trainer. First flown in 1954, the MS.760 Paris differs from subsequent business jets in having only four seats arranged in two rows without a center aisle, similar to a light aircraft, under a large sliding canopy similar to that of a fighter. A U.S. type certificate was awarded in July 1958, but commercial sales were limited, with most examples going to the military; an improved civil version similar to a modern very light jet, with a 6-seat enclosed cabin and a conventional door, never proceeded past the prototype stage.<ref name=GA_2010></ref> The commercial failure of the MS.760 Paris prompted the cancellation of projects by Cessna and Douglas Aircraft to market similar jets.<ref name=Flying1987/>
+The development of center-aisle cabin business jets was accelerated by an August 1956 United States Air Force (USAF) letter of requirement for two "off-the-shelf" aircraft: the larger UCX (cargo) and smaller UTX (trainer). These requirements differed from standard Air Force procurement contracts in that there would be no formal competitions, and manufacturers were expected to develop the aircraft without government funds; despite this, a substantial USAF purchase would offset the large investment necessary to develop prototypes. The Lockheed Corporation and McDonnell Aircraft both began development of UCX aircraft, while North American Aviation pursued the UTX requirement.<ref name=Flying1987></ref><ref></ref>
+=== 1950s first flight ===
+The Morane-Saulnier MS.760 Paris had a gross weight of , initially powered by two Turboméca Marboré turbojets of thrust, although most aircraft were later upgraded to units. The aircraft seated a single pilot and up to three passengers under a sliding canopy, and was first flown on 29 July 1954. 219 were built.
+The Lockheed JetStar, designed to meet USAF UCX requirements and seating ten passengers and two crew, first flew on 4 September 1957. A total of 204 aircraft were produced from 1957 to 1978 powered by several different engines; four Pratt & Whitney JT12 turbojets, then Garrett TFE731 turbofans for a MTOW, then two General Electric CF700 turbofans.
+The smaller, MTOW North American Sabreliner, tailored to the USAF UTX requirement, first flew on 16 September 1958. Powered by two Pratt & Whitney JT12 turbojet engines then Garrett TFE731s, more than 800 were produced from 1959 to 1982.
+Designed in 1957 for the UCX requirement, the McDonnell 119 was delayed by the cancellation of the Fairchild J83 engine program, and first flew on 11 February 1959 powered by four Westinghouse J34 turbojets. The 119 was certified for a MTOW with four Pratt & Whitney JT12 or General Electric CF700 engines, but no firm orders were received, and only the single prototype was completed.<ref name=Francillon1990></ref>
+=== 1960s first flight ===
+The MTOW British Aerospace 125 first flew on 13 August 1962 as the de Havilland DH.125, powered by two Armstrong Siddeley Viper turbojets. Its engines were replaced by Garrett TFE731s, then Pratt & Whitney Canada PW300 turbofans. Almost 1,700 aircraft of all variants, including the Hawker 800, were produced between 1962 and 2013.
+The Aero Commander 1121 Jet Commander, which later became the IAI Westwind, first flew on 27 January 1963, powered by two General Electric CJ610 turbojets, then Garrett TFE731s. Production of Jet Commanders and Westwinds from 1965 to 1987 came to 442 aircraft; and it was developed as the IAI Astra, later re-branded as the Gulfstream G100.
+The MTOW Dassault Falcon 20 first flew on 4 May 1963, powered by two General Electric CF700s, then Garrett ATF3 turbofans and Garrett TFE731s. A total of 508 were built from 1963 to 1988, and it is the basis of the Dassault Falcon family.
+The first light jet first flew on 7 October 1963 : the Learjet 23. Powered by two General Electric CJ610s, its MTOW complies with FAR Part 23 regulations. The first member of the Learjet family, 104 were built between 1962 and 1966.
+The forward wing sweep, MTOW Hamburger Flugzeugbau HFB 320 Hansa Jet first flew on 21 April 1964, powered by two General Electric CJ610s; 47 were built between 1965 and 1973.
+The joint Piaggo-Douglas, MTOW Piaggio PD.808 first flew on 29 August 1964, powered by two Armstrong Siddeley Vipers, 24 were built for the Italian Air Force.
+On 2 October 1966 the first large business jet first flew, the MTOW Grumman Gulfstream II, powered by two Rolls-Royce Spey turbofans. From 1967 to the late 70s, 258 were built and it led to the ongoing Gulfstream Aerospace long range family.
+The MTOW Cessna Citation I first flew on 15 September 1969, powered by two Pratt & Whitney Canada JT15D turbofans. Produced between 1969 and 1985 for a total of 689 examples, it is the first of the Cessna Citation family.
+=== 1970s first flight ===
+The trijet Dassault Falcon 50 made its first flight on 7 November 1976. The MTOW airplane is powered by three TFE731 engines. With the cross-section of the Falcon 20, it is the basis of the larger Falcon 900.
+On 8 November 1978, the prototype Canadair Challenger took off. The MTOW craft, usually powered by two General Electric CF34s, formed the basis of the long range Bombardier Global Express family and of the Bombardier CRJ regional airliners. The 1000th Challenger entered service in 2015.
+On 30 May 1979 the clean-sheet MTOW Cessna Citation III took off for the first time, powered by two TFE731s.
+The Mitsubishi MU-300 Diamond made its first flight on 29 August 1978. The MTOW jet was powered by two JT15D. The design was later sold and was renamed Beechjet 400 then Hawker 400, with a total of 950 produced of all variants.
+=== 1980s first flight ===
+The 1980s only saw the introduction of derivatives and no major new designs. Also there was an advent of fractional ownership in the late 1980s for business jets.<ref></ref>
+=== 1990s first flight ===
+The first flight of the clean-sheet Learjet 45 was on 7 October 1995. All of the 642 aircraft built since then have been powered by two TFE731 engines.
+Powered by two Williams FJ44s, the Beechcraft Premier I light jet made its first flight on 22 December 1998. Nearly 300 had been made before production stopped in 2013.
+=== 2000s first flight ===
+In the opposite way compared to Bombardier, which developed airliners from a business jet, Embraer derived the Legacy 600 from the Embraer ERJ family of regional jet airliners. Powered by two Rolls-Royce AE 3007s, the first flight of the aircraft was on 31 March 2001.
+On 14 August 2001, the Bombardier Challenger 300 made its first flight. The aircraft is powered by two HTF7000s. The 500th example was delivered in 2015.
+The first very light jet, the MTOW Eclipse 500, took off for the first time on 26 August 2002, powered by two Pratt & Whitney Canada PW600s. Between then and the end of production in 2008, 260 were produced.
+It was followed by the MTOW Cessna Citation Mustang on 23 April 2005, powered by two Pratt & Whitney Canada PW600s and with more than 450 produced.
+Then the Embraer Phenom 100 made its maiden flight on 26 July 2007. The MTOW airplane is powered by two Pratt & Whitney Canada PW600s. With its Phenom 300 development, nearly 600 have been built.
+=== 2010s first flight ===
+The first flight of the midsize, fly-by-wire, Honeywell HTF7000-powered Embraer Legacy 500 was on 27 November 2012. It was followed by the shorter Legacy 450 on 28 December 2013.
+=== New models ===
+After peaking in 2008, deliveries slowed due to political instability but the industry hopes to revive demand by introducing more attractive and competitive new models, four in 2018:<ref name=AvWeek22dec2017></ref>
+* the range Bombardier Global 7500 large-cabin jet, before the Global 8000 in 2019;
+* the large-cabin Gulfstream G500, replacing the Gulfstream G450, then the longer, G600 eventually superseding the G550;
+* the Cessna Citation Longitude super midsize jet;
+* the superlight Pilatus PC-24.
+In October 2018, consultant Jetcraft expected 20 variants or new designs to enter service before 2023 (seven large, seven midsize and six small):
+in 2019 the Global 5500/6500, Gulfstream G600, Citation XLS++ and a CitationJet CJ4+/, while the Embraer Legacy 500 to be introduced in 2019 were predicted for 2021/2022;
+in 2020 a Gulfstream G750;
+in 2021 the Dassault Falcon 6X, Learjet 70XR/75XR and Global 7500XR;
+in 2022 the Bombardier Challenger 350;
+in 2023 the Citation Hemisphere, an Embraer Legacy 700, Phenom 100V+, Dassault Falcon 9X, Bombardier Challenger 750 and Gulfstream G400NG;
+in 2025 a Citation Mustang 2+.<ref name=AvWeek15oct2018></ref>
+== Configuration ==
+Though the early Lockheed Jetstar had four, most production business jets have two jet engines, mostly rear-mounted podded engine. If mounted below their low wing, it wouldn't allow sufficient engine clearance without a too long landing gear. The HondaJet is the exception with its over the wing engine pods. Dassault Aviation still builds three-engine models derived from the Dassault Falcon 50, and the very light jet market has seen several single-engine design concepts and the introduction of the Cirrus Vision SF50 in 2016.
+Rolls-Royce plc powers over 3,000 business jets, 42% of the fleet:<ref></ref> all the Gulfstreams and Bombardier Globals, the Cessna Citation X and Embraer Legacy 600, early Hawkers, and many small jets with the Williams-Rolls FJ44.<ref></ref>
+== Market ==
+===Fleet===
+About 70% of the fleet was in North America at the end of 2011, the European market is the next largest, with growing activity in the Middle East, Asia, and Central America.<ref name=cji></ref>
+On 1 April 2017, there were 22,368 business jets in the worldwide fleet, of which 11.2% were for sale.<ref></ref>
+By October 2018, the entire private jet fleet was dominated by Textron with 43.9%, then Bombardier with 22.4%, Gulfstream with 13.0%, Dassault with 9.6% and Embraer with 5.8%, mostly in North America (64.6%), followed by Europe (13.0%) South America (12.1%) and Asia-Pacific (5.9%).<ref></ref>
+As on March 31,2019 there are 22,125 business jets in the worldwide fleet and top 20 country markets account for 89% of this total fleet.<ref></ref>
+===Market shares===
+In 2015 the total airplane billing amounted to US$21.9 billion, and 718 business jets were delivered to customers across the globe: 199 %) by Bombardier Aerospace, 166 %) by Cessna, 154 %) by Gulfstream Aerospace, 120 %) by Embraer and 55 %) by Dassault Aviation.<ref name=GAMA/>
+In 2017, 676 business jets were shipped, led by Gulfstream with $6.56 billion for 120 aircraft, Bombardier with $5.2 billion for 140, Cessna with $2.87 billion (including propeller aircraft and jets), Dassault with $2.42 billion for 49 and Embraer with $1.35 billion for 109.<ref></ref>
+==See also==
+* Very light jet
+* Air transports of heads of state and government
+* Supersonic business jet
+== Notes ==
+
+A business jet, private jet, or bizjet is a jet aircraft designed for transporting small groups of people. Business jets may be adapted for other roles, such as the evacuation of casualties or express parcel deliveries, and some are used by public bodies, government officials or the armed forces.

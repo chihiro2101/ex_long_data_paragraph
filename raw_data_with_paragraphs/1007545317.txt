@@ -1,0 +1,183 @@
+Semionotiformes
+
+==Classification==
+* Order †Semionotiformes <small>Arambourg & Bertin 1958 sensu López-Arbarello 2012</small><ref name="mikko"></ref><ref name="Nelson"></ref><ref name="van der Laan"></ref><ref name="López-Arbarello"></ref>
+** Genus ?†Orthurus <small>Kner 1866</small>
+** Genus †Sangiorgioichthys <small>Tintori & Lombardo 2007</small>
+** Genus †Luoxiongichthys <small>Wen et al. 2011</small>
+** Genus †Aphanepygus <small>Bassani 1879</small>
+** Genus †Placidichthys <small>Brito 2000</small>
+** Family †Pleurolepididae <small>Lütken 1871</small>
+*** Genus †Pleurolepis <small>Agassiz 1863 non Quenstedt 1852</small>
+** Family †Macrosemiidae <small>Wagner 1860a corrig. Cope 1889 sensu Murray & Wilson 2009</small> Macrosemii <small>Wagner 1860a</small>
+*** Genus †Eusemius <small>Vetter 1881</small>
+*** Genus †Blenniomoeus <small>Costa 1850</small> Calignathus <small>Costa 1853</small>
+*** Genus †Enchelyolepis <small>Woodward 1918</small>
+*** Genus †Palaeomacrosemius <small>Ebert, Lane & Kolbl-Ebert 2016</small>
+*** Genus †Voelklichthys <small>Arratia & Schultze 2012</small>
+*** Genus †Notagogus <small>Agassiz 1833-1844</small> Neonotagogus <small>Bravi 1994</small>
+*** Genus †Agoultichthys <small>Murray & Wilson 2009</small>
+*** Genus †Histionotus <small>Egerton 1854</small>
+*** Genus †Propterus <small>Agassiz 1833-1844</small> Rhynchoncodes <small>Costa 1850</small>
+*** Genus †Macrosemiocotzus <small>González-Rodríguez, Applegate & Espinosa-Arrubarrena 2004</small>
+*** Genus †Legnonotus <small>Egerton 1853</small>
+*** Genus †Macrosemius <small>Agassiz 1833-1844</small>
+** Family †Semionotidae <small>Woodward 1890 sensu López-Arbarello 2012</small>
+*** Genus †Semionotus <small>Agassiz 1832</small>
+*** Genus †Sargodon <small>Plieninger 1847</small>
+*** Genus †Lepidotes <small>Agassiz, 1832</small>
+*** Genus †Scheenstia<small>López-Arbarello & Sferco, 2011</small>
+** Family †Callipurbeckiidae <small>López-Arbarello 2012</small> Paralepidotidae <small>Hadding 1919 ex Lund 1920</small>
+*** Genus †Occitanichthys <small>López-Arbarello & Wencker 2016</small>
+*** Genus †Semiolepis <small>Lombardo & Tintori 2008</small>
+*** Genus †Paralepidotus <small>Stolley 1919</small>
+*** Genus †Macrosemimimus <small>Schröder, López-Arbarello & Ebert 2012</small>
+*** Genus †Tlayuamichin <small>López-Arbarello & Alvarado-Ortega 2011</small>
+*** Genus †Callipurbeckia <small>López-Arbarello 2012</small>
+==Timeline of genera==
+Image:HadrodusCretaceousIsrael.jpg|thumb|left|Hadrodus priscus tooth, Menuha Formation (Upper Cretaceous), southern Israel
+<timeline>
+ImageSize = width:1500px height:auto barincrement:15px
+PlotArea = left:10px bottom:50px top:10px right:10px
+Period = from:-299 till:15
+TimeAxis = orientation:horizontal
+ScaleMajor = unit:year increment:25 start:-299
+ScaleMinor = unit:year increment:5 start:-299
+TimeAxis = orientation:hor
+AlignBars = justify
+Colors =
+ #legends
+ id:CAR value:claret
+ id:ANK  value:rgb(0.4,0.3,0.196)
+ id:HER value:teal
+ id:HAD value:green
+ id:OMN value:blue
+ id:black value:black
+ id:white value:white
+ id:paleozoic value:rgb(0.6,0.75,0.55)
+ id:cambrian value:rgb(0.49,0.63,0.33)
+ id:ordovician value:rgb(0,0.57,0.44)
+ id:silurian value:rgb(0.70,0.88,0.71)
+ id:devonian value:rgb(0.8,0.55,0.22)
+ id:carboniferous value:rgb(0.4,0.65,0.6)
+ id:permian value:rgb(0.94,0.25,0.24)
+ id:mesozoic value:rgb(0.38,0.77,0.79)
+ id:triassic value:rgb(0.51,0.17,0.57) 
+ id:jurassic value:rgb(0.2,0.7,0.79) 
+ id:cretaceous value:rgb(0.5,0.78,0.31)
+ id:cenozoic value:rgb(0.95,0.98,0.11)
+ id:paleogene value:rgb(0.99,0.6,0.32)
+ id:neogene value:rgb(0.999999,0.9,0.1)
+ id:quaternary value:rgb(0.98,0.98,0.50)
+ 
+BarData=
+ bar:eratop
+ bar:space
+ bar:periodtop
+ bar:space
+ bar:NAM1
+ bar:NAM2
+ bar:NAM3
+ bar:NAM4
+ bar:NAM5
+ bar:NAM6
+ bar:NAM7
+ bar:NAM8
+ bar:NAM9
+ bar:NAM10
+ bar:NAM11
+ bar:NAM12
+ bar:NAM13
+ bar:NAM14
+ bar:NAM15
+ bar:NAM16
+ bar:NAM17
+ bar:NAM18
+ bar:NAM19
+ bar:NAM20
+ bar:NAM21
+ bar:NAM22
+ bar:NAM23
+ bar:NAM24
+ bar:NAM25
+ bar:NAM26
+ bar:NAM27
+ bar:NAM28
+ bar:NAM29
+ bar:NAM30
+ bar:NAM31
+ bar:NAM32
+ bar:NAM33
+ bar:space
+ bar:period
+ bar:space
+ bar:era
+PlotData=
+ align:center textcolor:black fontsize:M mark:(line,black) width:25 
+ shift:(7,-4)
+ 
+ bar:periodtop
+ from: -299 till: -251 color:permian text:Permian
+ from: -251 till: -199.6 color:triassic text:Triassic
+ from: -199.6 till: -145.5 color:jurassic text:Jurassic
+ from: -145.5 till: -65.5 color:cretaceous text:Cretaceous
+ from: -65.5 till: -23.03 color:paleogene text:Paleogene
+ from: -23.03 till: -2.588 color:neogene text:Neog.
+ from: -2.588 till: 0 color:quaternary text:Q.
+ bar:eratop
+ from: -299 till: -251 color:paleozoic text:Paleozoic Era
+ from: -251 till: -65.5 color:mesozoic text:Mesozoic Era
+ from: -65.5 till: 0 color:cenozoic text:Cenozoic
+PlotData=
+ align:left fontsize:M mark:(line,white) width:5 anchor:till align:left
+ color:permian bar:NAM1 from:-260 till:-253.8 text:Acentrophorus
+ color:permian bar:NAM2 from:-260 till:-199.8 text:Paralepidotus
+ color:triassic bar:NAM3 from:-251 till:-245 text:Archaeolepidotus
+ color:triassic bar:NAM4 from:-251 till:-245 text:Pericentrophus
+ color:triassic bar:NAM5 from:-249.7 till:-237 text:Eosemionotus
+ color:triassic bar:NAM6 from:-245 till:-175.6 text:Semionotus
+ color:triassic bar:NAM7 from:-245 till:-228 text:Alleiolepis
+ color:triassic bar:NAM8 from:-245 till:-228 text:Allelepidotus
+ color:triassic bar:NAM9 from:-245 till:-228 text:Asialepidotus
+ color:triassic bar:NAM10 from:-245 till:-228 text:Enigmatichthys
+ color:triassic bar:NAM11 from:-245 till:-228 text:Sinosemionotus
+ color:triassic bar:NAM12 from:-245 till:-199.6 text:Serrolepis
+ color:triassic bar:NAM13 from:-228.7 till:-216.5 text:Aphelolepis
+ color:triassic bar:NAM14 from:-228.7 till:-216.5 text:Orthurus
+ color:triassic bar:NAM15 from:-228.7 till:-65.5 text:Lepidotus
+ color:triassic bar:NAM16 from:-228.7 till:-203.6 text:Plesiolepidotus
+ color:triassic bar:NAM17 from:-228 till:-199.6 text:Corunegenys
+ color:triassic bar:NAM18 from:-228 till:-199.6 text:Hemicalypterus
+ color:triassic bar:NAM19 from:-228 till:-199.6 text:Pristiosomus
+ color:triassic bar:NAM20 from:-216.5 till:-203.6 text:Dandya
+ color:triassic bar:NAM21 from:-216.5 till:-199.6 text:Sargodon
+ color:triassic bar:NAM22 from:-216.5 till:-171.6 text:Dapedium
+ color:triassic bar:NAM23 from:-203.6 till:-199.6 text:Prolepidotus
+ color:jurassic bar:NAM24 from:-199.6 till:-145.5 text:Prionopleurus
+ color:jurassic bar:NAM25 from:-183 till:-175.6 text:Austrolepidotus
+ color:jurassic bar:NAM26 from:-183 till:-145.5 text:Tetragonolepis
+ color:jurassic bar:NAM27 from:-164.7 till:-149.03 text:Heterostrophus
+ color:jurassic bar:NAM28 from:-155.7 till:-150.8 text:Callopteus
+ color:jurassic bar:NAM29 from:-155.7 till:-150.8 text:Oligopleurus
+ color:cretaceous bar:NAM30 from:-112 till:-70.6 text:Paralepidosteus
+ color:cretaceous bar:NAM31 from:-99.6 till:-93.5 text:Oshunia
+ color:cretaceous bar:NAM32 from:-99.6 till:-93.5 text:Sphathiurus
+PlotData=
+ align:center textcolor:black fontsize:M mark:(line,black) width:25 
+ 
+ bar:period
+ from: -299 till: -251 color:permian text:Permian
+ from: -251 till: -199.6 color:triassic text:Triassic
+ from: -199.6 till: -145.5 color:jurassic text:Jurassic
+ from: -145.5 till: -65.5 color:cretaceous text:Cretaceous
+ from: -65.5 till: -23.03 color:paleogene text:Paleogene
+ from: -23.03 till: -2.588 color:neogene text:Neog.
+ from: -2.588 till: 0 color:quaternary text:Q.
+ bar:era
+ from: -299 till: -251 color:paleozoic text:Paleozoic Era
+ from: -251 till: -65.5 color:mesozoic text:Mesozoic Era
+ from: -65.5 till: 0 color:cenozoic text:Cenozoic
+</timeline>
+==References==
+
+Semionotiformes is an order of primitive, ray-finned, primarily freshwater fish from the Triassic to the Cretaceous. The best-known genus is Semionotus of Europe and North America.<ref></ref>

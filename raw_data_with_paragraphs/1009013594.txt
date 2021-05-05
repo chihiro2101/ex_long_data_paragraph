@@ -1,0 +1,80 @@
+Transducer
+
+==Types==
+Transducers that convert physical quantities into mechanical quantities are known as mechanical transducers;
+transducers that convert physical quantities into electrical quantities are known as electrical transducers. Examples are a thermocouple that changes temperature differences into a small voltage, or a linear variable differential transformer (LVDT) used to measure displacement.
+==Sensors and actuators==
+Transducers can be categorized by which direction information passes through them:
+*A sensor is a transducer that receives and responds to a signal or stimulus from a physical system.<ref>Fraden J. (2016). Handbook of Modern Sensors: Physics, Designs, and Applications 5th ed. Springer. p.1</ref><ref>Kalantar-zadeh, K. (2013). Sensors: An Introductory Course 2013th Edition. Springer. p.1</ref><ref name="Audio1"/> It produces a signal, which represents information about the system, which is used by some type of telemetry, information or control system. 
+*An actuator is a device that is responsible for moving or controlling a mechanism or system. It is controlled by a signal from a control system or manual control. It is operated by a source of energy, which can be mechanical force, electrical current, hydraulic fluid pressure, or pneumatic pressure, and converts that energy into motion. An actuator is the mechanism by which a control system acts upon an environment. The control system can be simple (a fixed mechanical or electronic system), software-based (e.g. a printer driver, robot control system), a human, or any other input.<ref name="Audio1"/>
+*Bidirectional transducers convert physical phenomena to electrical signals and also convert electrical signals into physical phenomena. An example of an inherently bidirectional transducer is an antenna, which can convert radio waves (electromagnetic waves) into an electrical signal to be processed by a radio receiver, or translate an electrical signal from a transmitter into radio waves. Another example is voice coils, which are used in loudspeakers to translate an electrical audio signal into sound and in dynamic microphones to translate sound waves into an audio signal.<ref name="Audio1"/>
+===Active vs passive sensors===
+*passive sensors require an external power source to operate, which is called an excitation signal. The signal is modulated by the sensor to produce an output signal. For example, a thermistor does not generate any electrical signal, but by passing an electric current through it, its resistance can be measured by detecting variations in the current or voltage across the thermistor.<ref name="Fraden">Fraden J. (2016). Handbook of Modern Sensors: Physics, Designs, and Applications 5th ed. Springer. p.7</ref><ref name="Audio1"/>
+*active sensors, in contrast, generate an electric current in response to an external stimulus which serves as the output signal without the need of an additional energy source. Such examples are a photodiode, and a piezoelectric sensor, thermocouple.<ref>Fraden J. (2016). Handbook of Modern Sensors: Physics, Designs, and Applications 5th ed. Springer. p.7</ref>
+==Characteristics==
+Some specifications that are used to rate transducers
+*Dynamic range: This is the ratio between the largest amplitude signal and the smallest amplitude signal the transducer can effectively translate.<ref name="Audio1"/> Transducers with larger dynamic range are more "sensitive" and precise.
+*Repeatability: This is the ability of the transducer to produce an identical output when stimulated by the same input. 
+*Noise: All transducers add some random noise to their output. In electrical transducers this may be electrical noise due to thermal motion of charges in circuits. Noise corrupts small signals more than large ones.
+*Hysteresis: This is a property in which the output of the transducer depends not only on its current input but its past input. For example, an actuator which uses a gear train may have some backlash, which means that if the direction of motion of the actuator reverses, there will be a dead zone before the output of the actuator reverses, caused by play between the gear teeth.
+==Applications==
+*Electromagnetic:
+**Antennae – converts propagating electromagnetic waves to and from conducted electrical signals
+**magnetic cartridges – converts relative physical motion to and from electrical signals
+**Tape head, disk read-and-write heads – converts magnetic fields on a magnetic medium to and from electrical signals
+**Hall effect sensors – converts a magnetic field level into an electrical signal
+**Pickup (music technology) – movement of metal strings induces an electrical signal (AC voltage)
+*Electrochemical:
+**pH meter
+**Electro-galvanic oxygen sensors
+**Hydrogen sensors
+*Electromechanical (electromechanical output devices are generically called actuators):
+**Accelerometers
+**mass flow sensor
+**Electroactive polymers
+**Rotary motors, linear motors
+**Galvanometer
+**Linear variable differential transformers or Rotary variable differential transformer
+**Load cells – converts force to mV/V electrical signal using strain gauge
+**Microelectromechanical systems
+**Potentiometers (when used for measuring position)
+**Pressure sensors
+**String potentiometers
+**Tactile sensors
+**Vibration powered generators
+**Vibrating structure gyroscopes
+*Electroacoustic:
+**Loudspeakers, earphones – converts electrical signals into sound (amplifier signal → magnetic field → motion → air pressure)
+**Microphones – converts sound into an electrical signal (air pressure → motion of conductor/coil → magnetic field → electrical signal)<ref name="Audio1"/>
+**Tactile transducers – converts electrical signal into vibration ( electrical signal → vibration)
+**Piezoelectricity – converts deformations of solid-state crystals (vibrations) to and from electrical signals
+**Geophones – converts a ground movement (displacement) into voltage (vibrations → motion of conductor/coil → magnetic field → signal)
+**Phonograph – (air pressure → motion → magnetic field → electrical signal)
+**Hydrophones – converts changes in water pressure into an electrical signal
+**Sonar#Transponder (water pressure → motion of conductor/coil → magnetic field → electrical signal)
+**Ultrasonic transceivers, transmitting ultrasound (transduced from electricity) as well as receiving it after sound reflection from target objects, availing for imaging of those objects
+*Electro-optical (Photoelectric):
+**Fluorescent lamps – converts electrical power into incoherent light
+**Incandescent lamps – converts electrical power into incoherent light
+**Light-emitting diodes – converts electrical power into incoherent light
+**Laser diodes – converts electrical power into coherent light
+**Photodiodes, photoresistors, phototransistors, photomultipliers – converts changing light levels into electrical signals
+**Photodetector or photoresistor or light dependent resistor (LDR) – converts changes in light levels into changes in electrical resistance
+**Cathode ray tube (CRT) – converts electrical signals into visual signals
+*Electrostatic:
+**Electrometers
+*Thermoelectric:
+**Resistance temperature detectors (RTD) – converts temperature into an electrical resistance signal
+**Thermocouples – converts relative temperatures of metallic junctions to electrical voltage
+**Thermistors (includes PTC resistor and NTC resistor)
+*Radioacoustic:
+**Geiger–Müller tube – converts incident ionizing radiation to an electrical impulse signal
+**Radio receivers converts electromagnetic transmissions to electrical signals.
+**Radio transmitters converts electrical signals to electromagnetic transmissions.
+==See also==
+* Horn analyzer
+* List of sensors
+* Tactile sensor
+
+A transducer is a device that converts energy from one form to another. Usually a transducer converts a signal in one form of energy to a signal in another.<ref>Agarwal, Anant. Foundations of Analog and Digital Electronic Circuits.Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, 2005, p. 43</ref>
+Transducers are often employed at the boundaries of automation, measurement, and control systems, where electrical signals are converted to and from other physical quantities (energy, force, torque, light, motion, position, etc.). The process of converting one form of energy to another is known as transduction.<ref name="Audio1"></ref>

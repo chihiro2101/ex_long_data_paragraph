@@ -1,0 +1,40 @@
+Nicholas Negroponte
+
+==Early life==
+Negroponte was born to Dimitrios Negrepontis , a Greek shipping magnate and alpine skier, and grew up in New York City's Upper East Side. 
+He has three brothers. His elder one, John Negroponte, is the former United States Deputy Secretary of State. Michael Negroponte is an Emmy Award-winning filmmaker. George Negroponte is an artist and was President of the Drawing Center from 2002 to 2007.
+He attended Buckley School in New York, Fay School in Massachusetts, Le Rosey in Switzerland, and The Choate School (now Choate Rosemary Hall) in Wallingford, Connecticut, from which he graduated in 1961. Subsequently, he studied at MIT as both an undergraduate and graduate student in Architecture where his research focused on issues of computer-aided design. He earned a master's degree in architecture from MIT in 1966. Despite his accomplished academic career, Negroponte has spoken publicly about his dyslexia and his difficulty in reading.<ref></ref>
+==Career==
+===MIT===
+Negroponte joined the faculty of MIT in 1966. For several years thereafter he divided his teaching time between MIT and several visiting professorships at Yale, Michigan and the University of California, Berkeley.
+In 1967, Negroponte founded MIT's Architecture Machine Group, a combination lab and think tank which studied new approaches to human-computer interaction.<ref></ref> In 1985, Negroponte created the MIT Media Lab with Jerome B. Wiesner.<ref></ref> As director, he developed the lab into a pre-eminent laboratory for new media and a high-tech playground for investigating the human-computer interface. Negroponte also became a proponent of intelligent agents and personalized Online newspaper,<ref></ref> for which he popularized the term the Daily Me.
+===Wired===
+In 1992, Negroponte became involved in the creation of Wired Magazine as the first investor. From 1993 to 1998, he contributed a monthly column to the magazine in which he reiterated a basic theme: "Move bits, not atoms."
+Negroponte expanded many of the ideas from his Wired columns into a bestselling book Being Digital (1995),<ref></ref> which made famous his forecasts on how the interactive world, the entertainment world and the information world would eventually merge. Being Digital was a bestseller and was translated into some forty languages. Negroponte is a digital optimist who believed that computers would make life better for everyone.<ref>Hirst, Martin and Harrison, John (2007) Communication and New Media, Oxford University Press, p. 20</ref> However, critics such as Cass Sunstein<ref>Sunstein, C.R. (2001) Republic.com Princeton University Press</ref> have criticised his techno-utopian ideas for failing to consider the historical, political and cultural realities with which new technologies should be viewed.
+In the 1980s Negroponte predicted that wired technologies such as telephones would become unwired by using airwaves instead of wires or fiber optics, and that unwired technologies such as televisions would become wired—a prediction commonly referred to as the Negroponte switch.<ref>Speaking at a Northern Telecom meeting in the mid-80s with George Gilder. Negroponte called it "trading places" Gilder called it "The Negroponte Switch". From Being Digital, 1995, Negroponte, N. p 24.</ref>
+==Later career==
+In 2000, Negroponte stepped down as director of the Media Lab as Walter Bender took over as Executive Director. However, Negroponte retained the role of laboratory chairman. When Frank Moss was appointed director of the lab in 2006, Negroponte stepped down as lab chairman to focus more fully on his work with One Laptop Per Child (OLPC) although he retains his appointment as professor at MIT (Professor Post-Tenure of Media Arts and Sciences).<ref> urltoken Person Overview ‹ Nicholas Negroponte – MIT Media Lab, at media.mit.edu (mit.edu)</ref>
+Image:Kaye negroponte.jpg|thumb|right|Mary Lou Jepsen, Alan Kay and Nicholas Negroponte unveil the $100 laptop in November 2005.
+In November 2005, at the World Summit on the Information Society held in Tunis, Negroponte unveiled the concept of a $100 laptop computer, The Children's Machine, designed for students in the developing world.<ref></ref> The price has increased to US$180, however. The project is part of a broader program by One Laptop Per Child, a nonprofit organization started by Negroponte and other Media Lab faculty to extend Internet access in developing countries.
+Negroponte is an active angel investor and has invested in over 30 startup companies over the last 30 years, including Zagats, Wired, Ambient Devices, Skype and Velti. He has sat on several boards, including Motorola (listed on the New York Stock Exchange) and Velti (listed on the NASDAQ and formerly on the London Stock Exchange<ref></ref> ). He is also on the advisory board of TTI/Vanguard. In August 2007, he was appointed to a five-member special committee with the objective of assuring the continued journalistic and editorial integrity and independence of the Wall Street Journal and other Dow Jones & Company publications and services. The committee was formed as part of the merger of Dow Jones with News Corporation.<ref>Wall Street Journal, August 1, 2007. "Text of Dow Jones Editorial Agreement". urltoken Online edition. Retrieved October 21, 2007.</ref> Negroponte's fellow founding committee members are Louis Boccardi, Thomas Bray, Jack Fuller, and the late former Congresswoman Jennifer Dunn.
+Negroponte has influenced modern day futurists such as David Houle.
+==Epstein controversy==
+According to reporting from the MIT Technology Review, in response to the controversy of the MIT Media Lab accepting funding from Jeffrey Epstein five years after Epstein's conviction for sex trafficking minors, Negroponte told MIT staff, "If you wind back the clock, I would still say, 'Take it.'"<ref>MIT Technology Review, September 4, 2019. "MIT Media Lab founder: Taking Jeffrey Epstein’s money was justified". urltoken Online edition. Retrieved September 7, 2019.</ref>
+Negroponte was reported to have said that in the fund-raising world these types of occurrences were not out of the ordinary, and they shouldn’t be reason enough to cut off business relationships. His comments supporting the donation from a convicted child sex offender reportedly left some of his listeners "stunned" and reduced one person present to tears.<ref></ref>
+==References==
+==External links==
+* 
+* (November 2009)
+* 
+** urltoken C-SPAN Q&A interview with Negroponte, November 25, 2007
+* 
+* 
+* 
+* 
+* urltoken Nicholas Negroponte Keynote at NetEvents, Hong Kong inc. first production olpc laptop December 2006
+* urltoken Nicholas Negroponte Q&A at NetEvents, Hong Kong December 2006
+* urltoken Nicholas Negroponte about books and OLPC on NECN
+* urltoken Microsoft and Intel help deliver a $100 Windows 8.1 tablet
+* urltoken Nicholas Negroponte Keynote at NetEvents, Hong Kong inc. first production olpc laptop December 2006
+
+Nicholas Negroponte (born December 1, 1943) is a Greek American architect. He is the founder and chairman Emeritus of Massachusetts Institute of Technology's Media Lab, and also founded the One Laptop per Child Association (OLPC). Negroponte is the author of the 1995 bestseller Being Digital translated into more than forty languages.<ref></ref>

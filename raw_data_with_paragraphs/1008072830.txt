@@ -1,0 +1,143 @@
+Dirac Medal
+
+== The Dirac Medal and Lecture (University of New South Wales) ==
+The first-established prize is the Dirac Medal for the Advancement of Theoretical Physics, awarded by the University of New South Wales, Sydney, Australia, jointly with the Australian Institute of Physics on the occasion of the public Dirac Lecture.<ref name=2015UNSW/> The Lecture and the Medal commemorate the visit to the university in 1975 of Professor Dirac, who gave five lectures there. The lectures were subsequently published as a book Directions of Physics (Wiley, 1978 – H. Hora and J. Shepanski, eds.). Professor Dirac donated the royalties from this book to the University for the establishment of the Dirac Lecture series. The prize includes a silver medal and honorarium. It was first awarded in 1979.
+=== Recipients ===
+* 1979 Hannes Alfven
+* 1981 John Clive Ward
+* 1983 Nicolaas Bloembergen
+* 1985 David Pines
+* 1987 Robert Hofstadter
+* 1988 Klaus von Klitzing
+* 1989 Carlo Rubbia & Kenneth G. Wilson
+* 1990 Norman F. Ramsey
+* 1991 Herbert A. Hauptman
+* 1992 Wolfgang Paul
+* 1996 Edwin Salpeter
+* 1998 David Deutsch
+* 2002 Heinrich Hora
+* 2003 
+* 2004 Iosif Khriplovich
+* 2006 Sir Roger Penrose
+* 2008 Harald Fritzsch
+* 2010 E. C. George Sudarshan
+* 2011 Lord May of Oxford
+* 2012 Brian Schmidt
+* 2013 Sir Michael Pepper
+* 2014 Serge Haroche<ref name=2014UNSW></ref>
+* 2015 Subir Sachdev<ref name=2015UNSW></ref>
+* 2016 Kenneth Freeman
+* 2017 Boris Altshuler
+* 2019 Lene Hau
+* 2020 Susan Scott
+== Dirac Medal of the ICTP ==
+The Dirac Medal of the ICTP is given each year by the Abdus Salam International Centre for Theoretical Physics (ICTP) in honour of physicist Paul Dirac. The award, announced each year on 8 August (Dirac's birthday), was first awarded in 1985.<ref name="PT1987"></ref>
+An international committee of distinguished scientists selects the winners from a list of nominated candidates. The Committee invites nominations from scientists working in the fields of theoretical physics or mathematics.
+The Dirac Medal of the ICTP is not awarded to Nobel Prize, Fields Medalists, or Wolf Prize winners.<ref name="PT1987"/>
+However, several Dirac Medallists have subsequently won one of these awards.<ref name="PTWittenFields"></ref><ref name="PTNambuWolf"></ref><ref name="PTNambuNobel"></ref><ref name="PTSinaiWolf"></ref>
+The medallists receive a prize of US$5,000.
+=== Recipients ===
+* 1985 Edward Witten, Yakov Zel'dovich<ref name="PT1987"/>
+* 1986 Alexander Polyakov, Yoichiro Nambu<ref name="PT1987"/>
+* 1987 Bruno Zumino, Bryce DeWitt
+* 1988 David J. Gross, Efim S. Fradkin
+* 1989 John H. Schwarz, Michael Green
+* 1990 Ludwig Faddeev, Sidney R. Coleman
+* 1991 Jeffrey Goldstone, Stanley Mandelstam<ref name="PT1993-03"></ref>
+* 1992 Nikolai Bogoliubov, Yakov G. Sinai<ref name="PT1993-03"/>
+* 1993 Daniel Z. Freedman, Peter van Nieuwenhuizen, Sergio Ferrara
+* 1994 Frank Wilczek
+* 1995 Michael Berry
+* 1996 Martinus J.G. Veltman, Tullio Regge
+* 1997 David Olive, Peter Goddard
+* 1998 Roman Jackiw, Stephen L. Adler
+* 1999 Giorgio Parisi
+* 2000 Helen Quinn, Howard Georgi, Jogesh Pati
+* 2001 John Hopfield
+* 2002 Alan Guth, Andrei Linde, Paul Steinhardt
+* 2003 Robert Kraichnan, Vladimir E. Zakharov
+* 2004 Curtis Callan, James Bjorken
+* 2005 Patrick A. Lee, Sir Samuel Frederick Edwards
+* 2006 Peter Zoller
+* 2007 john Iliopoulos, Luciano Maiani
+* 2008 Joe Polchinski, Juan Maldacena, Cumrun Vafa
+* 2009 Roberto Car, Michele Parrinello
+* 2010 Nicola Cabibbo, George Sudarshan
+* 2011 Édouard Brézin, John Cardy, Alexander Zamolodchikov
+* 2012 Duncan Haldane, Charles Kane, Shoucheng Zhang
+* 2013 Tom W. B. Kibble, Jim Peebles, Martin John Rees<ref name="auto"></ref>
+* 2014 Ashoke Sen, Andrew Strominger, Gabriele Veneziano<ref name="auto"/>
+* 2015 Alexei Kitaev, Greg Moore, Nicholas Read<ref name="auto"/>
+* 2016 Nathan Seiberg, Mikhail Shifman, Arkady Vainshtein
+* 2017 Charles H. Bennett, David Deutsch, Peter W. Shor<ref></ref>
+* 2018 Subir Sachdev, Dam Thanh Son, Xiao-Gang Wen<ref></ref>
+* 2019 Viatcheslav Mukhanov, Alexei Starobinsky, Rashid Sunyaev<ref></ref>
+* 2020 André Neveu, Pierre Ramond, Miguel Virasoro<ref> urltoken "ICTP - Dirac Medallists 2020"</ref> 
+== Dirac Medal of the IOP==
+The Dirac Medal is a gold medal awarded annually by the Institute of Physics (Britain's and Ireland's main professional body for physicists) for "outstanding contributions to theoretical (including mathematical and computational) physics".<ref></ref> The award, which includes a £1000 prize, was decided upon by the Institute of Physics in 1985, and first granted in 1987.
+=== Recipients ===
+* 1987 Stephen Hawking
+* 1988 John Stewart Bell
+* 1989 Roger Penrose
+* 1990 Michael Berry
+* 1991 Rudolf Peierls
+* 1992 Anthony Leggett
+* 1993 David Thouless
+* 1994 Volker Heine
+* 1995 Daniel Walls
+* 1996 John Pendry
+* 1997 Peter Higgs
+* 1998 David Deutsch
+* 1999 Ian Percival
+* 2000 John Cardy
+* 2001 Brian Ridley
+* 2002 <ref></ref>
+* 2003 Christopher Hull
+* 2004 Michael Green
+* 2005 John Ellis (CERN) <br/> For his highly influential work on particle physics phenomenology; in particular on the properties of gluons, the Higgs boson and the top quark.<ref></ref>
+* 2006 (University College London)<br/>For his contributions to the development of atomic-scale computer simulations, which have greatly extended their power and effectiveness across an immense range of applications.<ref></ref>
+* 2007 David Sherrington (University of Oxford) <br/> For his pioneering work in spin glasses.
+* 2008 Bryan Webber (University of Cambridge) <br/> For his pioneering work in understanding and applying quantum chromodynamics (QCD), the theory of the strong interaction which is one of the three fundamental forces of Nature.
+* 2009 Michael Cates (University of Edinburgh) <br/> For pioneering work in the theoretical physics of soft materials, particularly in relation to their flow behaviour.
+* 2010 James Binney (University of Oxford) <br/> For his contribution to our understanding of how galaxies are constituted, how they work and how they were formed.
+* 2011 Christopher Isham (Imperial College London) <br/> For his major contributions to the search for a consistent quantum theory of gravity and to the foundations of quantum mechanics.
+* 2012 Graham Garland Ross<ref></ref> (University of Oxford) <br/> For his theoretical work in developing both the Standard Model of fundamental particles and forces and theories beyond the Standard Model that have led to many new insights into the origins and nature of the universe.
+* 2013 (University of Strathclyde) <br/> For his wide ranging contributions throughout optics research, which both inspire and lead experimental endeavours.
+* 2014 Tim Palmer<ref></ref> (University of Oxford) <br/> For the development of probabilistic weather and climate prediction systems.
+* 2015 John Barrow (University of Cambridge) <br/> For his combination of mathematical and physical reasoning to increase our understanding of the evolution of the universe, and his use of cosmology to increase our understanding of fundamental physics.
+* 2016 Sandu Popescu (University of Bristol)<ref></ref> <br/> For his fundamental and influential research into nonlocality and his contribution to the foundations of quantum physics.
+* 2017 Michael Duff<ref></ref> (Imperial College London and Oxford University) <br/> For sustained groundbreaking contributions to theoretical physics including the discovery of Weyl anomalies, for having pioneered Kaluza-Klein supergravity, and for recognising that superstrings in 10 dimensions are merely a special case of membranes in an 11-dimensional M-theory.
+* 2018 , University of Oxford for "his pioneering, deep, and distinctive contributions to condensed-matter theory, particularly in the quantum Hall effect, and to geometrically frustrated magnets."
+* 2019 Richard Keith Ellis, University of Durham for "his seminal work in quantum chromodynamics (QCD) where he performed many of the key calculations that led to the acceptance of QCD as the correct theory of the strong interaction."
+* 2020 Carlos Frenk, University of Durham for "outstanding contributions to establishing the current standard model for the formation of all cosmic structure, and for leading computational cosmology within the UK for more than three decades."<ref></ref>
+== Dirac Medal of the WATOC ==
+The Dirac Medal is awarded annually by The World Association of Theoretical and Computational Chemists "for the outstanding computational chemist in the world under the age of 40". The award was first granted in 1998.
+=== Recipients ===
+Source: urltoken WATOC
+* 1998 Timothy J. Lee
+* 1999 Peter M. W. Gill
+* 2000 Jiali Gao
+* 2001 Martin Kaupp
+* 2002 Jerzy Cioslowski
+* 2003 Peter Schreiner
+* 2004 Jan Martin
+* 2005 Ursula Röthlisberger 
+* 2006 Lucas Visscher
+* 2007 Anna Krylov
+* 2008 Kenneth Ruud
+* 2009 Jeremy Harvey
+* 2010 Daniel Crawford
+* 2011 Leticia González 
+* 2012 Paul Ayers
+* 2013 Filipp Furche 
+* 2014 Denis Jacquemin 
+* 2015 Edward Valeev
+* 2016 Johannes Neugebauer
+* 2017 Francesco Evangelista
+* 2018 Erin Johnson
+* 2019 Satoshi Maeda
+==See also==
+* List of physics awards
+* List of awards named after people
+
+The Dirac Medal is the name of four awards in the field of theoretical physics, computational chemistry, and mathematics, awarded by different organizations, named in honour of Professor Paul Dirac, one of the great theoretical physicists of the 20th century.

@@ -1,0 +1,62 @@
+Immutable object
+
+== Concepts ==
+=== Immutable variables ===
+In imperative programming, values held in program variables whose content never changes are known as constants to differentiate them from variables that could be altered during execution. Examples include conversion factors from meters to feet, or the value of pi to several decimal places.
+Read-only fields may be calculated when the program runs (unlike constants, which are known beforehand), but never change after they are initialized.
+=== Weak vs strong immutability ===
+Sometimes, one talks of certain fields of an object being immutable. This means that there is no way to change those parts of the object state, even though other parts of the object may be changeable (weakly immutable). If all fields are immutable, then the object is immutable. If the whole object cannot be extended by another class, the object is called strongly immutable.<ref></ref> This might, for example, help to explicitly enforce certain invariants about certain data in the object staying the same through the lifetime of the object. In some languages, this is done with a keyword (e.g. <code>const</code> in C++, <code>final</code> in Java) that designates the field as immutable. Some languages reverse it: in OCaml, fields of an object or record are by default immutable, and must be explicitly marked with <code>mutable</code> to be so.
+=== References to objects ===
+In most object-oriented languages, objects can be referred to using references. Some examples of such languages are Java, C++, C#, VB.NET, and many scripting languages, such as Perl, Python, and Ruby. In this case, it matters whether the state of an object can vary when objects are shared via references.
+=== Referencing vs copying objects ===
+If an object is known to be immutable, it is preferred to create a reference of it instead of copying the entire object. This is done to conserve memory by preventing data duplication and avoid calls to constructors and destructors; it also results in a potential boost in execution speed.
+The reference copying technique is much more difficult to use for mutable objects, because if any user of a mutable object reference changes it, all other users of that reference see the change. If this is not the intended effect, it can be difficult to notify the other users to have them respond correctly. In these situations, defensive copying of the entire object rather than the reference is usually an easy but costly solution. The observer pattern is an alternative technique for handling changes to mutable objects.
+=== Copy-on-write ===
+A technique that blends the advantages of mutable and immutable objects, and is supported directly in almost all modern hardware, is copy-on-write (COW). Using this technique, when a user asks the system to copy an object, it instead merely creates a new reference that still points to the same object. As soon as a user attempts to modify the object through a particular reference, the system makes a real copy, applies the modification to that, and sets the reference to refer to the new copy. The other users are unaffected, because they still refer to the original object. Therefore, under COW, all users appear to have a mutable version of their objects, although in the case that users do not modify their objects, the space-saving and speed advantages of immutable objects are preserved. Copy-on-write is popular in virtual memory systems because it allows them to save memory space while still correctly handling anything an application program might do.
+=== Interning ===
+The practice of always using references in place of copies of equal objects is known as interning. If interning is used, two objects are considered equal if and only if their references, typically represented as pointers or integers, are equal. Some languages do this automatically: for example, Python automatically String intern pool. If the algorithm that implements interning is guaranteed to do so in every case that it is possible, then comparing objects for equality is reduced to comparing their pointers – a substantial gain in speed in most applications. (Even if the algorithm is not guaranteed to be comprehensive, there still exists the possibility of a fast path case improvement when the objects are equal and use the same reference.) Interning is generally only useful for immutable objects.
+=== Thread safety ===
+Immutable objects can be useful in multi-threaded applications. Multiple threads can act on data represented by immutable objects without concern of the data being changed by other threads. Immutable objects are therefore considered more thread-safe than mutable objects.
+=== Violating immutability ===
+Immutability does not imply that the object as stored in the computer's memory is unwriteable. Rather, immutability is a compile-time construct that indicates what a programmer can do through the normal interface of the object, not necessarily what they can absolutely do (for instance, by circumventing the type system or violating const correctness in C or C++).
+== Language-specific details ==
+In Python, Java and the .NET Framework, strings are immutable objects. Both Java and the .NET Framework have mutable versions of string. In Java these are <code>StringBuffer</code> and <code>StringBuilder</code> (mutable versions of Java and in .NET this is <code> urltoken StringBuilder</code> (mutable version of .Net <code> urltoken String</code>). Python 3 has a mutable string (bytes) variant, named <code>bytearray</code>.<ref></ref>
+Additionally, all of the primitive wrapper classes in Java are immutable.
+Similar patterns are the Immutable interface and Immutable Wrapper.
+In pure functional programming languages it is not possible to create mutable objects without extending the language (e.g. via a mutable references library or a foreign function interface), so all objects are immutable.
+=== Ada ===
+In Ada, any object is declared either variable (i.e. mutable; typically the implicit default), or <code>constant</code> (i.e. immutable) via the <code>constant</code> keyword.
+<syntaxhighlight lang="ada">
+ type Some_type is new Integer; -- could be anything more complicated
+ x: constant Some_type:= 1; -- immutable
+ y: Some_type; -- mutable
+</syntaxhighlight>
+Subprogram parameters are immutable in the in mode, and mutable in the in out and out modes.
+<syntaxhighlight lang="ada">
+ procedure Do_it(a: in Integer; b: in out Integer; c: out Integer) is
+ begin
+ -- a is immutable
+ b:= b + a;
+ c:= a;
+ end Do_it;
+</syntaxhighlight>
+=== C# ===
+In C# you can enforce immutability of the fields of a class with the <code>readonly</code> statement. 
+By enforcing all the fields as immutable, you obtain an immutable type.
+<syntaxhighlight lang="CSharp">
+class AnImmutableType
+</syntaxhighlight>
+=== Scala ===
+In Scala, any entity (narrowly, a binding) can be defined as mutable or immutable: in the declaration, one can use <code>val</code> (value) for immutable entities and <code>var</code> (variable) for mutable ones. Note that even though an immutable binding can not be reassigned, it may still refer to a mutable object and it is still possible to call mutating methods on that object: the binding is immutable, but the underlying object may be mutable.
+For example, the following code snippet:
+<syntaxhighlight lang="scala">
+val maxValue = 100
+var currentValue = 1
+</syntaxhighlight>
+defines an immutable entity <code>maxValue</code> (the integer type is inferred at compile-time) and a mutable entity named <code>currentValue</code>.
+By default, collection classes such as <code>List</code> and <code>Map</code> are immutable, so update-methods return a new instance rather than mutating an existing one. While this may sound inefficient, the implementation of these classes and their guarantees of immutability mean that the new instance can re-use existing nodes, which, especially in the case of creating copies, is very efficient.<ref></ref>
+
+In object-oriented and functional programming, an immutable object (unchangeable<ref></ref> object) is an object whose state cannot be modified after it is created.<ref name=Goetz>Goetz et al. Java Concurrency in Practice. Addison Wesley Professional, 2006, Section 3.4. Immutability</ref> This is in contrast to a mutable object (changeable object), which can be modified after it is created. <ref></ref> In some cases, an object is considered immutable even if some internally used attributes change, but the object's state appears unchanging from an external point of view. For example, an object that uses <!--
+YES, THIS IS SPELLED CORRECTLY. IT'S *NOT* "memo*r*ization". READ THE LINKED ARTICLE.
+-->memoization to cache the results of expensive computations could still be considered an immutable object.
+Strings and other concrete objects are typically expressed as immutable objects to improve readability and runtime efficiency in object-oriented programming. Immutable objects are also useful because they are inherently thread-safe.<ref name=Goetz /> Other benefits are that they are simpler to understand and reason about and offer higher security than mutable objects.<ref name=Goetz />

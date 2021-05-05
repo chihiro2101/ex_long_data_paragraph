@@ -1,0 +1,101 @@
+Relevance logic
+
+==History==
+Relevance logic was proposed in 1928 by Russian Soviet philosopher Ivan E. Orlov (1886 – circa 1936) in his strictly mathematical paper "The Logic of Compatibility of Propositions" published in Matematicheskii Sbornik.
+The basic idea of relevant implication appears in medieval logic, and some pioneering work was done by Ackermann,<ref>
+</ref>
+Moh,<ref>
+Moh Shaw-Kwei, 1950, "," Methodos 2 56–75.
+</ref>
+and Church<ref> in Kontroliertes Denken: Untersuchungen zum Logikkalkül und zur Logik der Einzelwissenschaften, Kommissions-Verlag Karl Alber, edited by A. Menne, A. Wilhelmy and H. Angsil, pp. 22–37.
+</ref>
+in the 1950s. Drawing on them, Nuel Belnap and Alan Ross Anderson (with others) wrote the magnum opus of the subject, Entailment: The Logic of Relevance and Necessity in the 1970s (the second volume being published in the nineties). They focused on both systems of entailment and systems of relevance, where implications of the former kinds are supposed to be both relevant and necessary.
+==Axioms==
+The early developments in relevance logic focused on the stronger systems. The development of the Routley–Meyer semantics brought out a range of weaker logics. The weakest of these logics is the relevance logic B. It is axiomatized with the following axioms and rules.
+# <math>A\to A</math>
+# <math>A\land B\to A</math>
+# <math>A\land B\to B</math>
+# <math>(A\to B)\land(A\to C)\to (A\to B\land C)</math>
+# <math>A\to A\lor B</math>
+# <math>B\to A\lor B</math>
+# <math>(A\to C)\land(B\to C)\to (A\lor B\to C)</math>
+# <math>A\land(B\lor C)\to (A\land B)\lor(A\land C)</math>
+# <math>\lnot\lnot A\to A</math>
+The rules are the following.
+# <math>A, A\to B\vdash B</math>
+# <math>A, B\vdash A\land B</math>
+# <math>A\to B\vdash (C\to A)\to(C\to B)</math>
+# <math>A\to B\vdash (B\to C)\to(A\to C)</math>
+# <math>A\to B\vdash \lnot B\to\lnot A</math>
+Stronger logics can be obtained by adding any of the following axioms.
+# <math>(A\to B)\to (\lnot B\to\lnot A)</math>
+# <math>(A\to B)\land(B\to C)\to (A\to C)</math>
+# <math>(A\to B)\to((B\to C)\to(A\to C))</math>
+# <math>(A\to B)\to((C\to A)\to(C\to B))</math>
+# <math>(A\to(A\to B))\to(A\to B)</math>
+# <math>(A\land (A\to B))\to B</math>
+# <math>(A\to\lnot A)\to\lnot A</math>
+# <math>(A\to (B\to C))\to(B\to(A\to C))</math>
+# <math>A\to((A\to B)\to B)</math>
+# <math>((A\to A)\to B)\to B</math>
+# <math>A\lor\lnot A</math>
+# <math>A\to(A\to A)</math>
+There are some notable logics stronger than B that can be obtained by adding axioms to B as follows.
+* For DW, add axiom 1.
+* For DJ, add axioms 1, 2.
+* For TW, add axioms 1, 2, 3, 4.
+* For RW, add axioms 1, 2, 3, 4, 8, 9.
+* For T, add axioms 1, 2, 3, 4, 5, 6, 7, 11.
+* For R, add axioms 1-11.
+* For E, add axioms 1-7, 10, 11, <math>((A\to A)\land(B\to B)\to C)\to C</math>, and <math>\Box A\land \Box B\to \Box (A\land B)</math>, where <math>\Box A</math> is defined as <math>(A\to A)\to A</math>.
+* For RM, add all the additional axioms.
+==Models==
+===Routley–Meyer models===
+The standard model theory for relevance logics is the Routley-Meyer ternary-relational semantics developed by Richard Sylvan and Robert Meyer. A Routley–Meyer frame F for a propositional language is a quadruple (W,R,*,0), where W is a non-empty set, R is a ternary relation on W, and * is a function from W to W, and <math>0\in W</math>. A Routley-Meyer model M is a Routley-Meyer frame F together with a valuation, <math>\Vdash</math>, that assigns a truth value to each atomic proposition relative to each point <math>a\in W</math>. There are some conditions placed on Routley-Meyer frames. Define <math>a\leq b</math> as <math>R0ab</math>.
+* <math>a\leq a</math>.
+* If <math>a\leq b</math> and <math>b\leq c</math>, then <math>a\leq c</math>.
+* If <math>d\leq a</math> and <math>Rabc</math>, then <math>Rdbc</math>.
+* <math>a^
+===Algebraic models===
+Some relevance logics can be given algebraic models, such as the logic R. The algebraic structures for R are De Morgan algebra, which are sextuples <math>(D,\land,\lor,\lnot,\circ,e)</math> where
+* <math>(D,\land,\lor,\lnot)</math> is a distributive lattice with a unary operation, <math>\lnot</math> obeying the laws <math>\lnot\lnot x=x</math> and if <math>x\leq y</math> then <math>\lnot y\leq \lnot x</math>;
+* <math>e\in D</math>, the binary operation <math>\circ</math> is commutative (<math>x\circ y=y\circ x</math>) and associative (<math>(x\circ y)\circ z=x\circ (y\circ z)</math>), and <math>e\circ x=x</math>, i.e. <math>(D,\circ,e)</math> is an Abelian monoid with identity <math>e</math>;
+* the monoid is lattice-ordered and satisfies <math>x\circ(y\lor z)=(x\circ y)\lor(x\circ z)</math>;
+* <math>x\leq x\circ x</math>; and 
+* if <math>x\circ y\leq z</math>, then <math>x\circ\lnot z\leq \lnot y</math>.
+The operation <math>x\to y</math> interpreting the conditional of R is defined as <math>\lnot(x\circ\lnot y)</math>. 
+A de Morgan monoid is a residuated lattice, obeying the following residuation condition. 
+: <math>x \circ y\leq z \iff x\leq y\to z</math>
+An interpretation <math>v</math> is a homomorphism from the propositional language to a de Morgan monoid <math>M</math> such that 
+* <math>v(p)\in D</math> for all atomic propositions, 
+* <math>v(\lnot A)=\lnot v(A)</math>
+* <math>v(A\lor B)=v(A)\lor v(B)</math>
+* <math>v(A\land B)=v(A)\land v(B)</math>
+* <math>v(A\to B)=v(A)\to v(B)</math>
+Given a de Morgan monoid <math>M</math> and an interpretation <math>v</math>, one can say that formula <math>A</math> holds on <math>v</math> just in case <math>e\leq v(A)</math>. A formula <math>A</math> is valid just in case it holds on all interpretations on all de Morgan monoids. The logic R is sound and complete for de Morgan monoids.
+==See also==
+* Non sequitur (logic)
+* Relevant type system, a substructural type system
+==References==
+<references/>
+==Bibliography==
+* Alan Ross Anderson and Nuel Belnap, 1975. Entailment: the logic of relevance and necessity, vol. I. Princeton University Press. 
+* ------- and J. M. Dunn, 1992. Entailment: the logic of relevance and necessity, vol. II, Princeton University Press.
+* Mares, Edwin, and Meyer, R. K., 2001, "Relevant Logics", in Goble, Lou, ed., The Blackwell Guide to Philosophical Logic. Blackwell.
+* Richard Routley, Val Plumwood, Robert K. Meyer, and Ross T. Brady. Relevant Logics and their Rivals. Ridgeview, 1982.
+* R. Brady (ed.), Relevant Logics and their Rivals (Volume II), Aldershot: Ashgate, 2003.
+* 
+* Alasdair Urquhart. urltoken The Semantics of Entailment. PhD thesis, University of Pittsburgh, 1972.
+* Katalin Bimbó, Relevance logics, in Philosophy of Logic, D. Jacquette (ed.), (volume 5 of Handbook of the Philosophy of Science, D. Gabbay, P. Thagard, J. Woods (eds.)), Elsevier (North-Holland), 2006, pp.&nbsp;723–789.
+* J. Michael Dunn and Greg Restall. Relevance logic. In Handbook of Philosophical Logic, Volume 6, F. Guenthner and D. Gabbay (eds.), Dordrecht: Kluwer, 2002, pp.&nbsp;1–136.
+* Stephen Read, Relevant Logic, Oxford: Blackwell, 1988.
+* 
+==External links==
+*Stanford Encyclopaedia of Philosophy: " urltoken Relevance logic" – by Edwin Mares.
+*" urltoken Relevance logic" – by J. Michael Dunn and Greg Restall
+* urltoken Relevant Logic – by Stephen Read
+
+Relevance logic, also called relevant logic, is a kind of non-classical logic requiring the antecedent and consequent of Entailment to be relevantly related. They may be viewed as a family of substructural or modal logics. (It is generally, but not universally, called relevant logic by British and, especially, Australian logicians, and relevance logic by American logicians.)
+Relevance logic aims to capture aspects of implication that are ignored by the "material conditional" operator in classical truth-functional logic, namely the notion of relevance between antecedent and conditional of a true implication. This idea is not new: C. I. Lewis was led to invent modal logic, and specifically strict implication, on the grounds that classical logic grants paradoxes of material implication such as the principle that Vacuous truth.<ref>Lewis, C. I. (1912). "Implication and the Algebra of Logic." Mind, 21(84):522–531.</ref><ref>Lewis, C. I. (1917). "The issues concerning material implication." Journal of Philosophy, Psychology, and Scientific Methods, 14:350–356.</ref> Hence "if I'm a donkey, then two and two is four" is true when translated as a material implication, yet it seems intuitively false since a true implication must tie the antecedent and consequent together by some notion of relevance. And whether or not I'm a donkey seems in no way relevant to whether two and two is four.
+How does relevance logic formally capture a notion of relevance? In terms of a syntactical constraint for a propositional calculus, it is necessary, but not sufficient, that premises and conclusion share atomic formulae (formulae that do not contain any logical connectives). In a predicate calculus, relevance requires sharing of variables and constants between premises and conclusion. This can be ensured (along with stronger conditions) by, e.g., placing certain restrictions on the rules of a natural deduction system. In particular, a Fitch-style natural deduction can be adapted to accommodate relevance by introducing tags at the end of each line of an application of an inference indicating the premises relevant to the conclusion of the inference. Gentzen-style sequent calculi can be modified by removing the weakening rules that allow for the introduction of arbitrary formulae on the right or left side of the sequents.
+A notable feature of relevance logics is that they are paraconsistent logics: the existence of a contradiction will not cause "explosion". This follows from the fact that a conditional with a contradictory antecedent that does not share any propositional or predicate letters with the consequent cannot be true (or derivable).

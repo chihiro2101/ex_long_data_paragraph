@@ -1,0 +1,54 @@
+Mathematical table
+
+==History and use==
+The first tables of trigonometric functions known to be made were by Hipparchus (c.190 &ndash; c.120 BCE) and Menelaus (c.70–140 CE), but both have been lost. Along with the Ptolemy's table of chords (c. 90 – c.168 CE), they were all tables of chords and not of half-chords, that is, the sine function.<ref name="mcs"/> The Āryabhaṭa's sine table (476–550 CE) is considered the first sine table ever constructed.<ref name="mcs"></ref> 
+Āryabhaṭa's table remained the standard sine table of ancient India. There were continuous attempts to improve the accuracy of this table, culminating in the discovery of the Madhava series of the sine and cosine functions by Madhava of Sangamagrama (c.1350 – c.1425), and the tabulation of a Madhava's sine table with values accurate to seven or eight decimal places.
+Image:Four-Place Mathematical Tables cover.jpg|thumb|right|upright=0.60|These mathematical tables from 1925 were distributed by the College Entrance Examination Board to students taking the mathematics portions of the tests
+Tables of common logarithms were used until the invention of computers and electronic calculators to do rapid multiplications, divisions, and exponentiations, including the extraction of nth roots.
+Mechanical special-purpose computers known as difference engines were proposed in the 19th century to tabulate polynomial approximations of logarithmic functions &ndash; that is, to compute large logarithmic tables. This was motivated mainly by errors in logarithmic tables made by the human computers of the time. Early digital computers were developed during World War II in part to produce specialized mathematical tables for aiming artillery. From 1972 onwards, with the launch and growing use of HP-35s, most mathematical tables went out of use.
+One of the last major efforts to construct such tables was the Mathematical Tables Project that was started in 1938 as a project of the Works Progress Administration (WPA), employing 450 out-of-work clerks to tabulate higher mathematical functions. It lasted through World War II.
+Tables of special functions are still used. For example, the use of tables of values of the cumulative distribution function of the normal distribution – so-called standard normal tables – remains commonplace today, especially in schools, although the use of scientific and graphical calculators is making such tables redundant.
+Creating tables stored in random-access memory is a common code optimization technique in computer programming, where the use of such tables speeds up calculations in those cases where a Lookup table is faster than the corresponding calculations (particularly if the computer in question doesn't have a hardware implementation of the calculations). In essence, one Space–time tradeoff required to store the tables.
+==Tables of logarithms==
+Tables containing common logarithms (base-10) were extensively used in computations prior to the advent of electronic calculators and computers because logarithms convert problems of multiplication and division into much easier addition and subtraction problems. Base-10 logarithms have an additional property that is unique and useful: The common logarithm of numbers greater than one that differ only by a factor of a power of ten all have the same fractional part, known as the mantissa. Tables of common logarithms typically included only the mantissas; the integer part of the logarithm, known as the characteristic, could easily be determined by counting digits in the original number. A similar principle allows for the quick calculation of logarithms of positive numbers less than 1. Thus a single table of common logarithms can be used for the entire range of positive decimal numbers.<ref>E. R. Hedrick, urltoken Logarithmic and Trigonometric Tables (Macmillan, New York, 1913).</ref> See common logarithm for details on the use of characteristics and mantissas.
+===History===
+In 1544, Michael Stifel published Arithmetica integra, which contains a table of integers and powers of 2 that has been considered an early version of a logarithmic table.<ref></ref><ref>
+</ref><ref>
+</ref>
+The method of logarithms was publicly propounded by John Napier in 1614, in a book entitled Mirifici Logarithmorum Canonis Descriptio (Description of the Wonderful Rule of Logarithms).<ref></ref> The book contained fifty-seven pages of explanatory matter and ninety pages of tables related to natural logarithms. The English mathematician Henry Briggs visited Napier in 1615, and proposed a re-scaling of Napier's logarithms to form what is now known as the common or base-10 logarithms. Napier delegated to Briggs the computation of a revised table. In 1617, they published Logarithmorum Chilias Prima ("The First Thousand Logarithms"), which gave a brief account of logarithms and a table for the first 1000 integers calculated to the 14th decimal place.
+The computational advance available via common logarithms, the converse of powered numbers or exponential notation, was such that it made calculations by hand much quicker.
+==Trigonometric tables==
+Trigonometric calculations played an important role in the early study of astronomy. Early tables were constructed by repeatedly applying trigonometric identities (like the half-angle and angle-sum identities) to compute new values from old ones. 
+===A simple example===
+To compute the sine function of 75 degrees, 9 minutes, 50 seconds using a table of trigonometric functions such as the Bernegger table from 1619 illustrated above, one might simply round up to 75 degrees, 10 minutes and then find the 10 minute entry on the 75 degree page, shown above-right, which is 0.9666746.
+However, this answer is only accurate to four decimal places. If one wanted greater accuracy, one could interpolate linearly as follows:
+From the Bernegger table:
+:sin (75° 10′) = 0.9666746
+:sin (75° 9′) = 0.9666001
+The difference between these values is 0.0000745.
+Since there are 60 seconds in a minute of arc, we multiply the difference by 50/60 to get a correction of (50/60)*0.0000745 ≈ 0.0000621; and then add that correction to sin (75° 9′) to get :
+:sin (75° 9′ 50″) ≈ sin (75° 9′) + 0.0000621 = 0.9666001 + 0.0000621 = 0.9666622
+A modern calculator gives sin(75° 9′ 50″) = 0.96666219991, so our interpolated answer is accurate to the 7-digit precision of the Bernegger table.
+For tables with greater precision (more digits per value), higher order interpolation may be needed to get full accuracy.<ref>Abramowitz and Stegun Handbook of Mathematical Functions, Introduction §4</ref> In the era before electronic computers, interpolating table data in this manner was the only practical way to get high accuracy values of mathematical functions needed for applications such as navigation, astronomy and surveying.
+To understand the importance of accuracy in applications like navigation note that at sea level one minute of arc along the Earth's equator or a meridian (indeed, any great circle) equals approximately one nautical mile .
+==See also==
+* Abramowitz and Stegun Handbook of Mathematical Functions
+* Difference engine
+* Ephemeris
+* Group table
+* History of logarithms
+* Nautical almanac
+* Matrix
+* Multiplication table
+* Random number table
+*:A Million Random Digits with 100,000 Normal Deviates
+* Table (information)
+* Truth table
+* Jurij Vega
+==References==
+<references/>
+* 
+== External links ==
+* urltoken LOCOMAT : A census of mathematical and astronomical tables.
+
+Mathematical tables are lists of numbers showing the results of a calculation with varying arguments. Tables of trigonometric functions were used in ancient Greece and India for applications to astronomy and celestial navigation. They continued to be widely used until electronic calculators became cheap and plentiful, in order to simplify and drastically speed up computation. Tables of logarithms and trigonometric functions were common in math and science textbooks, and specialized tables were published for numerous applications.

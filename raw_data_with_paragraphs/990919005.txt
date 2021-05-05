@@ -1,0 +1,197 @@
+Wikipedia:WikiProject Years
+
+==23px Scope==
+This WikiProject's first aim was primarily to formalize the unofficial standard used for creating year pages. A standard was created and then transferred to Wikipedia:Timeline standards. The project still conceivably has responsibility for maintaining/improving that standard. The project currently oversees all year articles, (e.g. 1345, 2008), decade articles, century articles, and millennia articles, as well as their sub-articles (e.g. 2008 in sports).
+== Similar projects ==
+The parent of this WikiProject is the WikiProject Time.
+*WikiProject Current events (inactive)
+*WikiProject Years in science (inactive)
+** The various "years in (foo)" pages need their own project pages as well. +sj + 03:53, 7 July 2008 (UTC)
+*WikiProject Days of the Year
+*Wikipedia:WikiProject Timelines (inactive)
+*Wikipedia:WikiProject History
+*Wikipedia:WikiProject Leaders by year (inactive)
+(Also, since year articles cover science, philosophy, arts, literature, and other subjects, this project has connections to several other projects not listed.)
+==To do==
+The collaboration of the week is 1929
+#Resolve policy questions (such as WP:RY)
+#Fix templates
+#Improve 1929 and 1340s
+==Article alerts==
+Pages can still be rescued even when the project becomes inactive
+==Assessment and review==
+The WP:YEARS department that assesses articles for quality and importance can be found at Wikipedia:WikiProject Years/Assessment. If you are interested in assessment and review, please add your name to the list of reviewers on the assessment page.
+====Current status====
+* There is a bot-generated daily log which lists articles Reassessed, Assessed and Removed.
+* Popular pages lists top Years articles with the most frequent views. It is updated monthly.
+==Participants ==
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+==Inactive Participants==
+Editors who have not edited on Wikipedia for over six months
+# LittleDan
+# Spawn Man (Yay, It's all gonna be good.But don't we need a splash of colour in here?)
+# jredmond
+# Lini*
+# User:Dank55
+# AprilBlood*
+# Grimhelm (talk)*
+# Tea and crumpets
+# User:Yggur
+# Orion11M87
+# Foolestroupe
+# User:ReliableforeverUser:Reliableforever User:ReliableforeverUser Talk:Reliableforever 23:29, 13 November 2008 (UTC)
+# Davidzuccaro
+# Orrelly Man
+# WhatWasDone (talk) 08:42, 28 April 2009 (UTC)
+# ShadeofTime09 (talk) 17:16, 3 July 2010 (UTC)
+# Theologiae (talk) 12:31, 14 August 2011 (UTC)
+# Phoenix B 1of3 (talk) 00:27, 3 September 2011 (UTC)
+==Accomplishments==
+;FAs 
+;GAs 
+*1346
+;DYKs 
+*1345
+== Templates == 
+===Year in Topic boxes===
+Each century has a different year in topic box, depending on how much information is available in Wikipedia. The following have been created so far:
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+The last one is for the whole 1st millennium (1-1000 AD). However it has not yet been decided how many there should be. See talk page and survey for discussions.
+==Old surveys==
+* August 2005 survey results
+== Example year ==
+Warning: The following example is a bare bones idea of how a year page should look. If you believe something is missing want to add it to "2004", please don't edit this page but go to 2004.
+===Infobox===
+Each year should have an infobox at the top right. The templates will be the template followed by the template (or applicable centuries template, see above).
+<pre><nowiki>
+</nowiki></pre>
+===Intro section===
+The first sentence in the introduction explains that the page is for a year and not a number. This statement should only be included if the number is on the List of numbers page. The second introduction sentence will describe the year (a link to a calendar) and the type of calendar the year belongs to. The following sentence lists any official designation the year has. For articles containing year summaries, the intro summarizes the year as a whole in a manner consistent with WP:LEAD.
+<pre><nowiki>
+2004 is a leap year starting on Thursday of the Gregorian calendar. It was designated the:
+*International Year of Rice (by the United Nations)
+*International Year to Commemorate the Struggle against Slavery and its Abolition (by UNESCO)
+*Year of the Monkey (by the Chinese calendar)
+See The world in 2004 for a description of the state of the world in this year.
+</nowiki></pre>
+===Sections===
+===Events===
+The events section is divided into months, each month has a calendar at the beginning and lists any important events that occurred. The month header once linked to the particular month in the year (e.g. January 2004), but no longer does. Each item links to the day.
+<pre><nowiki>
+== Events ==
+===January===
+* January 3 &ndash; Flash Airlines Flight 604 crashes into the Red Sea off the coast of Egypt, killing all 148 aboard.
+* January 4
+** Mikhail Saakashvili wins the presidential elections in Georgia.
+** NASA's MER-A (Spirit) lands on Mars.
+===February===
+* February 1 &ndash; A hajj stampede in Mina, Saudi Arabia, kills 251 pilgrims.
+===March===
+===April===
+===May===
+===June===
+===July===
+===August===
+===September===
+===October===
+===November===
+===December===
+</nowiki></pre>
+===Category===
+Add any such timeline articles to the timelines category for that year. eg :Category:2019-related timelines. and also the timelines category for years for that topics. eg :Category: Political timelines by year.
+===Summary of year===
+A summary of the year may follow the timeline, describing events of the year. Be sure to cite everything in this section.
+===Births section===
+The Births section lists notable births in that year, divided into month sections. Each entry links to the day page, has a very short description of the person, and links to the death year if known.
+<pre><nowiki>
+== Births ==
+===January===
+* January 21
+** Princess Ingrid Alexandra of Norway
+** another name, American author (d. 2005)
+* January 31 &ndash; another name, Polonesian King (d. 2003) 
+===February===
+</nowiki></pre>
+===Deaths section===
+The deaths section begins with a see also statement, and follows the same format as the births section: Month section, day link, name, and birth year link if known.
+<pre><nowiki>
+== Deaths ==
+For more deaths see: Deaths in 2004
+===January===
+* January 27 &ndash; Jack Paar, American television show host (b. 1918)
+===December===
+* December 28
+** Jerry Orbach, American actor (b. 1935) 
+** Susan Sontag, American writer and activist (b. 1933)
+</nowiki></pre>
+===More===
+It has not yet been decided what else will be included on the year pages. Many currently have sections for awards, fiction, external links etc. These sections may be removed (or more likely moved to a separate page to be included on the infobox) later, but for now the following form can be followed to close out the page.
+<pre><nowiki>
+==External links==
+</nowiki></pre>
+==Decades==
+===Notable world leaders===
+A gallery of notable leaders states and organisations are included in decade articles. In general, only leaders in power for over two years within the decade and current leaders should be listed, with a maximum of three per state or organisation. Leaders are ordered alphabetically by their associated state or organisation. Within each state, list monarchs first, then other types. Within each type, list in chronological order.
+
+WikiProject Years is a project dedicated to improving all year-related articles on Wikipedia to Featured status. We cover all year, decade, century, and millennia articles and their subarticles. Our scope is incredibly large, so we rely a lot on automated bots to do more tedious tasks.

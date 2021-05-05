@@ -1,0 +1,57 @@
+Myelodysplastic syndrome
+
+==== Myelodysplastic syndrome unclassified ====
+The WHO has proposed a criterion for diagnosis and classification of MDS that may apply to most cases. However, occasional cases are difficult to classify into defined categories because of one or more unusual features:
+* Rare cases with less than 5% blast will present with Auer rods. These cases usually have the features of RAMD.
+* Occasionally, cases of MDS present with isolated neutropenia or thrombocytopenia without anemia and with dysplastic changes confined to the single lineage. The term refractory neutropenia and refractory thrombocytopenia have sometimes been used to describe these cases. A diagnosis of MDS in patients with neutropenia or thrombocytopenia without anemia should be made with caution.
+* Patients with RA or RAEB occasionally present with leukocytosis or thrombocytosis instead of the usual cytopenia.
+==Management==
+The goals of therapy are to control symptoms, improve quality of life, improve overall survival, and decrease progression to AML.
+The IPSS scoring<ref></ref> system can help triage patients for more aggressive treatment (i.e. bone marrow transplant) as well as help determine the best timing of this therapy.<ref></ref> Supportive care with blood products and hematopoietic growth factors (e.g. erythropoietin) is the mainstay of therapy. The regulatory environment for the use of erythropoietins is evolving, according to a recent US Medicare National coverage determination. However, no comment on the use of hematopoietic growth factors for MDS was made in that document.<ref></ref>
+Agents have been approved by the U.S. Food and Drug Administration (FDA) for the treatment of MDS:
+# 5-azacytidine: 21-month median survival<ref name="pmid10694544"></ref><ref name="pmid11529854"></ref><ref name="pmid12011120"></ref><ref name="pmid16921040"></ref>
+# Decitabine: Complete response rate reported as high as 43%. A phase I study has shown efficacy in AML when decitabine is combined with valproic acid.<ref name="pmid17133405"></ref><ref name="pmid16532500"></ref><ref name="pmid16882708"></ref><ref name="pmid17679729"></ref>
+# Lenalidomide: Effective in reducing red blood cell transfusion requirement in patients with the chromosome 5q deletion subtype of MDS<ref name="pmid17021321"></ref>
+# Decitabine/cedazuridine (Inqovi) is a fixed-dosed combination medication for the treatment of adults with myelodysplastic syndromes (MDS) and chronic myelomonocytic leukemia (CMML).<ref name="Inqovi FDA PR"> </ref>
+Chemotherapy with the DNA methylation 5-azacytidine and decitabine has been shown to decrease blood transfusion requirements and to retard the progression of MDS to AML. Lenalidomide was approved by the FDA in December 2005 only for use in the 5q- syndrome. In the United States, treatment of MDS with lenalidomide costs about $9,200 per month.<ref name="pmid16625140"></ref> The chemotherapy may be supported by other drugs like All-trans-retinoic acid (ATRA), however the evidence of benefit is not clear.<ref></ref>
+HLA-matched allogeneic stem cell transplantation, particularly in younger (i.e. less than 40 years of age) and more severely affected patients, offers the potential for curative therapy. Success of bone marrow transplantation has been found to correlate with severity of MDS as determined by the IPSS score, with patients having a more favorable IPSS score tending to have a more favorable outcome with transplantation.<ref></ref> If patient receive a stem cell transplant, they can develop a graft-versus-host disease (GvHD). The evidence is very uncertain about the therapeutic effect of mesenchymal stromal cells to treat graft-versus-host diseases after a stem cell transplantation on the all-cause mortality and complete disappear of chronic acute graft-versus-host diseases. Mesenchymal stromal cells may results in little to no difference in the all-cause mortality, relapse of malignant disease and incidence of acute and chronic graft-versus-host diseases if they are used for prophylactic reason.<ref></ref>
+Patients that receive a stem cell transplant or a chemotherapy as a treatment might have a higher risk for bleeding and may require platelet transfusions.<ref></ref><ref></ref> Physical exercises in addition to the standard treatment for  adult patients with haematological malignancies may result in little to no difference in the mortality, in the quality of life and in the physical functioning. These exercises may result in a slight reduction in depression. Furthermore, aerobic physical exercises probably reduce fatigue. The evidence is very uncertain about the effect on anxiety and serious adverse events.<ref></ref>
+===Iron levels===
+Iron overload can develop in MDS as a result of the RBC transfusions, which are a major part of the supportive care for anemic MDS patients. A particular risk exists of delayed engraftment and a need for repeated red-cell transfusion following HLA-identical allogeneic stem-cell transplantation if the recipient is blood type O and the stem-cell donor, type A.<ref></ref> Although the specific therapies patients receive may alleviate the RBC transfusion need in some cases, many MDS patients may not respond to these treatments, thus may develop secondary hemochromatosis due to iron overload from repeated RBC transfusions.
+Patients requiring relatively large numbers of RBC transfusions can experience the adverse effect of chronic iron overload on their liver, heart, and endocrine functions. The resulting organ dysfunction from transfusional iron overload might be a contributor to increased illness and death in early-stage MDS.
+For patients requiring many RBC transfusions, serum ferritin levels, number of RBC transfusions received, and associated organ dysfunction (heart, liver, and pancreas) should be monitored to determine iron levels. Monitoring serum ferritin may also be useful, aiming to decrease ferritin levels to .Currently, two iron Chelation are available in the US, deferoxamine for intravenous use and deferasirox for oral use. These options now provide potentially useful drugs for treating this iron overload problem. A third chelating agent is available in Europe, deferiprone, for oral use, but is not available in the US.
+Clinical trials in the MDS are ongoing with iron chelating agents to address the question of whether iron chelation alters the natural history of patients with MDS who are transfusion dependent. Reversal of some of the consequences of iron overload in MDS by iron chelation therapy have been shown.Both the MDS Foundation and the National Comprehensive Cancer Network MDS Guidelines Panel have recommended that chelation therapy be considered to decrease iron overload in selected MDS patients. Evidence also suggests a potential value exists to iron chelation in patients who will undergo a stem-cell transplant.Although deferasirox is generally well tolerated (other than episodes of gastrointestinal distress and kidney dysfunction in some patients), recently a safety warning by the FDA and Novartis was added to deferasirox treatment guidelines. Following postmarketing use of deferasirox, rare cases of acute kidney failure or liver failure occurred, some resulting in death. Due to this, patients should be closely monitored on deferasirox therapy prior to the start of therapy and regularly thereafter.
+==Prognosis==
+The outlook in MDS is variable, with about 30% of patients progressing to refractory AML. The median survival time varies from years to months, depending on type. Stem-cell transplantation offers possible cure, with survival rates of 50% at 3 years, although older patients do poorly.<ref name="Harrison's"></ref>
+Indicators of a good prognosis:
+Younger age; normal or moderately reduced neutrophil or platelet counts; low blast counts in the bone marrow (<&nbsp;20%) and no blasts in the blood; no Auer rods; ringed sideroblasts; normal or mixed karyotypes without complex chromosome abnormalities; and in vitro marrow culture with a nonleukemic growth pattern
+Indicators of a poor prognosis:
+Advanced age; severe neutropenia or thrombocytopenia; high blast count in the bone marrow (20–29%) or blasts in the blood;
+Auer rods; absence of ringed sideroblasts; abnormal localization or immature granulocyte precursors in bone marrow section;
+completely or mostly abnormal karyotypes, or complex marrow chromosome abnormalities and in vitro bone marrow culture with a leukemic growth pattern
+Karyotype prognostic factors:
+* Good: normal, -Y, del(5q), del(20q)
+* Intermediate or variable: +8, other single or double anomalies
+* Poor: complex (>3 chromosomal aberrations); chromosome 7 anomalies<ref name="pmid10691865"></ref>
+The IPSS is the most commonly used tool in MDS to predict long-term outcome.<ref name="International scoring system for ev"/>
+Cytogenetic abnormalities can be detected by conventional cytogenetics, a FISH panel for MDS, or virtual karyotype.
+=== Genetic markers ===
+Although not yet formally incorporated in the generally accepted classification systems, molecular profiling of myelodysplastic syndrome genomes has increased the understanding of prognostic molecular factors for this disease. For example, in low-risk MDS, IDH1 and IDH2 mutations are associated with significantly worsened survival.<ref name=":0" />
+==Epidemiology==
+The exact number of people with MDS is not known because it can go undiagnosed and no tracking of the syndrome is mandated. Some estimates are on the order of 10,000 to 20,000 new cases each year in the United States alone. The number of new cases each year is probably increasing as the average age of the population increases, and some authors propose that the number of new cases in those over 70 may be as high as 15 per 100,000 per year.<ref name="pmid11503953"></ref>
+The typical age at diagnosis of MDS is between 60 and 75 years; a few people are younger than 50, and diagnoses are rare in children. Males are slightly more commonly affected than females.
+==History==
+Since the early 20th century, some people with acute myelogenous leukemia were begun to be recognized to have a preceding period of anemia and abnormal blood cell production. These conditions were lumped together with other diseases under the term "refractory anemia". The first description of "preleukemia" as a specific entity was published in 1953 by Block et al.<ref></ref> The early identification, characterization and classification of this disorder were problematical, and the syndrome went by many names until the 1976 FAB classification was published and popularized the term MDS.
+==Notable cases==
+* Roald Dahl – died from the condition in 1990
+* Carl Sagan<ref></ref>
+* Susan Sontag<ref></ref>
+* Michael Brecker<ref></ref>
+* Pat Hingle<ref></ref>
+* Jeff Conaway<ref>"Autopsy: The Last Hours of Jeff Conaway." Autopsy: The Last Hours of. Nar. Eric Meyers. Exec. Prod. Suzy Davis and Michael Kelpie. Reelz, 17 Mar. 2019. Television.</ref>
+* Paul Motian<ref></ref>
+* John Kirby (attorney)
+* James W. Nance
+* Robin Roberts (newscaster)
+
+Note : not all physicians concur with this reclassification, because the underlying pathology of this diseases is not well understood.

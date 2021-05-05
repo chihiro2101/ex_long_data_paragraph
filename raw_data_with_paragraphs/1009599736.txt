@@ -1,0 +1,74 @@
+Head louse
+
+==Adult morphology==
+Like other insects of the suborder Anoplura, adult head lice are small (2.5–3&nbsp;mm long), dorsoventrally flattened (see anatomical terms of location), and wingless.<ref name="buxton1"></ref> The thoracic segments are fused, but otherwise distinct from the head and abdomen, the latter being composed of seven visible segments.<ref name="buxton2"></ref> Head lice are grey in general, but their precise color varies according to the environment in which they were raised.<ref name="buxton2"/> After feeding, consumed blood causes the louse body to take on a reddish color.<ref name="buxton2"/>
+===Head===
+One pair of antennae, each with five segments, protrudes from the insect's head. Head lice also have one pair of eyes. Eyes are present in all species within the Pediculidae family, but are reduced or absent in most other members of the Anoplura suborder.<ref name="buxton1"/> Like other members of the Anoplura, head louse mouthparts are highly adapted for piercing the skin and sucking blood.<ref name="buxton1"/> These mouth parts are retracted into the insect's head except during feeding.<ref name="buxton2"/><ref name="MerckVet">
+</ref>
+===Thorax===
+Six legs project from the fused segments of the thorax.<ref name="buxton2"/> As is typical in the Anoplura, these legs are short and terminate with a single claw and opposing "thumb".<ref name="buxton2"/> Between its claw and thumb, the louse grasps the hair of its host.<ref name="buxton2"/> With their short legs and large claws, lice are well adapted to clinging to the hair of their host. These adaptations leave them incapable of jumping, or even walking efficiently on flat surfaces. Lice can climb up strands of hair very quickly, allowing them to move quickly and reach another host.<ref name="maunder"/>
+===Abdomen===
+Seven segments of the louse abdomen are visible.<ref name="buxton2"/> The first six segments each have a pair of spiracles through which the insect breathes.<ref name="buxton2"/> The last segment contains the anus and (separately) the genitalia.<ref name="buxton2"/>
+===Sex differences===
+In male lice, the front two legs are slightly larger than the other four. This specialized pair of legs are used for holding the female during copulation. Males are slightly smaller than females and are characterized by a pointed end of the abdomen and a well-developed genital apparatus visible inside the abdomen. Females are characterized by two gonopods in the shape of a W at the end of their abdomens.
+==Eggs/nits==
+Like most insects, head lice are oviparous. Females lay about three or four eggs per day. Louse eggs (wrongly named also nits, see below), are attached near the base of a host hair shaft.<ref name="Williams2001"></ref><ref name="pmid15965432"></ref> Eggs are usually laid on the base of the hair, i.e., 3–5&nbsp;mm of the scalp surface.<ref name="Williams2001"/><ref name="pmid15965432"/> In warm climates, and especially the tropics, eggs may be laid or more down the hair shaft.<ref name="Meinking1999">
+</ref>
+To attach an egg, the adult female secretes a glue from her reproductive organ. This glue quickly hardens into a "nit sheath" that covers the hair shaft and large parts of the egg except for the operculum, a cap through which the embryo breathes.<ref name="pmid15965432"/> The glue was previously thought to be chitin-based, but more recent studies have shown it to be made of proteins similar to hair keratin.<ref name="pmid15965432"/>
+Each egg is oval-shaped and about 0.8&nbsp;mm in length.<ref name="pmid15965432"/> They are bright, transparent, and tan to coffee-colored so long as they contain an embryo, but appear white after hatching.<ref name="pmid15965432"/><ref name="Meinking1999"/> Head lice hatch typically six to nine days after oviposition.<ref name="Williams2001"/><ref name="Burgess1995"></ref>
+After hatching, the louse nymph leaves behind its egg shell (usually known as a "nit", see below), still attached to the hair shaft. The empty egg shell remains in place until physically removed by abrasion or the host, or until it slowly disintegrates, which may take 6 or more months.<ref name="Burgess1995"/>
+The term nit refers to an empty louse egg, after the young louse left the egg. Nits are mat, collapsed and white in color.
+With respect to eggs, this rather broad definition includes the following:<ref name="pmid10959734"></ref>
+* Viable eggs that will eventually hatch
+* Remnants of already-hatched eggs (nits)
+* Nonviable eggs (dead embryo) that will never hatch
+This has produced some confusion in, for example, school policy (see The "no-nit" policy) because, of the three items listed above, only eggs containing viable embryos have the potential to infest or reinfest a host.<ref name="pmid14651472"></ref> Some authors have reacted to this confusion by restricting the definition of nit to describe only a hatched or nonviable egg:
+.
+==Behaviour==
+===Feeding===
+All stages except eggs are blood-feeders and bite the skin four to five times daily to feed. They inject saliva which contains an anticoagulant and suck blood. The digested blood is excreted as dark red frass.<ref name="UF"></ref>
+===Position on host===
+Although any part of the scalp may be colonized, lice favor the nape of the neck and the area behind the ears, where the eggs are usually laid. Head lice are repelled by light and move towards shadows or dark-coloured objects in their vicinity.<ref name="Bacot"/><ref name="Nuttall1919">
+</ref>
+===Transmission===
+Lice have no wings or powerful legs for jumping, so they move using the claws on their legs to move from hair to hair.<ref name="UF"/> Normally, head lice infest a new host only by close contact between individuals, making social contacts among children and parent-child interactions more likely routes of infestation than shared combs, hats, brushes, towels, clothing, beds, or closets. Touching heads is by far the most common route of lice transmission.<ref></ref>
+==Distribution==
+About 6–12&nbsp;million people, mainly children, are treated annually for head lice in the United States alone. In the UK, it is estimated that two thirds of children will experience at least one case of head lice before leaving primary school.<ref></ref> High levels of louse infestations have also been reported from all over the world, including Australia, Denmark, France, Ireland, Israel, and Sweden.<ref name="pmid14651472"/><ref name="JDD"></ref>
+==Archaeogenetics==
+Analysis of the DNA of lice found on Peruvian Mummy may indicate that some diseases (such as typhus) may have passed from the New World to the Old World, instead of the other way around.<ref name="Peru"></ref><ref name="Amanzougaghene et al. 2016"></ref>
+==Genome==
+The sequencing of the genome of the body louse was first proposed in the mid-2000s<ref></ref> and the annotated genome was published in 2010.<ref></ref> An analysis of the body and head louse transcriptomes revealed these two organisms are extremely similar genetically.<ref></ref>
+== Mitochondrial clades ==
+Human lice are divided into three deeply divergent mitochondrial clades known as A, B, and C.<ref name="MorandKrasnov2015"></ref><ref name="KnappBoutellis2013"></ref> Two subclades have been identified, D (a sister clade of A) and E (a sister clade of C).<ref name="GaoAmanzougaghene2016"></ref><ref name="LiaoCheng2017"></ref>
+=== Clade A ===
+* head and body: worldwide
+*found in ancient Roman Judea<ref name="Amanzougaghene et al. 2016" />
+=== Clade D (sister of clade A) ===
+* head and body: Central Africa, Ethiopia, United States
+=== Clade B ===
+* head only: worldwide
+* found in ancient Roman Judea and 4,000-year-old Chilean mummy
+=== Clade C ===
+* head only: Ethiopia, Nepal, Thailand
+=== Clade E (sister of clade C) ===
+* head only: West Africa
+==See also==
+* Body louse
+* Crab louse
+* Lindane
+* List of parasites of humans
+* Nitpicking
+* Pediculosis
+* Treatment of human head lice
+==References==
+==External links==
+* urltoken Centers for Disease Control and Prevention: Division of Parasitic Diseases
+* urltoken James Cook University, Australia: Head Lice Information Sheet
+* urltoken University of Nebraska: Head Lice Resources You Can Trust
+* urltoken body and head lice on the UF / IFAS Featured Creatures Web site
+
+The head louse (Pediculus humanus capitis) is an obligate parasitism of humans. <ref name="Buxton3"></ref>
+Head lice are wingless insects that spend their entire lives on the human scalp and feeding exclusively on human blood.<ref name="Buxton3" /> Humans are the only known hosts of this specific parasite, while chimpanzees host a closely related species, Pediculus schaeffi. Other species of lice infest most orders of mammals and all orders of birds.
+Lice differ from other hematophagic ectoparasites such as fleas in spending their entire lifecycle on a host.<ref name="maunder"></ref> Head lice cannot fly, and their short, stumpy legs render them incapable of jumping, or even walking efficiently on flat surfaces.<ref name="maunder"/>
+The non-disease-carrying head louse differs from the related disease-carrying body louse (Pediculus humanus humanus) in preferring to attach eggs to scalp hair rather than to clothing. The two subspecies are morphologically almost identical, but do not normally interbreed. From genetic studies, they are thought to have diverged as subspecies about 30,000–110,000 years ago, when many humans began to wear a significant amount of clothing.<ref></ref><ref name="Stoneking"></ref> A much more distantly related species of hair-clinging louse, the pubic or crab louse (Pthirus pubis), also infests humans. It is morphologically different from the other two species and is much closer in appearance to the lice which infest other primates.<ref name="Buxton6"></ref> Louse infestation of the body is known as pediculosis. pediculosis capitis for head lice, pediculosis corporis for body lice, and phthiriasis for pubic lice.<ref name="urlpediculosis - Definition from the Merriam-Webster Online Dictionary"></ref>
+Head lice (especially in children) have been, and still are, subject to various eradication campaigns. Unlike body lice, head lice are not the vectors of any known diseases. Except for rare secondary infections that result from scratching at bites, head lice are harmless, and they have been regarded by some as essentially a psychological/emotional rather than a medical problem. Head louse infestations may be beneficial in helping to foster a natural immune response against lice which helps humans in defense against the far more dangerous body louse, which is capable of transmitting dangerous diseases.<ref name="mutualism"></ref>

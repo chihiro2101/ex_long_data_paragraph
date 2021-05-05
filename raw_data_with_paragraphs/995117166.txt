@@ -1,0 +1,90 @@
+Linux Standard Base
+
+==Backward compatibility==
+The LSB is designed to be binary-compatible and produce a stable application binary interface (ABI) for independent software vendors. To achieve backward compatibility, each subsequent version is purely additive. In other words, interfaces are only added, not removed. The LSB adopted an interface deprecation policy to give application developers enough time in case an interface is removed from the LSB.
+This allows the developer to rely on every interface in the LSB for a known time and also to plan for changes, without being surprised. Interfaces are only removed after having been marked "deprecated" for at least three major versions, or roughly eleven years.<ref></ref>
+LSB&nbsp;5.0 is the first major release that breaks backward compatibility with earlier versions.<ref></ref>
+==Version history==
+* 1.0: Initial release .
+* 1.1: Released . Added hardware-specific specifications (IA-32).
+* 1.2: Released . Added hardware-specific specifications (PowerPC 32-bit). Certification began July 2002.
+* 1.2.1: Released October 2002. Added Itanium.
+* 1.3: Released . Added hardware-specific specifications (Itanium, Enterprise System Architecture/390, z/Architecture).
+* 2.0: Released 
+** LSB is modularized to LSB-Core, LSB-CXX, LSB-Graphics, and LSB-I18n (not released)
+** New hardware-specific specifications (PowerPC 64-bit, AMD64)
+** Synchronized to Single UNIX Specification (SUS) version 3
+* 2.0.1: Released , ISO version of LSB 2.0, which included specification for all hardware architectures (except LSB-Graphics, of which only a generic version is available).
+* 2.1: Released .
+* 3.0: Released . Among other library changes:
+** GNU C Library version 2.3.4
+** C++ ABI is changed to the one used by gcc 3.4
+** The core specification is updated to ISO POSIX (2003)
+** Technical Corrigenda 1: 2005
+* 3.1: Released . This version has been submitted as ISO/IEC 23360.
+* 3.2: Released . This version has been submitted as ISO/IEC 23360.
+* 4.0: Released . This version contains the following features:
+** GNU C Library version 2.4
+** Binary compatibility with LSB 3.x
+** Easier to use SDK
+** Support for newer versions of GTK and Cairo graphical libraries
+** Java (optional module)
+** Simpler ways of creating LSB-compliant RPM packages
+** Crypto API (via the Network Security Services library) (optional module)
+* 4.1: Released :<ref></ref>
+** Java removed<ref></ref>
+** "Trial Use" modules from LSB 4.0, covering multimedia (ALSA), security (NSS) and desktop miscellaneous (xdg-utils) have been promoted as required submodules
+** Updated GTK+, Cairo and CUPS libraries
+** Three new test suites added
+* 5.0: Released 
+** First major release that breaks backward compatibility with earlier versions (compatible with LSB 3.0, and mostly compatible with LSB 3.1 and later, with some exceptions<ref></ref>)
+** Incorporates the changes made in FHS 3.0
+** Qt&nbsp;3 library has been removed
+** Evolved module strategy; LSB is modularized to LSB Core, LSB Desktop, LSB Languages, LSB Imaging, and LSB Trial Use
+==ISO standard==
+The LSB, version 3.1, is registered as an official ISO standard.<ref></ref> The main parts of it are:
+* ISO/IEC 23360-1:2006 Linux Standard Base (LSB) core specification 3.1&nbsp;— Part 1: Generic specification
+* ISO/IEC 23360-2:2006 Linux Standard Base (LSB) core specification 3.1&nbsp;— Part 2: Specification for IA-32 architecture
+* ISO/IEC 23360-3:2006 Linux Standard Base (LSB) core specification 3.1&nbsp;— Part 3: Specification for IA-64 architecture
+* ISO/IEC 23360-4:2006 Linux Standard Base (LSB) core specification 3.1&nbsp;— Part 4: Specification for AMD64 architecture
+* ISO/IEC 23360-5:2006 Linux Standard Base (LSB) core specification 3.1&nbsp;— Part 5: Specification for PPC32 architecture
+* ISO/IEC 23360-6:2006 Linux Standard Base (LSB) core specification 3.1&nbsp;— Part 6: Specification for PPC64 architecture
+* ISO/IEC 23360-7:2006 Linux Standard Base (LSB) core specification 3.1&nbsp;— Part 7: Specification for S390 architecture
+* ISO/IEC 23360-8:2006 Linux Standard Base (LSB) core specification 3.1&nbsp;— Part 8: Specification for S390x architecture
+There is also ISO/IEC TR 24715:2006 which identifies areas of conflict between ISO/IEC 23360 (the Linux Standard Base 3.1 specification) and the ISO/IEC 9945:2003 (POSIX) International Standard.<ref></ref>
+ISO/IEC 23360 and ISO/IEC TR 24715 can be freely downloaded from ISO website.<ref></ref>
+==Reception==
+While the LSB is a standard and without a competitor, it is followed only by few Linux distributions. For instance, only 21 distribution releases (versions) are certified for LSB version 4.0, notably Red Flag Linux Desktop 6.0, Red Hat Enterprise Linux 6.0, SUSE Linux Enterprise 11, and Ubuntu version history#0904;<ref> urltoken Certified Products Product Directory on linuxbase.org (2015-01-12)</ref> even fewer are certified for version 4.1.
+The LSB has been criticized<ref></ref><ref></ref><ref></ref><ref></ref> for not taking input from projects, most notably the Debian project, outside the sphere of its member companies.
+===Choice of the RPM package format===
+The LSB specifies that software packages should either be delivered as an LSB-compliant installer,<ref></ref> or (preferably) be delivered in a restricted form of the RPM Package Manager format.<ref></ref>
+This choice of package format precludes the use of the many other, existing package formats not compatible with RPM. To address this, the standard does not dictate which package format the system must use for its own packages, merely that RPM must be supported to allow packages from third-party distributors to be installed on a conforming system.
+===Limitations on Debian===
+Debian has included optional support for the LSB early on, at version 1.1 in "woody" (3.0; , 2.0 in "sarge" (3.1; , 3.1 in "etch" (4.0; , 3.2 in "lenny" (5.0; and 4.1 in "wheezy" (7; . To use foreign LSB-compliant RPM packages, the end-user needs to use Debian's Alien program to transform them into the native package format and then install them.
+The LSB-specified RPM format has a restricted subset of RPM features—to block usage of RPM features that would be untranslatable to .deb with Alien or other package conversion programs, and vice versa, as each format has capabilities the other lacks. In practice, not all Linux binary packages are necessarily LSB-compliant, so while most can be converted between .rpm and .deb, this operation is restricted to a subset of packages.
+By using Alien, Debian is LSB-compatible for all intents and purposes, but according to the description of their <tt>lsb</tt> package,<ref name="debian-lsb-package"></ref> the presence of the package "does not imply that we believe that Debian fully complies with the Linux Standard Base, and should not be construed as a statement that Debian is LSB-compliant."<ref name="debian-lsb-package"/>
+Debian strived to comply with the LSB, but with many limitations.<ref></ref> However, this effort ceased around July 2015 due to lack of interest and workforce inside the project.<ref></ref> In September 2015, the Debian project confirmed that while support for Filesystem Hierarchy Standard (FHS) would continue, support for LSB had been dropped.<ref></ref> Ubuntu followed Debian in November 2015.<ref></ref>
+===Quality of compliance test suites===
+Additionally, the compliance test suites have been criticized for being buggy and incomplete—most notably, in 2005 Ulrich Drepper criticized the LSB for poorly written tests which can cause incompatibility between LSB-certified distributions when some implement incorrect behavior to make buggy tests work, while others apply for and receive waivers from complying with the tests.<ref name="drepper-2005"></ref> He also denounced a lack of application testing, pointing out that testing only distributions can never solve the problem of applications relying on implementation-defined behavior.<ref name="drepper-2005"/>
+For the vendors considering LSB certifications in their portability efforts, the Linux Foundation sponsors a tool that analyzes and provides guidance on symbols and libraries that go beyond the LSB.<ref></ref>
+==See also==
+* Intel Binary Compatibility Standard (iBCS)
+* POSIX (Portable Operating System Interface)
+==References==
+==External links==
+* urltoken linuxfoundation.org archives of the specification
+* urltoken OLVER Test Suite for LSB - Open Linux Verification project
+===Media===
+* urltoken Four Linux Vendors Agree On An LSB Implementation (slashdot)
+* August 26, 1998 urltoken press release describing the breakdown of teams (at the time) and who was involved, of historical interest
+* urltoken Yes, the LSB Has Value – response to Drepper (2005) by Jeff Licquia
+
+The Linux Standard Base (LSB) is a joint project by several Linux distributions under the organizational structure of the Linux Foundation to standardize the software system structure, including the Filesystem Hierarchy Standard used in the Linux kernel. The LSB is based on the POSIX specification, the Single UNIX Specification (SUS), and several other open standards, but extends them in certain areas.
+According to the LSB:
+<blockquote>
+The goal of the LSB is to develop and promote a set of open standards that will increase compatibility among Linux distributions and enable software applications to run on any compliant system even in binary form. In addition, the LSB will help coordinate efforts to recruit software vendors to port and write products for Linux Operating Systems.
+</blockquote>
+The LSB compliance may be certified for a product by a certification procedure.<ref></ref>
+The LSB specifies for example: standard libraries, a number of commands and utilities that extend the POSIX standard, the layout of the file system hierarchy, run levels, the printing system, including spooling such as CUPS and tools like Foomatic, and several extensions to the X Window System.
+LSB also specifies boot facilities, such as $local_fs, $network, which are used to indicate service dependencies in System V-style initialization scripts. A machine readable comment block at the top of a script provides the information necessary to determine at which point of the initialization process the script should be invoked. It is called the LSB header.<ref></ref>
+The command <code>lsb_release -a</code> is available in many systems to get the LSB version details, or can be made available by installing an appropriate package, for example the <code>redhat-lsb</code> package in Red Hat-flavored distributions such as Fedora,<ref></ref> or the <code>lsb-release</code> package in Debian-based distributions.

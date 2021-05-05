@@ -1,0 +1,62 @@
+Hindu astrology
+
+===Gocharas – transits===
+A natal chart shows the position of the grahas at the moment of birth. Since that moment, the grahas have continued to move around the zodiac, interacting with the natal chart grahas. This period of interaction is called gochara (Sanskrit: , 'transit').<ref name=Sutton />
+The study of transits is based on the transit of the Moon (Chandra), which spans roughly two days, and also on the movement of Mercury (Budha) and Venus (Śukra) across the celestial sphere, which is relatively fast as viewed from Earth. The movement of the slower planets – Jupiter (Guru), Saturn (Śani) and Rāhu–Ketu — is always of considerable importance. Astrologers study the transit of the Daśā lord from various reference points in the horoscope.
+The transit phase alway makes an impact on the lives of humans on earth which can be positive or negative however as per the astrologers the impact of transits can be nuetralised with remedies.
+====Yogas – planetary combinations====
+In Hindu astronomy, yoga (Sanskrit: , 'union') is a combination of planets placed in a specific relationship to each other.<ref name=Sutton />
+Rāja yogas are perceived as givers of fame, status and authority, and are typically formed by the association of the Lord of Keṅdras ('quadrants'), when reckoned from the Lagna ('Ascendant'), and the Lords of the Trikona ('trines', 120 degrees—first, fifth and ninth houses). The Rāja yogas are culminations of the blessings of Viṣṇu and Lakṣmī. Some planets, such as Mars for Leo Lagna, do not need another graha (or Navagraha, 'planet') to create Rājayoga, but are capable of giving Rājayoga by themselves due to their own lordship of the 4th Bhāva ('astrological house') and the 9th Bhāva from the Lagna, the two being a Keṅdra ('angular house'—first, fourth, seventh and tenth houses) and Trikona Bhāva respectively.
+Dhana Yogas are formed by the association of wealth-giving planets such as the Dhaneśa or the 2nd Lord and the Lābheśa or the 11th Lord from the Lagna. Dhana Yogas are also formed due to the auspicious placement of the Dārāpada (from dara, 'spouse' and pada, 'foot'—one of the four divisions—3 degrees and 20 minutes—of a Nakshatra in the 7th house), when reckoned from the Ārūḍha Lagna (AL). The combination of the Lagneśa and the Bhāgyeśa also leads to wealth through the Lakṣmī Yoga.
+Sanyasa yoga are formed due to the placement of four or more grahas, excluding the Sun, in a Keṅdra Bhāva from the Lagna.
+There are some overarching yogas in Jyotiṣa such as Amāvasyā Doṣa, Kāla Sarpa Yoga-Kāla Amṛta Yoga and Graha Mālika Yoga that can take precedence over Yamaha yogar planetary placements in the horoscope.
+===Bhāvas – houses===
+The Hindu Jātaka or Janam Kundali or natal chart, is the Bhāva Chakra (Sanskrit: 'division' 'wheel'), the complete 360° circle of life, divided into houses, and represents a way of enacting the influences in the wheel. Each house has associated kāraka (Sanskrit: 'significator') planets that can alter the interpretation of a particular house.<ref name=Sutton /> Each Bhāva spans an arc of 30° with twelve Bhāvas in any chart of the horoscope. These are a crucial part of any horoscopic study since the Bhāvas, understood as 'state of being', personalize the Rāśis/ Rashis to the native and each Rāśi/ Rashi apart from indicating its true nature reveals its impact on the person based on the Bhāva occupied. The best way to study the various facets of Jyotiṣa is to see their role in chart evaluation of actual persons and how these are construed.
+===Dṛiṣṭis===
+Drishti (Sanskrit: , 'sight') is an aspect to an entire house. Grahas cast only forward aspects, with the furthest aspect being considered the strongest. For example, Mars aspects the 4th, 7th, and 8th houses from its position, and its 8th house aspect is considered more powerful than its 7th aspect, which is in turn more powerful than its 4th aspect.<ref name=Sutton />
+The principle of Dristi (aspect) was devised on the basis of the aspect of an army of planets as deity and demon in a war field.<ref name="ReferenceA">Sanat Kumar Jain, 'Astrology a science or myth', Atlantic Publishers, New Delhi.</ref><ref>Sanat Kumar Jain, "Jyotish Kitna Sahi Kitna Galat' (Hindi).</ref> Thus the Sun, a deity king with only one full aspect, is more powerful than the demon king Saturn, which has three full aspects.
+Aspects can be cast both by the planets (Graha Dṛṣṭi) and by the signs (Rāśi Dṛṣṭi). Planetary aspects are a function of desire, while sign aspects are a function of awareness and cognizance.
+There are some higher aspects of Graha Dṛṣṭi (planetary aspects) that are not limited to the Viśeṣa Dṛṣṭi or the special aspects. Rāśi Dṛṣṭi works based on the following formulaic structure: all movable signs aspect fixed signs except the one adjacent, and all dual and mutable signs aspect each other without exception.
+==See also==
+* Archaeoastronomy and Vedic chronology
+* Hindu calendar
+* Hindu cosmology
+* History of astrology
+* Indian astronomy
+* Jyotisha
+* resources
+* Nadi astrology
+* Panchanga
+* Synoptical astrology
+* Hindu units of measurement
+==References==
+==Sources==
+*
+* 
+===Bibliography===
+*
+*
+*
+*
+*
+*
+*
+==Further reading==
+* Burgess, Ebenezer (1866). "On the Origin of the Lunar Division of the Zodiac represented in the Nakshatra System of the Hindus". Journal of the American Oriental Society.
+*Chandra, Satish (2002). "Religion and State in India and Search for Rationality". Social Scientist
+*
+*Jain, Sanat K. "Astrology a science or myth", New Delhi, Atlasntic Publishers 2005 - highlighting how every principle like sign lord, aspect, friendship-enmity, exalted-debilitated, Mool trikon, dasha, Rahu-Ketu, etc. were framed on the basis of the ancient concept that Sun is nearer than the Moon from the Earth, etc.
+* David Pingree (1963). "Astronomy and Astrology in India and Iran". Isis – Journal of The History of Science Society. pp.&nbsp;229–246.
+* Pingree, David (1981). in J. Gonda (ed.) A History of Indian Literature. Vol VI. Fasc 4. Wiesbaden: Otto Harrassowitz.
+* Pingree, David and Gilbert, Robert (2008). "Astrology; Astrology In India; Astrology in modern times". Encyclopædia Britannica. online ed.
+*Plofker, Kim. (2008). "South Asian mathematics; The role of astronomy and astrology". Encyclopædia Britannica, online ed. 
+*William D. Whitney (1866). "On the Views of Biot and Weber Respecting the Relations of the Hindu and Chinese Systems of Asterisms", Journal of the American Oriental Society
+Popular treatments:
+*Frawley, David (2000). Astrology of the Seers: A Guide to Vedic (Hindu) Astrology. Twin Lakes Wisconsin: Lotus Press. 
+*Frawley, David (2005). Ayurvedic Astrology: Self-Healing Through the Stars. Twin Lakes Wisconsin: Lotus Press. 
+*Sutton, Komilla (1999). The Essentials of Vedic Astrology. The Wessex Astrologer, Ltd.: Great Britain. 
+==External links==
+*
+
+The Navagraha are said to be forces that capture or eclipse the mind and the decision making of human beings, thus the term graha. When the grahas are active in their Daśās or periodicities they are said to be particularly empowered to direct the affairs of people and events.
+Rahu and Ketu correspond to the points where the moon crosses the ecliptic plane (known as the ascending and descending nodes of the moon). Classically known in Indian and Western astrology as the "head and tail of the dragon", these planets are represented as a serpent-bodied demon beheaded by the Sudarshan Chakra of Vishnu after attempting to swallow the sun. They are primarily used to calculate the dates of eclipses. They are described as "shadow planets" because they are not visible in the night sky. Rahu has an orbital cycle of 18 years, Ketu has an orbital cycle of 7 years and they are always retrograde in motion and 180 degrees from each other.

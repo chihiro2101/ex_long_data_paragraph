@@ -1,0 +1,52 @@
+Diborane
+
+== Structure and bonding ==
+Image:Diborane 02.svg|thumb|left|Bonding diagram of diborane (B<sub>2</sub>H<sub>6</sub>) showing with curved lines a pair of three-center two-electron bonds, each of which consists of a pair of electrons bonding three atoms, two boron atoms and a hydrogen atom in the middle
+The structure of diborane has D<sub>2h</sub> symmetry. Four hydrides are terminal, while two bridge between the boron centers. The lengths of the B–H<sub>bridge</sub> bonds and the B–H<sub>terminal</sub> bonds are 1.33 and 1.19&nbsp;Å respectively. This difference in bond lengths reflects the difference in their strengths, the B–H<sub>bridge</sub> bonds being relatively weaker. The weakness of the B–H<sub>bridge</sub> compared to B–H<sub>terminal</sub> bonds is indicated by their vibrational signatures in the infrared spectrum, being ≈2100 and 2500&nbsp;cm<sup>−1</sup> respectively.<ref></ref>
+The model determined by molecular orbital theory describes the bonds between boron and the terminal hydrogen atoms as conventional 2-center 2-electron covalent bonds. The bonding between the boron atoms and the bridging hydrogen atoms is, however, different from that in molecules such as hydrocarbons. Each boron uses two electrons in bonding to the terminal hydrogen atoms and has one valence electron remaining for additional bonding. The bridging hydrogen atoms provide one electron each. The B<sub>2</sub>H<sub>2</sub> ring is held together by four electrons forming two 3-center 2-electron bonds. This type of bond is sometimes called a "banana bond".
+B<sub>2</sub>H<sub>6</sub> is isoelectronic with C<sub>2</sub>H<sub>6</sub><sup>2+</sup>, which would arise from the protonation of the planar molecule ethylene.<ref></ref> Diborane is one of many compounds with such unusual bonding.<ref></ref>
+Of the other elements in group&nbsp;IIIA, gallium is known to form a similar compound digallane, Ga<sub>2</sub>H<sub>6</sub>. Aluminium forms a polymeric hydride, aluminium hydride; although unstable, Al<sub>2</sub>H<sub>6</sub> has been isolated in solid hydrogen and is isostructural with diborane.<ref></ref>
+== Production and synthesis ==
+Extensive studies of diborane have led to the development of multiple syntheses. Most preparations entail reactions of hydride donors with boron halides or alkoxides. The industrial synthesis of diborane involves the reduction of BF<sub>3</sub> by sodium hydride, lithium hydride or lithium aluminium hydride:<ref name="Georg"></ref>
+: 8 BF<sub>3</sub> + 6 LiH → B<sub>2</sub>H<sub>6</sub> + 6 LiBF<sub>4</sub>
+Two laboratory methods start from boron trichloride with lithium aluminium hydride or from boron trifluoride ether solution with sodium borohydride. Both methods result in as much as 30% yield: 
+: 4 BCl<sub>3</sub> + 3 LiAlH<sub>4</sub> → 2 B<sub>2</sub>H<sub>6</sub> + 3 LiAlCl<sub>4</sub>
+: 4 BF<sub>3</sub> + 3 NaBH<sub>4</sub> → 2 B<sub>2</sub>H<sub>6</sub> + 3 NaBF<sub>4</sub>
+Older methods entail the direct reaction of borohydride salts with a Oxidizing acid, such as phosphoric acid or dilute sulfuric acid.
+: 2 BH<sub>4</sub><sup>−</sup> + 2 H<sup>+</sup> → 2 H<sub>2</sub> + B<sub>2</sub>H<sub>6</sub>
+Similarly, oxidation of borohydride salts has been demonstrated and remains convenient for small-scale preparations. For example, using iodine as an oxidizer:
+: 2 + → 2 NaI + + 
+Another small-scale synthesis uses potassium hydroborate and phosphoric acid as starting materials.<ref></ref>
+== Reactions ==
+Diborane is a highly reactive and versatile reagent.<ref></ref> Its dominating reaction pattern involves formation of adducts with Lewis bases. Often such initial adducts proceed rapidly to give other products. It reacts with ammonia to form the diammoniate of diborane, DADB, with lesser quantities of ammonia borane, depending on the conditions used. Diborane also reacts readily with alkynes to form substituted alkene products, which readily undergo further addition reactions.
+As a pyrophoric substance, diborane reacts exothermically with oxygen to form boron trioxide and water, so much that it was considered as a possible rocket or ramjet propellant:<ref></ref><ref></ref><ref></ref>
+: 2 B<sub>2</sub>H<sub>6</sub> + 6 O<sub>2</sub> → 2 B<sub>2</sub>O<sub>3</sub> + 6 H<sub>2</sub>O (Enthalpy = −2035 kJ/mol = −73.47 kJ/g)
+but discarded because back then it was too expensive and dangerous to handle.
+Diborane also reacts violently with water to form hydrogen and boric acid:
+: B<sub>2</sub>H<sub>6</sub> + 6 H<sub>2</sub>O → 2 B(OH)<sub>3</sub> + 6 H<sub>2</sub> (ΔH<sub>r</sub> = −466 kJ/mol = −16.82 kJ/g)
+Diborane also reacts with methanol to give hydrogen and trimethoxyborate ester:<ref name="InorgChem"></ref>
+: B<sub>2</sub>H<sub>6</sub> + 6 MeOH → 2 B(OMe)<sub>3</sub> + 6 H<sub>2</sub>
+Treating diborane with sodium amalgam gives NaBH<sub>4</sub> and NaB<sub>3</sub>H<sub>8</sub><ref name="InorgChem" />
+When diborane is treated with lithium hydride in diethyl ether, lithium borohydride is formed:<ref name="InorgChem" />
+: B<sub>2</sub>H<sub>6</sub> + 2 LiH → 2 LiBH<sub>4</sub>
+Diborane reacts with anhydrous hydrogen chloride or hydrogen bromide gas to give a boron halohydride:<ref name="InorgChem" />
+: B<sub>2</sub>H<sub>6</sub> + HX → B<sub>2</sub>H<sub>5</sub>X + H<sub>2</sub> (X = Cl, Br)
+Treating diborane with carbon monoxide at 470&nbsp;K and 20&nbsp;bar gives Borane carbonyl.<ref name="InorgChem" />
+== Reagent in organic synthesis ==
+Diborane and its variants are central organic synthesis reagents for hydroboration, whereby alkenes add across the B–H bonds to give trialkylboranes. Diborane is used as a reducing agent roughly complementary to the reactivity of lithium aluminium hydride. The compound readily reduces carboxylic acids to the corresponding alcohols, whereas ketones react only sluggishly.
+== History ==
+Diborane was first synthesised in the 19th century by hydrolysis of metal borides, but it was never analysed. From 1912 to 1936, Alfred Stock, the major pioneer in the chemistry of boron hydrides, undertook his research that led to the methods for the synthesis and handling of the highly reactive, volatile, and often toxic boron hydrides. He proposed the first ethane-like structure of diborane.<ref></ref> Electron diffraction measurements by S.&nbsp;H. Bauer initially appeared to support his proposed structure.<ref></ref><ref></ref>
+Because of a personal communication with Linus Pauling (who supported the ethane-like structure), H.&nbsp;I. Schlessinger and A.&nbsp;B. Burg did not specifically discuss 3-center 2-electron bonding in their then classic review in the early 1940s.<ref></ref> The review does, however, discuss the bridged D<sub>2h</sub> structure in some depth: "It is to be recognized that this formulation easily accounts for many of the chemical properties of diborane."
+In 1943, H.&nbsp;Christopher Longuet-Higgins, while still an undergraduate at Oxford, was the first to explain the structure and bonding of the boron hydrides. The article reporting the work, written with his tutor Ronnie Bell,<ref></ref> also reviews the history of the subject beginning with the work of Dilthey.<ref></ref> Shortly afterwards, the theoretical work of Longuet-Higgins was confirmed in an infrared study of diborane by Price.
+<ref></ref> 
+The structure was re-confirmed by electron-diffraction measurement in 1951 by K.&nbsp;Hedberg and V.&nbsp;Schomaker, with the confirmation of the structure shown in the schemes on this page.<ref></ref>
+William Nunn Lipscomb&nbsp;Jr. further confirmed the molecular structure of boranes using X-ray crystallography in the 1950s and developed theories to explain their bonding. Later, he applied the same methods to related problems, including the structure of carboranes, on which he directed the research of future 1981 Nobel Prize winner Roald Hoffmann. The 1976 Nobel Prize in Chemistry was awarded to Lipscomb "for his studies on the structure of boranes illuminating problems of chemical bonding".<ref></ref>
+Traditionally, diborane has often been described as electron-deficient, because the 12 valence electrons can only form 6 conventional 2-centre 2-electron bonds, which are insufficient to join all 8 atoms.<ref></ref><ref></ref> However, the more correct description using 3-centre bonds shows that diborane is really electron-precise, since there are just enough valence electrons to fill the 6 bonding molecular orbitals.<ref></ref> Nevertheless, some leading textbooks still use the term "electron-deficient".<ref></ref>
+== Other uses ==
+Diborane has been tested as a rocket propellant.<ref></ref> Complete combustion is strongly exothermic. However, combustion is not complete in the rocket engine, as some boron monoxide, B<sub>2</sub>O, is produced. This mirrors the incomplete combustion of hydrocarbons, to produce carbon monoxide, CO.
+Diborane has been used as a rubber vulcaniser, as a catalyst for hydrocarbon polymerisation, as a flame-speed accelerator, and as a doping agent for the production of semiconductors. It is also an intermediate in the production of highly pure boron for semiconductor production. It is also used to coat the walls of tokamaks to reduce the amount of heavy-metal impurities in the core plasma.
+== Safety ==
+The toxic effects of diborane are primarily due to its irritant properties. Short-term exposure to diborane can cause a sensation of tightness of the chest, shortness of breath, cough, and wheezing. These signs and symptoms can occur immediately or be delayed for up to 24 hours. Skin and eye irritation can also occur. Studies in animals have shown that diborane causes the same type of effects observed in humans.
+People exposed for a long time to low amounts of diborane have experienced respiratory irritation, seizures, fatigue, drowsiness, confusion, and occasional transient tremors.
+
+Diborane(6), generally known as diborane, is the chemical compound consisting of boron and hydrogen with the formula B<sub>2</sub>H<sub>6</sub>. It is a colorless, pyrophoric gas with a repulsively sweet odor. Synonyms include boroethane, boron hydride, and diboron hexahydride. Diborane is a key boron compound with a variety of applications. It has attracted wide attention for its electronic structure. Its derivatives are useful reagents.

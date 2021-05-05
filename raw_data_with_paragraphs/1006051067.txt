@@ -1,0 +1,121 @@
+Post-translational modification
+
+== PTMs involving addition of functional groups ==
+===Addition by an enzyme in vivo===
+====Hydrophobic groups for membrane localization====
+* myristoylation (a type of acylation), attachment of myristate, a C<sub>14</sub> saturated acid
+* palmitoylation (a type of acylation), attachment of palmitate, a C<sub>16</sub> saturated acid
+* isoprenylation or prenylation, the addition of an isoprenoid group (e.g. farnesol and geranylgeraniol)
+** farnesylation
+** geranylgeranylation
+* glypiation, GPI anchor formation via an amide bond to C-terminal tail
+====Cofactors for enhanced enzymatic activity====
+* lipoylation (a type of acylation), attachment of a lipoate (C<sub>8</sub>) functional group
+* flavin moiety (FMN or FAD) may be covalently attached
+* heme C attachment via thioether bonds with cysteines
+* phosphopantetheinylation, the addition of a 4'-phosphopantetheinyl moiety from coenzyme A, as in fatty acid, polyketide, non-ribosomal peptide and leucine biosynthesis
+* retinylidene Schiff base formation
+====Modifications of translation factors====
+* diphthamide formation (on a histidine found in eEF2)
+* ethanolamine phosphoglycerol attachment (on glutamate found in eEF1&alpha;)<ref name="pmid2569467"></ref>
+* hypusine formation (on conserved lysine of eIF5A (eukaryotic) and aIF5A (archaeal))
+*beta-Lysine addition on a conserved lysine of the elongation factor P (EFP) in most bacteria.<ref></ref> EFP is a homolog to eIF5A (eukaryotic) and aIF5A (archaeal) (see above).
+====Smaller chemical groups====
+* acylation, e.g. O-acylation (esters), N-acylation (amides), S-acylation (thioesters)
+** acetylation, the addition of an acetyl group, either at the N-terminus <ref name="pmid12507466"></ref> of the protein or at lysine residues.<ref name="pmid18722172"></ref> See also histone acetylation.<ref name="pmid18474937 "></ref><ref name="pmid16289629"></ref> The reverse is called deacetylation.
+** formylation
+* alkylation, the addition of an alkyl group, e.g. methyl, ethyl
+** methylation the addition of a methyl group, usually at lysine or arginine residues. The reverse is called demethylation.
+* <span id="amidation">amidation</span> at C-terminus. Formed by oxidative dissociation of a C-terminal Gly residue.<ref name="amidation"></ref>
+* amide bond formation
+** amino acid addition
+*** arginylation, a tRNA-mediation addition
+*** polyglutamylation, covalent linkage of glutamic acid residues to the N-terminus of tubulin and some other proteins.<ref name="pmid1967194"></ref> (See tubulin polyglutamylase)
+*** polyglycylation, covalent linkage of one to more than 40 glycine residues to the tubulin C-terminal tail
+* butyrylation
+* gamma-carboxylation dependent on Vitamin K<ref></ref>
+* glycosylation, the addition of a glycosyl group to either arginine, asparagine, cysteine, hydroxylysine, serine, threonine, tyrosine, or tryptophan resulting in a glycoprotein. Distinct from glycation, which is regarded as a nonenzymatic attachment of sugars.
+**O-GlcNAc, addition of N-acetylglucosamine to serine or threonine residues in a β-glycosidic linkage
+**polysialylation, addition of polysialic acid, PSA, to NCAM
+* malonylation
+* hydroxylation: addition of an oxygen atom to the side-chain of a Pro or Lys residue
+* iodination: addition of an iodine atom to the aromatic ring of a tyrosine residue (e.g. in thyroglobulin)
+* ADP-ribosylation such as ADP-ribosylation
+* phosphate ester (O-linked) or phosphoramidate (N-linked) formation
+** phosphorylation, the addition of a phosphate group, usually to serine, threonine, and tyrosine (O-linked), or histidine (N-linked)
+** adenylylation, the addition of an adenylyl moiety, usually to tyrosine (O-linked), or histidine and lysine (N-linked)
+** uridylylation, the addition of an uridylyl-group (i.e. uridine monophosphate, UMP), usually to tyrosine
+* propionylation
+* pyroglutamate formation
+* S-glutathionylation
+* S-nitrosylation
+* S-sulfenylation (aka S-sulphenylation), reversible covalent addition of one oxygen atom to the thiol group of a cysteine residue<ref name="CysOx"></ref>
+* S-sulfinylation, normally irreversible covalent addition of two oxygen atoms to the thiol group of a cysteine residue<ref name="CysOx" />
+* S-sulfonylation, normally irreversible covalent addition of three oxygen atoms to the thiol group of a cysteine residue, resulting in the formation of a cysteic acid residue<ref name="CysOx" />
+* succinylation addition of a succinyl group to lysine
+* sulfation, the addition of a sulfate group to a tyrosine.
+===Non-enzymatic additions in vivo===
+* glycation, the addition of a sugar molecule to a protein without the controlling action of an enzyme.
+*carbamylation the addition of Isocyanic acid to a protein's N-terminus or the side-chain of Lys.<ref name="pmid21768218"></ref>
+*carbonylation the addition of carbon monoxide to other organic/inorganic compounds.
+* spontaneous isopeptide bond formation, as found in many surface proteins of Gram-positive bacteria.<ref name="pmid21055949"></ref>
+===Non-enzymatic additions in vitro===
+* biotinylation: covalent attachment of a biotin moiety using a biotinylation reagent, typically for the purpose of labeling a protein.
+* carbamylation: the addition of Isocyanic acid to a protein's N-terminus or the side-chain of Lys or Cys residues, typically resulting from exposure to urea solutions.<ref name="stark_1960"></ref>
+* oxidation: addition of one or more Oxygen atoms to a susceptible side-chain, principally of Met, Trp, His or Cys residues. Formation of disulfide bonds between Cys residues.
+* pegylation: covalent attachment of polyethylene glycol (PEG) using a pegylation reagent, typically to the N-terminus or the side-chains of Lys residues. Pegylation is used to improve the efficacy of protein pharmaceuticals.
+== Other proteins or peptides ==
+* ISGylation, the covalent linkage to the ISG15 protein (Interferon-Stimulated Gene 15)<ref></ref>
+* SUMOylation, the covalent linkage to the SUMO protein (Small Ubiquitin-related MOdifier)<ref>Van G. Wilson (Ed.) (2004). urltoken Sumoylation: Molecular Biology and Biochemistry . Horizon Bioscience. .</ref>
+* ubiquitination, the covalent linkage to the protein ubiquitin.
+* neddylation, the covalent linkage to Nedd
+* pupylation, the covalent linkage to the prokaryotic ubiquitin-like protein
+== Chemical modification of amino acids ==
+* citrullination, or deimination, the conversion of arginine to citrulline <ref></ref>
+* deamidation, the conversion of glutamine to glutamic acid or asparagine to aspartic acid
+* eliminylation, the conversion to an alkene by beta-elimination of phosphothreonine and phosphoserine, or dehydration of threonine and serine <ref></ref>
+== Structural changes ==
+* disulfide bridges, the covalent linkage of two cysteine amino acids
+* proteolytic cleavage, cleavage of a protein at a peptide bond
+* isoaspartate formation, via the cyclisation of asparagine or aspartic acid amino-acid residues
+* racemization
+** of serine by protein-serine epimerase
+** of alanine in dermorphin, a frog opioid peptide
+** of methionine in deltorphin, also a frog opioid peptide
+* protein splicing, self-catalytic removal of inteins analogous to mRNA processing
+== Statistics ==
+===Common PTMs by frequency===
+In 2011, statistics of each post-translational modification experimentally and putatively detected have been compiled using proteome-wide information from the Swiss-Prot database.<ref></ref> The 10 most common experimentally found modifications were as follows:<ref></ref>
+== Databases and tools ==
+Protein sequences contain sequence motifs that are recognized by modifying enzymes, and which can be documented or predicted in PTM databases. With the large number of different modifications being discovered, there is a need to document this sort of information in databases. PTM information can be collected through experimental means or predicted from high-quality, manually curated data. Numerous databases have been created, often with a focus on certain taxonomic groups (e.g. human proteins) or other features.
+=== List of resources ===
+*PhosphoSitePlus<ref></ref> – A database of comprehensive information and tools for the study of mammalian protein post-translational modification
+*ProteomeScout<ref name="ReferenceB"></ref> – A database of proteins and post-translational modifications experimentally
+*Human Protein Reference Database<ref name="ReferenceB"/> – A database for different modifications and understand different proteins, their class, and function/process related to disease causing proteins
+*PROSITE<ref></ref> – A database of Consensus patterns for many types of PTM’s including sites
+*Protein Information Resource (PIR)<ref></ref> – A database to acquire a collection of annotations and structures for PTMs.
+*dbPTM<ref name="ReferenceA"/> – A database that shows different PTM's and information regarding their chemical components/structures and a frequency for amino acid modified site
+* urltoken Uniprot has PTM information although that may be less comprehensive than in more specialized databases.
+=== Tools ===
+List of software for visualization of proteins and their PTMs
+*PyMOL<ref></ref> – introduce a set of common PTM's into protein models
+*AWESOME<ref></ref> – Interactive tool to see the role of single nucleotide polymorphisms to PTM's
+*Chimera <ref></ref> – Interactive Database to visualize molecules
+== Case examples ==
+* Cleavage and formation of disulfide bridges during the production of insulin
+* PTM of histones as regulation of transcription: RNA polymerase control by chromatin structure
+* PTM of RNA polymerase II as regulation of transcription
+* Cleavage of polypeptide chains as crucial for lectin specificity<ref></ref>
+==Addiction==
+A major feature of addiction is its persistence. The addictive phenotype can be lifelong, with drug craving and relapse occurring even after decades of abstinence.<ref name=RobisonNestler2011></ref> Post-translational modifications consisting of epigenetic alterations of histone protein tails in specific regions of the brain appear to be crucial to the molecular basis of addictions.<ref name=RobisonNestler2011 /><ref name="pmid25410541"></ref><ref name="pmid20425300"></ref> Once particular post-translational epigenetic modifications occur, they appear to be long lasting "molecular scars" that may account for the persistence of addictions.<ref name=RobisonNestler2011 /><ref name=Dabin></ref>
+Cigarette smokers (about 21% of the US population in 2013)<ref name=NSDUH>Substance Abuse and Mental Health Services Administration, Results from the 2013 National Survey on Drug Use and Health: Summary of National Findings, NSDUH Series H-48, HHS Publication No. (SMA) 14-4863. Rockville, MD: Substance Abuse and Mental Health Services Administration, 2014</ref>) are usually addicted to nicotine.<ref></ref> After 7 days of nicotine treatment of mice, the post-translational modifications consisting of acetylation of both histone H3 and histone H4 was increased at the FosB promoter in the nucleus accumbens of the brain, causing a 61% increase in FosB expression.<ref name="pmid22049069"></ref> This also increases expression of the splice variant Delta FosB. In the nucleus accumbens of the brain, Delta FosB functions as a "sustained molecular switch" and "master control protein" in the development of an addiction.<ref name="pmid25083822"></ref><ref name="pmid11572966"></ref> Similarly, after 15 days of nicotine treatment of rats, the post-translational modification consisting of 3-fold increased acetylation of histone H4 occurs at the promoter of the dopamine D1 receptor (DRD1) gene in the prefrontal cortex (PFC) of the rats. This caused increased dopamine release in the PFC reward system brain region, and such increased dopamine release is recognized as an important factor for addiction.<ref name="pmid23447334"></ref><ref></ref>
+About 7% of the US population is addicted to alcohol. In rats exposed to alcohol for up to 5 days, there was an increase in the post-translational modification of histone 3 lysine 9 acetylation, H3K9ac, in the Nociceptin promoter in the brain amygdala complex. This acetylation is an activating mark for pronociceptin. The nociceptin/nociceptin opioid receptor system is involved in the reinforcing or conditioning effects of alcohol.<ref name="pmid22684622"></ref>
+Cocaine addiction occurs in about 0.5% of the US population. Repeated cocaine administration in mice induces post-translational modifications including hyperacetylation of Histone H3 or Histone H4 at 1,696 genes in one brain reward region the nucleus accumbens and deacetylation at 206 genes.<ref name="pmid29478612"></ref><ref name=Renthal></ref> At least 45 genes, shown in previous studies to be upregulated in the nucleus accumbens of mice after chronic cocaine exposure, were found to be associated with post-translational hyperacetylation of histone H3 or histone H4. Many of these individual genes are directly related to aspects of addiction associated with cocaine exposure.<ref name=Renthal /><ref> urltoken 
+In 2013, 22.7 million persons aged 12 or older in the United States needed treatment for an illicit drug or alcohol use problem (8.6 percent of persons aged 12 or older).<ref name=NSDUH />
+
+Post-translational modification (PTM) refers to the covalent and generally enzyme modification of proteins following protein biosynthesis. Proteins are synthesized by ribosomes translating mRNA into polypeptide chains, which may then undergo PTM to form the mature protein product. PTMs are important components in cell signaling, as for example when prohormones are converted to hormones.
+Post-translational modifications can occur on the amino acid side chains or at the protein's C- or N- termini.<ref></ref> They can extend the chemical repertoire of the 20 standard amino acids by modifying an existing functional group or introducing a new one such as phosphate. Phosphorylation is a very common mechanism for regulating the activity of enzymes and is the most common post-translational modification.<ref name="khoury"></ref> Many eukaryotic and prokaryotic proteins also have carbohydrate molecules attached to them in a process called glycosylation, which can promote protein folding and improve stability as well as serving regulatory functions. Attachment of lipid molecules, known as lipidation, often targets a protein or part of a protein attached to the cell membrane.
+Other forms of post-translational modification consist of cleaving peptide bonds, as in processing a propeptide to a mature form or removing the initiator methionine residue. The formation of disulfide bonds from cysteine residues may also be referred to as a post-translational modification.<ref name=lodish></ref> For instance, the peptide hormone insulin is cut twice after disulfide bonds are formed, and a propeptide is removed from the middle of the chain; the resulting protein consists of two polypeptide chains connected by disulfide bonds.
+Some types of post-translational modification are consequences of oxidative stress. Carbonylation is one example that targets the modified protein for degradation and can result in the formation of protein aggregates.<ref></ref><ref></ref> Specific amino acid modifications can be used as biomarkers indicating oxidative damage.<ref></ref>
+Sites that often undergo post-translational modification are those that have a functional group that can serve as a nucleophile in the reaction: the hydroxyl groups of serine, threonine, and tyrosine; the amine forms of lysine, arginine, and histidine; the thiolate anion of cysteine; the carboxylates of aspartate and glutamate; and the N- and C-termini. In addition, although the amide of asparagine is a weak nucleophile, it can serve as an attachment point for glycans. Rarer modifications can occur at oxidized methionines and at some methylenes in side chains.<ref name=walsh> </ref>
+Post-translational modification of proteins can be experimentally detected by a variety of techniques, including mass spectrometry, Eastern blotting, and Western blotting. Additional methods are provided in the external links sections.

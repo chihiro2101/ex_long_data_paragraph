@@ -1,0 +1,41 @@
+Luigi Luca Cavalli-Sforza
+
+==Works==
+===Schooling and positions===
+Cavalli-Sforza entered Ghislieri College in Pavia in 1939 and he received his M.D. from the University of Pavia in 1944. In 1949, he was appointed to a research post at the Department of Genetics, Cambridge University by the statistician and evolutionary biologist Ronald A. Fisher in the field of E. coli genetics.<ref></ref> In 1950, he left the University of Cambridge to teach in northern Italy (Parma, and Pavia) before taking up a professorship at Stanford in 1970. He remained at Stanford until he retired in 1992.
+In 1999 he won the Balzan Prize for the Science of human origins. He has been a member of the Pontifical Academy of Sciences since 1994. He was awarded the Telesio-Galilei Academy Award in 2011 for Biology.
+===Specific contributions===
+Cavalli-Sforza initiated a new field of research by combining the concrete findings of demography with a newly available analysis of blood type in an actual human population. He also studied the connections between migration patterns and blood groups.
+Writing in the mid-1960s with another genetics student of Ronald A. Fisher, A.W.F. Edwards, Cavalli-Sforza pioneered statistical methods for estimating evolutionary trees (phylogeny). Edwards and Cavalli-Sforza wrote about trees of populations within the human species, where genetic differences are affected both by treelike patterns of historical separation of populations and by spread of genes among populations by migration and admixture. Many of these influential and fundamental early papers were reprinted in 2018 in a volume focusing on A. W. F. Edwards, and dedicated to Cavalli-Sforza and Ian Hacking.<ref></ref> In later papers, Cavalli-Sforza has written about the effects of both divergence and migration on human gene frequencies.
+While Cavalli-Sforza is best known for his work in genetics, he also, in collaboration with Marcus Feldman and others, initiated the sub-discipline of cultural anthropology known alternatively as coevolution, gene-culture coevolution, cultural transmission theory or dual inheritance theory. The publication Cultural Transmission and Evolution: A Quantitative Approach (1981) made use of models from population genetics and infectious disease epidemiology to investigate the transmission of culturally transmitted units. This line of inquiry initiated research into the correlation of patterns of genetic and cultural dispersion.
+Cavalli-Sforza conducted several studies of how language differences may serve as barriers to gene flow between adjacent human populations. His studies of human migration have tested hypotheses of linguists Merritt Ruhlen and Joseph Greenberg about language "superfamilies". The hypothesized superfamilies are controversial among other linguists.<ref></ref>
+===Books===
+Cavalli-Sforza has summed up his work for laymen in five topics covered in Genes, Peoples, and Languages.<ref>Luigi Cavalli-Sforza, Genes, Peoples, and Languages, tr. Mark Seielstad, North Point Press (2000) </ref> According to an article published in The Economist, the work of Cavalli-Sforza "challenges the assumption that there are significant genetic differences between human races, and indeed, the idea that 'race' has any useful biological meaning at all". The book illustrates both the problems of constructing a general "hereditary tree" for the entire human race, and some mechanisms and data analysis methods to greatly reduce these problems, thus constructing a fascinating hypothesis of the recent 150,000 years of human expansion, migration, and human diversity formation.<ref>Geoffrey Carr, "Survey: The proper study of mankind", The Economist Vol. 356, no. 8177, pg. 11 (July 1, 2000).</ref> In the book Cavalli-Sforza asserts that Europeans are, in their ancestry, about two-thirds Asian and one-third African.<ref></ref>
+Cavalli-Sforza's The History and Geography of Human Genes<ref>Cavalli-Sforza, L. L., P. Menozzi, A. Piazza. 1994. The History and Geography of Human Genes. Princeton University Press, Princeton. </ref> (1994 with Paolo Menozzi and Alberto Piazza) is a standard reference on human genetic variation. Cavalli-Sforza also wrote The Great Human Diasporas: The History of Diversity and Evolution (together with his son Francesco).
+Earlier, in the 1970s, he and Walter Bodmer wrote what was the standard textbook on modern human genetics, and was also a basic reference for population genetics more generally, as the field was at the time, The Genetics of Human Populations. WHFreeman, 1971. The two, with Bodmer as first author, later wrote another more basic text, Genetics, Evolution, and Man WHFreeman, 1976. Along with his 1994 book these are essentially classical presentations of human genetics before the genomics era began providing very much more detailed data.
+==Death==
+Professor Cavalli-Sforza died on 31 August 2018, at the age of 96 at his home in Belluno, Italy.<ref></ref><ref></ref>
+==References==
+==Bibliography==
+* A.W.F. Edwards, and L.L. Cavalli-Sforza. 1964. Reconstruction of evolutionary trees. pp.&nbsp;67–76 in Phenetic and Phylogenetic Classification, ed. V. H. Heywood and J. McNeill. Systematics Association pub. no. 6, London.
+* Cavalli-Sforza, L.L. and A.W.F. Edwards. 1965. Analysis of human evolution. pp.&nbsp;923–933 in Genetics Today. Proceedings of the XI International Congress of Genetics, The Hague, The Netherlands, September 1963, volume 3, ed. S. J. Geerts, Pergamon Press, Oxford.
+* Cavalli-Sforza, L.L. and A.W.F. Edwards. 1967. Phylogenetic analysis: models and estimation procedures. American Journal of Human Genetics 19:233–257.
+* Cavalli-Sforza, L. L. and W. F. Bodmer. 1971. The Genetics of Human Populations. W. H. Freeman, San Francisco (reprinted 1999 by Dover Publications).
+* Cavalli-Sforza, L. L. and M. Feldman. 1981. Cultural Transmission and Evolution. Princeton University Press, Princeton.
+* Cavalli-Sforza, L. L., P. Menozzi, A. Piazza. 1994. The History and Geography of Human Genes. Princeton University Press, Princeton. 
+* Cavalli-Sforza, L. L. and Francesco Cavalli-Sforza. 1995. The Great Human Diasporas: The History of Diversity and Evolution. Addison-Wesley 
+* Cavalli-Sforza, L.L. 2000. Genes, Peoples, and Languages. North Point Press, New York. 
+* Cavalli Sforza, L. L, Il caso e la necessità – Ragioni e limiti della diversità genetica, 2007, Di Renzo Editore, Roma
+*
+==Films==
+*2003 – Journey of Man
+==Further reading==
+* 
+==External links==
+*: Brief biography of Cavalli-Sforza
+* urltoken The Great Human Diasporas – The History of Diversity and Evolution: book review
+*: book review
+* urltoken Luigi Luca Cavalli-Sforza interview by Frederica Crivellaro, December 5th 2006 (video)
+* (Annual Reviews interview video)
+
+Luigi Luca Cavalli-Sforza ; 25 January 1922 – 31 August 2018) was an Italy geneticist. He was a population genetics who taught at the University of Parma, the University of Pavia and then at Stanford University.

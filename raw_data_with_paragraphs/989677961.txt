@@ -1,0 +1,99 @@
+Charales
+
+==Description==
+The Charales grow in freshwater and brackish environments worldwide, and have large, macroscopic thalli growing up to 120&nbsp;cm long, they are branched, multicellular, and use chlorophyll to photosynthesize. Their only diploid stage in the life cycle is the unicellular oospore. They may be called stoneworts,<ref name="pmid17272304"></ref> because the plants can become encrusted in lime (calcium carbonate) after some time. The "stem" is actually a central stalk consisting of giant, multinucleated cells. They are unique in having a whorl of small branchlets at each node in the stipe, this gives them a superficial resemblance to the genus Equisetum. In these whorls it is possible to see the phenomenon of cytoplasmic streaming. In fact the streaming in Chara is the fastest recorded of any cell. Cytoplasmic streaming is caused by the microfilaments found inside the cell, as proven by the use of cytochalasin B to stop streaming.
+There are about 400 species worldwide, with 33 in Britain and Ireland according to Groves and Bullock-Webster),<ref name="Groves and Bullock-Webster 20">Groves, J. and Bullock-Webster, G.R. 1920. The British Charophyta. Vol.1, Nitelleae. London, The Ray Society</ref><ref name="Groves and Bullock-Webster 24">Groves, J. and Bullock-Webster, G.R. 1924. The British Charophyta. Vol.2, Characeae. London, The Ray Society</ref> however Stewart and Church (1992) reduce this to 21.<ref name="Stewart and Church 92">Stewart, N.F. and Church, J.M. 1992. Red Data Books of Britain and Ireland. The Joint Nature Conservation Committee, Peterborough. </ref>
+Characeae are the principal plant life of some of the volcanic crater lakes of Nicaragua, and can be found in excess of 20 meters depth in some circumstances. Introduced tilapia (Oreochromis niloticus) consumed all the Characeae in Lake Apoyo.<ref>McCrary JK, Murphy BR, Stauffer, Jr. JR, Hendrix SS (2007): Tilapia (Teleostei: Cichlidae) status in Nicaraguan natural waters; Env. Biol. Fishes 78:107-114 </ref>
+==Ecology==
+Most Characeae are found in fresh water, usually in still, clear water where they attach to the substrate by rhizoids. They can be pioneer colonizers or ephemerals.<ref name="John, Whitton and Brook 02">John, D.M., Whitton, B.A. and Brook, A.J. 2002. The Freshwater Algal Flora of the British Isles. Cambridge University Press, London. </ref> They are usually found in low to medium nutrient-rich water and tend to disappear due to eutrophication. Some stoneworts can survive in brackish or maritime habitats and occur in ephemeral saline lakes in Australia that have twice the salinity of seawater.<ref>Burne, R.V., Bauld, J. and de Decker, P. 1980. Saline lake charophytes and their geological significance. Journal of Sedimentary Petrology, 50, 281-293.
+ urltoken 
+</ref>
+==Life history==
+The antheridia (or globules<ref name="bs"></ref>) and oogonia (or nucules<ref name=bs />) are protected by a layer of sterile cells when mature; the oogonium is oblong in shape and consists of a single egg, while the spherical antheridium is packed with threadlike cells that produce spermatia. As a result, the Charales have the most complex structure of all green algae, if indeed they should be so labelled.
+The possible sister group of the Embryophyta are also known as brittleworts or skunkweed. These curious labels arise from the fragility of their lime-encrusted stems, and from the foul odor these produce when stepped on.
+Many Botany propose that the stoneworts and their relatives be placed in a phylum, sub-kingdom, or even kingdom by themselves, often named Charophyta.<ref></ref><ref></ref> Their classification by taxonomists is currently undergoing much cladistic scrutiny. Further DNA and RNA analysis may prove the charophytes to be a crucial evolutionary link in the phylogenetic tree of life, the critical developmental step from the algae toward the bryophyte and then vascular land plants.
+==Species==
+===British Isles===
+Ref: Stewart & Church (1992).<ref name="Stewart and Church 92"/>
+*Chara baltica <small>Bruz.</small>
+*Chara canescens <small>Desv. & Lois.</small>
+*Chara connivens <small>Salzm. ex A.Braun</small>
+*Chara curta <small>Nolta ex Kütz.</small> (=C. aspera var. curta)
+*Chara denudata <small>(A.Braun) R.D.Wood</small>
+*Chara fragifera <small>Durieu</small>
+*Chara intermedia <small>Braun</small> (=C. papillosa Kütz. and C. contraria x hispida)
+*Chara mucosa <small>J.Groves & Bullock-Webster</small>
+*Chara rudis <small>(A.Braun) Leonh.</small>
+*Chara tomentosa <small>L.</small>
+*Lamprothamnium papulosum <small>(Wallr.) J.Groves</small>
+*Nitella capillaris <small>(Krocker) J.Groves & Bullock-Webster</small>
+*Nitella gracilis <small>(Smith) Agardh</small>
+*Nitella hyalina <small>(DC.)Agardh</small>
+*Nitella mucronata <small>(A.Braun)Miquel</small>
+*Nitella spanioclema <small>J.Groves & Bullock-Webster</small> (Nitella flexilis var. spanioclema <small>(J.Groves & Bullock-Webster)</small>)
+*Nitella tenuissima <small>(Desv.) Kütz.</small>
+*Nitellopsis obtusa <small>(Desv.) J.Groves</small>
+*Tolypella intricata <small>(Trent. ex Roth) Leonh.</small><ref></ref>
+*Tolypella nidifica <small>(O.F.Müll.) Leonh.</small> (=Tolypella nidifica var. nidifica)
+*Tolypella prolifera <small>(Ziz. ex A.Braun) Leonh.</small>
+==Distribution==
+===Ireland===
+* County Antrim<ref name="Morton92">Morton, O. 1992 in Hackney, P. (Ed.) Stewart & Corry's Flora of the North-east of Ireland. Institute of Irish Studies and The Queen's University of Belfast (HB)</ref>
+** Chara aspera var. aspera <small></small>
+** Chara globularis var. globularis <small></small>
+** Chara vulgaris var. papillata <small>Wallr. ex A. Braun</small>
+** Chara globularis var. virgata <small>(Kützing) R.D.Wood</small>
+** Chara vulgaris var. vulgaris <small></small>
+** Chara vulgaris var. contraria <small>(A.Braun ex Kützing) J.A. Moore</small>
+** Chara vulgaris var. longibracteata <small>(Kützing) J. Groves & Bullock-Webster</small>
+** Chara vulgaris var. papillata <small>Wallr. ex A. Braun</small>
+** Nitella flexilis var. flexilis <small></small>
+** Nitella translucens <small>(Pers.) C.A. Ag.</small>
+** Tolypella nidifica var. glomerata <small>(Desv.) R.D.Wood</small>
+* County Down<ref name="Morton92"/>
+** Chara aspera var. aspera <small></small>
+** Chara aspera var. curta <small>(Nolte ex Kützing) Braun ex Leonh.</small>
+** Chara globularis var. globularis <small></small>
+** Chara vulgaris var. papillata <small>Wallr. ex A. Braun</small>
+** Chara globularis var. virgata <small>(Kützing) R.D.Wood</small>
+** Chara globularis var. annulata <small>(Lilleblad) J.A.Moore</small>
+** Chara hispida <small>L.</small>
+** Chara hispida var. hispida <small></small>
+** Chara hispida var. major <small>(Hartm.) R.D. Wood</small>
+** Chara hispida var. rudis <small>A. Braun</small>
+** Chara pedunculata <small>Kützing</small>
+** Chara vulgaris var. vulgaris <small></small>
+** Chara vulgaris var. contraria <small>(A.Braun ex Kützing) J.A. Moore</small>
+** Chara vulgaris var. longibracteata <small>(Kützing) J. Groves & Bullock-Webster</small>
+** Chara vulgaris var. papillata <small>Wallr. ex A. Braun</small>
+** Nitella flexilis var. flexilis <small></small>
+** Nitella translucens <small>(Pers) C.A. Ag.</small>
+** Tolypella nidifica var. glomerata <small>(Desv.) R.D.Wood</small>
+* County Londonderry<ref name="Morton92"/>
+** Chara aspera <small>Deth. ex Willd. var. aspera </small>
+** Chara vulgaris var. papillata <small>Wallr. ex A. Braun</small>
+** Chara globularis var. globularis <small></small>
+** Chara globularis var. virgata <small>(Kützing) R.D.Wood</small>
+** Chara hispida <small>L.</small>
+** Chara hispida var. hispida <small></small>
+** Chara vulgaris var. vulgaris <small></small>
+** Chara vulgaris var. contraria <small>(A.Braun ex Kützing) J.A. Moore</small>
+** Chara vulgaris var. papillata <small>Wallr. ex A. Braun</small>
+** Nitella flexilis var. flexilis <small></small>
+** Nitella translucens <small>(Pers) C.A. Ag.</small>
+** Tolypella nidifica var. glomerata <small>(Desv.) R.D.Wood</small>
+* County Mayo.Recent records have been published from Clare Island.<ref name="Guiry07">Guiry, M.D., John, D.M., Rindi, F. and McCarthy, T.K 2007. New Survey of Clare Island, Volume 6: The Freshwater and Terrestrial Algae. Royal Irish Academy. </ref>
+** Chara virgata <small>Kützing</small>
+** Nitella flexilis <small>(Linnaeus) C.Agardh</small>
+** Nitella translucens <small>(Persoon) C.Agardh</small>
+==References==
+==Further reading==
+*Bryant, J. The stoneworts (Chlorophyta, Charales). In Guiry, M.D., John, D.M., Rindi, F. and McCarthy, T.K. 2007. New Survey of Clare Island. Royal Irish Academy. .
+*Schaible, R. and Schubert, H. 2008. The occurrence of sexual Chara canesces populations (Charophyceae) is not related to ecophysiological potentials with respect to salinity and irradiance. Eur. J. Phycol. 43: 309 - 316.
+*Desai, Udaysingh and Karande C.T. 2008. "Biodiversity of Charophytes from Kolhapur District, Maharashtra". Shivaji University, Kolhapur.
+==External links==
+* urltoken Images of Charales
+* urltoken University California
+* urltoken Chara curta in Ireland
+
+Charales is an order of freshwater green algae in the division Charophyta, class Charophyceae, commonly known as stoneworts. Linnaeus established the genus Chara in 1753.

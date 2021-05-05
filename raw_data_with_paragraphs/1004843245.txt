@@ -1,0 +1,59 @@
+Æ
+
+==Latin==
+In Classical Latin, the combination AE denotes the diphthong , which had a value similar to the long i in fine as pronounced in most dialects of Modern English.<ref>James Morwood (1999). Latin Grammar, Oxford University Press. , p. 3</ref> Both classical and present practice is to write the letters separately, but the ligature was used in medieval and early modern writings, in part because æ was reduced to the simple vowel during the Roman Empire. In some medieval scripts, the ligature was simplified to ę, an e with ogonek, the e caudata. That was further simplified into a plain e, which may have influenced or been influenced by the pronunciation change. However, the ligature is still relatively common in liturgical books and musical scores.
+== French ==
+In the modern French alphabet, æ (called "a e-dans-l’a") is used to spell Latin and Greek borrowings like curriculum vitæ, et cætera, ex æquo, tænia and the first name Lætitia. It is mentioned in the name of Serge Gainsbourg's song Elaeudanla Téïtéïa, a reading of the French spelling of the name Lætitia: "L, A, E dans l'A, T, I, T, I, A".
+==English==
+In English, usage of the ligature varies between different places and contexts, but it is fairly rare. In modern typography, if technological limitations make the use of æ difficult (such as in use of typewriters, telegraphs, or ASCII), the digraph ae is often used instead.
+In the United States, the issue of the ligature is sidestepped in many cases by use of a simplified spelling with "e", as happened with œ as well. Usage, however, may vary; for example, medieval is now more common than mediaeval (and the now old-fashioned mediæval) even in the United Kingdom,<ref>The spelling medieval is given priority in both urltoken Oxford and urltoken Cambridge Advanced Learner's Dictionary. Accessed September 22, 2014.</ref> but archaeology is preferred over archeology, even in the US.<ref> urltoken Merriam-Webster Advanced Learner's Dictionary. Accessed September 22, 2014.</ref>
+Given their long history, ligatures are sometimes used to show archaism or in literal quotations of historic sources; for instance, in those contexts, words such as dæmon and æther are often so spelled.
+The ligature is seen on gravestones of the 19th century, short for ætate ("at the age (of)"): "Æ xxYs, yyMs, zzDs." It is also common in formal typography (invitations, resolutions, announcements and some government documents); for example, the Court Circular has continued to use the spelling orthopædic<ref> urltoken Online search, February 2021</ref> well into the 21st Century.
+In Old English, æ represented a sound between a and e , very much like the short a of cat in many dialects of Modern English. If long vowels are distinguished from short vowels, the long version is marked with a macron (ǣ) or, less commonly, an acute (ǽ).
+==Other Germanic languages==
+In Old Norse, æ represents the long vowel . The short version of the same vowel, , if it is distinguished from , is written as ę.
+In most varieties of Faroese, æ is pronounced as follows:
+* when simultaneously stressed and occurring either word-finally, before a vowel letter, before a single consonant letter, or before the consonant-letter groups kl, kr, pl, pr, tr, kj, tj, sj and those consisting of ð and one other consonant letter except for ðr when pronounced like gr (except as below)
+*a rather open when directly followed by the sound , as in (silent ð) and (silent g)
+* in all other cases
+One of its etymological origins is Old Norse é (the other is Old Norse æ), which is particularly evident in the dialects of Suðuroy, where Æ is or :
+* (eider): Southern , Northern Faroese 
+* (family, direction): Southern , Northern Faroese 
+In Icelandic, æ represents the diphthong , which can be long or short.
+In Danish and Norwegian, æ is a separate letter of the alphabet that represents a monophthong. It follows z and precedes ø and å. In Norwegian, there are four ways of pronouncing the letter:
+* as in (the name of the letter), , , , , , , , , , , , , ("trees")
+* as in , , , , , , , , (where is pronounced as a diphthong 
+* as in , , , , , , , , , , ("thread(s)" (verb))
+* as in , , , , , , 
+In many western, northern and southwestern Norwegian dialects and in the western Danish dialects of and Southern Jutland, has a significant meaning: the first person singular pronoun I. It is thus a normal spoken word and is usually written when such dialects are rendered in writing. It is pronounced , contrary to the definite article which is pronounced .
+In western and southern Jutish dialects of Danish, is also the proclitic definite article: (the house), as opposed to Standard Danish and all other Nordic varieties which have enclitic definite articles (Danish, Swedish, Norwegian: , Icelandic, Faroese: (the house)).
+The equivalent letter in German and Swedish is , but it is not located at the same place within the alphabet. In German, it is not a separate letter from "A" but in Swedish, it is the second-last letter (between å and ö).
+In the normalised spelling of Middle High German, represents a long vowel . The actual spelling in the manuscripts varies, however.
+==Ossetic==
+Ossetic used the letter æ when it was written using the Latin script from 1923 to 1938. Since then, Ossetian has used a Cyrillic script with an identical-looking letter (Ӕ). It is pronounced as a mid-central vowel (schwa).
+==South American languages==
+The letter æ is used in the official orthography of Kawésqar spoken in Chile and also in that of the Fuegian language Yaghan.
+== International Phonetic Alphabet ==
+The symbol is also used in the International Phonetic Alphabet to denote a near-open front unrounded vowel like in the word cat in many dialects of Modern English, which is the sound that was most likely represented by the Old English letter. In the IPA, it is always in lowercase.
+==Uralic Phonetic Alphabet==
+The Uralic Phonetic Alphabet (UPA) uses several additional æ-related symbols:<ref></ref>
+*
+*
+*
+*
+== Computer encodings and entering==
+* When using the Latin-1 or Unicode/HTML character sets, the code points for Æ and æ are and , respectively.
+*The characters can be entered by holding the Alt key while typing in 0198 (upper case) or 0230 (lower case) on the number pad on Windows systems (the Alt key and 145 for æ or 146 for Æ may also work from the legacy IBM437 codepage).
+*In the TeX typesetting system, ӕ is produced by \ae.
+*In Microsoft Word, Æ or æ can be written using the key combination + + followed by or .
+*On US-International keyboards, Æ is accessible with the combination of AltGr+z.
+*In X, AltGr+A is often mapped to æ/Æ, or a Compose key sequence Compose + a + e can be used. For more information, see Unicode input.
+*In all versions of the Mac OS (Systems 1 through 7, Mac OS 8 and 9, and the current OS X), the following key combinations are used: æ: Option + ' (apostrophe key), Æ: Option + Shift + '.
+*On the iPhone, iPod touch and iPad, as well as phones running Google's Android OS or Windows Mobile OS and on the Kindle Touch and Paperwhite, æ and Æ are accessed by holding down "A" until a small menu is displayed.
+*The Icelandic keyboard layout has a separate key for Æ (and Ð, Þ and Ö).
+*The Norwegian keyboard layout also has a separate key for Æ, rightmost of the letters, to the right of Ø and below Å.
+===Cyrillic===
+The Latin letters are frequently used in place of the Cyrillic Ӕ and ӕ in Cyrillic texts (such as on Ossetian sites on the Internet).
+
+Æ (minuscule: æ) is a character formed from the letters a and e, originally a ligature representing the Latin diphthong ae. It has been promoted to the full status of a letter in some languages, including Danish, Norwegian, Icelandic, and Faroese. It was also used in Old Swedish before being changed to ä. Today, the International Phonetic Alphabet uses it to represent the "a" sound in the English word "cat". Variants include Ǣ ǣ Ǽ ǽ Æ̀ æ̀ Æ̂ æ̂ Ǣ ǣ Æ̃ æ̃.
+As a letter of the Old English Latin alphabet, it was called ("ash tree")<ref></ref> after the Anglo-Saxon runes rune ᚫ ( ; its traditional name in English is still ash .

@@ -1,0 +1,76 @@
+Stellar nucleosynthesis
+
+==History==
+In 1920, Arthur Eddington, on the basis of the precise measurements of atomic masses by F.W. Aston and a preliminary suggestion by Jean Perrin, proposed that stars obtained their energy from nuclear fusion of hydrogen to form helium and raised the possibility that the heavier elements are produced in stars.<ref>
+</ref><ref>
+</ref><ref>
+</ref> This was a preliminary step toward the idea of stellar nucleosynthesis. In 1928 George Gamow derived what is now called the Gamow factor, a quantum mechanics formula yielding the probability for two contiguous nuclei to overcome the electrostatic Coulomb barrier between them and approach each other closely enough to undergo nuclear reaction due to the strong nuclear force which is effective only at very short distances.<ref>Krane, K. S., Modern Physics (Hoboken, NJ: Wiley, 1983), urltoken p. 410.</ref> In the following decade the Gamow factor was used by Atkinson and Houtermans and later by Edward Teller and Gamow himself to derive the rate at which nuclear reactions would occur at the high temperatures believed to exist in stellar interiors.
+In 1939, in a Nobel lecture entitled "Energy Production in Stars", Hans Bethe analyzed the different possibilities for reactions by which hydrogen is fused into helium.<ref>
+</ref> He defined two processes that he believed to be the sources of energy in stars. The first one, the proton-proton chain reaction, is the dominant energy source in stars with masses up to about the mass of the Sun. The second process, the CNO cycle, which was also considered by Carl Friedrich von Weizsäcker in 1938, is more important in more massive main-sequence stars.<ref>.</ref> These works concerned the energy generation capable of keeping stars hot. A clear physical description of the proton–proton chain and of the CNO cycle appears in a 1968 textbook.<ref name=Clayton1968/> Bethe's two papers did not address the creation of heavier nuclei, however. That theory was begun by Fred Hoyle in 1946 with his argument that a collection of very hot nuclei would assemble thermodynamically into iron.<ref name=Hoyle1946>
+</ref> Hoyle followed that in 1954 with a paper describing how advanced fusion stages within massive stars would synthesize the elements from carbon to iron in mass.<ref name=Hoyle1954/><ref>
+</ref>
+Hoyle's theory was extended to other processes, beginning with the publication of the 1957 review paper "Synthesis of the Elements in Stars" by Burbidge, Burbidge, Fowler and Hoyle, more commonly referred to as the B2FH paper.<ref name=B2FH/> This review paper collected and refined earlier research into a heavily cited picture that gave promise of accounting for the observed relative abundances of the elements; but it did not itself enlarge Hoyle's 1954 picture for the origin of primary nuclei as much as many assumed, except in the understanding of nucleosynthesis of those elements heavier than iron by neutron capture. Significant improvements were made by Alastair G. W. Cameron and by Donald D. Clayton. In 1957 Cameron presented his own independent approach to nucleosynthesis,<ref></ref> informed by Hoyle's example, and introduced computers into time-dependent calculations of evolution of nuclear systems. Clayton calculated the first time-dependent models of the S-process in 1961<ref>
+</ref> and of the R-process in 1965,<ref name=Seeger1965>
+</ref> as well as of the burning of silicon into the abundant alpha-particle nuclei and iron-group elements in 1968,<ref name=Bodansky1968a>
+</ref><ref name=Bodansky1968b>
+</ref> and discovered radiogenic chronologies<ref>
+</ref> for determining the age of the elements.
+==Key reactions==
+The most important reactions in stellar nucleosynthesis:
+* Hydrogen fusion:
+** Deuterium fusion
+** The proton–proton chain
+** The CNO cycle
+* Helium fusion:
+** The triple-alpha process
+** The alpha process
+* Fusion of heavier elements:
+** Lithium burning: a process found most commonly in brown dwarfs
+** Carbon-burning process
+** Neon-burning process
+** Oxygen-burning process
+** Silicon-burning process
+* Production of elements heavier than iron:
+** Neutron capture:
+*** The r-process
+*** The s-process
+** Proton capture:
+*** The rp-process
+*** The p-process
+** Photodisintegration
+===Hydrogen fusion===
+Hydrogen fusion (nuclear fusion of four protons to form a helium-4 nucleus<ref name=jones2009/>) is the dominant process that generates energy in the cores of main sequence stars. It is also called "hydrogen burning", which should not be confused with the chemical hydrogen#Combustion in an oxidizing atmosphere. There are two predominant processes by which stellar hydrogen fusion occurs: proton-proton chain and the carbon-nitrogen-oxygen (CNO) cycle. Ninety percent of all stars, with the exception of white dwarfs, are fusing hydrogen by these two processes.
+In the cores of lower-mass main-sequence stars such as the Sun, the dominant energy production process is the proton–proton chain reaction. This creates a helium-4 nucleus through a sequence of reactions that begin with the fusion of two protons to form a deuterium nucleus (one proton plus one neutron) along with an ejected positron and neutrino.<ref name=bohm_vitense1992/> In each complete fusion cycle, the proton–proton chain reaction releases about 26.2&nbsp;MeV.<ref name=bohm_vitense1992/> The proton–proton chain reaction cycle is relatively insensitive to temperature; a 10% rise of temperature would increase energy production by this method by 46%, hence, this hydrogen fusion process can occur in up to a third of the star's radius and occupy half the star's mass. For stars above 35% of the Sun's mass,<ref name=aaa496_3_787/> the energy flux toward the surface is sufficiently low and energy transfer from the core region remains by radiative heat transfer, rather than by convective heat transfer.<ref name=deloore_doom1992/> As a result, there is little mixing of fresh hydrogen into the core or fusion products outward.
+In higher-mass stars, the dominant energy production process is the CNO cycle, which is a catalytic cycle that uses nuclei of carbon, nitrogen and oxygen as intermediaries and in the end produces a helium nucleus as with the proton-proton chain.<ref name=bohm_vitense1992/> During a complete CNO cycle, 25.0&nbsp;MeV of energy is released. The difference in energy production of this cycle, compared to the proton–proton chain reaction, is accounted for by the energy lost through neutrino emission.<ref name=bohm_vitense1992/> The CNO cycle is very temperature sensitive, a 10% rise of temperature would produce a 350% rise in energy production. About 90% of the CNO cycle energy generation occurs within the inner 15% of the star's mass, hence it is strongly concentrated at the core.<ref name=jeffrey2010/> This results in such an intense outward energy flux that convective energy transfer become more important than does radiative transfer. As a result, the core region becomes a convection zone, which stirs the hydrogen fusion region and keeps it well mixed with the surrounding proton-rich region.<ref name=karttunen_oja2007/> This core convection occurs in stars where the CNO cycle contributes more than 20% of the total energy. As the star ages and the core temperature increases, the region occupied by the convection zone slowly shrinks from 20% of the mass down to the inner 8% of the mass.<ref name=jeffrey2010/> Our Sun produces on the order of 1% of its energy from the CNO cycle.<ref>Choppin, G. R., Liljenzin, J.-O., Jan Rydberg, & Ekberg, C., Radiochemistry and Nuclear Chemistry (Cambridge, MA: Academic Press, 2013), urltoken p. 357.</ref><ref></ref><ref></ref>
+The type of hydrogen fusion process that dominates in a star is determined by the temperature dependency differences between the two reactions. The proton–proton chain reaction starts at temperatures about ,<ref name=reid_hawley2005/> making it the dominant fusion mechanism in smaller stars. A self-maintaining CNO chain requires a higher temperature of approximately , but thereafter it increases more rapidly in efficiency as the temperature rises, than does the proton-proton reaction.<ref name=salaris_cassini2005/> Above approximately , the CNO cycle becomes the dominant source of energy. This temperature is achieved in the cores of main sequence stars with at least 1.3 times the mass of the Sun.<ref name=apj701_1_837/> The Sun itself has a core temperature of about . As a main sequence star ages, the core temperature will rise, resulting in a steadily increasing contribution from its CNO cycle.<ref name=jeffrey2010/>
+===Helium fusion===
+Main sequence stars accumulate helium in their cores as a result of hydrogen fusion, but the core does not become hot enough to initiate helium fusion. Helium fusion first begins when a star leaves the red giant branch after accumulating sufficient helium in its core to ignite it. In stars around the mass of the sun, this begins at the tip of the red giant branch with a helium flash from a degenerate helium core, and the star moves to the horizontal branch where it burns helium in its core. More massive stars ignite helium in their core without a flash and execute a blue loop before reaching the asymptotic giant branch. Such a star initially moves away from the AGB toward bluer colors, then loops back again to what is called the Hayashi track. An important consequence of blue loops is that they give rise to classical Cepheid variables, of central importance in determining distances in the Milky Way and to nearby galaxies.<ref>Karttunen, H., Kröger, P., Oja, H., Poutanen, M., & Donner, K. J., eds., Fundamental Astronomy (Berlin/Heidelberg: Springer, 1987), urltoken p. 250.</ref> Despite the name, stars on a blue loop from the red giant branch are typically not blue in color, but are rather yellow giants, possibly Cepheid variables. They fuse helium until the core is largely carbon and oxygen. The most massive stars become supergiants when they leave the main sequence and quickly start helium fusion as they become red supergiants. After helium is exhausted in the core of a star, it will continue in a shell around the carbon-oxygen core.<ref name=jones2009/><ref name=deloore_doom1992/>
+In all cases, helium is fused to carbon via the triple-alpha process, i.e., three helium nuclei are transformed into carbon via Beryllium-8.<ref>Rehder, D., Chemistry in Space: From Interstellar Matter to the Origin of Life (Weinheim: Wiley-VCH, 2010), urltoken p. 30.</ref> This can then form oxygen, neon, and heavier elements via the alpha process. In this way, the alpha process preferentially produces elements with even numbers of protons by the capture of helium nuclei. Elements with odd numbers of protons are formed by other fusion pathways.
+==Reaction rate==
+The reaction rate density between species A and B, having number densities n<sub>A,B</sub> is given by:
+::<math>r = n_A \, n_B \, k </math>
+where k is the reaction rate constant of each single elementary binary reaction composing the nuclear fusion process:
+::<math>k = \langle \sigma(v)\,v \rangle</math>
+here, σ(v) is the cross section at relative velocity v, and averaging is performed over all velocities.
+Semi-classically, the cross section is proportional to <math>\pi\,\lambda^2</math>, where <math>\lambda=h/p</math> is the Matter wave. Thus semi-classically the cross section is proportional to <math>\frac
+==Further reading==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+==External links==
+* urltoken How the Sun Shines by John N. Bahcall (Nobel prize site, accessed 6 January 2020)
+* urltoken Nucleosynthesis in NASA's Cosmicopia
+
+Stellar nucleosynthesis is the nucleosynthesis of chemical elements by nuclear fusion reactions within stars. Stellar nucleosynthesis has occurred since the original creation of hydrogen, helium and lithium during the Big Bang. As a predictive power, it yields accurate estimates of the observed abundances of the elements. It explains why the observed abundances of elements change over time and why some elements and their isotopes are much more abundant than others. The theory was initially proposed by Fred Hoyle in 1946,<ref name=Hoyle1946/> who later refined it in 1954.<ref name=Hoyle1954>
+</ref> Further advances were made, especially to nucleosynthesis by neutron capture of the elements heavier than iron, by Margaret and Geoffrey Burbidge, William Alfred Fowler and Hoyle in their famous 1957 B2FH paper,<ref name=B2FH>
+</ref> which became one of the most heavily cited papers in astrophysics history.
+Stars evolve because of changes in their composition (the abundance of their constituent elements) over their lifespans, first by hydrogen burning (main sequence star), then helium (red giant star), and progressively burning higher elements. However, this does not by itself significantly alter the abundances of elements in the universe as the elements are contained within the star. Later in its life, a low-mass star will slowly eject its atmosphere via stellar wind, forming a planetary nebula, while a higher–mass star will eject mass via a sudden catastrophic event called a supernova. The term supernova nucleosynthesis is used to describe the creation of elements during the explosion of a massive star or white dwarf.
+The advanced sequence of burning fuels is driven by gravitational collapse and its associated heating, resulting in the subsequent burning of carbon, oxygen and silicon. However, most of the nucleosynthesis in the mass range (from silicon to nickel) is actually caused by the upper layers of the star Supernova#Core collapse, creating a compressional shock wave rebounding outward. The shock front briefly raises temperatures by roughly 50%, thereby causing furious burning for about a second. This final burning in massive stars, called explosive nucleosynthesis or supernova nucleosynthesis, is the final epoch of stellar nucleosynthesis.
+A stimulus to the development of the theory of nucleosynthesis was the discovery of variations in the Abundance of the chemical elements#Universe. The need for a physical description was already inspired by the relative abundances of isotopes of the chemical elements in the solar system. Those abundances, when plotted on a graph as a function of atomic number of the element, have a jagged sawtooth shape that varies by factors of tens of millions (see history of nucleosynthesis theory).<ref>
+</ref> This suggested a natural process that is not random. A second stimulus to understanding the processes of stellar nucleosynthesis occurred during the 20th century, when it was realized that the energy released from nuclear fusion reactions accounted for the longevity of the Sun as a source of heat and light.<ref name=Clayton1968>
+</ref>

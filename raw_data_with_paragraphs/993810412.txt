@@ -1,0 +1,91 @@
+Sybase
+
+==History==
+*1984: Robert Epstein, Mark Hoffman, Jane Doughty, and Tom Haggin found Sybase (initially as System ware) in Epstein's home in Berkeley, California.<ref></ref><ref> urltoken Sybase, Inc. - Company Profile, Information, Business Description, History, Background Information on Sybase, Inc.</ref><ref> urltoken Managing and analyzing information with relational databases</ref> Their first commercial location is half of an office suite at 2107 Dwight Way in Berkeley. They set out to create a relational database management system (RDBMS) that will organize information and make it available to computers within a network.
+*March 1986: Sybase enters into talks with Microsoft to license Data Server, a database product built to run on UNIX computers. Those talks lead to a product called Ashton-Tate/Microsoft SQL Server 1.0, shipping in May 1989.<ref></ref>
+*1986: Sybase ships its first test programs.
+*1987: Sybase formally releases the Sybase system, the first high-performance DBMS for online applications providing the Human Genome Project with licenses for the first generation of client-server relational databases. Rather than having a vast central bank of data stored in a large mainframe computer, the Sybase System provides for a Client–server model. Base calls the database server "Sybase SQL Server".
+*1988: Sybase, Microsoft, and Ashton-Tate port the Sybase DBMS to the OS/2 platform. Microsoft markets the new product as SQL Server. The terms of the agreement give Microsoft a sole license to products on the Intel x86 platform. Ashton-Tate soon drops out.
+*October 1989: Sybase releases additional products, introducing the Sybase Open Client-Server Interfaces — new software programs that provide generic client-server communication, allowing for greater connectivity within computer networks. Two phase commit protocols are included as part of Sybase SQL Server 3.0, as are stored procedures and triggers
+*1989: Sybase achieves sales of $56 million.
+* August 1991: Sybase goes public at a split adjusted price of $4.40. Sybase SQL server 4.0, and later 4.8 (the first smp server) and 4.9.1, all outperformed competitors by significant margins in standard benchmarks.
+*1993: Sybase and Microsoft dissolve their partnership. Microsoft receives a copy of the SQL Server code base. In exchange Sybase is free to deploy on the x86 platform which has now become the chip of choice for Unix. Sybase SQL Server version 4.2 and Microsoft SQL Server are identical. Their Transact-SQL (T-SQL) procedural language is the same, as is the basic process architecture. From this point the products diverge as Microsoft includes more Windows features whilst Sybase adds Enterprise features (performance and scaling).
+*April 1993: Sybase introduces the first component of System 10, called OmniSQL Gateway. This program connects the various parts of a computer network, enabling users to access data changes made within the network.
+*June 1993: Sybase announces its latest generation of software, named the System 10 product family; this consists of the Database server, Replication Server for keeping replicate data up-to-date in near real time, and Navigation Server which had been developed in partnership with NCR to do shared nothing parallelisation across large numbers of databases. Backup Server is introduced to do high performance parallel backups and restores. SQL Monitor and SA Companion are provided to manage multiple servers.
+*1994: Sybase acquires OASiS Group plc, a British management consulting firm of some 150 staff that implemented organisational change solutions as well as bespoke information systems. The acquisition was intended to position Sybase as a provider of enterprise business solutions but within 4 years the OASiS leadership team and most of its consultants had left.
+*1994: Sybase acquires Powersoft, the leading maker of development tools for client-server computing, with 40 per cent of that market. Through the deal, Sybase acquires PowerBuilder, a rapid application development (RAD) tool and Powersoft's leading product. The acquisition also marks Sybase's entry into the enterprise mobility market with Watcom SQL, which Sybase renames SQL Anywhere. When Sybase launches its mobility subsidiary, Sybase iAnywhere, in 2000, SQL Anywhere becomes its flagship relational database management system (RDBMS) and helps the company to become the leader of the mobile database market. Sybase revenues are over $1bn.
+*1994: Sybase acquires Micro Decisionware (MDI), a privately held middleware company based in Boulder, Colorado, USA. Its first product is PC/SQL-link, a tool that enables PC users to build SQL statements and send them to mainframe databases, with results returned to the PC. MDI's second product, the MDI Database Gateway, provided connectivity for PC-based applications (such as PowerBuilder) to execute SQL queries against mainframe databases. The MDI Database Gateway was in competition with the Sybase middleware product. After the acquisition, some MDI Database Gateway features were integrated into the Sybase product.
+*1995: Sybase's flagship database product Adaptive Server Enterprise (ASE) V11.0 released. This was a major performance release giving massive scalability up to 16 processors. (100% for the first 15 and 25% for the 16th in a benchmark run for a UK government contract). This server outperformed all competitors in standard benchmarks. Sybase launches PowerDesigner, a modeling and metadata management product, following its acquisition of PowerAMC. Sybase share price peaks at $96.
+*1996: Sybase renames the main product SQL Server to its current name Adaptive Server Enterprise (ASE) for version 11.5. Anywhere 5 is released. It includes SQL Remote, SQL Central, Transact SQL syntax, and support for the Sybase Replication Server.
+*1996: Mitchell Kertzman, Powersoft CEO, was appointed CEO of Sybase. Sybase launched Sybase IQ, the first column-based analytics platform.
+*January 1998: Sybase announced that it had found inconsistencies in profits reporting from its Japanese division, and would restate the financial results for the company for the last three quarters of 1997.<ref></ref> Five executives in Sybase's Japanese subsidiary were found to have used side letters to artificially inflate the profits from their operations. Following a class-action lawsuit,<ref></ref> the five executives involved were fired.
+*November 1998: John S. Chen is appointed Chairman, CEO and President.<ref></ref>
+*1998: SQL Anywhere 6 released, with new names Adaptive Server Anywhere as the engine and part of the SQL Anywhere Studio, which now includes SQL Modeler (later PowerDesigner), Java is introduced to the database.
+*1999: Sybase's flagship database product Adaptive Server Enterprise (ASE) V12.0 released.
+*2000: Sybase returns to profitability under the management of John S. Chen. iAnywhere Solutions, Inc. is founded as a subsidiary of Sybase.
+*2001: Sybase acquires New Era of Networks, a leading application integration company that produces the e-Biz Integrator middleware, though it stops offering this product in 2004.
+*2003: Sybase launches the “Unwired Enterprise” strategy.<ref></ref>
+*2004: Sybase acquires XcelleNet, frontline device management software based in Georgia, to enhance its Unwired Enterprise strategy.
+*2005: Sybase releases ASE 15.0.
+*August 2006: iAnywhere announces release of SQL Anywhere 10.
+*November 2006: Sybase acquires Mobile 365, a mobile data and messaging company, and renames it Sybase 365.
+*2007: Sybase crossed the $1 billion mark.<ref></ref>
+*2008: Sybase releases Adaptive Server Enterprise, Cluster Edition, with Oracle RAC-like shared-everything clusterability, but based on an open architecture and less costly. Sybase launches RAP – The Trading Edition, an analytics platform for Wall Street. In August of the same year, Sybase promoted the Sybase Unwired Platform (SUP), a platform for developing mobile applications across a heterogeneous environment. In September 2008, Sybase 365 expanded its messaging interoperability with the launch of its global Multimedia Messaging Exchange, MMX 365.
+*May 2008, the Sybase IQ analytics server set a new Guinness World Record by powering the world's largest data warehouse.<ref></ref>
+*August 2008: Sybase unveils the Sybase Unwired Platform (SUP), a platform for developing mobile applications across a heterogeneous environment.
+*September 2008: Sybase 365 expands its messaging interoperability with the launch of its global Multi-media Messaging Exchange, MMX 365.
+*January 2009, Sybase acquires mPayment services provider paybox.<ref> urltoken Sybase acquires mPayment solutions provider paybox</ref>
+*March 2009: Sybase and SAP partner to deliver the SAP Business Suite software to iPhone, Windows Mobile, BlackBerry and other devices.
+*May 2009: Sybase begins packaging MicroStrategy business intelligence software with its Sybase IQ server.<ref></ref>
+*September 2009: Sybase and Verizon partner to manage mobility services for enterprises worldwide through Verizon's Managed Mobility Solutions, which uses Sybase's enterprise device management platform.
+*May 2010: SAP and Sybase, Inc. announced SAP America, Inc. has signed a definitive merger agreement to acquire Sybase, Inc. for all of the outstanding shares of Sybase common stock at $65.00 per share, representing an enterprise value of approximately $5.8 billion.<ref> urltoken SAP to Acquire Sybase, Inc.</ref><ref name="SAP to Acquire Sybase, Inc"></ref>
+*July 2010: SAP completes tender offer for shares of Sybase and its acquisition.<ref> urltoken SAP Completes Tender Offer for Shares of Sybase, Inc.</ref>
+===SAP ownership era===
+*July 2010: In 2010-07-30, SAP AG announced it has completed the acquisition of Sybase, Inc., with Sybase surviving the merger as a wholly owned subsidiary of SAP America.<ref> urltoken SAP Completes Acquisition of Sybase, Inc.</ref>
+*August 2010: Sybase partners with telecommunications partners to offer the world's first fully operational IPX Voice hub.<ref></ref>
+*September 2010: Sybase 365 becomes one of the largest independent (non-telco) exchanges for text (SMS) and multimedia (MMS) messages by delivering more than 1 trillion messages – equivalent to 32,000 per second for an entire year.<ref name="Mid-Year Global Messaging Traffic Update"></ref>
+*November 2010: Sybase and Verizon deliver Mobile Services Enablement Platform to reduce the complexity for enterprises to develop and deploy mobile apps, even if they have diverse back-end software and user devices (i.e. multiple brands and platforms of smartphones and tablets).<ref name="Sybase"></ref> The need appears to be there: 90% of IT managers plan to deploy new mobile apps and one in two believe that successfully managing mobile apps will top their priority list, according to a January survey sponsored by Sybase.<ref></ref>
+*February 2011: Sybase is positioned in Leaders quadrant in Gartner's 2011 Data Warehouse Database Management System Magic Quadrant.<ref name="Gartner RAS"></ref>
+*July 2011: Sybase awarded Best CEP Provider and Best Enterprise Data Management Provider at the Water Rankings Awards,.<ref></ref>
+*September 2011: Sybase Celebrates 20-Year PowerBuilder Milestone.<ref></ref>
+*November 2011: Sybase integrates statistical programming language R in Sybase RAP for Capital Markets Analytics.<ref></ref>
+*February 2012: Sybase 365 Recognized by Juniper Research among leaders in the Future of Mobile Commerce.<ref></ref> Sybase is designated a Leader in the 2012 Gartner Magic Quadrant for Data Warehouse DBMS.<ref></ref>
+*October 2012: All Sybase employees are incorporated into SAP's workforce. In 2012-10-30, SAP announced Sybase, Inc. CEO and President John S. Chen leaving Sybase, effective in 2012-10-31, after leading Sybase for 15 years.<ref> urltoken John Chen to Leave SAP After Successful Integration of Sybase</ref>
+==Subsidiaries==
+*Sybase 365
+*Sybase iAnywhere
+* urltoken Powersoft Corporation: In 1994-11-15, Sybase, Inc. announced the acquisition of Powersoft Corporation in a stock swap valued at more than $940 million.<ref> urltoken Sybase To Acquire Powersoft</ref>
+:*Visual Components, Inc.: In 1996-01-08, Sybase, Inc. announced it has entered into an agreement of merger with Visual Components, Inc., with Visual Components will become a wholly owned subsidiary of Sybase, operating within the Powersoft components division.<ref> urltoken Sybase To Acquire Visual Components, Inc - New Powersoft Components Division Created to Capitalize on Increased Component-Based Application Development</ref> In 1996-03-04, Sybase, Inc. announced it has completed its merger with Visual Components, Inc.<ref> urltoken SYBASE COMPLETES ACQUISITION OF VISUAL COMPONENTS, INC. - New Powersoft Components Division to Capitalize on Increased Demand for Component-Based Application Development</ref>
+==Products==
+Sybase worked with companies in infrastructure, data storage and virtualization to optimize technologies for delivery into public and virtual private cloud environments that provide greater technology availability and flexibility to Sybase customers looking to unwire their enterprise. Sybase had a strong presence in the financial services,<ref> urltoken </ref> telecommunications, technology, and government markets.<ref> urltoken Applications of Sybase Technology in Government</ref>
+Sybase's main products included:
+===Data management products===
+* Adaptive Server Enterprise (ASE) – Enterprise Class RDBMS, with a data analytics warehouse system.
+* Advantage Database Server (ADS) – Relational Database Management System
+* Sybase Replication Server – a platform for data replication and movement between database systems, including Sybase and Oracle, a vendor-neutral data-movement system
+===Analytics products===
+* Sybase IQ – an analytics data warehousing and business intelligence RDBMS
+* RAP the Trading Edition- a capital markets analytics platform
+* Sybase complex event processing – Optimized real-time risk and trade analytics software
+===Mobility products===
+* SQL Anywhere – RDBMS with a small footprint designed for mobility
+* Afaria – Mobile device management and security software
+* Sybase Unwired Platform (SUP) – a framework for developing mobile applications that SAP is using both as a development platform and a device management system<ref>Cindi Howson, InformationWeek. "
+ urltoken SAP Steps Up Mobile, Cloud And In-Memory Commitments." December 19, 2011. Retrieved December 19, 2011.</ref>
+* SMS Ad Exchange – an SMS mobile advertising service.
+* GRX 365 – network performance and security
+* mBanking 365 – a mobile banking product
+* MMS 365 – a content delivery gateway
+* MMX 365 – a messaging exchange
+* Sybase 365 mCommerce Solution – From Boston, for the mobile messaging and mobile commerce markets, an end-to-end solution for mBanking, mPayments and mRemittance
+===Tools===
+* PowerBuilder – a rapid application development (RAD) tool
+* PowerDesigner – a modeling and design tool
+Sybase's products were supported on Microsoft Windows and several varieties of Unix and Linux.
+Sybase partnered with Boeing to develop and license Boeing's Spatial Query Server (SQS).<ref></ref> This product enables a Sybase ASE Database to optimally store and query data that represents objects defined in a geometric space. SQS is a spatial database.
+==User groups==
+There are many Sybase-centric user groups around the world. The International Sybase User Group (ISUG), with members in more than 60 countries, acts as an umbrella organization for these groups, providing logistical support for user group meetings and other events.
+==References==
+
+thumb
+Sybase, Inc. was an enterprise software and services company that produced software to manage and analyze information in relational databases, with facilities located in California and Massachusetts. Sybase was acquired by SAP in 2010; SAP ceased using the Sybase name in 2014.<ref> urltoken SAP finally drops the Sybase name</ref>

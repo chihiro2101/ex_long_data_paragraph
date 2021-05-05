@@ -1,0 +1,47 @@
+Computer telephony integration
+
+==Common functions==
+===By application type===
+CTI applications tend to run on either a user's desktop, or an unattended server.
+;Common desktop functions provided by CTI applications
+*Screen popping - Call information display (caller's number (ANI), number dialed (DNIS), and Screen pop on answer, with or without using calling line data. Generally this is used to search a business application for the caller's details.
+*Dialing - Autodialer and computer-controlled dialing (power dial, preview dial, and predictive dial).
+*Phone control - Includes call control (answer, hang up, hold, conference, etc.) and feature control (DND, call forwarding, etc.).
+*Transfers - Coordinated phone and data transfers between two parties (i.e., pass on the Screen pop with the call.).
+*Call center - Allows users to log in as a call center agent and control their agent state (Ready, Busy, Not ready, Break, etc.).
+;Common server functions provided by CTI applications
+*Call routing - The automatic routing of calls to a new destination based on criteria normally involving a database lookup of the caller's number (ANI) or number dialed (DNIS).
+*Advanced call reporting functions - Using the detailed data that comes from CTI to provide better-than-normal call reporting.
+*Voice recording integration - Using data from CTI to enrich the data stored against recorded calls.
+===By connection type===
+Computer-phone connections can be split into two categories:
+;First-party call control
+:Operates as if there is a direct connection between the user's computer and the phone set. Examples are a modem or a phone plugged directly into the computer. Typically, only the computer associated with the phone can control it by sending commands directly to the phone and thus this type of connection is suitable for desktop applications only. The computer can generally control all the functions of the phone at the computer user's discretion.
+;Third-party call control
+:Interactions between arbitrary numbers of computers and telephones are made through and coordinated by a dedicated telephony server. Consequently, the server governs which information and functions are available to a user. The user's computer generally connects to the telephony server over the local network.
+==History and main CTI technologies==
+The origins of CTI can be found in simple screen population (or "screen pop") technology. This allows data collected from the telephone systems to be used as input data to query databases with customer information and populate that data instantaneously in the customer service representative screen. The net effect is the agent already has the required screen on his/her terminal before speaking with the customer.
+This technology started gaining widespread adoption in markets like North America and West European countries.
+There were several standards which had a major impact in the ´normalization´ of in the industry, previously fully closed and proprietary to each PBX/ACD vendor. On the software level, the most adopted interface by vendors is the CSTA standard, which is approved by the standards body ITU. Other well known CTI standards in the industry are JTAPI, TSAPI and TAPI: JTAPI, the Java Telephony API is promoted by Sun; TSAPI, originally promoted by the AT&T (later Lucent then Avaya) and Novell; Microsoft pushed their own initiative also, and thus TAPI was born, with support mostly from Windows applications. All of these standards required the PBX vendor to write a specific driver, and initially support for this was slow.
+Among the key players in this area, Lucent played a big role and IBM acquired ROLM Inc, a US pioneer in ACDs, in an attempt to normalize all major PBX vendor interfaces with its CallPath middleware. This attempt failed when it sold this company to Siemens AG and gradually divested in the area. A pioneer startup that combined the technologies of voice digitization, Token Ring networking, and time-division multiplexing was ZTEL of Wilmington, Massachusetts. ZTEL's computer-based voice and data network combined user-programmable voice call processing features, protocol conversion for automated "data call processing," database-driven directory and telset definitions, and custom LSI chipset technology. ZTEL ceased operation in 1986.
+Two other important players were Digital Equipment Corporation and Tiger Software (now Mondago). Digital Equipment Corporation developed CT Connect which includes vendor abstraction middleware. CT Connect was then sold to Dialogic, which in turn was purchased by Intel. This CTI software, known as CT Connect, was most recently sold in 2005 to Envox Worldwide. Tiger Software produced the SmartServer suite which was primarily aimed at allowing CRM application vendors to add CTI functionality to their existing applications with minimal effort. Later, and after changing their name to Mondago, Tiger Software went on to produce the Go Connect server application, which is aimed at providing at helping other CTI vendors integrate with a wider range of telephone systems.
+By 2008, most PBX vendors had aligned themselves behind one or two of the TAPI, CSTA or TSAPI standard. The TSAPI advocates were: Avaya, Telrad. The CSTA advocates were: Siemens (now Unify), Aastra, DeTeWe, Toshiba, Panasonic. The majority (see main TAPI article for detail) preferred TAPI. A few vendors promoted proprietary standards: Mitel, Broadsoft, Digium and most hosted platforms. CT Connect and Go Connect thus provided an important translation middle-layer, allowing the PBX to communicate in its preferred protocol, while an application can communicate using its preferred protocol.
+Many of the early CTI vendors and developers have changed hands over the years. An example is Nabnasset, an Acton, Massachusetts firm that developed a CORBA based CTI solution for a client and then decided to make it into a general product. It merged with Quintus, a customer relationship management company, which went bankrupt and was purchased by Avaya Telecommunications. Smaller organisations have also survived from the early days and have leveraged their heritage to thrive. However, many of the 1980s startups that were inspired by the "Bell Breakup" and the coming competitive telephony marketplace, did not survive the decade.
+On the hardware level, there was a paradigm shift since 1993, with emerging standards from IETF, which led to several new players like Dialogic, Brooktrout (now part of Dialogic), Natural MicroSystems (also now part of Dialogic) and Aculab offering telephony interfacing boards for various networks and elements.
+Until 2011, it was the makers of telephone systems that implemented CTI technologies such as TAPI and CSTA. But after this time, a wave of handsets become popular that were independently made. These handsets would connect to the telephone systems using standards such as SIP and consumers could easily buy their telephone system from one vendor and their handsets from another. However, this situation led to poor quality CTI since the protocols (ie SIP) were not really suitable for third-party control.
+So, handset vendors started to add support for CTI directly. Initially this would be over proprietary HTTP methods, but in time uaCSTA (aka TR/87) became popular and by 2016 most SIP handsets support uaCSTA control. These include: Snom (the first to pioneer it), Yealink, Akuvox, Panasonic and Aastra.
+==See also==
+* Automatic number identification (ANI)
+* Automatic call distributor
+* Dialed Number Identification Service (DNIS)
+* Predictive dialer
+* Screen pop
+* Telephony Application Programming Interface (TAPI)
+* Telephony Server Application Programming Interface (TSAPI)
+* Computer-supported telecommunications applications (CSTA)
+* Multi-Vendor Integration Protocol
+==External links==
+* 
+* urltoken User Agent CSTA (uaCSTA) - TR/87 - ECMA International
+
+Computer telephony integration, also called computer–telephone integration or CTI, is a common name for any technology that allows interactions on a telephone and a computer to be integrated or coordinated. The term is predominantly used to describe desktop-based interaction for helping users be more efficient, though it can also refer to server-based functionality such as automatic call routing.

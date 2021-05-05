@@ -1,0 +1,63 @@
+Bromomethane
+
+==Occurrence and manufacture==
+Bromomethane originates from both natural and human sources. In the ocean, marine organisms are estimated to produce 56,000 tonnes annually.<ref></ref> It is also produced in small quantities by certain terrestrial plants, such as members of the family Brassicaceae. It is manufactured for agricultural and industrial use by treating methanol with bromine in the presence of sulfur or hydrogen sulfide:<ref name=Ullmann/>
+:6 CH<sub>3</sub>OH + 3 Br<sub>2</sub> + S → 6 CH<sub>3</sub>Br + 2 H<sub>2</sub>O + H<sub>2</sub>SO<sub>4</sub>
+==Uses==
+In 1999, an estimated 71,500 tonnes of synthetic methyl bromide were used annually worldwide.<ref name=uneptie></ref> 97% of this estimate was used for fumigation purposes, whilst 3% was used for the manufacture of other products. Moreover, 75% of the consumption used to take place in developed nations, led by the United States (43%) and Europe (24%). Asia and the Middle East combined to use 24% whereas Latin America and Africa had the lowest usage at 9%.<ref name=uneptie />
+Until its production and use was curtailed by the Montreal Protocol, bromomethane was widely applied as a soil sterilant, mainly for production of seed but also for some crops such as strawberry<ref>Strawberries hang in the balance, CEN (June 8th, 2015)</ref> and almonds. In Green Revolution seed production, unlike crop production, it is of vital importance to avoid contaminating the crop with off-type seed of the same species. Therefore, selective herbicides cannot be used. Although bromomethane is dangerous, it is considerably safer and more effective than some other soil sterilants. Its loss to the seed industry has resulted in changes to cultural practices, with increased reliance on soil steam sterilization, mechanical rogueing, and fallow seasons. Bromomethane was also used as a general-purpose fumigant to kill a variety of pests including rats and insects. Bromomethane has poor fungicidal properties. Bromomethane is the only fumigant allowed (heat treatment is only other option) under ISPM 15 regulations when exporting solid wood packaging (forklift pallets, crates, bracing) to ISPM 15 compliant countries. Bromomethane is used to prepare golf courses, particularly to control Bermuda grass. The Montreal Protocol stipulates that bromomethane use be phased out.
+Bromomethane is also a precursor in the manufacture of other chemicals as a methylation agent.<ref name=Ullmann/>
+Bromomethane was once used in specialty fire extinguishers, prior to the advent of less toxic halons, as it is electrically non-conductive and leaves no residue. It was used primarily for electrical substations, military aircraft, and other industrial hazards. It was never as popular as other agents due to its high cost and toxicity. Bromomethane was used from the 1920s to the 1960s, and continued to be used in aircraft engine fire suppression systems into the late 1960s.
+==Regulation==
+Bromomethane is readily photolyzed in the atmosphere to release bromine radicals, which are far more destructive to stratospheric ozone than chlorine. As such, it is subject to phase-out requirements of the 1987 Montreal Protocol on Ozone Depleting Substances.
+The London Amendment in 1990 added bromomethane to the list of ODS to be phased out. In 2003 the Global Environment Facility approved funds for a UNEP-UNDP joint project for methyl bromide total sector phase out in seven countries in Central Europe and Central Asia, which was due for completion in 2007.<ref></ref>
+==Alternatives==
+Alternatives to bromomethane in the agricultural field are currently in use and further alternatives are in development, including propylene oxide and furfural.<ref name="epa"></ref>
+===Australia===
+In Australia, bromomethane is the preferred fumigant of the Department of Agriculture and Water Resources for most organic goods imported into Australia.<ref></ref> The department conducts methyl bromide fumigation certification for both domestic and foreign fumigators who can then fumigate containers destined for Australia. A list of alternative fumigants is available for goods imported from Europe (in what's known as the BICON database), where methyl bromide fumigation has been banned.<ref></ref> Alternatively, the department allows containers from Europe to be fumigated with methyl bromide on arrival to Australia.
+===New Zealand===
+In New Zealand, bromomethane is used as a fumigant for whole logs destined for export. Environmental groups and the Green Party oppose its use.<ref></ref><ref></ref> In May 2011 the Environmental Risk Management Authority (ERMA) introduced new rules for its use which restrict the level of public exposure to the fumigant, set minimum buffer zones around fumigation sites, provide for notification to nearby residents and require users to monitor air quality during fumigations and report back to ERMA each year. All methyl bromide fumigations must use recapture technology by 2021.<ref></ref>
+===United States===
+In the United States bromomethane is regulated as a pesticide under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA; 7 U.S.C. 136 et seq.) and as a hazardous substance under the Resource Conservation and Recovery Act (RCRA; 42 U.S.C. 6901 et seq.), and is subject to reporting requirements under the Emergency Planning and Community Right-to-Know Act (EPCRA; 42 U.S.C. 11001 et seq.). The U.S. Clean Air Act (CAA; 42 U.S.C. 7401 et seq.). A 1998 amendment (P.L. 105-178, Title VI) conformed the Clean Air Act phase out date with that of the Montreal Protocol.<ref></ref><ref> urltoken CRS Report for Congress: Agriculture: A Glossary of Terms, Programs, and Laws, 2005 Edition - Order Code 97-905 </ref> Whereas the Montreal Protocol has severely restricted the use of bromomethane internationally, the United States has successfully lobbied for critical-use exemptions.<ref name="Gareau2013"></ref> Critical use exemptions allow the United States to continue using MeBr until it is scheduled to be completely phased out sometime in 2017.<ref></ref>
+In 2004, over 7&nbsp;million pounds of bromomethane were applied in California. Applications include tomato, strawberry, and ornamental shrub growers, and fumigation of ham/pork products. Also exempt is the treatment of solid wood packaging (forklift pallets, crates, bracing), and the packaged goods, being exported to ISPM 15 countries (to include Canada in 2012).
+===Chile===
+Has phased out the use in traditional agriculture on 2015, with exemption of the 100% pure formulation that is continued and largely used for quarantine pest control and at pre-shipments of the fruit export industry.<ref>Decision XVII/29: Non-compliance with the Montreal Protocol by Chile. United Nations Environment Programme
+ Ozone Secretariat, urltoken 
+==Health effects==
+Brief exposure to high concentrations and prolonged inhalation of lower concentrations are problematic.<ref name="HitCL">Muir, GD (ed.) 1971, Hazards in the Chemical Laboratory, The Royal Institute of Chemistry, London.</ref> Exposure levels leading to death vary from 1,600 to 60,000 ppm, depending on the duration of exposure (as a comparison exposure levels of 70 to 400 ppm of carbon monoxide cover the same spectrum of illness/death). Concentrations in the range of 60,000 ppm can be immediately fatal, while toxic effects can present following prolonged exposure to concentrations well under 1,000 ppm.
+"A TLV–TWA of 1 ppm (3.89 mg/m3) is recommended for occupational exposure to methyl bromide"-ACGIH 8 hour time weighted average. Immediately Dangerous To Life or Health Concentration by NIOSH: "The revised IDLH for methyl bromide is 250 ppm based on acute inhalation toxicity data in humans Clarke et al. 1945. This may be a conservative value due to the lack of relevant acute toxicity data for workers exposed to concentrations above 220 ppm. Note: NIOSH recommends as part of its carcinogen policy that the "most protective" respirators be worn for methyl bromide at any detectable concentration." Detectable concentration by Drager Tube is 0.5 ppm.
+Respiratory, kidney, and neurological effects are of the greatest concern.
+Treatment of wood packaging requires a concentration of up to 16,000 ppm.
+NIOSH considers methyl bromide to be a potential occupational carcinogen as defined by the OSHA carcinogen policy 29 CFR 1990. "Methyl bromide showed a significant dose-response relationship with prostate cancer risk."<ref name="aghealth"></ref>
+===Excessive exposure===
+Expression of toxicity following exposure may involve a latent period of several hours, followed by signs such as nausea, abdominal pain, weakness, confusion, pulmonary edema, and seizures. Individuals who survive the acute phase often require a prolonged convalescence. Persistent neurological deficits such as asthenia, cognitive impairment, optical atrophy, and paresthesia are frequently present after moderate to severe poisoning. Blood or urine concentrations of inorganic bromide, a bromomethane metabolite, are useful to confirm a diagnosis of poisoning in hospitalized patients or to assist in the forensic investigation of a case of fatal overdosage.<ref>R. Baselt, Disposition of Toxic Drugs and Chemicals in Man, 8th edition, Biomedical Publications, Foster City, CA, 2008, pp. 982-984.</ref>
+==See also==
+*
+*
+*
+*
+*
+*
+==References==
+==External links==
+* urltoken Chemical Alternatives to the agricultural use of Methyl Bromide
+* urltoken Biological, Chemical & Practice based alternatives to the agricultural use of Methyl Bromide.
+* urltoken Methyl Bromide Technical Fact Sheet - National Pesticide Information Center
+* urltoken Methyl Bromide General Fact Sheet - National Pesticide Information Center
+* urltoken Methyl Bromide Pesticide Information Profile - Extension Toxicology Network
+*
+*
+*
+* urltoken IARC Summaries & Evaluations Vol. 71 (1999)
+* urltoken The banned pesticide in our soil
+* urltoken MSDS at Oxford University
+* urltoken Toxicological profile
+* urltoken Environmental Health Criteria 166
+* urltoken OECD SIDS document
+* urltoken EPA 2010 Critical Use Exemption Nominations
+* urltoken ChemSub Online (Methyl bromide, Bromomethane).
+* urltoken Del. family poisoned with methyl bromide in Caribbean in grave condition, governor says - July 2, 2015
+* urltoken Terminix Companies Sentenced for Applying Restricted-Use Pesticide to Residences in the U.S. Virgin Islands - November 20, 2017
+* urltoken Terminix Virgin Islands Branch Manager Pleads Guilty to Four Counts of Illegally Applying Restricted-Use Pesticide to Multiple Residences in the U.S. Virgin Islands - September 17, 2018
+
+Bromomethane, commonly known as methyl bromide, is an organobromine compound with formula CH<sub>3</sub>Br. This colorless, odorless, nonflammable gas is produced both industrially and biologically. It has a tetrahedral shape and it is a recognized ozone depletion chemical. It was used extensively as a pesticide until being phased out by most countries in the early 2000s.<ref name=Ullmann></ref>

@@ -1,0 +1,63 @@
+Ayurveda
+
+== Eight components ==
+The earliest classical Sanskrit works on Ayurveda describe medicine as being divided into eight components (Skt. aṅga).<ref></ref><ref></ref> This characterization of the physicians' art, "the medicine that has eight components" (Skt. cikitsāyām aṣṭāṅgāyāṃ चिकित्सायामष्टाङ्गायाम्), is first found in the Sanskrit epic the Mahabharata, c. 4th century BCE.<ref></ref> The components are:<ref></ref><ref name="GregoryFields"/><ref></ref>
+* Kāyachikitsā: general medicine, medicine of the body
+* Kaumāra-bhṛtya (Pediatrics): Discussions about prenatal and postnatal care of baby and mother, methods of conception; choosing the child's gender, intelligence, and constitution; and childhood diseases and midwifery.<ref></ref>
+* Śalyatantra: surgical techniques and the extraction of foreign objects
+* Śhālākyatantra: treatment of ailments affecting ears, eyes, nose, mouth, etc. ("ENT")
+* Bhūtavidyā: pacification of possessing spirits, and the people whose minds are affected by such possession
+* Agadatantra/Vishagara-vairodh Tantra (Toxicology): It includes subjects about epidemics, toxins in animals, vegetables and minerals. It as well contain keys for recognizing those anomalies and their antidotes.
+* Rasāyantantra: rejuvenation and tonics for increasing lifespan, intellect and strength
+* Vājīkaraṇatantra: aphrodisiacs and treatments for increasing the volume and viability of semen and sexual pleasure. It also deals with infertility problems (for those hoping to conceive) and spiritual development (transmutation of sexual energy into spiritual energy).
+==Principles and terminology==
+The word "ayurveda" is , , meaning knowledge of life and longevity.<ref name="GregoryFields"></ref>
+The central theoretical ideas of Ayurveda developed in the mid-first millennium BCE, and show parallels with Sāṅkhya and Vaiśeṣika philosophies, as well as with Buddhism and Jainism.<ref></ref><ref></ref> Balance is emphasized, and suppressing natural urges is considered unhealthy and claimed to lead to illness.<ref name="WujastykXVIII" /> For example, to suppress sneezing is said to potentially give rise to shoulder pain.<ref>Namyata Pathak, A Raut, Ashok Vaidya urltoken Acute Cervical Pain Syndrome Resulting from Suppressed Sneezing – JAPI (Accessed on 29 October 2013)</ref> However, people are also cautioned to stay within the limits of reasonable balance and measure when following nature's urges.<ref name="WujastykXVIII" /> For example, emphasis is placed on moderation of food intake,<ref name="Chopra75"></ref> sleep, and sexual intercourse.<ref name="WujastykXVIII"></ref>
+According to ayurveda, the human body is composed of tissues (dhatus), waste (malas), and biomaterials (doshas).<ref name="Mishra" /> The seven dhatus are plasma (rasa), blood (rakta), muscles (māmsa), fat (meda), bone (asthi), marrow (majja), and semen (shukra). Like the medicine of classical antiquity, Ayurveda has historically divided bodily substances into five classical elements, (Sanskrit) panchamahabhuta, viz. earth, water, Agni, air and ether.<ref name="Underwood&Rhodes(2008)" /> There are also twenty gunas (qualities or characteristics) which are considered to be inherent in all matter. These are organized in ten pairs: heavy/light, cold/hot, unctuous/dry, dull/sharp, stable/mobile, soft/hard, non-slimy/slimy, smooth/coarse, minute/gross, and viscous/liquid.<ref name="Chopra76">, citing Sushrutasamhita 25.36.</ref>
+The three elemental bodily humors, the doshas or tridosha, are vata (space or air, equated with the nervous system), pitta (fire, equated with enzymes), and kapha (earth and water, equated with mucus). A parallel set of mental doshas termed satogun, rajogun, and tamogun control psychology. Each dosha has particular attributes and roles within the body and mind; the natural predominance of one or more doshas thus explains a person's physical constitution (prakriti) and personality.<ref name="Mishra"></ref><ref name="Payya"></ref><ref></ref> Ayurvedic tradition holds that imbalance among the bodily and mental doshas is a major etiologic component of disease. One Ayurvedic view is that the doshas are balanced when they are equal to each other, while another view is that each human possesses a unique combination of the doshas which define this person's temperament and characteristics. In either case, it says that each person should modulate their behavior or environment to increase or decrease the doshas and maintain their natural state. Practitioners of Ayurveda must determine an individual's bodily and mental dosha makeup, as certain prakriti are said to predispose one to particular diseases.<ref name="mental" /><ref name="Mishra" /> For example, a person who is thin, shy, excitable, has a pronounced Adam's apple, and enjoys of esoteric knowledge is likely vata prakriti and therefore more susceptible to conditions such as flatulence, stuttering, and rheumatism.<ref name="Mishra" /><ref></ref> Deranged vata is also associated with certain mental disorders due to excited or excess vayu (gas), although the Ayurvedic text Charaka Samhita also attributes "insanity" (unmada) to cold food and possession by the ghost of a sinful Brahman (brahmarakshasa).<ref name="Mishra" /><ref name="mental"></ref><ref></ref><ref></ref>
+Ama (a Sanskrit word meaning "uncooked" or "undigested" ) is used to refer to the concept of anything that exists in a state of incomplete transformation. With regards to oral hygiene, it is claimed to be a toxic byproduct generated by improper or incomplete digestion.<ref></ref><ref></ref><ref></ref> The concept has no equivalent in standard medicine.
+In medieval taxonomies of the Sanskrit knowledge systems, Ayurveda is assigned a place as a subsidiary Veda (upaveda).<ref></ref> Some medicinal plant names from the Atharvaveda and other Vedas can be found in subsequent Ayurveda literature.<ref name="zysk-veda"><ref name=":2"></ref> and stitching of wounds.<ref name="Underwood&Rhodes(2008)" /> The use of herbs and surgical instruments became widespread.<ref name="Underwood&Rhodes(2008)">Underwood & Rhodes (2008)</ref> During this period, treatments were also prescribed for complex ailments, including angina pectoris, diabetes, hypertension, and stones.<ref name="Dwivedi&Dwivedi07"> (Republished by National Informatics Centre, Government of India.)</ref><ref name="Lock836">Lock et al., p. 836</ref>
+===Further development and spread===
+Ayurveda flourished throughout the Indian Middle Ages. Dalhana (fl. 1200), Sarngadhara (fl. 1300) and Bhavamisra (fl. 1500) compiled works on Indian medicine.<ref name="WujastykXXVI"></ref> The medical works of both Sushruta and Charaka were also translated into the Chinese language in the 5th century,<ref></ref> and during the 8th century, they were translated into the Arabic and Persian language.<ref></ref> The 9th-century Persian physician Muhammad ibn Zakariya al-Razi was familiar with the text.<ref></ref><ref name="Rao">Ramachandra S.K. Rao, Encyclopaedia of Indian Medicine: historical perspective, Volume 1, 2005, urltoken 94–98</ref> The Arabic works derived from the Ayurvedic texts eventually also reached Europe by the 12th century.<ref></ref><ref name="Lock607"></ref> In Renaissance Italy, the Branca family of Sicily and Gaspare Tagliacozzi (Bologna) were influenced by the Arabic reception of the Sushruta's surgical techniques.<ref name="Lock607"/>
+British physicians traveled to India to observe rhinoplasty being performed using Indian methods, and reports on their rhinoplasty methods were published in the Gentleman's Magazine in 1794.<ref name="Lock651"></ref> Instruments described in the Sushruta Samhita were further modified in Europe.<ref name="Lock652"></ref> Joseph Constantine Carpue studied plastic surgery methods in India for 20 years and, in 1815, was able to perform the first major rhinoplasty surgery in the western world, using the "Indian" method of nose reconstruction.<ref name="Lock651/2"></ref> In 1840 Brett published an article about this technique.<ref></ref>
+During the period of British colonial rule in India, the practice of Ayurveda was not adopted by the British Indian Government, which was in favor of modern medicine. After Indian independence, there was more focus on Ayurveda and other traditional medical systems. Ayurveda became a part of the Indian National health care system, with state hospitals for Ayurveda established across the country. However, the treatments of traditional medicines were not always integrated with others.<ref name="who01"></ref>
+==Footnotes==
+==See also==
+* Acupuncture
+* Aśvins
+* Ayurvedic Acupressure
+* Bachelor of Ayurveda, Medicine and Surgery
+* Bhaisajyaguru
+* Dhātu (Ayurveda)
+* History of alternative medicine
+* Homeopathy
+* List of ineffective cancer treatments
+* Ramuan
+==References==
+===Cited references===
+* 
+* (Republished by National Informatics Centre, Government of India.)
+* 
+* 
+* 
+* 
+* 
+==Further reading==
+* 
+* 
+* 
+* Pattathu, Anthony George (2018). Ayurveda and Discursive Formations between Religion, Medicine and Embodiment: A Case Study from Germany. In: Lüddeckens, D., & Schrimpf, M. (2018). urltoken Medicine - religion - spirituality: Global perspectives on traditional, complementary, and alternative healing. Bielefeld: transcript Verlag. , pp.&nbsp;133–166.
+* 
+* 
+* . A bibliographical survey of the history of Indian medicine.
+* urltoken WHO guidelines on safety monitoring of herbal medicines in pharmacovigilance systems
+* urltoken Use Caution With Ayurvedic Products - US Food and Drug Administration.
+==External links==
+* 
+* urltoken Ayurveda: Benchmarks for trainings in traditional/complementary and alternative medicine World Health Organization (WHO)
+* urltoken National Library of Ayurveda Medicine
+
+Ayurveda <ref name="oxford"></ref> is an alternative medicine system with historical roots in the Indian subcontinent.<ref name=HIML-intro></ref> The theory and practice of Ayurveda is pseudoscience.<ref name=kaufman/><ref name=oxpsych/><ref name=Quack-2011/> The Indian Medical Association (IMA) characterises the practice of modern medicine by Ayurvedic practitioners as quackery.<ref name="IMA"></ref>
+The main classical Ayurveda texts begin with accounts of the transmission of medical knowledge from the gods to sages, and then to human physicians.<ref name="zysk-myth"></ref><ref name="mukh-surg"></ref> Ayurveda has been adapted for Western consumption, notably by Baba Hari Dass in the 1970s and Maharishi Ayurveda in the 1980s.
+Some scholars assert that Ayurveda originated in prehistoric times,<ref></ref><ref></ref> and that some of the concepts of Ayurveda have existed from the time of the Indus Valley Civilization or even earlier.<ref name="Healingtradition"></ref> Ayurveda developed significantly during the Vedic period and later some of the non-Vedic systems such as Buddhism and Jainism also developed medical concepts and practices that appear in the classical Ayurveda texts.<ref name="Healingtradition"/> Doṣa balance is emphasized, and suppressing natural urges is considered unhealthy and claimed to lead to illness.<ref name="WujastykXVIII" /> Ayurveda treatises describe three elemental doṣas viz. vāta, pitta and kapha, and state that balance (Skt. sāmyatva) of the doṣas results in health, while imbalance (viṣamatva) results in disease. Ayurveda treatises divide medicine into eight canonical components. Ayurveda practitioners had developed various medicinal preparations and surgical procedures from at least the beginning of the Common Era.<ref name="shar-hist"></ref>
+There is no good evidence that Ayurveda is effective for treating any disease.<ref name=cruk/> Ayurvedic preparations have been found to contain lead, mercury, and arsenic,<ref name="WebMD"></ref> substances known to be Toxic heavy metal. In a 2008 study, close to 21% of U.S. and Indian-manufactured patent Ayurvedic medicines sold through the Internet were found to contain toxic levels of heavy metals, specifically lead, mercury, and arsenic.<ref name="Saper2008"></ref> The public health implications of such metallic contaminants in India are unknown.<ref name="Saper2008"/>

@@ -1,0 +1,84 @@
+Guiana Space Centre
+
+=== BEC / ELA-1 / ELV ===
+Originally built in the 1960s under the name of Base Équatoriale du CECLES (BEC) , , the pad located at was designed for the Europa (rocket). One Europa-II was launched from the site, before the programme was cancelled.
+The pad was demolished, and subsequently rebuilt as the first launch complex for Ariane rockets. Renamed ELA (later redesignated ELA-1) , it was used for Ariane 1 and Ariane 2 and 3 launches until being retired in 1989.<ref></ref>
+In November 2001, it was renamed ELV pad and refurbished again for the Vega rocket. The first launch was performed on 13 February 2012.<ref></ref>
+=== ELA-2 ===
+The ELA-2 pad , located at had been used for Ariane 4 launches until 2003.
+=== ELA-3 ===
+ELA-3 has been active for Ariane 5 launches since 1996 (Ariane 501). This facility is located at and covers an area of .<ref></ref>
+=== ELA-4 ===
+ELA-4 is presently under construction, intended for future Ariane 6 launches. This facility is located at .<ref></ref>
+=== ELS / Soyuz at CSG ===
+ESA has built ELS at for launching Russian-built Soyuz-2 rockets. The first Soyuz launch from ELS was postponed several times, but launched on 21 October 2011.<ref> urltoken SpaceflightNow's VS01 flight status page </ref>
+ELS is located on the territory of Sinnamary commune, from Kourou harbor.<ref></ref> It is northwest of the site used for the Ariane 5 launches. Under the terms of the Russo-European joint venture, ESA will augment its own launch vehicle fleet with Soyuz rockets — using them to launch ESA or commercial payloads — and the Russians will get access to the Kourou spaceport for launching their own payloads with Soyuz rockets. Russia will use the Guiana Space Centre in addition to Baikonur Cosmodrome. The Guiana location has the significant benefit of greatly increased payload capability, owing to the near equatorial position. A Soyuz rocket with a 1.7 tonnes to geostationary transfer orbit (GTO) performance from Baikonur, will increase its payload potential to 2.8 tonnes from the Guiana launch site.<ref> urltoken Le Port Spatial de l'Europe (CNES) </ref>
+The ELS project is being co-funded by Arianespace, ESA, and the European Union, with CNES being the prime contractor. The project has a projected cost of approximately €320 million, where €120 million are allocated for modernizing the Soyuz vehicle.<ref></ref> The official opening of the launch site construction occurred on 27 February 2007. Excavation work however, had previously begun several months beforehand.
+On 13 September 2010, Spaceflight Now reported that after several delays in the construction of a mobile gantry the launch pad had been finished, and the first flight of the Soyuz was expected to occur in early 2011.<ref name="SFNOW-2010-09-13"></ref> By October 2010, 18 launch contracts had been signed. Arianespace has ordered 24 launchers from Russian industry.<ref name="arianespace-2010-10-11"></ref>
+On 21 October 2011, two Galileo IOV-1 and IOV-2 satellites were launched using a Soyuz-2 rocket, in the "first Russian Soyuz vehicle ever launched from Europe's Spaceport in French Guiana."<ref name=pa20111022></ref>
+=== Final assembly building ===
+Astrium assembles each Ariane 5 launcher in the Launcher Integration Building. The vehicle is then delivered to the Final Assembly Building for payload integration by Arianespace.<ref></ref> The Final Assembly Building is located from the ELA-3 launch zone. The mobile launch table completes the trip with an Ariane 5 in about one hour. It is then secured in place over the launch pad's flame ducts.<ref></ref>
+== Launches ==
+=== Launch safety ===
+Fire safety is ensured by a detachment of the Paris Fire Brigade, a branch of the French Army. Security around the base is ensured by French Gendarmerie forces, assisted by the 3rd Foreign Infantry Regiment of the French Foreign Legion. Before and during launch windows, CSG facility security is significantly enhanced by anti-personnel and anti-aircraft measures, the exact configurations of which are classified by the French military. All entrants to the launch complex are also subject to checks for proof of permission to enter the facility.
+The Guiana Space Centre (as per CNES) also contains the Îles du Salut, a former penal colony including the infamous Devil's Island. Now a tourist site, the islands are under the launching trajectory for geosynchronous orbit and have to be evacuated during launches.
+=== Early launches ===
+* 10 March 1970 - The first Diamant launched the DIAL/MIKA and DIAL/WIKA satellites. DIAL/MIKA failed during launch, but it entered orbit with a total mass of 111 kg.<ref> </ref> DIAL/WIKA provided data for about two months after launch.<ref> </ref>
+=== Recent launches ===
+* 5 October 2007 — An Ariane 5 launched from CSG carrying Intelsat 11 and Optus D2.<ref></ref>
+* 9 March 2008 — An Ariane 5 launched carrying the ATV (Automated Transfer Vehicle) Jules Verne in preparation for docking with the International Space Station (ISS). This was the first launch of the ESA unmanned resupply craft.
+* 18 April 2008 — An Ariane 5 launched carrying Vinasat-1 — Vietnam's first satellite.<ref></ref>
+* 14 August 2008 — An Ariane 5 carrying Superbird 7 for Mitsubishi Electric and AMC-21 for SES Americom
+* 20 December 2008 — An Ariane 5 carrying Hot Bird and W2M for Eutelsat<ref> urltoken </ref><ref></ref>
+* 14 May 2009 — An Ariane 5 carrying the ESA's Herschel and Planck Space telescope<ref></ref>
+* 1 July 2009 — An Ariane 5 carrying TerreStar-1, the heaviest commercial telecommunications satellite ever launched<ref></ref>
+* 18 December 2009 — An Ariane 5 carrying Helios 2B European military observation satellite used by France, Belgium, Spain and Greece.<ref></ref>
+* 21 May 2011 — 04:38 (GMT+08:00) An Ariane 5 ECA launch vehicle launched carrying ST-2 Satellite twice as powerful Singtel's first satellite ST-1 which was launched back in 1998. It will provide 20% more transponder capacity and a wider coverage footprint than ST-1, with C-band and Ku-band coverage of the Middle East, Central Asia, Indian subcontinent and Southeast Asia.
+* 21 October 2011 — A Soyuz-2 carrying two Galileo satellites was launched. This was the first launch of a Soyuz rocket at the Centre Spatial Guyanais.<ref></ref>
+* 17 December 2011 — A Soyuz carrying the French space agency's Pleiades 1 Earth imaging satellite, four ELISA electronic intelligence satellites, and the SSOT remote sensing satellite for the Chilean military. This was the second launch of a Soyuz at the Guiana Space Centre.<ref></ref>
+* 13 February 2012 — The Vega, which was designed in Italy, lifted off at 10:00 UTC on its maiden voyage. The launcher released nine satellites into orbit: two Italian satellites and seven Small satellite.<ref></ref>
+* 5 July 2012 — The unmanned Ariane 5 rocket took off to send an American communication satellite and European weather-monitoring spacecraft into orbit. Liftoff occurred at 21:36 UTC.<ref></ref>
+* 30 August 2013 — Indian Space Research Organisation (ISRO) launched the advanced multi-band communication satellite GSAT-7.<ref> urltoken India launches first defence satellite GSAT-7 </ref> It was 17th Indian satellite launched from ESA with Ariane 5.<ref> urltoken Navy's first satellite GSAT-7 now in the Space The Hindu, August 30, 2013 by Madhumati D. S.</ref>
+* 16 October 2014 — An Ariane 5 launch vehicle carrying the communication satellite ARSAT-1 to orbit. It is the first geostationary satellite built by an Latin American country (Argentina), and the second one of the Americas, after USA.
+* 30 September 2015 — An Ariane 5 launch vehicle carrying the communication satellite ARSAT-2 to orbit, being the second Argentine geostationary satellite built in two years.
+* 1 October 2015 — Sky Muster (NBN-Co 1A) is a communication satellite launched on an Ariane 5 launch vehicle. Sky Muster is the first satellite of an operation to improve Australia's internet with the NBN program.
+* 6 October 2016 — Sky Muster (NBN-Co 1B) is a communication satellite launched on an Ariane 5 ECA launch vehicle. Sky Muster II is the second satellite of an operation to improve Australia's internet with the NBN program.
+* 28 January 2017 — A Soyuz-2 carrying the geostationary communication satellite Hispasat AG1 to orbit. It is the first of the ESA's "Small-GEO" class of satellites.
+* 14 February 2017 - An Ariane 5 launch vehicle carrying the commercial communication satellites SKY Brasil (Intelsat 32e) and Telekom 3S launched the satellites to a geostationary orbit.
+* 25 January 2018 - Partial failure of Ariane 5 launch vehicle on Ariane flight VA241.
+* 19 October 2018 - An Ariane 5 launch vehicle launches the European-Japanese BepiColombo mission to Mercury.<ref></ref>
+* 5 February 2019 - Ariane 5 launched the Saudi Geostationary Satellite SGS-1 (also known as SaudiGeosat-1/HellasSat-4).
+* 11 July 2019 - Vega launch vehicle failed to launch Falcon Eye 1 satellite for United Arab Emirates Armed Forces.
+* 15 August 2020 - An Ariane 5 launched MEV-2 and Intelsat 10-02 Galaxy-30.<ref></ref>
+=== Future launches ===
+* 31 October 2021 James Webb Space Telescope.<ref></ref><ref></ref>
+== Launch statistics ==
+, Kourou counts amongst the spaceports with the highest percentage of successful launches, both successive and overall. Here is a chronology of all orbital launches from the Kourou spaceport since 1970, under the French and European space programmes.
+=== Flights by launcher ===
+<div style="margin: 15px -5px -50px -45px;">
+</div>
+<div style="text-align:center;">
+In development:&nbsp;&nbsp;
+&nbsp;&nbsp;
+Active:&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+<br/>Retired:&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+</div>
+=== Flights by mission outcome ===
+<div style="margin: 15px -5px -50px -45px;">
+</div>
+<div style="text-align:center;">
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+</div>
+Charts include all orbital launches from Kourou; sounding rockets are excluded.<br/>Historical data: launch tables from List of Ariane launches, Soyuz ST, Vega and urltoken Encyclopedia Aeronautica.<br/>Last updated on 30 December 2020.<ref name=sfn_ls></ref><ref></ref>
+
+</ref> However, the massive SpaceX Falcon Heavy makes up for the geographic disadvantage of Cape Canaveral by lifting up to 26,700 kg to GTO.<ref></ref>

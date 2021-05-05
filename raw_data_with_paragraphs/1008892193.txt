@@ -1,0 +1,57 @@
+Railway platform
+
+==Height relative to trains==
+The most basic form of platform consists of an area at the same level as the track, usually resulting in a fairly large height difference between the platform and the train floor. This would often not be considered a true platform. The more traditional platform is elevated relative to the track but often lower than the train floor, although ideally they should be at the same level. Occasionally the platform is higher than the train floor, where a train with a low floor serves a station built for trains with a high floor, for example at the Dutch stations of the DB Regionalbahn Westfalen (see . On the London Underground some stations are served by both District line and Piccadilly line trains, and the Piccadilly trains have lower floors.
+A tram stop is often in the middle of the street; usually it has as a platform a refuge area of a similar height to that of the sidewalk, e.g. , and sometimes has no platform. The latter requires extra care by passengers and other traffic to avoid accidents. Both types of tram stops can be seen in the tram networks of Melbourne and Toronto. Sometimes a tram stop is served by ordinary trams with rather low floors and metro-like light rail vehicles with higher floors, and the tram stop has a dual-height platform. A railway station may be served by heavy-rail and light-rail vehicles with lower floors and have a dual- height platform, as on the RijnGouweLijn in the Netherlands.
+==Types of platform==
+Platform types include the bay platform, side platform (also called through platform), split platform and island platform. A bay platform is one at which the track terminates, i.e. a dead-end or siding. Trains serving a bay platform must reverse in or out. A side platform is the more usual type, alongside tracks where the train arrives from one end and leaves towards the other. An island platform has through platforms on both sides; it may be indented on one or both ends, with bay platforms. To reach an island platform there may be a bridge, a tunnel, or a level crossing. A variant on the side platform is the spanish solution which has platforms on both sides of a single through track.
+==Identification==
+Most stations have their platforms numbered consecutively from 1; a few stations, including , , King's Cross, , and (in the UK); Uppsala, (Sweden); and Lidcombe, Sydney (Australia), start from 0. At platforms 3 through to 12 are split along their length with odd numbered platforms facing north and east and even facing south and west, with a small signal halfway along the platform. Some, such as , use letters instead of numbers (this is to distinguish the platforms from numbered ones in the adjoining London Waterloo station for staff who work at both stations); some, such as Paris-Gare de Lyon, use letters for one group of platforms but numbers for the other.
+In the US, a designated place where a train can arrive is referred to as a "track" (e.g. "The train is arriving on Track 5"). The term "platform" is also used in the US but refers to the structure rather than a designated place for a train arriving. Therefore, an island platform would be described as one platform with two tracks. In some cases, there are numbered tracks which are used only for through traffic and do not have platform access. In other English-speaking countries, "platform" can refer to both the structure or to a designated place for trains arriving (e.g. "The train is arriving at Platform 5"). Therefore, an island platform might have two numbered platforms.
+==Facilities==
+Some of the station facilities are often located on the platforms. Where the platforms are not adjacent to a station building, often some form of shelter or waiting room is provided, and employee cabins may also be present. The weather protection offered varies greatly, from little more than a roof with open sides, to a closed room with heating or air-conditioning. There may be benches, lighting, ticket counters, drinking fountains, shops, waste boxes, and static timetables or platform display with information about the next train.
+There are often loudspeakers as part of a public address (PA) system. The PA system is often used where dynamic timetables or electronic displays are not present. A variety of information is presented, including destinations and times (for all trains, or only the more important long-distance trains), delays, cancellations, platform changes, changes in routes and destinations, the number of carriages in the train and the location of first class or luggage compartments, and supplementary fee or reservation requirements.
+==Safety==
+Some metro stations have platform screen doors between the platforms and the tracks. They provide more safety, and they allow the heating or air conditioning in the station to be separated from the ventilation in the tunnel, thus being more efficient and effective. They have been installed in most stations of the Singapore MRT and the Hong Kong MTR, and stations on the Jubilee Line Extension in London.
+Platforms should be sloped upwards slightly towards the platform edge to prevent wheeled objects such as trolleys, prams and wheelchairs from rolling away and into the path of the train. Many platforms have a cavity underneath an cantilever so that people who may fall off the platform can seek shelter from incoming trains. A dangerous practice is sitting on the edge of the platform, which requires withdrawing the legs fast enough when a train arrives.
+===High-speed rail===
+In high-speed rail, passing trains are a significant safety problem as the safe distance from the platform edge increases with the speed of the passing train. A study done by the United States Department of Transportation in 1999 found that trains passing station platforms at speeds of can pose safety concerns to passengers on the platforms who are away from the edge due to the aerodynamic effects created by pressure and induced airflow with speeds of to depending on the train body aerodynamic designs. Additionally, the airflow can cause debris to be blown out to the waiting passengers. If the passengers stand closer at , the risk increases with airflow that can reach speeds of to .<ref></ref>
+In United Kingdom, a guideline for platform safety specifies that for the platforms with train passing speeds between and , there should be a yellow-line buffer zone of and other warning signs. If trains can pass at speeds higher than , the platforms should be inaccessible to passengers unless there are waiting rooms or screened areas to provide protection.<ref></ref> The European Union has a regulation for platforms that are close to tracks with train passing speeds of or more should not be accessible to passengers unless there is a lower speed limit for trains that intend to stop at the station or there are barriers to limit access.<ref></ref>
+===Markings===
+Platforms usually have some form of warnings or measures to keep passengers away from the tracks. The simplest measure is markings near the edge of the platform to demarcate the distance back that passengers should remain. Often a special tiled surface is used as well as a painted line, to help blind people using a walking aid, and help in preventing wheelchairs from rolling too near the platform edge.
+In the US, Americans with Disabilities Act of 1990 regulations require a detectable warning strip wide, consisting of truncated dome bumps in a visually-contrasting color, for the full length of the platform.<ref> urltoken 2010 ADA Standards, US Department of Justice, Sections 710.5, 810</ref>
+=== Curvature ===
+Ideally platforms should be straight or slightly convex, so that the guard (if any) can see the whole train when preparing to close the doors. Platforms that have great curvature have blind spots that create a safety hazard. Mirrors or closed-circuit cameras may be used in these cases to view the whole platform. Also passenger carriages are straight, so doors will not always open directly onto a curved platform &ndash; often a platform gap is present. Usually such platforms will have warning signs, possibly auditory, such as London Underground's famous phrase "Mind the gap".
+There may be moveable gap filler sections within the platform, extending once the train has stopped and retracting after the doors have closed. The New York City Subway employs these at 14th Street–Union Square on the IRT Lexington Avenue Line and at Times Square on the 42nd Street Shuttle, and formerly at the South Ferry outer loop station on the IRT Broadway–Seventh Avenue Line.
+==Notable examples==
+===Longest railway platforms===
+# , Uttar Pradesh, India:<ref></ref>
+# , Kerala, India:<ref></ref><ref></ref><ref></ref><ref></ref>
+# Kharagpur, West Bengal, India: <ref></ref><ref></ref>
+# Pilibhit Junction railway station, Uttar Pradesh India 
+# Auto Club Speedway station, Fontana, California, US: <ref name=schematics></ref>
+# , Chhattisgarh, India: 
+# Cheriton Shuttle Terminal, Kent, United Kingdom: (longest in Europe)
+# , Bern, Switzerland: 
+# Jhansi, Uttar Pradesh, India: 
+# , Perth, Western Australia: (longest in Australia)
+# Dearborn Street subway, Chicago, Illinois, US 
+# , Kalgoorlie, Western Australia: 
+# , Sonepur, Bihar, India: <ref></ref>
+# , Nadia district, West Bengal, India 
+# Flinders Street railway station, Melbourne, Victoria, Australia: <ref> urltoken Melbourne Crime Tours - Go West Tours Melbourne </ref>
+# Port Pirie (Mary Elie Street) railway station, South Australia: <ref>"News" Railway Gazette 18 August 1967 page 603</ref>
+# Sittard railway station, Netherlands: 
+# 's-Hertogenbosch railway station, Netherlands: 
+# , Netherlands: 
+===Greatest number of platforms===
+#Grand Central Terminal New York City, US: 44
+#Gare du Nord, France: 35 (31 above ground level + 4 underground)
+#Chicago Union Station, US: 30
+#, China: 30
+#London Waterloo station, United Kingdom: 28 (plus 8 at Waterloo tube station)
+#, India : 23 (+4 for Kolkata Metro Line 2 (under construction))
+
+A railway platform is an area alongside a railway track providing convenient access to trains. Almost all stations have some form of platform, with larger stations having multiple platforms.
+The world's longest station platform is at in India at .<ref> urltoken Gorakhpur gets world's largest railway platform The Times of India</ref> The Appalachian Trail station in the United States, at the other extreme, has a platform which is only long enough for a single bench.<ref></ref>
+Among some United States train conductors the word "platform" has entered usage as a verb meaning "to berth at a station", as in the announcement: "The last two cars of this train will not platform at East Rockaway".<ref> urltoken NY Times 18 May 1986</ref>

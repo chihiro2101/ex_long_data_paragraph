@@ -1,0 +1,50 @@
+Gaius Musonius Rufus
+
+==Life==
+The son of a Roman eques of the name of Capito, Musonius Rufus was born in Volsinii, Etruria<ref> Suda μ 1305, Musonius</ref> about 20–30 AD. By the time of Nero, he was already famous in Rome, where he taught Stoic philosophy. He was associated with the Stoic Opposition against the perceived tyranny of Nero. He followed Rubellius Plautus into exile when Plautus was banished by Nero (60 AD).<ref>Tacitus, Annals, xiv. 59</ref> He returned to Rome after Plautus' death (62 AD), but as a consequence of his practising and teaching Stoicism, he became an object of suspicion and dislike at Nero's court, and was accordingly banished to the island of Gyarus (65 AD) on a trumped-up charge of participation in the Pisonian conspiracy.<ref>Tacitus, Annals, xv. 71; Cassius Dio, lxii. 27; Philostratus, Vit. Apoll., vii. 16</ref> While Gyaros was "harsh and devoid of human culture",<ref>… addidit insulam Gyarum immitem et sine cultu hominum esse: In the Annales, Tiberius is portrayed as extraordinarily cruel and vengeful, making his hesitance to exile a criminal to Gyaros particularly pointed.</ref> Musonius was able to survive and form a small community of philosophers.<ref></ref> He specifically refers to his time in exile in his ninth discourse, pointing out its advantages for a practitioner of Stoicism.<ref></ref> 
+He returned under Galba (68 AD). When Marcus Antonius Primus, the general of Vespasian, was marching upon Rome (69 AD), he joined the ambassadors that were sent by Vitellius to the victorious general, and going among the soldiers of the latter, preached about the blessings of peace and the dangers of war, but was soon made to stop.<ref>Tacitus, Histories, iii. 81</ref> When the party of Vitellius gained the upper hand, Musonius was able to accuse, and obtain the conviction of, Publius Egnatius Celer, the Stoic philosopher who had condemned Barea Soranus.<ref>Tacitus, Histories, iv. 10, 40</ref> It was perhaps about this time that Musonius taught Epictetus, his most famous student. So highly was Musonius esteemed in Rome that Vespasian allowed him to remain in Rome when the other philosophers were banished from the city (71 AD),<ref>Cassius Dio, lxv. 13</ref> but eventually he was exiled anyway (perhaps around 75 AD), only returning after Vespasian's death (79 AD). As to his death, we know only that he was dead by 101 AD, when Pliny speaks of his son-in-law Artemidorus.<ref>Pliny, Epistles, iii. 11</ref>
+==Writings==
+Image:Musonius Rufus Reliquiae Hense 1905 page 1.jpg|right|thumb|Chapter 1, page 1, of the works of Gaius Musonius Rufus, in Greek, edited by Otto Hense in the Teubner series, 1905.
+The Suda states that there are "speeches about philosophy bearing his name," and mentions letters to Apollonius of Tyana.<ref> Suda μ 1305, Musonius</ref> The letters that survive<ref>Philostratus, Vit. Apoll., iv. 46</ref> are certainly not authentic.<ref>Maria Dzielska, (1986), Apollonius of Tyana in Legend and History, page 41. </ref> It is unknown whether Musonius wrote anything for publication. His philosophical opinions were collected by two of his students. One collection of Discourses, by a certain Lucius, form the basis of the 21 lengthy extracts preserved by Stobaeus.<ref>Stobaeus, Floril. xxix. 78, lvi. 18</ref> A second collection was compiled by one Pollio; it has been lost, but some fragments survive in quotations by later writers.<ref>e.g. Aulus Gellius, v. 1, ix. 2, xvi. 1</ref>
+The titles of the 21 discourses (Cora Lutz edition) are as follows:
+# That There is No Need of Giving Many Proofs for One Problem
+# That Man is Born with an Inclination Toward Virtue
+# That Women Too Should Study Philosophy
+# Should Daughters Receive the Same Education as Sons?
+# Which is more Effective, Theory or Practice?
+# On Training
+# That One Should Disdain Hardships
+# That Kings Also Should Study Philosophy
+# That Exile is not an Evil
+# Will the Philosopher Prosecute Anyone for Personal Injury?
+# What means of Livelihood is Appropriate for a Philosopher?
+# On Sexual Indulgence
+# What is the Chief End of Marriage
+# Is Marriage a Handicap for the Pursuit of Philosophy?
+# Should Every Child that is Born be Raised?
+# Must One Obey One's Parents under all Circumstances?
+# What is the Best Viaticum for Old Age?
+# On Food
+# On Clothing and Shelter
+# On Furnishings
+# On Cutting the Hair
+==Philosophy==
+His philosophy, which is in many respects identical with that of his pupil, Epictetus, is marked by its strong practical tendency. The philosophy he would have everyone cultivate is not a mere matter of words, of instruction, or of the school; but one that everyone by their own reflection and practice may pursue for himself.<ref name ="ritter190">Heinrich Ritter, The History of Ancient Philosophy, Alexander James William Morrison, tr. (London, 1846), vol. IV, p. 190.</ref> Still, he considers it becoming in a philosopher to wear the philosopher's robe, to allow the hair to grow, and to retire from general society.<ref name ="ritter190"/> At the same time he is convinced of the power of philosophy over the minds of people; by it he hopes to heal all the corruption of the human mind.<ref name ="ritter191">Ritter, p. 191.</ref> His philosophy consists entirely of the rules for the conduct of life; all knowledge ought to be serviceable to action.<ref name ="ritter191"/> He does not reject logic: he regards it as a proof of a weak mind to decline to examine the fallacy which perplexes it;<ref>Epictetus, Discourses, i. 7</ref> yet at the same time he expresses his disgust at the multitude of dogmas which fed the vanity of the sophists.<ref name ="ritter192">Ritter, p. 192.</ref> He gives only a little attention to the Stoic physics of the Stoics; he asserts that the gods know all things without need of reasoning, since to them nothing can be obscure or unknown.<ref name ="ritter192"/> The human soul he considers to be akin to the gods,<ref name ="ritter192"/> and agrees with other Stoics that the soul is material, which after being corrupted by bodily influence, may be again purified and cleansed.<ref name ="ritter193">Ritter, p. 193.</ref> He strongly asserts the liberty of the rational soul .<ref name ="ritter193"/>
+Musonius pays much more attention to ethics than logic or physics; for he holds that philosophy is nothing else than an investigation and practice of what is becoming and obligatory; and philosophy, he says, is merely the pursuit of a virtuous life. He requires that all people, both men and women, should cultivate philosophy as the only sure road to virtue.<ref name ="ritter193"/> He agrees that it is easy to follow one's own nature, and the only great impediment which he can find to a truly moral life is the prejudices with which the mind is filled from childhood, and the evil habits confirmed by practices.<ref name ="ritter194">Ritter, p. 194.</ref> Thus he regards philosophy as the mental art of healing, and lays great stress on the practice of virtue, preferring practice to precept.<ref name ="ritter194"/> He distinguishes two kinds of practice: the exercise of the mind in reflection and the adoption of good rules in life, and the endurance of bodily pains which affect both the soul and the body.<ref name ="ritter195">Ritter, p. 195.</ref>
+A life lived according to nature consists in social, friendly sentiments and temper, and in contentment with what will simply alleviate the primary needs of nature.<ref name ="ritter195"/> He combats all selfishness, and regards marriage not merely as becoming and natural, but as the principle of the family and state, and the preservation of the whole human race.<ref name ="ritter195"/> He zealously protests against the infanticide as an unnatural custom, and at every opportunity recommends the practice of benevolence.<ref name ="ritter195"/> His precepts for the simple life are carefully detailed, and he gives precise regulations for diet, the care of the body, clothing, and even furniture. Thus he recommends that the hair should be allowed to grow long and not cut too close; and he honours the beard on the basis that the hair was provided by nature for covering the body.<ref name ="ritter195"/> He forbids meat, and prefers food which is furnished and offered by nature to that which requires the art of cooking.<ref name ="ritter195"/>
+Musonius argued because men's and women's capacity to understand virtue is the same, both should be trained in philosophy.<ref>Diotima, urltoken Philosophers on the Role of Women</ref>
+==Notes==
+==Further reading==
+===Translations===
+*Cora Lutz, (1947), urltoken Musonius Rufus: The Roman Socrates. Printed in: Yale Classical Studies, Volume X. Edited by A. R. Bellinger. Yale University Press.
+*Cynthia King, (2011), Musonius Rufus: Lectures and Sayings. Edited by William B. Irvine. CreateSpace. 
+===Studies===
+*J. T. Dillon, (2004), Musonius Rufus and Education in the Good Life: A Model of Teaching and Living Virtue. University Press of America. 
+*L. Dottarelli, (2015), "Musonio l'Etrusco. La filosofia come scienza di vita", Annulli Editori .
+==External links==
+*Diotima, urltoken Philosophers on the Role of Women
+* urltoken International Vegetarian Union: C. RUFUS MUSONIUS
+* urltoken Musonius Rufus entry in the Internet Encyclopedia of Philosophy
+* urltoken Online edition of Lectures and Fragments
+
+Gaius Musonius Rufus ; was a Roman Stoic philosopher of the 1st century AD. He taught philosophy in Rome during the reign of Nero and so was sent into exile in 65 AD, returning to Rome only under Galba. He was allowed to stay in Rome when Vespasian banished all other philosophers from the city in 71 AD although he was eventually banished anyway, returning only after Vespasian's death. A collection of extracts from his lectures still survives. He is also remembered for being the teacher of Epictetus.

@@ -1,0 +1,54 @@
+Enteric nervous system
+
+==Structure==
+The enteric nervous system in humans consists of some 500 million neurons<ref>; alternate source at website: </ref> (including the various types of Dogiel cells),<ref name="Furness2008"></ref><ref></ref> 0.5% of the number of neurons in the brain, five times as many as the one hundred million neurons in the human spinal cord,<ref name="Saunders Elsevier"></ref> and about as many as in the whole nervous system of a cat. The enteric nervous system is embedded in the lining of the gastrointestinal system, beginning in the esophagus and extending down to the anus.<ref name="Saunders Elsevier"/>
+The neurons of the ENS are collected into two types of ganglia: myenteric plexus and submucosal plexus.<ref name="urlThe Enteric Nervous System"></ref> Myenteric plexuses are located between the inner and outer layers of the muscularis externa, while submucosal plexuses are located in the submucosa.
+=== Auerbach's plexus ===
+Auerbach's plexus, also known as the myenteric plexus, is a collection of unmyelinated fibers and postganglionic autonomic cell bodies that lie between the circular and longitudinal layers of the muscularis externa in the gastrointestinal tract. It was discovered and named by German neuropathologist Leopold Auerbach. These neurons provide motor inputs to both layers of the muscularis externa, and provide both parasympathetic and sympathetic input. The anatomy of the plexus is similar to the anatomy of the central nervous system. The plexus includes sensory receptors, such as chemoreceptors and mechanoreceptors, that are used to provide sensory input to the interneurons in the enteric nervous system. The plexus is the parasympathetic nucleus of origin for the vagus nerve, and communicate with the medulla oblongata through both the anterior and posterior vagal nerves.
+=== Submucosal plexus ===
+The submucosal plexus (also known as Meissner's plexus) is found in the submucosal layer of the gastrointestinal tract.<ref>Ross, Michael H, and Wojciech Pawlina. Histology: A Text and Atlas with Correlated Cell and Molecular Biology. Baltimore, MD: Lippincott Williams & Wilkins, 2006</ref> It was discovered and named by German physiologist Georg Meissner. It functions as a pathway for the innervation in the mucosa layer of the gastrointestinal wall.
+==Function==
+The ENS is capable of autonomous functions<ref></ref> like the coordination of reflexes; although it receives considerable innervation from the autonomic nervous system, it can and does operate independently of the brain and the spinal cord. Its study is the focus of neurogastroenterology.
+===Complexity===
+The enteric nervous system has been described as a "second brain" for several reasons. The enteric nervous system can operate autonomously. It normally communicates with the central nervous system (CNS) through the parasympathetic (e.g., via the vagus nerve) and sympathetic (e.g., via the prevertebral ganglia) nervous systems. However, vertebrate studies show that when the vagus nerve is severed, the enteric nervous system continues to function.<ref name="amjphysgastro"/>
+ 
+In vertebrates, the enteric nervous system includes efferent neurons, afferent neurons, and interneurons, all of which make the enteric nervous system capable of carrying reflexes and acting as an integrating center in the absence of CNS input. The sensory neurons report on mechanical and chemical conditions. Through intestinal muscles, the motor neurons control peristalsis and churning of intestinal contents. Other neurons control the secretion of enzymes. The enteric nervous system also makes use of more than 30&nbsp;neurotransmitters, most of which are identical to the ones found in CNS, such as acetylcholine, dopamine, and serotonin. More than 90% of the body's serotonin lies in the gut, as well as about 50% of the body's dopamine, which is currently being studied to further our understanding of its utility in the brain.<ref></ref><ref></ref><ref></ref>
+The enteric nervous system has the capacity to alter its response depending on such factors as bulk and nutrient composition. In addition, ENS contains support cells which are similar to astroglia of the brain and a diffusion barrier around the capillaries surrounding ganglia which is similar to the blood–brain barrier of Cerebrum blood vessels.<ref></ref>
+===Peristalsis===
+thumb
+Peristalsis is a series of radially symmetrical contractions and relaxations of muscles which propagate down a muscular tube. In humans and other mammals, peristalsis is found in the smooth muscles of the digestive tract to propel contents through the digestive system. The word is derived from New Latin and comes from the Greek peristallein, "to wrap around," from peri-, "around" + stallein, "to place". Peristalsis was discovered in 1899 by the work of physiologists William Bayliss and Ernest Starling. Working on the small intestines of dogs, they found that the response of increasing the pressure in the intestine caused the contraction of the muscle wall above the point of stimulation and the relaxation of the muscle wall below the point of stimulation.<ref></ref><ref name=Gershon></ref>
+=== Segmentation ===
+Segmentation contractions are the contractions in intestines carried out by the smooth muscle walls. Unlike peristalsis, which involves the contraction and relaxation of muscles in one direction, segmentation occurs simultaneously in both directions as the circular muscles alternatively contract. This allows for thorough mixing of intestinal contents, known as chyme, to allow greater absorption.
+=== Secretion ===
+The secretion of gastrointestinal hormones, such as gastrin and secretin, is regulated through cholinergic neurons residing in the walls of the digestive tract. Hormone secretion is controlled by the vagovagal reflex, where the neurons in the digestive tract communicate through both afferent and efferent pathways with the vagus nerve.<ref name="pmid19008339"></ref>
+==Clinical significance==
+Neurogastroenterology encompasses the study of the brain, the gut, and their interactions with relevance to the understanding and management of gastrointestinal motility and functional gastrointestinal disorders. Specifically, neurogastroenterology focuses on the functions, malfunctions, and the malformations of the sympathetic, parasympathetic, and enteric divisions of the digestive tract.<ref></ref> The term also describes a medical sub-specialism of gastroenterology dedicated to the treatment of motility and functional gastrointestinal disorders.
+=== Functional gastrointestinal disorders ===
+Functional gastrointestinal disorder are a class of gastrointestinal disorders where there is a malfunction in the normal activities of the gastrointestinal tract, but there are no structural abnormalities that can explain the cause. There are rarely any tests that can detect the presence of these disorders. Clinical research in neurogastroenterology focuses mainly on the study of common functional gastrointestinal disorders such as irritable bowel syndrome, the most common functional GI disorder.<ref></ref>
+=== Motility disorders ===
+Motility disorders are the second classification of gastrointestinal disorder studied by neurogastroenterologists. Motility disorders are divided by what they affect, with four regions: The esophagus, the stomach, the small intestines, and the large intestines. Clinical research in neurogastroenterology focuses mainly on the study of common motility disorders such as gastroesophageal reflux disease, the damage of the mucosa of the esophagus caused by rising stomach acid through the lower esophageal sphincter.<ref></ref>
+===Gut ischaemia===
+ENS function can be damaged by ischemia.<ref name="pmid17375218"></ref> Transplantation, previously described as a theoretical possibility,<ref name="pmid17369379"></ref> has been a clinical reality in the United States since 2011 and is regularly performed at some hospitals.
+==Additional images==
+<gallery>
+ Image:Gray1071.png|The myenteric plexus of a rabbit. X 50.
+ Image:Gray1072.png|The submucosal plexus of a rabbit. X 50.
+</gallery>
+== Neurogastroenterology societies ==
+* American Neurogastroenterology and Motility Society<ref> urltoken ANMS - American Neurogastroenterology and Motility Society </ref>
+* European Society of Neurogastroenterology and Motility<ref> urltoken ESNM - European Society for Neurogastroenterology & Motility</ref>
+** Neurogastroenterology & Motility
+==See also==
+* Basal electrical rhythm
+* Homeostatic emotion
+* Gut–brain axis
+* Human gastrointestinal tract
+==References==
+==Further references==
+* Grosell M, Farrell A P and Brauner C J (Eds) (2010) urltoken Fish Physiology: The Multifunctional Gut of Fish Academic Press. .
+* Gershon M. D. (1999), The Second Brain: A Groundbreaking New Understanding of Nervous Disorders of the Stomach and Intestine, Harper Perennial, .
+==External links==
+*
+
+The enteric nervous system (ENS) or intrinsic nervous system is one of the main divisions of the autonomic nervous system (ANS) and consists of a mesh-like system of neurons that governs the function of the gastrointestinal tract.<ref name="Furness2008"/> It is capable of acting independently of the sympathetic and parasympathetic nervous systems, although it may be influenced by them. The ENS is also called the second brain.<ref></ref><ref></ref> It is derived from neural crest cells.<ref name="pmid18385256"></ref><ref name="pmid16961690"></ref>
+The enteric nervous system is capable of operating independently of the brain and spinal cord,<ref name="Gershon"/> but does rely on innervation from the autonomic nervous system via the vagus nerve and prevertebral ganglia in healthy subjects. However, studies have shown that the system is operable with a severed vagus nerve.<ref name="amjphysgastro"></ref> The neurons of the enteric nervous system control the motor functions of the system, in addition to the secretion of gastrointestinal enzymes. These neurons communicate through many neurotransmitters similar to the CNS, including acetylcholine, dopamine, and serotonin. The large presence of serotonin and dopamine in the gut are key areas of research for neurogastroenterologists.<ref></ref><ref></ref><ref></ref>

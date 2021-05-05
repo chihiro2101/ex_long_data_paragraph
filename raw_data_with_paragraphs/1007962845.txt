@@ -1,0 +1,70 @@
+Iron(II) sulfate
+
+==Uses==
+Industrially, ferrous sulfate is mainly used as a precursor to other iron compounds. It is a reducing agent, and as such is useful for the reduction of chromate in cement to less toxic Cr(III) compounds. Historically ferrous sulfate was used in the textile industry for centuries as a dye fixative. It is used historically to blacken leather and as a constituent of ink.<ref>British Archaeology magazine. urltoken ( urltoken archive)</ref> The preparation of sulfuric acid ('oil of vitriol') by the distillation of green vitriol (Iron(II) sulfate) has been known for at least 700 years.
+===Medical use===
+Together with other iron compounds, ferrous sulfate is used to fortify foods and to treat and prevent iron deficiency anemia. Constipation is a frequent and uncomfortable side effect associated with the administration of oral iron supplements. Stool softeners often are prescribed to prevent constipation.
+===Colorant===
+Ferrous sulfate was used in the manufacture of inks, most notably iron gall ink, which was used from the middle ages until the end of the eighteenth century. Chemical tests made on the Lachish letters 588–586&nbsp;BCE) showed the possible presence of iron.<ref>Torczyner, Lachish Letters, pp.&nbsp;188–95</ref> It is thought that oak galls and copperas may have been used in making the ink on those letters.<ref>Hyatt, The Interpreter's Bible, 1951, volume V, p. 1067</ref> It also finds use in wool dyeing as a mordant. Harewood, a material used in marquetry and parquetry since the 17th century, is also made using ferrous sulfate.
+Two different methods for the direct application of indigo dye were developed in England in the eighteenth century and remained in use well into the nineteenth century. One of these, known as china blue, involved iron(II) sulfate. After printing an insoluble form of indigo onto the fabric, the indigo was reduced to leuco-indigo in a sequence of baths of ferrous sulfate (with reoxidation to indigo in air between immersions). The china blue process could make sharp designs, but it could not produce the dark hues of other methods.
+Sometimes, it is included in canned black olives as an artificial colorant.
+Ferrous sulfate can also be used to stain concrete and some limestones and sandstones a yellowish rust color.<ref name="concrete1"> urltoken How To Stain Concrete with Iron Sulfate</ref>
+Woodworkers use ferrous sulfate solutions to color maple wood a silvery hue.
+===Plant growth===
+Iron (II) sulfate is sold as ferrous sulfate, a soil amendment<ref></ref> for lowering the pH of a high alkaline soil so that plants can access the soil's nutrients.<ref></ref>
+In horticulture it is used for treating iron chlorosis.<ref>Koenig, Rich and Kuhns, Mike: Control of Iron Chlorosis in Ornamental and Crop Plants. (Utah State University, Salt Lake City, August 1996) urltoken p.3</ref> Although not as rapid-acting as ferric EDTA, its effects are longer-lasting. It can be mixed with compost and dug into the soil to create a store which can last for years.<ref name=Handreck></ref> It is also used as a lawn conditioner,<ref name=Handreck/> and moss killer.
+===Other uses===
+In the second half of the 1850s ferrous sulfate was used as a photographic developer for collodion process images.<ref></ref>
+Ferrous sulfate is sometimes added to the cooling water flowing through the brass tubes of turbine condensers to form a corrosion-resistant protective coating.
+It is used in gold refining to precipitate metallic gold from auric chloride solutions (gold dissolved in solution with aqua regia).
+It has been used in the purification of water by flocculation and for phosphate removal in municipal and industrial sewage treatment plants to prevent eutrophication of surface water bodies.
+It is used as a traditional method of treating wood panelling on houses, either alone, dissolved in water, or as a component of water-based paint.
+Green vitriol is also a useful reagent in the identification of mushrooms.<ref name="Svrček"></ref>
+It is used as the iron catalyst component of Fenton's reagent.
+In the early 19th century, chemist Friedrich Accum discovered that in England the dark beer porter often contained Iron(II) sulfate as a frothing agent.<ref></ref>
+It is one of the key ingredients in iron gall ink.
+==Hydrates==
+Iron(II) sulfate can be found in various states of hydrate, and several of these forms exist in nature.
+* FeSO<sub>4</sub>·H<sub>2</sub>O (mineral: Szomolnokite,<ref name=mindat></ref> relatively rare)
+* FeSO<sub>4</sub>·4H<sub>2</sub>O (mineral: Rozenite,<ref name=webmin></ref><ref> urltoken white, relatively common, may be dehydratation product of melanterite)
+* FeSO<sub>4</sub>·5H<sub>2</sub>O (mineral: Siderotil,<ref name=webmin2></ref><ref> urltoken relatively rare)
+* FeSO<sub>4</sub>·6H<sub>2</sub>O (mineral: Ferrohexahydrite,<ref name=webmin3></ref><ref> urltoken relatively rare)
+* FeSO<sub>4</sub>·7H<sub>2</sub>O (mineral: Melanterite,<ref name=webmin4></ref><ref> urltoken blue-green, relatively common)
+The tetrahydrate is stabilized when the temperature of aqueous solutions reaches . At these solutions form both the tetrahydrate and monohydrate.<ref name=sioc></ref>
+All mentioned mineral forms are connected with oxidation zones of iron-bearing ore beds (pyrite, marcasite, chalcopyrite, etc.) and related environments (like coal fire sites). Many undergo rapid dehydration and sometimes oxidation. Numerous other, more complex (either basic, hydrated, and/or containing additional cations) Fe(II)-bearing sulfates exist in such environments, with copiapite being a good and common example.<ref name=Mindat> urltoken 
+==Production and reactions==
+In the finishing of steel prior to plating or coating, the steel sheet or rod is passed through pickling baths of sulfuric acid. This treatment produces large quantities of iron(II) sulfate as a by-product.<ref></ref>
+:Fe + H<sub>2</sub>SO<sub>4</sub> → FeSO<sub>4</sub> + H<sub>2</sub>
+Another source of large amounts results from the production of titanium dioxide from ilmenite via the sulfate process.
+Ferrous sulfate is also prepared commercially by oxidation of pyrite:
+:2&nbsp;FeS<sub>2</sub> + 7&nbsp;O<sub>2</sub> + 2&nbsp;H<sub>2</sub>O → 2&nbsp;FeSO<sub>4</sub> + 2&nbsp;H<sub>2</sub>SO<sub>4</sub>
+It can be produced by displacement of metals less reactive than Iron from solutions of their sulfate:
+CuSO<sub>4</sub> + Fe → FeSO<sub>4</sub> + Cu
+===Reactions===
+Upon dissolving in water, ferrous sulfates form the metal aquo complex Fe(H<sub>2</sub>O)<sub>6</sub><sup>2+</sup>, which is an almost colorless, paramagnetic ion.
+On heating, iron(II) sulfate first loses its water of crystallization and the original green crystals are converted into a white colored anhydrous solid. When further heated, the anhydrous material releases sulfur dioxide and white fumes of sulfur trioxide, leaving a reddish-brown iron(III) oxide. Decomposition of iron(II) sulfate begins at about .
+:2&nbsp;FeSO<sub>4</sub> → Fe<sub>2</sub>O<sub>3</sub> + SO<sub>2</sub> + SO<sub>3</sub>
+Like all iron(II) salts, iron(II) sulfate is a reducing agent. For example, it reduces nitric acid to nitrogen monoxide and chlorine to chloride:
+:6&nbsp;FeSO<sub>4</sub> + 3&nbsp;H<sub>2</sub>SO<sub>4</sub> + 2&nbsp;HNO<sub>3</sub> → 3&nbsp;Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 4&nbsp;H<sub>2</sub>O + 2 NO
+:6&nbsp;FeSO<sub>4</sub> + 3&nbsp;Cl<sub>2</sub> → 2&nbsp;Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 2&nbsp;FeCl<sub>3</sub>
+Upon exposure to air, it oxidizes to form a corrosive brown-yellow coating of "basic ferric sulfate", which is an adduct of iron(III) oxide and iron(III) sulfate:
+:12&nbsp;FeSO<sub>4</sub> + 3&nbsp;O<sub>2</sub> → 4&nbsp;Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 2&nbsp;Fe<sub>2</sub>O<sub>3</sub>
+This "basic sulphate" may then be decomposed by heating increasing the sulphur trioxide yield compared to direct decomposition of ferrous sulphate:
+4&nbsp;Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 2&nbsp;Fe<sub>2</sub>O<sub>3</sub> → 12&nbsp;SO<sub>3</sub> + 6&nbsp;Fe<sub>2</sub>O<sub>3</sub>
+However, some of the sulphur trioxide may be lost to thermal decomposition:
+2&nbsp;SO<sub>3</sub> → 2&nbsp;SO<sub>2</sub> + O<sub>2</sub>
+==See also==
+*Iron(III) sulfate (ferric sulfate), the other common simple sulfate of iron.
+*Copper(II) sulfate
+*Ammonium iron(II) sulfate, also known as Mohr's salt, the common double salt of ammonium sulfate with iron(II) sulfate.
+*Chalcanthum
+*Ephraim Seehl known as an early manufacturer of green vitriol.<ref></ref>
+==References==
+== External links ==
+* 
+*
+* urltoken How to Make Copperas (Iron Sulfate) from Pyrites
+*
+
+Iron(II) sulfate (British English: iron(II) sulphate) or ferrous sulfate denotes a range of salts with the formula FeSulfate·xH<sub>2</sub>O. These compounds exist most commonly as the heptahydrate (x&nbsp;=&nbsp;7) but are known for several values of x. The hydrated form is used medically to treat iron deficiency, and also for industrial applications. Known since ancient times as copperas and as green vitriol (vitriol is an archaic name for sulfate), the blue-green heptahydrate (hydrate with 7 molecules of water) is the most common form of this material. All the iron(II) sulfates dissolve in water to give the same aquo complex Fe(H<sub>2</sub>O)<sub>6</sub><sup>2+</sup>, which has octahedral molecular geometry and is paramagnetic. The name copperas dates from times when the copper(II) sulfate was known as blue copperas, and perhaps in analogy, iron(II) and zinc sulfate were known respectively as green and white copperas.<ref name= "isbn0-19-861271-0"></ref>
+It is on the WHO Model List of Essential Medicines, the safest and most effective medicines needed in a health system.<ref name="WHO21st"></ref> In 2018, it was the 94th most commonly prescribed medication in the United States, with more than 8million prescriptions.<ref></ref><ref></ref>

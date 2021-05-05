@@ -1,0 +1,59 @@
+Wikipedia:Naming conventions (fauna)
+
+== Use the most common name when possible ==
+Article titles are determined by the application of WP:CRITERIA. The article title should usually consist of the name that is in English, following . For well known animals, this will normally be the common name (exceptions are detailed below): 
+* Cheetah, Eastern newt, Giraffe, Koala, Sheep. (See below for upper/lower case guidelines).
+Use the singular form, including for groups or types of animals, following WP:Naming conventions (plurals): Beetle not Beetles (the latter redirects to the former). (See below for upper/lower case guidelines).
+Do not use vernacular names when it is not clear to what the name refers (see . The name sardine is used for many different species of small, oily fishes; the appropriate things to do are to write an article describing the attributes the species have in common under that name, and create separate articles for each genus. However, when there is a clear core meaning for the common name, with other meanings by analogy, then it is okay to use the common name for the "true" group:
+* Many elongated fishes are known as "eels", but "true eels" are in the order Anguilliformes, so it's appropriate to place them at the article name "Eel", with the others listed at Eel (disambiguation).
+When what is the most common name in English, or the veracity of that most common name, is so disputed in reliable sources that it cannot be neutrally ascertained, prefer the common name most used (orthography aside) by international zoological nomenclature authorities over regional ones. When there is no common name or no consensus can be reached on the most common name, or if it isn't clear what taxon the common name refers to (as in the sardine example above), use the scientific name:
+* Pegomya geniculata is a fly without common names.
+* Eulimella torquata was first described in 2011, and has no common name.
+* Drosophila melanogaster has no common name other than "fruit fly", which it shares with other species.
+* Fish in Sciaenidae are in some cases known as "drums", but drum is used for the musical instrument.
+==Monotypic taxa==
+A monotypic taxon is a taxonomic group which only contains a single subgroup (e.g., a genus with only one known species, even a subphylum with one family with one genus). In such a case, the ranks with identical member organisms should not be separated into different articles, and the article (if there is no common name) should go under the scientific name of lowest rank, but no lower than the monotypic genus. Redirects should be created from the other ranks to the actual article.
+* The species name Myrmecobius fasciatus and its monotypic genus Myrmecobius are both redirects to the article at the common name of the species, Numbat.
+* The six-species genus Xenoturbella has redirects from the monotypic family Xenoturbellidae and subphylum Xenoturbellida.
+* The genus Nodocephalosaurus has a redirect from its sole species, Nodocephalosaurus kirtlandensis.
+* The order Amphionidacea redirects to its single genus Amphionides, as does the sole species Amphionides reynaudii.
+The exception is when a monotypic genus name needs to be disambiguated. The article should then be at the species, since this is a more natural form of disambiguation.
+* Viator picis with a redirect at Viator (bird) rather than vice versa.
+== Redirects ==
+The article title and content should match on the organism/group name. Redirects should be made to the article from other names for it (and spelling, capitalisation, etc., variants), as well as from any lower taxa or other subtopics that do not have their own articles.
+Make redirects from alternative common names:
+* Red-spotted newt, Red eft → Eastern newt
+Make redirects from scientific names when they are not the article title:
+* Notophthalmus viridescens redirects to Eastern newt
+* Coleoptera redirects to Beetle
+* Nodocephalosaurus kirtlandensis redirects to Nodocephalosaurus
+There may be several scientific names that need to be redirected:
+* See , above, for several examples.
+* Obsolete scientific names should redirect to the article under the common name or current scientific name.
+Make redirects from alternative capitalisations (many guidebooks and specialist literature in various zoological fields tend to capitalise, so we should account for both usages):
+* Eastern Newt redirects to Eastern newt
+* It is not necessary to create redirects from incorrectly capitalised scientific names, e.g. Nodocephalosaurus Kirtlandensis (capital K on species name)
+Make redirects from singular and plural English forms of scientific names:
+* Xenoturbellid and Xenoturbellids redirect to Xenoturbella
+* Nodocephalosaur and Nodocephalosaurs redirect to Nodocephalosaurus
+==Capitalisation and italicisation==
+Capitalisation of article titles follows general Manual of Style guidance on the use of capital letters. 
+===Common (vernacular) names===
+Articles whose titles are the common (vernacular) names of animals are titled in sentence case&mdash;for example, Przewalski's horse, Black bear. Where a vernacular name contains a proper name, that is also capitalised&mdash;for example, Small Indian civet. Common names are never italicised.
+It is appropriate to create redirects to species (or subspecies) articles from any alternative capitalisation. For example, given an article Bald eagle, create a redirect to it from Bald Eagle. Many field guides capitalise, and most other sorts of writing do not, so we should account for both styles. There may be some rare instances where lower case and capitalised versions have different meanings; suitable links or disambiguation should then be used.
+The common name of a of species, or an individual creature of indeterminate species, is capitalised beyond the first word in article titles (except where a proper name occurs): Bottlenose dolphin, New World monkey, Rove beetle, Slime mold.
+When appended to the name of a standardised breed or cultivar as WP:NATURALDIS, the species name is not capitalised: Siamese cat, Hass avocado.
+This naming conventions guideline does not address prose usage.
+==Currency==
+If the scientific name of animal has recently been changed (e.g. a species has been transferred into a different genus), and there is no reason to believe that the name change is contentious, use the new name regardless of usage in older reliable sources. It is not appropriate for us to retain archaic terminology while we wait for usage in older reliable sources to be swamped by usage in newer sources.
+==Notes==
+==See also==
+* 
+* Wikipedia:Naming conventions (flora)
+* WikiProject Animals
+* WikiProject Tree of Life
+* Binomial nomenclature
+* Trinomial nomenclature
+
+This guideline describes the conventions for the naming of articles on fauna, that is, animals.
+Its advice also applies to protists, when appropriate, though instructions provided by WP:Naming conventions (flora) are sometimes more applicable, especially when the article uses the scientific name.

@@ -1,0 +1,44 @@
+Dinitrogen tetroxide
+
+==Structure and properties==
+Dinitrogen tetroxide could be regarded as two nitro groups (-NO<sub>2</sub>) bonded together. It forms an equilibrium mixture with nitrogen dioxide.<ref></ref> The molecule is planar with an N-N bond distance of 1.78Å and N-O distances of 1.19Å. The N-N distance corresponds to a weak bond, since it is significantly longer than the average N-N single bond length of 1.45Å.<ref></ref>
+Unlike NO<sub>2</sub>, N<sub>2</sub>O<sub>4</sub> is diamagnetic since it has no unpaired electrons.<ref>Holleman, A. F.; Wiberg, E. "Inorganic Chemistry" Academic Press: San Diego, 2001. .</ref> The liquid is also colorless but can appear as a brownish yellow liquid due to the presence of NO<sub>2</sub> according to the following equilibrium:
+: N<sub>2</sub>O<sub>4</sub> ⇌ 2 NO<sub>2</sub>
+Higher temperatures push the equilibrium towards nitrogen dioxide. Inevitably, some dinitrogen tetroxide is a component of smog containing nitrogen dioxide.
+==Production==
+Nitrogen tetroxide is made by the catalytic oxidation of ammonia: steam is used as a diluent to reduce the combustion temperature. In the first step, the ammonia is oxidized into nitric oxide:
+: 4 NH<sub>3</sub> + 5 O<sub>2</sub> → 4 NO + 6 H<sub>2</sub>O
+Most of the water is condensed out, and the gases are further cooled; the nitric oxide that was produced is oxidized to nitrogen dioxide, which is then dimerized into nitrogen tetroxide:
+: 2 NO + O<sub>2</sub> → 2 NO<sub>2</sub>
+: 2 NO<sub>2</sub> ⇌ N<sub>2</sub>O<sub>4</sub>
+and the remainder of the water is removed as nitric acid. The gas is essentially pure nitrogen dioxide, which is condensed into dinitrogen tetroxide in a brine-cooled liquefier.
+Dinitrogen tetroxide can also be made through the reaction of concentrated nitric acid and metallic copper. This synthesis is more practical in a laboratory setting and is commonly used as a demonstration or experiment in undergraduate chemistry labs. The oxidation of copper by nitric acid is a complex reaction forming various nitrogen oxides of varying stability which depends on the concentration of the nitric acid, presence of oxygen, and other factors. The unstable species further react to form nitrogen dioxide which is then purified and condensed to form dinitrogen tetroxide.
+==Use as a rocket propellant==
+Nitrogen tetroxide is used as an oxidizer in one of the most important rocket propellants because it can be stored as a liquid at room temperature. In early 1944, research on the usability of dinitrogen tetroxide as an oxidizing agent for rocket fuel was conducted by German scientists, although the Germans only used it to a very limited extent as an additive for S-Stoff (fuming nitric acid). It became the storable oxidizer of choice for many rockets in both the United States and USSR by the late 1950s. It is a hypergolic propellant in combination with a hydrazine-based rocket fuel. One of the earliest uses of this combination was on the Titan (rocket family) used originally as ICBMs and then as launch vehicles for many spacecraft. Used on the U.S. Gemini and Apollo spacecraft and also on the Space Shuttle, it continues to be used as station-keeping propellant on most geo-stationary satellites, and many deep-space probes. It is also the primary oxidizer for Russia's Proton rocket.
+When used as a propellant, dinitrogen tetroxide is usually referred to simply as nitrogen tetroxide and the abbreviation NTO is extensively used. Additionally, NTO is often used with the addition of a small percentage of nitric oxide, which inhibits stress-corrosion cracking of titanium alloys, and in this form, propellant-grade NTO is referred to as mixed oxides of nitrogen (MON). Most spacecraft now use MON instead of NTO; for example, the Space Shuttle reaction control system used MON3 (NTO containing 3% NO by weight).<ref></ref>
+===The Apollo-Soyuz mishap===
+On 24 July 1975, NTO poisoning affected three U.S. astronauts on the final descent to Earth after the Apollo-Soyuz Test Project flight. This was due to a switch accidentally left in the wrong position, which allowed the altitude control thrusters to fire after the cabin fresh air intake was opened, allowing NTO fumes to enter the cabin. One crew member lost consciousness during descent. Upon landing, the crew was hospitalized for five days for chemical-induced pneumonia and edema.<ref> urltoken "Brand Takes Blame For Apollo Gas Leak", Florence, AL - Times Daily newspaper, Aug. 10, 1975</ref><ref>Sotos, John G., MD. urltoken "Astronaut and Cosmonaut Medical Histories", May 12, 2008, accessed April 1, 2011.</ref>
+==Power generation using N<sub>2</sub>O<sub>4</sub>==
+The tendency of N<sub>2</sub>O<sub>4</sub> to reversibly break into NO<sub>2</sub> has led to research into its use in advanced power generation systems as a so-called dissociating gas.<ref></ref> "Cool" dinitrogen tetroxide is compressed and heated, causing it to dissociate into nitrogen dioxide at half the molecular weight. This hot nitrogen dioxide is expanded through a turbine, cooling it and lowering the pressure, and then cooled further in a heat sink, causing it to recombine into nitrogen tetroxide at the original molecular weight. It is then much easier to compress to start the entire cycle again. Such dissociative gas Brayton cycles have the potential to considerably increase efficiencies of power conversion equipment.<ref></ref>
+==Chemical reactions==
+===Intermediate in the manufacture of nitric acid===
+Nitric acid is manufactured on a large scale via N<sub>2</sub>O<sub>4</sub>. This species reacts with water to give both nitrous acid and nitric acid:
+: N<sub>2</sub>O<sub>4</sub> + H<sub>2</sub>O → HNO<sub>2</sub> + HNO<sub>3</sub>
+The coproduct HNO<sub>2</sub> upon heating disproportionates to NO and more nitric acid. When exposed to oxygen, NO is converted back into nitrogen dioxide:
+: 2 NO + O<sub>2</sub> → 2 NO<sub>2</sub>
+The resulting NO<sub>2</sub> and N<sub>2</sub>O<sub>4</sub> can be returned to the cycle to give the mixture of nitrous and nitric acids again.
+===Synthesis of metal nitrates===
+N<sub>2</sub>O<sub>4</sub> behaves as the salt NO<sup>+</sup> NO<sub>3</sub><sup>−</sup>, the former being a strong oxidant:
+: 2 N<sub>2</sub>O<sub>4</sub> + M → 2 NO + M(NO<sub>3</sub>)<sub>2</sub>
+where M = Cu, Zn, or Sn.
+If metal nitrates are prepared from N<sub>2</sub>O<sub>4</sub> in completely anhydrous conditions, a range of covalent metal nitrates can be formed with many transition metals. This is because there is a thermodynamic preference for the nitrate ion to bond covalently with such metals rather than form an ionic structure. Such compounds must be prepared in anhydrous conditions, since the nitrate ion is a much weaker ligand than water, and if water is present the simple hydrated nitrate will form. The anhydrous nitrates concerned are themselves covalent, and many, e.g. anhydrous copper nitrate, are volatile at room temperature. Anhydrous titanium nitrate sublimes in vacuum at only 40&nbsp;°C. Many of the anhydrous transition metal nitrates have striking colours. This branch of chemistry was developed by Cliff Addison and Norman Logan at the University of Nottingham in the UK during the 1960s and 1970s when highly efficient desiccants and dry box started to become available.
+==References==
+==External links==
+* urltoken International Chemical Safety Card 0930
+* urltoken National Pollutant Inventory – Oxides of nitrogen fact sheet
+* urltoken NIOSH Pocket Guide to Chemical Hazards: Nitrogen tetroxide
+* urltoken Air Liquide Gas Encyclopedia: NO<sub>2</sub> / N<sub>2</sub>O<sub>4</sub>
+*
+
+Dinitrogen tetroxide, commonly referred to as nitrogen tetroxide (NTO), and sometimes, usually among ex-USSR/Russia rocket engineers, as amyl, is the chemical compound N<sub>2</sub>O<sub>4</sub>. It is a useful reagent in chemical synthesis. It forms an equilibrium mixture with nitrogen dioxide.
+Dinitrogen tetroxide is a powerful oxidizer that is hypergolic (spontaneously reacts) upon contact with various forms of hydrazine, which has made the pair a common bipropellant for rockets.

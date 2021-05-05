@@ -1,0 +1,107 @@
+Pentium II
+
+==Overview==
+The Pentium II microprocessor was largely based upon the microarchitecture of its predecessor, the Pentium Pro, but with some significant improvements.<ref name="MMXARCH"></ref>
+Unlike previous Pentium and Pentium Pro processors, the Pentium II CPU was packaged in a slot-based module rather than a CPU socket. The processor and associated components were carried on a daughterboard similar to a typical expansion board within a plastic cartridge. A fixed or removable heatsink was carried on one side, sometimes using its own fan.<ref>Pabst, Thomas. urltoken Intel's Slot 1 CPUs Uncovered, Tom's Hardware, May 3, 1998.</ref>
+This larger package was a compromise allowing Intel to separate the secondary cache from the processor while still keeping it on a closely coupled back-side bus. The L2 cache ran at half the processor's clock frequency, unlike the Pentium Pro, whose off die L2 cache ran at the same frequency as the processor. However, its associativity was increased to 16-way (compared to 4-way on the Pentium Pro) and its size was always 512&nbsp;KB, twice of the smallest option of 256&nbsp;KB on the Pentium Pro. Off-package cache solved the Pentium Pro's low yield issues, allowing Intel to introduce the Pentium II at a mainstream price level.<ref name=TomsPIIKlamath>Pabst, Thomas. urltoken The Intel Pentium II ('Klamath') CPU, Tom's Hardware, March 1, 1997.</ref><ref name=AnandP2klamath>Lal Shimpi, Anand. urltoken Intel Pentium II, Anandtech, May 30, 1997.</ref>
+Intel improved 16-bit code execution performance on the Pentium II, an area in which the Pentium Pro was at a notable handicap, by adding segment register caches. Most consumer software of the day was still using at least some 16-bit code, because of a variety of factors. The issues with partial registers was also addressed by adding an internal flag to skip pipeline flushes whenever possible.<ref></ref> To compensate for the slower L2 cache, the Pentium II featured 32&nbsp;KB of L1 cache, double that of the Pentium Pro, as well as 4 write buffers (vs. 2 on the Pentium Pro); these can also be used by either pipeline, instead of each one being fixed to one pipeline.<ref name="PIIMANUAL"></ref><ref> urltoken PC Guide, accessed July 16, 2016.</ref> The Pentium II was also the first P6-based CPU to implement the Intel MMX integer SIMD instruction set which had already been introduced on the Pentium MMX.<ref name=TomsPIIKlamath />
+The Pentium II was basically a more consumer-oriented version of the Pentium Pro. It was cheaper to manufacture because of the separate, slower L2 cache memory. The improved 16-bit performance and MMX support made it a better choice for consumer-level operating systems, such as Windows 9x, and multimedia applications. The slower and cheaper L2 cache's performance penalty was mitigated by the doubled L1 cache and architectural improvements for legacy code. General processor performance was increased while costs were cut.<ref name=TomsPIIKlamath /><ref>Pabst, Thomas. urltoken The Empire Strikes Back: Intel's Pentium II CPU, Tom's Hardware, April 30, 1997.</ref>
+All Klamath and some early Deschutes Pentium IIs use a combined L2 cache controller / tag RAM chip that only allows for 512&nbsp;MB to be cached; while more RAM could be installed in theory, this would result in very slow performance. While this limit was practically irrelevant for the average home user at the time, it was a concern for some workstation or server users. Presumably, Intel put this limitation deliberately in place to distinguish the Pentium II from the more upmarket Pentium Pro line, which has a full 4&nbsp;GB cacheable area. The '82459AD' revision of the chip on some 333&nbsp;MHz and all 350&nbsp;MHz and faster Pentium IIs lifted this restriction and also offered a full 4 GB cacheable area.<ref> urltoken Tom's Hardware, accessed July 16, 2016.</ref><ref> urltoken PC Guide, accessed July 16, 2016.</ref>
+==Variants==
+===Klamath===
+The original Klamath Pentium II microprocessor (Intel product code 80522) ran at 233, 266, and 300&nbsp;MHz and was produced in a 0.35 μm process.<ref name=TomsPIIKlamath /><ref name=sandpileP2> urltoken IA-32 implementation Intel P2 (incl. Celeron and Xeon) , SandPile.org, accessed May 5, 2007.</ref> The 300&nbsp;MHz version, however, only became available in quantities later in 1997.<ref name=sandpileP2 /> These CPUs had a 66&nbsp;MHz front side bus and were initially used on motherboards equipped with the aging Intel 440FX Natoma chipset designed for the Pentium Pro.<ref> urltoken Intel 440FX, PCGuide, accessed May 5, 2007.</ref> Pentium II-based systems using the Intel 440LX Balboa chipset widely popularized SDRAM (which was to replace EDO RAM and was already introduced with 430VX), and the AGP graphics bus.<ref> urltoken Intel 440LX, PCGuide, accessed May 5, 2007.</ref>
+On July 14, 1997, Intel announced a version of the Pentium II Klamath with 2× 72-bit ECC L2 cache for entry-level servers, as opposed to the 2× 64-bit non-ECC L2 cache on regular models.<ref> urltoken Intel, accessed February 4, 2017.</ref> The extra bits give it error-correction capability built into hardware, without impacting performance. The variant can be determined through the CPU part number.
+In Intel's "Family/Model/Stepping" scheme, Klamath CPUs are family 6, model 3.
+===Deschutes===
+The Deschutes core Pentium II (80523), which debuted at 333&nbsp;MHz in January 1998, was produced with a 0.25 μm process and has a significantly lower power draw.<ref name=sandpileP2 /> The die size is 113&nbsp;mm<sup>2</sup>. The 333&nbsp;MHz variant was the final Pentium CPU that used the older 66&nbsp;MHz front side bus; all subsequent Deschutes-core models used a 100&nbsp;MHz FSB. Later in 1998, Pentium IIs running at 266, 300, 350, 400, and 450&nbsp;MHz were also released.<ref name=sandpileP2/> The Deschutes core introduced FXSAVE and FXRSTOR instructions for fast FPU context save and restore.<ref></ref> Towards the end of its design life, Deschutes chips capable of 500&nbsp;MHz within Intel cooling and design specifications were produced. However, these were not marketed. Rather than destroy already multiplier-locked units, those Deschutes units that had been tested and locked with a multiplier of 5 were sold as being 333&nbsp;MHz. This was accomplished by disabling the 100&nbsp;MHz bus option. Overclockers, upon learning of this, purchased the units in question and ran them well over 500&nbsp;MHz; most notably, when overclocking, the final batch of "333 MHz" CPUs were capable of speeds much higher than CPUs sold at 350, 400, or 450&nbsp;MHz.
+Concurrent with the release of Deschutes cores supporting a 100&nbsp;MHz front side bus was Intel's release of the 440BX Seattle chipset and its derivatives, the 440MX, 450NX, and 440ZX chipsets. Replacing the aged 66&nbsp;MHz FSB, which had been on the market since 1993, the 100&nbsp;MHz FSB resulted in solid performance improvements for the Pentium II lineup. Pentium II chips starting with 350&nbsp;MHz were released in both SECC and SECC2 form factors. Late Pentium IIs also marked the switch to flip-chip based packaging with direct heatsink contact to the die, as opposed to traditional bonding.
+While Klamath features 4 cache chips and simulates dual-porting through interleaving (2x 64-bit) for a slight performance improvement on concurrent accesses, Deschutes only sports 2 cache chips and offers slightly lower L2 cache performance at the same clockspeed. Furthermore, Deschutes always features ECC-enabled L2 cache.<ref></ref>
+The Pentium II Xeon was a high-end version of Deschutes core intended for use on workstations and servers. Principally, it used a different type of slot (Slot 2), case, board design, and more expensive full-speed custom L2 cache, which was off-die. Versions were produced with 512&nbsp;KB, 1&nbsp;MB or 2&nbsp;MB L2 caches by varying the number of 512&nbsp;KB chips incorporated on the board.<ref>Pabst, Thomas. urltoken Intel's Pentium II Xeon Processor, Tom's Hardware, July 2, 1998.</ref>
+In Intel's "Family/Model/Stepping" scheme, Deschutes CPUs are family 6, model 5 and have the part number 80523.
+====Pentium II OverDrive====
+In 1998, the 0.25 μm Deschutes core was utilized in the creation of the Pentium II Overdrive processor, which was aimed at allowing corporate Pentium Pro users to upgrade their aging servers. Combining the Deschutes core in a flip-chip package with a 512&nbsp;KB full-speed L2 cache chip from the Pentium II Xeon into a Socket 8-compatible module resulted in a 300 or 333&nbsp;MHz processor that could run on a 60 or 66&nbsp;MHz front side bus. This combination brought together some of the more attractive aspects of the Pentium II and the Pentium II Xeon: MMX support/improved 16-bit performance and full-speed L2 cache, respectively.<ref> urltoken Wayback machine archive of Heise, accessed June 17, 2009</ref> The later "Dixon" mobile Pentium II would emulate this combination with 256&nbsp;KB of full-speed cache.
+In Intel's "Family/Model/Stepping" scheme, the Pentium II OverDrive CPU identifies itself as family 6, model 3, though this is misleading, as it is not based on the family 6/model 3 Klamath core. As noted in the Pentium II Processor update documentation from Intel, "Please note that although this processor has a CPUID of 163xh, it uses a Pentium II processor CPUID 065xh processor core."<ref> urltoken Specification Update for the Pentium II Processor </ref>
+===Tonga===
+The 0.25&nbsp;μm Tonga core was the first mobile Pentium II and had all of the features of the desktop models.
+In Intel's "Family/Model/Stepping" scheme, Tonga CPUs are family 6, model 5.
+===Dixon===
+Later, in 1999, the 0.25; 0.18 (400&nbsp;MHz) μm Dixon core with 256&nbsp;KB of on-die full speed cache was produced for the mobile market. Reviews showed that the Dixon core was the fastest type of Pentium II produced.<ref name=sandpileP2 />
+In Intel's "Family/Model/Stepping" scheme, Dixon CPUs are family 6, model 6 and their Intel product code is 80524. These identifiers are shared with the Mendocino Celeron processors.
+==Core specifications==
+===Desktop===
+====Klamath (80522)====
+* L1 cache: 16 + 16&nbsp;KB (Data + Instructions)
+* L2 cache: 512&nbsp;KB, as external chips on the CPU module clocked at half the CPU frequency.
+* Packaging: Slot 1 module
+* MMX
+* Front-side bus: 66&nbsp;MHz, GTL+
+* VCore: 2.8&nbsp;V
+* Process: 0.35&nbsp;μm CMOS
+* First release: May 7, 1997
+* Clockrate: 233, 266, 300&nbsp;MHz
+====Deschutes (80523)====
+* L1 cache: 16 + 16&nbsp;KB (Data + Instructions)
+* L2 cache: 512&nbsp;KB, as external chips on the CPU module clocked at half the CPU frequency.
+* Packaging: Slot 1 module
+* MMX
+* Front-side bus: 66, 100&nbsp;MHz, GTL+
+* VCore: 2.0&nbsp;V
+* Process: 0.25&nbsp;μm CMOS
+* First release: January 26, 1998
+* Clockrate: 266–450&nbsp;MHz
+** 66&nbsp;MHz FSB : 266, 300, 333&nbsp;MHz
+** 100&nbsp;MHz FSB: 350, 400, 450&nbsp;MHz
+===Deschutes (Pentium II Overdrive)===
+* L1 cache: 16 + 16&nbsp;KB (Data + Instructions)
+* L2 cache: 512&nbsp;KB external chip on CPU module running at 100% of CPU speed
+* Socket: Socket 8
+* Front-side bus: 60 or 66&nbsp;MHz, GTL+
+* VCore: 3.1–3.3&nbsp;V (Has on-board voltage regulator)
+* Fabrication: 0.25&nbsp;μm
+* Based on the Deschutes-generation Pentium II
+* First release: 1998
+* Supports MMX technology
+* The sSpec number SL2KE denotes a Pentium II Overdrive sold with an integrated heatsink/fan combination for Socket 8. Note that the sSpec number SL2EA denotes a Pentium II Overdrive sold with an integrated heatsink but no fan for Slot 1.
+===Mobile===
+====Tonga (80523)====
+Mobile Pentium II
+* L1 cache: 16 + 16&nbsp;KB (Data + Instructions)
+* L2 cache: 512&nbsp;KB, as external chips on the CPU module clocked at half the CPU frequency.
+* Package: MMC-1, MMC-2, Mini-Cartridge
+* MMX
+* Front side bus: 66&nbsp;MHz, GTL+
+* VCore: 1.6&nbsp;V
+* Process: 0.25&nbsp;μm CMOS
+* First release: April 2, 1998
+* Clockrate: 233, 266, 300&nbsp;MHz
+====Dixon (80524)====
+Mobile Pentium II PE ("Performance Enhanced")
+* L1 cache: 16 + 16&nbsp;KB (Data + Instructions)
+* L2 cache: 256&nbsp;KB, on-die, full speed.
+* Package: BGA1, MMC-1, MMC-2, μPGA1 PPGA-B615
+* MMX
+* Front-side bus: 66, 100&nbsp;MHz, GTL+
+* VCore: 1.5, 1.55, 1.6, 2.0&nbsp;V
+* Process: 0.25; 0.18 (400 MHz) &nbsp;μm CMOS
+* First release: January 25, 1999
+* Clockrate: 266, 300, 333, 366, 400&nbsp;MHz
+* Containing 27.4 million transistors
+* Die size (semiconductor chip) is 10.36&nbsp;mm x 17.36&nbsp;mm = 179.8496&nbsp;mm<sup>2</sup>
+==See also==
+* List of Intel Pentium II microprocessors
+* Intel Celeron
+==References==
+==External links==
+* urltoken Listing of various PII, PIII, and Celeron alphanumeric model designations
+* urltoken CPU-INFO: Intel Pentium II, indepth processor history
+* urltoken Construction Analysis: Intel 266MHz 32-Bit Pentium II (Klamath) Processor, Integrated Circuit Engineering Corporation
+Intel datasheets
+* urltoken Pentium II (Klamath)
+* urltoken Pentium II (Deschutes)
+* urltoken Mobile Pentium II (Tonga)
+* urltoken Mobile Pentium II in Micro-PGA and BGA packages (Dixon)
+
+thumb
+The Pentium II<ref></ref> brand refers to Intel's sixth-generation microarchitecture ("P6") and x86-compatible microprocessors introduced on May 7, 1997. Containing 7.5 million transistors (27.4 million in the case of the mobile Dixon with 256&nbsp;KB L2 cache), the Pentium II featured an improved version of the first P6-generation core of the Pentium Pro, which contained 5.5 million transistors. However, its L2 cache subsystem was a downgrade when compared to the Pentium Pros.
+In 1998, Intel stratified the Pentium II family by releasing the Pentium II-based Celeron line of processors for low-end workstations and the Pentium II Xeon line for servers and high-end workstations. The Celeron was characterized by a reduced or omitted (in some cases present but disabled) on-die full-speed L2 cache and a 66 MT/s FSB. The Xeon was characterized by a range of full-speed L2 cache (from 512&nbsp;KB to 2048&nbsp;KB), a 100&nbsp;MT/s FSB, a different physical interface (Slot 2), and support for symmetric multiprocessing.
+In February 1999, the Pentium II was replaced by the nearly identical Pentium III, which only added the then new SSE instruction set. However, the older family would continue to be produced until June 2001 for desktop units,<ref></ref> September 2001 for mobile units,<ref></ref> and the end of 2003 for embedded devices.<ref name="embdiscontinued"/>

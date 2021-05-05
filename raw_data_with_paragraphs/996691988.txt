@@ -1,0 +1,200 @@
+One-instruction set computer
+
+== Machine architecture ==
+In a Turing completeness, each memory location can store an arbitrary integer, anddepending on the modelthere may be arbitrarily many locations. The instructions themselves reside in memory as a sequence of such integers.
+There exists a class of universal computers with a single instruction based on bit manipulation such as bit copying or bit inversion. Since their memory model is finite, as is the memory structure used in real computers, those bit manipulation machines are equivalent to real computers rather than to Turing machines.<ref>Oleg Mazonka, urltoken "Bit Copying: The Ultimate Computational Simplicity", Complex Systems Journal 2011, Vol 19, N3, pp. 263–285</ref>
+Currently known OISCs can be roughly separated into three broad categories:
+* Bit-manipulating machines
+* Transport triggered architecture machines
+* Arithmetic-based Turing-complete machines
+=== Bit-manipulating machines ===
+Bit-manipulating machines are the simplest class.
+==== BitBitJump ====
+A bit copying machine, called BitBitJump, copies one bit in memory and passes the execution unconditionally to the address specified by one of the operands of the instruction. This process turns out to be capable of universal computation (i.e. being able to execute any algorithm and to interpret any other universal machine) because copying bits can conditionally modify the code that will be subsequently executed.
+==== Toga computer ====
+Another machine, called the urltoken Toga Computer, inverts a bit and passes the execution conditionally depending on the result of inversion. The unique instruction is TOGA(a,b) which stands for TOGgle a And branch to b if the result of the toggle operation is true.
+==== Multi-bit copying machine ====
+Similar to BitBitJump, a multi-bit copying machine copies several bits at the same time. The problem of Turing completeness is solved in this case by keeping predefined jump tables in the memory.
+=== Transport triggered architecture ===
+Transport triggered architecture (TTA) is a design in which computation is a side effect of data transport. Usually, some memory registers (triggering ports) within common address space perform an assigned operation when the instruction references them. For example, in an OISC using a single memory-to-memory copy instruction, this is done by triggering ports that perform arithmetic and instruction pointer jumps when written to.
+=== Arithmetic-based Turing-complete machines ===
+Arithmetic-based Turing-complete machines use an arithmetic operation and a conditional jump. Like the two previous universal computers, this class is also Turing-complete. The instruction operates on integers which may also be addresses in memory.
+Currently there are several known OISCs of this class, based on different arithmetic operations:
+* addition (addleq, <u>add</u> and branch if <u>l</u>ess than or <u>eq</u>ual to zero)<ref name="esolang-addleq"></ref>
+* decrement (DJN, <u>d</u>ecrement and branch (<u>j</u>ump) if <u>n</u>onzero)<ref name="esolang-djn"></ref>
+* increment (P1eq, <u>p</u>lus <u>1</u> and branch if <u>eq</u>ual to another value)<ref name="esolang-p1eq"></ref>
+* subtraction (subleq, <u>sub</u>tract and branch if <u>l</u>ess than or <u>eq</u>ual to zero)<ref name="mazonka-subleq"></ref><ref name="esolang-subleq"></ref>
+* subtraction when possible (Arithmetic machine)<ref name="melzak">
+</ref>
+== Instruction types ==
+Common choices for the single instruction are:
+* Subtract and branch if less than or equal to zero
+* Subtract and branch if negative
+* #Arithmetic Machine
+* Reverse subtract and skip if borrow
+* Move (used as part of a transport triggered architecture)
+* Subtract and branch if non zero (SBNZ a, b, c, destination)
+* Cryptoleq (heterogeneous encrypted and unencrypted computation)
+Only one of these instructions is used in a given implementation. Hence, there is no need for an opcode to identify which instruction to execute; the choice of instruction is inherent in the design of the machine, and an OISC is typically named after the instruction it uses (e.g., an SBN OISC,<ref name=caamp /> the SUBLEQ language,<ref name="agut" /> etc.). Each of the above instructions can be used to construct a Turing-complete OISC.
+This article presents only subtraction-based instructions among those that are not transport triggered. However, it is possible to construct Turing complete machines using an instruction based on other arithmetic operations, e.g., addition. For example, one variation known as DLN (Decrement and jump if not zero) has only two operands and uses decrement as the base operation. For more information see Subleq derivative languages urltoken 
+=== Subtract and branch if not equal to zero ===
+The <code>SBNZ a, b, c, d</code> instruction ("subtract and branch if not equal to zero") subtracts the contents at address a from the contents at address b, stores the result at address c, and then, if the result is not 0, transfers control to address d (if the result is equal to zero, execution proceeds to the next instruction in sequence).<ref name=agut />
+=== Subtract and branch if less than or equal to zero ===
+The instruction ("subtract and branch if less than or equal to zero") subtracts the contents at address from the contents at address , stores the result at address , and then, if the result is not positive, transfers control to address (if the result is positive, execution proceeds to the next instruction in sequence).<ref name=agut />
+Pseudocode:
+<syntaxhighlight lang="nasm">
+ subleq a, b, c ; Memb = Memb - Mema
+ ; if (Memb ≤ 0) goto c
+</syntaxhighlight>
+Conditional branching can be suppressed by setting the third operand equal to the address of the next instruction in sequence. If the third operand is not written, this suppression is implied.
+A variant is also possible with two operands and an internal accumulator, where the accumulator is subtracted from the memory location specified by the first operand. The result is stored in both the accumulator and the memory location, and the second operand specifies the branch address:
+<syntaxhighlight lang="nasm">
+ subleq2 a, b ; Mema = Mema - ACCUM
+ ; ACCUM = Mema
+ ; if (Mema ≤ 0) goto b
+</syntaxhighlight>
+Although this uses only two (instead of three) operands per instruction, correspondingly more instructions are then needed to effect various logical operations.
+==== Synthesized instructions ====
+It is possible to synthesize many types of higher-order instructions using only the instruction.<ref name=agut />
+Unconditional branch:
+; :<syntaxhighlight lang="nasm">
+ subleq Z, Z, c
+</syntaxhighlight>
+Addition can be performed by repeated subtraction, with no conditional branching; e.g., the following instructions result in the content at location being added to the content at location :
+; :<syntaxhighlight lang="nasm">
+ subleq a, Z
+ subleq Z, b
+ subleq Z, Z
+</syntaxhighlight>
+The first instruction subtracts the content at location from the content at location (which is 0) and stores the result (which is the negative of the content at in location . The second instruction subtracts this result from , storing in this difference (which is now the sum of the contents originally at and ; the third instruction restores the value 0 to .
+A copy instruction can be implemented similarly; e.g., the following instructions result in the content at location getting replaced by the content at location , again assuming the content at location is maintained as 0:
+; :<syntaxhighlight lang="nasm">
+ subleq b, b
+ subleq a, Z
+ subleq Z, b
+ subleq Z, Z
+</syntaxhighlight>
+Any desired arithmetic test can be built. For example, a branch-if-zero condition can be assembled from the following instructions:
+; :<syntaxhighlight lang="nasm">
+ subleq b, Z, L1
+ subleq Z, Z, OUT
+ L1: subleq Z, Z
+ subleq Z, b, c
+ OUT: .
+</syntaxhighlight>
+Subleq2 can also be used to synthesize higher-order instructions, although it generally requires more operations for a given task. For example, no fewer than 10 subleq2 instructions are required to flip all the bits in a given byte:
+; : <syntaxhighlight lang="nasm">
+ subleq2 tmp ; tmp = 0 (tmp = temporary register)
+ subleq2 tmp
+ subleq2 minus_one ; acc = -1
+ subleq2 a ; a' = a + 1
+ subleq2 Z ; Z = - a - 1
+ subleq2 tmp ; tmp = a + 1
+ subleq2 a ; a' = 0
+ subleq2 tmp ; load tmp into acc
+ subleq2 a ; a' = - a - 1 ( = ~a )
+ subleq2 Z ; set Z back to 0
+</syntaxhighlight>
+==== Emulation ====
+The following program (written in pseudocode) emulates the execution of a -based OISC:
+<syntaxhighlight lang="c">
+ int memory, program_counter, a, b, c
+ program_counter = 0
+ while (program_counter >= 0):
+ a = memoryprogram_counter
+ b = memoryprogram_counter+1
+ c = memoryprogram_counter+2
+ if (a < 0 or b < 0):
+ program_counter = -1
+ else:
+ memoryb = memoryb - memorya
+ if (memoryb > 0):
+ program_counter += 3
+ else:
+ program_counter = c
+</syntaxhighlight>
+This program assumes that is indexed by nonnegative integers. Consequently, for a instruction , , , the program interprets , , or an executed branch to as a halting condition. Similar interpreters written in a -based language (i.e., self-interpreters, which may use self-modifying code as allowed by the nature of the instruction) can be found in the external links below.
+==== Compilation ====
+There is a compiler called Higher Subleq written by Oleg Mazonka that compiles a simplified C program into code.<ref>Oleg Mazonka urltoken A Simple Multi-Processor Computer Based on Subleq</ref>
+=== Subtract and branch if negative ===
+The instruction ("subtract and branch if negative"), also called , is defined similarly to :<ref name=caamp />
+<syntaxhighlight lang="nasm">
+ subneg a, b, c ; Memb = Memb - Mema
+ ; if (Memb < 0) goto c
+</syntaxhighlight>
+Conditional branching can be suppressed by setting the third operand equal to the address of the next instruction in sequence. If the third operand is not written, this suppression is implied.
+==== Synthesized instructions ====
+It is possible to synthesize many types of higher-order instructions using only the instruction. For simplicity, only one synthesized instruction is shown here to illustrate the difference between and .
+Unconditional branch:<ref name=caamp />
+;
+:<syntaxhighlight lang="nasm">
+ subneg POS, Z, c
+ .
+ c: subneg Z, Z
+</syntaxhighlight>
+where and are locations previously set to contain 0 and a positive integer, respectively;
+Unconditional branching is assured only if initially contains 0 (or a value less than the integer stored in . A follow-up instruction is required to clear after the branching, assuming that the content of must be maintained as 0.
+==== subneg4 ====
+A variant is also possible with four operands – subneg4. The reversal of minuend and subtrahend eases implementation in hardware. The non-destructive result simplifies the synthetic instructions.
+<syntaxhighlight lang="nasm">
+ subneg4 s, m, r, j ; subtrahend, minuend, result and jump addresses
+ ; Memr = Memm - Mems
+ ; if (Memr < 0) goto j
+</syntaxhighlight>
+=== Arithmetic machine ===
+In an attempt to make Turing machine more intuitive, Z. A. Melzac consider the task of computing with positive numbers. The machine has an infinite abacus, an infinite number of counters (pebbles, tally sticks) initially at a special location S. The machine is able to do one operation: 
+<blockquote>
+Take from location X as many counters as there are in location Y and transfer them to location Z and proceed to next instruction.
+If this operation is not possible because there is not enough counters in Y, then leave the abacus as it is and proceed to instruction T. 
+</blockquote>
+This essentially a subneg where the test is done before rather than after the subtraction, in order to keep all numbers positive and mimic a human operator computing on a real world abacus.
+ 
+Pseudocode:
+<syntaxhighlight lang="asm">
+ command X, Y, Z, T ; if (MemY < MemX) goto T
+ ; MemZ = MemY - MemX
+</syntaxhighlight>
+After giving a few programs: multiplication, gcd, computing the n-th prime number, representation in base b of an arbitrary number, sorting in order of magnitude, Melzac shows explicitly how to simulate an arbitrary Turing machine on his arithmetic machine.
+He mentions that it can easily be shown using the elements of recursive functions that every number calculable on the arithmetic machine is computable. A proof of which was given by Lambek<ref name="lambek"></ref> on an equivalent two instruction machine : X+ (increment X) and X− else T (decrement X if it not empty, else jump to T).
+=== Reverse subtract and skip if borrow ===
+In a reverse subtract and skip if borrow (RSSB) instruction, the accumulator is subtracted from the memory location and the next instruction is skipped if there was a borrow (memory location was smaller than the accumulator). The result is stored in both the accumulator and the memory location. The program counter is mapped to memory location 0. The accumulator is mapped to memory location 1.<ref name=caamp />
+==== Example ====
+To set x to the value of y minus z:
+<syntaxhighlight lang="asm">
+ # First, move z to the destination location x.
+ RSSB temp # Three instructions required to clear acc, temp See Note 1
+ RSSB temp
+ RSSB temp
+ RSSB x # Two instructions clear acc, x, since acc is already clear
+ RSSB x
+ RSSB y # Load y into acc: no borrow
+ RSSB temp # Store -y into acc, temp: always borrow and skip
+ RSSB temp # Skipped
+ RSSB x # Store y into x, acc
+ # Second, perform the operation.
+ RSSB temp # Three instructions required to clear acc, temp
+ RSSB temp
+ RSSB temp
+ RSSB z # Load z
+ RSSB x # x = y - z See Note 2
+</syntaxhighlight>
+Note 1 If the value stored at "temp" is initially a negative value and the instruction that executed right before the first "RSSB temp" in this routine borrowed, then four "RSSB temp" instructions will be required for the routine to work.
+Note 2 If the value stored at "z" is initially a negative value then the final "RSSB x" will be skipped and thus the routine will not work.
+=== Transport triggered architecture ===
+A transport triggered architecture uses only the move instruction, hence it was originally called a "move machine". This instruction moves the contents of one memory location to another memory location combining with the current content of the new location:<ref name=caamp /><ref name=dwj />
+ move a to b ; Memb := Mema (+, -, *, /, .) Memb
+sometimes written as:
+ a -> b ; Memb := Mema (+, -, *, /, .) Memb
+The operation performed is defined by the destination memory cell. Some cells are specialized in addition, some other in multiplication, etc. So memory cells are not simple store but coupled with an arithmetic logic unit (ALU) setup to perform only one sort of operation with the current value of the cell. Some of the cells are control flow instructions to alter the program execution with jumps, conditional execution, subroutines, if-then-else, for-loop, etc.
+A commercial transport triggered architecture microcontroller has been produced called MAXQ, which hides the apparent inconvenience of an OISC by using a "transfer map" that represents all possible destinations for the move instructions.<ref name=deh />
+=== Cryptoleq ===
+Cryptoleq<ref name=crq /> is a language consisting of one eponymous instruction, is capable of performing general-purpose computation on encrypted programs and is a close relative to Subleq. Cryptoleq works on continuous cells of memory using direct and indirect addressing, and performs two operations and on three values A, B, and C:
+ Cryptoleq a, b, c b = O<sub>1</sub>(a,b) ;
+ IP = c, if O<sub>2</sub>b ≤ 0
+ IP = IP + 3, otherwise
+where a, b and c are addressed by the instruction pointer, IP, with the value of IP addressing a, IP + 1 point to b and IP + 2 to c.
+In Cryptoleq operations and are defined as follows:
+:<math>\begin</math> equals .
+The multiplication algorithm is based on addition and subtraction, uses the function G and does not have conditional jumps nor branches. Cryptoleq encryption is based on Paillier cryptosystem.
+
+A one-instruction set computer (OISC), sometimes called an ultimate RISC (URISC), is an abstract machine that uses only one instructionobviating the need for a machine language opcode.<ref name=urisc /><ref name=caamp /><ref name=agut /> With a judicious choice for the single instruction and given infinite resources, an OISC is capable of being a universal computer in the same manner as traditional computers that have multiple instructions.<ref name=caamp /> OISCs have been recommended as aids in teaching computer architecture<ref name=urisc /><ref name=caamp /> and have been used as computational models in structural computing research.<ref name=agut />

@@ -1,0 +1,51 @@
+Hilbert's second problem
+
+== Hilbert's problem and its interpretation ==
+In one English translation, Hilbert asks:
+<blockquote>
+"When we are engaged in investigating the foundations of a science, we must set up a system of axioms which contains an exact and complete description of the relations subsisting between the elementary ideas of that science. . But above all I wish to designate the following as the most important among the numerous questions which can be asked with regard to the axioms: To prove that they are not contradictory, that is, that a definite number of logical steps based upon them can never lead to contradictory results. In geometry, the proof of the compatibility of the axioms can be effected by constructing a suitable field of numbers, such that analogous relations between the numbers of this field correspond to the geometrical axioms. . On the other hand a direct method is needed for the proof of the compatibility of the arithmetical axioms."<ref>From the English translation by M. Newson, 1902 provided by urltoken .</ref> </blockquote>
+Hilbert's statement is sometimes misunderstood, because by the "arithmetical axioms" he did not mean a system equivalent to Peano arithmetic, but a stronger system with a second-order completeness axiom. The system Hilbert asked for a completeness proof of is more like second-order arithmetic than first-order Peano arithmetic.
+As a nowadays common interpretation, a positive solution to Hilbert's second question would in particular provide a proof that Peano arithmetic is consistent.
+There are many known proofs that Peano arithmetic is consistent that can be carried out in strong systems such as Zermelo–Fraenkel set theory. These do not provide a resolution to Hilbert's second question, however, because someone who doubts the consistency of Peano arithmetic is unlikely to accept the axioms of set theory (which is much stronger) to prove its consistency. Thus a satisfactory answer to Hilbert's problem must be carried out using principles that would be acceptable to someone who does not already believe PA is consistent. Such principles are often called finitism because they are completely constructive and do not presuppose a completed infinity of natural numbers. Gödel's second incompleteness theorem (see Gödel's incompleteness theorems) places a severe limit on how weak a finitistic system can be while still proving the consistency of Peano arithmetic.
+== Gödel's incompleteness theorem ==
+Gödel's second incompleteness theorem shows that it is not possible for any proof that Peano Arithmetic is consistent to be carried out within Peano arithmetic itself. This theorem shows that if the only acceptable proof procedures are those that can be formalized within arithmetic then Hilbert's call for a consistency proof cannot be answered. However, as Nagel and Newman (1958:96&ndash;99) explain, there is still room for a proof that cannot be formalized in arithmetic:
+:"This imposing result of Godel's analysis should not be misunderstood: it does not exclude a meta-mathematical proof of the consistency of arithmetic. What it excludes is a proof of consistency that can be mirrored by the formal deductions of arithmetic. Meta-mathematical proofs of the consistency of arithmetic have, in fact, been constructed, notably by Gerhard Gentzen, a member of the Hilbert school, in 1936, and by others since then. . But these meta-mathematical proofs cannot be represented within the arithmetical calculus; and, since they are not finitistic, they do not achieve the proclaimed objectives of Hilbert's original program. . The possibility of constructing a finitistic absolute proof of consistency for arithmetic is not excluded by Gödel’s results. Gödel showed that no such proof is possible that can be represented within arithmetic. His argument does not eliminate the possibility of strictly finitistic proofs that cannot be represented within arithmetic. But no one today appears to have a clear idea of what a finitistic proof would be like that is not capable of formulation within arithmetic."<ref>A similar quotation with minor variations in wording appears in the 2001 edition p.107-108, as revised by Douglas R. Hofstadter, New York University Press, NY, .</ref>
+== Gentzen's consistency proof ==
+In 1936, Gentzen published a proof that Peano Arithmetic is consistent. Gentzen's result shows that a consistency proof can be obtained in a system that is much weaker than set theory.
+Gentzen's proof proceeds by assigning to each proof in Peano arithmetic an ordinal number, based on the structure of the proof, with each of these ordinals less than epsilon zero.<ref>Actually, the proof assigns a "notation" for an ordinal number to each proof. The notation is a finite string of symbols that intuitively stands for an ordinal number. By representing the ordinal in a finite way, Gentzen's proof does not presuppose strong axioms regarding ordinal numbers.</ref> He then proves by transfinite induction on these ordinals that no proof can conclude in a contradiction. The method used in this proof can also be used to prove a cut elimination result for Peano arithmetic in a stronger logic than first-order logic, but the consistency proof itself can be carried out in ordinary first-order logic using the axioms of primitive recursive arithmetic and a transfinite induction principle. Tait (2005) gives a game-theoretic interpretation of Gentzen's method.
+Gentzen's consistency proof initiated the program of ordinal analysis in proof theory. In this program, formal theories of arithmetic or set theory are assigned ordinal numbers that measure the consistency strength of the theories. A theory will be unable to prove the consistency of another theory with a higher proof theoretic ordinal.
+== Modern viewpoints on the status of the problem ==
+While the theorems of Gödel and Gentzen are now well understood by the mathematical logic community, no consensus has formed on whether (or in what way) these theorems answer Hilbert's second problem. Simpson (1988:sec. 3) argues that Gödel's incompleteness theorem shows that it is not possible to produce finitistic consistency proofs of strong theories. Kreisel (1976) states that although Gödel's results imply that no finitistic syntactic consistency proof can be obtained, semantic (in particular, second-order) arguments can be used to give convincing consistency proofs. Detlefsen (1990:p.&nbsp;65) argues that Gödel's theorem does not prevent a consistency proof because its hypotheses might not apply to all the systems in which a consistency proof could be carried out. Dawson (2006:sec. 2) calls the belief that Gödel's theorem eliminates the possibility of a persuasive consistency proof "erroneous", citing the consistency proof given by Gentzen and a later one given by Gödel in 1958.
+==See also==
+* Takeuti conjecture
+==Notes==
+<references/>
+==References==
+* Dawson, John W. (2006) "Shaken foundations or groundbreaking realignment? A Centennial Assessment of Kurt Gödel’s Impact on Logic, Mathematics, and Computer Science". 2006 21st Annual IEEE Symposium on Logic in Computer Science, IEEE, pp.&nbsp;339&ndash;341. 
+* 
+* Torkel Franzen (2005), Godel's theorem: An Incomplete Guide to its Use and Abuse, A.K. Peters, Wellesley MA. 
+*Gerhard Gentzen (1936). "Die Widerspruchsfreiheit der reinen Zahlentheorie." Mathematische Annalen, v. 112, pp.&nbsp;493&ndash;565.
+* Translated in Jean van Heijenoort, 1967. From Frege to Gödel: A Source Book on Mathematical Logic. Harvard University Press: 596-616.
+*
+*David Hilbert 1900 (1901) "Mathematische Probleme". Archiv der Mathematik und Physik, v. 3 n. 1, pp.&nbsp;44&ndash;63 and 213&ndash;237. English translation, Maby Winton, Bulletin of the American Mathematical Society 8 (1902), 437&ndash;479. Available online at urltoken .
+* 
+* Nagel, Ernest and Newman, James R., Godel's Proof, New York University Press, 1958.
+* Available online at urltoken .
+* William W. Tait (2005). "Gödel's reformulation of Gentzen's first consistency proof of arithmetic: the no-counterexample interpretation." Bulletin of Symbolic Logic v. 11 n. 2, pp.&nbsp;225&ndash;238.
+<!-- not cited at the moment, I don't know that it is relevant
+*Stephen Kleene (1952) Introduction to Metamathematics. Walters-Noordhoff & North-Holland, with corrections (6th imprint 1971); Tenth impression 1991, ISBN 0-7204-2103-9. -->
+<!-- not cited at the moment
+* Torkel Franzén, Gödel's Theorem: An Incomplete Guide to Its Use and Abuse, AK Peters, Wellesley, Mass., 2005.
+-->
+==External links==
+* urltoken Original text of Hilbert's talk, in German
+* urltoken English translation of Hilbert's 1900 address
+<!-- holding area
+<ref>
+:A definition of a "finitary formal system" is given by Goldstein (p. 144, footnote 7):
+:: ".finitary formal systems. formal systems with a finite or denumerable (or countable) alphabet of symbols, wffs well-formed-formulas of finite length, and rules of inference involving only finitely many premises. (Logicians also work with formal systems with uncountable alphabets, with infinitely long wffs, and with proofs having infinitely many premises."(p. 144, footnote 7)
+</ref> 
+-->
+
+In mathematics, Hilbert's second problem was posed by David Hilbert in 1900 as one of his 23 problems. It asks for a proof that the arithmetic is consistent &ndash; free of any internal contradictions. Hilbert stated that the axioms he considered for arithmetic were the ones given in , which include a second order completeness axiom.
+In the 1930s, Kurt Gödel and Gerhard Gentzen proved results that cast new light on the problem. Some feel that Gödel's theorems give a negative solution to the problem, while others consider Gentzen's proof as a partial positive solution.

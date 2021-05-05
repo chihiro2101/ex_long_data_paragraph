@@ -1,0 +1,63 @@
+Scott catalogue
+
+== Background ==
+The first Scott catalogue was a 21-page pamphlet with the title Descriptive Catalogue of American and Foreign Postage Stamps, Issued from 1840 to Date, Splendidly Illustrated with Colored Engravings and Containing the Current Value of each Variety. It was published in September 1868 by John Walter Scott, an early stamp dealer in New York, and purported to list all the stamps of the world, with prices for each. A notice inside does caution the reader that "it is simply impossible for any one to always have every stamp" in stock. The original catalog has been reprinted.
+thumb
+In subsequent years, the Scott company gave up dealing in stamps but continued to publish the catalog, gradually providing more detail as the hobby evolved and collectors became more sophisticated. In addition to the factual information about the stamps, the catalog includes price information based on market analysis and reported sales from the previous year. As of 2006, and despite annual changes to save space, the catalog was more than 5,000 pages.
+The Scott numbering system assigns plain numbers for regular mail stamps, and uses capital letter prefixes for special-purpose types, such as "B" for semi-postals and "C" for airmail. The numbers are generally consecutive; there are gaps among older stamps, where some numbered types were later renumbered, and among newer stamps where Scott has left numbers unassigned in the anticipation of additional stamps in a series. If more stamps than expected appear, Scott will add a capital letter as suffix, or if the change is very recent, it will renumber stamps. Minor variations, such as shades or errors, get a lowercase letter; so the "C3a" above indicates a variation (error in this case) on what is listed as Inverted_Jenny.
+Because of its commercial importance the publishers of the Scott Catalogue claim copyright on their numbering systems, and grant only limited licenses for their use by others. The inconsistency with which Scott enforced these licenses resulted in a lawsuit by Scott against Krause Publications (publishers of the Minkus Catalogue) for copyright infringement. After Krause filed a defense, the suit was settled out of court, and Krause continued to reference the Scott numbers.<ref></ref>
+Editors of this, the dominant catalog in the United States, have great influence over what is and is not considered to be a valid postage stamp. For instance, in the 1960s the countries of the United Arab Emirates issued many stamps that were likely never actually on sale in a post office, so Scott does not list most of them. One must go to a Michel catalog, for instance, to see them described. The lack of a Scott listing, though, means that most American dealers will refuse to trade in such stamps.
+Similarly, Scott lists most stamps from countries embargoed by the U.S. government, and in some cases lists them without catalog values. To some extent, this is unavoidable, since the ban on importation means that Scott's editors are unable even to acquire copies of the stamps to be described. Moreover, since American dealers and collectors are unable to buy the stamps legally, they are unlikely to have any need of the data. (Again, interested persons typically use Michel or other catalogs instead.) The policy changes with government policy; stamps of Cuba, Libya and North Vietnam now appear in the Scott catalogues after an absence of some years.
+The dominance of Scott is such that U.S. collectors know many of the numbers by heart, and dealers need only mention the number in their price lists. For instance, United States no. "C3a" is instantly recognized as the Inverted Jenny, a rare airmail inverted error stamp.
+== Contents ==
+The contents for each of the twelve volumes (2021 catalogs) are listed below. Scott has chosen to identify the current twelve volume format of catalogs as only six volumes with an alphabetical suffix (vol 1b is actually vol 2, etc).
+* Volume 1a: United States, United Nations, 'A' countries to Australia
+* Volume 1b: Austria to 'B' countries
+* Volume 2a: 'C' countries to Curacao
+* Volume 2b: Cyprus to "F" countries
+* Volume 3a: 'G' countries
+* Volume 3b: 'H' through 'I' countries
+* Volume 4a: 'J' through 'L' countries
+* Volume 4b: 'M' countries
+* Volume 5a: 'N' countries through 'P' countries (Philippines)
+* Volume 5b: 'P' countries (Pitcairn Islands) to 'S' countries (Samoa)
+* Volume 6a: 'S' countries (San Marino) to 'T' countries (Tete)
+* Volume 6b: 'T' countries (Thailand) to 'Z' countries
+== Covers ==
+For many years, the stamps featured on the cover of the catalogue follow a specific theme as follows:
+Image:Scott catalog 2002 cover.jpg|thumb|Covers of the 2002 edition featured art on stamps
+* 1993: Trains and Birds
+* 1994: Ships and Butterflies
+* 1995: Space and Mushrooms
+* 1996: World War II
+* 1997: Olympics
+* 1998: No specific topic
+* 1999: Used stamps
+* 2000: Millennium
+* 2001: Space exploration
+* 2002: Paintings
+* 2003: Airplanes (for the 100th anniversary of the first airplane flight)
+* 2004: Famous Buildings
+* 2005: Earth's Features
+* 2006: Mail Transport
+* 2007: Scouting
+* 2008: Odd-shaped stamps
+* 2009: Abraham Lincoln
+* 2010: Birds
+* 2011: UNESCO World Heritage Sites
+* 2012: Bridges
+* 2013: Lighthouses
+* 2014: Women
+* 2015: Stamps from "Dead Countries"
+* 2016: New York City
+* 2017: Royalty
+* 2018: Stamp Collecting (Scott's 150th Anniversary)
+* 2019: Trains
+== Illustrations ==
+In May, 2001 Scott announced a project to include a scan of each stamp in its catalogues. Many were made from its own reference collection and introduced in the six volume 2002 edition as black and white images. Color images were introduced in 2003 in the Classic Specialized Catalogue and in 2005 in the Specialized Catalogue of United States. In 2006 color images were included in the main Scott catalogues. Shortly after the program was announced, Scott Publishing received a letter from Hsien-ming Meng, a physician in Dayton, Ohio, and worldwide collector of mint stamps with a nearly complete collection. Dr. Meng offered to permit scanning of his collection, an offer that was eagerly accepted by Scott Publishing. Scans from Dr. Meng's collection began appearing in volume 4 of the 2002 catalog. Together with generous access by many other collectors, Meng's cooperation has resulted in creation of scanned images of all but about 900 stamps by Scott as of 2021 catalogue series. About 200 are specialized stamps from the US Specialized Catalogue. About 700 are used stamp images that Scott is replacing with mint images in the general world catalogues. Only a handful of black and white images are left in the world catalogues. Meng, born in 1926, died February 8, 2011.<ref name=Meng></ref>
+== Scott Specialized Catalogue of United States Stamps and Covers ==
+Scott Publishing Co also produces a related volume which more comprehensively lists all United States Postage Stamps and Postal History. It is generally known as the Scott Specialized and is regarded by many as the definitive single volume reference to USA postage stamps. The catalogue provides more detail than Volume One, with particular emphasis on varieties and errors. A new edition of the catalogue is produced annually with a particular edition year date generally indicating production in the middle of the previous year. Biannual Valuing Supplements are also issued in the Spring and Fall.
+== Scott Classic Specialized Catalogue: Stamps and Covers of the World ==
+Scott Classic Specialized Catalogue: Stamps and Covers of the World is limited to stamps and covers that were produced between 1840 and 1940 or for the British Commonwealth nations to 1952. It covers all postage stamp producing nations in one volume for those years.<ref name=Co2005></ref>
+
+The Scott catalogue of postage stamps, published by Scott Publishing Company, now a subsidiary of Amos Media, is updated annually and lists all the stamps of the world that its editors recognize as issued for postal purposes. It is published in fourteen large volumes (as of 2020) that include twelve volumes containing all the countries of the world that have ever issued postage stamps, the United States Specialized Catalog, and the 1840–1940 Classic Specialized Catalogue (covering the world for the first 100 years that stamps were issued). It is also produced in non-printable CD and DVD editions. The numbering system used by Scott to identify stamps is dominant among stamp collecting in the United States, Canada and Mexico.

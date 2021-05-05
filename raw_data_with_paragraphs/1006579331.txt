@@ -1,0 +1,54 @@
+Industrial design
+
+==History==
+===Precursors===
+For several millennia before the onset of industrialisation, design, technical expertise, and manufacturing were often done by individual craftsmen, who determined the form of a product at the point of its creation, according to their own manual skill, the requirements of their clients, experience accumulated through their own experimentation, and knowledge passed on to them through training or apprenticeship.
+The division of labour that underlies the practice of industrial design did have precedents in the pre-industrial era. The growth of trade in the medieval period led to the emergence of large workshops in cities such as Florence, Venice, Nuremberg and Bruges, where groups of more specialized craftsmen made objects with common forms through the repetitive duplication of models which defined by their shared training and technique. Competitive pressures in the early 16th century led to the emergence in Italy and Germany of pattern books: collections of engravings illustrating decorative forms and motifs which could be applied to a wide range of products, and whose creation took place in advance of their application. The use of drawing to specify how something was to be constructed later was first developed by architects and shipwrights during the Italian Renaissance.
+In the 17th century, the growth of artistic patronage in centralized monarchical states such as France led to large government-operated manufacturing operations epitomised by the Gobelins Manufactory, opened in Paris in 1667 by Louis XIV. Here teams of hundreds of craftsmen, including specialist artists, decorators and engravers, produced sumptuously decorated products ranging from tapestries and furniture to metalwork and coaches, all under the creative supervision of the King's leading artist Charles Le Brun. This pattern of large-scale royal patronage was repeated in the court porcelain factories of the early 18th century, such as the Meissen porcelain workshops established in 1709 by the Grand Duke of Saxony, where patterns from a range of sources, including court goldsmiths, sculptors and engravers, were used as models for the vessels and figurines for which it became famous. As long as reproduction remained craft-based, however, the form and artistic quality of the product remained in the hands of the individual craftsman, and tended to decline as the scale of production increased.
+===Birth of industrial design===
+The emergence of industrial design is specifically linked to the growth of industrialisation and mechanisation that began with the industrial revolution in Great Britain in the mid 18th century. The rise of industrial manufacture changed the way objects were made, urbanisation changed patterns of consumerism, the imperialism broadened tastes and diversified markets, and the emergence of a wider middle class created demand for fashionable styles from a much larger and more heterogeneous population.
+The first use of the term "industrial design" is often attributed to the industrial designer Joseph Claude Sinel in 1919 (although he himself denied this in interviews), but the discipline predates 1919 by at least a decade. Christopher Dresser is considered among the first independent industrial designers.<ref name=dresser></ref> Industrial design's origins lie in the industrialization of consumer products. For instance the Deutscher Werkbund, founded in 1907 and a precursor to the Bauhaus, was a state-sponsored effort to integrate traditional crafts and industrial mass-production techniques, to put Germany on a competitive footing with Great Britain and the United States.
+The earliest use of the term may have been in The Art Journal, 1839.
+The Practical Draughtsman's Book of Industrial Design by Jacques-Eugène Armengaud was printed in 1853.<ref name=practical></ref> The subtitle of the (translated) work explains, that it wants to offer a "complete course of mechanical, engineering, and architectural drawing." The study of those types of technical drawing, according to Armengaud, belong to the field of industrial design. This work paved the way for a big expansion in the field drawing education in France, the United Kingdom and the United States.
+Robert Lepper helped to establish one of the country's first industrial design degree programs in 1934 at Carnegie Institute of Technology.<ref name="Carnegie Mellon magazine - Winter 2002"> urltoken "Newsbriefs: Lepper show runs at Warhol." Carnegie Mellon Magazine. Winter 2002. Retrieved January 17, 2014.</ref>
+==Education==
+Product design and industrial design overlap in the fields of user interface design, information design, and interaction design. Various schools of industrial design specialize in one of these aspects, ranging from pure art colleges and design schools (product styling), to mixed programs of engineering and design, to related disciplines such as exhibit design and interior design, to schools that almost completely subordinated aesthetic design to concerns of usage and ergonomics, the so-called functionalist school.<ref>Pulos, Arthur J., The American Design Adventure 1940-1975, Cambridge, Mass:MIT Press (1988), p. 249 </ref> Except for certain functional areas of overlap between industrial design and engineering design, the former is considered an applied art<ref name="auto"/> while the latter is an applied science.<ref></ref> Educational programs in the U.S. for engineering require accreditation by the Accreditation Board for Engineering and Technology (ABET)<ref></ref> in contrast to programs for industrial design which are accredited by the National Association of Schools of Art and Design (NASAD).<ref></ref> Of course, engineering education requires heavy training in mathematics and physical sciences, which is not typically required in industrial design education. <ref></ref>
+===Institutions===
+Most industrial designers complete a design or related program at a vocational school or university. Relevant programs include graphic design, interior design, industrial design, architectural technology, and drafting Diplomas and degrees in industrial design are offered at vocational schools and universities worldwide. Diplomas and degrees take two to four years of study. The study results in a Bachelor of Industrial Design (B.I.D.), Bachelor of Science (B.Sc) or Bachelor of Fine Arts (B.F.A.). Afterwards, the bachelor programme can be extended to postgraduate degrees such as Master of Design, Master of Fine Arts and others to a Master of Arts or Master of Science.
+==Definition==
+Industrial design studies function and form—and the connection between product, user, and environment. Generally, industrial design professionals work in small scale design, rather than overall design of complex systems such as buildings or ships. Industrial designers don't usually design motors, electrical circuits, or gearing that make machines move, but they may affect technical aspects through usability design and form relationships. Usually, they work with other professionals such as engineers who focus on the mechanical and other functional aspects of the product, assuring functionality and manufacturability, and with marketers to identify and fulfill customer needs and expectations.
+==References==
+===Sources===
+* Barnwell, Maurice. Design, Creativity and Culture, Black Dog, 2011, 
+* Barnwell, Maurice. Design Evolution: Big Bang to Big Data,Toronto, 2014. 
+* 
+* Forty, Adrian. Objects of Desire: Design and Society Since 1750. Thames Hudson, May 1992. 
+* Heskett, John. Industrial Design, Thames & Hudson, 1980, 
+* 
+* Mayall, WH, Industrial Design for Engineers, London: Iliffe Books, 1967, 
+* Mayall, WH, Machines and Perception in Industrial Design, London: Studio Vista, 1968, 
+* Meikle, Jeffrey. Twentieth Century Limited: Industrial Design engineering in America, 1925 - 1939, Philadelphia: Temple University Press, 1979 
+* 
+* 
+==External links==
+<!-- 
+ Please be cautious adding more external links.
+Wikipedia is not a collection of links and should not be used for advertising.
+ Excessive or inappropriate links will be removed.
+ See Wikipedia:External links and Wikipedia:Spam for details.
+If there are already suitable links, propose additions or replacements on
+the article's talk page, or submit your link to the relevant category at 
+Curlie (curlie.org) and link there *using .
+-->
+* urltoken Doodles, Drafts and Designs: Industrial Drawings from the Smithsonian (2004) Smithsonian Institution Libraries
+<!--
+ Do not place advertisements here.
+ COMMERCIAL LINKS WILL BE REMOVED.
+ See Talk, WP:EL, and WP:SPAM for more information.
+ Wikipedia is not a link directory. Consider submitting your link to DMOZ instead.
+-->
+
+Image:IPod Nano 4G black.jpg|thumb|An iPod, an industrially designed product
+thumb
+Industrial design is a process of design applied to products that are to be manufactured through techniques of mass production. A key characteristic is that design precedes manufacture: the creative act of determining and defining a product's form and features takes place in advance of the physical act of making a product, which consists purely of repeated, often automated, replication. This distinguishes industrial design from craft-based design, where the form of the product is determined by the product's creator largely concurrent with the act of its creation.
+All manufactured products are the result of a design process, but the nature of this process can take many forms. It can be conducted by an individual or a team, and such a team could include people with varied expertise (e.g. industrial designers, engineers, business experts, etc.). It can emphasize intuitive creativity or calculated Evidence-based design, and often emphasizes both. It can be influenced by factors as varied as materials, production processes, business strategy, and prevailing social, commercial, or aesthetic attitudes. Industrial design, as an applied art, most often focuses on a combination of aesthetics and user-focused considerations,<ref name="auto"></ref> but also often provides solutions for problems of form, function, physical ergonomics, marketing, brand development, sustainability, and sales.<ref>de Noblet, J., Industrial Design, Paris: A.F.A.A. (1993)</ref>

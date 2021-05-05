@@ -1,0 +1,132 @@
+Federal Deposit Insurance Corporation
+
+===Historical insurance limits===
+The per-depositor insurance limit has increased over time to accommodate inflation.
+* 1934 – $2,500
+* 1935 – $5,000
+* 1950 – $10,000
+* 1966 – $15,000
+* 1969 – $20,000
+* 1974 – $40,000
+* 1980 – $100,000
+* 2008 – $250,000
+Congress approved a temporary increase in the deposit insurance limit from $100,000 to $250,000, which was effective from October 3, 2008, through December 31, 2010. On May 20, 2009, the temporary increase was extended through December 31, 2013. The Dodd–Frank Wall Street Reform and Consumer Protection Act (P.L.111-203), which was signed into law on July 21, 2010, made the $250,000 insurance limit permanent.<ref></ref> In addition, the Federal Deposit Insurance Reform Act of 2005 (P.L.109-171) allows for the boards of the FDIC and the National Credit Union Administration (NCUA) to consider inflation and other factors every five years beginning in 2010 and, if warranted, to adjust the amounts under a specified formula.<ref></ref><ref></ref>
+FDIC-insured institutions are permitted to display a sign stating the terms of its insurance — that is, the per-depositor limit and the guarantee of the United States government. The FDIC describes this sign as a symbol of confidence for depositors.<ref></ref> As part of a 1987 legislative enactment, Congress passed a measure stating "it is the sense of the Congress that it should reaffirm that deposits up to the statutorily prescribed amount in federally insured depository institutions are backed by the full faith and credit of the United States."<ref></ref>
+===S&L and bank crisis of the 1980s===
+Federal deposit insurance received its first large-scale test since the Great Depression in the late 1980s and early 1990s during the savings and loan crisis (which also affected commercial banks and savings banks).
+The Federal Savings and Loan Insurance Corporation (FSLIC) had been created to insure deposits held by savings and loan institutions ("S&Ls", or "thrifts"). Because of a confluence of events, much of the S&L industry was insolvent, and many large banks were in trouble as well. FSLIC's reserves were insufficient to pay off the depositors of all of the failing thrifts, and fell into insolvency. FSLIC was abolished in August 1989 and replaced by the Resolution Trust Corporation (RTC). On December 31, 1995, the RTC was merged into the FDIC, and the FDIC became responsible for resolving failed thrifts. Supervision of thrifts became the responsibility of a new agency, the Office of Thrift Supervision (credit unions remained insured by the National Credit Union Administration). The primary legislative responses to the crisis were the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA), and the Federal Deposit Insurance Corporation Improvement Act of 1991 (FDICIA). Federally chartered thrifts are now regulated by the Office of the Comptroller of the Currency (OCC), and state-chartered thrifts by the FDIC.
+Final combined total for all direct and indirect losses of FSLIC and RTC resolutions was an estimated $152.9 billion. Of this total amount, U.S. taxpayer losses amounted to approximately $123.8 billion (81% of the total costs.)<ref></ref>
+No taxpayer money was used to resolve FDIC-insured institutions.
+===2008–2010 Financial crisis===
+====2008====
+In 2008, twenty-five U.S. banks became insolvent and were closed by their respective chartering authorities.<ref></ref> The largest bank failure in terms of dollar value occurred on September 26, 2008, when Washington Mutual, with $307 billion in assets, experienced a 10-day bank run on its deposits.<ref name='Bloomberg-Shen-2008-09-27'>
+</ref><ref name="NYT-Dash-2008-09-27">
+</ref> Washington Mutual's collapse prompted a run on Wachovia, another large and troubled bank, as depositors drew their accounts below the $100,000 insurance limit. To avoid a panic and a drain on its insurance fund, the FDIC used exceptional authority to arrange a noncompetitive acquisition of Wachovia. It then established the Temporary Liquidity Guarantee Program (TLGP), which guaranteed deposits and unsecured debt instruments used for day-to-day payments. Congress temporarily raised the insurance limit to $250,000 to promote depositor confidence.
+====2009====
+On August 21, 2009, Guaranty Bank, in Texas, became insolvent and was taken over by BBVA Compass, the U.S. division of Banco Bilbao Vizcaya Argentaria, the second-largest bank in Spain. This was the first foreign company to buy a failed bank during the financial crisis. In addition, the FDIC agreed to share losses with BBVA on about $11 billion of Guaranty Bank's loans and other assets.<ref></ref> This transaction alone cost the FDIC Deposit Insurance Fund $3 billion.
+At the end of the year, a total of 140 banks had become insolvent.<ref name="Dakin Campbell"></ref> Although most of the failures were resolved through merger or acquisition, the FDIC's insurance fund was exhausted by late 2009. To continue meeting its obligations, it demanded three years of advance premiums from its members and operated the fund with a negative net balance.
+====2010 and beyond====
+In 2010, a new division within the FDIC, the Office of Complex Financial Institutions, was created to focus on the expanded responsibilities of the FDIC by the Dodd-Frank Act for the assessment of risk in the largest, systemically important financial institutions, or SIFIs.<ref> urltoken James Wigand, the FDIC's Complexity Czar, By Yalman Onaran, Bloomberg Businessweek, October 13, 2011.</ref><ref> urltoken FDIC Announces Organizational Changes to Help Implement Recently Enacted Regulatory Reform by Congress, FDIC press release, August 10, 2010.</ref><ref> urltoken FDIC Creates Office of Complex Financial Institutions, by Steve Quinlivan, article at dodd-frank.com, private website, August 10, 2010.</ref>
+A total of 157 banks with approximately $92 billion in total assets failed during the year.<ref></ref> The Deposit Insurance Fund returned to a positive net balance near the start of 2011. The Dodd-Frank Act required the FDIC to increase it to 1.35% of total insured deposits, a goal that was reached in 2018. That year also saw no bank failures for the first time since the crisis.
+==Funds==
+Between 1989 and 2006, there were two separate FDIC funds&nbsp;– the Bank Insurance Fund (BIF), and the Savings Association Insurance Fund (SAIF). The latter was established after the savings and loans crisis of the 1980s. The existence of two separate funds for the same purpose led to banks' attempting to shift from one fund to another, depending on the benefits each could provide. In the 1990s, SAIF premiums were, at one point, five times higher than BIF premiums; several banks attempted to qualify for the BIF, with some merging with institutions qualified for the BIF to avoid the higher premiums of the SAIF. This drove up the BIF premiums as well, resulting in a situation where both funds were charging higher premiums than necessary.<ref>Sicilia, David B. & Cruikshank, Jeffrey L. (2000). The Greenspan Effect, pp. 96–97. New York: McGraw-Hill. .</ref>
+Then Chairman of the Federal Reserve Alan Greenspan was a critic of the system, saying, "We are, in effect, attempting to use government to enforce two different prices for the same itemnamely, government-mandated deposit insurance. Such price differences only create efforts by market participants to arbitrage the difference." Greenspan proposed "to end this game and merge SAIF and BIF".<ref>Sicilia & Cruikshank, pp. 97–98.</ref> In February 2006, President George W. Bush signed into law the Federal Deposit Insurance Reform Act of 2005 (FDIRA). The FDIRA contains technical and conforming changes to implement deposit insurance reform, as well as a number of study and survey requirements. Among the highlights of this law was merging the Bank Insurance Fund and Savings Association Insurance Fund into a single fund, the Deposit Insurance Fund. This change was made effective March 31, 2006.
+The FDIC maintains the insurance fund by assessing a premium on member institutions. The amount each institution is assessed is based both on the balance of insured deposits as well as on the degree of risk the institution poses to the fund. When the FDIC assumes control of a failed institution, it uses the insurance fund to pay depositors their insured balances. This results in a loss to the fund that must be replenished from the assets of the failed bank or from member bank premiums. In the event that the FDIC exhausts the insurance fund and cannot meet obligations with advances from member banks, it has a statutory $100 billion line of credit from the federal Treasury.
+==Insurance requirements==
+To receive this benefit, member banks must follow certain liquidity and reserve requirements. Banks are classified in five groups according to their risk-based capital ratio:
+* Well capitalized: 10% or higher
+* Adequately capitalized: 8% or higher
+* Undercapitalized: less than 8%
+* Significantly undercapitalized: less than 6%
+* Critically undercapitalized: less than 2%
+When a bank becomes undercapitalized, the institution's primary regulator issues a warning to the bank. When the number drops below 6%, the primary regulator can change management and force the bank to take other corrective action. When the bank becomes critically undercapitalized the chartering authority closes the institution and appoints the FDIC as receiver of the bank.
+At Q4 2010, 884 banks had very low capital cushions against risk and were on the FDIC's "problem list".
+==Resolution of insolvent banks==
+Upon a determination that a bank is insolvent, its chartering authority—either a state banking department or the U.S. Office of the Comptroller of the Currency—closes it and appoints the FDIC as receiver. In its role as a receiver the FDIC is tasked with protecting the depositors and maximizing the recoveries for the creditors of the failed institution. The FDIC as receiver is functionally and legally separate from the FDIC acting in its corporate role as deposit insurer. Courts have long recognized these dual and separate capacities as having distinct rights, duties and obligations.
+The goals of receivership are to market the assets of a failed institution, liquidate them, and distribute the proceeds to the institution's creditors. The FDIC as receiver succeeds to the rights, powers, and privileges of the institution and its stockholders, officers, and directors. It may collect all obligations and money due to the institution, preserve or liquidate its assets and property, and perform any other function of the institution consistent with its appointment. It also has the power to merge a failed institution with another insured depository institution and to transfer its assets and liabilities without the consent or approval of any other agency, court, or party with contractual rights. It may form a new institution, such as a bridge bank, to take over the assets and liabilities of the failed institution, or it may sell or pledge the assets of the failed institution to the FDIC in its corporate capacity.
+The two most common ways for the FDIC to resolve a closed institution and fulfill its role as a receiver are:
+* Purchase and Assumption Agreement (P&A), in which deposits (liabilities) are assumed by an open bank, which also purchases some or all of the failed bank's loans (assets). The bank's assets<ref></ref> that convey to the FDIC as receiver are sold and auctioned through various methods, including online, and using contractors.
+* Deposit Payoff, as soon as the appropriate chartering authority closes the bank or thrift, the FDIC is appointed receiver. The FDIC as insurer pays all of the failed institution's depositors<ref></ref> with insured funds the full amount of their insured deposits. Depositors with uninsured funds and other general creditors (such as suppliers and service providers) of the failed institution do not receive either immediate or full reimbursement; instead, the FDIC as receiver issues them receivership certificates. A receivership certificate entitles its holder to a portion of the receiver's collections on the failed institution's assets.
+In 1991, to comply with legislation, the FDIC amended its failure resolution procedures to decrease the costs to the deposit insurance funds. The procedures require the FDIC to choose the resolution alternative that is least costly to the deposit insurance fund of all possible methods for resolving the failed institution. Bids are submitted to the FDIC where they are reviewed and the least cost determination is made.
+===Covered Insured Depository Institutions Resolution Plans===
+To assist the FDIC in resolving an insolvent bank, the FDIC requires plans including the required submission of a resolution plan by covered institutions requirement under the Dodd Frank Act. In addition to the Bank Holding Company ("BHC") resolution plans required under the Dodd Frank Act under Section 165(d),<ref></ref> the FDIC requires a separate Covered Insured Depository Institution ("CIDI") resolution plan for US insured depositories with assets of $50 billion or more. Most of the largest, most complex BHCs are subject to both rules, requiring them to file a 165(d) resolution plan for the BHC that includes the BHC's core businesses and its most significant subsidiaries (i.e., "material entities"), as well as one or more CIDI plans depending on the number of US bank subsidiaries of the BHC that meet the $50 billion asset threshold.<ref name="pwc.com"></ref>
+On December 17, the FDIC issued guidance for the 2015 resolution plans of CIDIs of large bank holding companies (BHCs).<ref></ref> The guidance provides clarity on the assumptions that are to be made in the CIDI resolution plans and what must be addressed and analyzed in the 2015 CIDI resolution plans including:<ref name="pwc.com"/>
+* The assumption that the CIDI must fail.
+* The cause of CIDI failure must be a core business loss or impairment.
+* At least one "multiple acquirer strategy" is required in the plan.
+* A deep level of granularity is expected in the plan.
+* Sales strategies must be feasible and supported by considerable acquirer detail.
+* A detailed financial and liquidity analysis is needed.
+* Key legal issues must be considered.
+* Resolution obstacles must be addressed.
+* The CIDI must be insolvent at the start of resolution.
+==Insured products==
+FDIC deposit insurance covers deposit accounts, which, by the FDIC definition, include:
+* demand deposits (checking accounts of a type that formerly could not legally pay interest), and negotiable order of withdrawal accounts (NOW accounts, i.e., savings accounts that have check-writing privileges)
+* savings accounts and money market deposit accounts (MMDAs, i.e., higher-interest savings accounts subject to check-writing restrictions)
+* time deposits including Certificate of deposit (CDs)
+* outstanding cashier's checks, interest checks, and other negotiable instruments drawn on the accounts of the bank
+* accounts denominated in foreign currencies<ref name="fdic-reg"></ref>
+Accounts at different banks are insured separately. All branches of a bank are considered to form a single bank. Also, an Internet bank that is part of a brick and mortar bank is not considered to be a separate bank, even if the name differs. Non-US citizens are also covered by FDIC insurance as long as their deposits are in a domestic office of an FDIC-insured bank.<ref name="fdic-reg"/>
+The FDIC publishes a guide entitled "Your Insured Deposits",<ref> urltoken fdic.gov </ref> which sets forth the general characteristics of FDIC deposit insurance, and addresses common questions asked by bank customers about deposit insurance.<ref name="fdic.gov"></ref>
+==Items not insured==
+Only the above types of accounts are insured. Some types of uninsured products, even if purchased through a covered financial institution, are:<ref name="fdic.gov"/>
+* Stocks, bonds, and mutual funds including money funds
+** The Securities Investor Protection Corporation, a separate institution chartered by Congress, provides protection against the loss of many types of such securities in the event of a brokerage failure, but not against losses on the investments.
+** Further, as of September 19, 2008, the United States Treasury is offering an optional insurance program for money market funds, which guarantees the value of the assets.<ref></ref>
+** Exceptions have occurred, such as the FDIC bailout of bondholders of Continental Illinois.
+* Investments backed by the U.S. government, such as Treasury securities
+* The contents of safe deposit boxes.
+*: Even though the word deposit appears in the name, under federal law a safe deposit box is not a deposit account&nbsp;– it is merely a secured storage space rented by an institution to a customer.
+* Losses due to theft or fraud at the institution.
+*: These situations are often covered by special insurance policies that banking institutions buy from private insurance companies.
+* Accounting errors.
+*: In these situations, there may be remedies for consumers under state contract law, the Uniform Commercial Code, and some federal regulations, depending on the type of transaction.
+* Insurance and annuity products, such as life, auto and homeowner's insurance.
+==See also==
+* List of bank failures in the United States (2008–present)
+* Banking Act of 1933
+* Banking Act of 1935
+* Canada Deposit Insurance Corporation (Canadian counterpart)
+* Federal Deposit Insurance Reform Act
+* Financial crisis of 2007-2010
+* List of acquired or bankrupt United States banks in the late 2000s financial crisis
+* List of largest U.S. bank failures
+* Title 12 of the Code of Federal Regulations
+* Too Big to Fail policy
+* Volcker Rule
+===Related agencies and programs===
+* CAMELS Rating System – used by the FDIC's Division of Risk Management Supervision (RMS) examiners to rate each bank and the FDIC problem bank list
+* FDIC Enterprise Architecture Framework
+* National Credit Union Administration
+** National Credit Union Share Insurance Fund
+* Temporary Liquidity Guarantee Program
+==Notes==
+==References==
+==Bibliography==
+* 
+* 
+* 
+* 
+* 
+==Further reading==
+* urltoken "Your Bank Has Failed: What Happens Next?"—60 Minutes
+* 
+* urltoken History including Boards of Directors
+* urltoken "Federal Deposit Insurance for Banks and Credit Unions"—Congressional Research Service
+==External links==
+* urltoken Federal Deposit Insurance Corporation (official website)
+* urltoken Federal Deposit Insurance Corporation in the Federal Register
+* urltoken FDIC Statistics at a Glance
+* urltoken FDIC List of Failed Banks
+
+However, the latter plan was abandoned for an increase of the insurance limit to $5,000 ($ today).
+The 1933 Banking Act:
+* Established the FDIC as a temporary government corporation. The Banking Act of 1935 made the FDIC a permanent agency of the government and provided permanent deposit insurance maintained at the $5,000 level.
+* Gave the FDIC authority to provide deposit insurance to banks
+* Gave the FDIC the authority to regulate and supervise state non-member banks
+* Funded the FDIC with initial loans of $289 million through the U.S. Treasury and the Federal Reserve, which were later paid back with interest
+* Extended federal oversight to all commercial banks for the first time
+* Separated commercial and investment banking (Glass–Steagall Act)
+* Prohibited banks from paying interest on checking accounts
+* Allowed national banks to branch statewide, if allowed by state law.

@@ -1,0 +1,61 @@
+Food coloring
+
+==Purpose of food coloring==
+People associate certain colors with certain flavors, and the color of food can influence the perceived flavor in anything from candy to wine.<ref></ref> Sometimes the aim is to simulate a color that is perceived by the consumer as natural, such as adding red coloring to candied fruit (which would otherwise be beige), but sometimes it is for effect, like the green ketchup that Heinz launched in 1999. Color additives are used in foods for many reasons including:<ref></ref><ref name="Barrows" />
+* To make food more attractive, appealing, appetizing, and informative
+* Offset color loss due to exposure to light, air, temperature extremes, moisture and storage conditions
+* Correct natural variations in color
+* Enhance colors that occur naturally
+* Provide color to colorless and "fun" foods
+* Allow consumers to identify products on sight, like candy flavors or medicine dosages
+== History of artificial food colorants ==
+The addition of colorants to foods is thought to have occurred in Egyptian cities as early as 1500 BC, when candy makers added natural extracts and wine to improve the products' appearance.<ref></ref> During the Middle Ages, the economy in the European countries was based on agriculture, and the peasants were accustomed to producing their own food locally or trading within the village communities. Under feudalism, aesthetic aspects were not considered, at least not by the vast majority of the generally very poor population.<ref name="Arlt"></ref> This situation changed with urbanization at the beginning of the Modern Age, when trade emerged—especially the import of precious spices and colors. One of the first food laws, created in Augsburg, Germany, in 1531, concerned spices or colorants and required saffron counterfeiters to be burned.<ref name="cook"></ref>
+With the onset of the industrial revolution, people became dependent on foods produced by others.<ref name="Arlt" /> These new urban dwellers demanded food at low cost. Analytical chemistry was still primitive and regulations few. The Adulterated food flourished.<ref name="Arlt" /> Heavy metal and other inorganic element-containing compounds turned out to be cheap and suitable to "restore" the color of watered-down milk and other foodstuffs, some more lurid examples being:<ref name="a"></ref>
+* Red lead (Pb<sub>3</sub>O<sub>4</sub>) and Cinnabar (HgS) were routinely used to color cheese and confectionery.
+* Copper arsenite (CuHAsO<sub>3</sub>) was used to recolor used tea leaves for resale. It also caused two deaths when used to color a dessert in 1860.
+Sellers at the time offered more than 80 artificial coloring agents, some invented for dyeing textiles, not foods.<ref name="a" /> 
+===Global harmonization===
+Since the beginning of the 1960s, JECFA has promoted the development of international standards for food additives, not only by its toxicological assessments, which are continuously published by the WHO in a urltoken "Technical Report Series", but furthermore by elaborating appropriate purity criteria, which are laid down in the two volumes of the urltoken "Compendium of Food Additive Specifications" and their supplements. These specifications are not legally binding but very often serve as a guiding principle, especially in countries where no scientific expert committees have been established.<ref name="Arlt" />
+In order to further regulate the use of these evaluated additives, in 1962 the WHO and FAO created an international commission, the Codex Alimentarius, which is composed of authorities, food industry associations and consumer groups from all over the world. Within the Codex organization, the Codex Committee for Food Additives and Contaminants is responsible for working out recommendations for the application of food additives, the urltoken General Standard for Food Additives. In the light of the World Trade Organizations General Agreement on Tariffs and Trade (GATT), the Codex Standard, although not legally binding, influences food color regulations all over the world.<ref name="Arlt" />
+==Natural food dyes==
+Carotenoids (E160, E161, E164), chlorophyllin (E140, E141), anthocyanins (E163), and betanin (E162) comprise four main categories of plant pigments grown to color food products.<ref></ref> Other colorants or specialized derivatives of these core groups include:
+* Annatto (E160b), a reddish-orange dye made from the seed of the achiote
+* Caramel coloring (E150a-d), made from caramelized sugar
+* Carmine (E120), a red dye derived from the cochineal insect, Dactylopius coccus
+* Elderberry juice (E163)
+* Lycopene (E160d)
+* Paprika (E160c)
+* Turmeric/Curcumin (E100)
+Blue colors are especially rare.<ref></ref> One feasible blue dye currently in use is derived from spirulina. Some recent research has explored associating anthocyanins with other phenolics or aluminium ions to develop blue colours. However, the inherent problems posed by the nature of the food matrix, and the need for long‐term stability, makes this a very difficult objective. The pigment genipin, present in the fruit of Gardenia jasminoides, can be treated with amino acids to produce the blue pigment gardenia blue, which is approved for use in Japan but not the EU or the USA.<ref></ref>
+To ensure reproducibility, the colored components of these substances are often provided in highly purified form. For stability and convenience, they can be formulated in suitable carrier materials (solid and liquids). Hexane, acetone, and other solvents break down cell walls in the fruit and vegetables and allow for maximum extraction of the coloring. Traces of these may still remain in the finished colorant, but they do not need to be declared on the product label. These solvents are known as carry-over ingredients.
+== Criticism and health implications ==
+Widespread public belief that artificial food coloring causes ADHD-like hyperactivity in children originated from Benjamin Feingold, a pediatric allergist from California, who proposed in 1973 that salicylates, artificial colors, and artificial flavors cause hyperactivity in children;<ref></ref> however, there is no evidence to support broad claims that food coloring causes food intolerance and ADHD-like behavior in children.<ref>Tomaska LD and Brooke-Taylor, S. Food Additives - General pp 449-454 in Encyclopedia of Food Safety, Vol 2: Hazards and Diseases. Eds, Motarjemi Y et al. Academic Press, 2013. </ref><ref name="KavaleForness1983"></ref> It is possible that certain food colorings may act as a trigger in those who are genetically predisposed, but the evidence is weak.<ref name=FDAdyecomm/><ref name=Peds2012></ref>
+Despite concerns expressed that food colorings may cause ADHD-like behavior in children,<ref name=FDAdyecomm>FDA. urltoken Background Document for the Food Advisory Committee: Certified Color Additives in Food and Possible Association with Attention Deficit Hyperactivity Disorder in Children: March 30-31, 2011</ref> the collective evidence does not support this assertion.<ref></ref> The US FDA and other food safety authorities regularly review the scientific literature, and led the UK Food Standards Agency (FSA) to commission a study by researchers at Southampton University of the effect of a mixture of six food dyes (Tartrazine, Allura Red, Ponceau 4R, Quinoline Yellow WS, Sunset Yellow and Carmoisine (dubbed the "Southampton 6")) on children in the general population. These colorants are found in beverages.<ref name=FDAdyecomm/><ref name=FSAguideline>Sarah Chapman of Chapman Technologies on behalf of Food Standards Agency in Scotland. March 2011 Guidelines on approaches to the replacement of Tartrazine, Allura Red, Ponceau 4R, Quinoline Yellow, Sunset Yellow and Carmoisine in food and beverages</ref> The study found "a possible link between the consumption of these artificial colours and a sodium benzoate preservative and increased hyperactivity" in the children;<ref name=FDAdyecomm/><ref name=FSAguideline/> the advisory committee to the FSA that evaluated the study also determined that because of study limitations, the results could not be extrapolated to the general population, and further testing was recommended.<ref name=FDAdyecomm/> The U.S. FDA did not make changes following the publication of the Southampton study. Following a citizen petition filed by the Center for Science in the Public Interest in 2008, requesting the FDA ban several food additives, the FDA reviewed the available evidence, and still made no changes.<ref name=FDAdyecomm/>
+The European regulatory community, with an emphasis on the precautionary principle, required labelling and temporarily reduced the acceptable daily intake (ADI) for the food colorings; the UK FSA called for voluntary withdrawal of the colorings by food manufacturers.<ref name=FDAdyecomm/><ref name=FSAguideline/> However, in 2009 the EFSA re-evaluated the data at hand and determined that "the available scientific evidence does not substantiate a link between the color additives and behavioral effects" for any of the dyes.<ref name=FDAdyecomm/><ref name=EFSA2009></ref><ref name=EFSA2009PR>EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS) urltoken 091113 efsa.europa.eu Scientific Opinion on the re-evaluation of Ponceau 4R (E 124) as a food additive EFSA Journal 2009; 7(11):1328</ref><ref name=EFSA2009QY></ref><ref name=EFSA2009Tart></ref>
+==Chemical structures of representative colorants==
+<gallery caption="Food colorants, natural" widths="170px" heights="120px">
+File:Betanin.png | Betanin, a magenta dye, mainly produced from beets.
+File:Anthocyanidine.svg | Anthocyanin, a red to blue dye depending on functional groups and pH.
+File:Beta-Carotin.svg| beta-Carotene, a yellow to orange colorant.
+</gallery>
+<gallery caption="Food colorants, synthetic" widths="170px" heights="120px">
+File:Indigo carmine.svg | Indigo Carmine, which is blue.
+File:Allura Red AC Structural Formula V1.png | Allura Red AC, which is red.
+File:Quinoline Yellow WS.svg | Quinoline Yellow WS, which is yellow.
+</gallery>
+==See also==
+*Azo compound
+*Acid dye
+*E number
+*Federal Food, Drug, and Cosmetic Act
+*Food additive
+==References==
+==External links==
+*
+* urltoken FDA/CFSAN Food Color Facts
+* urltoken Natural Food Colors (Food-Info)
+* urltoken Report on the Certification of Color Additives by US FDA
+* urltoken NATCOL: What are natural food colours?
+* urltoken CSPI: Food Dyes Pose Rainbow of Risks
+
+Food coloring, or color additive, is any dye, pigment or substance that imparts color when it is added to food or drink. They come in many forms consisting of liquids, powders, gels, and pastes. Food coloring is used both in commercial food production and in domestic cooking. Food colorants are also used in a variety of non-food applications including cosmetics, pharmaceuticals, home craft projects, and medical devices.<ref></ref>

@@ -1,0 +1,64 @@
+Trimline telephone
+
+==History==
+After the introduction of the popular Princess telephone line, in 1959 and the early 1960s, the design motivation for the Trimline series was to create an alternative design that was stylish and easier to use than a traditional telephone. This was accomplished by moving the dial from the telephone's base to the underside of the handset, between the earpiece and microphone.<ref name=weinv74></ref> The same concept was later used for cellular telephone and cordless telephone models. To miniaturize the rotary dial sufficiently to fit in the Trimline handset, the designers invented an unusual moving fingerstop. Like in the Princess line, the dial was lit when the handset was removed from the base. The Trimline was also one of the first phones to use the predecessor of the now-ubiquitous RJ11 modular phone plug and jack.
+First introduced in 1965, the Trimline included a lighted dial and was encased in a sleek, curved plastic housing that took up much less space than earlier Western Electric telephones. However, the glass-smooth and shallowly-curved plastic handset proved difficult to retain between cheek and shoulder for hands-free communication without slipping, and this problem was never corrected over the life of the model line. Cushioned clamp-on adaptors were manufactured and sold by third parties to make it easier to cradle the handset, but these add-ons would greatly compromise the aesthetic appearance of the telephone.
+The first Trimline models used incandescent light bulb powered by a power transformer plugged into a standard 120VAC outlet. The bulky transformer and the need for a conveniently-placed 120-volt outlet was criticized by many consumers, but was necessary because of the power demands of the incandescent light bulb. Years later, Western Electric redesigned the Trimline to use a low-power green LED backlit dial powered by current from the phone line, eliminating the need for a separate transformer. Always eager to re-use its older stocks of turned-in rental phones, AT&T later repainted and sold early-model non-LED Trimlines as "non-lighted" models, without a transformer.
+===Variants===
+The Trimline handset was produced in both rotary dial and Touch-Tone versions. Rotary dial Trimline production began in late 1965 and a Touch Tone keypad was added in mid-1966. The Trimline base was available in desk-top and wall-mount versions. The handsets and bases were interchangeable. The Trimline was the first US telephone to achieve some design recognition in Europe, where it was referred to as the "Manhattan" model or the "Gondola". Today, similarly designed telephones are sold by many companies. AT&T retained the Trimline name for the later "Trimline III", a more compact successor featuring squared corners and straight lines.
+In the 21st century, Advanced American Telephones produces the Trimline models 205, 210 (based upon original design), and the 265, under license from AT&T.
+===Powered RJ11 jacks for illumination ===
+In the Trimline version designed for connection to an RJ11 telephone jack, pins 2 and 5 (black and yellow) may carry very low voltage AC or DC power. While the phone line itself (tip and ring) supplies enough power for most telephones, older telephone instruments with incandescent dial lights in them (such as the classic Western Electric Princess and Trimline models) needed different voltages and more current than the phone line could supply. Typically, the power on pins 2 and 5 came from a transformer plugged into a power outlet near one telephone jack, wired to supply power to just that telephone (or to all of the jacks in the house, depending on local telephone company practices). It is now usually recommended that only the one local jack used by such older telephones be wired for power, to avoid any potential interference with other types of service that might be using pins 2 and 5 (black and yellow pair) in jacks in other parts of the house. The early Trimline and Princess phone dial light incandescent lamps were rated at 6.3 Volts, 0.25 Amp and the transformer output is approximately 6-8 Volts AC. Later Trimline versions had LED light sources, powered directly from the phone line, and the last Western Electric-made Princess version had no dial light.
+== Timeline ==
+*1965 Original Trimline introduced in the winter of 1965. Only rotary dial versions produced that first year, and availability was limited. 
+*1966 Touch Tone keypads become available in addition to dial models at mid-year. First touch-tone phones lack pound and star buttons and so only have ten buttons.
+*1968 Keypads on Touch Tone models were expanded to 12 keys, adding a pound and a star button to prepare for future functionality not yet available in 1968.
+*early 70s The clear plastic button backplate with colored paper backing matching the color of the phone is replaced with an aluminum backplate on the round button Touch-Tone phones. Also at this time, the round handset cords using proprietary connectors are replaced with modern flat modular cords and jacks. On all Trimline phones, the screw cover above the dial changes from reading "Bell System made by Western Electric" to just "Trimline" with a bell logo to the left of the text.
+*late 70s A green LED light fed by the phone line power replaces the incandescent lamp, additionally, the Touch-Tone version now sports slightly larger, square keys, as opposed to the earlier small round keys. Also the Touch-Tone version receives an aluminum faceplate behind the keys.
+*1983 AT&T begins selling phones, including the Trimline, to the public (as opposed to their previous leasing only policy) through its newly created American Bell, Inc. subsidiary.
+*1984 AT&T is divested of its regional operating companies and is prohibited from using the Bell name or logo, so the American Bell brand is dropped and replaced with simply AT&T. All telephone production continues as normal.
+**Late 1984 The Touch-tone Trimline phone is heavily modified with the following new features:
+***Electronic chirp ringer in the handset, replacing the previous real bell ringer
+***Keys are now made of a soft rubber material
+***Line switch (switchhook) eliminated from base, moved to top of phone just below the receiver
+***Handset screws' cover no longer says "Trimline"; made smaller in the middle to conform to new switchhook location
+***Only one handset-to-jack cord is required for the telephone connection; cord can be tightly secured onto the bottom of the base, which now only exists with no purpose other than as a rest for the handset
+*1985 The rotary Trimline is discontinued, and further modifications are made to the touch-tone model:
+**Desk or wall convertible, eliminating separate desk and wall models
+**Touch-Tone/dial pulse switch, eliminating separate Touch-Tone and rotary models
+**Redial and Mute functions
+**One cord to connect telephone is eliminated, base-to-handset and base-to-jack cords reinstated
+*1986 With the closing of the Western Electric Indianapolis Works, Trimline production is moved overseas to Singapore and China. Minor modifications included:
+**Earpiece Volume Control
+**Chirp Ringer/ringer loudness switch moved to base of the phone
+**Bottom of the base is now made of plastic, with a lead weight inside the base
+**Only 1 screw is used to hold the handset together; location of screw and screw cover is moved to below the dialpad
+**2220 Trimline is dropped as a model number, replaced by the 210, 220, and 230.
+*1993 The Trimline phone is again updated with the following features:
+**The soft rubber keys are again replaced with hard plastic keys, similar to the late 70s and early 80s models, but the keys are even larger and rectangular rather than square
+**The faceplate behind the keys, aluminum since the late 70s LED conversion is now a dark gray plastic with a matte surface
+**Production is moved to Mexico
+**Caller ID models, the 250 & 260, are introduced under the Trimline brand. The design shares nothing in common with the 210 model.
+*1996 Lucent Technologies is spun off from AT&T, and minor modifications are added:
+**Phones are marked "Lucent Technologies", though this turned out to be temporary, and the boxes and marketing materials were always co-branded with AT&T
+**"Trimline" again marked above the dialpad on the matte surface
+**Ringer loudness switch is moved back to dialpad; ringer remains inside the base
+*1997 Lucent enters a joint venture with Philips, creating Philips Consumer Communications. Shortly after, more changes are made:
+**Handset screws are eliminated completely. Handset is only held together by "snap" ends at both ends of the phone, above the receiver and below the microphone.
+**Telephones are again branded AT&T; Lucent Technologies branding ends.
+**Ringer moved into handset.
+*2000 Lucent dissolved the joint venture with Philips in 1998, and sells its consumer division to Hong Kong company VTech, where it becomes Advanced American Telephones. VTech moved all production to the People's Republic of China.
+==See also==
+* Bell System Practices
+* Contempra, a similar form factor handset designed by Northern Electric and deployed by Bell Canada.
+==References==
+== External links ==
+* urltoken Western Electric Telephone Models
+* urltoken Western Electric Trimline Phone
+
+thumb
+thumb
+thumb
+thumb
+thumb
+The Trimline telephone is a series of telephones produced by Western Electric, the manufacturing unit of the Bell System, and first introduced in 1965. It was designed by Henry Dreyfuss Associates under the project direction of Donald Genaro; the firm had designed all previous desktop telephone models for the American Telephone & Telegraph conglomerate.

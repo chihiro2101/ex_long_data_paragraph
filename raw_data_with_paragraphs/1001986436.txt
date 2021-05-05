@@ -1,0 +1,57 @@
+Markov chain Monte Carlo
+
+== Application domains ==
+MCMC methods are primarily used for calculating Numerical analysis of Multiple integral, for example in Bayesian statistics, computational physics,<ref></ref> computational biology<ref></ref> and computational linguistics.<ref>See Gill 2008.</ref><ref>See Robert & Casella 2004.</ref>
+In Bayesian statistics, the recent development of MCMC methods has made it possible to compute large hierarchical models that require integrations over hundreds to thousands of unknown parameters.<ref></ref>
+In rare event sampling, they are also used for generating samples that gradually populate the rare failure region.
+== General explanation ==
+Markov chain Monte Carlo methods create samples from a continuous random variable, with probability density proportional to a known function. These samples can be used to evaluate an integral over that variable, as its expected value or variance.
+Practically, an ensemble of chains is generally developed, starting from a set of points arbitrarily chosen and sufficiently distant from each other. These chains are stochastic processes of "walkers" which move around randomly according to an algorithm that looks for places with a reasonably high contribution to the integral to move into next, assigning them higher probabilities.
+Random walk Monte Carlo methods are a kind of random simulation or Monte Carlo method. However, whereas the random samples of the integrand used in a conventional Monte Carlo integration are statistically independent, those used in MCMC are autocorrelated. Correlations of samples introduces the need to use the Markov chain central limit theorem when estimating the error of mean values.
+These algorithms create Markov chains such that they have an equilibrium distribution which is proportional to the function given.
+==Reducing correlation==
+While MCMC methods were created to address multi-dimensional problems better than generic Monte Carlo algorithms, when the number of dimensions rises they too tend to suffer the curse of dimensionality: regions of higher probability tend to stretch and get lost in an increasing volume of space that contributes little to the integral. One way to address this problem could be shortening the steps of the walker, so that it doesn't continuously try to exit the highest probability region, though this way the process would be highly autocorrelated and expensive (i.e. many steps would be required for an accurate result). More sophisticated methods such as Hamiltonian Monte Carlo and the Wang and Landau algorithm use various ways of reducing this autocorrelation, while managing to keep the process in the regions that give a higher contribution to the integral. These algorithms usually rely on a more complicated theory and are harder to implement, but they usually converge faster.
+== Examples ==
+=== Random walk ===
+* Metropolis–Hastings algorithm: This method generates a Markov chain using a proposal density for new steps and a method for rejecting some of the proposed moves. It is actually a general framework which includes as special cases the very first and simpler MCMC (Metropolis algorithm) and many more recent alternatives listed below.
+**Gibbs sampling: This method requires all the conditional distributions of the target distribution to be sampled exactly. When drawing from the full-conditional distributions is not straightforward other samplers-within-Gibbs are used (e.g., see <ref></ref><ref></ref>). Gibbs sampling is popular partly because it does not require any 'tuning'.
+** Metropolis-adjusted Langevin algorithm and other methods that rely on the gradient (and possibly second derivative) of the log target density to propose steps that are more likely to be in the direction of higher probability density.<ref>See Stramer 1999.</ref>
+**Pseudo-marginal Metropolis–Hastings: This method replaces the evaluation of the density of the target distribution with an unbiased estimate and is useful when the target density is not available analytically, e.g. latent variable models.
+* Slice sampling: This method depends on the principle that one can sample from a distribution by sampling uniformly from the region under the plot of its density function. It alternates uniform sampling in the vertical direction with uniform sampling from the horizontal 'slice' defined by the current vertical position.
+* Multiple-try Metropolis: This method is a variation of the Metropolis–Hastings algorithm that allows multiple trials at each point. By making it possible to take larger steps at each iteration, it helps address the curse of dimensionality.
+* Reversible-jump: This method is a variant of the Metropolis–Hastings algorithm that allows proposals that change the dimensionality of the space.<ref>See Green 1995.</ref> Markov chain Monte Carlo methods that change dimensionality have long been used in statistical physics applications, where for some problems a distribution that is a grand canonical ensemble is used (e.g., when the number of molecules in a box is variable). But the reversible-jump variant is useful when doing Markov chain Monte Carlo or Gibbs sampling over nonparametric Bayesian models such as those involving the Dirichlet process or Chinese restaurant process, where the number of mixing components/clusters/etc. is automatically inferred from the data.
+* Hamiltonian Monte Carlo (HMC): Tries to avoid random walk behaviour by introducing an auxiliary momentum vector and implementing Hamiltonian dynamics, so the potential energy function is the target density. The momentum samples are discarded after sampling. The end result of Hybrid Monte Carlo is that proposals move across the sample space in larger steps; they are therefore less correlated and converge to the target distribution more rapidly.
+===Interacting particle methods ===
+Interacting MCMC methodologies are a class of mean field particle methods for obtaining random samples from a sequence of probability distributions with an increasing level of sampling complexity.<ref name="dp13"></ref> These probabilistic models include path space state models with increasing time horizon, posterior distributions w.r.t. sequence of partial observations, increasing constraint level sets for conditional distributions, decreasing temperature schedules associated with some Boltzmann-Gibbs distributions, and many others. In principle, any Markov chain Monte Carlo sampler can be turned into an interacting Markov chain Monte Carlo sampler. These interacting Markov chain Monte Carlo samplers can be interpreted as a way to run in parallel a sequence of Markov chain Monte Carlo samplers. For instance, interacting simulated annealing algorithms are based on independent Metropolis-Hastings moves interacting sequentially with a selection-resampling type mechanism. In contrast to traditional Markov chain Monte Carlo methods, the precision parameter of this class of interacting Markov chain Monte Carlo samplers is only related to the number of interacting Markov chain Monte Carlo samplers. These advanced particle methodologies belong to the class of Feynman-Kac particle models,<ref name="dp04"></ref><ref name="dmm002"></ref> also called Sequential Monte Carlo or particle filter methods in Bayesian inference and signal processing communities.<ref name=":3"></ref> Interacting Markov chain Monte Carlo methods can also be interpreted as a mutation-selection Genetic algorithm with Markov chain Monte Carlo mutations.
+=== Markov Chain quasi-Monte Carlo (MCQMC).<ref></ref><ref>)</math> Monte Carlo rate.<ref></ref>
+==Convergence==
+Usually it is not hard to construct a Markov chain with the desired properties. The more difficult problem is to determine how many steps are needed to converge to the stationary distribution within an acceptable error.<ref name="Gelman and Rubin, 1992"></ref> A good chain will have rapid mixing: the stationary distribution is reached quickly starting from an arbitrary position. A standard empirical method to assess convergence is to run several independent simulated Markov chains and check that the ratio of inter-chain to intra-chain variances for all the parameters sampled is close to 1.<ref name="Gelman and Rubin, 1992" /><ref name="Colwes and Carlin, 1996"></ref>
+Typically, Markov chain Monte Carlo sampling can only approximate the target distribution, as there is always some residual effect of the starting position. More sophisticated Markov chain Monte Carlo-based algorithms such as coupling from the past can produce exact samples, at the cost of additional computation and an unbounded (though finite in expectation) running time.
+Many random walk Monte Carlo methods move around the equilibrium distribution in relatively small steps, with no tendency for the steps to proceed in the same direction. These methods are easy to implement and analyze, but unfortunately it can take a long time for the walker to explore all of the space. The walker will often double back and cover ground already covered.
+Further consideration of convergence is at Markov chain central limit theorem. See <ref></ref> for a discussion of the theory related to convergence and stationarity of the Metropolis-Hastings algorithm.
+== Software ==
+Several software programs provide MCMC sampling capabilities, for example:
+* urltoken ParaMonte, a high-performance serial / parallel software for Monte Carlo simulations, including the Delayed-Rejection Adaptive Metropolis-Hastings MCMC, available in 
+** urltoken Python, 
+** urltoken MATLAB, 
+**C / C++ / Fortran on urltoken Windows, urltoken Linux, and urltoken macOS.
+*Packages that use dialects of the BUGS model language:
+**WinBUGS / OpenBUGS/ urltoken MultiBUGS
+**JAGS
+** urltoken NIMBLE
+* urltoken greta, a Bayesian statistical modeling language / R package which uses TensorFlow behind the scenes,<ref></ref> similar to PyMC3's use of Theano as the computational back-end
+*MCSim
+*PyMC3
+* urltoken pymcmcstat
+* R (programming language) with the packages adaptMCMC, atmcmc, BRugs, mcmc, MCMCpack, ramcmc, rjags, rstan, etc.
+*Stan
+* urltoken TensorFlow Probability (probabilistic programming library built on TensorFlow)
+* urltoken MCL (a cluster algorithm for graphs)<ref></ref> and urltoken HipMCL (a parallelized version)<ref></ref>
+* urltoken emcee (MIT licensed pure-Python implementation of Goodman & Weare's Affine Invariant Markov chain Monte Carlo Ensemble sampler)
+* urltoken Keanu a general-purpose probabilistic programming library built in Java
+* urltoken Zeus is a pure-Python implementation of the Ensemble Slice Sampling method
+* urltoken Turing.jl, a package for general-purpose probabilistic programming in Julia 
+* urltoken Mamba.jl, a platform for MCMC method in Julia
+
+<math></math>
+In statistics, Markov chain Monte Carlo (MCMC) methods comprise a class of algorithms for sampling from a probability distribution. By constructing a Markov chain that has the desired distribution as its equilibrium distribution, one can obtain a sample of the desired distribution by recording states from the chain. The more steps are included, the more closely the distribution of the sample matches the actual desired distribution. Various algorithms exist for constructing chains, including the Metropolis–Hastings algorithm.

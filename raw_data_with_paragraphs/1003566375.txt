@@ -1,0 +1,37 @@
+Electric Image Animation System
+
+==History==
+Electric Image, Inc. was initially a visual effects production company. They developed their own in-house 3D animation and rendering package for the Macintosh beginning in the late 1980s, calling it ElectricImage Animation System. (To avoid confusion with the current product with its similar name, we will refer to this initial incarnation of the product simply as ElectricImage.)
+When the company later decided to offer their software for sale externally, it quickly gained a customer base that lauded the developers for the software's exceptionally fast rendering engine and high image quality. Because it was capable of film-quality output on commodity hardware, ElectricImage was popular in the movie and television industries throughout the decade. It was used by the "Rebel Unit" at Industrial Light and Magic quite extensively and was in use by a variety of game companies, such as Bad Mojo and Bad Day on the Midway. However, only these high end effects companies could afford it: Electric Image initially sold for US $7500.
+EIAS has been used in numerous film and television productions, such as: Piranha 3D, Alien Trespass, Pirates of the Caribbean: The Curse of the Black Pearl, Daddy Day Care, K-19: The Widowmaker, Gangs of New York, Austin Powers: Goldmember, Men In Black II, The Bourne Identity, Behind Enemy Lines, Time Machine, Ticker, JAG - Pilot Episode, Spawn,<ref></ref> Star Trek: First Contact, Star Trek: Insurrection, Galaxy Quest,<ref></ref> Mission to Mars, Austin Powers: The Spy Who Shagged Me, Star Wars Episode 1: The Phantom Menace,<ref></ref> Titan A.E., U-571, Dinosaur, Terminator 2: Judgement Day,<ref></ref> Terminator 2: Judgement Day - DVD Intro, Jungle Book 2, American President, Sleepers, Star Wars Special Edition, Empire Strikes Back Special Edition, Return of Jedi Special Edition, Bicentennial Man, Vertical Limit, Elf, Blade Trinity, and Lost In Space.
+TV Shows: Revolution, Breaking Bad, Alcatraz, Pan AM, The whole Truth, Lost, Flash Forward, Fringe, Surface, Weeds, Pushing Daisies, The X-Files, Alias, Smallville, Star Trek: The Next Generation, Babylon 5, Young Indiana Jones, Star Trek Voyager, Mists of Avalon, Star Trek Enterprise.
+Electric Image, Inc. was always a small company that produced software on the Mac platform and so never had a large a market share. Play, Inc. purchased Electric Image corporation in November 1998. The first version of EIAS released under the Play moniker was version 2.9. Play later released the 3.0 version. This was the first version to run on Windows, and to mark this move, Play renamed the package Electric Image Universe. Play was never a greatly successful company, and so Electric Image Universe stagnated during the time they owned it.
+In 2000, Dwight Parscale (former CEO of Newtek) and original Electric Image founders Markus Houy and Jay Roth bought back the original company from Play Inc. On September 19, 2000, the company bought back the shares of Electric Image from Play and set about to recapture the product's former customer base. The new company released version 4.0 and 5.0 under the Electric Image moniker. Then due to a licensing problem with Spatial Technologies, they dropped the Modeler program from the version 5.5 release, and renamed the package back to Electric Image Animation System.
+Versions 6.0 and 6.5 were subsequently released with vast improvements to the rendering engine and OpenGL performance. Version 6.5r2 added FBX file importing capability. 6.6 added Universal Binary support and finally drops support for Mac OS 9. Version 7.0 brought Multi-Layer Rendering, Image-Based Lighting, Raytrace Sky Maps and Rigid Body Dynamics. The version, 8.0, added Photon Mapping, Fast soft shadows, area light, Quadratic light drop-off, EXR and 16bit image input support, Displacement Sea Level, new Weight maps tools, much workflow enhancement and Renderama improvements.
+In 2009, EITG began negotiations to sell the intellectual property rights of ElectricImage. On January 12, 2010 it was announced that Tomas Egger, Igor Yatsenko, and Igor Ivaniuk had become the new owners of EIAS. Known collectively as "The Igors", Igor Yatsenko and Igor Ivaniuk had been EIAS's primary software developers for many years. They released version 9.0 in November 2012, followed by version 9.1 in June 2013.
+==Market positioning==
+The existing customer base for EIAS favors it for its fast renderer, its high output quality, and its camera mapping features. The tool set lends itself particularly well to hard-surface animation/rendering and other forms of non-organic tasks. It is most popular with architects and visual effects artists for TV and film.
+EIAS's primary competitors in the integrated 3D package space are Autodesk with Maya, 3D Studio Max and Softimage, Maxon with Cinema 4D, and Newtek with Lightwave 3D.
+==Components==
+The Electric Image Animation System is not a single program, but rather a suite of several programs designed to work together. Each of the primary programs handles a particular part of the production workflow:
+===Animator===
+Animator is the EIAS animation program. It can directly import 3D models in the Lightwave, 3D Studio, AutoCAD, Maya, and Electric Image FACT formats. In addition to animating models, Animator allows you to set up rendering settings. It efficiently supports the animation of very geometrically complex projects.
+===Camera===
+Camera is the EIAS rendering program, known for its speed and high image quality. As of version 9.0, it supports ray tracing, Phong shading, scanline rendering, spatial anti-aliasing, motion blur, caustics, radiosity, Photon mapping, Irradiance Cache, Screen Cache and global illumination. Camera outputs to several file formats, like Quicktime and EI's own Image format. The latter is directly supported by Adobe After Effects CC and Adobe Photoshop CC.
+===Renderama===
+Renderama and Renderama Slave compose EIAS's distributed network rendering system. It allows for the rendering of a project to be distributed over a network's computers (i.e., for the formation of a render farm). It supports both single and multiprocessor computers, taking advantage of all available processors to distribute the workload. It also supports rendering across platforms (e.g., Windows 7/8 - 64 bits and Mac OS X 10.6.8 or earlier).
+===Modeler===
+Modeler saves its files in Electric Image's "FACT" file format for importing into Animator (see above). It supports urltoken ACIS modeling, "ÜberNurbs" (EIAS' subdivision surfaces modeling technology), LAWS (based on parametric formulas) as well as Boolean operations and other modern modeling tools.
+Modeler last shipped in Electric Image Universe 5.0. As a result, users of EIAS 5.5 and newer use a third-party modeler instead. As of this writing, Electric Image recommends urltoken Nevercenter Silo for this purpose. Form-Z from auto•des•sys is also popularly used as a companion for EIAS.
+==References==
+==External links==
+*
+* urltoken EIAS3D forum Website
+* urltoken EIAS Benchmarks - EIAS Camera & Renderama benchmark Database
+Third-party plugin vendors:
+* urltoken Northern Lights Productions website
+* urltoken Konkeptoine website
+* urltoken 3Dmation website
+* urltoken Onyx Tree website
+
+The Electric Image Animation System (EIAS) is a 3D computer graphics package published by EIAS3D. It currently runs on the macOS and Windows platforms.

@@ -1,0 +1,94 @@
+Wikipedia:WikiProject Genealogy
+
+== Goals ==
+* Improve articles related to genealogy as a hobby, profession, and academic field.
+* Standardize and verify family trees and ahnentafel charts on Wikipedia.
+* Standardize and verify lists of descendants on Wikipedia.
+* Discuss the creation of a Wikimedia genealogy project.
+== Things you can do ==
+* Find genealogy-related articles and add the WikiProject Genealogy banner to their talk pages.
+** Such as family articles
+* Give importance and quality ratings to genealogy urltoken articles needing assessment.
+* Make improvements to our current article collaboration.
+* Expand articles needing expansion.
+* Fix urltoken articles needing cleanup.
+<div style="float:center; border:2px solid #484898; background-color:#FFF; text-align:center; font-size:110%; padding:5px">
+The current Genealogy WikiProject Collaboration is:<br />
+Genealogy.
+<p>Please help improve the article to good article standards!</p></div><noinclude>
+</noinclude>
+* Improve and harmonise contents presentation within family articles
+== Assessment ==
+To assess articles, use the WikiProject Genealogy banner on the article's talk page.
+*Under class, give the article a quality rating: FA, FL, A, GA, B, C, Start, Stub, List, or NA
+*Under priority, give the article a priority/importance rating: Top, High, Mid, Low
+For example, a good article of high importance will use this code:
+<pre></pre>
+*Genealogy articles by quality
+*Genealogy articles by importance
+=== Importance scale ===
+Priority must be regarded as a relative term. If priority values are applied within this project, these only reflect the perceived importance to this project. An article judged to be "Top-Class" in one context may be only "Mid-Class" in another project. The criteria used for rating article priority are not meant to be an absolute or canonical view of how significant the topic is. Rather, they attempt to gauge the probability of the average reader of Wikipedia needing to look up the topic (and thus the immediate need to have a suitably well-written article on it).
+=== Quality scale ===
+== Article Alerts ==
+* Wikipedia:WikiProject Genealogy/Article alerts
+== Templates ==
+The most common template used for displaying ancestry trees is (for what the German word Ahnentafel means see the Wikipedia article "Ahnentafel"). For help on how to use and other templates and methods that are available for displaying family/ancestory trees see Help:Family trees and the documentation within the templates.
+=== Current template discussions ===
+Place below any templates that are potentially useful for members of this project and that are currently the subject of a discussion (most recent first):
+* These should automatically appear in Article Alerts.
+=== Wikidata equivalent ===
+A Wikidata ancestry equivalent similar to WikiTree, for a language independent encyclopedically relevant database, likely containing mostly monarchs and such. Thus, each generation where ancestry is deemed relevant in biographical articles would not need a complete reformatting, while access and implementation over the language board would be facilitated. Naturally, if applied, a new template rendering from this wikidata family tree would be needed. Also, precaution of personal integrity would be a main issue.
+== Members ==
+Please feel free to add your name to this list if you would like to join this project. Currently active participants are also listed here.
+The following are registered members of this WikiProject:
+* 
+** (currently not very active on Wikipedia, but now trying to resurrect this WikiProject nonetheless)
+* AKA: Darius von Whaleyland
+** (had previously attempted to resurrect the project and standardize genealogical boxes currently in use at Wikipedia; also the founder of Wikipedia:WikiProject Succession Box Standardization and a frequenter to any royalty page)
+* 
+** (very interested in genealogy, and tracking how people tie together through their blood lines)
+* 
+** (amateur genealogist with advanced knowledge of genealogical systems and terminology; strongly agreeing with and frequently adhering to the project goals!)
+* 
+** (amateur genealogist with many years of experience; interest is in royalty pages and genealogy in general. Member of Ancestry.com, Geni.com, and others)
+* Dan Koehl (talk) 
+** Founder of Wikipedia:WikiProject Genealogy Dec 9, 2002 ( urltoken link to first edit)
+**Interest is European middle-ages nobility and royalty, but also genealogy in general. Member in Wikitree, Geni.com and several other genealogy websites.
+* 
+**Interest in Hawaiian Royalty, British royalty and European royalty as well as genealogy in general.
+* 
+** British, USA, Portal:Ukraine experience. Aspire to start articles and expand stubs, translate, edit, and source other language settlement pages into English with reliable sources from The Wikipedia Library.
+* 
+**Amateur genealogist
+**Interest is European middle-ages nobility and royalty, but also genealogy in general.
+* 
+**Genealogist
+**Interested in Jewish Genealogy in general, but my dream is to have a free open world spanning family tree
+* I'd love to see a Wikimedia genealogy project. I invite project members and passersby to contribute to this discussion at Meta-Wiki. ---User:Another Believer <sub>(User talk:Another Believer)</sub> 01:09, 7 February 2017 (UTC)
+* I'm with Another Believer. To restrict this project to Wikipedia in the Eglish language is not a very good idea. What about a domain Wikitree, Wikigenea or something similar? &nbsp;Klaas&nbsp;`Z4&#x241f;`&nbsp;V 08:41, 7 February 2017 (UTC)
+* 
+** Strong interest in a Wikimedia genealogy project aimed at building a public single tree (one profile per person), including an option for adding living people using privacy controls. People with Wikipedia entries in any language, or with content on other projects, can be linked. I'm currently a member of Wikitree and WeRelate. Gap9551 (talk) 18:32, 4 March 2017 (UTC)
+*ChristianKl (talk) 13:20, 15 June 2017 (UTC) 
+* 
+** Happy to help!
+* 
+** Amateur. Genetic genealogy/tools/websites, links in notables' articles to genealogical material or websites when appropriate.
+* Salgo60
+** Swedish genealogy has free church books online and we have done a lot see urltoken Swedish Church parishes, Phabricator project space urltoken wmse-riksarkivet-tora I have initiated or populated properties , , , , , . 
+* 
+** Amateur. I'll help where I can!
+* 
+**Professional genealogist. Want to improve accuracy of genealogy-related articles and genealogical content on Wikipedia. Also see talk page for my thoughts on project goals.Tea and crumpets (talk) 22:43, 28 June 2019 (UTC)
+* 
+**Amateur genealogists with years of experience. I am particularly interested in Sub Saharan Africa family history and genealogy, especially Senegambian precolonial royalty.Tamsier (talk) 01:01, 4 July 2019 (UTC)
+*User:Ibn_Daud
+**Amateur genealogists. I mostly focus on early Rabbinic genealogy Ibn Daud (talk) 06:04, 9 May 2020 (UTC)
+* 
+**European, mostly Belgian genealogy. --Brookford (talk) 20:39, 22 May 2020 (UTC)
+* 
+** Amateur genealogist, focused mostly on European and New Zealand European genealogy
+===Userbox===
+Feel free to insert the Template:User WikiProject Genealogy on your user page with the following code: <nowiki></nowiki>.
+
+The WikiProject for Genealogy aims to improve genealogy-related articles and to standardize and verify genealogical information on Wikipedia. While Wikipedia is not and never was intended as a genealogy software, this area may still be further improved. Nearly all royalty articles include a section of brief ancestry, as well as a list of spouse(s) and issue. This practice may possibly be extended outside the bounds of royalty and aristocracy where encyclopedically relevant, while keeping within Wikipedia's WP:N and WP:V standards.
+This project covers all Wikipedia articles related to the subject of genealogy, including businesses, individuals, websites, software, etc. that are involved in the genealogical field. It also covers any genealogical information on notable families, usually formatted as family tree charts, Template:Ahnentafel charts, or lists. Templates to create family trees and ahnentafels are also in the scope of this WikiProject.

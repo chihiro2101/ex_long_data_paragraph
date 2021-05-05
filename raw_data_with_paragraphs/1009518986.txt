@@ -1,0 +1,76 @@
+Exponential growth
+
+==Examples==
+===Biology===
+* The number of microorganisms in a culture will increase exponentially until an essential nutrient is exhausted. Typically the first organism splits into two daughter organisms, who then each split to form four, who split to form eight, and so on. Because exponential growth indicates constant growth rate, it is frequently assumed that exponentially growing cells are at a steady-state. However, cells can grow exponentially at a constant rate while remodeling their metabolism and gene expression.<ref name="SlavovBudnik2014"></ref> 
+* A virus (for example COVID-19, or smallpox) typically will spread exponentially at first, if no artificial immunization is available. Each infected person can infect multiple new people.
+===Physics===
+* Avalanche breakdown within a dielectric material. A free electron becomes sufficiently accelerated by an externally applied electrical field that it frees up additional electrons as it collides with atoms or molecules of the dielectric media. These secondary electrons also are accelerated, creating larger numbers of free electrons. The resulting exponential growth of electrons and ions may rapidly lead to complete dielectric breakdown of the material.
+* Nuclear chain reaction (the concept behind nuclear reactors and nuclear weapons). Each uranium nucleus that undergoes fission produces multiple neutrons, each of which can be absorbed by adjacent uranium atoms, causing them to fission in turn. If the probability of neutron absorption exceeds the probability of neutron escape (a function of the shape and mass of the uranium), the production rate of neutrons and induced uranium fissions increases exponentially, in an uncontrolled reaction. "Due to the exponential rate of increase, at any point in the chain reaction 99% of the energy will have been released in the last 4.6 generations. It is a reasonable approximation to think of the first 53 generations as a latency period leading up to the actual explosion, which only takes 3–4 generations."<ref></ref>
+* Positive feedback within the linear range of electrical or electroacoustic Amplifier can result in the exponential growth of the amplified signal, although resonance effects may favor some component frequency of the signal over others.
+===Economics===
+* Economic growth is expressed in percentage terms, implying exponential growth.
+===Finance===
+* Compound interest at a constant interest rate provides exponential growth of the capital. See also rule of 72.
+* Pyramid schemes or Ponzi schemes also show this type of growth resulting in high profits for a few initial investors and losses among great numbers of investors.
+===Computer science===
+* Clock rate of computers. See also Moore's law and technological singularity. (Under exponential growth, there are no singularities. The singularity here is a metaphor, meant to convey an unimaginable future. The link of this hypothetical concept with exponential growth is most vocally made by futurist Ray Kurzweil.)
+* In computational complexity theory, computer algorithms of exponential complexity require an exponentially increasing amount of resources (e.g. time, computer memory) for only a constant increase in problem size. So for an algorithm of time complexity 2<sup>x</sup>, if a problem of size requires 10 seconds to complete, and a problem of size requires 20 seconds, then a problem of size will require 40 seconds. This kind of algorithm typically becomes unusable at very small problem sizes, often between 30 and 100 items (most computer algorithms need to be able to solve much larger problems, up to tens of thousands or even millions of items in reasonable times, something that would be physically impossible with an exponential algorithm). Also, the effects of Moore's Law do not help the situation much because doubling processor speed merely allows you to increase the problem size by a constant. E.g. if a slow processor can solve problems of size x in time t, then a processor twice as fast could only solve problems of size x + constant in the same time t. So exponentially complex algorithms are most often impractical, and the search for more efficient algorithms is one of the central goals of computer science today.
+=== Internet phenomena ===
+* Internet contents, such as internet memes or videos, can spread in an exponential manner, often said to "go viral" as an analogy to the spread of viruses.<ref name=aca></ref> With media such as social networks, one person can forward the same content to many people simultaneously, who then spread it to even more people, and so on, causing rapid spread.<ref></ref> For example, the video Gangnam Style was uploaded to YouTube on 15 July 2012, reaching hundreds of thousands of viewers on the first day, millions on the twentieth day, and was cumulatively viewed by hundreds of millions in less than two months.<ref name=aca/><ref></ref>
+==Basic formula==
+A quantity x depends exponentially on time t if
+:<math>x(t)=a\cdot b^ =0.</math>
+There is a whole hierarchy of conceivable growth rates that are slower than exponential and faster than linear (in the long run). See .
+Growth rates may also be faster than exponential. In the most extreme case, when growth increases without bound in finite time, it is called hyperbolic growth. In between exponential and hyperbolic growth lie more classes of growth behavior, like the hyperoperations beginning at tetration, and <math>A(n,n)</math>, the diagonal of the Ackermann function.
+=== Logistic growth ===
+In reality, initial exponential growth is often not sustained forever. After some period, it will be slowed by external or environmental factors. For example, population growth may reach an upper limit due to resource limitations.<ref></ref> In 1845, the Belgian mathematician Pierre François Verhulst first proposed a mathematical model of growth like this, called the "logistic curve".<ref></ref>
+==Limitations of models==
+Exponential growth models of physical phenomena only apply within limited regions, as unbounded growth is not physically realistic. Although growth may initially be exponential, the modelled phenomena will eventually enter a region in which previously ignored negative feedback factors become significant (leading to a logistic growth model) or other underlying assumptions of the exponential growth model, such as continuity or instantaneous feedback, break down.
+==Exponential growth bias==
+Studies show that human beings have difficulty understanding exponential growth. Exponential growth bias is the tendency to underestimate compound growth processes. This bias can have financial implications as well.<ref></ref> Below are some stories that emphasize this bias.
+===Rice on a chessboard===
+According to an old legend, vizier Sissa Ben Dahir presented an Indian King Sharim with a beautiful handmade chessboard. The king asked what he would like in return for his gift and the courtier surprised the king by asking for one grain of rice on the first square, two grains on the second, four grains on the third, etc. The king readily agreed and asked for the rice to be brought. All went well at first, but the requirement for 2<sup>n−1</sup> grains on the nth square demanded over a million grains on the 21st square, more than a million million trillion) on the 41st and there simply was not enough rice in the whole world for the final squares. (From Swirski, 2006)<ref name=Porritt-2005></ref>
+The second half of the chessboard is the time when an exponentially growing influence is having a significant economic impact on an organization's overall business strategy.
+===Water lily===
+French children are offered a riddle, which shows an aspect of exponential growth: "the apparent suddenness with which an exponentially growing quantity approaches a fixed limit". The riddle imagines a water lily plant growing in a pond. The plant doubles in size every day and, if left alone, it would smother the pond in 30 days killing all the other living things in the water. Day after day, the plant's growth is small, so it is decided that it won't be a concern until it covers half of the pond. Which day will that be? The 29th day, leaving only one day to save the pond.<ref name=Meadows-2004></ref><ref name=Porritt-2005/>
+==See also==
+* Accelerating change
+* Albert Allen Bartlett
+* Arthrobacter
+* Asymptotic notation
+* Bacterial growth
+* Bounded growth
+* Cell growth
+* Exponential algorithm
+* EXPSPACE
+* EXPTIME
+* Hausdorff dimension
+* Hyperbolic growth
+* Information explosion
+* Law of accelerating returns
+* List of exponential topics
+* Logarithmic growth
+* Logistic function
+* Malthusian growth model
+* Menger sponge
+* Moore's law
+* Quadratic growth
+* Stein's law
+==References and footnotes==
+===Sources===
+* Meadows, Donella. Randers, Jorgen. Meadows, Dennis. The Limits to Growth: The 30-Year Update. Chelsea Green Publishing, 2004. 
+* Meadows, Donella H., Dennis L. Meadows, Jørgen Randers, and William W. Behrens III. (1972) The Limits to Growth. New York: University Books. 
+* Porritt, J. Capitalism as if the world matters, Earthscan 2005. 
+* Swirski, Peter. Of Literature and Knowledge: Explorations in Narrative Thought Experiments, Evolution, and Game Theory. New York: Routledge. 
+* Thomson, David G. Blueprint to a Billion: 7 Essentials to Achieve Exponential Growth, Wiley Dec 2005, 
+* Tsirel, S. V. 2004. urltoken On the Possible Reasons for the Hyperexponential Growth of the Earth Population. Mathematical Modeling of Social and Economic Dynamics / Ed. by M. G. Dmitriev and A. P. Petrov, pp.&nbsp;367–9. Moscow: Russian State Social University, 2004.
+==External links==
+* urltoken Growth in a Finite World – Sustainability and the Exponential Function — Presentation
+* urltoken Dr. Albert Bartlett: Arithmetic, Population and Energy — streaming video and audio 58 min
+
+Exponential growth is a process that increases quantity over time. It occurs when the instantaneous rate of change (that is, the derivative) of a quantity with respect to time is proportional to the quantity itself. Described as a function, a quantity undergoing exponential growth is an exponential function of time, that is, the variable representing time is the exponent (in contrast to other types of growth, such as quadratic growth). 
+If the constant of proportionality is negative, then the quantity decreases over time, and is said to be undergoing exponential decay instead. In the case of a discrete domain of definition with equal intervals, it is also called geometric growth or geometric decay since the function values form a geometric progression.
+The formula for exponential growth of a variable x at the growth rate r, as time t goes on in discrete intervals (that is, at integer times&nbsp;0,&nbsp;1,&nbsp;2,&nbsp;3,&nbsp;.), is
+:<math>x_t = x_0(1+r)^t</math>
+where x<sub>0</sub> is the value of x at time 0. The growth of a bacterial colony is often used to illustrate it. One bacterium splits itself into two, each of which splits itself resulting in four, then eight, 16, 32, and so on. The rate of increase keeps increasing because it is proportional to the ever-increasing number of bacteria. Growth like this is observed in real-life activity or phenomena, such as the spread of virus infection, the growth of debt due to compound interest, and the spread of viral videos. In real cases, initial exponential growth often does not last forever, instead slowing down eventually due to upper limits caused by external factors and turning into logistic curve.

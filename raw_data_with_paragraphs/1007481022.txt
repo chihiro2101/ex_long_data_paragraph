@@ -1,0 +1,105 @@
+XML Schema (W3C)
+
+==History==
+XML Schema, published as a W3C recommendation in May 2001,<ref></ref> is one of several XML schema. It was the first separate schema language for XML to achieve Recommendation status by the W3C. Because of confusion between XML Schema as a specific W3C specification, and the use of the same term to describe schema languages in general, some parts of the user community referred to this language as WXS, an initialism for W3C XML Schema, while others referred to it as XSD, an initialism for XML Schema Definition.<ref>See urltoken Schema - W3C</ref><ref>See urltoken W3C XML Schema Definition Language (XSD) 1.1 Part 1: Structures</ref> In Version 1.1 the W3C has chosen to adopt XSD as the preferred name, and that is the name used in this article.
+In its appendix of references, the XSD specification acknowledges the influence of DTDs and other early XML schema efforts such as DDML, SOX, XML-Data, and XDR. It has adopted features from each of these proposals but is also a compromise among them. Of those languages, XDR and SOX continued to be used and supported for a while after XML Schema was published. A number of Microsoft products supported XDR until the release of MSXML 6.0 (which dropped XDR in favor of XML Schema) in December 2006.<ref></ref> Commerce One, Inc. supported its SOX schema language until declaring bankruptcy in late 2004.
+The most obvious features offered in XSD that are not available in XML's native Document Type Definitions (DTDs) are namespace awareness and datatypes, that is, the ability to define element and attribute content as containing values such as integers and dates rather than arbitrary text.
+The XSD 1.0 specification was originally published in 2001, with a second edition following in 2004 to correct large numbers of errors. XSD 1.1 became a W3C Recommendation in urltoken April 2012.
+== Schemas and schema documents ==
+Technically, a schema is an abstract collection of metadata, consisting of a set of schema components: chiefly element and attribute declarations and complex and simple type definitions. These components are usually created by processing a collection of schema documents, which contain the source language definitions of these components. In popular usage, however, a schema document is often referred to as a schema.
+Schema documents are organized by namespace: all the named schema components belong to a target namespace, and the target namespace is a property of the schema document as a whole. A schema document may include other schema documents for the same namespace, and may import schema documents for a different namespace.
+When an instance document is validated against a schema (a process known as assessment), the schema to be used for validation can either be supplied as a parameter to the validation engine, or it can be referenced directly from the instance document using two special attributes, <code>xsi:schemaLocation</code> and <code>xsi:noNamespaceSchemaLocation</code>. (The latter mechanism requires the client invoking validation to trust the document sufficiently to know that it is being validated against the correct schema. "xsi" is the conventional prefix for the namespace " urltoken 
+XML Schema Documents usually have the filename extension ".xsd". A unique Internet media type is not yet registered for XSDs, so "application/xml" or "text/xml" should be used, as per RFC 3023.
+==Schema components==
+The main components of a schema are:
+* Element declarations, which define properties of elements. These include the element name and target namespace. An important property is the type of the element, which constrains what attributes and children the element can have. In XSD 1.1, the type of the element may be conditional on the values of its attributes. An element may belong to a substitution group; if element E is in the substitution group of element H, then wherever the schema permits H to appear, E may appear in its place. Elements may have integrity constraints: uniqueness constraints determining that particular values must be unique within the subtree rooted at an element, and referential constraints determining that values must match the identifier of some other element. Element declarations may be global or local, allowing the same name to be used for unrelated elements in different parts of an instance document.
+* Attribute declarations, which define properties of attributes. Again the properties include the attribute name and target namespace. The attribute type constrains the values that the attribute may take. An attribute declaration may also include a default value or a fixed value (which is then the only value the attribute may take.)
+* Simple and complex types. These are described in the following section.
+* Model group and attribute group definitions. These are essentially macros: named groups of elements and attributes that can be reused in many different type definitions.
+* An attribute use represents the relationship of a complex type and an attribute declaration, and indicates whether the attribute is mandatory or optional when it is used in that type.
+* An element particle similarly represents the relationship of a complex type and an element declaration, and indicates the minimum and maximum number of times the element may appear in the content. As well as element particles, content models can include model group particles, which act like non-terminals in a grammar: they define the choice and repetition units within the sequence of permitted elements. In addition, wildcard particles are allowed, which permit a set of different elements (perhaps any element provided it is in a certain namespace).
+Other more specialized components include annotations, assertions, notations, and the schema component which contains information about the schema as a whole.
+==Types==
+Simple types (also called data types) constrain the textual values that may appear in an element or attribute. This is one of the more significant ways in which XML Schema differs from DTDs. For example, an attribute might be constrained to hold only a valid date or a decimal number.
+XSD provides a set of 19 primitive data types (<code>anyURI</code>, <code>base64Binary</code>, <code>boolean</code>, <code>date</code>, <code>dateTime</code>, <code>decimal</code>, <code>double</code>, <code>duration</code>, <code>float</code>, <code>hexBinary</code>, <code>gDay</code>, <code>gMonth</code>, <code>gMonthDay</code>, <code>gYear</code>, <code>gYearMonth</code>, <code>NOTATION</code>, <code>QName</code>, <code>string</code>, and <code>time</code>). It allows new data types to be constructed from these primitives by three mechanisms:
+* restriction (reducing the set of permitted values),
+* list (allowing a sequence of values), and
+* union (allowing a choice of values from several types).
+Twenty-five derived types are defined within the specification itself, and further derived types can be defined by users in their own schemas.
+The mechanisms available for restricting data types include the ability to specify minimum and maximum values, regular expressions, constraints on the length of strings, and constraints on the number of digits in decimal values. XSD 1.1 again adds assertions, the ability to specify an arbitrary constraint by means of an XPath 2.0 expression.
+Complex types describe the permitted content of an element, including its element and text children and its attributes. A complex type definition consists of a set of attribute uses and a content model. Varieties of content model include:
+* element-only content, in which no text may appear (other than whitespace, or text enclosed by a child element)
+* simple content, in which text is allowed but child elements are not
+* empty content, in which neither text nor child elements are allowed
+* mixed content, which permits both elements and text to appear
+A complex type can be derived from another complex type by restriction (disallowing some elements, attributes, or values that the base type permits) or by extension (allowing additional attributes and elements to appear). In XSD 1.1, a complex type may be constrained by assertions — XPath 2.0 expressions evaluated against the content that must evaluate to true.
+== Post-Schema-Validation Infoset ==
+After XML Schema-based validation, it is possible to express an XML document's structure and content in terms of the data model that was implicit during validation. The XML Schema data model includes:
+* The vocabulary (element and attribute names)
+* The content model (relationships and structure)
+* The data types
+This collection of information is called the Post-Schema-Validation Infoset (PSVI). The PSVI gives a valid XML document its "type" and facilitates treating the document as an object, using object-oriented programming (OOP) paradigms.
+==Secondary uses for XML Schemas==
+The primary reason for defining an XML schema is to formally describe an XML document; however the resulting schema has a number of other uses that go beyond simple validation.
+===Code generation===
+The schema can be used to generate code, referred to as XML Data Binding. This code allows contents of XML documents to be treated as objects within the programming environment.
+===Generation of XML file structure documentation===
+The schema can be used to generate human-readable documentation of an XML file structure; this is especially useful where the authors have made use of the annotation elements. No formal standard exists for documentation generation, but a number of tools are available, such as the Xs3p stylesheet, that will produce high quality readable HTML and printed material.
+==Criticism==
+Although XML Schema is successful in that it has been widely adopted and largely achieves what it set out to, it has been the subject of a great deal of severe criticism, perhaps more so than any other W3C Recommendation.
+Good summaries of the criticisms are provided by James Clark,<ref>James Clark summary of XML Schema criticisms, and promotion of RELAX NG as an alternative, 
+ urltoken Anders Møller and Michael Schwartzbach,<ref>Anders Møller and Michael I. Schwartzbach presents "Problems with XML Schema", urltoken Rick Jelliffe<ref>Rick Jelliffe critique in May 2009, urltoken and David Webber.<ref>David Webber OASIS comparison and insights white paper from August 2008, urltoken 
+General problems:
+* It is too complicated (the spec is several hundred pages in a very technical language), so it is hard to use by non-experts &ndash; but many non-experts need schemas to describe data formats. The W3C Recommendation itself is extremely difficult to read. Most users find urltoken W3Cs XML Schema Primer much easier to understand.
+* XSD lacks any formal mathematical specification. (This makes it difficult to reason about schemas, for example to prove that a modification to a schema is backwards compatible.)
+* There are many surprises in the language, for example that restriction of elements works differently from restriction of attributes.
+Practical limitations of expressibility:
+* XSD offers very weak support for unordered content.
+* XSD cannot require a specific root element (so extra information is required to validate even the simplest documents).
+* When describing mixed content, the character data cannot be constrained in any way (not even a set of valid characters can be specified).
+* Content and attribute declarations cannot depend on attributes or element context (this was also listed as a central problem of DTD).
+* It is not 100% self-describing (as a trivial example, see the previous point), even though that was an initial design requirement.
+* Defaults cannot be specified separately from the declarations (this makes it hard to make families of schemas that only differ in the default values); element defaults can only be character data (not containing markup).
+Technical problems:
+* Although it technically is namespace-conformant, it does not seem to follow the namespace spirit (e.g. "unqualified locals").
+* XSD 1.0 provided no facilities to state that the value or presence of one attribute is dependent on the values or presence of other attributes (so-called co-occurrence constraints). This has been fixed in XSD 1.1.
+* The set of XSD datatypes on offer is highly arbitrary.<ref>
+This point is amplified by Uche Ogbuji urltoken More on XML class warfare - O'Reilly ONLamp Blog</ref>
+* The two tasks of validation and augmentation (adding type information and default values) should be kept separate.
+==Version 1.1==
+XSD 1.1 became a W3C Recommendation in urltoken April 2012, which means it is an approved W3C specification.
+Significant new features in XSD 1.1 are:
+*The ability to define assertions against the document content by means of XPath 2.0 expressions (an idea borrowed from Schematron).
+*The ability to select the type against which an element will be validated based on the values of the element's attributes ("conditional type assignment").
+*Relaxing the rules whereby explicit elements in a content model must not match wildcards also allowed by the model.
+*The ability to specify wildcards (for both elements and attributes) that apply to all types in the schema, so that they all implement the same extensibility policy.
+Until the Proposed Recommendation draft, XSD 1.1 also proposed the addition of a new numeric data type, precisionDecimal. This proved controversial, and was therefore dropped from the specification at a late stage of development.
+==See also==
+*List of XML schemas - list of XML schemas in use on the Internet sorted by purpose
+*RELAX NG - another XML schema language (an ISO international standard) that is often used with XSD datatypes
+*XML Schema Editor - Information about XSD Tools
+*XML schema languages - Compares XSD to other XML schema languages.
+*Unique Particle Attribution
+*Canonical model
+==References==
+==Further reading==
+*Definitive XML Schema, Priscilla Walmsley, Prentice-Hall, 2001, 
+*XML Schema, Eric van der Vlist, O'Reilly, 2001, 
+*The XML Schema Companion, Neil Bradley, Addison-Wesley, 2003, 
+*Professional XML Schemas, Jon Ducket et al., Wrox Press, 2001, 
+*XML Schemas, Lucinda Dykes et al., Sybex, 
+==External links==
+W3C XML Schema 1.0 Specification
+* urltoken XSD 1.0 Primer
+* urltoken XSD 1.0 Structures
+* urltoken XSD 1.0 Datatypes
+* urltoken Tools
+W3C XML Schema 1.1 Specification
+* urltoken XSD 1.1 Structures
+* urltoken XSD 1.1 Datatypes
+Other
+*
+* urltoken SPARQL2XQuery Transform XML Schema to OWL. Map XML Schemas and OWL-RDF/S ontologies.
+
+XSD (XML Schema Definition), a recommendation of the World Wide Web Consortium (W3C), specifies how to formally describe the elements in an Extensible Markup Language (XML) document. It can be used by programmers to verify each piece of item content in a document, to assure it adheres to the description of the element it is placed in.<ref>" urltoken Definition XSD (XML Schema Definition)" TechTarget, retrieved 10 June 2014</ref>
+Like all XML schema, XSD can be used to express a set of rules to which an XML document must conform to be considered "valid" according to that schema. However, unlike most other schema languages, XSD was also designed with the intent that determination of a document's validity would produce a collection of information adhering to specific data types. Such a post-validation infoset can be useful in the development of XML document processing software.

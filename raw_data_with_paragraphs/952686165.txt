@@ -1,0 +1,84 @@
+Wikipedia:Free or semi-free non-Public-Domain information resources
+
+==Environment==
+* urltoken Envirowiki Australian environment wiki. Licensed under Creative Commons.
+* urltoken Greenlivingpedia Australian environment wiki. Licensed under Creative Commons.
+* urltoken Tip the Planet Environmental tips wiki. Licensed under Creative Commons.
+==General==
+* urltoken The Wonderlusters Free high-resolution travel photographs under Creative Commons.
+* urltoken Texturegen Free quality high resolution textures.
+* urltoken Alegri Photos Good quality images under creative commons licence.
+* urltoken Download Free Images a collection of high quality stock photographs under creative commons licence.
+* urltoken FREEres.info a comprehensive listing of sites offering free stock photos, vectors, textures and other design resources
+* urltoken Photogen high-resolution stock photos free for commercial and personal use
+* urltoken Andamooka.org
+* <s> urltoken OpenContent.org (officially close on June 30, 2003)</s>
+* urltoken Connected: An Internet Encyclopedia was last updated in 1997. Here is their urltoken license: "Copying and redistribution of Connected: An Internet Encyclopedia is freely permitted, as is the creation, copying, and distribution of derivative works. The Requests For Comments (RFCs) are covered by a separate copyright, included below." I think we should contact the editor before importing anything into Wikipedia.
+:: I guess it was updated since, though the main page wasn't: have a look at urltoken 
+* <s> urltoken Free images, liberal license but check it anyway. Not compatible with GFDL: "You must not redistribute the images in anyway designed for reuse".</s>
+* urltoken WebMuseum - their urltoken license agreement is based on the Creative Commons License Attribution-ShareAlike 1.0 License; however, it explicitly allows (under point 7) copying under the GNU FDL. Contains information about art styles and painters, and images of artworks. Note: The WebMusum article on Hiroshige is identical to Encarta's.
+* urltoken The UK Public Records Office publishes documents that are Crown Copyright This allows "accurate" reproduction with an acknowledgment for some materials - not images for example. 
+* urltoken GNU miscfiles project
+* urltoken ShutterGlow.com - Website not working as of July 2016. Wayback machine still allows access. A collection of high resolution free photos under CC 3.0 attribution license
+* urltoken Free Stock Photos from Cepolina Photos We now have OTRS permission for all the images from www.cepolina.com. Please use urltoken this image as reference for license and OTRS ticket.
+* urltoken (In Japanese).
+* urltoken has extensive information on the Spanish Civil War, albeit from a left political POV. Their webmaster Tomas Capdevila says, "I explicitly allow anyone to copy the text content on La Cucaracha The Spanish Civil War web site and reuse it, unchanged or changed, with or without mentioning the source, partially or as a whole, with the exception of text being marked as belonging to another author (like quotations) or mirrored web pages. Please notice that some of the photography's could be copyrighted in your country."
+* Dmoz A community created directory of websites licensed under the Open Directory License
+* urltoken University of Wisconsin Digital Collections a large database of images and sound files (recently passed the 1&nbsp;million file mark), many of which explicitly allow fair use rights, many other images published before 1923 (see the individual file's page in the collection for specific rights).
+* The Boletín Oficial del Estado (Spanish state official paper) has set up a urltoken web site with scanned images of ALL of its content from 1875 up to 1967. It's part of a more general urltoken site. It makes available all laws and decrees of the Spanish government (including both sides during the Spanish Civil War) and many other petty official documents. Laws should generally be public domain, and some other documents will be old enough to be public domain. Someone may want to look into the legal status of these materials, it's possible that the bulk of the site is public domain, in which case someone may want to move this item to Wikipedia:Public domain.
+==Religion==
+===Christianity===
+*Wikia:Christianity Licensed under Creative Commons
+* urltoken Wikichristian Licensed under Creative Commons 
+* urltoken Apologetics Wiki Christian Apologetics - Licensed under Creative Commons
+*Wikia:leftbehind Licensed under Creative Commons
+* urltoken OrthodoxWiki Eastern Christianity - Licensed under Creative Commons and GFDL
+* urltoken Reformed Word Licensed under Creative Commons
+* urltoken Salvation Army Wiki Licensed under Creative Commons
+* urltoken Theopedia Theology - Licensed under Creative Commons
+==Social and arts==
+* urltoken Flags of the World 12,900 pages about flags and view more than 23,000 images of flags (be careful in referring to them, as many of them, minor flags specially and by Jaume Ollé, seem completely invented - verify with other sources too).
+* urltoken Free Music! (Dead Link) Recordings of works of classical music in the public domain, released under the EFF's Open Audio License copyleft.
+* urltoken Internet History Sourcebooks A collection of public domain and "copy permitted" (whatever that means) historical source documents collected by Paul Halsall at Fordham -- note: he claims copyright on some forms of these documents.
+* urltoken Soil and Health Library: A collection of books on holistic agriculture, holistic health, self-sufficient living, and personal development. Some books are in the public domain, others are not.
+* urltoken DICT.org: Collection of dictionary databases in the public domain or under other free or semi-free licenses including GFDL consist of several public domain and semi-free dictionary resources. urltoken 
+* urltoken Open Music Registry - works under Open Audio License.
+* urltoken MusicBrainz - MusicBrainz content about recorded music is public domain and Open Audio License.
+* urltoken UNCG Libraries, Archives and Manuscripts Department - Finding aids for manuscript collections documenting historical figures and organizations. Abstracted information about the subject/collection may be shared freely, content of the collections themselves may be protected under copyright.
+* urltoken LGBT History UK project Online encyclopedia of lesbian, gay, bisexual and transgender life in the United Kingdom throughout history. Licensed under Creative Commons.
+==Societies, Communities and Cultures==
+* urltoken Community Portal for Bhavsar Kshatriya Samaj Bhavsar Kshatriya Samaj, as name suggests is a community of Kshatriyas (the warriors). It is an ancient Community originating from the North Western part of India, stretching all the way towards the South Indian Territories. However this Community isn’t enclosed by the Indian Border, rather its members have been successfully flourishing over the boundaries of Seven Seas. The website www.bhavsarsamaj.com is enriched with social, cultural, rituals and other details about this ancient community.
+==Science and technology==
+* urltoken Body1, Inc./The Body1 Network. A targeted patient education portal online.
+*<s> urltoken Uranium Information Centre (Australia) (Closed in 2008)</s> Has educational info on nuclear and uranium industries - bottom of page states that most material on the UIC Web Site (specific exceptions listed) may be used or reproduced freely, with acknowledgment. 
+* urltoken Lessons in Electric Circuits by Tony R. Kuphaldt: a series of six textbooks about electronics, under the Design Science License.
+* Javapedia, a wiki encyclopedia for Java related topics, published under the Creative Commons License (Attribution License v1.0).
+* urltoken The Connexions Project, a project held by Rice University, features dozens of urltoken complete courses mostly in Mathematics and Electrical engineering. All content is covered by the Creative Commons License (Atrribution License v1.0). Can be copied/adopted to Wikipedia with a proper attribution. From their site: Connexions is a collaborative, community-driven approach to authoring, teaching, and learning that seeks to provide a cohesive body of high-quality educational content to anyone in the world, for free.
+* Infosecpedia is a wiki encyclopedia and handbook for information security related topics, published under the Creative Commons License (Attribution License v1.0).
+* urltoken Encyclopedia of Laser Physics and Technology by Dr. Rüdiger Paschotta, published online by RP Photonics Consulting GmbH; it focuses on laser technology, as well as fiber-optic technology, nonlinear optics and various supplementary topics. Direct copying of text and illustrations urltoken requires asking for permission. 
+===Life Science===
+* urltoken A vast number of Biomedical Images licensed under the creative commons attribution licence
+* urltoken Blaikiewell Animal Sanctuary has free photographs of animals, plants, fungus, frost, etc. All can be tagged as <nowiki></nowiki>.
+* Canadian Wildlife Service "Hinterland Who's Who". urltoken Useful material on various birds and mammals.
+* The urltoken California Bureau of Land Management provides a large number of photographs and images (particularly of wildlife and natural locations). It requests photo credit, and its copyright release states that "Photographs and images may be used free of charge for print and electronic publications. Photos and images may not be used to show, by implication or otherwise, that the U.S. Department of the Interior or BLM endorses any product, service or political view." 
+* PLoS Biology urltoken is a peer-reviewed journal licensed under a Creative Commons Attribution License. 
+* PLoS Medicine urltoken is a peer-reviewed journal licensed under a Creative Commons Attribution License (and similarly for the growing family of journals beginning with PLoS.)
+* urltoken Encyclopedia of Life. Creative Commons licenses that vary by article.
+==Useful searches==
+* urltoken everystockphoto.com - Searching over 2.2 million free photos, including a variety of non-PD licenses. Free user accounts allow drag and drop collections, rating, tagging, and advanced search. 
+* urltoken PicFindr.com - Searches hand picked Free stock photo-, public domain-, and photo community sites. Includes the ability to search by rights! (whether you need to give credit, ask permission or not)
+* Creative Commons images on Flickr: urltoken 
+* urltoken Search for content licensed under the Creative Commons License, Note: this search will return more than 100,000 results, however, the vast majority of these are not GFDL compatible, look for content that have either:
+*# No restriction.
+*# Only the "attribution" and/or "share-alike" restrictions. (please provide appropriate attribution when copying from such content)
+* urltoken 
+;See also:
+* Wikipedia:Creative Commons licenses
+* Wikipedia:Public domain resources
+* Wikipedia:Granting work into the public domain
+
+These resources are copyrighted and licensed under terms that allow free redistribution in some form. There may be requirements to credit the original authors, or restrictions on making modifications. Check the license posted on each site for such restrictions. Note well: many of these sources cannot be used directly in Wikipedia. See open content for more details.
+To make the distinction between these items and public domain and GFDL resources clear, 
+* please move public domain resources to the Wikipedia:Public domain resources page, and 
+* move all GFDL-licensed resources to the new Wikipedia:GNU Free Documentation License resources page.
+Free or semi-free non-public-domain information resources:

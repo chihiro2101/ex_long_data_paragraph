@@ -1,0 +1,47 @@
+Magnesium oxide
+
+==Production==
+Magnesium oxide is produced by the calcination of magnesium carbonate or magnesium hydroxide. The latter is obtained by the treatment of magnesium chloride solutions, typically seawater, with limewater or milk of lime.<ref name = ullmann></ref>
+:Mg<sup>2+</sup> + Ca(OH)<sub>2</sub> → Mg(OH)<sub>2</sub> + Ca<sup>2+</sup>
+Calcining at different temperatures produces magnesium oxide of different reactivity. High temperatures 1500 – 2000&nbsp;°C diminish the available surface area and produces dead-burned (often called dead burnt) magnesia, an unreactive form used as a refractory. Calcining temperatures 1000 – 1500&nbsp;°C produce hard-burned magnesia, which has limited reactivity and calcining at lower temperature, (700–1000&nbsp;°C) produces light-burned magnesia, a reactive form, also known as caustic calcined magnesia. Although some decomposition of the carbonate to oxide occurs at temperatures below 700&nbsp;°C, the resulting materials appears to reabsorb carbon dioxide from the air.<ref></ref>
+==Applications==
+MgO is prized as a Refractory, i.e. a solid that is physically and chemically stable at high temperatures. It has two useful attributes: high thermal conductivity and low electrical conductivity. Filling the spiral Calrod range top heating elements on kitchen electric stoves is a major use. "By far the largest consumer of magnesia worldwide is the refractory industry, which consumed about 56&nbsp;% of the magnesia in the United States in 2004, the remaining 44&nbsp;% being used in agricultural, chemical, construction, environmental, and other industrial applications."<ref></ref> MgO is used as a basic refractory material for crucibles.
+It is a principal fireproofing ingredient in construction materials. As a construction material, magnesium oxide wallboards have several attractive characteristics: fire resistance, termite resistance, moisture resistance, mold and mildew resistance, and strength.<ref></ref>
+===Niche uses ===
+MgO is one of the components in Portland cement in dry process plants.
+Magnesium oxide is used extensively in the soil and groundwater remediation, wastewater treatment, drinking water treatment, air emissions treatment, and waste treatment industries for its acid buffering capacity and related effectiveness in stabilizing dissolved heavy metal species.
+Many heavy metals species, such as lead and cadmium are most soluble in water at acidic pH (below 6) as well as high pH (above 11). Solubility of metals affects bioavailability of the species and mobility soil and groundwater systems. Most metal species are toxic to humans at certain concentrations, therefore it is imperative to minimize metal bioavailability and mobility.
+Granular MgO is often blended into metals-contaminated soil or waste material, which is also commonly of a low (acidic) pH, in order to drive the pH into the 8–10 range where most metals are at their lowest solubilities. Metal-hydroxide complexes have a tendency to precipitate out of aqueous solution in the pH range of 8–10. MgO is widely regarded as the most effective metals stabilization compound when compared to Portland cement, lime, kiln dust products, power generation waste products, and various proprietary products due to MgO's superior buffering capacity, cost effectiveness, and ease/safety of handling.
+Most, if not all products that are marketed as metals stabilization technologies create very high pH conditions in aquifers whereas MgO creates an ideal aquifer condition with a pH of 8–10. Additionally, magnesium, an essential element to most biological systems, is provided to soil and groundwater microbial populations during MgO-assisted metals remediation as an added benefit.
+===Medical===
+Magnesium oxide is used for relief of heartburn and dyspepsia, as an antacid, magnesium supplement, and as a short-term laxative. It is also used to improve symptoms of indigestion. Side effects of magnesium oxide may include nausea and cramping.<ref> urltoken Magnesium Oxide. MedlinePlus. Last reviewed 02/01/2009</ref> In quantities sufficient to obtain a laxative effect, side effects of long-term use include enteroliths resulting in bowel obstruction.<ref></ref>
+===Other===
+* As a food additive, it is used as an anticaking agent. It is known to the US Food and Drug Administration for cacao products; canned peas; and frozen dessert.<ref></ref> It has an E number of E530.
+* It was historically used as a reference white color in colorimetry, owing to its good diffusing and reflectivity properties.<ref></ref> It may be smoked onto the surface of an opaque material to form an integrating sphere.
+* It is used extensively as an electrical insulator in tubular construction heating elements. There are several mesh sizes available and most commonly used ones are 40 and 80&nbsp;mesh per the American Foundry Society. The extensive use is due to its high dielectric strength and average thermal conductivity. MgO is usually crushed and compacted with minimal airgaps or voids. The electrical heating industry also experimented with aluminium oxide, but it is not used anymore.
+* As a reagent in the installation of the carboxybenzyl (Cbz) group using benzyl chloroformate in EtOAc for the N-protection of amines and amides.<ref></ref>
+* It is also used as an insulator in heat-resistant electrical cable.
+* MgO doping has been shown to effectively inhibit grain growth in ceramics and improve their fracture toughness by transforming the mechanism of crack growth at nanoscale.<ref></ref> 
+left
+* Pressed MgO is used as an optical material. It is transparent from 0.3 to 7&nbsp;µm. The refractive index is 1.72 at 1&nbsp;µm and the Abbe number is 53.58. It is sometimes known by the Eastman Kodak trademarked name Irtran-5, although this designation is obsolete. Crystalline pure MgO is available commercially and has a small use in infrared optics.<ref></ref>
+* MgO is packed around transuranic waste at the Waste Isolation Pilot Plant, to control the solubility of radionuclides.<ref> urltoken wipp.energy.gov Step-By-Step Guide for Waste Handling at WIPP. Waste Isolation Pilot Plant. wipp.energy.gov</ref>
+* MgO has an important place as a commercial plant fertilizer <ref> urltoken Nutrient Science. fertilizer101.org. Retrieved on 2017-04-26.</ref> and as animal feed.<ref> urltoken Magnesium oxide for the Animal Feed Industry. lehvoss.de</ref>
+* An aerosolized solution of MgO is used in library science and collections management for the deacidification of at-risk paper items. In this process, the alkalinity of MgO (and similar compounds) neutralizes the relatively high acidity characteristic of low-quality paper, thus slowing the rate of deterioration.<ref name=Deacidification></ref>
+* MgO is also used as a protective coating in plasma displays.
+* Magnesium oxide is used as an oxide barrier in spin-tunneling devices. Owing to the crystalline structure of its thin films, which can be deposited by magnetron sputtering, for example, it shows characteristics superior to those of the commonly used amorphous Al<sub>2</sub>O<sub>3</sub>. In particular, spin polarization of about 85% has been achieved with MgO<ref></ref> versus 40–60&nbsp;% with aluminium oxide.<ref></ref> The value of tunnel magnetoresistance is also significantly higher for MgO (600% at room temperature and 1,100&nbsp;% at 4.2 K<ref></ref>) than Al<sub>2</sub>O<sub>3</sub> (ca. 70% at room temperature<ref></ref>). MgO is thermally stable up to about 700&nbsp;K, vs. 600&nbsp;K for Al<sub>2</sub>O<sub>3</sub>.
+==Precautions==
+Inhalation of magnesium oxide fumes can cause metal fume fever.<ref> urltoken Magnesium Oxide. National Pollutant Inventory, Government of Australia.</ref>
+==See also==
+*Calcium oxide
+*Barium oxide
+*Magnesium sulfide
+*Reactive magnesia
+==References==
+==External links==
+* urltoken Data page at UCL
+* urltoken Ceramic data page at NIST
+* urltoken NIOSH Pocket Guide to Chemical Hazards at CDC
+
+Magnesium oxide (MgO), or magnesia, is a white hygroscopy solid mineral that occurs naturally as periclase and is a source of magnesium (see also oxide). It has an empirical formula of and consists of a lattice of Mg<sup>2+</sup> ions and O<sup>2−</sup> ions held together by ionic bonding. Magnesium hydroxide forms in the presence of water (MgO + H<sub>2</sub>O → Mg(OH)<sub>2</sub>), but it can be reversed by heating it to remove moisture.
+Magnesium oxide was historically known as magnesia alba (literally, the white mineral from Magnesia – other sources give magnesia alba as MgCO<sub>3</sub>), to differentiate it from magnesia negra, a black mineral containing what is now known as manganese.
+While "magnesium oxide" normally refers to MgO, magnesium peroxide MgO<sub>2</sub> is also known as a compound. According to evolutionary crystal structure prediction,<ref></ref> MgO<sub>2</sub> is thermodynamically stable at pressures above 116 GPa (gigapascals), and a semiconducting suboxide Mg<sub>3</sub>O<sub>2</sub> is thermodynamically stable above 500 GPa. Because of its stability, MgO is used as a model system for investigating vibrational properties of crystals.<ref></ref>

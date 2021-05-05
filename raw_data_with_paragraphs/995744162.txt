@@ -1,0 +1,58 @@
+Fravia
+
+==Fravia as Francesco Vianello==
+In the 1980s, he was a member of the Esteban Canal chess club in Venice, before moving to CES in Brussels.<ref>Tommaso Dorigo (2009) urltoken "Farewell, Chicco!" on Scientific Blogging</ref>
+Graduated in history at the University of Venice in 1994, Vianello had a master's degree in history and philosophy in 1999.<ref>&nbsp;</ref> He was interested in studying the arts and humanities and was aiming to build a collective knowledge on the particular subject of learning and Web-searching as an art.<ref>Fravia (2006) urltoken "Websearching, the sublime art"</ref>
+He spoke six languages (including Latin).<ref name=Chaos></ref> Fravia participated as a speaker in the 22nd Chaos Communication Congress. His lecture was on the subject of Hacking.<ref name=Chaos2></ref>
+==Fravia as Fravia==
+Vianello was focusing on privacy and created the myth of Fjalar Ravia<ref name="McNamara2003"/><ref>Fravia (2005) urltoken "Fjalar Ravia", fictional biography on Searchlores.org</ref> (aka fravia+, msre, Spini, Red Avenger, ~S~ Sustrugiel, Pellet, Ravia F.<ref name="Subhasish2005"></ref>) as protection from hostile seekers.
+At least two distinct phases of his internet public work can be identified.
+* The first, from 1995 (starting date of his internet presence) to 1999 was related to software reversing, software protection, decompiling, disassembling, and deep software code deconstruction.<ref name=Chaos2/> At those times the WDasm disassembler by Eric Grass, which also included a debugger, was a popular download.<ref name="Kaspersky2007"></ref>
+* The second, starting in 2000, where the first stage left off, was focused on an (apparently) entirely different field: Internet Knowledge search.<ref name=Chaos2/> In February 2001, Vianello made a conference at the École Polytechnique in Paris about "The art of information searching on today's Internet".<ref>Fravia (2001) urltoken Six parts workshop on "The art of information searching on today's Internet" (through Internet Archive)</ref> He also presented his work "Wizard searching: reversing the commercial Web for fun and knowledge" at REcon 2005.<ref name="StreetNabors2011"></ref>
+===First Period: Reverse Engineering ("Reality Cracking")===
+In the first period Vianello focused on reverse-engineering software protection, content copyright, and software patents. The steps for cracking software protection were in many cases published on his website, in the form of essays and Old Red Cracker's lessons.<ref> urltoken +ORC Cracking lessons</ref>
+Vianello asked the community to remove from the web every copy of his old site (www.fravia.org - now a spam advertisement website), corresponding to this period,<ref>Fravia (1999) </ref> because "The idea was to convert young crackers . The experiment worked only in part, hence the decision a couple of years ago to freeze that site".<ref>
+Fravia, urltoken "Searching problems, web problems: Ethical problems" 
+</ref> Nevertheless, some mirrors still exist. The site has been described as containing "useful tools and products".<ref name="Cole2002"></ref>
+According to the 2001 ACM Multimedia Workshops of the Association for Computing Machinery, Vianello's website contained information which could assist hackers of a certain classification who were not skilled enough "to mount a new or novel attack".<ref></ref> His website also analysed brute force attacks on steganography.<ref name="Pfitzmann2000v2"></ref>
+This period included papers related to reality-cracking,<ref>Fravia, et al. (2009) urltoken "Reality cracking, an introduction"</ref> i.e. the capacity of the seeker to decode the hidden facts behind appearance.
+Reverse engineering a legitimately bought program and studying or modifying its code for knowledge was claimed as legal by Vianello at least in the European Union under some restricted conditions.<ref>Fravia (1998) urltoken "Is reverse engineering legal? Why we crack"</ref>
+===Second Period: Web Searching ("Search Lores")===
+The transition between the two phases occurred after realizing the growing importance of Internet search engines as tools to access information. According to his vision, access to information should not be restricted, and he was advocating for a true openness of web information contents. He strongly criticized the large amount of advertising on the Internet, which he considered as promoting unnecessary products to a population of naive consumers.
+Richard Stallman, in his web article "Ubuntu Spyware: What to do?", mentions that it was Vianello who alerted him to the fact that performing a file search on a computer running Microsoft Windows would cause it to send a network packet to an Internet server, which was then detected by the firewall in Vianello's computer.<ref></ref>
+In the second stage of his work, Vianello explained how the content is currently structured on the world wide web and the difficulties of finding relevant information through search engines because of the growing number of ads,<ref>Fravia, urltoken "Searching problems, web problems" </ref><ref>Fravia (2001) urltoken "How to search the Web volume, diameter and structure"</ref> that search engines promote today.
+In 2005, Vianello was the keynote speaker at the T2 infosec conference. The subject of his speech was: "The Web - Bottomless Cornucopia and Immense Garbage Dump".<ref name=T2></ref>
+==+HCU==
+Vianello was a member of the so-called High Cracking University (+HCU), founded by Old Red Cracker to advance research into Reverse Engineering (RCE). The addition of the "+" sign in front of the nickname of a reverser signified membership in the +HCU.<ref name="PeikariChuvakin2004"/>
++HCU published a new reverse engineering problem annually and a small number of respondents with the best replies qualified for an undergraduate position at the "university". Vianello's website was known as "+Fravia's Pages of Reverse Engineering" and he used it to challenge programmers as well as the wider society to "reverse engineer" the "brainwashing of a corrupt and rampant materialism". In its heyday, his website received millions of visitors per year and its influence was described as "widespread".<ref name="PeikariChuvakin2004"/>
+Nowadays most of the graduates of +HCU have migrated to Linux and few have remained as Windows reversers. The information at the university has been rediscovered by a new generation of researchers and practitioners of RCE who have started new research projects in the field.<ref name="PeikariChuvakin2004"/>
+==Legacy==
+Vianello has been described as an inspiration for many hackers and reversers, a friend of the founder of the CCC Wau Holland, and a motivation for Jon Lech Johansen to understand the inner workings of computer programs.<ref name="ccc-blog">Chaos Computer Club Events Blog. urltoken Johansen commented in a blog post that Fravia's site was a goldmine during his education as a reverse engineer.<ref>Jon Lech Johansen (2006) urltoken "Reverse Engineering", on his blog (retrieved on 2009-05-05)</ref> In his later years, he moved from software reversing to free software and searching the web further. His website has been described as the meeting point of the people who wanted to search the web deeper still.<ref name="ccc-blog"/>
+In September 2008, Vianello stopped updating his site and holding conferences, after being diagnosed with and receiving treatment for squamous cell carcinoma of the tonsil, which metastasized.<ref>Fravia (2008) urltoken Illness (through Internet Archive)</ref> His site was frozen for several months but was updated again on 9 March 2009 while he was slowly recovering and focusing on GNU/Linux.<ref>Fravia (2009) urltoken Illness, update (through Internet Archive)</ref> He died suddenly on Sunday, 3 May 2009 at the age of 56.<ref name="Announcement"></ref>
+==Published works==
+*Francesco Vianello, Gli Unruochingi e la famiglia di Beggo conte di Parigi. (ricerche sull'alta aristocrazia carolingia) // Bollettino dell'Istituto storico italiano per il Medioevo 91 (1984).
+*Francesco Vianello, Università di Padova, I mercanti di Chiavenna in età moderna visti dalla Terraferma veneta.
+*Francesco Vianello, &nbsp;
+*Fravia (ed.) Annotation and exegesis of Origo Gentis Langobardorum.<ref>
+</ref>
+==Notes and references==
+==External links==
+* urltoken An archive of Fravia's Searchlores (no longer updated)
+* urltoken Fravia's website (European mirror)
+* urltoken Fravia's Real Identity (European mirror)
+* urltoken Fravia's fake auto-biography (European mirror)
+* urltoken Fravia's farewell (April 2009) (European mirror)
+* urltoken Fravia at ccc congress 2005
+* urltoken Fravia at ccc congress 2002
+* urltoken Last known mirror of the original "reversing site"
+* urltoken Video of a Fravia conference presentation at Recon 2005 in Montreal
+* urltoken Video of a Fravia conference presentation at Recon 2006 in Montreal
+* urltoken I have seen the ICE age, by Malay
+* urltoken +Greythorne's Privacy Nexus (Fravia's Partner +gthorne)
+* urltoken Iczelion's Win32 Assembly Homepage
+
+Francesco Vianello (30 August 1952&nbsp;– 3 May 2009), better known by his nickname Fravia (sometimes +Fravia or Fravia+), was a reverse engineering,<ref name="Halbert1999"></ref><ref name="Gutmann2004"></ref><ref name="Sulianta"></ref> and hacker,<ref name="Kant2011"></ref> who maintained a web archive of reverse engineering techniques and papers.<ref name="StreetNabors2010"></ref><ref name="PeikariChuvakin2004"></ref> He also worked on steganography.<ref name="Pfitzmann2000"></ref> He taught on subjects such as data mining, anonymity and stalking.<ref name=Chaos/>
+Vianello spoke six languages (including Latin) and had a degree in the history of the early Middle Ages. He was an expert in linguistics-related informatics.<ref name=Chaos/> For five years he made available a large quantity of material related to reverse engineering through his website, which also hosted the advice of reverse engineering experts, known as reversers, who provided tutorials and essays on how to hack software code as well as advice related to the assembly and disassembly of applications,<ref name="McNamara2003"></ref><ref name="Slade2004"></ref> and software protection reversing.<ref name="Sulianta"/>
+Vianello's web presence dates from 1995 when he first got involved in research related to reverse code engineering (RCE). In 2000 he changed his focus and concentrated on advanced internet search methods and the reverse engineering of search engine code.<ref name="McNamara2003"/><ref name=T2/>
+His websites "www.fravia.com" and "www.searchlores.org" contained a large amount of specialised information related to data mining.<ref name=T2/> His website "www.searchlores.org" has been called a "very useful instrument for searching the web",<ref name="Donato2009"></ref> and his "www.fravia.com" site has been described as "required reading for any spy wanting to go beyond simple Google searches."<ref name="McNamara2003"/>
+There are still several mirrors of Fravia's old websites, even though the original domain names are no longer functional. The last mirror of Search Lores linked originally by Fravia directly from his website urltoken ("search.lores.eu") went offline in February 2020, but a new mirror came to existence later in 2020 at urltoken fravia.net.

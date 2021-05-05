@@ -1,0 +1,103 @@
+Software design pattern
+
+==History==
+Patterns originated as an architectural concept by Christopher Alexander as early as 1977 (c.f. "The Pattern of Streets," JOURNAL OF THE AIP, September, 1977, Vol. 32, No. 3, pp. 273-278). In 1987, Kent Beck and Ward Cunningham began experimenting with the idea of applying patterns to programming – specifically pattern languages – and presented their results at the OOPSLA conference that year.<ref name = "Smith1987"></ref><ref name = "Beck1987"></ref> In the following years, Beck, Cunningham and others followed up on this work.
+Design patterns gained popularity in computer science after the book Design Patterns was published in 1994 by the so-called "Gang of Four" (Gamma et al.), which is frequently abbreviated as "GoF". That same year, the first Pattern Languages of Programming Conference was held, and the following year the Portland Pattern Repository was set up for documentation of design patterns. The scope of the term remains a matter of dispute. Notable books in the design pattern genre include:
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+Although design patterns have been applied practically for a long time, formalization of the concept of design patterns languished for several years.<ref name = "Baroni2003"></ref>
+==Practice==
+Design patterns can speed up the development process by providing tested, proven development paradigms.<ref></ref> Effective software design requires considering issues that may not become visible until later in the implementation. Freshly written code can often have hidden subtle issues that take time to be detected, issues that sometimes can cause major problems down the road. Reusing design patterns helps to prevent such subtle issues,<ref></ref> and it also improves code readability for coders and architects who are familiar with the patterns.
+In order to achieve flexibility, design patterns usually introduce additional levels of indirection, which in some cases may complicate the resulting designs and hurt application performance.
+By definition, a pattern must be programmed anew into each application that uses it. Since some authors see this as a step backward from software reuse as provided by components, researchers have worked to turn patterns into components. Meyer and Arnout were able to provide full or partial componentization of two-thirds of the patterns they attempted.<ref name = "Meyer2006"></ref>
+Software design techniques are difficult to apply to a broader range of problems. Design patterns provide general solutions, documented in a format that does not require specifics tied to a particular problem.
+==Structure==
+Design patterns are composed of several sections (see below). Of particular interest are the Structure, Participants, and Collaboration sections. These sections describe a design motif: a prototypical micro-architecture that developers copy and adapt to their particular designs to solve the recurrent problem described by the design pattern. A micro-architecture is a set of program constituents (e.g., classes, methods.) and their relationships. Developers use the design pattern by introducing in their designs this prototypical micro-architecture, which means that micro-architectures in their designs will have structure and organization similar to the chosen design motif.
+===Domain-specific patterns===
+Efforts have also been made to codify design patterns in particular domains, including use of existing design patterns as well as domain specific design patterns. Examples include user interface design patterns,<ref></ref> information visualization,<ref></ref> secure design,<ref>
+</ref> "secure usability",<ref></ref> Web design <ref></ref> and business model design.<ref></ref>
+The annual Pattern Languages of Programming Conference proceedings <ref>Pattern Languages of Programming, Conference proceedings (annual, 1994—) urltoken include many examples of domain-specific patterns.
+==Classification and list==
+Design patterns had originally been categorized into 3 sub-classifications based on kind of problem they solve. Creational patterns provide the capability to create objects based on a required criterion and in a controlled way. Structural patterns are about organizing different classes and objects to form larger structures and provide new functionality. Finally, behavioral patterns are about identifying common communication patterns between objects and realize these patterns.
+=== Creational patterns ===
+==Documentation==
+The documentation for a design pattern describes the context in which the pattern is used, the forces within the context that the pattern seeks to resolve, and the suggested solution.<ref name = "GabrielHillside"></ref> There is no single, standard format for documenting design patterns. Rather, a variety of different formats have been used by different pattern authors. However, according to Martin Fowler, certain pattern forms have become more well-known than others, and consequently become common starting points for new pattern-writing efforts.<ref name = "Fowler2006"></ref> One example of a commonly used documentation format is the one used by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides in their book Design Patterns. It contains the following sections:
+*Pattern Name and Classification: A descriptive and unique name that helps in identifying and referring to the pattern.
+*Intent: A description of the goal behind the pattern and the reason for using it.
+*Also Known As: Other names for the pattern.
+*Motivation (Forces): A scenario consisting of a problem and a context in which this pattern can be used.
+*Applicability: Situations in which this pattern is usable; the context for the pattern.
+*Structure: A graphical representation of the pattern. Class diagrams and Interaction diagrams may be used for this purpose.
+*Participants: A listing of the classes and objects used in the pattern and their roles in the design.
+*Collaboration: A description of how classes and objects used in the pattern interact with each other.
+*Consequences: A description of the results, side effects, and trade offs caused by using the pattern.
+*Implementation: A description of an implementation of the pattern; the solution part of the pattern.
+*Sample Code: An illustration of how the pattern can be used in a programming language.
+*Known Uses: Examples of real usages of the pattern.
+*Related Patterns: Other patterns that have some relationship with the pattern; discussion of the differences between the pattern and similar patterns.
+==Criticism==
+It has been observed that design patterns may just be a sign that some features are missing in a given programming language (Java or C++ for instance). Peter Norvig demonstrates that 16 out of the 23 patterns in the Design Patterns book (which is primarily focused on C++) are simplified or eliminated (via direct language support) in Lisp or Dylan.<ref name="Norvig1998"></ref> Related observations were made by Hannemann and Kiczales who implemented several of the 23 design patterns using an Aspect-oriented programming (AspectJ) and showed that code-level dependencies were removed from the implementations of 17 of the 23 design patterns and that aspect-oriented programming could simplify the implementations of design patterns.<ref name="Hannemann2002"></ref>
+See also Paul Graham's essay "Revenge of the Nerds".<ref name="Graham2002">
+</ref>
+Inappropriate use of patterns may unnecessarily increase complexity.<ref name="CodeComplete2">
+</ref>
+==See also==
+*Abstraction principle
+*Algorithmic skeleton
+*Anti-pattern
+*Architectural pattern
+*Debugging patterns
+*Design pattern
+*Distributed design patterns
+*Double-chance function
+*Enterprise Architecture framework
+*GRASP (object-oriented design)
+*Helper class
+*Interaction design pattern
+*List of software development philosophies
+*List of software engineering topics
+*Pattern language
+*Pattern theory
+*Pedagogical patterns
+*Portland Pattern Repository
+*Refactoring
+*Software development methodology
+==References==
+==Further reading==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+*
+
+In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. Rather, it is a description or template for how to solve a problem that can be used in many different situations. Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.
+Object-oriented design patterns typically show relationships and interactions between classes or objects, without specifying the final application classes or objects that are involved. Patterns that imply mutable state may be unsuited for functional programming languages, some patterns can be rendered unnecessary in languages that have built-in support for solving the problem they are trying to solve, and object-oriented patterns are not necessarily suitable for non-object-oriented languages.
+Design patterns may be viewed as a structured approach to computer programming intermediate between the levels of a programming paradigm and a concrete algorithm.
+In a recent review study, Wedyan and Abufakher investigate design patterns and software quality and conclude: "Our study has shown that the primary studies provide an empirical evidence on the positive effect of documentation of designs pattern instances on program comprehension, and therefore, maintainability. While this result is not surprising, it has, however, two indications. First, developers should pay more effort to add such documentation, even if in the form of simple comments in the source code. Second, when comparing results of different studies, the effect of documentation has to be considered."<ref></ref>

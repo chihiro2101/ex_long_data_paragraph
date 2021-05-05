@@ -1,0 +1,169 @@
+Symphony No. 6 (Mahler)
+
+== Order of the inner movements and performance history issue ==
+Controversy exists over the order of the two middle movements. Mahler conceived the work as having the scherzo second and the slow movement third, a somewhat unclassical arrangement adumbrated in such earlier large-scale symphonies as Beethoven's No. 9, Bruckner's No. 8 and (unfinished) No. 9, and Mahler's own four-movement No. 1 and No. 4. It was in this arrangement that the symphony was completed (in 1904) and published (in March 1906); and it was with a conducting score in which the scherzo preceded the slow movement that Mahler began rehearsals for the work's first performance, as noted by Mahler biographer Henry-Louis De La Grange:
+<blockquote>"Scherzo 2" was undeniably the original order, the one in which Mahler first conceived, composed, and published the Sixth Symphony, and also the one in which he rehearsed the work with two different orchestras before changing his mind at the last minute before the premiere.<ref name="HLDLG2">De La Grange, Henry-Louis, Gustav Mahler, Volume 4: A New Life Cut Short, Oxford University Press (2008), pp. 1578-1587. .</ref></blockquote>
+Alfred Roller, a close collaborator and colleague of Mahler's in Vienna, communicated in a 2 May 1906 letter to his fiancée Mileva Stojsavljevic, on the Mahlers' reaction to the 1 May 1906 orchestral rehearsal of the work in Vienna, in its original movement order:
+<blockquote>Today I was there at noon, but I could not talk much with Alma, since Mahler was almost always there, I saw only that the two of them were very happy and satisfied.<ref name="HLDLG2"/></blockquote>
+During those later May 1906 rehearsals in Essen, however, Mahler decided that the slow movement should precede the scherzo. Klaus Pringsheim, another colleague of Mahler's at the Hofoper, reminisced in a 1920 article on the situation at the Essen rehearsals, on Mahler's state of mind at the time:
+<blockquote>Those close to him were well aware of Mahler's "insecurity". Even after the final rehearsal he was still not sure whether or not he had found the right tempo for the Scherzo, and had wondered whether he should invert the order of the second and third movements (which he subsequently did).<ref name="HLDLG2"/></blockquote>
+Mahler instructed his publishers C. F. Kahnt to prepare a "second edition" of the work with the movements in that order, and meanwhile to insert errata slips indicating the change of order into all unsold copies of the existing edition. Mahler conducted the 27 May 1906 public premiere, and his other two subsequent performances of the Sixth Symphony, in November 1906 (Munich) and 4 January 1907 (Vienna) with his revised order of the inner movements. In the period immediately after Mahler's death, scholars such as Paul Bekker, Ernst Decsey, Richard Specht, and Paul Stefan published studies with reference to the Sixth Symphony in Mahler's second edition with the Andante/Scherzo order.<ref name="HLDLG1"/>
+One of the first occasions after Mahler's death where the conductor reverted to the original movement order is in 1919/1920, after an inquiry in the autumn of 1919 from Willem Mengelberg to Alma Mahler in preparation for the May 1920 Mahler Festival in Amsterdam of the complete symphonies, regarding the order of the inner movements of the Sixth Symphony. In a telegram dated 1 October 1919, Alma responded to Mengelberg:<ref name="HLDLG1"/>
+<blockquote>Erst Scherzo dann Andante herzlichst Alma ("First Scherzo then Andante affectionately Alma")<ref name="HLDLG1"/> </blockquote>
+Mengelberg, who had been in close touch with Mahler until the latter's death, and had conducted the symphony in the "Andante/Scherzo" arrangement up to 1916, then switched to the "Scherzo/Andante" order. In his own copy of the score, he wrote on the first page:<ref name="HLDLG1"/>
+<blockquote>Nach Mahlers Angabe II erst Scherzo dann III Andante ("According to Mahler's indications, first II Scherzo, then III Andante")<ref name="HLDLG2"/> </blockquote>
+Other conductors, such as Oskar Fried, continued to perform (and eventually record) the work as 'Andante/Scherzo', per the second edition, right up to the early 1960s. Exceptions included two performances in Vienna conducted by Anton Webern, on 14 December 1930 and 23 May 1933, which utilised the Scherzo/Andante order of the inner movements, and both of which Anna Mahler, Mahler's daughter, attended.<ref name="HLDLG2"/>
+In 1963, a new critical edition of the Sixth Symphony appeared, under the auspices of the Internationale Gustav Mahler Gesellschaft (IGMG) and its president, Erwin Ratz, a pupil of Webern,<ref name="HLDLG2"/> an edition which restored Mahler's original order of the inner movements. Ratz, however, did not offer documented support, such as Alma Mahler's 1919 telegram, for his assertion that Mahler "changed his mind a second time" at some point before his death. In his analysis of the Sixth Symphony, Norman Del Mar argued for the Andante/Scherzo order of the inner movements,<ref name="Kubik"/><ref>Del Mar, Norman, Mahler's Sixth Symphony – A Study. Eulenberg Books (London), , pp. 34–64 (1980).</ref> and criticised the Ratz edition for its lack of documentary evidence to justify the Scherzo/Andante order. In contrast, scholars such as Theodor W. Adorno, Henry-Louis de la Grange, Hans-Peter Jülg and Karl-Heinz Füssl have argued for the original order as more appropriate, expostulating on the overall tonal scheme and the various relationships between the keys in the final three movements. Füssl, in particular, noted that Ratz made his decision under historical circumstances where the history of the different autographs and versions was not completely known at the time.<ref name="HLDLG1">De La Grange, Henry-Louis, Gustav Mahler: Volume 3. Vienna: Triumph and Disillusion, Oxford University Press (Oxford, UK), pp. 808-841 .</ref> Füssl has also noted the following features of the Scherzo/Andante order:<ref>Füssl, Karl Heinz, "Zur Stellung des Mittelsätze in Mahlers Sechste Symphonie". Nachricthen zur Mahler Forschung, 27, International Gustav Mahler Society (Vienna), March 1992.</ref>
+* The Scherzo is an example of 'developing variation' in its treatment of material from the first movement, where separation of the Scherzo from the first movement by the Andante disrupts that linkage.
+* The Scherzo and the first movement use identical keys, A minor at the beginning and F major in the trio.
+* The Andante's key, E major, is farthest removed from the key at the close of the first movement (A major), whilst the C minor key at the beginning of the finale acts as transition from E major to A minor, the principal key of the finale.
+The 1968 Eulenberg Edition of the Sixth Symphony, edited by Hans Redlich, restores most of Mahler's original orchestration and utilises the original order of Scherzo/Andante for the order of the middle movements.<ref name="Hurwitz"/> The most recent IGMG critical edition of the Sixth Symphony was published in 2010, under the general editorship of Reinhold Kubik, and uses the Andante/Scherzo order for the middle movements.<ref name="Hurwitz"/> Kubik had previously declared in 2004:
+: "As the current Chief Editor of the Complete Critical Edition, I declare the official position of the institution I represent is that the correct order of the middle movements of Mahler's Sixth Symphony is Andante-Scherzo."<ref name="Kubik"/>
+This statement has been criticised, in the manner of earlier criticism of Ratz, for itself lacking documentary support and for expressing a personal preference based on subjective animus related to the Alma Problem, rather than any actual documentary evidence,<ref name="Hurwitz"/> for its blanket dismissal of the evidence of the original score with the Scherzo/Andante order,<ref name="HLDLG2"/> and for imposing an advance bias rather than allowing musicians to arrive at their own choice independently.<ref name="Hurwitz"/>
+British composer David Matthews was a former adherent of the Andante/Scherzo order,<ref name="Darcy"/> but has since changed his mind and now argues for Scherzo/Andante as the preferred order, again citing the overall tonal scheme of the symphony.<ref name="DMatthews">Matthews, David, 'The Sixth Symphony', in The Mahler Companion (eds Donald Mitchell and Andrew Nicholson). Oxford University Press (Oxford, UK), , pp. 366–375 (1999).</ref> In keeping with Mahler's original order, British conductor John Carewe has noted parallels between the tonal plan of Beethoven's Symphony No. 7 and Mahler's Symphony No. 6, with the Scherzo/Andante order of movements in the latter. David Matthews has noted the interconnectivity of the first movement with the Scherzo as similar to Mahler's interconnectivity of the first two movements of the Fifth Symphony, and that performing the Mahler with the Andante/Scherzo order would damage the structure of the tonal key relationships and remove this parallel,<ref name="DMatthews"/> a structural disruption of what De La Grange has described as follows:
+<blockquote>.that very idea which many listeners today consider one of the most audacious and brilliant ever conceived by Mahler -: the linking of two movements - one in quadruple, the other in triple time - with more or less the same thematic material<ref name="HLDLG2"/></blockquote>
+Moreover, De La Grange, referring to the 1919 Mengelberg telegram, has questioned the notion of Alma simply expressing a personal view of the movement order, and reiterates the historical fact of the original movement order:
+<blockquote><poem>The fact that the initial order had the composer's stamp of approval for two whole years prior to the premiere argues for further performances in that form.
+It is far more likely ten years after Mahler's death and with a much clearer perspective on his life and career, Alma would have sought to be faithful to his artistic intentions. Thus, her telegram of 1919 still remains a strong argument today in favour of Mahler's original order.it is stretching the bounds of both language and reason to describe Andante-Scherzo as the "only correct" one. Mahler's Sixth Symphony, like many other compositions in the repertory, will always remain a "dual-version" work, but few of the others have attracted quite as much controversy.<ref name="HLDLG2"/> </poem></blockquote>
+De La Grange has noted the justification of having both options available for conductors to choose:
+<blockquote>.given that Mahler changed his mind so many times, it is understandable that a conductor might nowadays wish to stand by the order in the second version, if he is deeply convinced that he can serve the work better by doing this."<ref name="HLDLG1"/> </blockquote>
+Mahler scholar Donald Mitchell echoed the dual-version scenario and the need for the availability of both options:
+<blockquote>I believe that all serious students of his music should make up their own minds about which order in their view represents Mahler's genius. He was after all in two minds about it himself. We should let the music – how we hear it – decide! For me there is no right or wrong in this matter. We should continue to hear, quite legitimately, both versions of the symphony, according to the convictions of the interpreters involved. After all the first version has a fascinating history and legitimacy endowed by none other than the composer himself! Of course we must respect the fact of his final change of mind but to imagine that we should accept this without debate or comment beggars belief.<ref name="HLDLG2"/></blockquote>
+Matthews, Paul Banks and scholar Warren Darcy (the last an advocate for the Andante/Scherzo order) have independently proposed the idea of two separate editions of the symphony, one to accommodate each version of the order of the inner movements.<ref name="Darcy"/><ref name="DMatthews"/> Music commentator David Hurwitz has likewise remarked:
+<blockquote>So as far as the facts go, then, we have on the one hand what Mahler actually did when he last performed the symphony, and on the other hand, what he originally composed and what his wife reported that he ultimately wanted. Any objective observer would be compelled to admit that this constitutes strong evidence for both perspectives. This being the case, the responsible thing to do in revisiting the need for a new Critical Edition would be to set out all of the arguments on each side, and then take no position. Let the performers decide, and admit frankly that if the criterion for making a decision regarding the correct order of the inner movements must be what Mahler himself ultimately wanted, then no final answer is possible.<ref name="Hurwitz"/></blockquote>
+An additional question is on whether to restore the third hammer blow. Both the Ratz edition and the Kubik edition delete the third hammer blow. However, advocates on opposite sides of the inner movement debate, such as Del Mar and Matthews, have separately argued for restoration of the third hammer blow.<ref name="DMatthews"/>
+== Selected discography ==
+This discography encompasses both audio and video recordings, and classifies them as to the order of the middle movements. Recordings with three hammer blows in the finale are noted with an asterisk.
+===Scherzo / Andante===
+* Erich Leinsdorf, Boston Symphony Orchestra, RCA Victor Red Seal LSC-7044
+* Jascha Horenstein, Royal Stockholm Philharmonic Orchestra, Unicorn UKCD 2024/5 (live recording from 1966)
+* Leonard Bernstein, New York Philharmonic,<ref name=NYP2> urltoken Mahler Symphony No. 6 at the New York Philharmonic, graphic showing movement order and number of hammer blows, 11 February 2016</ref> Sony Classical SMK 60208 (*)
+* Václav Neumann, Leipzig Gewandhaus Orchestra, Berlin Classics 0090452BC
+* George Szell, Cleveland Orchestra, Sony Classical SBK 47654
+* Bernard Haitink, Concertgebouw Orchestra, Amsterdam, Q-DISC 97014 (live performance from November 1968)
+* Rafael Kubelik, Bavarian Radio Symphony Orchestra, Deutsche Grammophon 289 478 7897-1
+* Rafael Kubelik, Bavarian Radio Symphony Orchestra, Audite 1475671 (live recording of 6 December 1968 performance)
+* Bernard Haitink, Concertgebouw Orchestra, Amsterdam, Philips 289 420 138-2
+* Jascha Horenstein, Bournemouth Symphony Orchestra, BBC Legends BBCL4191-2
+* Georg Solti, Chicago Symphony Orchestra, Decca 414 674-2
+* Hans Zender, Saarbrücken Radio Symphony Orchestra, CPO 999 477-2
+* Maurice Abravanel, Utah Symphony, Vanguard Classics SRV 323/4 (LP)
+* Herbert von Karajan, Berlin Philharmonic, Deutsche Grammophon 289 415 099-2
+* Leonard Bernstein, Vienna Philharmonic, Deutsche Grammophon DVD 440 073 409-05 (live film recording from October 1976) (*)
+* James Levine, London Symphony Orchestra, RCA Red Seal RCD2-3213
+* Herbert von Karajan, Berlin Philharmonic, Saint Laurent Studio (live recording of 17 June 1977 performance)
+* Herbert von Karajan, Berlin Philharmonic, Fachmann FKM-CDR-193 (live recording of 27 August 1977 performance) 
+* Kirill Kondrashin, Leningrad Philharmonic Orchestra, Melodiya CD 10 00811
+* Václav Neumann, Czech Philharmonic, Supraphon 11 1977-2
+* Claudio Abbado, Chicago Symphony Orchestra, Deutsche Grammophon 289 423 928-2
+* Milan Horvat, Philharmonica Slavonica, Line 4593003
+* Kirill Kondrashin, SWR Sinfonieorchester Baden-Baden und Freiburg, Hänssler Classic 9842273 (live recording from January 1981)
+* Lorin Maazel, Vienna Philharmonic, Sony Classical S14K 48198
+* Klaus Tennstedt, London Philharmonic Orchestra, EMI Classics CDC7 47050-8
+* Klaus Tennstedt, London Philharmonic Orchestra. LPO-0038 (live recording from the 1983 Proms)
+* Erich Leinsdorf, Bavarian Radio Symphony Orchestra, Orfeo C 554 011 B (live recording of 10 June 1983 performance)
+* Gary Bertini, Cologne Radio Symphony Orchestra, EMI Classics 94634 02382
+* Giuseppe Sinopoli, Philharmonia Orchestra, Deutsche Grammophon 289 423 082-2
+* Eliahu Inbal, Frankfurt Radio Symphony Orchestra, 1986, Denon Blu-spec cd (COCO-73280-1)
+* Leonard Bernstein, Vienna Philharmonic, Deutsche Grammophon 289 427 697-2 (*)
+* , Royal Philharmonic Orchestra, Pickwick/RPO CDRPO 9005
+* Bernard Haitink, Berlin Philharmonic, Philips 289 426 257-2
+* Riccardo Chailly, Royal Concertgebouw Orchestra, Decca 444 871-2
+* Hartmut Haenchen, Netherlands Philharmonic Orchestra, Capriccio 10 543
+* Hiroshi Wakasugi, Tokyo Metropolitan Symphony Orchestra, 1989, Fontec FOCD9022/3
+* Leif Segerstam, Danish Radio Symphony Orchestra, Chandos CHAN 8956/7
+* Christoph von Dohnányi, Cleveland Orchestra, Decca 289 466 345-2
+* Klaus Tennstedt, London Philharmonic Orchestra, EMI Classics 7243 5 55294 28 (live recording from November 1991)
+* Anton Nanut, Radio Symphony Orchestra Ljubljana, Zyx Classic CLS 4110
+* Neeme Järvi, Royal Scottish National Orchestra, Chandos CHAN 9207
+* Antoni Wit, Polish National Radio Symphony Orchestra, Naxos 8.550529
+* Seiji Ozawa, Boston Symphony Orchestra, Philips 289 434 909-2
+* Yevgeny Svetlanov, State Symphony Orchestra of the Russian Federation, Warner Classics 2564 68886-2 (box set)
+* Emil Tabakov, Sofia Philharmonic Orchestra, Capriccio C49043
+* Edo de Waart, Radio Filharmonisch Orkest, RCA 27607
+* Pierre Boulez, Vienna Philharmonic, Deutsche Grammophon 289 445 835-2
+* Zubin Mehta, Israel Philharmonic Orchestra, Warner Apex 9106459
+* Thomas Sanderling, Saint Petersburg Philharmonic Orchestra, RS Real Sound RS052-0186
+* Yoel Levi, Atlanta Symphony Orchestra, Telarc CD 80444
+* Michael Gielen, SWR Sinfonieorchester Baden-Baden und Freiburg, Hänssler Classics 93029
+* Günther Herbig, Saarbrücken Radio Symphony Orchestra, Berlin Classics 0094612BC
+* Michiyoshi Inoue, New Japan Philharmonic, 2000, Exton OVCL-00121
+* Michael Tilson Thomas, San Francisco Symphony, SFS Media 40382001 (recorded September 2001)
+* Bernard Haitink, Orchestre National de France, Naïve V4937
+* Christoph Eschenbach, The Philadelphia Orchestra, Ondine ODE1084-5B
+* Mark Wigglesworth, Melbourne Symphony Orchestra, MSO Live 391666
+* Bernard Haitink, Chicago Symphony Orchestra, CSO Resound 210000045796
+* Gabriel Feltz, Stuttgart Philharmonic, Dreyer Gaido 9595564
+* Vladimir Fedoseyev, Tchaikovsky Symphony Orchestra of Moscow Radio, Relief 2735809
+* Eiji Oue, Osaka Philharmonic Orchestra, Fontec FOCD9253/4
+* Takashi Asahina, Osaka Philharmonic Orchestra, Green Door GDOP-2009
+* Jonathan Nott, Bamberg Symphony Orchestra, Tudor 7191
+* Esa-Pekka Salonen, Philharmonia Orchestra, Signum SIGCD275
+* Hartmut Haenchen, Orchestre Symphonique du Théâtre de la Monnaie, ICA Classics DVD ICAD5018
+* Antal Doráti, Israel Philharmonic Orchestra, Helicon 9699053 (live recording of 27 October 1963 performance)
+* Lorin Maazel, Royal Concertgebouw Orchestra, RCO Live RCO 12101 DVD
+* Paavo Järvi, Hr-Sinfonieorchester, C-Major DVD 729404
+* Jukka-Pekka Saraste, Oslo Philharmonic, Simax PSC1316 (*)
+* Pierre Boulez, Lucerne Festival Academy Orchestra, Accentus Music ACC30230
+* Antonio Pappano, Orchestra dell'Accademia Nazionale di Santa Cecilia, EMI Classics (Warner Classics 5099908441324)
+* Lorin Maazel, Philharmonia Orchestra, Signum SIGCD361
+* Jaap van Zweden, Dallas Symphony Orchestra, DSO Live
+* Libor Pešek, Ceski Narodni Symfonicky Orchestr, Out of the Frame OUT 068
+* Václav Neumann, Czech Philharmonic, Exton OVCL-00259
+* Zdeněk Mácal, Czech Philharmonic, Exton OVCL-00245
+* Vladimir Ashkenazy, Czech Philharmonic, Exton OVCL-00051
+* Eliahu Inbal, Tokyo Metropolitan Symphony Orchestra, 2007, Fontec SACD (FOCD9369)
+* Eliahu Inbal, Tokyo Metropolitan Symphony Orchestra, 2013, Exton SACD (OVCL-00516 & OVXL-00090 "one point recording version")
+* Gary Bertini, Tokyo Metropolitan Symphony Orchestra, Fontec FOCD9182
+* Georges Prêtre, Wiener Symphoniker, Weitblick SSS0079-2
+* Giuseppe Sinopoli, Stuttgart Radio Symphony Orchestra, Weitblick SSS0108-2
+* Rudolf Barshai, Yomiuri Nippon Symphony Orchestra, Tobu YNSO Archive Series YASCD1009-2
+* Martin Sieghart, Arnhem Philharmonic Orchestra, Exton HGO 0403
+* Heinz Bongartz, Leipzig Radio Symphony Orchestra, Weitblick SSS0053-2
+* Teodor Currentzis, MusicAeterna, Sony Classical 19075822952
+* Paavo Järvi, NHK Symphony Orchestra, Tokyo, RCA Victor Red Seal SICC 19040
+* Michael Gielen, SWR Sinfonieorchester Baden-Baden und Freiburg, SWR Classic SWR19080CD (live concert performance from 1971)
+* Michael Tilson Thomas, San Francisco Symphony, SFS Media (digital release, UPC 821936007723, live recording of September 2019)
+===Andante / Scherzo===
+* Charles Adler, Vienna Symphony Orchestra, Spa Records SPA 59/60
+* Eduard Flipse, Rotterdam Philharmonic Orchestra, Philips ABL 3103-4 (LP), Naxos Classical Archives 9.80846-48 (CD)
+* Dimitri Mitropoulos, New York Philharmonic,<ref name=NYP2 /> NYP Editions (live recording from 10 April 1955)
+* Eduard van Beinum, Concertgebouw Orchestra, Amsterdam, Tahra 614/5 (live recording from 7 December 1955)
+* Sir John Barbirolli, Berlin Philharmonic, Testament SBT1342 (live recording of 13 January 1966 performance)
+* Sir John Barbirolli. New Philharmonia Orchestra, Testament SBT1451 (live recording of 16 August 1967 Proms performance)
+* Sir John Barbirolli, New Philharmonia Orchestra, EMI 7 67816 2 (studio recording, 17–19 August 1967)
+* Harold Farberman, London Symphony Orchestra, Vox 7212 (CD)
+* Heinz Rögner, Berlin Radio Symphony Orchestra, Eterna 8-27 612-613
+* Simon Rattle, City of Birmingham Symphony Orchestra, EMI Classics CDS5 56925-2
+* Glen Cortese, Manhattan School of Music Symphony Orchestra, Titanic 257
+* Andrew Litton, Dallas Symphony Orchestra, Delos (live recording, limited commemorative edition)
+* Sir Charles Mackerras, BBC Philharmonic, BBC Music Magazine MM251 (Vol 13, No 7) (*)
+* Mariss Jansons, London Symphony Orchestra, LSO Live LSO0038
+* Claudio Abbado, Berlin Philharmonic, Deutsche Grammophon 289 477 557-39
+* Iván Fischer, Budapest Festival Orchestra, Channel Classics 22905
+* Mariss Jansons, Royal Concertgebouw Orchestra, RCO Live RCO06001
+* Claudio Abbado, Lucerne Festival Orchestra, Euroarts DVD 2055648
+* Simone Young, Hamburg Philharmonic, Oehms Classics OC413
+* David Zinman, Tonhalle Orchester Zürich, RCA Red Seal 88697 45165 2
+* Valery Gergiev, London Symphony Orchestra, LSO Live LSO0661
+* Jonathan Darlington, Duisberg Philharmonic, Acousence 7944879
+* Petr Vronsky, Moravian Philharmonic Orchestra, ArcoDiva UP0122-2
+* Fabio Luisi, Vienna Symphony, Live WS003
+* Vladimir Ashkenazy, Sydney Symphony Orchestra, SSO Live
+* Riccardo Chailly, Leipzig Gewandhaus Orchestra, Accentus Music DVD ACC-2068
+* Markus Stenz, Gürzenich Orchestra Köln, Oehms Classics OC651
+* Daniel Harding, Bavarian Radio Symphony Orchestra, BR-Klassik 900132
+* Simon Rattle, Berlin Philharmonic Orchestra, BPH 7558515 (live recording from 1987)
+* James Levine, Boston Symphony Orchestra, BSO Classics 0902-D
+* Osmo Vänskä, Minnesota Orchestra, BIS 2266
+* Simon Rattle, Berlin Philharmonic Orchestra (live recordings from 1987 and 2018, with DVD of 2018 performance)
+* Michael Gielen, SWR Sinfonieorchester Baden-Baden und Freiburg, SWR Classic SWR19080CD (live concert performance from 2013)
+* Hans Rosbaud, Southwest German Radio Symphony Orchestra, SWR 19099 (live recording)
+== Premieres ==
+* World premiere: May 27, 1906, Saalbau Essen, conducted by the composer
+* Dutch première: September 16, 1916, Amsterdam, with the Concertgebouw Orchestra conducted by Willem Mengelberg
+* American premiere: December 11, 1947, New York City, conducted by Dimitri Mitropoulos
+* Recording premiere: F. Charles Adler conducting the Vienna Symphony, 1952
+
+>> </score>
+Alma quoted her husband as saying that these were three mighty blows of fate befallen by the hero, "the third of which fells him like a tree". She identified these blows with three later events in Gustav Mahler's own life: the death of his eldest daughter Maria Anna Mahler, the diagnosis of an eventually fatal heart condition, and his forced resignation from the Vienna Opera and departure from Vienna. When he revised the work, Mahler removed the last of these three hammer strokes so that the music built to a sudden moment of stillness in place of the third blow. Some recordings and performances, notably those of Leonard Bernstein, have restored the third hammer blow.<ref></ref> The piece ends with the same rhythmic motif that appeared in the first movement, but the chord above it is a simple A minor triad, rather than A major turning into A minor. After the third 'hammer-blow' passage, the music gropes in darkness and then the trombones and horns begin to offer consolation. However, after they turn briefly to major they fade away and the final bars erupt in the minor.

@@ -1,0 +1,101 @@
+Kansas City standard
+
+==History==
+===Early cassettes===
+Early microcomputers generally used punched tape for program storage, an expensive option. Computer consultant Jerry Ogdin conceived the use of audio tones on a cassette to replace the paper tapes. He took the idea to Les Solomon, editor of Popular Electronics magazine, who was similarly frustrated by punched tapes. In September 1975 the two co-authored an article on the HITS (Hobbyists' Interchange Tape System), using two tones to represent 1s and 0s. Soon after, a number of manufacturers started using similar approaches, although each of these systems were incompatible.<ref name=sol>Les Solomon, urltoken "Solomon's Memory", Digital Deli, 1984</ref>
+===Kansas City symposium===
+Wayne Green, who had just started Byte magazine, wanted all the manufacturers to get together and produce a single cassette standard. He organized a two-day meeting on 7–8 November 1975 in Kansas City, Missouri.<ref name="byte"></ref> The participants settled on a system based on Don Lancaster's design. After the meeting, Lee Felsenstein (of Processor Technology) and Harold Mauch (of Percom) wrote the standard, which was published in Byte magazine's first issue.<ref></ref>
+A KCS cassette interface is similar to a modem connected to a serial port. The 1s and 0s from the serial port are converted to audio tones using audio frequency-shift keying (AFSK). A "0" bit is represented as four cycles of a 1200&nbsp;Hz sine wave, and a "1" bit as eight cycles of 2400&nbsp;Hz. This gives a data rate of 300&nbsp;baud. Each frame starts with one "0" start bit, followed by eight data bits (least significant bit first) followed by two "1" stop bits, so each frame is 11 bits, for a data rate of bytes per second.
+The February 1976 issue of Byte had a report<ref name=ByteReport></ref> on the symposium, and the March issue featured two hardware examples by Don Lancaster<ref></ref> and Harold Mauch.<ref></ref> The 300 baud rate was reliable, but slow; a typical 8-kilobyte BASIC program took five minutes to load. Most audio cassette circuits would support higher speeds.
+According to Solomon, the efforts were unsuccessful, "Unfortunately, it didn't last long; before the month ended, everyone went back to his own tape standard and the recording confusion got worse."<ref name=sol />
+The participants of the Kansas City symposium include the following individuals&nbsp;—<ref name=ByteReport />
+* Ray Borrill, Bloomington, Indiana
+* Hal Chamberlin, The Computer Hobbyist, Raleigh, North Carolina
+* Richard Smith, The Computer Hobbyist, Raleigh, North Carolina
+* Tom Durston, MITS, Albuquerque, New Mexico
+* Bill Gates, MITS, Albuquerque, New Mexico
+* Ed Roberts, MITS, Albuquerque, New Mexico
+* Bob Zaller, MITS, Albuquerque, New Mexico
+* Lee Felsenstein, LGC Engineering / Processor Technology, Berkeley, California
+* Les Solomon, Popular Electronics Magazine, New York, New York
+* Bob Marsh, Processor Technology, Berkeley, California
+* Joe Frappier, Mikra-D, Bellingham, Massachusetts
+* Gary Kay, SWTPC, San Antonio, Texas
+* Harold A Mauch, Pronetics/Percom Data, Garland Texas
+* Bob Nelson, PCM, San Ramon, California
+* George Perrine, HAL Communications Corp, Urbana, Illinois
+* Paul Tucker, HAL Communications Corp, Urbana, Illinois
+* Michael Stolowitz, Bill Godbout, Oakland, California
+* Sphere 1, Sphere, Bountiful, Utah
+==CUTS==
+Processor Technology developed the popular CUTS (Computer Users Tape Standard), which works at either 300 or 1200 baud. They provided the S-100 bus CUTS Tape I/O interface board, which offers both CUTS and Kansas City standard support to any S-100 system.
+== Tarbell ==
+The Tarbell Cassette Interface, which, according to early PC retailer Stan Veit, "became a de facto standard for S-100 computers", supported, in addition to the Tarbell "native" mode ("Tarbell standard"), also supported the Kansas City Standard.<ref></ref>
+==Floppy ROM==
+Image:FloppyRom Magazine.jpg|thumb|200px|right|Interface Age magazine May 1977 issue, with a Kansas City standard flexi disc floppy ROM
+In August 1976 at the Personal Computing show in Atlantic City, New Jersey, Bob Marsh of Processor Technology approached Bob Jones, the publisher of Interface Age magazine, about pressing software onto vinyl records. Processor Technology provided an Intel 8080 program to be recorded. This test record did not work and Processor Technology was unable to devote more time to the effort.<ref name = "Interface May 1977 Jones"></ref>
+Daniel Meyer and Gary Kay of Southwest Technical Products (SWTPC) arranged for Robert Uiterwyk to provide his 4K BASIC interpreter program for the Motorola 6800 microprocessor. The idea was to record the program on audio tape in the Kansas City format and then make a master record from the tape. Eva-Tone made Flexi disc on thin vinyl that would hold one song, these were inexpensive and could be bound in a magazine.<ref name ="Billboard Nov 1979"></ref>
+Bill Turner<ref name = "Interface May 1977 Turner"></ref> and Bill Blomgren<ref name="Interface May 1977 Blomgren"></ref> of MicroComputerSystems Inc. along with Bob Jones<sup>8</sup> of Interface Age and Bud Schamburger of Holiday Inn worked with Eva-Tone and developed a successful process. The intermediate stage of recording to tape produced dropouts, so a SWTPC AC-30<ref name = "Byte Dec 1977"></ref> cassette interface was connected directly to the record cutting equipment.
+The May 1977 issue of Interface Age contains the first "Floppy ROM", a 33 RPM record containing about six minutes of Kansas City standard audio. The September 1978 Floppy ROM Number 5 has two sides: Apple BASIC, "the automated dress pattern", and IAPS format, "A program for writing letters".
+==300 baud==
+The original standard recorded data as "marks" (one) and "spaces" (zero). A mark bit consisted of eight cycles at a frequency of 2400 Hz, while a space bit consisted of four cycles at a frequency of 1200&nbsp;Hz. A word, usually one byte (8 bits) long, was recorded in little endian order, i.e., least significant bit first. 7-bit words were followed by a parity bit.
+==1200 baud==
+Acorn Computers implemented a 1200-baud variation of CUTS in their BBC Micro<ref></ref> and Acorn Electron microcomputers, which reduced a "0" bit to one cycle of a 1200&nbsp;Hz sine wave and a "1" bit to two cycles of a 2400&nbsp;Hz wave. Standard encoding includes a "0" start bit and "1" stop bit around every 8 bit piece of information, giving an effective data rate of 960 Data-rate units.
+Also, these machines record data in 256-byte blocks interspersed with gaps of carrier tone, each block carrying a sequence number and a CRC checksum, so that it is possible to rewind the tape and retry from the failed block when a read error occurs.
+==2400 baud==
+The MSX by default supports both a 1200 baud variation of the standard with the same bit encoding as Acorn's, and a 2400 baud variant which doubles the audio rate&nbsp;— a "0" bit is one cycle of a 2400&nbsp;Hz wave and a "1" bit is two cycles of a 4800&nbsp;Hz wave.<ref></ref> Unlike Acorn machines, the MSX uses two "1" stop bits in addition to one "0" start bit, so the effective rate at 1200 baud is approximately 873 bits per second, and the effective rate at 2400 baud is approximately 1,745 bits per second. The machine's BIOS can read data at up to 3600 baud from an ideal audio source.
+The Quick CUTS standard proposed by Bob Cottis and Mike Blandford and published in the urltoken Amateur Computer Club newsletter also operated at 2400 baud, encoding "0" as a half-cycle of 1200Hz and "1" as a whole cycle of 2400Hz. The receiver was self-clocking using a phase-locked loop. Published in 1978, it predates the 1982 patent for the similar Coded mark inversion proposal.
+==Computers using the Kansas City standard==
+===Early microcomputers===
+(several use S-100 bus)
+*Compukit UK101
+*Exidy Sorcerer Optional S-100 expansion bus, standard 300 bit/s mode and a 1200 baud variant by default.
+*Kim-1, MOS Technology Optional S-100 expansion bus (KIMSI), standard 300 bit/s mode and a hypertype 1200 baud variant.
+*Lucas Nascom 1, 2 (which also supported a 1200 bit/s variant, see below)
+*MITS Altair 8800
+*Motorola MEK D1 6800 board
+*Ohio Scientific C1P/ Superboard II
+*Processor Tech Sol-20 Terminal Computer
+*Processor Tech CUTS S-100 bus Tape I/O interface board
+*SWTPC's Motorola 6800-based computers
+*Tangerine Microtan 65 (300 baud CUTS&nbsp;— faster 2400 non-CUTS format also available)
+*Eltec (German Company) Eurocom 1
+*Z80 Starter Kit (1977&nbsp;— Development board by SD Systems&nbsp;— 300 bauds&nbsp;— S-100 bus)
+===Home and personal computers===
+*ABC 80
+*Acorn Computers
+**Acorn System 1 (300 baud only)<ref>Acorn System 1 Technical Manual, p.15: "On the keyboard is a Computer Users Tape Standard interface"</ref>
+**Acorn Atom (300 baud standard / 1200 baud with the "fast cos" program from utility pack 1)
+**BBC Micro (300 and 1200 baud variations)
+**Acorn Electron (1200 baud only)
+*Dick Smith Super-80 (300 baud only)
+*Elektor Magazine National SC/MP Project
+*Heathkit
+**Heathkit ET/ETW-3400 and 3400A Microprocessor Trainers (300, 1200, 2400 baud)<ref> urltoken 
+**Heathkit H8 (300 and 1200 baud)
+**Zenith Z-89&nbsp;— also sold as the Heathkit H89 (300 and 1200 baud)
+*MicroBee Systems
+**MicroBee (300 and 1200 baud)
+*MSX (1200 and 2400 baud)
+*Nascom (300 and 1200)
+*Sega SC-3000 A slightly different 600 baud variant
+*Triumph-Adler
+**Alphatronic PC
+**Alphatronic PC16
+* Z80NE Nuova Elettronica with LX.385 interface
+* urltoken Chaos Homebrew Computer
+===Programmable calculators===
+*Casio
+**FX-502P series with FA-1 interface (300 baud)
+**FX-602P series and FX-702P with FA-2 interface (300 baud)
+**Casio FX-603P and Casio FX-850P with FA-6 interface (300 and 1200 baud)
+**Casio FX-750P with FA-20 interface (300 baud)
+**Casio PB-700 with FA-11 interface (300 baud)
+===Other devices===
+*Casiotone electronic keyboard with TA-1 tape interface module.
+* urltoken TapeDump, Chris Covell's NES/Famicom cartridge dumping solution
+*Roland TR-707 drum machine and other musical equipment.
+
+The Kansas City standard (KCS), or Byte standard, is a way of storing digital data on standard Cassette tape at a data rate of 300 bits per second. It originated in a symposium sponsored by Byte magazine in November 1975 in Kansas City, Missouri to develop a standard for storage of digital microcomputer data on inexpensive consumer quality cassettes. The first systems based on the standard appeared in 1976.
+One variation on the basic standard was CUTS, which was identical at 300 bit/s, but had an optional 1200 bit/s mode as well. CUTS was the default encoding used by several later machine families, including those from Acorn and the MSX. MSX added an even higher 2400 bit/s mode that was otherwise similar. CUTS' 1200 bit/s mode was also the standard used for cross-platform BASICODE distribution.
+Although the KCS standard existed from the earliest days of the microcomputer revolution, it failed to prevent a proliferation of alternative encodings. Most home computers of the era used their own formats that were incompatible with KCS or each other.

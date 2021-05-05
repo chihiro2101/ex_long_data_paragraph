@@ -1,0 +1,69 @@
+Ilmarinen
+
+== Etymology and origin ==
+Cognates of the Finnish word ilma ('air') are attested in almost all the main Finno-Ugric languages apart from the Mari and Mordvinic languages, allowing the reconstruction of proto-Finno-Ugric *ilma meaning something like 'sky'. This noun is also attested as the name of a god in Khanty (Num-Iləm), Komi (Jen), Udmurt (Inmar) and the Finnic languages, suggesting that proto-Finno-Ugric likewise had a sky god credited with creating the sky called *Ilma. In Proto-Finnic, the suffix -r(i), which is used to form words for people associated with the root word, was added to *ilma to give the god-name *Ilmar(i) ('Sky-being'); rare attestations of similar forms such as Udmurt Ilmar and Sámi Ilmaris seem to be loans from Finnic. In Kalevala metre poetry, the diminutive suffix -nen enabled the formation of the name Ilmarinen, which neatly fills two trochee and so became the dominant form of the name in that tradition.
+Ilmari(nen) is believed to have taken on the qualities of a smith through the Proto-Finnic contact with iron-working cultures, such as the Indo-European Balts<ref group="n"> : rune 8 (Seppä, The Smith) explicitly refers to Ilmollini as jumala (god). in </ref> or speakers of Common Germanic.
+Ilmarinen is also directly appealed to for aid in several incantation runes. Insofar as Elias Lönnrot heavily redacted the original runes collected by him and others, it's valuable to differentiate between the Kalevala and the original poems sung by rune singers.
+Other names for Ilmarinen that are found in rune variants include Ilmorinen and Ilmollini.
+== Stories about Ilmarinen ==
+===The forging of the Sampo===
+Image:Gallen Kallela The Forging of the Sampo.jpg|thumb|upright|The Forging of the Sampo by Akseli Gallen-Kallela, 1893
+====From the Kalevala====
+:Summary based on 
+When the old sage, Väinämöinen, was traveling wide in the search of a wife, he was captured by the old mistress of Pohjola, the land of the North. In return for giving him safe passage from the land of Pohjola back to his native country, the enchantress Louhi of Pohjola wanted to have made the Sampo, a magic artifact. Väinämöinen replied that he could not make her one, but that Ilmarinen could, and promised to send the great smith to Pohjola to do just that. In return for this wondrous device, Louhi would also give Ilmarinen her daughter's hand in marriage.
+On having returned home, Väinämöinen tries to awe Ilmarinen with tales of the maiden's beauty and so lure him to Pohjola. Ilmarinen sees through the ruse, however, and refuses. Not to be outdone, Väinämöinen tricks the smith into climbing a fir tree trying to bring down moonlight that is glimmering on the branches. Conjuring a storm-wind with his magical song, Väinämöinen then blows Ilmarinen away to Pohjola.
+Once there, Ilmarinen is approached by the toothless hag, Louhi, and her daughter, the Maiden of Pohjola, and having seen the maiden's beauty, consents to build a Sampo. For three days, he sought a place to build a great forge. In that forge he placed metals and started working, tending the magic fire with help of the slaves of Pohjola.
+On the first day, Ilmarinen looked down into the flames and saw that the metal had taken the form of a crossbow with a golden arch, a copper shaft and quarrel-tips of silver. But the bow had an evil spirit, asking for a new victim each day, and so Ilmarinen broke it and cast the pieces back into the fire.
+On the second day, there came a metal ship from the fire, with ribs of gold and copper oars. Though beautiful to behold, it too was evil at heart, being too eager to rush towards battle, and so, Ilmarinen broke the magic boat apart and cast back the pieces once more.
+On the third day, a metal cow emerged, with golden horns and the sun and the stars on its brow. But alas, it was ill-tempered, and so the magical heifer was broken into pieces and melted down.
+On the fourth day, a golden plow is pulled from the forge, with a golden plowshare, a copper beam and silver handles. But it too is flawed, plowing up planted fields and furrowing meadows. In despair, Ilmarinen destroys his creation once more.
+Angered at his lack of success, Ilmarinen conjures the four winds to fan the flames. The winds blow for three days, until finally, the Sampo is born, taking the shape of a magic mill that produces grain, salt and gold. Pleased with his creation at last, Ilmarinen presents it to Louhi, who promptly locks it in a vault deep underground.
+Returning triumphant to the Maiden of Pohjola, Ilmarinen bids her to become his wife. To his dismay, she refuses to leave her native land, forcing him to return home alone and dejected.
+====From original rune variants====
+Variants of the original runes used by Lönnrot in compiling the Kalevala present a different picture of Ilmarinen. In one variant of The Sampo for example, Ilmarinen goes willingly to Pohjola to forge the Sampo, not because he was tricked by Väinämöinen, but in order to redeem Väinämöinen from death. In addition, the same rune portrays Ilmarinen as returning home successfully with the Maiden of the North.
+Ilmarinen's portrayal as "unlucky in love" in the Kalevala is primarily due to Lönnrot's own choices while revising and compiling the original runes to form a cohesive narrative.<ref group="n">Lönnrot's revisions and even rewriting of runes is discussed at length in .</ref> In another example from an original rune entitled Kosinta (The Courtship), Ilmarinen takes a journey to compete for Hiisi's daughter. He again succeeds in obtaining his wife after completing the tasks of ploughing a field of vipers, bringing Tuoni's bear, and bringing the pike of Tuoni.
+===Ilmarinen's bride of gold===
+====From the Kalevala====
+:Summary based on 
+After the loss of his first wife to Kullervo's curse, the disheartened Ilmarinen attempts to craft a new one from gold and silver, but finds the golden wife hard and cold. Dismayed, he attempts to wed her to his brother Väinämöinen instead, but the old sage rejects her, saying that the golden wife ought to be cast back into the furnace and tells Ilmarinen to "forge from her a thousand trinkets". Speaking to all of his people, he further adds:
+<blockquote>
+"Never, youths, however wretched,
+Nor in future, upgrown heroes,
+Whether you have large possessions,
+Or are poor in your possessions,
+In the course of all your lifetime,
+While the golden moon is shining,
+May you woo a golden woman,
+Or distress yourselves for silver,
+For the gleam of gold is freezing,
+Only frost is breathed by silver."<ref></ref><br />
+</blockquote>
+The tale of the Golden Wife can be seen as a cautionary tale based on the theme of "money cannot buy happiness". To a contemporary reader, there is also a similarity to the hubristic nature of the Golem legend, or to Frankenstein, in that even the most skilled of mortals cannot rival divine perfection when creating life.
+====From original rune variants====
+In another example of Lönnrot's editorial license, the Kullervo cycle originally existed as an independent series of runes. In his effort to create a homogeneous narrative, Lönnrot presented Kullervo as Ilmarinen's slave in order to insert Kullervo into the Sampo cycle of runes. However, some scholars are convinced that the Golden Bride was originally an independent rune that was eventually added to the Sampo cycle. Furthermore, independent variants of the Kultamorsian (Golden Bride) rune have been collected. In Matti Kuusi's opinion, the warning reproduced above is a secondary element that was probably added during the Christian period. Rather than serving as a cautionary tale, the original runes probably expressed the widespread myth of a Golden Woman found throughout Arctic Eurasia.
+==In popular culture==
+*A portrayal of Ilmarinen and depiction of selected tales from the Kalevala can be found in the 1959 movie Sampo (film).
+*Finnish metal band Amorphis released their ninth album in 2009 called Skyforger, which is a concept album based around the stories and legends of Ilmarinen.
+*The band Turisas recorded a song called "Cursed Be Iron" about the aforementioned smith, and he is mentioned in "Rauta" by Korpiklaani.
+*In the trilogy The Winter of the World by Michael Scott Rohan, Ilmarinen is the godlike Power revered by the duergar, who say he forged the mountains in which they live. Another Power, the Odin-like Raven, speaks of Ilmarinen, "greatest of the Elder Powers," having taught him.<ref></ref>
+*Ilmarinen appears in Joseph Michael Linsner's comic Dawn (comics) when the title character seeks him out to forge a sword for her.
+*Ilmarinen appears as Ilmari Heikkinen the Wonder-smith in Mercedes Lackey's 500 Kingdoms Series' homage to Sámi (among other Scandinavian and northern European) myths and legends, The Snow Queen (2008).
+==Gallery==
+==See also==
+*Dwarf (mythology), in Germanic myth dwarfs commonly fit the "artificer" archetype
+==Notes==
+==References==
+===Sources===
+* 
+* 
+* 
+* 
+*
+**
+*
+**
+==External links==
+* urltoken Story of the forging of the Sampo at sacred texts.com
+* urltoken Story of the Golden Wife at sacred texts.com
+
+Ilmarinen , the Eternal Hammerer, blacksmith and inventor in the Kalevala, is a god<ref></ref> and archetypal artificer from Finnish mythology. He is immortal and capable of creating practically anything, but is portrayed as being unlucky in love. He is described as working the known metals of the time, including brass, copper, iron, gold, and silver. The great works of Ilmarinen include the crafting of the dome of the sky and the forging of the Sampo. His usual epithet in the Kalevala is seppo, a poetic word for "smith".<ref></ref> and the source of the given name Seppo.<ref></ref>

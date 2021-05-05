@@ -1,0 +1,144 @@
+Transport Layer Security
+
+==Description==
+Client-server applications use the TLS protocol to communicate across a network in a way designed to prevent eavesdropping and tampering.
+Since applications can communicate either with or without TLS (or SSL), it is necessary for the client to indicate to the server the setup of a TLS connection.<ref></ref> One of the main ways of achieving this is to use a different port number for TLS connections, for example port 443 for HTTPS. Another mechanism is for the client to make a protocol-specific request to the server to switch the connection to TLS; for example, by making a STARTTLS request when using the mail and news protocols.
+Once the client and server have agreed to use TLS, they negotiate a stateful connection by using a handshaking procedure.<ref>" urltoken SSL/TLS in Detail ". Microsoft TechNet. Updated July 30, 2003.</ref> The protocols use a handshake with an asymmetric cipher to establish not only cipher settings but also a session-specific shared key with which further communication is encrypted using a symmetric cipher. During this handshake, the client and server agree on various parameters used to establish the connection's security:
+* The handshake begins when a client connects to a TLS-enabled server requesting a secure connection and the client presents a list of supported cipher suites (ciphers and hash functions).
+* From this list, the server picks a cipher and hash function that it also supports and notifies the client of the decision.
+* The server usually then provides identification in the form of a digital certificate. The certificate contains the Hostname, the trusted certificate authority (CA) that vouches for the authenticity of the certificate, and the server's public encryption key.
+* The client confirms the validity of the certificate before proceeding.
+* To generate the session keys used for the secure connection, the client either:
+** encrypts a random number with the server's public key and sends the result to the server (which only the server should be able to decrypt with its private key); both parties then use the random number to generate a unique session key for subsequent encryption and decryption of data during the session
+** uses Diffie–Hellman key exchange to securely generate a random and unique session key for encryption and decryption that has the additional property of forward secrecy: if the server's private key is disclosed in future, it cannot be used to decrypt the current session, even if the session is intercepted and recorded by a third party.
+This concludes the handshake and begins the secured connection, which is encrypted and decrypted with the session key until the connection closes. If any one of the above steps fails, then the TLS handshake fails and the connection is not created.
+TLS and SSL do not fit neatly into any single layer of the OSI model or the TCP/IP model.<ref name="ccnp"></ref><ref name="stackex_layer"></ref> TLS runs "on top of some reliable transport protocol (e.g., TCP),"<ref name="rfc_intro"></ref> which would imply that it is above the transport layer. It serves encryption to higher layers, which is normally the function of the presentation layer. However, applications generally use TLS as if it were a transport layer,<ref name="ccnp" /><ref name="stackex_layer" /> even though applications using TLS must actively control initiating TLS handshakes and handling of exchanged authentication certificates.<ref name="rfc_intro" />
+==History and development==
+; Length
+: Length of application data (excluding the protocol header and including the MAC and padding trailers)
+; MAC
+: 32 bytes for the SHA-256-based HMAC, 20 bytes for the SHA-1-based HMAC, 16 bytes for the MD5-based HMAC.
+; Padding
+: Variable length; last byte contains the padding length.
+==Support for name-based virtual servers==
+From the application protocol point of view, TLS belongs to a lower layer, although the TCP/IP model is too coarse to show it. This means that the TLS handshake is usually (except in the STARTTLS case) performed before the application protocol can start. In the name-based virtual server feature being provided by the application layer, all co-hosted virtual servers share the same certificate because the server has to select and send a certificate immediately after the ClientHello message. This is a big problem in hosting environments because it means either sharing the same certificate among all customers or using a different IP address for each of them.
+There are two known workarounds provided by X.509:
+* If all virtual servers belong to the same domain, a wildcard certificate can be used.<ref></ref> Besides the loose host name selection that might be a problem or not, there is no common agreement about how to match wildcard certificates. Different rules are applied depending on the application protocol or software used.<ref></ref>
+* Add every virtual host name in the subjectAltName extension. The major problem being that the certificate needs to be reissued whenever a new virtual server is added.
+To provide the server name, Transport Layer Security (TLS) Extensions allow clients to include a Server Name Indication extension (SNI) in the extended ClientHello message. This extension hints to the server immediately which name the client wishes to connect to, so the server
+can select the appropriate certificate to send to the clients.
+ also documents a method to implement name-based virtual hosting by upgrading HTTP to TLS via an HTTP/1.1 Upgrade header. Normally this is to securely implement HTTP over TLS within the main "http" URI scheme (which avoids forking the URI space and reduces the number of used ports), however, few implementations currently support this.
+==Standards==
+===Primary standards===
+The current approved version of TLS is version 1.3, which is specified in:
+* : "The Transport Layer Security (TLS) Protocol Version 1.3".
+The current standard replaces these former versions, which are now considered obsolete:
+* : "The TLS Protocol Version 1.0".
+* : "The Transport Layer Security (TLS) Protocol Version 1.1".
+* : "The Transport Layer Security (TLS) Protocol Version 1.2".
+As well as the never standardized SSL 2.0 and 3.0, which are considered obsolete:
+* //tools.ietf.org/html/draft-hickman-netscape-ssl-00 Internet Draft (1995), SSL Version 2.0
+* : "The Secure Sockets Layer (SSL) Protocol Version 3.0".
+===Extensions===
+Other RFCs subsequently extended TLS.
+Extensions to TLS 1.0 include:
+* : "Using TLS with IMAP, POP3 and ACAP". Specifies an extension to the IMAP, POP3 and ACAP services that allow the server and client to use transport-layer security to provide private, authenticated communication over the Internet.
+* : "Addition of Kerberos Cipher Suites to Transport Layer Security (TLS)". The 40-bit cipher suites defined in this memo appear only for the purpose of documenting the fact that those cipher suite codes have already been assigned.
+* : "Upgrading to TLS Within HTTP/1.1", explains how to use the HTTP/1.1 Upgrade header to initiate Transport Layer Security (TLS) over an existing TCP connection. This allows unsecured and secured HTTP traffic to share the same well known port (in this case, http: at 80 rather than https: at 443).
+* : "HTTP Over TLS", distinguishes secured traffic from insecure traffic by the use of a different 'server port'.
+* : "SMTP Service Extension for Secure SMTP over Transport Layer Security". Specifies an extension to the SMTP service that allows an SMTP server and client to use transport-layer security to provide private, authenticated communication over the Internet.
+* : "AES Ciphersuites for TLS". Adds Advanced Encryption Standard (AES) cipher suites to the previously existing symmetric ciphers.
+* : "Transport Layer Security (TLS) Extensions", adds a mechanism for negotiating protocol extensions during session initialisation and defines some extensions. Made obsolete by .
+* : "Transport Layer Security Protocol Compression Methods", specifies the framework for compression methods and the DEFLATE compression method.
+* : "Transport Layer Security (TLS) Protocol Compression Using Lempel-Ziv-Stac (LZS)".
+* : "Addition of Camellia Cipher Suites to Transport Layer Security (TLS)".
+* : "Addition of SEED Cipher Suites to Transport Layer Security (TLS)".
+* : "Securing FTPS".
+* : "Pre-Shared Key Ciphersuites for Transport Layer Security (TLS)", adds three sets of new cipher suites for the TLS protocol to support authentication based on pre-shared keys.
+Extensions to TLS 1.1 include:
+* : "Datagram Transport Layer Security" specifies a TLS variant that works over datagram protocols (such as UDP).
+* : "Transport Layer Security (TLS) Extensions" describes both a set of specific extensions and a generic extension mechanism.
+* : "Elliptic Curve Cryptography (ECC) Cipher Suites for Transport Layer Security (TLS)".
+* : "TLS Handshake Message for Supplemental Data".
+* : "TLS User Mapping Extension".
+* : "Pre-Shared Key (PSK) Ciphersuites with NULL Encryption for Transport Layer Security (TLS)".
+* : "Using the Secure Remote Password (SRP) Protocol for TLS Authentication". Defines the TLS-SRP ciphersuites.
+* : "Transport Layer Security (TLS) Session Resumption without Server-Side State".
+* : "Using OpenPGP Keys for Transport Layer Security (TLS) Authentication", obsoleted by .
+Extensions to TLS 1.2 include:
+* : "AES Galois/Counter Mode (GCM) Cipher Suites for TLS".
+* : "TLS Elliptic Curve Cipher Suites with SHA-256/384 and AES Galois Counter Mode (GCM)".
+* : "Transport Layer Security (TLS) Renegotiation Indication Extension".
+* : "Transport Layer Security (TLS) Authorization Extensions".
+* : "Camellia Cipher Suites for TLS"
+* : "Transport Layer Security (TLS) Extensions: Extension Definitions", includes Server Name Indication and OCSP stapling.
+* : "Using OpenPGP Keys for Transport Layer Security (TLS) Authentication".
+* : "Prohibiting Secure Sockets Layer (SSL) Version 2.0".
+* : "Addition of the ARIA Cipher Suites to Transport Layer Security (TLS)".
+* : "Datagram Transport Layer Security Version 1.2".
+* : "Addition of the Camellia Cipher Suites to Transport Layer Security (TLS)".
+* : "Suite B Profile for Transport Layer Security (TLS)".
+* : "AES-CCM Cipher Suites for Transport Layer Security (TLS)".
+* : "Elliptic Curve Cryptography (ECC) Brainpool Curves for Transport Layer Security (TLS)".
+* : "AES-CCM Elliptic Curve Cryptography (ECC) Cipher Suites for TLS".
+* : "Transport Layer Security (TLS) Application-Layer Protocol Negotiation Extension".
+* : "Encrypt-then-MAC for Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)".
+* : "Prohibiting RC4 Cipher Suites".
+* : "TLS Fallback Signaling Cipher Suite Value (SCSV) for Preventing Protocol Downgrade Attacks".
+* : "Deprecating Secure Sockets Layer Version 3.0".
+* : "Transport Layer Security (TLS) Session Hash and Extended Master Secret Extension".
+* : "A Transport Layer Security (TLS) ClientHello Padding Extension".
+Encapsulations of TLS include:
+* : "The EAP-TLS Authentication Protocol"
+===Informational RFCs===
+* : "Summarizing Known Attacks on Transport Layer Security (TLS) and Datagram TLS (DTLS)"
+* : "Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)"
+==See also==
+* Application-Layer Protocol Negotiation – a TLS extension used for SPDY and TLS False Start
+* Bullrun (decryption program) – a secret anti-encryption program run by the U.S. National Security Agency
+* Certificate authority
+* Certificate Transparency
+* HTTP Strict Transport Security – HSTS
+* Key ring file
+* QUIC (Quick UDP Internet Connections) – ".was designed to provide security protection equivalent to TLS/SSL"; QUIC's main goal is to improve perceived performance of connection-oriented web applications that are currently using TCP
+* Server-Gated Cryptography
+* tcpcrypt
+* DTLS
+* TLS acceleration
+==References==
+==Further reading==
+* 
+* 
+* 
+* 
+* 
+* 
+* urltoken Creating VPNs with IPsec and SSL/TLS Linux Journal article by Rami Rosen
+* 
+* 
+* 
+==External links==
+Specifications (see for older SSL 2.0, SSL 3.0, TLS 1.0, TLS 1.1 links)
+* urltoken The Transport Layer Security (TLS) Protocol Version 1.2 
+* urltoken IETF (Internet Engineering Task Force) TLS Workgroup
+;TLS version intolerance
+* urltoken TLS version intolerance
+* urltoken TLS 1.3 and Version Intolerance
+;Other
+* urltoken OWASP: Transport Layer Protection Cheat Sheet
+* urltoken A talk on SSL/TLS that tries to explain things in terms that people might understand.
+* urltoken TLS Renegotiation Vulnerability – IETF Tools
+* urltoken Qualys SSL Labs – SSL Pulse
+* urltoken How to Generate CSR for SSL
+* urltoken How TLS Handshake works in private browser
+
+Transport Layer Security (TLS), and its now-deprecated predecessor, Secure Sockets Layer (SSL), are cryptographic protocols designed to provide communications security over a computer network. Several versions of the protocols are widely used in applications such as email, instant messaging, and voice over IP, but its use as the Security layer in HTTPS remains the most publicly visible.
+The TLS protocol aims primarily to provide privacy and data integrity between two or more communicating computer applications. When secured by TLS, connections between a client (e.g., a web browser) and a server (e.g., wikipedia.org) should have one or more of the following properties:
+* The connection is private (or secure) because a symmetric-key algorithm is used to encrypt the data transmitted. The keys for this symmetric encryption are generated uniquely for each connection and are based on a shared secret that was negotiated at the start of the session. The server and client negotiate the details of which encryption algorithm and cryptographic keys to use before the first byte of data is transmitted (see below). The negotiation of a shared secret is both secure (the negotiated secret is unavailable to eavesdroppers and cannot be obtained, even by an attacker who places themself in the middle of the connection) and reliable (no attacker can modify the communications during the negotiation without being detected).
+* The identity of the communicating parties can be authenticated using public-key cryptography. This authentication is required for the server and optional for the client.<ref name="RFC8446"></ref>
+* The connection is reliable because each message transmitted includes a message integrity check using a message authentication code to prevent undetected loss or alteration of the data during transmission.<ref name="RFC5246"></ref>
+In addition to the above, careful configuration of TLS can provide additional privacy-related properties such as forward secrecy, ensuring that any future disclosure of encryption keys cannot be used to decrypt any TLS communications recorded in the past.
+TLS supports many different methods for exchanging keys, encrypting data, and authenticating message integrity (see below). As a result, secure configuration of TLS involves many configurable parameters, and not all choices provide all of the privacy-related properties described in the list above (see the § Key exchange (authentication), § Cipher security, and § Data integrity tables).
+Attempts have been made to subvert aspects of the communications security that TLS seeks to provide, and the protocol has been revised several times to address these security threats. Developers of web browsers have repeatedly revised their products to defend against potential security weaknesses after these were discovered (see TLS/SSL support history of web browsers).
+The TLS protocol comprises two layers: the TLS record and the TLS handshake protocols.
+TLS is a proposed Internet Engineering Task Force (IETF) standard, first defined in 1999, and the current version is TLS 1.3 defined in August 2018. TLS builds on the earlier SSL specifications (1994, 1995, 1996) developed by Netscape Communications for adding the HTTPS protocol to their Navigator web browser.

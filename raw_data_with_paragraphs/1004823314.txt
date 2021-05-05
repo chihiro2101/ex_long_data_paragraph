@@ -1,0 +1,53 @@
+Protoplanetary disk
+
+==Formation==
+left
+Protostars form from molecular clouds consisting primarily of molecular hydrogen. When a portion of a molecular cloud reaches a critical size, mass, or density, it begins to collapse under its own gravity. As this collapsing cloud, called a solar nebula, becomes denser, random gas motions originally present in the cloud average out in favor of the direction of the nebula's net angular momentum. Conservation of angular momentum causes the rotation to increase as the nebula radius decreases. This rotation causes the cloud to flatten out—much like forming a flat pizza out of dough—and take the form of a disk. This occurs because centripetal acceleration from the orbital motion resists the gravitational pull of the star only in the radial direction, but the cloud remains free to collapse in the vertical direction. The outcome is the formation of a thin disc supported by gas pressure in the vertical direction.<ref></ref> The initial collapse takes about 100,000 years. After that time the star reaches a surface temperature similar to that of a main sequence star of the same mass and becomes visible.
+It is now a T Tauri star. Accretion of gas onto the star continues for another 10 million years,<ref></ref> before the disk disappears, perhaps being blown away by the young star's stellar wind, or perhaps simply ceasing to emit radiation after accretion has ended. The oldest protoplanetary disk yet discovered is 25 million years old.<ref></ref><ref></ref>
+Protoplanetary disks around T Tauri stars differ from the disks surrounding the primary components of close binary systems with respect to their size and temperature. Protoplanetary disks have radii up to 1000 AU, and only their innermost parts reach temperatures above 1000 K. They are very often accompanied by jets.
+Protoplanetary disks have been observed around several young stars in our galaxy. Observations by the Hubble Space Telescope have shown proplyds and planetary disks to be forming within the Orion Nebula.<ref name="RicciRobberto2008"></ref><ref name="O'dellWong1996"></ref>
+Protoplanetary disks are thought to be thin structures, with a typical vertical height much smaller than the radius, and a typical mass much smaller than the central young star.<ref></ref>
+The mass of a typical proto-planetary disk is dominated by its gas, however, the presence of dust grains has a major role in its evolution. Dust grains shield the mid-plane of the disk from energetic radiation from outer space that creates a dead zone in which the magnetorotational instability (MRI) no longer operates.<ref></ref><ref name="Layered Accretion In T Tauri Disks"></ref>
+It is believed that these disks consist of a turbulent envelope of plasma, also called the active zone, that encases an extensive region of quiescent gas called the dead zone.<ref name="Layered Accretion In T Tauri Disks"/> The dead zone located at the mid-plane can slow down the flow of matter through the disk which prohibits achieving a steady state.
+==Planetary system==
+The solar nebula of solar system formation describes how protoplanetary disks are thought to evolve into planetary systems. Electrostatic and gravitational interactions may cause the dust and ice grains in the disk to accrete into planetesimals. This process competes against the stellar wind, which drives the gas out of the system, and gravity (accretion) and internal stresses (viscosity), which pulls material into the central T Tauri star. Planetesimals constitute the building blocks of both terrestrial and giant planets.<ref name=lhdb2009></ref><ref name=dangelo2014></ref>
+Some of the moons of Jupiter, Saturn, and Uranus are believed to have formed from smaller, circumplanetary analogs of the protoplanetary disks.<ref name="arxiv0812"></ref><ref name=dangelo_podolak_2015></ref> The formation of planets and moons in geometrically thin, gas- and dust-rich disks is the reason why the planets are arranged in an ecliptic plane. Tens of millions of years after the formation of the Solar System, the inner few AU of the Solar System likely contained dozens of moon- to Mars-sized bodies that were accreting and consolidating into the terrestrial planets that we now see. The Earth's moon likely formed after a Mars-sized protoplanet obliquely impacted the proto-Earth ~30 million years after the formation of the Solar System.
+==Debris disks==
+Gas-poor disks of circumstellar dust have been found around many nearby stars—most of which have ages in the range of ~10 million years (e.g. Beta Pictoris, 51 Ophiuchi) to billions of years (e.g. Tau Ceti). These systems are usually referred to as "debris disks". Given the older ages of these stars, and the short lifetimes of micrometer-sized dust grains around stars due to Poynting Robertson drag, collisions, and radiation pressure (typically hundreds to thousands of years), it is thought that this dust is from the collisions of planetesimals (e.g. asteroids, comets). Hence the debris disks around these examples (e.g. Vega, Alphecca, Fomalhaut, etc.) are probably not truly "protoplanetary", but represent a later stage of disk evolution where extrasolar analogs of the asteroid belt and Kuiper belt are home to dust-generating collisions between planetesimals.
+==Relation to abiogenesis==
+Based on recent computer simulation, the organic compound necessary for life may have formed in the protoplanetary disk of cosmic dust surrounding the Sun before the formation of the Earth.<ref name="Space-20120329"></ref> According to the computer studies, this same process may also occur around other stars that acquire planets.<ref name="Space-20120329" /> (Also see Extraterrestrial organic molecules).
+==Gallery==
+<gallery>
+File:Pitch perfect in DSHARP at ALMA.jpg|20 protoplanetary discs captured by the High Angular Resolution Project (DSHARP).<ref></ref> 
+File:Cosmic shadow of HBC 672.jpg|A shadow is created by the protoplanetary disc surrounding the star HBC 672 within the nebula.<ref></ref>
+File:Young planet creates a scene.jpg|Protoplanetary disc AS 209 nestled in the young Ophiuchus star-forming region.<ref></ref>
+Image:Feeding a Baby Star with a Dusty Hamburger.jpg|Protoplanetary disk HH 212.<ref></ref>
+File:Spring Cleaning in an Infant Star System.jpg|By observing dusty protoplanetary discs, scientists investigate the first steps of planet formation.<ref></ref>
+Image:Boulevard_of_Broken_Rings.jpg|Concentric rings around young star HD 141569A, located some 370 light-years away.<ref></ref>
+Image:NASA-14114-HubbleSpaceTelescope-DebrisDisks-20140424.jpg|Debris disks detected in HST images of young stars, HD 141943 and HD 191089 - images at top; geometry at bottom.<ref name="NASA-20140424"></ref>
+Image:Protoplanetary disk HH-30.jpg|Protoplanetary disk HH-30 in Taurus - disk emits the reddish stellar jet.
+Image:Artist’s Impression of a Baby Star Still Surrounded by a Protoplanetary Disc.jpg|Artist's impression of a protoplanetary disk. 
+Image:M42proplyds.jpg|A proplyd in the Orion Nebula.
+Image:Artist's impression of the disc around a young star.ogv|Video shows the evolution of the disc around a young star like HL Tauri (artist concept).
+Image:GW Orionis 2.jpg|Image of the circumtrinary disc around GW Orionis.<ref name="Bi2020"/>
+</gallery>
+==See also==
+* Accretion disk
+* 
+* Debris disk
+* Disrupted planet
+* Formation and evolution of the Solar System
+* Herbig–Haro object
+* Nebular hypothesis
+* Q-PACE, a spacecraft mission to study accretion
+* Planetary system
+==References==
+==Further reading==
+* .
+* 
+* 
+* 
+*
+
+A protoplanetary disk is a rotating circumstellar disc of dense gas and dust surrounding a stellar evolution star, a T Tauri star, or Herbig Ae/Be star. The protoplanetary disk may also be considered an accretion disk for the star itself, because gases or other material may be falling from the inner edge of the disk onto the surface of the star. This process should not be confused with the accretion process thought to build up the planets themselves. Externally illuminated photo-evaporating protoplanetary disks are called proplyds.
+In July 2018, the first confirmed image of such a disk, containing a nascent exoplanet, named PDS 70b, was reported.<ref name="EA-20180702"></ref><ref name="ESO-20180629"></ref><ref name="ESO-20180630"></ref>

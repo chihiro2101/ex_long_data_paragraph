@@ -1,0 +1,141 @@
+Mars Global Surveyor
+
+===Loss of contact===
+On 2 November 2006, NASA lost contact with the spacecraft after commanding it to adjust its solar panels. Several days passed before a faint signal was received indicating that the spacecraft had entered safe mode and was awaiting further instructions.<ref name='loss of contact'/>
+On 21 and 22 November 2006, MGS failed to relay communications to the Opportunity rover on the surface of Mars. In response to this complication, Mars Exploration Program manager Fuk Li stated, "Realistically, we have run through the most likely possibilities for re-establishing communication, and we are facing the likelihood that the amazing flow of scientific observations from Mars Global Surveyor is over."<ref name="may end"></ref>
+On 13 April 2007, NASA announced the loss of the spacecraft was caused by a flaw in a parameter update to the spacecraft's system software.<ref name='loss of contact'/> The spacecraft was designed to hold two identical copies of the system software for redundancy and error checking. Subsequent updates to the software encountered a human error when two independent operators updated separate copies with differing parameters. This was followed by a corrective update that unknowingly included a memory fault which resulted in the loss of the spacecraft.
+Originally, the spacecraft was intended to observe Mars for 1 Martian year (approximately 2 Earth years). However, based on the vast amount of valuable science data returned, NASA extended the mission three times. MGS remains in a stable near-polar circular orbit at about 450&nbsp;km altitude, and will crash onto the surface of the planet in about 2047.
+==Spacecraft overview==
+The spacecraft, fabricated at the Lockheed Martin Astronautics plant in Denver, is a rectangular-shaped box with wing-like projections (solar panels) extending from opposite sides. When fully loaded with propellant at the time of launch, the spacecraft weighed . Most of its mass lies in the box-shaped module occupying the center portion of the spacecraft. This center module is made of two smaller rectangular modules stacked on top of each other, one of which is called the equipment module and holds the spacecraft's electronics, science instruments, and the 1750A mission computer. The other module, called the propulsion module, houses its rocket engines and propellant tanks. The Mars Global Surveyor mission cost about $154 million to develop and build and $65 million to launch. Mission operations and data analysis cost approximately $20 million/year.<ref></ref>
+===Scientific instruments===
+Five Measuring instruments flew aboard MGS: <ref name=":0"></ref>
+* The Mars Orbiter Camera (MOC) operated by Malin Space Science Systems- The Mars Orbiter Camera (MOC), originally known as Mars Observer Camera, <ref></ref> used 3 instruments: a narrow angle camera that took (black-and-white) high resolution images (usually 1.5 to 12 m per pixel) and red and blue wide angle pictures for context (240 m per pixel) and daily global imaging (7.5&nbsp;km per pixel). MOC returned more than 240,000 images spanning portions of 4.8 Martian years, from September 1997 and November 2006. <ref name="malin"></ref>
+*The Mars Orbiter Laser Altimeter (MOLA) - MOLA was designed to determine Mars' global topography. It operated as an altimeter until a portion of the laser reached end-of-life in June 2001. The instrument then functioned as a radiometer until October 2006.<ref name=":1"></ref> 
+* The Thermal Emission Spectrometer (TES) - This instrument mapped the mineral composition of the surface by scanning thermal emissions.<ref name=":1" />
+* A magnetometer and electron reflectometer (MAG/ER) - This instrument was used to interrogate the planet's magnetic fields and determine that Mars does not have a global magnetic field but rather many smaller localized fields.
+* The Ultrastable Oscillator (USO/RS) - Precise clock measurements from this device were used to map variations in the gravitational field. <ref name=":1" />
+* The Mars Relay (MR) - The Mars Relay antenna supported the Mars Exploration Rovers for data relay back to Earth in conjunction with the Mars Orbiter Camera's 12 MB memory buffer. <ref name=":0" /> 
+==First complete test of aerobraking==
+The spacecraft was launched from a smaller Delta II rocket, necessitating restrictions in spacecraft weight. In order to achieve the near-circular orbit required for the mission while conserving propellant, the team designed a series of aerobraking maneuvers. Aerobraking had been successfully attempted by the Magellan mission at Venus, but the first complete test of the new procedure was to be carried out by MGS. <ref></ref> 
+Initially, MGS entered a highly elliptical orbit that took 45 hours to complete. The orbit had a periapsis of above the northern hemisphere, and an apoapsis of above the southern hemisphere, a far cry from the nearly circular orbit required. <ref name=":0" />
+After orbital insertion, MGS performed a series of orbit changes to lower the periapsis of its orbit into the upper fringes of the Martian atmosphere at an altitude of about .<ref name="lyons"></ref> During every atmospheric pass, the spacecraft slowed down because of atmospheric resistance. This slowing caused the spacecraft to lose altitude on its next pass through the orbit's apoapsis. MGS had planned to use this aerobraking technique over a period of four months to lower the high point of its orbit from to altitudes near .
+About one month into the mission, it was discovered that air pressure from the planet's atmosphere caused one of the spacecraft's two solar panels to bend backwards. The panel in question had incurred a small amount of damage shortly after launch, the extent of which did not become apparent until subjected to atmospheric forces. MGS had to be raised out of the atmosphere to prevent further damage to the solar panel and a new mission plan had to be developed. <ref name=":0" />
+From May to November 1998, aerobraking was temporarily suspended to allow the orbit to drift into the proper position with respect to the Sun and enable optimal use of the solar panels. Although data collection during aerobraking was not in the original mission plan, all science instruments remained functional and acquired vast amounts of data during this "unexpected bonus period of observation".<ref name=":0" /> The team was able to evaluate more information about the atmosphere over a range of times rather than the anticipated fixed times of 0200 and 1400, as well as collect data during three close encounters with Phobos. <ref></ref>
+Finally, from November 1998 to March 1999, aerobraking resumed and shrank the high point of the orbit down to . At this altitude, MGS circled Mars once every two hours. Aerobraking was scheduled to terminate at the same time the orbit drifted into its proper position with respect to the Sun. In the desired orientation for mapping operations, the spacecraft always crossed the day-side equator at 14:00 (local Mars time) moving from south to north. This geometry was selected to enhance the total quality of the science return. <ref name="lyons" />
+==Mission results==
+===Mapping===
+The spacecraft circled Mars once every 117.65 minutes at an average altitude of . The nearly polar orbit (inclination = 93°) which is almost perfectly circular, moved from the south pole to the north pole in just under an hour. The altitude was chosen to make the orbit Sun-synchronous, so that all images that were taken by the spacecraft of the same surface features on different dates were taken under identical lighting conditions. After each orbit, the spacecraft viewed the planet 28.62° to the west because Mars had rotated underneath it. In effect, it was always 14:00 for MGS as it moved from one time zone to the next exactly as fast as the Sun. After seven sols and 88 orbits, the spacecraft would approximately retrace its previous path, with an offset of 59&nbsp;km to the east. This ensured eventual full coverage of the entire surface. <ref name=":0" />
+In its extended mission, MGS did much more than study the planet directly beneath it. It commonly performed rolls and pitches to acquire images off its nadir track. The roll maneuvers, called ROTOs (Roll Only Targeting Opportunities), rolled the spacecraft left or right from its ground track to shoot images as much as 30° from nadir. It was possible for a pitch maneuver to be added to compensate for the relative motion between the spacecraft and the planet. This was called a CPROTO (Compensation Pitch Roll Targeting Opportunity), and allowed for some very high resolution imaging by the onboard MOC (Mars Orbiting Camera). <ref></ref>
+In addition to this, MGS could shoot pictures of other orbiting bodies, such as other spacecraft and the moons of Mars. In 1998 it imaged what was later called the Phobos monolith, found in MOC Image 55103.<ref></ref>
+After analyzing hundreds of high-resolution pictures of the Martian surface taken by the spacecraft, a team of researchers found that weathering and winds on the planet create landforms, especially sand dunes, remarkably similar to those in some deserts on Earth.<ref name="Malin2001"></ref>
+Other discoveries from this mission are:
+* The planet was found to have a layered crust to depths of 10&nbsp;km or more. To produce the layers, large amounts of material had to be weathered, transported and deposited.
+<gallery class="center" widths="190" heights="180">
+File:Layers in a crater in Arabia.JPG|Layers in an old crater in Arabia, as seen by MGS, under the MOC Public Targeting Program. Layers may form from volcanoes, the wind, or by deposition under water. The craters on the left are pedestal craters.
+File:Schiaparelli basin crater.jpg|Layers in crater found within the Schiaparelli crater basin as seen by MGS. Image from the Sinus Sabaeus quadrangle.
+File:Buttes and layers in Aeolis.jpg|Buttes and layers in Aeolis quadrangle, as seen by MGS.
+</gallery>
+* The northern hemisphere is probably just as cratered as the southern hemisphere, but the craters are mostly buried.
+* Many features, like impact craters, were buried, then recently exhumed.
+<gallery class="center" widths="190" heights="180">
+File:Exhumed crater in Noachis.JPG|Crater that was buried in another age and is now being exposed by erosion, as seen by the Mars Global Surveyor under the MOC Public Targeting Program. Image is located in the Noachis quadrangle.
+File:Exhumed Lava Flows.jpg|Lava flows were once covered over, now these platy flows are being exposed.
+File:Exhumed Crater.jpg|Crater was buried, now it is being exhumed by erosion. Image located in Ismenius Lacus quadrangle.
+File:Exhumed Craters.jpg|The northern hemisphere appears smooth, but the craters are covered over. Here, a group of craters are partially exposed. Image located in Cebrenia quadrangle. 
+</gallery>
+* Large areas of Mars are covered by a mantle that coats all but the very steepest slopes. The mantle is sometimes smooth, sometimes pitted. Some believe the pits are due to the escape of water through sublimation (ice changing directly to a vapor) of buried ice.
+<gallery class="center" widths="190px" heights="180px">
+Image:Phaethontis surface.JPG|Close up image of Phaethontis surface taken by Mars Global Surveyor, under MOC Public Targeting Program. Pits are thought to be caused by buried ice turning into a gas.
+Image:Mantle on Cliff.JPG|The mantle drapes most of the area. Note the absence of boulders on the cliff face. An area that shows the edges of the mantle is circled. Image located in Ismenius Lacus quadrangle.
+Image:Mantle material from MGS.jpg|Mantle material, as seen by MGS.
+Image:Steep cliff in Ismenius Lacus taken with MGS.JPG|Steep cliff in Ismenius Lacus quadrangle with smooth mantle covering its face. Picture taken under MOC Public Targeting Program.
+</gallery>
+* Some areas are covered by hematite-rich material. The hematite could have been put in place by liquid water in the past.<ref></ref>
+* Dark streaks were found to be caused by giant dust devils. Dust devil tracks were observed to frequently change; some changed in just one month.<ref></ref>
+<gallery class="center" widths="190px" heights="180px">
+Image:Dust devil tracks in Eridania.JPG|Pattern of large and small tracks made by giant dust devils as seen by Mars Global Surveyor, under the MOC Public Targeting Program. Image is located in Eridania quadrangle.
+Image:Kepler Crater.JPG|Kepler (Martian crater) showing dust devil tracks, as seen by Mars Global Surveyor. Kepler is a large crater in the Eridania quadrangle.
+Image:Dust Devil with Labels.JPG|Dust devil, as seen by MGS.
+Image:Dust Devil with Shadow.JPG|Dust devil in action showing shadow to the right. Image located in Cebrenia quadrangle.
+</gallery>
+* The south pole's residual cap was observed to look like Swiss cheese, with holes generally a few meters deep. The holes get bigger each year, so this region or hemisphere may be warming.<ref></ref> Claims that this represents a global trend, however, are cherry-picking regional data versus the planetary dataset, and MOC results versus TES and radio science (see below).
+<gallery class="center" widths="190px" heights="180px">
+Image:South pole changes in two year period.JPG|Changes in south pole from 1999 to 2001, as seen by Mars Global Surveyor. Notice how Swiss-cheese type holes have grown in the two years.
+Image:Swiss Cheese in South.JPG|Swiss cheese terrain, as seen by MGS. Largest mesa in image is 4 meters high.
+Image:Swiss Cheese Layers.JPG|Layers in Swiss cheese terrain. There is a bright upper layer and a darker lower layer.
+Image:Swiss Cheese Terrain close-up.JPG|Close-up view of Swiss cheese terrain. Polygonal pattern was probably formed by shallow troughs.
+</gallery>
+* The Thermal Emission Spectrometer observes in infrared for atmospheric studies and mineralogy.<ref></ref><ref></ref><ref></ref> TES found that Mars' planetary climate has cooled since Viking,<ref></ref> and just about all of the surface of Mars is covered with volcanic rock.
+<gallery class="center" widths="190px" heights="180px">
+Image:Cerauniustholus.jpg|Ceraunius Tholus, one of many volcanoes found on Mars.
+Image:LavaFlows from MGS.JPG|Lava flows in the Tharsis quadrangle.
+Image:Young and Old Lava Flows.JPG|Image shows both young and old lava flows from the base of Olympus Mons. The flat plain is the younger flow. The older flow has channels with levees along their edges. The presence of levees is quite common in many lava flows.
+Image:Small Volcano mgs.jpg|Small volcano in Phoenicis Lacus quadrangle. Image covers a distance long.
+</gallery>
+* Hundreds of house-sized boulders were found in some areas. This indicates that some materials are strong enough to hold together, even when moving downslope. Most of the boulders appeared in volcanic regions so they were probably formed from weathered lava flows.<ref name="Malin, M 2001" />
+<gallery class="center" widths="190px" heights="180px">
+Image:Boulders from MGS.JPG|House-sized boulders are scattered throughout this image.
+Image:Boulders near Volcano.JPG|These boulders are near Ascraeus Mons, a Martian volcano. Volcanoes on Mars probably form hard boulders made up of basalt that is resistant to erosion in the current environment of Mars.
+</gallery>
+* Thousands of dark slope streaks were observed. Most scientists believe they result from the avalanching of dust.<ref name="Malin, M 2001"></ref> However, some researchers think that water may be involved.<ref>Motazedian, T. 2003. Currently Flowing Water on Mars. Lunar and Planetary science XXXIV. 1840.pdf</ref>
+<gallery class="center" widths="190px" heights="180px">
+Image:Changes in Slope Streaks.JPG|Many streaks underwent changes during the many years that MGS functioned.
+Image:Tikonravev Crater Floor.JPG|Tikonravev Crater floor, as seen by Mars Global Surveyor. Click on image to see dark slope streaks and layers. Tikonravev Crater is in the Arabia quadrangle.
+Image:Dark streaks in Diacria.JPG|Dark streaks in Diacria quadrangle, as seen by Mars Global Surveyor, under the MOC Public Targeting Program.
+</gallery>
+===The Lense–Thirring test===
+Data from MGS have been used to perform a test of the general relativistic Lense–Thirring precession which consists of a small precession of the orbital plane of a test particle moving around a central, rotating mass such as a planet. The interpretation of these results has been debated.<ref></ref><ref></ref>
+===Further evidence for water on Mars===
+Hundreds of gullies were discovered that were formed from liquid water, possibly in recent times.<ref></ref><ref></ref><ref></ref>
+<gallery class="center" widths="190px" heights="180px">
+Image:Gully in Phaethontis.jpg|Group of gullies on north wall of crater that lies west of the crater Newton (41.3047 degrees south latitude, 192.89 east longitude). Image taken by Mars Global Surveyor, MOC Public Targeting Program. Image is located in the Phaethontis quadrangle.
+Image:Gullies and tongue-shaped glacier.jpg|Gullies in a crater in Eridania quadrangle, north of the large crater Kepler. Also, features that may be remains of old glaciers are present. One, to the right, has the shape of a tongue. Picture taken under the MOC Public Targeting Program.
+Image:Kaiser Gullies.JPG|Gullies on one wall of Kaiser Crater. Gullies usually are found in only one wall of a crater.
+Image:Gullies in Gorgonum.jpg|Full color image of gullies on wall of Gorgonum Chaos. Image is located in the Phaethontis quadrangle.
+</gallery>
+A few channels on Mars displayed inner channels that suggest sustained fluid flows. The most well-known is the one in Nanedi Valles. Another was found in Nirgal Vallis.<ref name="Malin, M 2001" />
+On 6 December 2006 NASA released photos of two craters in Terra Sirenum and Centauri Montes which appear to show the presence of flowing water on Mars at some point between 1999 and 2001. The pictures were produced by Mars Global Surveyor and are quite possibly the spacecraft's final contribution to our knowledge of Mars and the question of whether water exists on the planet.<ref></ref>
+==Other pictures==
+<gallery class="center" widths="190" heights="180">
+File:Mars Global Surveyor 1.jpg|Image of possible geysers, taken by Mars Global Surveyor and released on 16 October 2000.
+File:M1501228a.jpg|Surface of Mars taken by Mars Global Surveyor.
+File:M1501228b.jpg|Surface of Mars taken by Mars Global Surveyor.
+File:Moc2 166b msss.gif|Surface of Mars taken by Mars Global Surveyor on 10 August 1999.
+File:Coprates layers.JPG|Layers in the canyon wall in Coprates quadrangle, as seen by Mars Global Surveyor, under MOC Public Targeting Program.
+File:Banded terrain in Hellas.JPG|Banded or taffy-pull terrain in Hellas, as seen by Mars Global Surveyor. Origin is unknown at present.
+File:Bright rays in Memnonia.JPG|Bright rays caused by impact throwing out a bright lower layer. Some bright layers contain hydrated minerals. Picture taken by Mars Global Surveyor. Location is Memnonia quadrangle.
+File:PIA05229 label.jpg|Mars Global Surveyor photograph of Opportunity rover's landing site showing "hole in one."
+File:Inverted channelsmgs.JPG|Inverted channels in Aeolis quadrangle. It is believed that stream channels became raised features after coarse materials were deposited and cemented.
+File:Delta on Mars.jpg|Picture probably is of a delta that formed in a huge lake. The area is of great interest to geologists. Evidence of past microbial life may be found in this location.
+File:Pavonis Mons mgs.jpg|Pavonis Mons, located on the equator in Tharsis quadrangle. 
+</gallery>
+==See also==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* List of software bugs
+==References==
+==External links==
+* urltoken NASA JPL Mars Link
+* urltoken NASA mission overview
+* urltoken Mars Global Surveyor Mission Profile by urltoken NASA's Solar System Exploration
+* urltoken Global Surveyor Mission plan
+* urltoken Malin Space Science Systems (complete image gallery)
+* urltoken 04/13/07: Mars Global Surveyor: Report Reveals Reasons for Loss.
+* urltoken New Scientist article on the general relativistic test
+* urltoken MGS Photographs
+
+</ref>
+* 2 November 2006: Spacecraft suffers an error while attempting to reorient a solar panel and communication was lost.
+* 5 November 2006: Weak signals were detected, indicating the spacecraft was awaiting instructions. The signal cut out later that day.<ref name="loss of contact" />
+* 21 November 2006: NASA announces the spacecraft has likely finished its operating career.
+* 6 December 2006: NASA releases imagery taken by MGS of a newly found gully deposit, suggesting that water still flows on Mars.
+* 13 April 2007: NASA releases its Preliminary Report on the cause(s) of MGS loss of contact.<ref name="loss of contact"></ref>

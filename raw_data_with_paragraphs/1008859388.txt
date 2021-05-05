@@ -1,0 +1,64 @@
+Azide
+
+==Preparation==
+===Inorganic azides===
+Sodium azide is made industrially by the reaction of nitrous oxide, N<sub>2</sub>O with sodium amide in liquid ammonia as solvent:<ref></ref>
+:N<sub>2</sub>O + 2 NaNH<sub>2</sub> &rarr; NaN<sub>3</sub> + NaOH + NH<sub>3</sub>
+Many inorganic azides can be prepared directly or indirectly from sodium azide. For example, lead azide, used in detonators, may be prepared from the metathesis reaction between lead nitrate and sodium azide. An alternative route is direct reaction of the metal with silver azide dissolved in liquid ammonia.<ref></ref> Some azides are produced by treating the carbonate salts with hydrazoic acid.
+===Organic azides===
+The principal source of the azide moiety is sodium azide. As a pseudohalogen compound, sodium azide generally displaces an appropriate leaving group (e.g., Br, I, OTs) to give the azido compound. Aryl azides may be prepared by displacement of the appropriate diazonium salt with sodium azide, or trimethylsilyl azide; nucleophilic aromatic substitution is also possible, even with chlorides. Anilines and aromatic hydrazines undergo diazotization, as do alkyl amines and hydrazines.<ref name = braese></ref>
+Appropriately functionalized aliphatic compounds undergo nucleophilic substitution with sodium azide. Aliphatic alcohols give azides via a variant of the Mitsunobu reaction, with the use of hydrazoic acid.<ref name = braese/> Hydrazines may also form azides by reaction with sodium nitrite:<ref></ref>
+: PhNHNH<sub>2</sub> + NaNO<sub>2</sub> → Phenyl azide
+Alkyl or aryl acyl chlorides react with sodium azide in aqueous solution to give acyl azides,<ref></ref><ref></ref> which give isocyanates in the Curtius rearrangement.
+:
+The azo-transfer compounds, trifluoromethanesulfonyl azide and imidazole-1-sulfonyl azide, are prepared from sodium azide as well. They react with amines to give the corresponding azides:
+:RNH<sub>2</sub> → RN<sub>3</sub>
+====Dutt–Wormall reaction====
+A classic method for the synthesis of azides is the Dutt–Wormall reaction<ref></ref> in which a diazonium salt reacts with a sulfonamide first to a diazoaminosulfinate and then on hydrolysis the azide and a sulfinic acid.<ref>Name Reactions: A Collection of Detailed Reaction Mechanisms by Jie Jack Li Published 2003 Springer </ref>
+:
+==Reactions==
+===Inorganic azides===
+Azide salts can decompose with release of nitrogen gas. The decomposition temperatures of the alkali metal azides are: NaN<sub>3</sub> (275&nbsp;°C), KN<sub>3</sub> (355&nbsp;°C), RbN<sub>3</sub> (395&nbsp;°C), and CsN<sub>3</sub> (390&nbsp;°C). This method is used to produce ultrapure alkali metals.<ref>E. Dönges "Alkali Metals" in Handbook of Preparative Inorganic Chemistry, 2nd Ed. Edited by G. Brauer, Academic Press, 1963, NY. Vol. 1. p. 475.</ref>
+Protonation of azide salts gives toxic hydrazoic acid in the presence of strong acids:
+:H<sup>+</sup> + N → HN<sub>3</sub>
+Azide salts may react with heavy metals or heavy metal compounds to give the corresponding azides, which are more shock sensitive than sodium azide alone. They decompose with sodium nitrite when acidified. This is a method of destroying residual azides, prior to disposal.<ref></ref>
+: 2 NaN<sub>3</sub> + 2 HNO<sub>2</sub> → 3 N<sub>2</sub> + 2 NO + 2 NaOH
+Many inorganic covalent azides (e.g., chlorine, bromine, and iodine azides) have been described.<ref></ref>
+The azide anion behaves as a nucleophile; it undergoes nucleophilic substitution for both aliphatic and aromatic systems. It reacts with epoxides, causing a ring-opening; it undergoes Michael-like conjugate addition to 1,4-unsaturated carbonyl compounds.<ref name = braese/>
+Azides can be used as precursors of the metal nitrido complexes by being induced to release N<sub>2</sub>, generating a metal complex in unusual oxidation states (see high-valent iron).
+===Organic azides===
+Organic azides engage in useful organic reactions. The terminal nitrogen is mildly nucleophilic. Azides easily extrude diatomic nitrogen, a tendency that is exploited in many reactions such as the Staudinger ligation or the Curtius rearrangement or for example in the synthesis of γ-imino-β-enamino esters.<ref></ref><ref>Reaction conditions: a) sodium azide 4 eq., acetone, 18 hours reflux 92% chemical yield b) amine, titanium tetrachloride, diethyl ether 14 hr reflux 83% yield. Azide 2 is formed in a nucleophilic aliphatic substitution reaction displacing chlorine in 1 by the azide anion. The ketone reacts with the amine to an imine which tautomerizes to the enamine in 4. In the next rearrangement reaction nitrogen is expulsed and a proton transferred to 6. The last step is another tautomerization with the formation of the enamine 7 as a mixture of cis and trans isomers</ref>
+:
+Azides may be reduced to amines by hydrogenolysis<ref> urltoken or with a phosphine (e.g., triphenylphosphine) in the Staudinger reaction. This reaction allows azides to serve as protected -NH<sub>2</sub> synthons, as illustrated by the synthesis of 1,1,1-Tris(aminomethyl)ethane:
+:3 H<sub>2</sub> + CH<sub>3</sub>C(CH<sub>2</sub>N<sub>3</sub>)<sub>3</sub> → CH<sub>3</sub>C(CH<sub>2</sub>NH<sub>2</sub>)<sub>3</sub> + 3 N<sub>2</sub>
+In the azide alkyne Huisgen cycloaddition, organic azides react as 1,3-dipoles, reacting with alkynes to give substituted 1,2,3-Triazole. 
+Another azide regular is tosyl azide here in reaction with norbornadiene in a nitrogen insertion reaction:<ref></ref>
+:400px
+==Applications==
+About 250 tons of azide-containing compounds are produced annually, the main product being sodium azide.<ref name=Ullmann>Horst H. Jobelius, Hans-Dieter Scharff "Hydrazoic Acid and Azides" in Ullmann's Encyclopedia of Industrial Chemistry, 2005, Wiley-VCH, Weinheim. </ref>
+===Detonators and propellants===
+Sodium azide is the propellant in automobile airbags. It decomposes on heating to give nitrogen gas, which is used to quickly expand the air bag:<ref name=Ullmann/>
+:2 NaN<sub>3</sub> → 2 Na + 3 N<sub>2</sub>
+Heavy metal salts, such as lead azide, Pb(N<sub>3</sub>)<sub>2</sub>, are shock-sensitive detonators which decompose to the corresponding metal and nitrogen, for example:<ref>Shriver and Atkins. Inorganic Chemistry (Fifth Edition). W. H. Freeman and Company, New York, pp 382.</ref>
+:Pb(N<sub>3</sub>)<sub>2</sub> → Pb + 3 N<sub>2</sub>
+Silver and barium salts are used similarly. Some organic azides are potential rocket propellants, an example being 2-dimethylaminoethylazide (DMAZ).
+===Other===
+Because of the hazards associated with their use, few azides are used commercially although they exhibit interesting reactivity for researchers. Low molecular mass azides are considered especially hazardous and are avoided. In the research laboratory, azides are precursors to amines. They are also popular for their participation in the "click reaction" and in Staudinger ligation. These two reactions are generally quite reliable, lending themselves to combinatorial chemistry.
+The antiviral drug zidovudine (AZT) contains an azido group. Some azides are valuable as bioorthogonal chemical reporters.
+Sodium azide is used as a biocide to prevent perturbations and artefacts from uncontrolled microbial growth in laboratory experiments (aqueous solutions, suspensions, slurries.).
+==Safety==
+* Azides are explosophores and toxins. 
+* Sodium azide is toxic (with an oral of 27&nbsp;mg/kg in rats) and can be absorbed through the skin. It decomposes explosively upon heating to above 275&nbsp;°C and reacts vigorously with CS<sub>2</sub>, bromine, nitric acid, dimethyl sulfate, and a series of heavy metals, including copper and lead. In reaction with Brønsted acids the highly toxic explosive hydrazoic acid is released.
+* Heavy metal azides, such as lead azide are primary high explosives detonable when heated or shaken. Heavy-metal azides are formed when solutions of sodium azide or HN<sub>3</sub> vapors come into contact with heavy metals or their salts. Heavy-metal azides can accumulate under certain circumstances, for example, in metal pipelines and on the metal components of diverse equipment (rotary evaporators, freezedrying equipment, cooling traps, water baths, waste pipes), and thus lead to violent explosions.
+* Some organic and other covalent azides are classified as highly explosive and toxic: inorganic azides as neurotoxins; azide ions as cytochrome c oxidase inhibitors.
+* It has been reported that sodium azide and polymer-bound azide reagents react with di- and trihalomethanes to form di- and triazidomethane respectively, which are both unstable without being handled in solutions. Various explosions have been reported during the concentration of reaction mixtures in rotary evaporators. The hazards of diazidomethane (and triazidomethane) have been well documented.<ref></ref><ref></ref>
+* Solid halogen azides are very explosive and should not be prepared in the absence of solvent.<ref></ref>
+==See also==
+*Pentazenium
+==References==
+==External links==
+* urltoken Synthesis of organic azides, recent methods
+* urltoken Synthesizing, Purifying, and Handling Organic Azides
+
+Azide is the anion with the formula N. It is the conjugate base of hydrazoic acid (HN<sub>3</sub>). N is a linear anion that is isoelectronic with carbon dioxide, cyanate, nitrous oxide, NO and NCF. Per valence bond theory, azide can be described by several resonance structures; an important one being <chem>^-N=\oversetN=N^-</chem>. Azide is also a functional group in organic chemistry, RN<sub>3</sub>.<ref name = braese/>
+The dominant application of azides is as a propellant in air bags.

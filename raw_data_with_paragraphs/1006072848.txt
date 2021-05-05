@@ -1,0 +1,93 @@
+Forecasting
+
+==Seasonality and cyclic behaviour==
+===Seasonality===
+Seasonality is a characteristic of a time series in which the data experiences regular and predictable changes which recur every calendar year. Any predictable change or pattern in a time series that recurs or repeats over a one-year period can be said to be seasonal. It is common in many situations – such as grocery store<ref></ref> or even in a Medical Examiner's office<ref></ref>—that the demand depends on the day of the week. In such situations, the forecasting procedure calculates the seasonal index of the “season” – seven seasons, one for each day – which is the ratio of the average demand of that season (which is calculated by Moving Average or Exponential Smoothing using historical data corresponding only to that season) to the average demand across all seasons. An index higher than 1 indicates that demand is higher than average; an index less than 1 indicates that the demand is less than the average.
+===Cyclic behaviour===
+The cyclic behaviour of data takes place when there are regular fluctuations in the data which usually last for an interval of at least two years, and when the length of the current cycle cannot be predetermined. Cyclic behavior is not to be confused with seasonal behavior. Seasonal fluctuations follow a consistent pattern each year so the period is always known. As an example, during the Christmas period, inventories of stores tend to increase in order to prepare for Christmas shoppers. As an example of cyclic behaviour, the population of a particular natural ecosystem will exhibit cyclic behaviour when the population decreases as its natural food source decreases, and once the population is low, the food source will recover and the population will start to increase again. Cyclic data cannot be accounted for using ordinary seasonal adjustment since it is not of fixed period.
+==Applications==
+Forecasting has applications in a wide range of fields where estimates of future conditions are useful. Not everything can be forecast reliably, if the factors that relate to what is being forecast are known and well understood and there is a significant amount of data that can be used very reliable forecasts can often be obtained. If this is not the case or if the actual outcome is affected by the forecasts, the reliability of the forecasts can be significantly lower.<ref name=" urltoken 
+Climate change and increasing energy prices have led to the use of Egain Forecasting for buildings. This attempts to reduce the energy needed to heat the building, thus reducing the emission of greenhouse gases. Forecasting is used in customer demand planning in everyday business for manufacturing and distribution companies.
+While the veracity of predictions for actual stock returns are disputed through reference to the Efficient-market hypothesis, forecasting of broad economic trends is common. Such analysis is provided by both non-profit groups as well as by for-profit private institutions.
+Forecasting exchange rate movements is typically achieved through a combination of chart and fundamental analysis. An essential difference between chart analysis and fundamental economic analysis is that chartists study only the price action of a market, whereas fundamentalists attempt to look to the reasons behind the action.<ref></ref> Financial institutions assimilate the evidence provided by their fundamental and chartist researchers into one note to provide a final projection on the currency in question.<ref name="InstutionalResearch">Pound Sterling Live. urltoken "Euro Forecast from Institutional Researchers", A list of collated exchange rate forecasts encompassing technical and fundamental analysis in the foreign exchange market.</ref>
+Forecasting has also been used to predict the development of conflict situations.<ref>T. Chadefaux (2014). "Early warning signals for war in the news". Journal of Peace Research, 51(1), 5-18</ref> Forecasters perform research that uses empirical results to gauge the effectiveness of certain forecasting models.<ref></ref> However research has shown that there is little difference between the accuracy of the forecasts of experts knowledgeable in the conflict situation and those by individuals who knew much less.<ref></ref>
+Similarly, experts in some studies argue that role thinking does not contribute to the accuracy of the forecast.<ref></ref> The discipline of demand planning, also sometimes referred to as supply chain forecasting, embraces both statistical forecasting and a consensus process. An important, albeit often ignored aspect of forecasting, is the relationship it holds with planning. Forecasting can be described as predicting what the future will look like, whereas planning predicts what the future should look like.<ref></ref><ref></ref>
+There is no single right forecasting method to use. Selection of a method should be based on your objectives and your conditions (data etc.).<ref></ref> A good place to find a method, is by visiting a selection tree. An example of a selection tree can be found here.<ref></ref>
+Forecasting has application in many situations:
+*Supply chain management - Forecasting can be used in supply chain management to ensure that the right product is at the right place at the right time. Accurate forecasting will help retailers reduce excess inventory and thus increase profit margin. Studies have shown that extrapolations are the least accurate, while company earnings forecasts are the most reliable.<ref></ref> Accurate forecasting will also help them meet consumer demand.
+*Customer demand planning
+*Economic forecasting
+*Earthquake prediction
+*Egain forecasting
+*Finance against risk of default via credit ratings and credit scores
+*Land use forecasting
+*PECOTA
+*Political forecasting
+*Product forecasting
+*Sales forecasting
+*Technology forecasting
+*Telecommunications forecasting
+*Transport planning and Transportation forecasting
+*Weather forecasting, Flood forecasting and Meteorology
+==Limitations==
+Limitations pose barriers beyond which forecasting methods cannot reliably predict.
+There are many events and values that cannot be forecast reliably. Events such as the roll of a die or the results of the lottery cannot be forecast because they are random events and there is no significant relationship in the data. When the factors that lead to what is being forecast are not known or well understood such as in stock and foreign exchange markets forecasts are often inaccurate or wrong as there is not enough data about everything that affects these markets for the forecasts to be reliable, in addition the outcomes of the forecasts of these markets change the behavior of those involved in the market further reducing forecast accuracy.<ref name=" urltoken 
+The concept of "self-destructing predictions" concerns the way in which some predictions can undermine themselves by influencing social behavior.<ref name=":0"></ref> This is because "predictors are part of the social context about which they are trying to make a prediction and may influence that context in the process".<ref name=":0" /> For example, a forecast that a large percentage of a population will become HIV infected based on existing trends may cause more people to avoid risky behavior and thus reduce the HIV infection rate, invalidating the forecast (which might have remained correct if it had not been publicly known). Or, a prediction that cybersecurity will become a major issue may cause organizations to implement more security cybersecurity measures, thus limiting the issue.
+===Performance limits of fluid dynamics equations===
+As proposed by Edward Lorenz in 1963, long range weather forecasts, those made at a range of two weeks or more, are impossible to definitively predict the state of the atmosphere, owing to the chaos theory of the fluid dynamics equations involved. Extremely small errors in the initial input, such as temperatures and winds, within numerical models double every five days.<ref></ref>
+==See also==
+* Accelerating change
+* Cash flow forecasting
+* Collaborative planning, forecasting, and replenishment
+* Earthquake prediction
+* Energy forecasting
+* Financial forecast
+* Forecasting bias
+* Foresight (future studies)
+* Futures studies
+* Futurology
+* Kondratiev wave
+* Optimism bias
+* Planning
+* Prediction
+* Predictive analytics
+* Risk management
+* Scenario planning
+* Spending wave
+* Strategic foresight
+* Technology forecasting
+* Time series
+* Weather forecasting
+* Wind power forecasting
+==References==
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*.
+==External links==
+*
+* urltoken Forecasting Principles: "Evidence-based forecasting"
+* urltoken International Institute of Forecasters
+* urltoken Introduction to Time series Analysis (Engineering Statistics Handbook) - A practical guide to Time series analysis and forecasting
+* urltoken Time Series Analysis
+* urltoken Global Forecasting with IFs
+* urltoken Earthquake Electromagnetic Precursor Research
+* urltoken Forecasting Science and Theory of Forecasting
+
+</ref> Further, two-step-ahead or in general p-step-ahead forecasts can be computed by first forecasting the value immediately after the training set, then using this value with the training set values to forecast two periods ahead, etc.
+See also
+*Calculating demand forecast accuracy
+*Consensus forecasts
+*Forecast error
+*Predictability
+*Prediction intervals, similar to confidence intervals
+*Reference class forecasting

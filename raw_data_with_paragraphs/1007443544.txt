@@ -1,0 +1,45 @@
+Race to the bottom
+
+==History and usage==
+The concept of a regulatory "race to the bottom" emerged in the United States during the late 1800s and early 1900s, when there was charter competition among states to attract corporations to base in their jurisdiction. Some, such as Justice Louis Brandeis, described the concept as the "race to the bottom" and others, as the "race to efficiency". <ref name = "coined" />
+In the late 19th century, joint-stock company control was being liberalised in Europe, where countries were engaged in competitive liberal legislation to allow local companies to compete. This liberalization reached Spain in 1869, Germany in 1870, Belgium in 1873, and Italy in 1883. 
+In 1890, New Jersey enacted a liberal corporation charter, which charged low fees for company registration and lower franchise taxes than other states. Delaware attempted to Delaware corporation to its own state. This competition ended when Governor Woodrow Wilson tightened New Jersey's laws through a series of seven statutes.<ref name="Bloomberg NJ Del."></ref>
+In academic literature, the phenomenon of regulatory competition reducing standards overall was argued for by A.A. Berle and G.C. Means in The Modern Corporation and Private Property (1932). The concept received formal recognition by the US Supreme Court in a decision of Justice Louis Brandeis in the 1933 case Ligget Co. v. Lee (288 U.S. 517, 558–559).<ref name="coined"> p. 41</ref><ref name="ind"> p. 192</ref><ref name="sch"> p. 91</ref>
+Brandeis's "race to the bottom" metaphor was updated in 1974 by William Cary, in an article in the Yale Law Journal, "Federalism and Corporate Law: Reflections Upon Delaware," in which Cary argued for the imposition of national standards for corporate governance.
+Sanford F. Schram explained in 2000 that the term "race to the bottom":
+The term has been used to describe a similar type of competition between corporations.<ref><br /></ref> In 2003, in response to reports that British supermarkets had cut the price of bananas, and by implication had squeezed revenues of banana-growing developing nations, Alistair Smith, international co-coordinator of Banana Link, said "The British supermarkets are leading a race to the bottom. Jobs are being lost and producers are having to pay less attention to social and environmental agreements."<ref></ref>
+Another example is the cruise ship, with corporations headquartered in wealthy developed nations but which registers its ships in countries with minimal environmental or labor laws, and no corporate taxes.<ref name="Cruise Ships"></ref>
+The term has also been used in the context of a trend for some European states to seize refugees' assets.<ref name="Newsweek Refugees"></ref>
+The race to the bottom theory has raised questions about standardizing labor and environmental regulations across nations. There is a debate about if a race to the bottom is actually bad or even possible, and if corporations or nation states should play a bigger role in the regulatory process.<ref>“The Politics of Multinational Corporations.” International Political Economy, by Thomas Oatley, 6th ed., Routledge, Taylor " Francis Group, 2019, pp. 183–207. </ref> 
+International Political Economy scholars Daniel Drezner (of Tufts University) has described the "race to the bottom" as a myth.<ref></ref> He argues that the thesis incorrectly assumes that states exclusively responds to the preferences of capital (and not to other constituents, such as voters), state regulations are sufficiently costly for producers that they would be willing to re-locate elsewhere, and no state has an economy large enough to give it a bargaining power advantage over global capital.<ref></ref>
+== Environmental policy ==
+The race to the bottom has been a tactic widely used among states within the United States of America. The race to the bottom in environmental policy involves both scaling back policies already in place and passing new policies that encourage less environmentally friendly behavior. Some states use this as an economic development strategy, especially in times of financial hardship. For example, in Wisconsin, Governor Scott Walker decreased state environmental staff's capacity in order to accelerate the approval time for a proposed development.<ref name=":0"></ref> Pursuing a race to the bottom philosophy in environmental politics allows states to foster economic growth, but has great consequences for the environment of that state. Conversely, some states have begun to pursue a race to the top strategy, which stresses innovative environmental policies at the state level, with the hopes that these policies will later be adopted by other states.<ref name=":0" /> When a state pursues either a race to the bottom or a race to the top strategy, it speaks to its overall environmental agenda.
+Races to the bottom pose a threat to the environment globally. Thomas Oatley raises the example of toxic waste regulations. It is expensive to treat chemical waste, so corporations wanting to keep production costs low, may move to countries which do not require them to treat their waste before dumping it. A more concrete example is the hydroelectric dam industry in South America. Gerlak notes that country and community desire for foreign investment in hydroelectric dams has created a race to the bottom in environmental regulations. All dam proposals go through an Environmental Impact Assessment no matter which country or countries it will be implemented in. Each country has a different way of conducting these assessments and different standards the dams must meet for approval. The lack of standard Environmental Impact Assessment standards has caused countries to streamline their Environmental Impact Assessment processes in places like Brazil. In some cases, countries require the assessment only after a dam proposal has already been approved. Other countries allow private developers from foreign firms or foreign nations, such as China to submit the Environmental Impact Assessment, which has the potential to omit certain environmental concerns in order to receive project approval and casts doubt on the legitimacy of the Environmental Impact Assessment process. If Environmental Impact Assessments are not done right there is a risk of dams causing severe social and environmental harm. Environmental Impact Assessments are not the only form of government regulation and dams in South America are just one example of a global trend in deregulation by states in order to bring in more foreign direct investment.<ref>Gerlak, A.K., Saguier, M., Mills-Novoa, M. et al. Dams, Chinese investments, and EIAs: A race to the bottom in South America?. Ambio 49, 156–164 (2020). urltoken 
+==See also==
+* Beggar thy neighbour
+* Convergence (economics)
+* Downward harmonization
+* Global workforce
+* Globalization
+* Flag of convenience
+* Free trade
+* Invisible hand
+* Law of rent
+* Multinational corporation
+* Mutual recognition agreement
+* Pollution haven hypothesis
+* Prisoner's dilemma
+* Supply and demand
+* Tragedy of the commons
+==Notes==
+==Further reading==
+*
+*
+*
+*Vogel, David. 1995. Trading Up (book). Cambridge, MA: Harvard University Press. 
+==External links==
+* urltoken Racing to the bottom: Countries skimp enforcement of decent working conditions to get FDI in The Economist (November 27, 2013)
+* Yablon, Charles M., " urltoken The Historical Race Competition for Corporate Charters and the Rise and Decline of New Jersey: 1880–1910", The Journal of Corporation Law (2007)
+
+The race to the bottom is a Socioeconomics phrase to describe government deregulation of the business environment, or reduction in tax rates, in order to attract or retain economic activity in their jurisdictions. While this phenomenon can happen between countries as a result of globalization and free trade, it also can occur within individual countries between their sub-jurisdictions (states, localities, cities). It may occur when competition increases between geographic areas over a particular sector of trade and production.<ref name="Economist 2013"></ref> The effect and intent of these actions is to lower labor rates, cost of business, or other factors (pensions, environmental protection and other externalities) over which governments can exert control.
+This deregulation lowers the cost of production for businesses. Countries/localities with higher labor, environmental standards, or taxes can lose business to countries/localities with less regulation, which in turn makes them want to lower regulations in order to keep firms’ production in their jurisdiction, hence driving the race to the lowest regulatory standards.<ref>“The Politics of Multinational Corporations.” International Political Economy, by Thomas Oatley, 6th ed., Routledge, Taylor " Francis Group, 2019, pp. 183–207. </ref>

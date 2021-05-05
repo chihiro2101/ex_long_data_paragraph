@@ -1,0 +1,198 @@
+Shipping Forecast
+
+==History==
+In October 1859, the steam clipper Royal Charter was wrecked in a strong storm off Anglesey; 450&nbsp;people lost their lives. Due to this loss, Vice-Admiral Robert FitzRoy introduced a warning service for shipping in February 1861, using telegraph communications. This remained the United Kingdom's Met Office primary responsibility for some time afterwards. In 1911, the Met Office began issuing marine weather forecasts which included gale and storm warnings via radio transmission for areas around Great Britain. This service was discontinued during and following the First World War, between 1914 and June 1921, and again during the Second World War between 1939 and 1945.<ref></ref>
+Today, although most ships have onboard technology to provide the Forecast's information, they still use it to check their data.<ref name=Jefferson></ref>
+On Friday 30 May 2014, for the first time in more than 90 years, BBC Radio 4 failed to broadcast the Shipping Forecast at 0520. Staff at Broadcasting House were reading out the report but it was not transmitted. Listeners instead heard BBC World Service.<ref></ref>
+24 August 2017 was the 150th anniversary of the shipping forecast.<ref name="BBC150" />
+== Emergency changes ==
+On 30 March 2020, as a result of emergency rescheduling because of the COVID-19 outbreak, the number of bulletins a day was reduced to three as follows:<ref><br>- </ref>
+* 0048 - transmitted on FM and LW
+* 0533 - transmitted on FM and LW (in place of News Briefing)
+* 1203 (weekdays only) - transmitted on FM and LW
+* 1754 (weekends only) - transmitted on FM and LW
+The previous pattern of four forecasts a day was reinstated on 6 July 2020, but with the early morning forecast still at 0533 instead of 0520.<ref></ref> On 13 July 2020, the early morning forecast reverted to 0520 and News Briefing was reinstated.<ref></ref>
+==Region names==
+The 31 sea areas deemed, officially, of relevance to the British Isles are as shown in this list (and map):
+* Viking
+* North Utsire
+* South Utsire
+* Forties
+* Cromarty
+* Forth
+* Tyne
+* Dogger
+* Fisher
+* German Bight
+* Humber
+* Thames
+* Dover
+* Wight
+* Portland
+* Plymouth
+* Biscay
+* Trafalgar
+* FitzRoy
+* Sole
+* Lundy
+* Fastnet
+* Irish Sea
+* Shannon
+* Rockall
+* Malin
+* Hebrides
+* Bailey
+* Fair Isle
+* Faeroes
+* Southeast Iceland
+These were roughly as listed by 1949. In 1955, meteorologists from North Sea coastal states met and recommended changes: Heligoland be renamed German Bight to reflect more general usage amongst them; Dogger be for its north-eastern portion Fisher (a new zone) and Forties be for its northern half Viking (a new zone); a compass point be added to make Southeast Iceland for clarity. After international consultation, these came to be in 1956.<ref name="Met Office Shipping Fact sheet 8"></ref> In August 1984 North Utsire and South Utsire were made, to harmonise with neighbours<ref name="Met Office Shipping Fact sheet 8"/> thus reduce Viking. Finisterre was renamed FitzRoy in 2002, to end its conflicting with sea area names of the French and Spanish services.<ref name="fitzroy"></ref> Some names differ elsewhere; notably the Dutch KNMI and Norwegian counterpart names Forties the Fladen Ground, while calls from Dover to Plymouth , , and .<ref></ref>
+The forecast follows the order above, a clockwise order whereby all but two (Irish Sea and Fair Isle) touch the last zone announced. Trafalgar figures in the 00:48 forecast and in others when gales or more are due there.
+===Origin of names===
+* Viking, Forties, Dogger, Fisher, Sole and Bailey &ndash; after sandbanks or relative shallows.
+* Cromarty, Forth, Tyne, Humber, Thames and Shannon &ndash; after estuaries.
+* Wight, Lundy, Fair Isle, Faeroes, Portland, Hebrides, Iceland and Utsire (an archaic spelling of Utsira) &ndash; after islands. 
+* German Bight &ndash; a bay of Northern Europe.<ref name=Jefferson/>
+* Dover and Plymouth &ndash; after ports.
+* Rockall and Fastnet &ndash; after isolated stacks/islets.
+* Malin &ndash; after Malin Head, the northernmost point of the island of Ireland. The Malin Sea was defined later than the shipping forecast area and has slightly different boundaries.
+* Irish Sea &ndash; after the Irish Sea.
+* Biscay &ndash; after the Bay of Biscay
+* Trafalgar &ndash; after Cape Trafalgar, Andalusia, Spain.
+* FitzRoy &ndash; after Robert FitzRoy, the first professional weather forecaster, captain of and founder of the Met Office.<ref name="fitzroy"/>
+===Coastal weather stations===
+The coastal weather stations named in the Shipping Forecast (and numbered on the map) are:
+* Tiree Automatic (1)
+* Stornoway (2)
+* Lerwick (3)
+* Wick Automatic (0048 only)
+* Aberdeen (0048 only)
+* Leuchars (4)
+* Boulmer (0048 only)
+* Bridlington (5)
+* Sandettie Light Vessel Automatic (6)
+* Greenwich Light Vessel Automatic (7)
+* St. Catherine's Point Automatic (0048 only)
+* Jersey (8)
+* Channel Light Vessel Automatic (9)
+* Scilly Automatic (10)
+* Milford Haven (0048 only)
+* Aberporth (0048 only)
+* Valley (0048 only)
+* Liverpool Crosby (0048 only)
+* Valentia (11)
+* Ronaldsway (12)
+* Malin Head (13)
+* Machrihanish Automatic (0048 only)
+===Inshore waters===
+The Shipping Forecast includes a "general situation" update for the British Isles, followed by a forecast for inshore waters of the United Kingdom, divided by area. These areas are:
+# Cape Wrath – Rattray Head including Orkney
+# Rattray Head – Berwick-upon-Tweed
+# Berwick-upon-Tweed – Whitby
+# Whitby – Gibraltar Point
+# Gibraltar Point – North Foreland
+# North Foreland – Selsey Bill
+# Selsey Bill – Lyme Regis
+# Lyme Regis – Land's End including the Isles of Scilly
+# Land's End – St David's Head including the Bristol Channel
+# St David's Head – Great Orme Head including St George's Channel
+# Great Orme Head – Mull of Galloway
+# Isle of Man
+# Lough Foyle – Carlingford Lough (covers the entire coastline of Northern Ireland)
+# Mull of Galloway – Mull of Kintyre including the Firth of Clyde and the North Channel
+# Mull of Kintyre – Ardnamurchan Point
+# Ardnamurchan Point – Cape Wrath
+# Shetland Isles
+==Broadcast format==
+The basic order of the forecast is:
+# Gale Warnings in Force (If Any)
+# General Synopsis
+# Area Forecasts: Wind Direction/Speed : Weather : Visibility : (Ship icing if appropriate)
+The forecast, excluding the header line, has a limit of 350 words—except for the 0048 broadcast, where it is increased to 380 to accommodate Trafalgar's inclusion—and has a very strict format.<ref name="format"></ref> It begins with "And now the Shipping Forecast, issued by the Met Office on behalf of the Maritime and Coastguard Agency at xxxx today." This format is followed quite strictly, although some continuity announcers read out the actual date of issue as opposed to the word "today". This is followed by gale warnings (winds of force 8 or more on the Beaufort scale), if any (e.g., "There are warnings of gales in Rockall, Malin, Hebrides, Bailey, and Fair Isle"). This sometimes follows the opposite format (e.g., "There are warnings of gales in all areas except Biscay, Trafalgar and FitzRoy").
+The General Synopsis follows, giving the position, pressure (in millibars) and track of pressure areas (e.g., "Low, Rockall, 987, deepening rapidly, expected Fair Isle 964 by 0700 tomorrow"). Each area's forecast is then read out. Several areas may be combined into a single forecast where the conditions are expected to be similar. Wind direction is given first, then strength (on the Beaufort scale), followed by precipitation, if any, and (usually) lastly visibility. Forecast times are spelled out as digits on the 24-hour clock, for example "two-three-double-O", and barometric pressures are pronounced as whole numbers, for example "a thousand and five".<ref>
+</ref>
+Change in wind direction is indicated by "veering" (clockwise change) or "backing" (anti-clockwise change). Winds at or above force 8 are also described by name for emphasis, i.e., Gale 8, Severe Gale 9, Storm 10, Violent Storm 11 and Hurricane force 12. The word "force" is only officially used when announcing force 12 winds.<ref name="format"/> Visibility is given in the format "Good", meaning that the visibility is greater than ; "Moderate", where visibility is between nautical miles; "Poor", where visibility is between 1,000 metres and two nautical miles and "Fog", where visibility is less than . When severe winter cold combines with strong winds and a cold sea, icing can occur, normally only in sea area Southeast Iceland; if expected, icing warnings (light, moderate or severe) are given as the last item of each sea area forecast.
+Examples of area forecasts:
+:* "Humber, Thames. Southeast veering southwest 4 or 5, occasionally 6 later. Thundery showers. Moderate or good, occasionally poor."
+:* "Tyne, Dogger. Northeast 3 or 4. Occasional rain. Moderate or poor."
+:* "Rockall, Malin, Hebrides. Southwest gale 8 to storm 10, veering west, severe gale 9 to violent storm 11. Rain, then squally showers. Poor, becoming moderate."
+:* "Southeast Iceland. North 7 to severe gale 9. Heavy snow showers. Good, becoming poor in showers. Moderate icing."
+On 10 January 1993, during the Braer Storm, a record North Atlantic low pressure of 914 mb was recorded. The shipping forecast was:
+:* "Rockall, Malin, Hebrides, Bailey. Southwest hurricane force 12 or more."
+With the information provided in the Shipping Forecast it is possible to compile a pressure chart for the coasts of northwestern Europe. Extended shipping forecasts (0520 and 0048) also include weather reports from a list of additional coastal stations and automatic weather logging stations, which are known by their names, such as "Channel Light Vessel Automatic"; these are the Coastal Weather Stations. This additional information does not fall within the 350/380-word restriction. (RTÉ Radio 1 broadcasts similar coastal reports for Ireland).
+The extended forecast also includes an inshore waters forecast.
+==Frequencies==
+The Shipping Forecast is broadcast on BBC Radio 4 because its longwave signal can be received clearly at sea all around the British Isles regardless of time of day or radio conditions. For the same reason, the Shipping Forecast was broadcast in the BBC National Programme until September 1939, and then after the Second World War on the BBC Light Programme (later BBC Radio 2) until November 1978: these services were all broadcast on longwave. When BBC Radio 4 took over the longwave frequency from Radio 2 on 23 November 1978, the Shipping Forecast moved to Radio 4.
+==Before closedown==
+The last broadcast of the Shipping Forecast at 0048 each day is traditionally preceded by the playing of "Sailing By", a light orchestral piece by Ronald Binge. This is only very rarely omitted, generally when the schedule is running late. Though occasionally played in full, it is common for only a section of the piece to be broadcast; that section being the length required to fill the gap between the previous programme's ending and the start of the forecast at precisely 0048.<ref> urltoken BBC.co.uk</ref> "Sailing By" serves as an identification tool – it is distinctive and as such assists anyone attempting to tune in. The forecast is then followed by the national anthem "God Save the Queen" and the closedown of the station for the day, with the BBC World Service taking over the frequencies after the pips of the Greenwich Time Signal at 0100.
+=="Mini" shipping forecast, maritime safety==
+The Shipping Forecast should not be confused with similar broadcasts given by HM Coastguard to vessels at sea tuned into Marine VHF and MF radio frequencies.
+HM Coastguard's broadcasts can only be heard by vessels or persons using or tuned into marine VHF and MF radio frequencies, whereas the Shipping Forecast can be heard by anyone tuned into BBC Radio 4.
+The Coastguard's broadcasts follow the same format as the shipping forecast using the same terminology and style, but the information only normally applies to the area sector or region covered by that particular Coastguard Co-ordination Centre (such as the Bristol Channel, for instance).
+Announcements of pending broadcasts by HMCG are given on marine Channel 16 VHF and is announced with "Securite. All stations. This is Milford Haven Coastguard. For the Maritime Safety Information, list on Channel 62. This is Milford Haven Coastguard."
+A similar broadcast on MF is initially announced on 2182&nbsp;kHz, with a further frequency specified, e.g., 1770&nbsp;kHz.
+VHF optimum range is approximately 30 nautical miles (NM), effectively line of sight, whereas MF range is much greater at approximately 150 NM, allowing ships in the Atlantic Ocean and North Sea to receive the broadcast.
+==Television==
+On 18 December 1993, as part of the Arena Radio Night, BBC Radio 4 and BBC 2 collaborated on a one off simulcast so the shipping forecast – read that night by Laurie Macmillan – could be seen as well as heard. To date, it is the only time that it has been broadcast on television.
+In addition, a limited shipping forecast concerning the Lundy, Portland and Plymouth sea areas was included as part of the closing down routines of the former ITV companies for South West England, Westward Television and latterly Television South West, until the late 1980s.
+==Influences on popular culture==
+The Shipping Forecast is immensely popular with the British public; it daily attracts listeners in the hundreds of thousands – far more than actually require it.<ref name=baffle></ref> In 1995, a plan to move the late night broadcast by 12 minutes triggered angry newspaper editorials and debates in the UK Parliament and was ultimately scrapped.<ref name=gloabal></ref> Similar outcry greeted the Met Office's decision to rename Finisterre to FitzRoy, but in that case, the decision was carried through.<ref></ref> Peter Jefferson, who read the Forecast for 40 years until 2009, says that he received letters from listeners across the UK saying that the 0048 broadcast helped them get to sleep after a long day.<ref name=Jefferson/> The Controller of BBC Radio 4, Mark Damazer, attempted to explain its popularity:
+Zeb Soanes, a regular Shipping Forecast reader, described it thus:
+===Radio===
+Frank Muir and Denis Norden parodied the Shipping Forecast in a song written for an episode of Take It From Here:
+Dead Ringers parodied the Shipping Forecast using Brian Perkins rapping the forecast ("Dogger, Fisher, German Bight – becoming quite cyclonic. Occasional showers making you feel cat-atatatatatata-tonic."). Many other versions have been used including a "Dale Warning" to warn where Dale Winton could be found over the coming period, and a spoof in which sailors are warned of ghostly galleons and other nightmarish apparitions.
+Stephen Fry, in his 1988 radio programme Saturday Night Fry, issued the following "Shipping Forecast" in the first episode of the programme:
+The BBC Radio 4 monologue sketch show One features a number of Shipping Forecast parodies, written by David Quantick and Daniel Maier, such as the following, originally broadcast on BBC Radio 4 on Thursday 21 February 2008:
+In an episode of the BBC Radio 4 series Live on Arrival, Steve Punt reads the Shopping Forecast, in which the regions are replaced with supermarket names, e.g. "Tesco, Fine Fare, Sainsbury". The sketch ends with the information, "joke mileage decreasing, end of show imminent".
+On the broadcast at 0048 on Saturday 19 March 2011, the area forecasts were delivered by John Prescott to raise awareness of Red Nose Day 2011, a charity event organised by Comic Relief. The format then reverted to the BBC continuity announcer Alice Arnold for the reports on coastal areas. On delivering the area forecast for Humber, Prescott (who had represented the parliamentary constituency of Kingston upon Hull East for almost 40 years before retiring) slipped deliberately into his distinctive East Yorkshire accent – "'Umber – without the 'H', as we say it up there".
+The comedian Marti Caine listed the Shipping Forecast as one of her eight records when she made her second appearance on Desert Island Discs on 24 March 1991.<ref></ref>
+The BBC Radio 1 That's What He Said Podcast by Greg James featured the shipping forecast being read out by Grace Hopper. This was done to make light of her inability to pronounce certain words.
+===Film and television===
+Terence Davies' film Distant Voices, Still Lives, a largely autobiographical account of growing up in Liverpool during the 1940s and 1950s, opens with a shipping forecast from this period.
+In an episode of the BBC sitcom Keeping Up Appearances, a soon-to-be-sailing Hyacinth Bucket calls over the telephone for an advance shipping forecast, even though the yacht she and her husband Richard are to visit is moored on the Thames near Oxford. Names mentioned (in scene sequence) are: Fisher, German Bight and Cromarty, Dogger and Heligoland (also known as German Bight).
+In an episode of the BBC sitcom Ever Decreasing Circles, Howard and Hilda leave their neighbour Paul's house party early, explaining that they must get back to listen to the Shipping Forecast. Paul asks why, seeing as they have never owned a boat. Howard explains, "Well, it takes us nicely into the news."
+Mentioned briefly in the film Kes (see Art and Literature section above).
+A recording of part of the forecast is played over the opening and closing credits of Rick Stein's 2000 TV series Rick Stein's Seafood Lover's Guide.
+In an episode of the Channel 4 television series Black Books, the character Fran Katzenjammer listens to the shipping forecast because a friend from her college is reading it. She finds his voice arousing.
+In the BBC sitcom As Time Goes By, the character Mrs Bale is obsessed by and constantly mentions The Shipping Forecast much to the befuddlement of the other characters.
+Many characters in the 1983 children's cartoon, The Adventures of Portland Bill are named after features mentioned in the Shipping Forecast.
+In the movie I, Daniel Blake, the titular character's late wife is said to have been a listener of the Shipping Forecast, with Daniel playing "Sailing By" on a cassette. The song is played at the end of the film at Daniel's funeral.
+The actress Olivia Colman has said that listening to the Shipping Forecast through an earpiece helps her keep her emotions in check while filming some of the more emotional scenes on The Crown, to accurately portray the cool and collected character of the monarch Elizabeth II.<ref></ref>
+===Video games===
+In Funcom's massively multiplayer online role-playing game The Secret World, the shipping forecast plays over the radio in a London Underground station, adding to the British flavour distinguishing the setting from other worldwide locations featured in the game.
+===Literature===
+A number of minor characters in Jasper Fforde's first novel, The Eyre Affair, are named after Sea Areas in the shipping forecast.
+Charlie Connelly's 2004 book Attention All Shipping (Little Brown: describes a project to visit every sea area with any land, and to travel by air or sea over the others.
+===Art===
+For his project The Shipping Forecast – an Artist's Journey, which began in 2015, the Troon-based artist Ian Rawnsley plans to travel by sea through each of the sea areas and create a painting inspired by each, to raise funds for Macmillan Cancer Support.<ref><br>- </ref>
+=== Bedtime story ===
+In March 2017, Peter Jefferson recorded a reinvented version of the Shipping Forecast as "a bedtime story for grown-ups".<ref><br>- </ref>
+==Online==
+The Shipping Forecast is published online by the Met Office and the BBC.<ref></ref>
+The daily 0048 forecast is available online via BBC iPlayer.
+==See also==
+* Inshore coastal areas of the United Kingdom
+* List of coastal weather stations in the British Isles
+==References==
+==Further reading==
+* Power, Mark (photog) & Chandler, David (text) (1998) The Shipping Forecast. London: Zelda Cheatle Press in association with Network Photographers 
+* Collyer, Peter (1998) Rain Later, Good: illustrating the Shipping Forecast. Bradford on Avon: Thomas Reed 
+* Connelly, Charlie (2004) urltoken Attention All Shipping: a journey round the Shipping Forecast. London: Little, Brown 
+* Bevan, A. C. (2000) Of Sea-graves & Sand-shrines. Todmorden: Arc (a few poems)
+* Carolan, Victoria (2011) " urltoken The shipping forecast and British national identity", Journal for Maritime Research, volume 13, issue 2, 2011
+==External links==
+* urltoken The BBC's Shipping Forecast page containing the latest forecast when it is released (i.e. 0015, 0505, 1130 and 1725).
+* urltoken The Meteorological Office's Shipping Forecast page contains the same forecast as the BBC site.
+* urltoken The BBC's forecast for inshore waters.
+* urltoken Rules on the format of the UK Shipping Forecast
+* urltoken Precise latitude / longitude boundaries of the Weather areas
+* urltoken Shipping Forecast's 'baffling' legacy
+* urltoken Shipping Forecast Takes Global Bow – The BBC's Zeb Soanes reads the Shipping Forecast at the Beijing Olympics' Closing Ceremony
+* urltoken Kathy Clugston reads the Shipping Forecast
+
+The Shipping Forecast is a BBC Radio broadcast of weather reports and forecasts for the seas around the coasts of the British Isles. It is produced by the Met Office and broadcast by BBC Radio 4 on behalf of the Maritime and Coastguard Agency. The forecasts sent over the Navtex system use a similar format and the same sea areas. The waters around the British Isles are divided into 31 sea areas, also known as weather areas (see map below).<ref></ref> There are currently four broadcasts per day at the following (UK local) times:
+* 0048 – transmitted on FM and LW. Includes weather reports from an extended list of coastal stations at 0052 and an inshore waters forecast at 0055 and concludes with a brief UK weather outlook for the coming day. The broadcast finishes at approximately 0058.
+* 0520 – transmitted on FM and LW. Includes weather reports from coastal stations at 0525, and an inshore waters forecast at 0527.
+* 1201 – normally transmitted on LW only.
+* 1754 – transmitted only on LW on weekdays, as an opt-out from the PM (Radio 4), but at weekends transmitted on both FM and LW.
+The 0048, 1201 and 1754 forecasts are read by the duty announcer, but the 0520 forecast is read by the weather forecaster (there being no separate Radio 4 continuity operation at that time). The unique and distinctive presentation style of these broadcasts has led to their attracting an audience much wider than that directly interested in maritime weather conditions.
+In August 2017, Radio 4 celebrated the service's 150th anniversary.<ref name="BBC150"></ref>

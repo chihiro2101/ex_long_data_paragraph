@@ -1,0 +1,88 @@
+Interest rate
+
+==Influencing factors==
+Interest rates vary according to:
+* the government's directives to the central bank to accomplish the government's goals
+* the currency of the principal sum lent or borrowed
+* the term to maturity of the investment
+* the perceived default probability of the borrower
+* supply and demand in the market
+* the amount of collateral
+* special features like call provisions
+* reserve requirements
+* compensating balance
+as well as other factors.
+==Example==
+A company borrows capital from a bank to buy assets for its business. In return, the bank charges the company interest. (The lender might also require rights over the new assets as collateral.)
+A bank will use the capital deposited by individuals to make loans to their clients. In return, the bank should pay individuals who have deposited their capital interest. The amount of interest payment depends on the interest rate and the amount of capital they deposited.
+==Related terms==
+Base rate usually refers to the annualized rate offered on overnight deposits by the central bank or other monetary authority.
+The Annual percentage rate (APR) may refer either to a nominal APR or an effective APR (EAPR). The difference between the two is that the EAPR accounts for fees and compounding, while the nominal APR does not.
+The annual equivalent rate (AER), also called the effective annual rate, is used to help consumers compare products with different compounding frequencies on a common basis, but does not account for fees.
+A discount rate is applied to calculate present value.
+For an interest-bearing security, coupon rate is the ratio of the annual coupon amount (the coupon paid per year) per unit of par value, whereas current yield is the ratio of the annual coupon divided by its current market price. Yield to maturity is a bond's expected internal rate of return, assuming it will be held to maturity, that is, the discount rate which equates all remaining cash flows to the investor (all remaining coupons and repayment of the par value at maturity) with the current market price.
+Based on the banking business, there are deposit interest rate and loan interest rate.
+Based on the relationship between supply and demand of market interest rate, there are fixed interest rate and floating interest rate.
+==Monetary policy==
+Interest rate targets are a vital tool of monetary policy and are taken into account when dealing with variables like investment, inflation, and unemployment. The central banks of countries generally tend to reduce interest rates when they wish to increase investment and consumption in the country's economy. However, a low interest rate as a macro-economic policy can be risky and may lead to the creation of an economic bubble, in which large amounts of investments are poured into the real-estate market and stock market. In Developed country, interest-rate adjustments are thus made to keep inflation within a target range for the health of economic activities or cap the interest rate concurrently with economic growth to safeguard economic momentum.<ref></ref><ref></ref><ref></ref><ref></ref><ref></ref>
+==History==
+thumb
+In the past two centuries, interest rates have been variously set either by national governments or central banks. For example, the Federal Reserve federal funds rate in the United States has varied between about 0.25% and 19% from 1954 to 2008, while the Bank of England base rate varied between 0.5% and 15% from 1989 to 2009,<ref>moneyextra.com urltoken Interest Rate History . Retrieved 2008-10-27</ref><ref></ref> and Germany experienced rates close to 90% in the 1920s down to about 2% in the 2000s.<ref></ref><ref>Bundesbank. urltoken BBK – Statistics – Time series database . Retrieved 2008-10-27</ref> During an attempt to tackle spiraling hyperinflation in 2007, the Central Bank of Zimbabwe increased interest rates for borrowing to 800%.<ref>worldeconomies.co.uk urltoken Zimbabwe currency revised to help inflation </ref>
+The prime rate in the late 1970s and early 1980s were far higher than had been recorded – higher than previous US peaks since 1800, than British peaks since 1700, or than Dutch peaks since 1600; "since modern capital markets came into existence, there have never been such high long-term rates" as in this period.<ref></ref>
+Possibly before modern capital markets, there have been some accounts that savings deposits could achieve an annual return of at least 25% and up to as high as 50%. (William Ellis and Richard Dawes, "Lessons on the Phenomenon of Industrial Life. ", 1857, p III–IV)
+==Reasons for changes==
+* Political short-term gain: Lowering interest rates can give the economy a short-run boost. Under normal conditions, most economists think a cut in interest rates will only give a short term gain in economic activity that will soon be offset by inflation. The quick boost can influence elections. Most economists advocate independent central banks to limit the influence of politics on interest rates.
+* Deferred consumption: When money is loaned the lender delays spending the money on consumption goods. Since according to time preference theory people prefer goods now to goods later, in a free market there will be a positive interest rate.
+* Inflationary expectations: Most economies generally exhibit inflation, meaning a given amount of money buys fewer goods in the future than it will now. The borrower needs to compensate the lender for this.
+* Alternative investments: The lender has a choice between using his money in different investments. If he chooses one, he forgoes the returns from all the others. Different investments effectively compete for funds.
+* Risks of investment: There is always a risk that the borrower will go bankrupt, abscond, die, or otherwise default on the loan. This means that a lender generally charges a risk premium to ensure that, across his investments, he is compensated for those that fail.
+* Liquidity preference: People prefer to have their resources available in a form that can immediately be exchanged, rather than a form that takes time to realize.
+* Taxes: Because some of the gains from interest may be subject to taxes, the lender may insist on a higher rate to make up for this loss.
+* Banks: Banks can tend to change the interest rate to either slow down or speed up economy growth. This involves either raising interest rates to slow the economy down, or lowering interest rates to promote economic growth.<ref>Commonwealth Bank urltoken Why do Interest Rates Change? </ref>
+* Economy: Interest rates can fluctuate according to the status of the economy. It will generally be found that if the economy is strong then the interest rates will be high, if the economy is weak the interest rates will be low.
+==Non-market-based theories==
+Some economists like Karl Marx argue that interest rates are not actually set purely by market competition. Rather they argue that interest rates are ultimately set in line with social customs and legal institutions. Karl Marx writes:
+<blockquote> "Customs, juristic tradition, etc., have as much to do with determining the average rate of interest as competition itself, in so far as it exists not merely as an average, but rather as actual magnitude. In many law disputes, where interest has to be calculated, an average rate of interest has to be assumed as the legal rate. If we inquire further as to why the limits of a mean rate of interest cannot be deduced from general laws, we find the answer lies simply in the nature of interest."<ref></ref></blockquote>
+==Real vs nominal==
+The nominal interest rate is the rate of interest with no adjustment for inflation.
+For example, suppose someone deposits $100 with a bank for 1 year, and they receive interest of $10 (before tax), so at the end of the year, their balance is $110 (before tax). In this case, regardless of the rate of inflation, the nominal interest rate is 10% per annum (before tax).
+The real interest rate measures the growth in real value of the loan plus interest, taking inflation into account. The repayment of principal plus interest is measured in real terms compared against the buying power of the amount at the time it was borrowed, lent, deposited or invested.
+If inflation is 10%, then the $110 in the account at the end of the year has the same purchasing power (that is, buys the same amount) as the $100 had a year ago. The real interest rate is zero in this case.
+The real interest rate is given by the Fisher equation:
+: <math>r = \frac</math>
+The formulae in this article are exact if logarithmic units are used for relative changes, or equivalently if logarithms of indices are used in place of rates, and hold even for large relative changes.
+==Zero rate policy==
+A so-called "zero interest-rate policy" (ZIRP) is a very low—near-zero—central bank target interest rate. At this zero lower bound the central bank faces difficulties with conventional monetary policy, because it is generally believed that market interest rates cannot realistically be pushed down into negative territory.
+==Negative nominal or real rates==
+Nominal interest rates are normally positive, but not always. In contrast, real interest rates can be negative, when nominal interest rates are below inflation. When this is done via government policy (for example, via reserve requirements), this is deemed financial repression, and was practiced by countries such as the United States and United Kingdom following World War II (from 1945) until the late 1970s or early 1980s (during and following the Post–World War II economic expansion).<ref></ref><ref></ref> In the late 1970s, United States Treasury security with negative real interest rates were deemed certificates of confiscation.<ref></ref>
+===On central bank reserves===
+A so-called "negative interest rate policy" (NIRP) is a negative (below zero) central bank target interest rate.
+====Theory====
+Given the alternative of holding cash, and thus earning 0%, rather than lending it out, profit-seeking lenders will not lend below 0%, as that will guarantee a loss, and a bank offering a negative deposit rate will find few takers, as savers will instead hold cash.<ref></ref>
+Negative interest rates have been proposed in the past, notably in the late 19th century by Silvio Gesell.<ref name="mankiw"></ref> A negative interest rate can be described (as by Gesell) as a "tax on holding money"; he proposed it as the Freigeld (free money) component of his Freiwirtschaft (free economy) system. To prevent people from holding cash (and thus earning 0%), Gesell suggested issuing money for a limited duration, after which it must be exchanged for new bills; attempts to hold money thus result in it expiring and becoming worthless. Along similar lines, John Maynard Keynes approvingly cited the idea of a carrying tax on money,<ref name="mankiw" /> (1936, The General Theory of Employment, Interest and Money) but dismissed it due to administrative difficulties.<ref name="wired"></ref> More recently, a carry tax on currency was proposed by a Federal Reserve employee (Marvin Goodfriend) in 1999, to be implemented via magnetic strips on bills, deducting the carry tax upon deposit, the tax being based on how long the bill had been held.<ref name="wired" />
+It has been proposed that a negative interest rate can in principle be levied on existing paper currency via a serial number lottery, such as randomly choosing a number 0 through 9 and declaring that notes whose serial number end in that digit are worthless, yielding an average 10% loss of paper cash holdings to hoarders; a drawn two-digit number could match the last two digits on the note for a 1% loss. This was proposed by an anonymous student of Greg Mankiw,<ref name="mankiw" /> though more as a thought experiment than a genuine proposal.<ref>
+See follow-up blog posts for discussion: " urltoken Observations on Negative Interest Rates", 19 April 2009;
+" urltoken More on Negative Interest Rates", 22 April 2009; " urltoken More on Negative Interest Rates", 7 May 2009, all in urltoken Greg Mankiw's Blog: Random Observations for Students of Economics</ref>
+====Practice====
+Both the European Central Bank starting in 2014 and the Bank of Japan starting in early 2016 pursued the policy on top of their earlier and continuing quantitative easing policies. The latter's policy was said at its inception to be trying to 'change Japan's “deflationary mindset.”' In 2016 Sweden, Denmark and Switzerland—not directly participants in the Euro currency zone—also had NIRPs in place.<ref>Nakamichi, Takashi, Megumi Fujikawa and Eleanor Warnock, urltoken "Bank of Japan Introduces Negative Interest Rates" (possibly subscription-only), Wall Street Journal, January 29, 2016. Retrieved 2016-01-29.</ref>
+Countries such as Sweden and Denmark have set negative interest on reserves—that is to say, they have charged interest on reserves.<ref></ref><ref></ref><ref></ref><ref></ref>
+In July 2009, Sweden's central bank, the Riksbank, set its policy repo rate, the interest rate on its one-week deposit facility, at 0.25%, at the same time as setting its overnight deposit rate at −0.25%.<ref name="sweden-negative-repo-table"></ref> The existence of the negative overnight deposit rate was a technical consequence of the fact that overnight deposit rates are generally set at 0.5% below or 0.75% below the policy rate.<ref name="sweden-negative-repo-table" /><ref name=":0"></ref> The Riksbank studied the impact of these changes and stated in a commentary report<ref></ref> that they led to no disruptions in Swedish financial markets.
+===On government bond yields===
+During the European debt crisis, government bonds of some countries (Switzerland, Denmark, Germany, Finland, the Netherlands and Austria) have been sold at negative yields. Suggested explanations include desire for safety and protection against the eurozone breaking up (in which case some eurozone countries might redenominate their debt into a stronger currency).<ref></ref>
+===On corporate bond yields===
+For practical purposes, investors and academics typically view the yields on government or quasi-government bonds guaranteed by a small number of the most creditworthy governments (UK, USA, Switzerland, EU, Japan) to effectively have negligible default risk. As financial theory would predict, investors and academics typically do not view non-government guaranteed corporate bonds in the same way. Most credit analysts value them at a spread to similar government bonds with similar duration, geographic exposure, and currency exposure. Through 2018 there have only been a few of these corporate bonds that have traded at negative nominal interest rates.
+The most notable example of this was Nestle, some of whose AAA-rated bonds traded at negative nominal interest rate in 2015. However, some academics and investors believe this may have been influenced by volatility in the currency market during this period.
+==See also==
+* Forward rate
+* List of countries by central bank interest rates
+* Macroeconomics
+* Rate of return
+* Short-rate model
+* Spot rate
+==Notes==
+==References==
+*
+
+An interest rate is the amount of interest due per period, as a proportion of the amount lent, deposited or borrowed (called the principal sum). The total interest on an amount lent or borrowed depends on the principal sum, the interest rate, the compounding frequency, and the length of time over which it is lent, deposited or borrowed.
+It is defined as the proportion of an amount loaned which a lender charges as interest to the borrower, normally expressed as an annual percentage.<ref></ref> It is the rate a bank or other lender charges to borrow its money, or the rate a bank pays its savers for keeping money in an account.<ref></ref>
+The annual interest rate is the rate over a period of one year. Other interest rates apply over different periods, such as a month or a day, but they are usually annualised.

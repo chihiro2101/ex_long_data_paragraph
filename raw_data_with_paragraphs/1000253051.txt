@@ -1,0 +1,150 @@
+Heat exchanger
+
+==Flow arrangement==
+left
+<gallery style="float:right; margin:0.5em 0 0.5em 1em">
+Image:Heat_exc_1-1.svg|Fig. 1: Shell and tube heat exchanger, single pass (1–1 parallel flow)
+Image:Heat_exc_2-1.png|Fig. 2: Shell and tube heat exchanger, 2-pass tube side (1–2 crossflow)
+Image:Heat_exc_2-2.png|Fig. 3: Shell and tube heat exchanger, 2-pass shell side, 2-pass tube side (2-2 countercurrent)
+</gallery>
+There are three primary classifications of heat exchangers according to their flow arrangement. In parallel-flow heat exchangers, the two fluids enter the exchanger at the same end, and travel in parallel to one another to the other side. In counter-flow heat exchangers the fluids enter the exchanger from opposite ends. The counter current design is the most efficient, in that it can transfer the most heat from the heat (transfer) medium per unit mass due to the fact that the average temperature difference along any unit length is higher. See countercurrent exchange. In a cross-flow heat exchanger, the fluids travel roughly perpendicular to one another through the exchanger.
+For efficiency, heat exchangers are designed to maximize the surface area of the wall between the two fluids, while minimizing resistance to fluid flow through the exchanger. The exchanger's performance can also be affected by the addition of fins or corrugations in one or both directions, which increase surface area and may channel fluid flow or induce turbulence.
+The driving temperature across the heat transfer surface varies with position, but an appropriate mean temperature can be defined. In most simple systems this is the "log mean temperature difference" (LMTD). Sometimes direct knowledge of the LMTD is not available and the NTU method is used.
+==Types==
+Double pipe heat exchangers are the simplest exchangers used in industries. On one hand, these heat exchangers are cheap for both design and maintenance, making them a good choice for small industries. On the other hand, their low efficiency coupled with the high space occupied in large scales, has led modern industries to use more efficient heat exchangers like shell and tube or plate. However, since double pipe heat exchangers are simple, they are used to teach heat exchanger design basics to students as the fundamental rules for all heat exchangers are the same.
+1.Double-pipe heat exchanger 
+(a)When the other fluid flows into the annular gap between two tubes, one fluid flows through the smaller pipe. The flow may be a current flow or parallel flow in a double pipe heat exchanger. 
+(b)Parallel flow, where at the same point, the hot and cold liquids join, flow in the same direction and exit at the same end. 
+ 
+(c) Counter flow, where at opposite ends, hot and cold fluids join, flow in the opposite direction and exit at opposite ends. 
+ 
+The figure above illustrates the parallel and counter-flow flow directions of the fluid exchanger. If this is done under comparable conditions, more heat is transferred to the counter-flow device than to the parallel flow heat exchanger. Owing to the large temperature differential arising from the high thermal voltage, the temperature profiles of the two heat exchangers display two significant disadvantages in the parallel-flow design. Which indicates that the partnership is a distinct disadvantage if it is intended a design is to increase the cold fluid temperature. 
+Where two fluids are expected to be taken to exactly the same temperature, the parallel flow configuration is beneficial. While the counter flow heat exchanger has more significant advantages compare to parallel flow design. Where it can reduce thermal stress and produce more uniform rate of heat transfer. 
+ 
+2.Shell-and-tube heat exchanger 
+The main constituents of this type of heat exchanger seem to be the tube box, shell, the front rear end headers, and baffles or fins. 
+The baffles are used to support the tubes, direct the fluid flow to the tubes in an approximately natural manner, and maximize the turbulence of the shell fluid. There is many various kinds of baffles, and the choice of baffle form, spacing, and geometry depending on the allowable flow rate of the drop in shell-side force, the need for tube support, and the flow-induced vibrations. There are several variations of shell-and-tube exchangers available; the differences lie in the arrangement of flow configurations and details of construction. 
+In application to cool air with shell-and-tube technology (such as intercooler / charge air cooler for combustion engines), fins can be added on the tubes to increase heat transfer area on air side and create a tubes & fins configuration. 
+ 
+3.Plate Heat Exchanger 
+A plate heat exchanger contains an amount of thin shaped heat transfer plates bundled together. The gasket arrangement of each pair of plates provides two separate channel system. Each pair of plates form a channel where the fluid can flow through. The pairs are attached by welding and bolting methods. The following shows the components in the heat exchanger. 
+ 
+In single channels the configuration of the gaskets enables flow through. Thus, this allows the main and secondary media in counter-current flow. A gasket plate heat exchanger has a heat region from corrugated plates. The gasket function as seal between plates and they are located between frame and pressure plates. Fluid flows in a counter current direction throughout the heat exchanger. An efficient thermal performance is produced. Plates are produced in different depths, sizes and corrugated shapes. There is different type of plates available which includes plate and frame, plate and shell and spiral plate heat exchangers. The distribution area guarantees the flow of fluid to the whole heat transfer surface. This helps to prevent stagnant area that can cause accumulation of unwanted material on solid surfaces. High flow turbulence between plates results in a greater transfer of heat and a decrease in pressure. 
+ 
+4.Condensers and Boilers 
+Heat exchangers using a two-phase heat transfer system are condensers, boilers and evaporators. Condensers are instruments that take and cool hot gas or vapor to the point of condensation and transform the gas into a liquid form. The point at which liquid transforms to gas is called vaporization and vice versa is called condensation. Surface condenser is the most common type of condenser where it includes a water supply device. Figure 5 below displays a two-pass surface condenser. 
+ 
+The pressure of steam at the turbine outlet is low where the steam density is very low where the flow rate is very high. To prevent a decrease in pressure in the movement of steam from the turbine to condenser, the condenser unit is placed underneath and connected to the turbine. Inside the tubes the cooling water runs in a parallel way, while steam moves in a vertical downward position from the wide opening at the top and travel through the tube. 
+Furthermore, boilers are categorized as initial application of heat exchangers. The word steam generator was regularly used to describe a boiler unit where a hot liquid stream is the source of heat rather than the combustion products. Depending on the dimensions and configurations the boilers are manufactured. Several boilers are only able to produce hot fluid while on the other hand the others are manufactured for steam production
+===Shell and tube heat exchanger===
+thumb
+Shell and tube heat exchangers consist of a series of tubes which contain fluid that must be either heated or cooled. A second fluid runs over the tubes that are being heated or cooled so that it can either provide the heat or absorb the heat required. A set of tubes is called the tube bundle and can be made up of several types of tubes: plain, longitudinally finned, etc. Shell and tube heat exchangers are typically used for high-pressure applications (with pressures greater than 30 bar and temperatures greater than 260&nbsp;°C).<ref name=":0">Saunders, E. A. (1988). Heat Exchanges: Selection, Design and Construction. New York: Longman Scientific and Technical.</ref> This is because the shell and tube heat exchangers are robust due to their shape.<br>Several thermal design features must be considered when designing the tubes in the shell and tube heat exchangers:
+There can be many variations on the shell and tube design. Typically, the ends of each tube are connected to plenums (sometimes called water boxes) through holes in tubesheets. The tubes may be straight or bent in the shape of a U, called U-tubes.
+* Tube diameter: Using a small tube diameter makes the heat exchanger both economical and compact. However, it is more likely for the heat exchanger to foul up faster and the small size makes mechanical cleaning of the fouling difficult. To prevail over the fouling and cleaning problems, larger tube diameters can be used. Thus to determine the tube diameter, the available space, cost and fouling nature of the fluids must be considered.
+* Tube thickness: The thickness of the wall of the tubes is usually determined to ensure:
+** There is enough room for corrosion
+** That flow-induced vibration has resistance
+** Axial strength
+** Availability of spare parts
+** Hoop strength (to withstand internal tube pressure)
+** Buckling strength (to withstand overpressure in the shell)
+* Tube length: heat exchangers are usually cheaper when they have a smaller shell diameter and a long tube length. Thus, typically there is an aim to make the heat exchanger as long as physically possible whilst not exceeding production capabilities. However, there are many limitations for this, including space available at the installation site and the need to ensure tubes are available in lengths that are twice the required length (so they can be withdrawn and replaced). Also, long, thin tubes are difficult to take out and replace.
+* Tube pitch: when designing the tubes, it is practical to ensure that the tube pitch (i.e., the centre-centre distance of adjoining tubes) is not less than 1.25 times the tubes' outside diameter. A larger tube pitch leads to a larger overall shell diameter, which leads to a more expensive heat exchanger.
+* Tube corrugation: this type of tubes, mainly used for the inner tubes, increases the turbulence of the fluids and the effect is very important in the heat transfer giving a better performance.
+* Tube Layout: refers to how tubes are positioned within the shell. There are four main types of tube layout, which are, triangular (30°), rotated triangular (60°), square (90°) and rotated square (45°). The triangular patterns are employed to give greater heat transfer as they force the fluid to flow in a more turbulent fashion around the piping. Square patterns are employed where high fouling is experienced and cleaning is more regular.
+* are used in shell and tube heat exchangers to direct fluid across the tube bundle. They run perpendicularly to the shell and hold the bundle, preventing the tubes from sagging over a long length. They can also prevent the tubes from vibrating. The most common type of baffle is the segmental baffle. The semicircular segmental baffles are oriented at 180 degrees to the adjacent baffles forcing the fluid to flow upward and downwards between the tube bundle. Baffle spacing is of large thermodynamic concern when designing shell and tube heat exchangers. Baffles must be spaced with consideration for the conversion of pressure drop and heat transfer. For thermo economic optimization it is suggested that the baffles be spaced no closer than 20% of the shell's inner diameter. Having baffles spaced too closely causes a greater pressure drop because of flow redirection. Consequently, having the baffles spaced too far apart means that there may be cooler spots in the corners between baffles. It is also important to ensure the baffles are spaced close enough that the tubes do not sag. The other main type of baffle is the disc and doughnut baffle, which consists of two concentric baffles. An outer, wider baffle looks like a doughnut, whilst the inner baffle is shaped like a disk. This type of baffle forces the fluid to pass around each side of the disk then through the doughnut baffle generating a different type of fluid flow.
+*Tubes & fins Design: in application to cool air with shell-and-tube technology (such as intercooler / charge air cooler for combustion engines), the difference in heat transfer between air and cold fluid can be such that there is a need to increase heat transfer area on air side. For this function fins can be added on the tubes to increase heat transfer area on air side and create a tubes & fins configuration.
+Fixed tube liquid-cooled heat exchangers especially suitable for marine and harsh applications can be assembled with brass or aluminium shells, copper or copper-nickel tubes, brass baffles, and forged brass integral end hubs.<ref></ref> (See: Copper in heat exchangers).
+thumb
+thumb
+thumb
+===Plate heat exchangers===
+Another type of heat exchanger is the plate heat exchanger. These exchangers are composed of many thin, slightly separated plates that have very large surface areas and small fluid flow passages for heat transfer. Advances in gasket and brazing technology have made the plate-type heat exchanger increasingly practical. In HVAC applications, large heat exchangers of this type are called plate-and-frame; when used in open loops, these heat exchangers are normally of the gasket type to allow periodic disassembly, cleaning, and inspection. There are many types of permanently bonded plate heat exchangers, such as dip-brazed, vacuum-brazed, and welded plate varieties, and they are often specified for closed-loop applications such as refrigeration. Plate heat exchangers also differ in the types of plates that are used, and in the configurations of those plates. Some plates may be stamped with "chevron", dimpled, or other patterns, where others may have machined fins and/or grooves.
+When compared to shell and tube exchangers, the stacked-plate arrangement typically has lower volume and cost. Another difference between the two is that plate exchangers typically serve low to medium pressure fluids, compared to medium and high pressures of shell and tube. A third and important difference is that plate exchangers employ more countercurrent flow rather than cross current flow, which allows lower approach temperature differences, high temperature changes, and increased efficiencies.
+===Plate and shell heat exchanger===
+A third type of heat exchanger is a plate and shell heat exchanger, which combines plate heat exchanger with shell and tube heat exchanger technologies. The heart of the heat exchanger contains a fully welded circular plate pack made by pressing and cutting round plates and welding them together. Nozzles carry flow in and out of the platepack (the 'Plate side' flowpath). The fully welded platepack is assembled into an outer shell that creates a second flowpath ( the 'Shell side'). Plate and shell technology offers high heat transfer, high pressure, high operating temperature, compact size, low fouling and close approach temperature. In particular, it does completely without gaskets, which provides security against leakage at high pressures and temperatures.
+===Adiabatic wheel heat exchanger===
+A fourth type of heat exchanger uses an intermediate fluid or solid store to hold heat, which is then moved to the other side of the heat exchanger to be released. Two examples of this are adiabatic wheels, which consist of a large wheel with fine threads rotating through the hot and cold fluids, and fluid heat exchangers.
+===Plate fin heat exchanger===
+This type of heat exchanger uses "sandwiched" passages containing fins to increase the effectiveness of the unit. The designs include crossflow and counterflow coupled with various fin configurations such as straight fins, offset fins and wavy fins.
+Plate and fin heat exchangers are usually made of aluminum alloys, which provide high heat transfer efficiency. The material enables the system to operate at a lower temperature difference and reduce the weight of the equipment. Plate and fin heat exchangers are mostly used for low temperature services such as natural gas, helium and oxygen liquefaction plants, air separation plants and transport industries such as motor and aircraft engines.
+Advantages of plate and fin heat exchangers:
+* High heat transfer efficiency especially in gas treatment
+* Larger heat transfer area
+* Approximately 5 times lighter in weight than that of shell and tube heat exchanger.
+* Able to withstand high pressure
+Disadvantages of plate and fin heat exchangers:
+* Might cause clogging as the pathways are very narrow
+* Difficult to clean the pathways
+* Aluminium alloys are susceptible to Mercury Liquid Embrittlement Failure
+===Pillow plate heat exchanger===
+A Pillow plate heat exchanger is commonly used in the dairy industry for cooling milk in large direct-expansion stainless steel bulk tanks. The pillow plate allows for cooling across nearly the entire surface area of the tank, without gaps that would occur between pipes welded to the exterior of the tank.
+The pillow plate is constructed using a thin sheet of metal spot-welded to the surface of another thicker sheet of metal. The thin plate is welded in a regular pattern of dots or with a serpentine pattern of weld lines. After welding the enclosed space is pressurised with sufficient force to cause the thin metal to bulge out around the welds, providing a space for heat exchanger liquids to flow, and creating a characteristic appearance of a swelled pillow formed out of metal.
+===Fluid heat exchangers===
+This is a heat exchanger with a gas passing upwards through a shower of fluid (often water), and the fluid is then taken elsewhere before being cooled. This is commonly used for cooling gases whilst also removing certain impurities, thus solving two problems at once. It is widely used in espresso machines as an energy-saving method of cooling super-heated water to use in the extraction of espresso.
+===Waste heat recovery units===
+A waste heat recovery unit (WHRU) is a heat exchanger that recovers heat from a hot gas stream while transferring it to a working medium, typically water or oils. The hot gas stream can be the exhaust gas from a gas turbine or a diesel engine or a waste gas from industry or refinery.
+Large systems with high volume and temperature gas streams, typical in industry, can benefit from steam Rankine cycle (SRC) in a waste heat recovery unit, but these cycles are too expensive for small systems.
+The recovery of heat from low temperature systems requires different working fluids than steam.
+An organic Rankine cycle (ORC) waste heat recovery unit can be more efficient at low temperature range using refrigerants that boil at lower temperatures than water. Typical organic refrigerants are ammonia, pentafluoropropane (R-245fa and R-245ca), and toluene.
+The refrigerant is boiled by the heat source in the evaporator to produce super-heated vapor. This fluid is expanded in the turbine to convert thermal energy to kinetic energy, that is converted to electricity in the electrical generator. This energy transfer process decreases the temperature of the refrigerant that, in turn, condenses. The cycle is closed and completed using a pump to send the fluid back to the evaporator.
+===Dynamic scraped surface heat exchanger===
+Another type of heat exchanger is called "Dynamic scraped surface heat exchanger". This is mainly used for heating or cooling with high-viscosity products, crystallization processes, evaporation and high-fouling applications. Long running times are achieved due to the continuous scraping of the surface, thus avoiding fouling and achieving a sustainable heat transfer rate during the process.
+===Phase-change heat exchangers===
+thumb
+thumb
+In addition to heating up or cooling down fluids in just a single phase, heat exchangers can be used either to heat a liquid to evaporate (or boil) it or used as condensers to cool a vapor and condense it to a liquid. In chemical plants and refineries, reboilers used to heat incoming feed for distillation towers are often heat exchangers.<ref></ref><ref></ref>
+Distillation set-ups typically use condensers to condense distillate vapors back into liquid.
+Power plants that use steam-driven turbines commonly use heat exchangers to boil water into steam. Heat exchangers or similar units for producing steam from water are often called boilers or steam generators.
+In the nuclear power plants called pressurized water reactors, special large heat exchangers pass heat from the primary (reactor plant) system to the secondary (steam plant) system, producing steam from water in the process. These are called steam generators. All fossil-fueled and nuclear power plants using steam-driven turbines have surface condensers to convert the exhaust steam from the turbines into condensate (water) for re-use.<ref> urltoken Air Pollution Control Orientation Course from website of the Air Pollution Training Institute</ref><ref> urltoken Energy savings in steam systems Figure 3a, Layout of surface condenser (scroll to page 11 of 34 PDF pages)</ref>
+To conserve energy and cooling capacity in chemical and other plants, regenerative heat exchangers can transfer heat from a stream that must be cooled to another stream that must be heated, such as distillate cooling and reboiler feed pre-heating.
+This term can also refer to heat exchangers that contain a material within their structure that has a change of phase. This is usually a solid to liquid phase due to the small volume difference between these states. This change of phase effectively acts as a buffer because it occurs at a constant temperature but still allows for the heat exchanger to accept additional heat. One example where this has been investigated is for use in high power aircraft electronics.
+Heat exchangers functioning in multiphase flow regimes may be subject to the Ledinegg instability.
+===Direct contact heat exchangers===
+Direct contact heat exchangers involve heat transfer between hot and cold streams of two phases in the absence of a separating wall.<ref>Coulson, J. & Richardson, J. (1983), Chemical Engineering – Design (SI Units), Volume 6, Pergamon Press, Oxford.</ref> Thus such heat exchangers can be classified as:
+* Gas – liquid
+* Immiscible liquid – liquid
+* Solid-liquid or solid – gas
+Most direct contact heat exchangers fall under the Gas – Liquid category, where heat is transferred between a gas and liquid in the form of drops, films or sprays.<ref name=":0" />
+Such types of heat exchangers are used predominantly in air conditioning, humidification, industrial hot water heating, water cooling and condensing plants.<ref>Hewitt G, Shires G, Bott T (1994), Process Heat Transfer, CRC Press Inc, Florida.</ref>
+_1</math> is known as the Log mean temperature difference, and is a measure of the effectiveness of the heat exchanger in transferring heat energy.
+==See also==
+* Architectural engineering
+* Chemical engineering
+* Cooling tower
+* Copper in heat exchangers
+* Heat pipe
+* Heat pump
+* Heat recovery ventilation
+* Jacketed vessel
+* Log mean temperature difference (LMTD)
+* Marine heat exchangers
+* Mechanical engineering
+* Micro heat exchanger
+* Moving bed heat exchanger
+* Packed bed and in particular Packed columns
+* Pumpable ice technology
+* Reboiler
+* Recuperator, or cross plate heat exchanger
+* Regenerator
+* Run around coil
+* Steam generator (nuclear power)
+* Surface condenser
+* Toroidal expansion joint
+* Thermosiphon
+* Thermal wheel, or rotary heat exchanger (including enthalpy wheel and desiccant wheel)
+* Tube tool
+* Waste heat
+==References==
+* Coulson, J. and Richardson, J (1999). Chemical Engineering- Fluid Flow. Heat Transfer and Mass Transfer- Volume 1; Reed Educational & Professional Publishing LTD
+* Dogan Eryener (2005), ‘Thermoeconomic optimization of baffle spacing for shell and tube heat exchangers’, Energy Conservation and Management, Volume 47, Issue 11–12, Pages 1478–1489.
+* G.F.Hewitt, G.L.Shires, T.R.Bott (1994) Process Heat Transfer, CRC Press, Inc, United States Of America.
+==External links==
+* urltoken Integrity Testing on Plate and Tubular Heat Exchangers
+* 
+* urltoken Shell and Tube Heat Exchanger Design Software for Educational Applications (PDF)
+* urltoken EU Pressure Equipment Guideline
+* urltoken A Thermal Management Concept For More Electric Aircraft Power System Application (PDF)
+
+thumb
+A heat exchanger is a system used to transfer heat between two or more fluids. Heat exchangers are used in both cooling and heating processes.<ref>Ahmed T. Al-Sammarraie & Kambiz Vafai (2017) Heat transfer augmentation through convergence angles in a pipe, Numerical Heat Transfer, Part A: Applications, 72:3, 197-214, urltoken The fluids may be separated by a solid wall to prevent mixing or they may be in direct contact.<ref></ref> They are widely used in space heating, refrigeration, air conditioning, power stations, chemical plants, Petrochemical, Oil refinery, natural-gas processing, and sewage treatment. The classic example of a heat exchanger is found in an internal combustion engine in which a circulating fluid known as engine coolant flows through radiator coils and air flows past the coils, which cools the coolant and heats the incoming air. Another example is the heat sink, which is a passive heat exchanger that transfers the heat generated by an electronic or a mechanical device to a fluid medium, often air or a liquid coolant.<ref>Salimpour, M. R., Al-Sammarraie, A. T., Forouzandeh, A., & Farzaneh, M. (2019). Constructal design of circular multilayer microchannel heat sinks. Journal of Thermal Science and Engineering Applications, 11(1), 011001. urltoken

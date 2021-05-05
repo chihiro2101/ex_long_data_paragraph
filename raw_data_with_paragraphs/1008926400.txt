@@ -1,0 +1,130 @@
+Statistics Canada
+
+==Leadership==
+The head of Statistics Canada is the chief statistician of Canada. The heads of Statistics Canada and the previous organization, the Dominion Bureau of Statistics, are:
+* Robert H. Coats (1918–1942)
+* Sedley Cudmore (1942–1945)
+* Herbert Marshall (1945–1956)
+* Walter E. Duffett (1957–1972)
+* Sylvia Ostry (1972–1975)
+* Peter G. Kirkham (1975–1980)
+* James L. Fry (1980)
+* Martin Wilk (1980–1985)
+* Ivan Fellegi (1985–2008)
+* Munir Sheikh (2008–2010)
+* Wayne Smith (interim 2010; 2011–2016)
+* Anil Arora (2016–)
+==Publications==
+Statistics Canada publishes numerous documents covering a range of statistical information about Canada, including census data, economic and health indicators, immigration economics, Poverty in Canada, and social and justice conditions. It also publishes a peer-reviewed statistics journal, Survey Methodology.
+Statistics Canada provides free access to numerous aggregate data tables on various subjects of relevance to Canadian life. Many tables used to be published as the Canadian Socio-economic Information Management System, or CANSIM, which has since been replaced by new, more easily manipulated data tables<ref></ref> Subject areas include Aboriginal peoples, Agriculture, Business, consumer and property services, Business performance and ownership, Children and youth, Construction, Crime and justice, Culture and leisure, Economic accounts, Education, training and learning, Energy, Environment, Ethnic diversity and immigration, Families, households and housing, Government, Health, Income, pensions, spending and wealth, Information and communications technology, International trade, Labour, Languages, Manufacturing, Population and demography, Prices and price indexes, Reference, Retail and wholesale, Science and technology, Seniors, Society and community, Transportation, and Travel and tourism.
+The Daily is Statistics Canada's free online bulletin that provides current information from StatCan, updated daily, on current social and economic conditions.<ref name="daily"></ref>
+Statistics Canada also provides the Canadian Income Survey (CIS)—a cross-sectional survey that assesses the income, income sources, and the economic status of individuals and families in Canada.<ref name="statcan_CIS"></ref> Data from the Labour Force Survey (LFS) is combined with data from the CIS. The February 24, 2020 reported statistics on the poverty based on the market basket measure (MBM).<ref name="StatsCan_Daily_20200224"></ref>
+==Data accessibility and licensing==
+As of February 1, 2012 "information published by Statistics Canada is automatically covered by the Open License with the exception of Statistics Canada's postal products and Public Use Microdata Files (PUMFs)." Researchers using StatCan data are required to "give full credit for any Statistics Canada data, analysis and other content material used or referred to in their studies, articles, papers and other research works." The use of Public Use Microdata Files (PUMFs) is governed by the Data Liberation Initiative (DLI) License signed by the universities and Statistics Canada. Aggregate data available through the Canadian Socio-economic Information Management System CANSIM, and the Census website is Open Data under the Statistics Canada Open License Agreement.<ref name="PUMF_DLI"></ref>
+By 24 April 2006, electronic publications on Statistics Canada's web site were free of charge with some exceptions.<ref name=free></ref>
+The historical time series data from CANSIM is also available via numerous third-party data vendors, including Haver Analytics,<ref></ref> Macrobond Financial,<ref></ref> and Thomson Reuters Datastream.<ref></ref>
+== Canadian Research Data Centre Network (CRDCN) ==
+The Canadian Research Data Centre Network (CRDCN) is a network of quantitative social sciences which includes 27 facilities across Canada that provide "access to a vast array of social, economic, and health data, primarily gathered" by Statistics Canada and disseminate "research findings to the policy community and the Canadian public."<ref name="CRDCN"></ref>
+==History==
+Statistics Canada was formed in 1971, replacing the Dominion Bureau of Statistics, which was formed in 1918. Statistics Canada published a print copy of the yearly almanac entitled Canada Year Book from 1967 to 2012<ref name="CYB_2012"></ref> when it ceased publication due to ebbing demand and deep budgetary cutbacks to StatCan by the federal government.<ref name="CYB_2012" /> It was a yearly compendium of statistical lore and information on the nation's social and economic past, people, events and facts.<ref name="CYB_HC"></ref> The Canada Year Book was originally edited by a volunteer from the Department of Finance and published by a private company, which offset costs with advertisement sales. This method continued until 1879, at which time the record ceases, until 1885, at which time the Department of Agriculture took up the burden. The duty of publication was transferred to the Dominion Bureau of Statistics upon its formation in 1918.
+On June 18, 2005, after years of study by expert panels, discussion, debate (privacy vs the interests of genealogists and historians), Bill S-18 An Act to Amend the Statistics Act was passed which released personal census records for censuses taken between 1911 and 2001, inclusive.<ref></ref> Debate over the census and their contents had periodically created changes in the Statistics Act such as a 2005 amendment making the privacy restrictions of the census information expire after more than a century. In addition, with Bill S-18, starting with the 2006 Census, Canadians can consent to the public release of their personal census information after 92 years. Census returns are in the custody of Statistics Canada and the records are closed until 92 years after the taking of a census, when those records may be opened for public use and transferred to Library and Archives Canada subject to individual consent where applicable.<ref></ref>
+The mandatory long census form was cancelled by the federal government in 2010 in favour of a voluntary household survey (NHS).<ref name="census 2015" /> The mandatory long form census was reinstated in time for the 2016 Census of Population.
+In 2011, Statistics Canada released an audit acknowledging that from 2004 to 2011, their automated computer processes had "inadvertently made economic data available to data distributors before the official publication time." In November 2011, in response to the audit, StatCan stopped that process.<ref name="Bloomberg_2011"></ref>
+===2012 layoffs===
+Nearly half of Statistics Canada's 5000 employees were notified in April 2012 that their jobs might be eliminated as part of austerity measures imposed by the Conservative federal government in the 2012 Canadian federal budget.<ref name="Curry"></ref> The 2,300 employees underwent a process to determine which ones were not impacted, which were eliminated and which were given early retirement or put in new positions.<ref></ref> These budget cuts reduced the amount of information Statistics Canada was able to produce during that time period.<ref name="Curry" />
+==The census==
+By law, every household must complete the Canada Census form.<ref></ref> In May 2006, an Internet version of the census was made widely available for the first time. Another census was held in May 2011, again with the internet being the primary method for statistical data collection. The most recent census was held in May 2016, with the internet being the primary method for statistical data collection. The data resulting from the census was released throughout 2017.<ref name=releasedates></ref>
+===2011 Voluntary Long Form or National Household Survey===
+On June 17, 2010 an Order in Council was created by the minister of industry defining the questions for the 2011 Census as including only the short-form questions; this was published in the Canada Gazette on June 26, 2010,<ref></ref> however a news release was not issued by Minister of Industry Tony Clement until July 13, 2010. This release stated in part "The government will retain the mandatory short form that will collect basic demographic information. To meet the need for additional information, and to respect the privacy wishes of Canadians, the government has introduced the voluntary National Household Survey".<ref></ref> On July 30, 2010 Statistics Canada published a description of the National Household Survey.<ref> urltoken National Household Survey . Statcan.gc.ca (2012-05-14). Retrieved on 2013-07-12.</ref>
+The minister of industry, Tony Clement initially indicated that these changes were being made based on consultations with Statistics Canada<ref></ref> but was forced to admit that the change from a mandatory to voluntary form was not one of the recommendations received from StatCan after the head of the organization Munir Sheikh resigned in protest.<ref name="turmoil"></ref> Information has since been uncovered that indicates attempts on the part of the government to distance themselves from the decision, instructing Statistics Canada officials to delete the phrase "as per government decision" from documents which were being written to inform Statistics Canada staff of the change.<ref name="govdistance"></ref> The minister has since claimed that concerns over privacy<ref name="Leviathan"></ref> and the threat of jail time<ref></ref> are the reasons for the change<ref name="head_resigned_2010"></ref> and has refused to reverse his decision<ref name="facemp"></ref> stating that the prime minister supports the legislation.<ref></ref> The argument over privacy has subsequently been undermined by a privacy commissioner statement that she was “satisfied with the measures Statistics Canada had put into place to protect privacy”.<ref name="Sun_2010"></ref> Other industry professionals have also come out in defense of Statistics Canada’s record on privacy issues.<ref name="bizarre" /><ref name="counton"></ref> The government has maintained its position, most recently expressed by Lynn Meahan, press secretary to the industry minister, that the new census will result in "useable (sic) and useful data that can meet the needs of many users."<ref name="proffunding"></ref>
+During the 2010 debates, the Freedom Party of Ontario, a small group based on Ayn Rand's writings, whose 42 candidates received 12,381 votes (or 0.26% of the popular vote) in the 2014 election, opposed the long census. They also opposed bilingualism, political correctness and the inclusion of a question on race on the 1996 Canadian census. FPO claimed that Canadian and British traditions had been dishonoured by multiculturalism. They are among a minority who argue that using statistical data to analyze resource allocation is not beneficial.<ref name="bizarre"></ref><ref name="McKeever_2010"></ref><ref name="veterans"></ref>
+Central to the debate on this issue is the effect on the quality of data which will be collected by Statistics Canada under the new system. Many groups have made the claim that a voluntary system will not provide a quality of data consistent with what Statistics Canada is known for<ref name="turmoil" /><ref name="facemp" /><ref name="bizarre" /><ref name="counton" /> while others feel that politically motivated changes to StatCan methodology taints the reputation of the whole organization in the international setting.<ref></ref> Supporters of the change have offered models of European countries who are adopting alternate systems,<ref name="Leviathan" /> although in these states the census is being replaced with a database of information on each citizen rather than a voluntary poll and none of these systems are planned for the Canadian 2011 census. They also challenge the current system's ability to cope with rapid socio-demographic changes, though this would not be addressed without increasing the frequency of the survey. Some public opposition to the changes has been expressed through the social media network Facebook.<ref></ref>
+According to The Globe and Mail, by 2015 an increasing number of economists joined organizations such as the Canadian Chamber of Commerce, Canadian Federation of Independent Business, Canadian Economics Association, Martin Prosperity Institute, Toronto Region Board of Trade, Restaurants Canada and the Canadian Association of Business Economics to call for a reinstatement of the mandatory long form.<ref name="census 2015"></ref> Edmonton's chief economist preferred the long form and argues that the National Housing Survey is only useful at the aggregate city level and leaves "a dearth of data on long-term changes at the neighbourhood level and within demographic groups. making it difficult to make decisions such as "where to build a library, where to build a fire hall" without specific demographic information.<ref name="census 2015" /> Because it was not mandatory there was a lower response rate and therefore increased risk of under-representation of some vulnerable segments of society, for example aboriginal peoples, newly arrived immigrants. This makes it more difficult to "pinpoint trends such as income inequality, immigrant outcomes in the jobs market, labour shortages and demographic shifts."<ref name="census 2015" />
+=== 2015 reinstatement of mandatory long form ===
+One day after his election in November 2015, the Liberal government of Justin Trudeau reinstated the mandatory Census long form<ref></ref> and it was used in the 2016 Census.<ref></ref><ref></ref>
+===Political reactions===
+Former industry minister Tony Clement recanted on his support for the elimination of the long form. He avowed that there were ways to protect both indispensable data and Canadians’ privacy. Blaming his party for a “collective” decision to terminate the long form, he said, “I think I would have done it differently.” He implied incorrectly that Statistics Canada head Munir Sheikh had agreed with the cancellation when it was done.<ref></ref>
+== Standard geographic units ==
+Statistics Canada divided Canada into the following standard geographic units for statistical purposes in the 2016 Census.<ref></ref>
+*Province or territory
+** Census division
+***Census consolidated subdivision
+****Census subdivision: municipalities and municipal equivalents as defined by Statistics Canada in consultation with provincial and territorial governments including the following types:<ref name="StatCaninterim"></ref>
+*****Canton: townships in Quebec
+*****Chartered community: present in the Northwest Territories
+*****City
+*****Community: present in Prince Edward Island
+*****Community government: present in the Northwest Territories
+*****County municipality: rural territories in Nova Scotia
+*****Cree reserve land: present in Quebec
+*****Cree village: present in Quebec
+*****Crown colony: present in Saskatchewan
+*****District municipality: rural or urban territories of British Columbia
+*****Hamlet: present in the Northwest Territories and Nunavut
+*****Improvement district: rural municipalities in Alberta
+*****Indian government district: present in British Columbia
+*****Indian reserve
+*****Indian settlement
+*****Inuit reserve land: present in Quebec
+*****Island municipality: present in British Columbia
+*****Local government district: present in Manitoba
+*****Municipal district: rural municipalities in Alberta and Nova Scotia
+*****Municipality: rural territories in Quebec
+*****Naskapi village: present in Quebec
+*****Naskapis reserve land: present in Quebec
+*****Nisga'a land: present in British Columbia
+*****Northern hamlet: present in Saskatchewan
+*****Northern village (disambiguation): present in Saskatchewan and Quebec
+*****Parish: rural territories in Quebec (parish municipalities) and New Brunswick
+*****Regional district electoral area: unorganized rural areas in British Columbia
+*****Regional municipality: present in Nova Scotia
+*****Resort village: present in Saskatchewan
+*****Rural community: present in New Brunswick
+*****Rural municipality: present in Manitoba and Saskatchewan
+*****Self-government: present in Yukon
+*****Settlement: present in the Northwest Territories and Nunavut
+*****Special area: rural municipalities in Alberta
+*****Specialized municipality: present in Alberta
+*****Subdivision of county municipality: rural territories within Nova Scotia's county municipalities
+*****Subdivision of unorganized area: unorganized rural territories of Newfoundland and Labrador
+*****Summer village: present in Alberta
+*****Teslin land: present in Yukon
+*****Town
+*****Township: present in Ontario
+*****Township and royalty: rural territories in Prince Edward Island
+*****United cantons: townships that have been united in Quebec
+*****Unorganized area
+*****Village
+*****Ville: cities and towns in Quebec
+***Aggregated dissemination area (ADA)
+*Economic region
+*Designated place
+*Federal electoral district
+*Forward sortation area
+*Statistical area classifications
+**Census metropolitan area (CMA) or census agglomeration (CA): a cluster of adjacent census subdivisions where: in the case of a CMA, the cluster has a population of 100,000 or greater in which at least 50,000 live in the core; and, in the case of a CA, the cluster has a population of at least 10,000 in the core<ref></ref>
+***Census tract (applicable to all CMAs and 15 CAs)
+***Population centre (previously "urban area")
+****Large urban
+****Medium
+****Small
+***Rural area
+**Non-CMA or non-CA (like CMAs and CAs, includes small population centres and rural areas, but excludes large urban and medium population centres)
+==See also==
+*List of national and international statistical services
+*Institut de la statistique du Québec
+*Official statistics
+*United Nations Statistics Division
+==References==
+==Further reading==
+* 
+==External links==
+* urltoken Statistics Canada website
+* urltoken 2011 Census home page (English)
+* urltoken 2006 Census
+* urltoken CANSIM
+
+Statistics Canada (StatCan; , formed in 1971, is the agency of the Government of Canada commissioned with producing statistics to help better understand Canada, its population, resources, economy, society, and culture. It is headquartered in Ottawa.<ref name="location">Statistics Canada, 150 Tunney's Pasture Driveway Ottawa, Ontario K1A 0T6; Statistique Canada 150, promenade du pré Tunney Ottawa, Ontario K1A 0T6</ref> 
+The agency is led by the Chief Statistician of Canada, currently Anil Arora, who assumed the role on September 19, 2016.<ref></ref> StatCan is responsible to Parliament through the Minister of Innovation, Science and Economic Development, currently Navdeep Bains.
+Statistics Canada acts as the national statistical agency for Canada, and Statistics Canada produces statistics for all the provinces as well as the federal government. In addition to conducting about 350 active surveys on virtually all aspects of Canadian life, the Statistics Act mandates that Statistics Canada has a duty to conduct a country-wide census of population every five years and a census of agriculture every ten years.<ref></ref>
+It has regularly been considered the best statistical organization in the world by The Economist,<ref name="SSHRC_2006"></ref> such as in the 1991<ref></ref> and 1993<ref></ref> "Good Statistics" surveys. The Public Policy Forum and others have also recognized successes of the agency.<ref></ref>

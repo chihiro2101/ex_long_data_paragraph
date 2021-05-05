@@ -1,0 +1,64 @@
+Ilya Prigogine
+
+==Biography==
+Prigogine was born in Moscow a few months before the October Revolution of 1917, into a Jewish family.<ref></ref><ref></ref><ref></ref><ref></ref><ref></ref><ref></ref> His father, Roman (Ruvim Abramovich) Prigogine, was a chemical engineer at the Imperial Moscow Technical School; his mother, Yulia Vikhman, was a pianist. Because the family was critical of the new Soviet Union, they left Russia in 1921. They first went to Germany and in 1929, to Belgium, where Prigogine received Belgian nationality in 1949. His brother Alexandre (1913–1991) became an ornithologist.<ref></ref>
+Prigogine studied chemistry at the Free University of Brussels, where in 1950, he became professor. In 1959, he was appointed director of the Solvay Conference in Brussels, Belgium. In that year, he also started teaching at the University of Texas at Austin in the United States, where he later was appointed Regental Professor and Ashbel Smith Professor of Physics and Chemical Engineering. From 1961 until 1966 he was affiliated with the Enrico Fermi Institute at the University of Chicago and was a visiting professor at Northwestern University.<ref></ref><ref></ref> In Austin, in 1967, he co-founded the Center for Thermodynamics and Statistical Mechanics, now the Center for Complex Quantum Systems.<ref></ref> In that year, he also returned to Belgium, where he became director of the Center for Statistical Mechanics and Thermodynamics.
+He was a member of numerous scientific organizations, and received numerous awards, prizes and 53 honorary degrees. In 1955, Ilya Prigogine was awarded the Francqui Prize for Exact Sciences. For his study in irreversible thermodynamics, he received the Rumford Medal in 1976, and in 1977, the Nobel Prize in Chemistry. In 1989, he was awarded the title of Viscount in the Belgian nobility by the King of the Belgians. Until his death, he was president of the International Academy of Science, Munich and was in 1997, one of the founders of the International Commission on Distance Education (CODE), a worldwide accreditation agency.<ref></ref><ref> urltoken International Council for Scientific Development. Presidium. ias-icsd.org</ref> Prigogine received an Honorary Doctorate from Heriot-Watt University in 1985<ref></ref> and in 1998 he was awarded an honoris causa doctorate by the UNAM in Mexico City.
+Prigogine was first married to Belgian poet Hélène Jofé (as an author also known as Hélène Prigogine) and in 1945 they had a son Yves. After their divorce, he married Polish-born chemist Maria Prokopowicz (also known as Maria Prigogine) in 1961. In 1970 they had a son Pascal.<ref>Ilya Prigogine. (2003). urltoken Curriculum Vitae of Ilya Prigogine In Is future given. World Scientific.</ref>
+In 2003 he was one of 22 Nobel Laureates who signed the Humanist Manifesto.<ref></ref>
+==Research==
+Prigogine is best known for his definition of dissipative structures and their role in thermodynamic systems far from equilibrium, a discovery that won him the Nobel Prize in Chemistry in 1977. In summary, Ilya Prigogine discovered that importation and dissipation of energy into chemical systems could result in the emergence of new structures (hence dissipative structures) due to internal self reorganization.<ref></ref> In his 1955 text, Prigogine drew connections between dissipative structures and the Rayleigh–Bénard convection and the Turing pattern.<ref>I. Prigogine, Introduction to Thermodynamics of Irreversible Processes, Charles C. Thomas Publisher, Springfield, Illinois, 1955</ref>
+===Dissipative structures theory===
+Dissipative structure theory led to pioneering research in self-organizing systems, as well as philosophical inquiries into the formation of complexity on biological entities and the quest for a creative and irreversible role of time in the natural sciences. See the criticism by Joel Keizer and Ronald Fox.<ref> Also urltoken on Academia.edu. Retrieved 16 October 2016.</ref>
+With professor Robert Herman, he also developed the basis of the two fluid model, a traffic model in traffic engineering for urban networks, analogous to the two fluid model in classical statistical mechanics.
+Prigogine's formal concept of self-organization was used also as a "complementary bridge" between General Systems Theory and thermodynamics, conciliating the cloudiness of some important systems theory concepts with scientific rigour.
+===Work on unsolved problems in physics===
+In his later years, his work concentrated on the fundamental role of indeterminism in nonlinear systems on both the classical and quantum level. Prigogine and coworkers proposed a Liouville space extension of quantum mechanics. A Liouville space is the vector space formed by the set of (self-adjoint) linear operators, equipped with an inner product, that act on a Hilbert space.<ref>Gregg Jaeger: Quantum Information: An Overview, Springer, 2007, , Chapter B.3 "Lioville space and open quantum systems", urltoken p. 248</ref> There exists a mapping of each linear operator into Liouville space, yet not every self-adjoint operator of Liouville space has a counterpart in Hilbert space, and in this sense Liouville space has a richer structure than Hilbert space.<ref>T. Sida, K. Saitô, Si Si (eds.): Quantum Information and Complexity: Proceedings of the Meijo Winter School, 6–10 January 2003, World Scientific Publishing, 2004, , urltoken p. 62</ref> The Liouville space extension proposal by Prigogine and co-workers aimed to solve the arrow of time problem of thermodynamics and the measurement problem of quantum mechanics.<ref></ref>
+Prigogine co-authored several books with Isabelle Stengers, including The End of Certainty and La Nouvelle Alliance (Order out of Chaos).
+===The End of Certainty===
+In his 1996 book, La Fin des certitudes, written in collaboration with Isabelle Stengers and published in English in 1997 as The End of Certainty: Time, Chaos, and the New Laws of Nature, Prigogine contends that determinism is no longer a viable scientific belief: "The more we know about our universe, the more difficult it becomes to believe in determinism." This is a major departure from the approach of Newton, Einstein and Schrödinger, all of whom expressed their theories in terms of deterministic equations. According to Prigogine, determinism loses its explanatory power in the face of irreversibility and instability.
+Prigogine traces the dispute over determinism back to Darwin, whose attempt to explain individual variability according to evolving populations inspired Ludwig Boltzmann to explain the behavior of gases in terms of populations of particles rather than individual particles. This led to the field of statistical mechanics and the realization that gases undergo irreversible processes. In deterministic physics, all processes are time-reversible, meaning that they can proceed backward as well as forward through time. As Prigogine explains, determinism is fundamentally a denial of the arrow of time. With no arrow of time, there is no longer a privileged moment known as the "present," which follows a determined "past" and precedes an undetermined "future." All of time is simply given, with the future as determined or as undetermined as the past. With irreversibility, the arrow of time is reintroduced to physics. Prigogine notes numerous examples of irreversibility, including diffusion, radioactive decay, solar radiation, weather and the emergence and evolution of life. Like weather systems, organisms are unstable systems existing far from thermodynamic equilibrium. Instability resists standard deterministic explanation. Instead, due to sensitivity to initial conditions, unstable systems can only be explained statistically, that is, in terms of probability.
+Prigogine asserts that Newtonian physics has now been "extended" three times: first with the introduction of spacetime in general relativity, then with the use of the wave function in quantum mechanics, and finally with the recognition of indeterminism in the study of unstable systems (chaos theory).
+==Publications==
+* 
+* 
+* 
+* 
+*Defay, R. & Prigogine, I. (1966). Surface tension and adsorption. Longmans, Green & Co. LTD.
+* 
+* 
+* 
+* 
+* 
+* Prigogine, I. The Behavior of Matter under Nonequilibrium Conditions: Fundamental Aspects and Applications in Energy-oriented Problems, United States Department of Energy, Progress Reports: 
+** urltoken September 1984 – November 1987, (7 October 1987). Department of Physics at the University of Texas-Austin
+** urltoken 15 April 1988 – 14 April 1989, (January 1989), Center for Studies in Statistical Mathematics at the University of Texas-Austin.
+** urltoken 15 April 1990 – 14 April 1991, (December 1990), Center for Studies in Statistical Mechanics and Complex Systems at the University of Texas-Austin. 
+* 
+* Prigogine, I. urltoken "Time, Dynamics and Chaos: Integrating Poincare's 'Non-Integrable Systems'", Center for Studies in Statistical Mechanics and Complex Systems at the University of Texas-Austin, United States Department of Energy-Office of Energy Research, Commission of the European Communities (October 1990).
+* 
+*
+* 
+* 
+* Editor (with Stuart A. Rice) of the urltoken Advances in Chemical Physics book series published by John Wiley & Sons (presently over 140 volumes)
+* Prigogine I, (papers and interviews) Is future given?, World Scientific, 2003. (145p.)
+==See also==
+* Autocatalytic reactions and order creation
+* List of Jewish Nobel laureates
+* Schismatrix 
+* Systems theory 
+* Process philosophy
+==References==
+==Further reading==
+* 
+* 
+* 
+==External links==
+* including the Nobel Lecture, 8 December 1977 Time, Structure and Fluctuations
+* urltoken The Center for Complex Quantum Systems
+* urltoken Emergent computation
+* 
+* 
+* urltoken Interview with Prigogine (Belgian VRT, 1977)
+
+Viscount Ilya Romanovich Prigogine ; ; 28 May 2003) was a physical chemist and Nobel Prize noted for his work on dissipative system, complex systems, and irreversibility.

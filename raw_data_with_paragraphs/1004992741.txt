@@ -1,0 +1,76 @@
+Color management
+
+== Overview ==
+# Characterize. Every color-managed device requires a personalized table, or "color profile," which characterizes the color response of that particular device.
+# Standardize. Each color profile describes these colors relative to a standardized set of reference colors (the "Profile Connection Space").
+# Translate. Color-managed software then uses these standardized profiles to translate color from one device to another. This is usually performed by a color management module (CMM).<ref>Overview of Color Management,Camberidge in Colour,2016.1.23 urltoken 
+==Hardware==
+=== Characterization ===
+To describe the behavior of various output devices, they must be compared (measured) in relation to a standard color space. Often a step called linearization is performed first, to undo the effect of gamma correction that was done to get the most out of limited 8-bit color paths. Instruments used for measuring device colors include colorimeters and spectrophotometers. As an intermediate result, the device gamut is described in the form of scattered measurement data. The transformation of the scattered measurement data into a more regular form, usable by the application, is called profiling. Profiling is a complex process involving mathematics, intense computation, judgment, testing, and iteration. After the profiling is finished, an idealized color description of the device is created. This description is called a profile.
+===Calibration===
+Calibration is like characterization, except that it can include the adjustment of the device, as opposed to just the measurement of the device. Color management is sometimes sidestepped by calibrating devices to a common standard color space such as sRGB; when such calibration is done well enough, no color translations are needed to get all devices to handle colors consistently. This avoidance of the complexity of color management was one of the goals in the development of sRGB.
+==Color profiles==
+=== Embedding ===
+Image formats themselves (such as TIFF, JPEG, PNG, EPS, PDF, and SVG) may contain embedded ICC profile but are not required to do so by the image format. The International Color Consortium standard was created to bring various developers and manufacturers together. The ICC standard permits the exchange of output device characteristics and color spaces in the form of metadata. This allows the embedding of color profiles into images as well as storing them in a database or a profile directory.
+=== Working spaces ===
+Working spaces, such as sRGB, Adobe RGB or ProPhoto are color spaces that facilitate good results while editing. For instance, pixels with equal values of R,G,B should appear neutral. Using a large (gamut) working space will lead to posterization, while using a small working space will lead to clipping.<ref></ref> This trade-off is a consideration for the critical image editor.
+==Color transformation==
+Color transformation, or color space conversion, is the transformation of the representation of a color from one color space to another. This calculation is required whenever data is exchanged inside a color-managed chain and carried out by a Color Matching Module. Transforming profiled color information to different output devices is achieved by referencing the profile data into a standard color space. It makes it easier to convert colors from one device to a selected standard color space and from that to the colors of another device. By ensuring that the reference color space covers the many possible colors that humans can see, this concept allows one to exchange colors between many different color output devices. Color transformations can be represented by two profiles (source profile and target profile) or by a devicelink profile. In this process there are approximations involved which make sure that the image keeps its important color qualities and also gives an opportunity to control on how the colors are being changed.<ref name="cambridgeincolour.com"></ref>
+=== Profile connection space ===
+In the terminology of the International Color Consortium, a translation between two color spaces can go through a profile connection space (PCS): Color Space 1 → PCS (CIELAB or CIEXYZ) → Color space 2; conversions into and out of the PCS are each specified by a profile.<ref name=rodney></ref>
+=== Gamut mapping ===
+In nearly every translation process, we have to deal with the fact that the color gamut of different devices vary in range which makes an accurate reproduction impossible.<ref name="cambridgeincolour.com"/> They therefore need some rearrangement near the borders of the gamut. Some colors must be shifted to the inside of the gamut, as they otherwise cannot be represented on the output device and would simply be clipped. This so-called gamut mismatch occurs for example, when we translate from the RGB color space with a wider gamut into the CMYK color space with a narrower gamut range. In this example, the dark highly saturated purplish-blue color of a typical computer monitor's "blue" primary is impossible to print on paper with a typical CMYK printer. The nearest approximation within the printer's gamut will be much less saturated. Conversely, an inkjet printer's "cyan" primary, a saturated mid-brightness blue, is outside the gamut of a typical computer monitor. The color management system can utilize various methods to achieve desired results and give experienced users control of the gamut mapping behavior.
+====Rendering intent====
+When the gamut of source color space exceeds that of the destination, saturated colors are liable to become clipped (inaccurately represented), or more formally burned. The color management module can deal with this problem in several ways. The ICC specification includes four different rendering intents, listed below.<ref name=rodney/><ref name="cic"> urltoken Color Management: Color Space Conversion, Cambridge in Color</ref><ref> urltoken ICC Specification ICC.1:2010</ref> Before the actual rendering intent is carried out, one can temporarily simulate the rendering by soft proofing.<ref></ref> It is a useful tool as it predicts the outcome of the colors and is available as an application in many color management systems:
+In practice, photographers almost always use relative or perceptual intent, as for natural images, absolute causes color cast, while saturation produces unnatural colors. If an entire image is in-gamut, relative is perfect, but when there are out of gamut colors, which is preferable depends on a case-by-case basis.
+A black point correction (BPC) is not applied for absolute colorimetric or devicelink profiles. For ICCv4, it is always applied to
+== Implementation ==
+===Color management module===
+Color matching module (also -method or -system) is a software algorithm that adjusts the numerical values that get sent to or received from different devices so that the perceived color they produce remains consistent. The key issue here is how to deal with a color that cannot be reproduced on a certain device in order to show it through a different device as if it were visually the same color, just as when the reproducible color range between color transparencies and printed matters are different. There is no common method for this process, and the performance depends on the capability of each color matching method.
+Some well known CMMs are ColorSync, Adobe CMM, Little CMS, and ArgyllCMS.
+===Operating system level===
+Apple's classic Mac OS and macOS operating systems have provided OS-level color management APIs since 1993, through ColorSync. macOS has added automatic color management (assuming sRGB for most things) automatically in the OS, and applications have to work around this to provide more accurate color management.
+Since 1997 color management in Windows is available through an ICC color management system (ICM). Beginning with Windows Vista, Microsoft introduced a new color architecture known as Windows Color System.<ref>Upton, Steve (February 2008). urltoken Vista's New Color Management System: WCS.</ref> WCS supplements the Image Color Management (ICM) system in Windows 2000 and Windows XP, originally written by Heidelberg.<ref></ref><ref>The reader may verify this by examining the Properties of any ICM profile. The Profile Information tab should contain the entry "LinoColorCMM © by Heidelberger Druckmaschinen AG".</ref>
+Operating systems that use the X Window System for graphics can use ICC profiles, and support for Linux color management, still less mature than on other platforms, is coordinated through OpenICC at freedesktop.org and makes use of LittleCMS.
+===File level===
+Certain image filetypes (TIFF and Photoshop) include the notion of color channels for specifying the color mode of the file. The most commonly used channels are RGB (mainly for display (monitors) but also for some desktop printing) and CMYK (for commercial printing). An additional alpha channel may specify a transparency mask value. Some image software (such as Photoshop) perform automatic color separation to maintain color information in CMYK mode using a specified ICC profile such as US Web Coated (SWOP) v2.
+===Application level===
+, most web browsers ignored color profiles.<ref></ref> Notable exceptions were Safari, starting with version 2.0, and Firefox starting with version 3. Although disabled by default in Firefox 3.0, ICC v2 and ICC v4 color management could be enabled by using an add-on<ref> urltoken Color Management add-on by Sean Hayes.</ref> or setting a configuration option.<ref>The value <code>gfx.color_management.enabled</code> can be set to "true" in the "about:config" file of Firefox since version 3. urltoken Firefox 3: Color profile support (oh the pretty, pretty colors) , Deb Richardson, Mozilla Corporation.</ref>
+, notable browser support for color management is:
+* Firefox: from version 3.5 enabled by default for ICC v2 tagged images,<ref></ref> version 8.0 has ICC v4 profiles support,<ref></ref> but it needs to be activated manually.<ref></ref>
+* Internet Explorer: version 9 is the first Microsoft browser to partly support ICC profiles, but it does not render images correctly according to the Windows ICC settings (it only converts non-sRGB images to the sRGB profile) and therefore provides no real color management at all
+* Google Chrome: uses the system provided ICC v2 and v4 support on macOS, and from version 22 supports ICC v2 profiles by default on other platforms.<ref></ref>
+* Safari: has support starting with version 2.0
+* Opera: has support since 12.10<ref> urltoken Opera Changelog 12.10 stable</ref> for ICC v4.<ref></ref>
+* Pale Moon supported ICC v2 from its first release, and v4 since Pale Moon 20.2 (2013).<ref>
+ urltoken Pale Moon archived release notes</ref>
+==See also==
+* Gamma correction
+* Color chart
+* Digital printing
+* ICC profile
+* International Color Consortium
+* IT8
+* Linux color management
+==References==
+==Further reading==
+* 
+* 
+* 
+* 
+==External links==
+* urltoken Color management and color science: Introduction by Norman Koren
+* urltoken ColorWiki by Steve Upton
+* urltoken Web browser color management guide
+* urltoken What is 3D LUT? by Light Illusion
+* urltoken CoCa - Open source ICC profile creator by Andrew Stawowczyk Long
+* urltoken Cinematic Color white paper 2012 Siggraph report from the Visual Effects Society
+
+In digital imaging systems, color management (or colour management) is the controlled conversion between the color representations of various devices, such as image scanners, digital cameras, monitors, TV screens, film printers, computer printers, offset presses, and corresponding media.
+The primary goal of color management is to obtain a good match across color devices; for example, the colors of one frame of a video should appear the same on a computer LCD, on a plasma TV screen, and as a printed poster. Color management helps to achieve the same appearance on all of these devices, provided the devices are capable of delivering the needed color intensities. With photography, it is often critical that prints or online galleries appear how they were intended. Color management cannot guarantee identical color reproduction, as this is rarely possible, but it can at least give more control over any changes which may occur.<ref name=cambridgeincolour.com />
+Parts of this technology are implemented in the operating system (OS), helper libraries, the application, and devices. A cross-platform view of color management is the use of an ICC-compatible color management system. The International Color Consortium (ICC) is an industry consortium that has defined:
+* An open standard for a Color Matching Module (CMM) at the OS level
+* ICC profile for:
+** Devices, including devicelink-profiles that represent a complete color transformation from source device to target device
+** Working spaces, the color spaces in which color data is meant to be manipulated
+There are other approaches to color management besides using ICC profiles. This is partly due to history and partly because of other needs than the ICC standard covers. The film and broadcasting industries make use of some of the same concepts, but they frequently rely on more limited boutique solutions. The film industry, for instance, often uses 3D LUTs (lookup table) to represent a complete color transformation for a specific RGB encoding. At the consumer level, color management currently applies more to still images than video, in which color management is still in its infancy.<ref></ref>

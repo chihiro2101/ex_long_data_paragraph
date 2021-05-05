@@ -1,0 +1,68 @@
+RADIUS
+
+==Protocol components==
+RADIUS is an AAA protocol that manages network access. AAA stands for Authentication, Authorization and Accounting. RADIUS uses two packet types to manage the full AAA process: Access-Request, which manages authentication and authorization; and Accounting-Request, which manages accounting. Authentication and authorization are defined in RFC 2865 while accounting is described by RFC 2866.
+===Authentication and authorization===
+The user or machine sends a request to a Network Access Server (NAS) to gain access to a particular network resource using access credentials. The credentials are passed to the NAS device via the link-layer protocol—for example, Point-to-Point Protocol (PPP) in the case of many dialup or DSL providers or posted in an HTTPS secure web form.
+In turn, the NAS sends a RADIUS Access Request message to the RADIUS server, requesting authorization to grant access via the RADIUS protocol.<ref name="rfc2865">RFC 2865 Remote Authentication Dial In User Service (RADIUS)</ref>
+This request includes access credentials, typically in the form of username and password or security certificate provided by the user. Additionally, the request may contain other information which the NAS knows about the user, such as its network address or phone number, and information regarding the user's physical point of attachment to the NAS.
+The RADIUS server checks that the information is correct using authentication schemes such as PAP, CHAP or EAP. The user's proof of identification is verified, along with, optionally, other information related to the request, such as the user's network address or phone number, account status, and specific network service access privileges. Historically, RADIUS servers checked the user's information against a locally stored flat file database. Modern RADIUS servers can do this, or can refer to external sources—commonly SQL, Kerberos, LDAP, or Active Directory servers—to verify the user's credentials.
+The RADIUS server then returns one of three responses to the NAS: 1) Access Reject, 2) Access Challenge, or 3) Access Accept.
+; Access Reject: The user is unconditionally denied access to all requested network resources. Reasons may include failure to provide proof of identification or an unknown or inactive user account.
+; Access Challenge: Requests additional information from the user such as a secondary password, PIN, token, or card. Access Challenge is also used in more complex authentication dialogs where a secure tunnel is established between the user machine and the Radius Server in a way that the access credentials are hidden from the NAS.
+; Access Accept: The user is granted access. Once the user is authenticated, the RADIUS server will often check that the user is authorized to use the network service requested. A given user may be allowed to use a company's wireless network, but not its VPN service, for example. Again, this information may be stored locally on the RADIUS server, or may be looked up in an external source such as LDAP or Active Directory.
+Each of these three RADIUS responses may include a Reply-Message attribute which may give a reason for the rejection, the prompt for the challenge, or a welcome message for the accept. The text in the attribute can be passed on to the user in a return web page.
+Authorization attributes are conveyed to the NAS stipulating terms of access to be granted. For example, the following authorization attributes may be included in an Access-Accept:
+* The specific IP address to be assigned to the user
+* The address pool from which the user's IP address should be chosen
+* The maximum length of time that the user may remain connected
+* An access list, priority queue or other restrictions on a user's access
+* L2TP parameters
+* VLAN parameters
+* Quality of Service (QoS) parameters
+When a client is configured to use RADIUS, any user of the client presents authentication information to the client. This might be with a customizable login prompt, where the user is expected to enter their username and password. Alternatively, the user might use a link framing protocol such as the Point-to-Point Protocol (PPP), which has authentication packets which carry this information.
+Once the client has obtained such information, it may choose to authenticate using RADIUS. To do so, the client creates an "Access- Request" containing such Attributes as the user's name, the user's password, the ID of the client and the Port ID which the user is accessing. When a password is present, it is hidden using a method based on the RSA Message Digest Algorithm MD5.
+===Accounting===
+Accounting is described in RFC 2866.
+When network access is granted to the user by the NAS, an Accounting Start (a RADIUS Accounting Request packet containing an Acct-Status-Type attribute with the value "start") is sent by the NAS to the RADIUS server to signal the start of the user's network access. "Start" records typically contain the user's identification, network address, point of attachment and a unique session identifier.<ref>RFC 2866 RADIUS Accounting</ref>
+Periodically, Interim Update records (a RADIUS Accounting Request packet containing an Acct-Status-Type attribute with the value "interim-update") may be sent by the NAS to the RADIUS server, to update it on the status of an active session. "Interim" records typically convey the current session duration and information on current data usage.
+Finally, when the user's network access is closed, the NAS issues a final Accounting Stop record (a RADIUS Accounting Request packet containing an Acct-Status-Type attribute with the value "stop") to the RADIUS server, providing information on the final usage in terms of time, packets transferred, data transferred, reason for disconnect and other information related to the user's network access.
+Typically, the client sends Accounting-Request packets until it receives an Accounting-Response acknowledgement, using some retry interval.
+The primary purpose of this data is that the user can be billed accordingly; the data is also commonly used for statistical purposes and for general network monitoring.
+==Roaming==
+RADIUS is commonly used to facilitate roaming between ISPs, for example:
+*by companies which provide a single global set of credentials that are usable on many public networks;
+*by independent, but collaborating, institutions issuing their own credentials to their own users, that allow a visitor from one to another to be authenticated by their home institution, such as in eduroam.
+RADIUS facilitates this by the use of realms, which identify where the RADIUS server should forward the AAA requests for processing.
+===Realms===
+A realm is commonly appended to a user's user name and delimited with an '@' sign, resembling an email address domain name. This is known as postfix notation for the realm. Another common usage is prefix notation, which involves prepending the realm to the username and using '' as a delimiter.
+Modern RADIUS servers allow any character to be used as a realm delimiter, although in practice '@' and '' are usually used.
+Realms can also be compounded using both prefix and postfix notation, to allow for complicated roaming scenarios; for example, somedomain.com\username@anotherdomain.com could be a valid username with two realms.
+Although realms often resemble domains, it is important to note that realms are in fact arbitrary text and need not contain real domain names. Realm formats are standardized in RFC 4282, which defines a Network Access Identifier (NAI) in the form of 'user@realm'. In that specification, the 'realm' portion is required to be a domain name. However, this practice is not always followed. RFC 7542<ref> urltoken replaced RFC 4282 in May 2015.
+===Proxy operations===
+When a RADIUS server receives an AAA request for a user name containing a realm, the server will reference a table of configured realms. If the realm is known, the server will then proxy the request to the configured home server for that domain. The behavior of the proxying server regarding the removal of the realm from the request ("stripping") is configuration-dependent on most servers. In addition, the proxying server can be configured to add, remove or rewrite AAA requests when they are proxied over time again.
+Proxy Chaining is possible in RADIUS and authentication/authorization and accounting packets are usually routed between a NAS Device and a Home server through a series of proxies. Some of advantages of using Proxy chains include scalability improvements, policy implementations and capability adjustments. But in roaming scenarios, the NAS, Proxies and Home Server could be typically managed by different administrative entities. Hence, the trust factor among the proxies gains more significance under such Inter-domain applications. Further, the absence of end to end security in RADIUS adds to the criticality of trust among the Proxies involved. Proxy Chains are explained in rfc:2607.
+===Security===
+Roaming with RADIUS exposes the users to various security and privacy concerns. More generally, some roaming partners establish a secure tunnel between the RADIUS servers to ensure that users' credentials cannot be intercepted while being proxied across the internet. This is a concern as the MD5 hash built into RADIUS is considered insecure.<ref></ref>
+==Packet structure==
+The RADIUS packet data format is shown to the right. The fields are transmitted from left to right, starting with the code, the identifier, the length, the authenticator and the attributes.
+RADIUS Codes (decimal) are assigned as follows:
+==See also==
+* 802.1X
+* Diameter (protocol)
+* Kerberos (protocol)
+* Security Assertion Markup Language
+* TACACS
+* TACACS+
+==References==
+==Bibliography==
+* 
+==External links==
+* urltoken Radius Types
+* urltoken An Analysis of the RADIUS Authentication Protocol
+* urltoken Decoding a Sniffer-trace of RADIUS Transaction
+* urltoken Using Wireshark to debug RADIUS
+
+Remote Authentication Dial-In User Service (RADIUS) is a networking protocol, operating on ports 1812 and 1813, that provides centralized Authentication, Authorization, and Accounting (AAA or Triple A) management for users who connect and use a network service. RADIUS was developed by Livingston Enterprises, Inc. in 1991 as an access server authentication and accounting protocol and later brought into the Internet Engineering Task Force (IETF) standards.
+RADIUS is a client/server protocol that runs in the application layer, and can use either TCP or UDP as transport. Network access servers, the gateways that control access to a network, usually contain a RADIUS client component that communicates with the RADIUS server.<ref name="ciscohow" /> RADIUS is often the back-end of choice for 802.1X authentication as well.<ref name="Brown2006"></ref>
+The RADIUS server is usually a background process running on a UNIX or Microsoft Windows server.<ref name="ciscohow"></ref>

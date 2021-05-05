@@ -1,0 +1,101 @@
+Hermann Weyl
+
+==Contributions==
+Image:Hermann Weyl, Ernst Peschl.jpg|thumb|right|Hermann Weyl (left) and Ernst Peschl (right).
+===Distribution of eigenvalues===
+In 1911 Weyl published Über die asymptotische Verteilung der Eigenwerte (On the asymptotic distribution of eigenvalues) in which he proved that the eigenvalues of the Laplacian in the compact domain are distributed according to the so-called Weyl law. In 1912 he suggested a new proof, based on variational principles. Weyl returned to this topic several times, considered elasticity system and formulated the Weyl conjecture. These works started an important domain—asymptotic distribution of eigenvalues—of modern analysis.
+===Geometric foundations of manifolds and physics===
+In 1913, Weyl published Die Idee der Riemannschen Fläche (The Concept of a Riemann Surface), which gave a unified treatment of Riemann surfaces. In it Weyl utilized point set topology, in order to make Riemann surface theory more rigorous, a model followed in later work on manifolds. He absorbed L. E. J. Brouwer's early work in topology for this purpose.
+Weyl, as a major figure in the Göttingen school, was fully apprised of Einstein's work from its early days. He tracked the development of relativity physics in his Raum, Zeit, Materie (Space, Time, Matter) from 1918, reaching a 4th edition in 1922. In 1918, he introduced the notion of gauge,<ref name="New Kind of Science"></ref> and gave the first example of what is now known as a gauge theory. Weyl's gauge theory was an unsuccessful attempt to model the electromagnetic field and the gravitational field as geometrical properties of spacetime.<ref name="New Kind of Science" /> The Weyl tensor in Riemannian geometry is of major importance in understanding the nature of conformal geometry. In 1929, Weyl introduced the concept of the vierbein into general relativity.<ref>1929. "Elektron und Gravitation I", Zeitschrift Physik, 56, pp 330–352.</ref>
+His overall approach in physics was based on the phenomenological philosophy of Edmund Husserl, specifically Husserl's 1913 Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Erstes Buch: Allgemeine Einführung in die reine Phänomenologie (Ideas of a Pure Phenomenology and Phenomenological Philosophy. First Book: General Introduction). Husserl had reacted strongly to Gottlob Frege's criticism of his first work on the philosophy of arithmetic and was investigating the sense of mathematical and other structures, which Frege had distinguished from empirical reference.
+===Topological groups, Lie groups and representation theory===
+From 1923 to 1938, Weyl developed the theory of compact groups, in terms of Representation theorys. In the compact Lie group case he proved a fundamental character formula.
+These results are foundational in understanding the symmetry structure of quantum mechanics, which he put on a group-theoretic basis. This included spinors. Together with the mathematical formulation of quantum mechanics, in large measure due to John von Neumann, this gave the treatment familiar since about 1930. Non-compact groups and their representations, particularly the Heisenberg group, were also streamlined in that specific context, in his 1927 Weyl quantization, the best extant bridge between
+classical and quantum physics to date. From this time, and certainly much helped by Weyl's expositions, Lie groups and Lie algebras became a mainstream part both of pure mathematics and theoretical physics.
+His book The Classical Groups reconsidered invariant theory. It covered symmetric groups, general linear groups, orthogonal groups, and symplectic groups and results on their invariants and representations.
+===Harmonic analysis and analytic number theory===
+Weyl also showed how to use exponential sums in diophantine approximation, with his criterion for equidistributed mod 1, which was a fundamental step in analytic number theory. This work applied to the Riemann zeta function, as well as additive number theory. It was developed by many others.
+===Foundations of mathematics===
+In The Continuum Weyl developed the logic of impredicativity using the lower levels of Bertrand Russell's ramified theory of types. He was able to develop most of classical calculus, while using neither the axiom of choice nor proof by contradiction, and avoiding Georg Cantor's infinite sets. Weyl appealed in this period to the radical constructivism of the German romantic, subjective idealist Fichte.
+Shortly after publishing The Continuum Weyl briefly shifted his position wholly to the intuitionism of Brouwer. In The Continuum, the constructible points exist as discrete entities. Weyl wanted a continuum that was not an aggregate of points. He wrote a controversial article proclaiming that, for himself and L. E. J. Brouwer, "We are the revolution." This article was far more influential in propagating intuitionistic views than the original works of Brouwer himself.
+George Pólya and Weyl, during a mathematicians' gathering in Zürich (9 February 1918), made a bet concerning the future direction of mathematics. Weyl predicted that in the subsequent 20 years, mathematicians would come to realize the total vagueness of notions such as real numbers, sets, and countable, and moreover, that asking about the truth or falsity of the least upper bound property of the real numbers was as meaningful as asking about truth of the basic assertions of Hegel on the philosophy of nature.<ref>Gurevich, Yuri. urltoken "Platonism, Constructivism and Computer Proofs vs Proofs by Hand", Bulletin of the European Association of Theoretical Computer Science, 1995. This paper describes a letter discovered by Gurevich in 1995 that documents the bet. It is said that when the friendly bet ended, the individuals gathered cited Pólya as the victor (with Kurt Gödel not in concurrence).</ref> Any answer to such a question would be unverifiable, unrelated to experience, and therefore senseless.
+However, within a few years Weyl decided that Brouwer's intuitionism did put too great restrictions on mathematics, as critics had always said. The "Crisis" article had disturbed Weyl's formalist teacher Hilbert, but later in the 1920s Weyl partially reconciled his position with that of Hilbert.
+After about 1928 Weyl had apparently decided that mathematical intuitionism was not compatible with his enthusiasm for the phenomenological philosophy of Husserl, as he had apparently earlier thought. In the last decades of his life Weyl emphasized mathematics as "symbolic construction" and moved to a position closer not only to Hilbert but to that of Ernst Cassirer. Weyl however rarely refers to Cassirer, and wrote only brief articles and passages articulating this position.
+By 1949, Weyl was thoroughly disillusioned with the ultimate value of intuitionism, and wrote: "Mathematics with Brouwer gains its highest intuitive clarity. He succeeds in developing the beginnings of analysis in a natural manner, all the time preserving the contact with intuition much more closely than had been done before. It cannot be denied, however, that in advancing to higher and more general theories the inapplicability of the simple laws of classical logic eventually results in an almost unbearable awkwardness. And the mathematician watches with pain the greater part of his towering edifice which he believed to be built of concrete blocks dissolve into mist before his eyes."
+===Weyl equation===
+In 1929, Weyl proposed an equation for use in a replacement to Dirac equation. This equation describes massless fermions. A normal Dirac fermion could be split into two Weyl fermions or formed from two Weyl fermions. Neutrinos were once thought to be Weyl fermions, but they are now known to have mass. Weyl fermions are sought after for electronics applications. Quasiparticles that behave as Weyl fermions were discovered in 2015, in a form of crystals known as Weyl semimetals, a type of topological material.<ref name=I3Espectrum-2015-07-16></ref><ref name=ScienceDaily-2015-07-16></ref><ref name="10.1126/science.aaa9297"> </ref>
+==Quotes==
+*The question for the ultimate foundations and the ultimate meaning of mathematics remains open; we do not know in which direction it will find its final solution nor even whether a final objective answer can be expected at all. "Mathematizing" may well be a creative activity of man, like language or music, of primary originality, whose historical decisions defy complete objective rationalization.
+:—Gesammelte Abhandlungen—as quoted in Year book – The American Philosophical Society, 1943, p. 392
+*In these days the angel of topology and the devil of abstract algebra fight for the soul of each individual mathematical domain. 
+==Bibliography==
+* 1911. urltoken Über die asymptotische Verteilung der Eigenwerte, Nachrichten der Königlichen Gesellschaft der Wissenschaften zu Göttingen, 110–117 (1911).
+* 1913. Die Idee der Riemannschen Flāche,<ref></ref> 2d 1955. The Concept of a Riemann Surface. Addison–Wesley.
+* 1918. Das Kontinuum, trans. 1987 The Continuum : A Critical Examination of the Foundation of Analysis. 
+* 1918. urltoken Raum, Zeit, Materie. 5 edns. to 1922 ed. with notes by Jūrgen Ehlers, 1980. trans. 4th edn. Henry Brose, 1922 urltoken Space Time Matter, Methuen, rept. 1952 Dover. .
+* 1923. Mathematische Analyse des Raumproblems.
+* 1924. Was ist Materie?
+* 1925. (publ. 1988 ed. K. Chandrasekharan) Riemann's Geometrische Idee.
+* 1927. Philosophie der Mathematik und Naturwissenschaft, 2d edn. 1949. Philosophy of Mathematics and Natural Science, Princeton 0689702078. With new introduction by Frank Wilczek, Princeton University Press, 2009, .
+* 1928. Gruppentheorie und Quantenmechanik. transl. by H. P. Robertson, urltoken The Theory of Groups and Quantum Mechanics, 1931, rept. 1950 Dover. 
+* 1929. "Elektron und Gravitation I", Zeitschrift Physik, 56, pp 330–352. – introduction of the vierbein into GR
+* 1933. The Open World Yale, rept. 1989 Oxbow Press 
+* 1934. Mind and Nature U. of Pennsylvania Press.
+* 1934. "On generalized Riemann matrices," Ann. Math. 35: 400–415.
+* 1935. Elementary Theory of Invariants.
+* 1935. The structure and representation of continuous groups: Lectures at Princeton university during 1933–34.
+*<ref></ref>
+*
+* 1940. Algebraic Theory of Numbers rept. 1998 Princeton U. Press. 
+* (text of 1948 Josiah Wilard Gibbs Lecture)
+* 1952. Symmetry. Princeton University Press. 
+* 1968. in K. Chandrasekharan ed, Gesammelte Abhandlungen. Vol IV. Springer.
+==See also==
+===Topics named after Hermann Weyl===
+* Majorana–Weyl spinor
+* Peter–Weyl theorem
+* Schur–Weyl duality
+* Weyl algebra
+* Weyl basis of the gamma matrices
+* Weyl chamber
+* Weyl character formula
+* Weyl equation, a relativistic wave equation
+* Weyl fermion
+* Weyl gauge
+* Weyl gravity
+* Weyl notation
+* Weyl quantization
+* Weyl spinor
+* Weyl sum, a type of exponential sum
+* Weyl symmetry: see Weyl transformation
+* Weyl tensor
+* Weyl transform
+* Weyl transformation
+* Weyl–Schouten theorem
+* Weyl's criterion
+* Weyl sum on hypoellipticity
+* Weyl's lemma on the "very weak" form of the Laplace equation
+==References==
+==Further reading==
+* ed. K. Chandrasekharan,Hermann Weyl, 1885–1985, Centenary lectures delivered by C. N. Yang, R. Penrose, A. Borel, at the ETH Zürich Springer-Verlag, Berlin, Heidelberg, New York, London, Paris, Tokyo – 1986, published for the Eidgenössische Technische Hochschule, Zürich.
+*Deppert, Wolfgang et al., eds., Exact Sciences and their Philosophical Foundations. Vorträge des Internationalen Hermann-Weyl-Kongresses, Kiel 1985, Bern; New York; Paris: Peter Lang 1988,
+*Ivor Grattan-Guinness, 2000. The Search for Mathematical Roots 1870-1940. Princeton Uni. Press.
+*Thomas Hawkins, Emergence of the Theory of Lie Groups, New York: Springer, 2000.
+* 
+*In connection with the Weyl–Pólya bet, a copy of the original letter together with some background can be found in: 
+*Erhard Scholz; Robert Coleman; Herbert Korte; Hubert Goenner; Skuli Sigurdsson; Norbert Straumann eds. Hermann Weyl's Raum – Zeit – Materie and a General Introduction to his Scientific Work (Oberwolfach Seminars) Springer-Verlag New York, New York, N.Y.
+*Skuli Sigurdsson. "Physics, Life, and Contingency: Born, Schrödinger, and Weyl in Exile." In Mitchell G. Ash, and Alfons Söllner, eds., Forced Migration and Scientific Change: Emigré German-Speaking Scientists and Scholars after 1933 (Washington, D.C.: German Historical Institute and New York: Cambridge University Press, 1996), pp.&nbsp;48–70.
+*
+==External links==
+* urltoken National Academy of Sciences biography
+* Bell, John L. urltoken Hermann Weyl on intuition and the continuum
+* Feferman, Solomon. urltoken "Significance of Hermann Weyl's das Kontinuum"
+* Straub, William O. urltoken Hermann Weyl Website
+* 
+*
+
+</ref><ref> urltoken Ruth Georgie Erica March was born on May 30, 1934 in Oxford, England, but—according to the records presented here—it appears that her birth wasn't "registered" with the British authorities until the 3rd registration quarter (the July–August–September quarter) of the year 1934. Ruth's actual, biological father was Erwin Schrödinger (1887–1961), and her mother was Hildegunde March (née Holzhammer) (born 1900), wife of Austrian physicist Arthur March (February 23, 1891 – April 17, 1957). Hildegunde's friends often called her "Hilde" or "Hilda" rather than Hildegunde. Arthur March was Erwin Schrödinger's assistant at the time of Ruth's birth. The reason Ruth's surname is March (instead of Schrödinger) is because Arthur had agreed to be named as Ruth's father on her birth certificate, even though he wasn't her biological father. Ruth married the engineer Arnulf Braunizer in May 1956, and they have lived in Alpbach, Austria for many years. Ruth has been very active as the sole administrator of the intellectual (and other) property of her father Erwin's estate, which she manages from Alpbach.</ref>
+Weyl was a Plenary Speaker of the International Congress of Mathematicians (ICM) in 1928 at Bologna<ref></ref> and an Invited Speaker of the ICM in 1936 at Oslo. He was elected a fellow of the American Physical Society in 1928<ref></ref> and a member of the National Academy of Sciences in 1940.<ref></ref> For the academic year 1928–1929 he was a visiting professor at Princeton University,<ref></ref> where he wrote a paper with Howard P. Robertson.<ref></ref>
+Weyl left Zürich in 1930 to become Hilbert's successor at Göttingen, leaving when the Nazis assumed power in 1933, particularly as his wife was Jewish. He had been offered one of the first faculty positions at the new Institute for Advanced Study in Princeton, New Jersey, but had declined because he did not desire to leave his homeland. As the political situation in Germany grew worse, he changed his mind and accepted when offered the position again. He remained there until his retirement in 1951. Together with his second wife Ellen, he spent his time in Princeton and Zürich, and died from a heart attack on December 8, 1955 while living in Zürich.
+Weyl was cremated in Zurich on December 12, 1955.<ref>137: Jung, Pauli, and the Pursuit of a Scientific Obsession (New York and London: W. W. Norton & Company, 2009), by Arthur I. Miller (p. 228).</ref> His cremains remained in private hands until 1999, at which time they were interred in an outdoor columbarium vault in the Princeton Cemetery.<ref>Hermann Weyl's cremains (ashes) are interred in an outdoor columbarium vault in the Princeton Cemetery at this location: Section 3, Block 04, Lot C1, Grave B15.</ref> The remains of Hermann's son Michael Weyl (1917–2011) are interred right next to Hermann's ashes in the same columbarium vault.
+Weyl was a pantheist.<ref></ref>

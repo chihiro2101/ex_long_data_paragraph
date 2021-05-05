@@ -1,0 +1,122 @@
+Musket
+
+==Etymology==
+According to the Etymology Dictionary, firearms were often named after animals, and the word musket derived from the French word mousquette, which is a male sparrowhawk.<ref></ref> An alternative theory is that derives from the 16th century French mousquet, -ette, from the Italian moschetto, -etta, meaning the bolt of a crossbow. The Italian moschetto is a diminutive of mosca, a fly.<ref>The Concise Oxford Dictionary of English Etymology, T F Hoad, Oxford University Press, 1986 p.305.</ref>
+===Terminology===
+The first recorded usage of the term "musket" or moschetto appeared in Europe in the year 1499. Evidence of the musket as a type of firearm does not appear until 1521 when it was used to describe a heavy arquebus capable of penetrating heavy armor. This version of the musket fell out of use after the mid-16th century with the decline of heavy armor; however, the term itself stuck around as a general descriptor for 'shoulder arms' fireweapons into the 19th century. The differences between the arquebus and musket post-16th century are therefore not entirely clear, and the two have been used interchangeably on several occasions.
+==History==
+=== Heavy arquebus ===
+The heavy arquebus known as the musket appeared in Europe by 1521. In response to firearms, thicker armor was produced, from 15&nbsp;kg in the 15th century to 25&nbsp;kg in the late 16th century. Armour that was 2&nbsp;mm thick required nearly three times as much energy to penetrate as armour that was only 1&nbsp;mm thick. During the siege of Parma in 1521, many Spanish soldiers reportedly used an "arquebus with rest", a weapon much larger and more powerful than the regular arquebus. However, at this point, long-barreled, musket-caliber weapons had been in use as wall-defence weapons in Europe for almost a century. The musketeers were the first infantry to give up armour entirely. Musketeers began to take cover behind walls or in sunken lanes and sometimes acted as skirmishers to take advantage of their ranged weapons. In England, the musket barrel was cut down from to around 1630.<ref>C.H.Firth 1972 4th ed. Cromwell's Army p. 80</ref>
+Muskets of the 16th–19th centuries were accurate enough to hit a target of 50 centimetres in diameter at a distance of 100 metres. At the same distance, musket bullets could penetrate a steel bib about 4 millimetres thick, or a wooden shield about 130 millimetres thick. The maximum range of the bullet was 1100 metres. The speed of the bullets was between 450–540 m/s, and the kinetic energy was 3000–4000 J.<ref> urltoken Robins, New Principles of Gunnery: Containing the Determination of the Force of Gun-Powder</ref>
+=== Flintlock musket ===
+The heavy musket went out of favor around the same time the snaphance flintlock was invented in Europe, in 1550. After the arrival of the snaphance, and then the "true" flintlock in the late 17th century, the arquebus died out as a term for firearms and flintlocks are not usually associated with arquebuses. The term "musket" itself however, stuck around as a general term for 'shoulder arms' fireweapons into the 1800s. The differences between the arquebus and musket post-16th century are therefore not entirely clear, and the two have been used interchangeably on several occasions.
+The number of musketeers relative to pikemen increased partly because they were now more mobile than pikemen.<ref>E.g. in 1644, in the English Civil War the King escaping two Parliamentary armies left all his pikemen behind in his fortress of Oxford because of the need for speed. C.H.Firth 1972 4th ed. Cromwell's Army p78</ref>
+An intermediate between the arquebus and the musket was the caliver,<ref name="Humfrey Barwick"></ref> a standardized arquebus deriving from the English corruption of "calibre" (spelled "caliber" in the US), which appeared in Europe around 1567-9.
+===Asia===
+Matchlock firearms were used in India by 1500, in Đại Việt by 1516, and in Southeast Asia by 1540. According to a Burma source from the late 15th century, King Meng Khoum II would not dare attack the besieged town of Prome due to the defenders' use of cannon and small arms that were described as muskets, although these were probably early matchlock arquebuses or wall guns.<ref>Howard Ricketts, Firearms (1962)</ref>
+The Portuguese may have introduced muskets to Sri Lanka during their conquest of the coastline and low lands in 1505, as they regularly used short barreled matchlocks during combat. However, P.E.P.Deraniyagala points out that the Sinhalese term for gun, 'bondikula', matches the Arabic term for gun, 'bunduk'. Also, certain technical aspects of the early Sri Lankan matchlock were similar to the matchlocks used in the Middle East, thus forming the generally accepted theory that the musket was not entirely new to the island by the time the Portuguese came. In any case, soon native Sri Lankan kingdoms, most notably the kingdom of Sitawaka and the Kandyan Kingdom, manufactured hundreds of Lankan muskets, with a unique bifurcated stock, longer barrel and smaller calibre, which made it more efficient in directing and using the energy of the gunpowder. These were mastered by native soldiers to the point where, according to the Portuguese chronicler, Queirós, they could "fire at night to put out a match" and "by day at 60 paces would sever a knife with four or five bullets" and "send as many on the same spot in the target."<ref>Perera, C. Gaston. "Chapter V: Weapons Used, Firearms." Kandy Fights the Portuguese. Colombo: Vijitha Yapa Publications, 2007. 83 to 102. Print.</ref>
+Arquebuses were imported by the Ming Dynasty (1368–1644) at an uncertain point, but the Ming only began fielding matchlocks in 1548. The Chinese used the term "bird-gun" to refer to arquebuses and Turkish arquebuses may have reached China before Portuguese ones. In Zhao Shizhen's book of 1598 AD, the Shenqipu, there were illustrations of Ottoman Turkish musketmen with detailed illustrations of their muskets, alongside European musketeers with detailed illustrations of their muskets. There was also illustration and description of how the Chinese had adopted the Ottoman kneeling position in firing while using European-made muskets, though Zhao Shizhen described the Turkish muskets as being superior to the European muskets. The Wu Pei Chih (1621) later described Turkish muskets that used a rack-and-pinion mechanism, which was not known to have been used in any European or Chinese firearms at the time.
+Despite initial reluctance, the Safavid Empire of Persia rapidly acquired the art of making and using handguns. A Venetian envoy, Vincenzo di Alessandri, in a report presented to the Council of Ten on 24 September 1572, observed:
+In the 18th century, regular light infantry began to emerge. In contrast to the front-line infantry, they fought in the loose formation, used natural shelters and terrain folds. In addition, they were better prepared to target single targets. This type of troops was designed to fight against irregular enemy troops, such as militia, guerrillas and natives. But at the beginning of the 19th century, the number of light infantry is increasing dramatically. In the French army, light infantry accounted for 25% of the infantry. In the Russian Army, 50 light infantry regiments and one company in each battalion were formed, which accounted for about 40% of light infantry in the entire infantry.<ref>British Light Infantry & Rifle Tactics of the Napoleonic Wars</ref>
+===Attack column===
+In the 19th century, a new tactic was devised by the French during the French Revolutionary Wars. This was the colonne d'attaque, or attack column, consisting of one regiment up to two brigades of infantry. Instead of advancing slowly all across the battlefield in line formations, the French infantry were brought forward in such columns, preceded by masses of skirmishers to cover and mask their advance. The column would then normally deploy into line right before engaging the enemy with either fire or bayonet. This allowed the French Revolutionary and Napoleonic infantry a much greater degree of mobility compared to their Ancien Régime opponents, and also allowed much closer cooperation of infantry with cavalry and artillery, which were free to move in between the infantry columns of the former rather than being trapped in between the linear formation of the latter. The 'colonne d'attaque' was henceforth adopted by all European armies during and after the Napoleonic Wars. While some British historians, such as Sir Charles Oman, have postulated that it was the standard French tactic to charge enemy lines of infantry head on with their columns, relying on the morale effect of the huge column, and hence were often beaten off by the devastating firepower of the redcoats, more current research into the subject has revealed that such occasions were far from the norm, and that the French normally tried deploying into lines before combat as well.<ref></ref>
+==Parts of a musket==
+center
+The phrase "lock, stock, and barrel" refers to the three main parts of a musket.<ref>"Dictionary of phrase and fable" By Ebenezer Cobham Brewer, Published by Cassell and Company LTD, 1900</ref>
+Trigger guards began appearing in 1575.
+Bayonets were attached to muskets in several parts of the world from the late 16th to 17th centuries.
+Locks came in many different varieties. Early matchlock and wheel lock mechanisms were replaced by later flintlock mechanisms and finally percussion locks. In some parts of the world, such as China and Japan, the flintlock mechanism never caught on and they continued using matchlocks until the 19th century when percussion locks were introduced.
+In the latter half of the 18th century, several improvements were added to the musket. In 1750, a detent was added to prevent the sear from catching in the half-cock notch. A roller bearing was introduced in 1770 to reduce friction and increase sparks. In 1780, waterproof pans were added.
+==Ammunition==
+The Minié ball, which despite its name was actually bullet-shaped and not ball-shaped, was developed in the 1840s.<ref></ref> The Minié ball had an expanding skirt which was intended to be used with rifled barrels, leading to what was called the rifled musket, which came into widespread use in the mid-19th century. The Minié ball was small enough in diameter that it could be loaded as quickly as a round ball, even with a barrel that had been fouled with black powder residue after firing many shots, and the expanding skirt of the Minié ball meant that it would still form a tight fit with the barrel and impart a good spin into the round when fired. This gave the rifled musket an effective range of several hundred yards, which was a significant improvement over the smooth bore musket. For example, combat ranges of 300 yards were achievable using the rifled muskets of the American Civil War.<ref></ref>
+Musketeers often used paper cartridges, which served a purpose similar to that of modern metallic cartridges in combining bullet and powder charge. A musket cartridge consisted of a pre-measured amount of black powder and ammunition such as a round ball, Nessler ball or Minié ball all wrapped up in paper. Cartridges would then be placed in a cartridge box, which would typically be worn on the musketeer's belt during a battle. Unlike a modern cartridge, this paper cartridge was not simply loaded into the weapon and fired. Instead, the musketeer would tear open the paper (usually with his teeth), pour some of the powder into the pan and the rest into the barrel, follow it with the ammunition (and the paper as wadding if not using a Minié ball), then use the ramrod as normal to push it all into the barrel. While not as fast as loading a modern cartridge, this method did significantly speed up the loading process since the pre-measured charges meant that the musketeer did not have to carefully measure out the black powder with every shot.<ref name=Pritchard2003>"Civil War Weapons and Equipment" By Russ A. Pritchard, Jr., Russ A. Pritchard Jr., William Davis, Published by Globe Pequot, 2003</ref>
+==Accessories==
+thumb
+Some ramrods were equipped with threaded ends, allowing different attachments to be used. One of the more common attachments was a ball screw or ball puller, which was a screw that could be screwed into the lead ball to remove it if it had become jammed in the barrel, similar to the way that a corkscrew is used to remove a wine cork. Another attachment was called a worm, which was used to clear debris from the barrel, such as paper wadding that had not been expelled. Some worm designs were sturdy enough that they could be used to remove stuck ammunition. The worm could also be used with a small piece of cloth for cleaning. A variation on the worm called the "screw and wiper" combined the typical design of a worm with a ball puller's screw.<ref>"Images of the recent past: readings in historical archaeology" By Charles E. Orser, Published by Rowman Altamira, 1996</ref>
+==See also==
+* Grenadier
+* Line infantry
+* Musketoon
+* Pike and shot
+==References==
+==Bibliography==
+* 
+* 
+* 
+* .
+* 
+* 
+* 
+* 
+* .
+* 
+* .
+* 
+* .
+* 
+* .
+* .
+* .
+* 
+* 
+* 
+* .
+* Hadden, R. Lee. 2005. urltoken "Confederate Boys and Peter Monkeys." Armchair General. January 2005. Adapted from a talk given to the Geological Society of America on 25 March 2004.
+*
+* 
+* .
+* .
+* 
+* 
+*
+* .
+* .
+* 
+* 
+* 
+* 
+* .
+* 
+* 
+* 
+* 
+* .
+* 
+* 
+* .
+* 
+* 
+* .
+* .
+* 
+* .
+* .
+* 
+* 
+* .
+* 
+* 
+*
+* 
+* 
+* 
+* Schmidtchen, Volker (1977a), "Riesengeschütze des 15. Jahrhunderts. Technische Höchstleistungen ihrer Zeit", Technikgeschichte 44 (2): 153–173 (153–157)
+* Schmidtchen, Volker (1977b), "Riesengeschütze des 15. Jahrhunderts. Technische Höchstleistungen ihrer Zeit", Technikgeschichte 44 (3): 213–237 (226–228)
+* .
+* 
+* .
+* 
+* 
+* 
+*
+* 
+*
+==External links==
+* urltoken History of numerous Muskets
+* urltoken Infantry Tactics During the Napoleonic wars – Musketry
+* urltoken The Arquebus and Matchlock Musket Page 
+* urltoken Musket, Bayonet and Sword
+* urltoken
+
+Image:Grand Turk(36).jpg|thumb|right|Muskets and bayonets aboard the frigate Grand Turk 
+A musket is a muzzle-loaded long gun that appeared as a smoothbore weapon in the early 16th century, at first as a heavier variant of the arquebus, capable of penetrating heavy armor. By the mid-16th century, this type of musket went out of use as heavy armor declined, but as the matchlock became standard, the term musket continued as the name given for any long gun with a flintlock, and then its successors, all the way through to the mid-19th century. This style of musket was retired in the 19th century when rifled muskets (simply called rifles in modern terminology) became common as a result of cartridged breech-loading firearms introduced by Casimir Lefaucheux in 1835, the invention of the Minié ball by Claude-Étienne Minié in 1849, and the first reliable repeating rifle produced by Volcanic Repeating Arms in 1854. By the time that repeating rifles became common, they were known as simply "rifles", ending the era of the musket.

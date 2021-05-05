@@ -1,0 +1,223 @@
+Timeline of nuclear fusion
+
+==1920s==
+*1920
+**Based on F.W. Aston measurements of the masses of low-mass elements and Einstein's discovery that E=mc<sup>2</sup>, Arthur Eddington proposes that large amounts of energy released by fusing small nuclei together provides the energy source that powers the stars.<ref></ref>
+**Henry Norris Russell notes that the relationship in the Hertzsprung–Russell diagram suggests a hot core rather than burning throughout the star. Eddington uses this to calculate that the core would have to be about 40&nbsp;million Kelvin. This remains a matter of some debate because it appears to be much higher than what observations suggest, which is about one-third to one-half that value.
+*1928
+**George Gamow introduces the mathematical basis for quantum tunnelling.<ref></ref>
+*1929
+**Atkinson and Houtermans provide the first calculations of the rate of nuclear fusion in stars. Based on Gamow's tunnelling, they show fusion can occur at lower energies than previously believed. When used with Eddington's calculations of the required fusion rates in stars, their calculations demonstrate this would occur at the lower temperatures that Eddington had calculated.<ref></ref>
+==1930s==
+*1932
+**Ernest Rutherford's Cavendish Laboratory at Cambridge University begins nuclear experiments with a particle accelerator built by John Cockcroft and Ernest Walton.<ref name=invent></ref>
+**In April, Walton produces the first man-made fission by using protons from the accelerator to split lithium into alpha particles.<ref name=invent/>
+**Using an updated version of the equipment firing deuterium rather than hydrogen, Mark Oliphant discovered helium-3 and tritium, and that heavy hydrogen nuclei could be made to react with each other.<ref></ref> This is the first direct demonstration of fusion in the lab.
+*1938
+**Kantrowitz and Jacobs of the NACA Langley Research Center built a toroidal magnetic bottle and heat the plasma with a 150&nbsp;W radio source. Hoping to heat the plasma to millions of degrees, the system fails and they are forced to abandon their Diffusion Inhibitor. This is the first attempt to make a working fusion reactor.
+*1939
+**Peter Thonemann develops a detailed plan for a pinch device, but is told to do other work for his thesis.
+**Hans Bethe provides detailed calculations of the proton–proton chain reaction that powers stars. This work results in a Nobel Prize for Physics.<ref></ref>
+==1940s==
+*1948
+**Tuck and Ware built a prototype pinch device out of old radar parts at Imperial University.
+==1950s==
+*1950
+**The tokamak, a type of magnetic confinement fusion device, was proposed by Soviet scientists Andrei Sakharov and Igor Tamm.
+*1951
+**Edward Teller and Stanislaw Ulam at Los Alamos National Laboratory (LANL) develop the Teller-Ulam design for the thermonuclear weapon, allowing for the development of multi-megaton weapons.
+**Fusion work in the UK is classified after the Klaus Fuchs affair.
+**A press release from Argentina claims that their Huemul Project had produced controlled nuclear fusion. This prompted a wave of responses in other countries, especially the U.S.
+***Lyman Spitzer dismisses the Argentinian claims, but while thinking about it comes up with the stellarator concept. Funding is arranged under Project Matterhorn and develops into the Princeton Plasma Physics Laboratory.
+***Tuck introduces the British pinch work to LANL. He develops the Perhapsatron under the codename Project Sherwood. The project name is a play on his name via Friar Tuck.<ref>.the first money to be allocated to controlled nuclear research happened to be for Tuck, and was diverted from Project Lincoln, in the Hood Laboratory. The coincidence of names prompted the well-known cover name "Project Sherwood". James L. Tuck, urltoken "Curriculum Vita and Autobiography", declassified document from Los Alamos National Laboratory (1974), reproduced with permission. urltoken Archived 9 February 2012.</ref>
+***Richard F. Post presents his magnetic mirror concept and also receives initial funding, eventually moving to Lawrence Livermore National Laboratory (LLNL).
+***In the UK, repeated requests for more funding that had previously been turned down are suddenly approved. Within a short time, three separate efforts are started, one at Harwell and two at Atomic Weapons Establishment (Aldermaston). Early planning for a much larger machine at Harwell begins.
+***Using the Huemul release as leverage, Soviet researchers find their funding proposals rapidly approved. Work on linear pinch machines begins that year.
+Image:IvyMike2.jpg|right|thumb|Ivy Mike, the first thermonuclear weapon, in 1952
+*1952
+**Ivy Mike shot off Operation Ivy, the first detonation of a thermonuclear weapon, yields 10.4 megatons of TNT out of a fusion fuel of liquid deuterium.
+**Cousins and Ware build a larger toroidal pinch device in England and demonstrated that the plasma in pinch devices is inherently unstable.
+*1953
+**The Soviet RDS-6S test, code named "Joe 4", demonstrated a fission/fusion/fission ("Layercake") design for a nuclear weapon. 
+**Z-pinch in the US and USSR attempted to take the reactions to fusion levels without worrying about stability. Both reported detections of neutrons, which were later explained as non-fusion in nature.
+*1954
+**Early planning for the large ZETA device at Harwell begins. The name is a take-off on research reactor which often had "zero energy" in their name, ZEEP being an example.
+**Edward Teller gives a now-famous speech on plasma stability in magnetic bottles at the Princeton Gun Club. His work suggests that most magnetic bottles are inherently unstable, outlining what is today known as the interchange instability.
+*1955
+**At the first Atoms for Peace meeting in Geneva, Homi J. Bhabha predicts that fusion will be in commercial use within two decades. This prompts a number of countries to begin fusion research; Japan, France and Sweden all start programs this year or the next.
+*1956
+**Experimental research of tokamak systems started at Kurchatov Institute, Moscow by a group of Soviet scientists led by Lev Artsimovich.
+**Construction of ZETA begins at Harwell.
+**Igor Kurchatov gives a talk at Harwell on pinch devices,<ref> urltoken "Lecture of I.V. Kurchatov at Harwell", from the address of I.V. Kurchatov: "On the possibility of producing thermonuclear reactions in a gas discharge" at Harwell on 25 April 1956. urltoken Archived 20 July 2015.</ref> revealing for the first time that the USSR is also working on fusion. He details the problems they are seeing, mirroring those in the US and UK.
+**In August, a number of articles on plasma physics appear in various Soviet journals.
+**In the wake of the Kurchatov's speech, the US and UK begin to consider releasing their own data. Eventually, they settle on a release prior to the 2nd Atoms for Peace conference in Geneva. 
+*1957
+**In the US, at LANL, Scylla I<ref> urltoken In 1957, Los Alamos achieved the first controlled thermonuclear plasma., Now and Then at Los Alamos.</ref> begins operation using the θ-pinch design.
+**ZETA is completed in the summer, it will be the largest fusion machine for a decade.
+**Initial results in ZETA appear to suggest the machine has successfully reached basic fusion temperatures. UK researchers start pressing for public release, while the US demurs.
+**Scientists at the AEI Research laboratory in Harwell reported that the Sceptre III plasma column remained stable for 300 to 400 microseconds, a dramatic improvement on previous efforts. Working backward, the team calculated that the plasma had an electrical resistivity around 100 times that of copper, and was able to carry 200 kA of current for 500 microseconds in total.
+*1958
+**In January, the US and UK release large amounts of data, with the ZETA team claiming fusion. Other researchers, notably Artsimovich and Spitzer, are skeptical. In May, the claims of fusion have to be retracted.
+**American, British and USSR scientists began to share previously classified controlled fusion research as part of the Atoms for Peace conference in Geneva in September. It is the largest international scientific meeting to date. It becomes clear that basic pinch concepts are not successful.
+**Scylla demonstrates the first controlled thermonuclear fusion in any laboratory.<ref> urltoken Reviewing next the thermonuclear plasma achievements at Los Alamos, we have achieved:(1) The first controlled thermonuclear reaction., REVIEW OF CONTROLLED THERMONUCLEAR RESEARCH AT LOS AMMOS 1965, J. L. Tuck</ref><ref> urltoken The first experiment in which thermonuclear fusion was achieved in any laboratory was done in 1958 with the Scylla I machine. , Winter/Spring 1983 Los Alamos Science.</ref> Though it came too late to be announced at Geneva. This θ-pinch approach will ultimately be abandoned as calculations show it cannot scale up to produce a reactor.
+==1960s==
+*1960
+**After considering the concept for some time, John Nuckolls publishes the concept of inertial confinement fusion. The laser, introduced the same year, appears to be a suitable "driver".
+*1961
+**The Soviet Union test the Tsar Bomba (50&nbsp;megatons), the most powerful thermonuclear weapon ever.
+*1964
+** Plasma temperatures of approximately 40 million degrees Celsius and a few billion deuteron-deuteron fusion reactions per discharge were achieved at LANL with the Scylla IV device<ref> urltoken In 1964 plasma temperatures of approximately 40 million degrees.were achieved with the Scylla IV, Winter/Spring 1983 LOS ALAMOS SCIENCE.</ref>
+*1965
+**At an international meeting at the UK's new fusion research centre in Culham, the Soviets release early results showing greatly improved performance in toroidal pinch machines. The announcement is met by scepticism, especially by the UK team who's ZETA was largely identical. Spitzer, chairing the meeting, essentially dismisses it out of hand.
+**At the same meeting, odd results from the ZETA machine are published. It will be years before the significance of these results are realized.
+**By the end of the meeting, it is clear that most fusion efforts have stalled. All of the major designs, including the stellarator, pinch machines and magnetic mirrors are all losing plasma at rates that are simply too high to be useful in a reactor setting. Less-known designs like the levitron and astron are faring no better.
+**The 12-beam "4 pi laser" using ruby as the lasing medium is developed at Lawrence Livermore National Laboratory (LLNL) includes a gas-filled target chamber of about 20 centimeters in diameter.
+*1967
+**Demonstration of Farnsworth-Hirsch Fusor appeared to generate neutrons in a nuclear reaction.
+**Hans Bethe wins the 1967 Nobel Prize in physics for his publication on how fusion powers the stars in work of 1939.<ref></ref>
+*1968
+**Further results from the T-3 tokamak, similar to the toroidal pinch machine mentioned in 1965, claims temperatures to be over an order of magnitude higher than any other device. The Western scientists remain highly sceptical.
+**The Soviets invite a UK team from ZETA to perform independent measurements on T-3.
+*1969
+**The UK team, nicknamed "The Culham Five", confirm the Soviet results early in the year. They publish their results in October's edition of Nature. This leads to a "veritable stampede" of tokamak construction around the world.
+==1970s==
+*1970
+**The Model C stellarator is quickly converted to the Symmetrical Tokamak, matching the Soviet results. With an apparent solution to the magnetic bottle problem in-hand, plans begin for a larger machine to test the scaling.
+**Kapchinskii and Teplyakov introduce a particle accelerator for heavy ions that appears suitable as an ICF driver in place of lasers.
+*1972
+**The first neodymium-doped glass (Nd:glass) laser for ICF research, the "Long path laser" is completed at LLNL and is capable of delivering ~50 joules to a fusion target. 
+*1973
+**Design work on JET, the Joint European Torus, begins.
+*1974
+**J.B. Taylor re-visited ZETA results of 1958 and explained that the quiet-period was in fact very interesting. This led to the development of reversed field pinch, now generalised as "self-organising plasmas", an ongoing line of research.
+**KMS Fusion, a private-sector company, builds an ICF reactor using laser drivers. Despite limited resources and numerous business problems, KMS successfully compresses fuel in December 1973, and on 1 May 1974 successfully demonstrates the world’s first laser-induced fusion. Neutron-sensitive nuclear emulsion detectors, developed by Nobel Prize winner Robert Hofstadter, were used to provide evidence of this discovery.
+** Beams using mature high-energy accelerator technology are hailed as the elusive "brand-X" laser capable of driving fusion implosions for commercial power. The Livingston Curve, which demonstrates the improvement in power of particle accelerators, is modified to show the energy needed for fusion to occur. Experiments commence on the single beam LLNL Cyclops laser, testing new optical designs for future ICF lasers.
+*1975
+**The Princeton Large Torus (PLT), the follow-on to the Symmetrical Tokamak, begins operation. It soon surpasses the best Soviet machines and sets several temperature records that are above what is needed for a commercial reactor. PLT continues to set records until it is decommissioned.
+*1976
+**Workshop, called by the US-ERDA (now DoE) at the Claremont Hotel in Berkeley, CA for an ad-hoc two-week summer study. Fifty senior scientists from the major US ICF programs and accelerator laboratories participated, with program heads and Nobel laureates also attending. In the closing address, Dr. C. Martin Stickley, then Director of US-ERDA’s Office of Inertial Fusion, announced the conclusion was "no showstoppers" on the road to fusion energy. 
+**The two beam Argus laser is completed at LLNL and experiments involving more advanced laser-target interactions commence.
+**Based on the continued success of the PLT, the DOE selects a larger Princeton design for further development. Initially designed simply to test a commercial-sized tokamak, the DOE team gives them the explicit goal of running on a deuterium-tritium fuel as opposed to test fuels like hydrogen or deuterium. The project is given the name Tokamak Fusion Test Reactor (TFTR).
+*1977
+**The 20 beam Shiva laser at LLNL is completed, capable of delivering 10.2 kilojoules of infrared energy on target. At a price of $25 million and a size approaching that of a football field, the Shiva laser is the first of the "megalasers" at LLNL and brings the field of ICF research fully within the realm of "big science".
+**The JET project is given the go-ahead by the EC, choosing the UK's center at Culham as its site.
+thumb
+*1978
+**As PLT continues to set new records, Princeton is given additional funding to adapt TFTR with the explicit goal of reaching breakeven.
+*1979
+**LANL successfully demonstrates the radio frequency quadrupole accelerator (RFQ). 
+**ANL and Hughes Research Laboratories demonstrate required ion source brightness with xenon beam at 1.5MeV. 
+**Foster Panel reports to US-DoE's Energy Research and Advisory Board that High-energy heavy ion fusion (HIF) is the "conservative approach" to fusion power. Listing HIF's advantages in his report, John Foster remarked: "…now that is kind of exciting." After DoE Office of Inertial Fusion completed review of programs, Director Gregory Canavan decides to accelerate the HIF effort.
+==1980s==
+*1982
+**HIBALL study by German and US institutions,<ref>.Gesellschaft für Schwerionenforschung; Institut für Plasmaphysik, Garching; Kernforschungszentrum Karlsruhe, University of Wisconsin, Madison; Max-Planck-Institut für Quantenoptik</ref> Garching uses the high repetition rate of the RF accelerator driver to serve four reactor chambers and first-wall protection using liquid lithium inside the chamber cavity.
+**Tore Supra construction starts at Cadarache, France. Its superconducting magnets will permit it to generate a strong permanent toroidal magnetic field. urltoken 
+**high-confinement mode (H-mode) discovered in tokamaks.
+*1983
+**JET, the largest operational magnetic confinement plasma physics experiment is completed on time and on budget. First plasmas achieved.
+**The NOVETTE laser at LLNL comes on line and is used as a test bed for the next generation of ICF lasers, specifically the NOVA laser.
+*1984
+**The huge 10 beam NOVA laser at LLNL is completed and switches on in December. NOVA would ultimately produce a maximum of 120 kilojoules of infrared laser light during a nanosecond pulse in a 1989 experiment.
+*1985
+**National Academy of Sciences reviewed military ICF programs, noting HIF’s major advantages clearly but averring that HIF was "supported primarily by other than military programs". The review of ICF by the National Academy of Sciences marked the trend with the observation: "The energy crisis is dormant for the time being." Energy becomes the sole purpose of heavy ion fusion. 
+**The Japanese tokamak, JT-60 completed. First plasmas achieved.
+*1988
+**The T-15, Soviet tokamak with superconducting helium-cooled coils completed. 
+**The Conceptual Design Activity for the International Thermonuclear Experimental Reactor (ITER), the successor to T-15, TFTR, JET and JT-60, begins. Participants include EURATOM, Japan, the Soviet Union and United States. It ended in 1990. 
+** The first plasma produced at Tore Supra in April.<ref></ref>
+*1989
+**On March 23, two Utah electrochemists, Stanley Pons and Martin Fleischmann, announced that they had achieved cold fusion: fusion reactions which could occur at room temperatures. However, they made their announcements before any peer review of their work was performed, and no subsequent experiments by other researchers revealed any evidence of fusion.
+==1990s==
+*1990
+**Decision to construct the National Ignition Facility "beamlet" laser at LLNL is made.
+*1991
+**The START Tokamak fusion experiment begins in Culham. The experiment would eventually achieve a record beta (plasma pressure compared to magnetic field pressure) of 40% using a neutral beam injector. It was the first design that adapted the conventional toroidal fusion experiments into a tighter spherical design.
+*1992
+**The Engineering Design Activity for the ITER starts with participants EURATOM, Japan, Russia and United States. It ended in 2001. 
+**The United States and the former republics of the Soviet Union cease nuclear weapons testing.
+*1993
+**The TFTR tokamak at Princeton (PPPL) experiments with a 50% deuterium, 50% tritium mix, eventually producing as much as 10 megawatts of power from a controlled fusion reaction.
+*1994
+**NIF Beamlet laser is completed and begins experiments validating the expected performance of NIF. 
+**The USA declassifies information about indirectly driven (hohlraum) target design. 
+**Comprehensive European-based study of HIF driver begins, centered at the Gesellschaft für Schwerionenforschung (GSI) and involving 14 laboratories, including USA and Russia. The Heavy Ion Driven Inertial Fusion (HIDIF) study will be completed in 1997.
+*1996
+**A record is reached at Tore Supra: a plasma duration of two minutes with a current of almost 1 million amperes driven non-inductively by 2.3 MW of Lower hybrid oscillation (i.e. 280 MJ of injected and extracted energy). This result was possible due to the actively cooled plasma-facing components installed in the machine.<ref></ref>
+*1997
+**The JET tokamak in the UK produces 16 MW of fusion power - this remains the world record for fusion power. Four megawatts of alpha particle self-heating was achieved.
+**LLNL study compared projected costs of power from ICF and other fusion approaches to the projected future costs of existing energy sources.
+**Groundbreaking ceremony held for the National Ignition Facility (NIF). 
+*1998
+**The JT-60 tokamak in Japan produced a high performance reversed shear plasma with the equivalent fusion amplification factor <math>Q_</math> of 1.25 - the current world record of Q, fusion energy gain factor. 
+**Results of European-based study of heavy ion driven fusion power system (HIDIF, GSI-98-06) incorporates telescoping beams of multiple isotopic species. This technique multiplies the 6-D phase space usable for the design of HIF drivers.
+*1999
+**The United States withdraws from the ITER project. 
+**The START experiment is succeeded by MAST.
+==2000s==
+*2001
+**Building construction for the immense 192-beam 500-terawatt NIF project is completed and construction of laser beam-lines and target bay diagnostics commences, expecting to take its first full system shot in 2010. 
+**Negotiations on the Joint Implementation of ITER begin between Canada, countries represented by the European Union, Japan and Russia.
+*2002
+**Claims and counter-claims are published regarding bubble fusion, in which a table-top apparatus was reported as producing small-scale fusion in a liquid undergoing acoustic cavitation. Like cold fusion (see 1989), it is later dismissed.
+**European Union proposes Cadarache in France and Vandellos in Spain as candidate sites for ITER while Japan proposes Rokkasho.
+*2003
+**The United States rejoins the ITER project with China and Republic of Korea also joining. Canada withdraws.
+**Cadarache in France is selected as the European Candidate Site for ITER.
+**Sandia National Laboratories begins fusion experiments in the Z machine.
+*2004
+**The United States drops its own projects, recognising an inability to match EU progress (Fusion Ignition Research Experiment (FIRE)), and focuses resources on ITER.
+*2005
+**Following final negotiations between the EU and Japan, ITER chooses Cadarache over Rokkasho for the site of the reactor. In concession, Japan is able to host the related materials research facility and granted rights to fill 20% of the project's research posts while providing 10% of the funding. 
+**The NIF fires its first bundle of eight beams achieving the highest ever energy laser pulse of 152.8 kJ (infrared).
+*2006
+**China's EAST test reactor is completed, the first tokamak experiment to use superconducting magnets to generate both the toroidal and poloidal fields.
+*2009
+**Construction of the NIF reported as complete. 
+**Ricardo Betti, the third Under Secretary, responsible for Nuclear Energy, testifies before Congress: "IFE ICF for energy production has no home".
+**Fusion Power Corporation files patent application for "Single Pass RF Driver", an RF Accelerator Driven HIF Process and Method.
+==2010s==
+*2010
+**HIF-2010 Symposium in Darmstadt Germany. Robert J Burke presented on Single Pass (Heavy Ion Fusion) HIF and Charles Helsley made a presentation on the commercialization of HIF within the decade.
+*2011
+**May 23–26, Workshop for Accelerators for Heavy Ion Fusion at Lawrence Berkeley National Laboratory, presentation by Robert J. Burke on "Single Pass Heavy Ion Fusion". The Accelerator Working Group publishes recommendations supporting moving RF accelerator driven HIF toward commercialization.
+*2012
+**Stephen Slutz & Roger Vesey of Sandia National Labs publish a paper in Physical Review Letters presenting a computer simulation of the MagLIF concept showing it can produce high gain. According to the simulation, a 70 Mega Amp Z-pinch facility in combination with a Laser may be able to produce a spectacular energy return of 1000 times the expended energy. A 60 MA facility would produce a 100x yield.<ref></ref>
+**JET announces a major breakthrough in controlling instabilities in a fusion plasma. urltoken 
+**In August Robert J. Burke presents updates to the SPRFD HIF process<ref></ref> and Charles Helsley presents the Economics of SPRFD<ref></ref> at the 19th International HIF Symposium at Berkeley, California. Industry was there in support of ion generation for SPRFD. The Fusion Power Corporation SPRFD patent is granted in Russia.
+*2013
+**China's EAST tokamak test reactor achieves a record confinement time of 30 seconds for plasma in the high-confinement mode (H-mode), thanks to improvements in heat dispersal from tokamak walls. This is an improvement of an order of magnitude with respect to state-of-the-art reactors.<ref></ref>
+*2014
+**US Scientists at NIF successfully generate more energy from fusion reactions than the energy absorbed by the nuclear fuel.<ref></ref>
+**Phoenix Nuclear Labs announces the sale of a high-yield neutron generator that could sustain 5×10<sup>11</sup> deuterium fusion reactions per second over a 24-hour period.<ref></ref>
+*2015
+**Germany conducts the first plasma discharge in Wendelstein 7-X, a large-scale stellarator capable of steady-state plasma confinement under fusion conditions.<ref></ref>
+**In January the polywell is presented at Microsoft Research.<ref></ref>
+**In August, MIT announces the ARC fusion reactor, a compact tokamak using rare-earth barium-copper oxide (REBCO) superconducting tapes to produce high-magnetic field coils that it claims produce comparable magnetic field strength in a smaller configuration than other designs.<ref></ref>
+*2016
+**The Wendelstein 7-X produces the device's first hydrogen plasma.<ref></ref>
+*2017
+**China's EAST tokamak test reactor achieves a stable 101.2-second steady-state high confinement plasma, setting a world record in long-pulse H-mode operation on the night of July 3.<ref></ref>
+**Helion Energy's fifth-generation plasma machine goes into operation, seeking to achieve plasma density of 20 Tesla and fusion temperatures.<ref name=":22"></ref>
+**UK company Tokamak Energy's ST40 fusion reactor generates first plasma.<ref></ref>
+**TAE Technologies announces that the Norman reactor had achieved plasma.<ref></ref>
+*2018
+**Energy corporation Eni announces a $50 million investment in start-up Commonwealth Fusion Systems, to commercialize ARC technology via the SPARC test reactor in collaboration with MIT.<ref></ref><ref></ref><ref></ref>
+**MIT scientists formulate a theoretical means to remove the excess heat from compact nuclear fusion reactors via larger and longer divertors.<ref></ref>
+**General Fusion begins developing a 70% scale demo system to be completed around 2023.<ref name=":22"/> 
+**TAE Technologies announces its reactor has reached a high temperature of nearly 20 million°C.<ref></ref>
+* 2019
+** The United Kingdom announces a planned £200-million (US$248-million) investment to produce a design for the Spherical Tokamak for Energy Production (STEP) fusion facility around 2040.<ref></ref><ref></ref>
+== 2020s ==
+* 2020
+** Assembly of ITER, which has been under construction for years, commences.<ref></ref>
+** Energy giant Chevron Corporation announces an investment in fusion energy start-up Zap Energy.<ref></ref>
+** The Chinese experimental nuclear fusion reactor HL-2M is turned on for the first time, achieving its first plasma discharge.<ref></ref>
+==References==
+===Citations===
+===Bibliography===
+* 
+==External links==
+* urltoken Fusion experiments from the British Science Museum
+*International Fusion Research Council, urltoken Status report on fusion research, Nuclear Fusion 45:10A, October 2005.
+
+This timeline of nuclear fusion is an incomplete chronological summary of significant events in the study and use of nuclear fusion.

@@ -1,0 +1,136 @@
+Medical ethics
+
+===Ethics committees===
+Often, simple communication is not enough to resolve a conflict, and a hospital ethics committee must convene to decide a complex matter.
+These bodies are composed primarily of healthcare professionals, but may also include philosophers, lay people, and clergy – indeed, in many parts of the world their presence is considered mandatory in order to provide balance.
+With respect to the expected composition of such bodies in the US, Europe and Australia, the following applies.<ref> urltoken 
+<blockquote>
+U.S. recommendations suggest that Research and Ethical Boards (REBs) should have five or more members, including at least one scientist, one non-scientist, and one person not affiliated with the institution.<ref></ref> The REB should include people knowledgeable in the law and standards of practice and professional conduct.<ref></ref> Special memberships are advocated for handicapped or disabled concerns, if required by the protocol under review.
+The European Forum for Good Clinical Practice (EFGCP) suggests that REBs include two practicing physicians who share experience in biomedical research and are independent from the institution where the research is conducted; one lay person; one lawyer; and one paramedical professional, e.g. nurse or pharmacist. They recommend that a quorum include both sexes from a wide age range and reflect the cultural make-up of the local community.
+The 1996 Australian Health Ethics Committee recommendations were entitled, "Membership Generally of Institutional Ethics Committees". They suggest a chairperson be preferably someone not employed or otherwise connected with the institution. Members should include a person with knowledge and experience in professional care, counseling or treatment of humans; a minister of religion or equivalent, e.g. Aboriginal elder; a layman; a laywoman; a lawyer and, in the case of a hospital-based ethics committee, a nurse.
+</blockquote>
+The assignment of philosophers or religious clerics will reflect the importance attached by the society to the basic values involved. An example from Sweden with Torbjörn Tännsjö on a couple of such committees indicates secular trends gaining influence.
+==Cultural concerns==
+Cultural differences can create difficult medical ethics problems. Some cultures have spiritual or magical theories about the origins and cause of disease, for example, and reconciling these beliefs with the tenets of Medicine can be very difficult. As different cultures continue to intermingle and more cultures live alongside each other, the healthcare system, which tends to deal with important life events such as birth, death and suffering, increasingly experiences difficult dilemmas that can sometimes lead to cultural clashes and conflict. Efforts to respond in a culturally sensitive manner go hand in hand with a need to distinguish limits to cultural tolerance.<ref name=":5"></ref>
+=== Culture and Language ===
+As more people from different cultural and religious backgrounds move to other countries, among these, the United States, it is becoming increasingly important to be culturally sensitive to all communities in order to provide the best health care for all people.<ref name=":13"></ref> Lack of cultural knowledge can lead to misunderstandings and even inadequate care, which can lead to ethical problems. A common complaint patients have is feeling like they are not being heard, or perhaps, understood.<ref name=":13" /> Preventing escalating conflict can be accomplished by seeking interpreters, noticing body language and tone of both yourself and the patient as well as attempting to understand the patient's perspective in order to reach an acceptable option.<ref name=":13" />
+Some believe most medical practitioners in the future will have to be or greatly benefit from being bilingual. In addition to knowing the language, truly understanding culture is best for optimal care.<ref></ref> Recently, a practice called 'narrative medicine' has gained some interest as it has a potential for improving patient-physician communication and understanding of patient's perspective. Interpreting a patient's stories or day-to-day activities as opposed to standardizing and collecting patient data may help in acquiring a better sense of what each patient needs, individually, with respect to their illness. Without this background information, many physicians are unable to properly understand the cultural differences that may set two different patients apart, and thus, may diagnose or recommend treatments that are culturally insensitive or inappropriate. In short, patient narrative has the potential for uncovering patient information and preferences that may otherwise be overlooked.
+=== Medical humanitarianism ===
+In order to address the underserved, uneducated communities in need of nutrition, housing, and healthcare disparities seen in much of the world today, some argue that we must fall back on ethical values in order to create a foundation to move towards a reasonable understanding, which encourages commitment and motivation to improve factors causing premature death as a goal in a global community.<ref name=":9"></ref> Such factors -such as poverty, environment and education- are said to be out of national or individual control and so this commitment is by default a social and communal responsibility placed on global communities that are able to aid others in need.<ref name=":9" /> This is based on the framework of 'provincial globalism,' which seeks a world in which all people have the capability to be healthy.<ref name=":9" />
+One concern regarding the intersection of medical ethics and humanitarian medical aid is how medical assistance can be as harmful as it is helpful to the community being served. One such example being how political forces may control how foreign humanitarian aid can be utilized in the region it is meant to be provided in. This would be congruous in situations where political strife could lead such aid being used in favor of one group over another. Another example of how foreign humanitarian aid can be misused in its intended community includes the possibility of dissonance forming between a foreign humanitarian aid group and the community being served.<ref></ref> Examples of this could include the relationships being viewed between aid workers, style of dress, or the lack of education regarding local culture and customs.<ref></ref>
+Humanitarian practices in areas lacking optimum care can also pause other interesting and difficult ethical dilemmas in terms of beneficence and non-maleficence. Humanitarian practices are based upon providing better medical equipment and care for communities whose country does not provide adequate healthcare.<ref name=":6"></ref> The issues with providing healthcare to communities in need may sometimes be religious or cultural backgrounds keeping people from performing certain procedures or taking certain drugs. On the other hand, wanting certain procedures done in a specific manner due to religious or cultural belief systems may also occur. The ethical dilemma stems from differences in culture between communities helping those with medical disparities and the societies receiving aid. Women's rights, informed consent and education about health become controversial, as some treatments needed are against societal law, while some cultural traditions involve procedures against humanitarian efforts.<ref name=":6" /> Examples of this are female genital mutilation (FGM), aiding in reinfibulation, providing sterile equipment in order to perform procedures such as FGM, as well as informing patients of their HIV positive testing. The latter is controversial because certain communities have in the past outcast or killed HIV positive individuals.<ref name=":6" />
+=== Healthcare reform and Lifestyle ===
+Leading causes of death in the United States and around the world are highly related to behavioral consequences over genetic or environmental factors.<ref name=":14"></ref> This leads some to believe true healthcare reform begins with cultural reform, habit and overall lifestyle.<ref name=":14" /> Lifestyle, then, becomes the cause of many illnesses and the illnesses themselves are the result or side-effect of a larger problem.<ref name=":14" /> Some people believe this to be true and think that cultural change is needed in order for developing societies to cope and dodge the negative effects of drugs, food and conventional modes of transportation available to them.<ref name=":14" /> In 1990, tobacco use, diet, and exercise alone accounted for close to 80 percent of all premature deaths and continue to lead in this way through the 21st century.<ref name=":14" /> Heart disease, stroke, dementia, and diabetes are some of the diseases that may be affected by habit-forming patterns throughout our life.<ref name=":14" /> Some believe that medical lifestyle counseling and building healthy habits around our daily lives is one way to tackle health care reform.<ref name=":14" />
+=== Other Cultures and Healthcare ===
+==== Buddhist medicine ====
+Buddhist ethics and medicine are based on religious teachings of compassion and understanding<ref></ref> of suffering and cause and effect and the idea that there is no beginning or end to life, but that instead there are only rebirths in an endless cycle.<ref name=":5" /> In this way, death is merely a phase in an indefinitely lengthy process of life, not an end. However, Buddhist teachings support living one's life to the fullest so that through all the suffering which encompasses a large part of what is life, there are no regrets. Buddhism accepts suffering as an inescapable experience, but values happiness and thus values life.<ref name=":5" /> Because of this suicide, and euthanasia, are prohibited. However, attempts to rid oneself of any physical or mental pain and suffering are seen as good acts. On the other hand, sedatives and drugs are thought to impair consciousness and awareness in the dying process, which is believed to be of great importance, as it is thought that one's dying consciousness remains and affects new life. Because of this, analgesics must not be part of the dying process, in order for the dying person to be present entirely and pass on their consciousness wholesomely. This can pose significant conflicts during end of life care in Western medical practice.<ref name=":5" />
+==== Chinese Medicine ====
+In traditional Chinese philosophy, human life is believed to be connected to nature, which is thought of as the foundation and encompassing force sustaining all of life's phases.<ref name=":5" /> Passing and coming of the seasons, life, birth and death are perceived as a cyclic and perpetual occurrences that are believed to be regulated by the principles of Yin and yang.<ref name=":5" /> When one dies, the life-giving material force referred to as ch'i, encompassing both body and spirit, rejoins the material force of the universe and cycles on with respect to the rhythms set forth by yin and yang.<ref name=":5" />
+Because many Chinese people believe that circulation of both physical and 'psychic energy' is important to stay healthy, procedures which require surgery, as well as donations and transplantations of organs, are seen as a loss of ch'i , resulting in the loss of someone's vital energy supporting their consciousness and purpose in their lives. Furthermore, a person is never seen as a single unit but rather as a source of relationship, interconnected in a social web.<ref name=":5" /> Thus, it is believed that what makes a human one of us is relatedness and communication and family is seen as the basic unit of a community.<ref name=":5" /><ref name=":12"></ref> This can greatly affect the way medical decisions are made among family members, as diagnoses are not always expected to be announced to the dying or sick, the elderly are expected to be cared for and represented by their children and physicians are expected to act in a paternalistic way.<ref name=":5" /><ref name=":12" /> In short, informed consent as well as patient privacy can be difficult to enforce when dealing with Confucian families.<ref name=":5" />
+Furthermore, some Chinese people may be inclined to continue futile treatment in order to extend life and allow for fulfillment of the practice of benevolence and humanity.<ref name=":5" /> In contrast, patients with strong Taoism beliefs may see death as an obstacle and dying as a reunion with nature that should be accepted, and are therefore less likely to ask for treatment of an irreversible condition.<ref name=":5" />
+==== Islamic culture and medicine ====
+Some believe Islamic medical ethics and framework remain poorly understood by many working in healthcare. It is important to recognize that for people of Islamic faith, Islam envelops and affects all aspects of life, not just medicine.<ref name=":11"></ref> Because many believe it is faith and a supreme deity that hold the cure to illness, it is common that the physician is viewed merely as help or intermediary player during the process of healing or medical care.<ref name=":11" />
+In addition to Chinese culture's emphasis on family as the basic unit of a community intertwined and forming a greater social construct, Islamic traditional medicine also places importance on the values of family and the well-being of a community.<ref name=":12" /><ref name=":11" /> Many Islamic communities uphold paternalism as an acceptable part of medical care.<ref name=":11" /> However, autonomy and self-rule is also valued and protected and, in Islamic medicine, it is particularly upheld in terms of providing and expecting privacy in the healthcare setting. An example of this is requesting same gender providers in order to retain modesty.<ref name=":11" /> Overall, Beauchamp's principles of beneficence, non-maleficence and justice<ref name=":15" /> are promoted and upheld in the medical sphere with as much importance as in Western culture.<ref name=":11" /> In contrast, autonomy is important but more nuanced. Furthermore, Islam also brings forth the principles of jurisprudence, Islamic law and legal maxims, which also allow for Islam to adapt to an ever-changing medical ethics framework.<ref name=":11" />
+==Conflicts of interest==
+Physicians should not allow a conflict of interest to influence medical judgment. In some cases, conflicts are hard to avoid, and doctors have a responsibility to avoid entering such situations. Research has shown that conflicts of interests are very common among both academic physicians<ref name="pmid12533125"></ref> and physicians in practice.<ref name="pmid17374816"></ref>
+===Referral===
+Doctors who receive income from referring patients for medical tests have been shown to refer more patients for medical tests.<ref name="pmid1406882"></ref> This practice is proscribed by the American College of Physicians Ethics Manual.<ref name="pmid9518406 |"></ref> Fee splitting and the payments of commissions to attract referrals of patients is considered unethical and unacceptable in most parts of the world.
+===Vendor relationships===
+Studies show that doctors can be influenced by drug company inducements, including gifts and food.<ref name=":17"></ref> Industry-sponsored Continuing Medical Education (CME) programs influence prescribing patterns.<ref></ref> Many patients surveyed in one study agreed that physician gifts from drug companies influence prescribing practices.<ref></ref> A growing movement among physicians is attempting to diminish the influence of pharmaceutical industry marketing upon medical practice, as evidenced by Stanford University's ban on drug company-sponsored lunches and gifts. Other academic institutions that have banned pharmaceutical industry-sponsored gifts and food include the Johns Hopkins Medical Institutions, University of Michigan, University of Pennsylvania, and Yale University.<ref> urltoken LA Times, "Drug money withdrawals: Medical schools review rules on pharmaceutical freebies" , posted 2/12/07, accessed 3/6/07</ref><ref> urltoken JH Medicine Policy on Interaction with Industry effective date July 1, 2009, accessed July 20, 2011</ref>
+===Treatment of family members===
+The American Medical Association (AMA) states that "Physicians generally should not treat themselves or members of their immediate family".<ref>American Medical Association Journal of Ethics May 2012, Volume 14, Number 5: 396–397</ref> This code seeks to protect patients and physicians because professional objectivity can be compromised when the physician is treating a loved one. Studies from multiple health organizations have illustrated that physician-family member relationships may cause an increase in diagnostic testing and costs.<ref name="ReferenceA"></ref> Many doctors still treat their family members. Doctors who do so must be vigilant not to create conflicts of interest or treat inappropriately.<ref name="pmid1922224"></ref><ref name="pmid1545466"></ref> Physicians that treat family members need to be conscious of conflicting expectations and dilemmas when treating relatives, as established medical ethical principles may not be morally imperative when family members are confronted with serious illness.<ref name="ReferenceA"/><ref>Weintraub, B. Health Information and Libraries. "Medline search requests by physicians relating to their own health or to the health of members of their family." Vol 2 (1991), no.2. p88-91. urltoken </ref>
+===Sexual relationships===
+Sexual relationships between doctors and patients can create ethical conflicts, since sexual consent may conflict with the fiduciary responsibility of the physician.<ref></ref> Out of the many disciplines in current medicine, there are studies that have been conducted in order to ascertain the occurrence of Doctor-Patient sexual misconduct. Results from those studies appear to indicate that certain disciplines are more likely to be offenders than others. Psychiatrists and Obstetrician-Gynecologists for example, are two disciplines noted for having a higher rate of sexual misconduct.<ref></ref> The violation of ethical conduct between doctors and patients also has an association with the age and sex of doctor and patient. Male physicians aged 40–49 and 50–59 years are two groups that have been found to be more likely to have been reported for sexual misconduct, while women aged 20–39 have been found to make up a significant portion of reported victims of sexual misconduct.<ref></ref> Doctors who enter into sexual relationships with patients face the threats of losing their medical license and prosecution. In the early 1990s, it was estimated that 2–9% of doctors had violated this rule.<ref name="pmid1441462"></ref> Sexual relationships between physicians and patients' relatives may also be prohibited in some jurisdictions, although this prohibition is highly controversial.<ref>JM Appel. May Physicians Date Their Patients’ Relatives? Rethinking Sexual Misconduct & Disclosure After Long v. Ostroff, Medicine & Health, Rhode Island, May 2004</ref>
+==Futility==
+In some hospitals, medical futility is referred to as treatment unable to benefit the patient.<ref name=":7"></ref> An important part of practicing good medical ethics is by attempting to avoid futility by practicing non-maleficence.<ref name=":7" /> What should be done if there is no chance that a patient will survive or benefit from a potential treatment but the family members insist on advanced care?<ref name=":7" /> Previously, some articles defined futility as the patient having less than a one percent chance of surviving. Some of these cases are examined in court.
+Advance directives include living wills and durable power of attorney for health care. (See also Do Not Resuscitate and cardiopulmonary resuscitation) In many cases, the "expressed wishes" of the patient are documented in these directives, and this provides a framework to guide family members and health care professionals in the decision-making process when the patient is incapacitated. Undocumented expressed wishes can also help guide decisions in the absence of advance directives, as in the Quinlan case in Missouri.
+"Substituted judgment" is the concept that a family member can give consent for treatment if the patient is unable (or unwilling) to give consent themselves. The key question for the decision-making surrogate is not, "What would you like to do?", but instead, "What do you think the patient would want in this situation?".
+Courts have supported family's arbitrary definitions of futility to include simple biological survival, as in the Baby K case (in which the courts ordered a child born with only a brain stem instead of a complete brain to be kept on a ventilator based on the religious belief that all life must be preserved).
+Baby Doe Law establishes state protection for a disabled child's right to life, ensuring that this right is protected even over the wishes of parents or guardians in cases where they want to withhold treatment.
+==See also==
+* Applied ethics
+* Bioethics
+* The Citadel
+* Clinical Ethics
+* Clinical governance
+* Do not resuscitate
+* Empathy
+* Ethical code
+* Ethics of circumcision
+* Euthanasia
+* Evidence-based medical ethics
+* Fee splitting
+* Hastings Center
+* Health ethics
+* Healthcare in India
+* Hippocratic Oath
+* Human radiation experiments
+* Islamic bioethics
+* Jewish medical ethics
+* Joint Commission International, JCI
+* MacLean Center for Clinical Medical Ethics
+* Medical Code of Ethics
+* Medical Law International
+* Medical law
+* Medical torture
+** Pharmacological torture
+* Military medical ethics
+* Nursing ethics
+* Patient abuse
+* Philosophy of Healthcare
+* Political abuse of psychiatry
+* Project MKULTRA
+* Research ethics consultation
+* Resources for clinical ethics consultation
+* Right to health
+* Seven Sins of Medicine
+* U.S. patients' bill of rights
+* UN Principles of Medical Ethics
+* Unethical human experimentation
+* World Medical Association
+===Reproductive medicine===
+* Abortion / Abortion debate
+* Eugenics
+* Gene splicing
+* Human cloning
+* Human genetic engineering
+* Human trafficking
+===Medical research===
+* Animal testing
+* Children in clinical research
+* CIOMS Guidelines
+* Clinical equipoise
+* Clinical research ethics
+* Declaration of Geneva
+* Declaration of Helsinki
+* Declaration of Tokyo
+* Ethical problems using children in clinical trials
+* First-in-man study
+* Good clinical practice
+* Health Insurance Portability and Accountability Act
+* Institutional Review Board
+* Nuremberg Code
+* Research ethics consultation
+* Universal Declaration of Human Rights
+==Sources and references==
+*Beauchamp, Tom L., and Childress, James F. 2001. Principles of Biomedical Ethics. New York: Oxford University Press.
+*
+*Baruch Brody A. 1988. Life and Death Decision Making. New York: Oxford University Press.
+*Curran, Charles E. "The Catholic Moral Tradition in Bioethics" in Walter and Klein (below).
+*
+*
+*
+* See especially chapter 1, "Historical background to the discipline."
+*
+*
+*
+*
+*
+* «Législation, éthique et déontologie», Bruxelles: Editions de Boeck Université, 2011, Karine BREHAUX, 
+==External links==
+*
+* urltoken Global health ethics at World Health Organization
+* urltoken Health Care Ethics article in the Internet Encyclopedia of Philosophy
+
+</ref>
+In the United Kingdom, General Medical Council provides clear overall modern guidance in the form of its 'Good Medical Practice' statement.<ref></ref> Other organizations, such as the Medical Protection Society and a number of university departments, are often consulted by British doctors regarding issues relating to ethics.

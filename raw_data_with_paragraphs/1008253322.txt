@@ -1,0 +1,71 @@
+Wikipedia:Article size
+
+==Readability issues==
+Each Wikipedia article is in a process of evolution and is likely to continue growing. Other editors will add to articles when you are done with them. Wikipedia has practically unlimited storage space; however, long articles may be more difficult to read, navigate, and comprehend. 
+An article longer than one or two pages when printed should be divided into sections to ease navigation (see Wikipedia:Manual of Style and Wikipedia:Layout for guidance). For most long articles, division into sections is natural anyway. Readers of the mobile version of Wikipedia can be helped by ensuring that sections are not so long or so numerous as to impede navigation. 
+A page of about 10,000 words takes between 30 and 40 minutes to read at average speed, which is close to the attention span of most readers.<ref></ref> Understanding of standard texts at average reading speed is around 65%. At 10,000 words (50&nbsp;kB and above) it may be beneficial to move some sections to other articles and replace them with summaries per Wikipedia:Summary style – see #A rule of thumb below. 
+Articles that cover particularly technical subjects should, in general, be shorter than articles on less technical subjects. While expert readers of such articles may accept complexity and length provided the article is well written, the general reader requires clarity and conciseness. There are times when a long or very long article is unavoidable, though its complexity should be minimized. Readability is a key criterion.
+=== Readable prose ===
+Readable prose is the main body of the text, excluding material such as footnotes and reference sections ("see also", "external links", bibliography, etc.), diagrams and images, tables and lists, Wikilinks and external URLs, and formatting and mark-up.
+ urltoken XTools shows prose information, including number of characters (under "Prose" in the "General statistics" section). It may be used for an article currently being looked at by selecting the View History tab for the page, then Page Statistics from the line near the top headed External Tools. The prosesize gadget is also helpful for estimating readable prose size.
+===Lists, tables and summaries===
+Lists, tables, and other material that is already in summary form may not be appropriate for reducing or summarizing further by the summary style method. If there is no "natural" way to split or reduce a long list or table, it may be best to leave it intact, and a decision made to either keep it embedded in the main article or split it off into a stand-alone page. Regardless, a list or table should be kept as short as is feasible for its purpose and scope. Too much statistical data is against policy.
+==Technical issues==
+Total article size should be kept reasonably low, particularly for readers using slow internet connections or mobile devices or who have slow computer loading. The text on a 32&nbsp;kB page takes about five seconds to load for editing on a dial-up connection, with accompanying images taking additional time, so pages significantly larger than this are difficult for older browsers to display. Some large articles exist for topics that require depth and detail, but typically articles of such size are split into two or more smaller articles.
+Mobile browsers can be a problem if these devices have little memory and/or a slow CPU; long pages can take too much time to process, if they can be fully loaded at all. When using slow connections, e.g., a desktop computer with an analog modem dial-up or the wireless connection of some mobile devices, long articles can take too much time to load. For notes on unrelated problems that various web browsers have with MediaWiki sites, and for a list of alternative browsers you can download, see Wikipedia:Browser notes.
+The maximum limit for Wikipedia is set by the MediaWiki software default article size limit, 2048 kibibytes (specifically, 2,097,152 bytes).
+Exceeding the Wikipedia:PEIS will result in templates in the article appearing incorrectly.
+==Splitting an article==
+Very large articles should be split into logically separate articles. Long stand-alone list articles are split into subsequent pages alphabetically, numerically, or subtopically. Also consider splitting and transcluding the split parts (for example with Template:Excerpt).
+When you split a section from a long article into an independent article, you should leave a short summary of the material that is removed along with a pointer to the independent article. In the independent article, put the or tag on the talk page to create a banner that refers back to the main article.
+To conform with WP:C, which permit modification and reuse but require attribution of the content contributors, the new page should be created with an edit summary attesting proper copy attribution, such as "split content from <nowiki>article name</nowiki>". (Do not omit this step or omit the page name.) A note should also be made in the edit summary of the source article, "split content to <nowiki>article name</nowiki>", to protect against the article subsequently being deleted and the history of the new page eradicated. The template can also be placed on the talk page of both articles.
+===No need for haste===
+As browsers have improved, there is no need for haste in splitting an article when it starts getting large. Sometimes an article simply needs to be big to give the subject adequate coverage. If uncertain, or with high profile articles, start a discussion on the talkpage regarding the overall topic structure. Determine whether the topic should be treated as several shorter articles and, if so, how best to organize them. If the discussion makes no progress consider adding one of the WP:SPLIT in order to get feedback from other editors.
+===Breaking out trivial or controversial sections===
+A relatively trivial topic may be appropriate in the context of the larger article, but inappropriate as the topic of an entire article in itself. In most cases, it is a violation of the neutral point of view to specifically break out a controversial section without leaving an adequate summary. It also violates the neutral point of view policy to create a new article specifically to contain information that consensus has rejected from the main article. Consider other organizational principles for splitting the article, and be sure that both the title and content of the broken-out article reflect a neutral point of view.
+===Breaking out an unwanted section===
+If a section of an article is a magnet for unhelpful contributions (such as the "external links" section or trivia sections), be aware that while moving it to another article may help to clean up the main article, it creates a new article that consists entirely of a section for unwanted contributions. If an article includes large amounts of material not suitable for inclusion in the encyclopedia, it is better to remove that content than to create a new article for it.
+===Size guideline===
+Some useful rules of thumb for splitting articles, and combining small pages:
+;Please note<nowiki>:</nowiki>
+These rules of thumb apply only to readable prose and not to wiki markup size (as found on history lists or other means), and each kB can be equated to 1,000 characters. Number of characters in an article can be found with the help of urltoken XTools (also accessible via Page History from Page Statistics link at the top) under "Prose" in the "General statistics" section; Shubinator's DYK tool; or Prosesize.
+The rules of thumb apply somewhat less to disambiguation pages and naturally do not apply to redirects. They also apply less strongly to list articles, especially if splitting them would require breaking up a sortable table.
+===Content removal===
+Content, especially summary, well sourced and non-tangential information, should not be removed from articles simply to reduce length; see Wikipedia:Content removal#Reasons for acceptable reasons.
+==Markup size==
+Markup or markup language is the code used to organise a document and make it readable. Wiki markup is the codes used on Wikipedia. Markup size includes readable prose, the wiki codes, and any media used in the article, such as images or audio clips. Markup size will always be greater than or equal to the readable prose size on which the above size guideline is based. 
+You can find the size of the markup of a page in bytes from its page history (near the bottom). Also the search box entry: <code>intitle:Article title</code> will show both number of words in the article and the size of the article in kilobytes. In most cases these are not reliable indications on their own of whether an article should be split. 
+The largest articles by markup size are listed at Special:Longpages.
+Note that the ability to Wikipedia:Section decreases wait time, removing some of the many, oversized-page problems for editors; however, readers with slow modems will still have to wait for the entire page to load.
+You can set your preferences (by changing the "Threshold for stub link formatting" under the "Appearance" menu) to make links to pages smaller than a certain size appear in a different colour.
+"Size" in this context means the size of the source text seen in the edit box.
+==If you have problems editing a long article==
+If you have encountered an article that is so long you can't edit it, or if your browser chops off the end of the article when you try to edit it, there are a few ways you can solve the problem.
+The best improvement is to simply upgrade to a more modern web browser, if possible. There are also many other benefits to upgrading to their latest version, such as better security, better displaying of content written to more modern HTML, and bug fixes. Many articles on Wikipedia may be longer than 32&nbsp;kB on a permanent basis, so older browsers will continue to have occasional problems with long articles.
+Often you can edit the article one section at a time by using the "Edit" links you see next to each header in the article. This should work as long as none of the sections are longer than 32&nbsp;kB, which they really shouldn't be. You can edit text before the first section by editing the first section, then changing the <code>&section=1</code> part of the URL to <code>&section=0</code>. (See T2156 and two JavaScript workarounds: 1, 2.) You can insert a new section either by using the "" link (if there is one) in the "Views" section, or by editing an existing section and explicitly adding a second header line within it. See also Section editing and Editing before the first section.
+If you find a section too long to edit correctly and safely, or have a problem otherwise relevant, you can post a request for assistance on the help desk. Follow the "New section" link, which will allow you to post a new comment without editing any existing text.
+==See also==
+* Special:LongPages
+* Wikipedia:Abundance and redundancy
+* Wikipedia:Article series
+* Wikipedia:Content removal
+* Wikipedia:Database reports/Long pages
+* Wikipedia:Database reports/Long stubs
+* Wikipedia:Database reports/Talk pages by size
+* Wikipedia:Featured articles/By length
+* Wikipedia:Out of scope
+* Wikipedia:Template limits
+* Wikipedia:Too much detail
+* Wikipedia:Writing better articles#Stay on topic
+==References==
+
+This page contains an overview of the key issues concerning article size. There are three related measures of an article's size:
+* Readable prose size: the amount of viewable text in the main sections of the article, not including tables, lists, or footer sections
+* Wiki markup size: the amount of text in the full page edit window, as shown in the character count of the edit history page
+* Browser page size: the total size of the page as loaded by a web browser
+Usability considerations concerning the size of an article have been determined to include:
+*Reader issues, such as attention span, readability, organization, information saturation, etc.
+*Editor issues, such as talkpage tension, arguments over trivial contributions, debates on how to split up a large article, etc.
+*Contribution issues, such as articles ceasing to grow significantly once they reach a certain size, even though there is still information on the topic that could be contributed
+*Other technical issues, such as limitations of mobile browsers.
+When an article is too large, consider Wikipedia:Split, spinning part of it out into a new article, or Wikipedia:Merging into another existing article. When an article is too small, it may be merged with one or more other existing articles. Such editorial decisions require consensus. Guidelines on the size of articles, and detailed solutions, are provided below. The licensing policy mandates that whenever any content is copied from one article to another new or existing article, an edit summary containing the required copy attribution must be used.

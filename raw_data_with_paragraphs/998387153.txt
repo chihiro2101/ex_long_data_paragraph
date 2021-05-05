@@ -1,0 +1,150 @@
+Wikipedia:Tambayan Philippines/Task force LGU
+
+== Similar task forces/WikiProjects ==
+This task force is inspired by similar ones done for other countries. Examples are:
+*WikiProject China provinces workgroup
+*WikiProject Japan prefectures task force
+*WikiProject U.S. States
+==Participants==
+*Seav
+*TheCoffee
+*Chinfo
+*Justox Dizaola Count me in
+*n1person
+*Absar
+*Exec8
+*marletbadeo Philippine geography enthusiast
+*Joseph Solis
+*Kevin Ray politically-minded student
+*Corsarius
+*Howard the Duck
+*Kathzzzz
+*Pontororoy
+*Scorpion Prinz
+*Dmaestoso
+*SebastianAmor 
+*Ianlopez1115
+*Stevenphil
+*Filipinayzd
+*The Wandering Traveler
+*Isagani
+*Bonvallite
+*Arius1998
+===Governors===
+There should be a table for provincial governors similar to what has been for Brazil for example. In addition the table if possible should also be found under the article for each governor there is a page for. See Brazilian governors Ana Julia Carepa or Jose Serra for examples.
+== Naming conventions ==
+=== Origins ===
+for discussion We should discuss first the origins of the word and the concept of an LGU. The term was brought about by a 1991 law, the local government code, authored by Senator Aquilino Pimentel, which tries to this day to devolve the functions of central government agencies to--and now comes the term--local government units. 
+=== Regions ===
+All region articles should be titled with the region's long name (as given by the Philippine Standard Geographic Code (PSGC) of the National Statistical Coordination Board (NSCB)) instead of the common Region X, with the exception of the National Capital Region and Bangsamoro Autonomous Region in Muslim Mindanao which are titled Metro Manila and Bangsamoro, respectively.
+=== Provinces ===
+These should be titled with their base name such as Rizal and Batangas. Exceptions:
+# Abra (province) since Abra has other meanings
+# Antique (province) since antique is a common term.
+# Aurora (province) since Aurora is a common term.
+# Cotabato (province). Cotabato by itself most often refers to Cotabato City instead of the province previously named North Cotabato.
+# Isabela (province). There are other places with the same name.
+# Laguna (province) since Laguna has many other meanings.
+# Leyte (province). Leyte by itself most oftern refers to Leyte (island) instead of the province
+# Samar (province). Samar by itself most often refers to Samar (island) instead of the province previously named Western Samar.
+=== Cities ===
+for discussion Should all cities have their names appended with a 'City'? Which is better: Laoag, Laoag City, or City of Laoag? (Some cities seemed to be officially named "City of .". What about unusual city names like Science City of Mu&ntilde;oz and Island Garden City of Samal.
+:In my Personal opinion, the official name of the city must be followed although some cities may be names ____________city, or City of ____________. The official will be what is on the city logo. Justox dizaola 10:05, 6 May 2006 (UTC)
+::WP is not required to follow official names. Compare City of the Village of Clarkston and City of New York. see also WP:NC:CITY Tobias Conradi (Talk) 14:54, 19 August 2006 (UTC)
+:::_____ City is fine. --<b><font color="orange">User:Howard the Duck <font color="#FFA500">the</font> User talk:Howard the Duck</font></b> 12:36, 21 November 2006 (UTC)
+=== Municipalities ===
+for discussion All municipality articles would be titled with their name followed by their province. E.g. Alaminos, Laguna. Some exceptions might probably be municipalities that are very notable apart from their province (like Puerto Galera in Oriental Mindoro).
+: True but it may be better without exceptions para official name will be used. Justox dizaola 10:08, 6 May 2006 (UTC)
+=== Barangays ===
+*X, Y, Z like in San Guillermo, Morong, Rizal
+**this may be the shortest method and integrates well with municipality naming.
+***IMHO, barangays aren't that notable. Do you expect a student from Kirkland, Washington researching about a single barangay? --<b><font color="orange">User:Howard the Duck <font color="#FFA500">the</font> User talk:Howard the Duck</font></b> 08:27, 22 November 2006 (UTC)
+****IMHO, some barangays are notable enough to be included in Wikipedia. I wonder why a character from Encantadia can be included here and not barangays. --Bentong Isles 12:25, 16 May 2007 (UTC)
+=== Other concerns ===
+for discussion What about places named after female saints? Do we use Sta. Cruz, Laguna or Santa Cruz, Laguna?
+: It must depend on what is written on most official seals, for my opinion. Justox dizaola 10:09, 6 May 2006 (UTC)
+:: yes, we must follow the official name used by the concerned municipality. for example, santa ana urltoken and santa praxedes urltoken towns in cagayan both use "santa" but another town, and sta. teresita urltoken use "sta." instead (although in the wikipedia article, "santa" is used). --Saluyot 01:33, 29 June 2006 (UTC)
+:::who is we? WP is not required to follow official names. Compare City of the Village of Clarkston and City of New York. Full form for all is a policy also applied in other places around the world. No need to re-invent the wheel for PH. Tobias Conradi (Talk) 14:19, 19 August 2006 (UTC)
+::::This makes no sense. The question was whether to use "Sta." or "Santa", not the official name, or else it wll be the "City of Vigan", etc. what Saluyot was trying to say was to use what spelling is on the official seal. --<b><font color="orange">User:Howard the Duck <font color="#FFA500">the</font> User talk:Howard the Duck</font></b> 02:23, 25 October 2006 (UTC)
+There is no norm in naming towns except either using the official name or the way like it to write like 'santa' or 'sta'. This is because even official records do not intend to follow or initiate seriously how a town named after saints or persons which begins with a title should be written in official documents.
+==Province Template==
+The template is located on a separate page for easy copying. See Benguet for an excellent example of the template in action (though yet incomplete).
+Status of Provincial articles.
+===Facts and Figures===
+Population and land area figures are compiled into a sortable table found in the following pages:
+* table that does not include independent cities from the statistics (ideal): List of primary local government units of the Philippines
+* table that includes independent cities in the statistics: Provinces of the Philippines#List of provinces
+===Graphics===
+====Locator maps====
+* National Capital Region (NCR) 
+* Ilocos Region (Region I): Ilocos Norte, Ilocos Sur, La Union, Pangasinan
+* :File:Ph locator car.svg (CAR): Abra, Apayao, Benguet, Ifugao, Kalinga, Mountain Province
+* Cagayan Valley (Region II): Batanes, Cagayan, Isabela, Nueva Vizcaya, Quirino
+* Central Luzon (Region III): Aurora, Bataan, Bulacan, Nueva Ecija, Pampanga, Tarlac, Zambales
+* Calabarzon (Region IV-A): Batangas, Cavite, Laguna, Rizal, Quezon
+* Southwestern Tagalog Region (Mimaropa): Marinduque, Occidental Mindoro, Oriental Mindoro, Romblon, Palawan
+* Bicol Region (Region V): Albay, Camarines Norte, Camarines Sur, Catanduanes, Masbate, Sorsogon
+* Western Visayas (Region VI): Aklan, Antique, Capiz, Guimaras, Iloilo, Negros Occidental
+* Central Visayas (Region VII): Bohol, Cebu, Negros Oriental, Siquijor
+* Eastern Visayas (Region VIII): Biliran, Eastern Samar, Leyte, Northern Samar, Samar, Southern Leyte
+* Zamboanga Peninsula (Region IX): Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay
+* Northern Mindanao (Region X): Bukidnon, Camiguin, Lanao del Norte, Misamis Occidental, Misamis Oriental
+* Davao Region (Region XI): Davao de Oro, Davao del Norte, Davao del Sur, Davao Occidental, Davao Oriental
+* Soccksargen (Region XII): Cotabato, Sarangani, South Cotabato, Sultan Kudarat
+* Caraga (Region XIII): Agusan del Norte, Agusan del Sur, Dinagat Islands, Surigao del Norte, Surigao del Sur
+* :File:Ph locator barmm.svg (BARMM): Basilan, Lanao del Sur, Maguindanao, Sulu, Tawi-Tawi
+==== Provincial seals ====
+Provincial seals should be 150×150 pixels in size, saved in PNG format.
+* Ilocos Region (Region I): Ilocos Norte, Ilocos Sur, La Union, Pangasinan
+* Cordillera Administrative Region (CAR): Abra, Apayao, Benguet, Ifugao, Kalinga, Mountain Province
+* Cagayan Valley (Region II): Batanes, Cagayan, Isabela, Nueva Vizcaya, Quirino
+* Central Luzon (Region III): Aurora, Bataan, Bulacan, Nueva Ecija, Pampanga, Tarlac, Zambales
+* Calabarzon (Region IV-A): Batangas, Cavite, Laguna, Rizal, Quezon
+* Mimaropa (Mimaropa): Marinduque, Occidental Mindoro, Oriental Mindoro, Romblon
+* Bicol Region (Region V): Albay, Camarines Norte, Camarines Sur, Catanduanes, Masbate, Sorsogon
+* Western Visayas (Region VI): Aklan, Antique, Capiz, Guimaras, Iloilo, Negros Occidental, Palawan
+* Central Visayas (Region VII): Bohol, Cebu, Negros Oriental, Siquijor
+* Eastern Visayas (Region VIII): Biliran, Eastern Samar, Leyte, Northern Samar, Samar, Southern Leyte
+* Zamboanga Peninsula (Region IX): Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay
+* Northern Mindanao (Region X): Bukidnon, Camiguin, Lanao del Norte, Misamis Occidental, Misamis Oriental
+* Davao Region (Region XI): Davao de Oro, Davao del Norte, Davao del Sur, Davao Occidental, Davao Oriental
+* Soccsksargen (Region XII): Cotabato, Sarangani, South Cotabato, Sultan Kudarat, General Santos
+* Caraga (Region XIII): Agusan del Norte, Agusan del Sur, Dinagat Islands, Surigao del Norte, Surigao del Sur
+* Bangsamoro (BARMM): Basilan, Lanao del Sur, Maguindanao, Sulu, Tawi-Tawi
+===List of cities and municipalities===
+Go to web page urltoken Philippine Standard Geographic Code of the National Statistical Coordination Board and type the name of the province in the search box.
+===Other information===
+All other information can be collated from provincial websites and other travel sites. (Sadly, information about most provinces is incomplete.)
+*Census - Population
+** urltoken 1903 to 2007
+** urltoken 1990
+** urltoken 1995 ( urltoken archive)
+** urltoken 2000 ( urltoken archive)
+** urltoken 2007 ( urltoken archive)
+** urltoken 2010 ( urltoken archive)
+** urltoken 2015
+*List of elected officials
+** urltoken Governors
+** urltoken Municipal Mayors
+** urltoken City Mayors
+** urltoken Other local elected officials
+*Land area
+** urltoken Computation of IRA according to land area and population
+*Voting population
+** urltoken Voting population, land area, district and economic class
+*Household count, IRA Allocation
+** urltoken Local Governance Performance Management System - DILG
+*Poverty Incidence
+** urltoken Philippine Statistics Authority
+*Per Capita Income, Good Governance Index
+** urltoken Philippine Statistics Authority 
+*Other related information
+** urltoken Cities and Municipalities Competitiveness Index ( urltoken Archive)
+==Updates on LGU Changes ==
+There are frequent changing in names, upgrading from municipality to cityhood, transferring of barangay from one LGU to another, creation of new province, municipality and barangay. 
+* urltoken Updates of National Statistics Coordianation Board on Philippine Standard Geographic Codes.
+==Wikidata==
+* /Provinces in Wikidata
+
+This is the page to discuss and organize how best to present the various political subdivisions of the Philippines or Local Government Units (LGUs), namely, regions, provinces, cities and municipalities.
+Note: These are only suggestions, things to give you focus and to get you going, and you shouldn't feel obligated in the least to follow them. But if you don't know what to write or where to begin, following the below guidelines may be helpful. Mainly, we just want you to write articles!

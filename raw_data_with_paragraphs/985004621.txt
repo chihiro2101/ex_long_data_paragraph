@@ -1,0 +1,96 @@
+Trypanosomatida
+
+==Medical importance==
+The three major human diseases caused by trypanosomatids are; African trypanosomiasis (sleeping sickness, caused by Trypanosoma brucei and transmitted by Tsetse fly), South American trypanosomiasis (Chagas disease, caused by Trypanosoma cruzi and transmitted by triatomine bugs), and leishmaniasis (a set of trypanosomal diseases caused by various species of Leishmania transmitted by sandflies).
+==Evolution==
+The family is known from fossils of the extinct genus Paleoleishmania preserved in Burmese amber dating to the Albian (100 mya) and Dominican amber from the Burdigalian (20–15 mya) of Hispaniola.<ref name="Poinar2008"></ref> The genus Trypanosoma is also represented in Dominican amber in the extinct species Trypanosoma antiquus.<ref name="Poinar2005"></ref>
+==Taxonomy==
+Three genera are dixenous (two hosts in the life cycle) – Leishmania, Phytomonas and Trypanosoma and the remainder are monoxenous (one host in the life cycle). Paratrypanosoma appears to be the first evolving branch in this order. Fifteen genera are recognised in the Trypanosomatidae and there are three subfamilies – Blechomonadinae, Leishmaniinae and Strigomonadinae. The genera in the subfamily Strigomonadinae are characterised by the presence of obligatory intracellular bacteria of the Kinetoplastibacterium genus.
+* Family Trypanosomatidae <small>Calkins 1926</small> Trypanomorphidae <small>Woodcock 1906</small>; Trypanosomataceae <small>Senn 1911</small>
+** Genus Agamomonas <small>Grassé 1952</small>
+** Genus Batracoleishmania <small>Dasgupta 2011</small>
+** Genus Blastocrithidia <small>Laird 1959</small>
+** Genus Cercoplasma <small>Roubaud 1911</small>
+** Genus Cystotrypanosoma <small>Roubaud 1911</small>
+** Genus Jaenimonas <small>Votypka & Hamilton 2015</small>
+** Genus Lamellasoma <small>Davis 1947</small>
+** Genus Leptowallaceina <small>Podlipaev & Frolov 2000</small>
+** Genus Lewisonella <small>Chalmers 1918 nomen dubium</small>
+** Genus Malacozoomonas <small>Nicoli, Penaud & Timon-David 1972</small>
+** Genus Nematodomonas <small>Nicoli, Penaud & Timon-David 1972</small>
+** Genus †Paleoleishmania <small>Poinar & Poinar, 2004</small>
+** Genus †Paleotrypanosoma <small>Poinar 2008</small>
+** Genus Paramecioides <small>Grassé 1882</small>
+** Genus Sauroleishmania <small>Ranque 1973</small>
+** Genus Sergeia <small>Svobodová et al. 2007 non Stimpson 1860 non Nasonov 1923 non Sergio Manning & Lemaitre 1994</small>
+** Genus Trypanomonas <small>Danilewsky 1885</small>
+** Genus Trypanomorpha <small>Woodcock 1906</small>
+** Genus Undulina <small>Lankester 187</small>
+** Genus Wallaceina <small>Bulat, Mokrousov & Podlipaev 1999</small> Proteomonas <small>Podlipaev, Frolov & Kolesnikov 1990 non Hill & Wetherbee 1986</small>
+** Genus Wallacemonas <small>Kostygov & Yurchenko 2014</small>
+** Subfamily Paratrypanosomatinae <small>Votýpka & Lukeš 2013</small>
+*** Genus Paratrypanosoma <small>Votypka & Lukes 2013</small>
+** Subfamily Trypanosomatinae
+*** Genus Trypanosoma <small>Gruby 1843</small>
+** Subfamily Blechomonadinae <small>Votypka & Suková 2013</small>
+*** Genus Blechomonas <small>Votypka & Suková 2013</small>
+** Subfamily Leishmaniinae <small>sensu Maslov & Lukeš 2012</small>
+*** Clade Crithidiatae <small>Maslov & Lukeš 2012</small>
+**** Genus Crithidia <small>Léger 1902</small>
+**** Genus Leptomonas <small>Kent 1880</small>
+**** Genus Lotmaria <small>Schwarz 2015</small>
+*** Clade Leishmaniatae <small>Maslov & Lukeš 2012</small>
+**** Genus Borovskyia <small>Kostygov & Yurchenko 2017</small>
+**** Genus Endotrypanum <small>Mesnil & Brimont 1908</small>
+**** Genus Leishmania <small>Ross 1903</small>
+**** Genus Novymonas <small>Votýpka et al. 2015</small>
+**** Genus Paraleishmania <small>Cupolillo et al. 2000</small>
+**** Genus Zelonia <small>Shaw, Camargo et Teixeira 2016</small>
+** Subfamily Phytomonadinae <small>Kostygov & Yurchenko 2015</small>
+*** Genus Herpetomonas <small>Kent 1880 non Donovan 1909</small>
+*** Genus Lafontella <small>Kostygov & Yurchenko 2015</small>
+*** Genus Phytomonas <small>Donovan 1909</small>
+** Subfamily Strigomonadinae <small>Votypka et al. 2014</small>
+*** Genus Angomonas <small>Souza & Corte-Real 1991</small>
+*** Genus Kentomonas <small>Votypka et al. 2014</small>
+*** Genus Strigomonas <small>Lwoff & Lwoff 1931</small>
+==Life cycle==
+Some trypanosomatids only occupy a single host, while many others are heteroxenous: they live in more than one host species over their life cycle. This heteroxenous life cycle typically includes the intestine of a bloodsucking insect and the blood and/or tissues of a vertebrate. Rarer hosts include other bloodsucking invertebrates, such as leeches, and other organisms such as plants. Different species go through a range of different morphologies at different stages of the life cycle, with most having at least two different morphologies. Typically the promastigote and epimastigote forms are found in insect hosts, trypomastigote forms in the mammalian bloodstream and amastigotes in intracellular environments.
+==Morphologies==
+A variety of different morphological forms appear in the life cycles of trypanosomatids, distinguished mainly by the position, length and the cell body attachment of the flagellum. The kinetoplast is found closely associated with the basal body at the base of the flagellum and all species of trypanosomatid have a single nucleus. Most of these morphologies can be found as a life cycle stage in all trypanosomatid genera however certain morphologies are particularly common in a particular genus. The various morphologies were originally named from the genus where the morphology was commonly found, although this terminology is now rarely used because of potential confusion between morphologies and genus. Modern terminology is derived from the Greek; "mastig", meaning whip (referring to the flagellum), and a prefix which indicates the location of the flagellum on the cell. For example, the amastigote (prefix "a-", meaning no flagellum) form is also known as the leishmanial form as all Leishmania have an amastigote life cycle stage.
+* Amastigote (leishmanial).<ref name="Hoare1966"></ref> Amastigotes are a common morphology during an intracellular lifecycle stage in a mammalian host. All Leishmania have an amastigote stage of the lifecycle. Leishmania amastigoes are particularly small and are among the smallest eukaryotic cells. The flagellum is very short, projecting only slightly beyond the flagellar pocket.
+* Promastigote (leptomonad).<ref name="Hoare1966" /> The promastigote form is a common morphology in the insect host. The flagellum is found anterior of nucleus and flagellum not attached to the cell body. The kinetoplast is located in front of the nucleus, near the anterior end of the body.
+* Epimastigote (crithidial).<ref name="Hoare1966" /> Epimastigotes are a common form in the insect host and Crithidia and Blastocrithidia, both parasites of insects, exhibit this form during their life cycles. The flagellum exits the cell anterior of nucleus and is connected to the cell body for part of its length by an undulating membrane. The kinetoplast is located between the nucleus and the anterior end.
+* Trypomastigote (trypanosomal).<ref name="Hoare1966" /> This stage is characteristic of the genus Trypanosoma in the mammalian host bloodstream as well as infective metacyclic stages in the fly vector. In trypomastigotes the kinetoplast is near the posterior end of the body, and the flagellum lies attached to the cell body for most of its length by an undulating membrane.
+* Opisthomastigote (herpetomonad).<ref name="Hoare1966" /> A rarer morphology where the flagellum posterior of nucleus, passing through a long groove in the cell.
+* Endomastigote.<ref></ref> A morphotype where the flagellum does not extend beyond the deep flagellar pocket.
+<gallery>
+Image:LeishmaniaMexicana Amastigote SEM.jpg|Amastigote: False colour SEM micrograph of amastigote form Leishmania mexicana. The cell body is shown in orange and the flagellum is in red. 219 pixels/μm.
+Image:LeishmaniaMexicana Promastigote SEM.jpg|Promastigote: False colour SEM micrograph of promastigote form Leishmania mexicana. The cell body is shown in orange and the flagellum is in red. 119 pixels/μm.
+Image:TrypanosomaBrucei_ProcyclicTrypomastigote_SEM.jpg|Trypomastigote: False colour SEM micrograph of procyclic form Trypanosoma brucei. The cell body is shown in orange and the flagellum is in red. 84 pixels/μm.
+</gallery>
+==Other features==
+Notable characteristics of trypanosomatids are the ability to perform trans-splicing of RNA and possession of glycosomes, where much of their glycolysis is confined to. The acidocalcisome, another organelle, was first identified in trypanosomes.<ref></ref>
+==References==
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+== External links ==
+* urltoken Trykipedia, Trypanosomatid specific ontologies
+* urltoken Tree of Life: Trypanosomatida
+* urltoken Taxonomya at BOLD Systems
+* urltoken Taxonomy at Taxonomicon
+* urltoken Open Tree Taxonomy
+* urltoken ZipcodeZoo
+
+Trypanosomatida is a group of kinetoplastid Excavatas distinguished by having only a single flagellum. The name is derived from the Greek trypano (borer) and soma (body) because of the corkscrew-like motion of some trypanosomatid species. All members are exclusively parasite, found primarily in insects.<ref></ref> A few genera have life-cycles involving a secondary host, which may be a vertebrate, invertebrate or plant. These include several species that cause major diseases in humans.<ref></ref>

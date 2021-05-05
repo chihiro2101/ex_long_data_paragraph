@@ -1,0 +1,69 @@
+Application server
+
+==History==
+The term was originally used when discussing early client–server systems to differentiate servers that contain application logic SQL services<ref></ref> and middleware servers as distinct from other types of data-servers.
+Currently, despite the fact that web-browsers have become ubiquitous and are typically the client for end-users in many application deployment strategies, browser-based web apps represent only a subset of application-server technologies.
+==Application Server definition==
+Application servers are system software upon which web applications or desktop applications run. Application servers consist of web server connectors, computer programming languages, runtime library, database connectors, and the administration code needed to deploy, configure, manage, and connect these components on a web host. An application server runs behind a web Server (e.g. Apache or Microsoft Internet Information Services (IIS)) and (almost always) in front of an SQL database (e.g. PostgreSQL, MySQL, or Oracle). Web applications are computer code which run atop application servers and are written in the language(s) the application server supports and call the runtime libraries and components the application server offers.
+Many application servers exist. The choice impacts the cost, performance, reliability, scalability, and maintainability of a web application.
+Proprietary application servers provide system services in a well-defined but proprietary manner. The application developers develop programs according to the specification of the application server. Dependence on a particular vendor is the drawback of this approach.
+An opposite but analogous case is the Java EE platform. Java EE application servers provide system services in a well-defined, open, industry standard. The application developers develop programs according to the Java EE specification and not according to the application server. A Java EE application developed according to Java EE standard can be deployed in any Java EE application server making it vendor-independent.
+==Java application servers==
+Java Platform, Enterprise Edition or Java EE (was J2EE) defines the core set of API and features of Java Application Servers.
+The Java EE infrastructure is partitioned into logical containers.
+*EJB container: Enterprise JavaBeans are used to manage transactions. According to the Java BluePrints, the business logic of an application resides in Enterprise JavaBeans—a modular server component providing many features, including declarative transaction management, and improving application scalability.
+* Web container: The Web modules include servlets and JavaServer Pages (JSP).
+* JCA container (Java EE Connector Architecture)
+* JMS provider (Java Message Service)
+Some Java Application Servers leave off many Java EE features like EJB and Java Message Service (JMS). Their focus is more on Java Servlets and JavaServer Pages.
+There are many open source Java application servers that support Java EE.
+Commercial Java application servers have been dominated by WebLogic Application Server by Oracle, WebSphere Application Server from IBM and the open source JBoss Enterprise Application Platform by Red Hat.
+A Java Server Page (JSP) executes in a web container. JSPs provide a way to create HTML pages by embedding references to the server logic within the page. HTML coders and Java programmers can work side by side by referencing each other's code from within their own.
+The application servers mentioned above mainly serve web applications, and services via RMI, EJB, JMS and SOAP. Some application servers target networks other than web-based ones: Session Initiation Protocol servers, for instance, target telephony networks.
+==.NET Framework==
+===Microsoft===
+Microsoft positions their middle-tier applications and services infrastructure in the Windows Server operating system and the .NET Framework technologies in the role of an application server.<ref> urltoken TechNet: Application Server</ref> The Windows Application Server role includes Internet Information Services (IIS) to provide web server support, the .NET Framework to provide application support, ASP.NET to provide server side scripting, COM+ for application component communication, Message Queuing for multithreaded processing, and the Windows Communication Foundation (WCF) for application communication.<ref> urltoken TechNet: Application Server Role</ref>
+===Third-party===
+*Mono (a cross platform open-source implementation of .NET supporting nearly all its features, with the exception of Windows OS-specific features), sponsored by Microsoft and released under the MIT License
+==PHP application servers==
+PHP application servers are used for running and managing PHP applications.
+Zend Server, built by Zend Technologies, provides application server functionality for the PHP-based applications.
+appserver.io, built by TechDivision GmbH is a multithreaded application server for PHP written in PHP.
+RoadRunner, built by Spiral Scout is a high-performance PHP application server, load-balancer, and process manager written in Golang.
+==Mobile application servers==
+A mobile app server is mobile middleware that makes back-end systems accessible to mobile application to support Mobile application development. Much like a web server that stores, processes, and delivers web pages to clients, a mobile app server bridges the gap from existing infrastructure to mobile devices.
+===Purpose===
+Although most standards-based infrastructure (including SOAs ) are designed to connect to any independent of any vendor, product or technology, most enterprises have trouble connecting back-end systems to mobile applications, because mobile devices add the following technological challenges:<ref></ref>
+* Limited resources – mobile devices have limited power and bandwidth
+* Intermittent connectivity – cellular service and wifi coverage is often not continuous
+* Difficult to secure<ref></ref> – mobility and BYOD make it hard to secure mobile devices
+The purpose of a mobile application server is to build on existing infrastructure to accommodate mobile devices.
+===Common features===
+Core capabilities of mobile application services include
+* Data routing– data is packaged in smaller (REST) objects with some business logic to minimize demands on bandwidth and battery
+* Orchestration– transactions and data integration across multiple sources
+* Authentication service– secure connectivity to back-end systems is managed by the mobile middleware
+* Off-line support– allows users to access and use data even though the device is not connected
+* Security– data encryption, device control, SSL, call logging
+===Mobile application servers vs. application servers vs. web servers===
+Mobile application servers, Application servers, and web servers serve similar purposes: they are pieces of middleware that connect back-end systems to the users that need to access them, but the technology in each of the three differs. Application servers—developed before the ubiquity of web-based applications—expose back-end business logic through various protocols, sometimes including HTTP, and manage security, transaction processing, resource pooling, and messaging.<ref></ref> When web-based applications grew in popularity, application servers did not meet the needs of developers, and the webserver was created to fill the gap.
+Web servers provide the caching and scaling functionality demanded by web access and not provided by application servers. They convert requests to static content and serve only HTTP content.<ref></ref> Over time, application servers and web servers have morphed from two previously distinct categories, blended features, and arguably have merged.
+Mobile application servers are on a similar path. The emergence of mobile devices presents the need for functionality not anticipated by the developers of traditional application server developers, and mobile application servers fill this gap. They take care of the security, data management and off-line requirements not met by existing infrastructure, and present content exclusively in REST.
+Over time, these three categories may fully merge and be available in a single product, but the root functions differ.
+===Deployment models===
+An application server can be deployed :
+* On premises
+* Cloud
+* Private cloud
+* Platform as a service (PaaS)
+==See also==
+*Application service provider (ASP)
+==References==
+
+An application server is a server that hosts applications.<ref></ref>
+Application server frameworks are software frameworks for building application servers. An application server framework provides both facilities to create web applications and a 
+server environment to run them.
+An application server framework contains a comprehensive service layer model. It includes a set of components accessible to the software developer through a standard API defined for the platform itself. For Web applications, these components usually run in the same environment as their web server(s), and their main job is to support the construction of dynamic pages. However, many application servers do more than generate web pages: they implement services such as clustering, fail-over, and load-balancing, so developers can focus on implementing the business logic.<ref>
+</ref>
+In the case of Java application servers, the server behaves like an extended JVM for running applications, transparently handling Java Persistence API on one side, and, often, JavaServer Pages on the other.
+Other uses of the term may refer to the services that a server makes available or the computer hardware on which the services run.

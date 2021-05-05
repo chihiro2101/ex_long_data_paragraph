@@ -1,0 +1,55 @@
+Regino of Prüm
+
+==Biography==
+According to the statements of a later era, Regino was the son of noble parents and was born at the stronghold of Altrip on the Rhine near Speyer at an unknown date. From his election as abbot and from his writings, it is evident that he had entered the Benedictine Order, probably at Prüm itself, and that he had been a diligent student. The rich and celebrated Imperial Abbey of Prüm suffered greatly during the 9th century from the marauding incursions of the Norsemen. It had been twice seized and ravaged, in 882 AD and 892 AD. After its second devastation by the Danes, the abbot Farabert resigned his office and Regino was elected his successor in 892 AD. His labours for the restoration of the devastated abbey were hampered by the struggle between contending parties in Lorraine.
+In 899 AD Regino was driven from his office by Richarius, later Bishop of Liège, the brother of Count Gerhard and count Mattfried of Hainaut. Richarius was made abbot; Regino had lost the position and relocated to Trier, where he was honourably received by Archbishop Ratbod and was appointed abbot of St Martin's, a house which he later reformed. He supported the archbishop in the latter's efforts to carry out ecclesiastical reforms in that troubled era, rebuilt the Abbey of St. Martin that had been laid waste by the Norsemen, accompanied the archbishop on visitations, and used his leisure for writing. Regino died at Trier in 915 AD and was buried in St. Maximin's Abbey, Trier, his tomb being discovered there in 1581.
+==Works==
+Regino's works are edited in volume 132 of Migne's Patrologia Latina.
+===De harmonica institutione and Tonarius===
+Regino's earliest work was Epistola de harmonica institutione, a treatise on music which he wrote in the form of a letter to Archbishop Radbod. Its primary objective was to improve the liturgical singing in the churches of the diocese and probably to ensure Radbod's support for this. He also wrote the Tonarius, a collection of chants.<ref>ed. Edmond de Coussemaker, Scriptores de musica medii aevi, II (Paris, 1867), 1-73.</ref>
+===Chronicon===
+Regino's most influential work is his Chronicon, a Human history from the Incarnation of Jesus Christ to 906 AD. The Chronicon is a history of the Carolingian empire that connected the rise and fall of the Carolingian dynasty with his own affairs.<ref>Stuart Airlie, "Sad stories of the death of kings": Narrative Patterns and Structures of Authority in Regino of Prum's Chronicle." in Narrative and History in the Early Medieval West, (eds) Elizabeth M. Tyler and Ross Balzaretti (Turnhout, 2006), p. 109.</ref> The works intended recipient is unknown, but may have been Louis the Child (r.900-911), and was dedicated to Adalberon, bishop of Augsburg (†909), someone personally close to the child king. The work was later continued and edited by Adalbert, a monk at the Benedictine St. Maximin's Abbey, Trier in Trier, possibly Adalbert, Archbishop of Magdeburg.
+The first book contains broad narratives on the fortunes of various rulers and church men, which are organised against the regnal spans of Roman and Byzantine Emperors and ends in the year 741 AD with the death of Charles Martel. It consists of extracts taken from Bede, Paulus Diaconus, the Deeds of Dagobert, the Annals of Saint Amand and the chronicle Liber Historiae Francorum. Of the second book (741-906 AD), the first part is a long excerpt of the Royal Frankish Annals down to 813. From 814 onwards however, the work is made up of eyewitness accounts, Paulus Diaconus and in relation to events in Lotharingia, the work of Adventius, Bishop of Metz.<ref></ref> In the later sections of book two, Regino discusses and deals with the various kings attempting to take power in Lotharingia, in particular criticising Zwentibald, the son of powerful magnate and later king Arnulf, Duke of Bavaria.<ref></ref> The chronological accuracy of the work has been questioned, however, Regino had adapted and changed Bede's Anno Mundi dating system to Anno Domini to reflect the works starting point of the Incarnation.<ref>Simon Maclean, History and Politics in Late Carolingian and Ottonian Europe: the Chronicle of Regino of Prum and Adalbert of Magdeburg, (Manchester, 2009) pp. 20–22.</ref> The work is deemed important by modern scholars due to the fact it is the first chronicle to conventionally apply the AD dating system.<ref></ref>
+Regino's chronicle is an important source on History of Bulgaria in that it is the only contemporary text hinting at the organisation of the Council of Preslav ("… <nowiki></nowiki>Boris I<nowiki></nowiki> gathered his entire empire and placed his younger son <nowiki></nowiki>Simeon I<nowiki></nowiki> as prince…").
+Historians who made use of Regino's chronicle include Cosmas of Prague.<ref>Marie Bláhová, "The Function of the Saints in Early Bohemian Historical Writing." In The Making of Christian Myths in the Periphery of Latin Christendom (ca 1000–1300), ed. Lars Boje Mortensen. Copenhagen: Museum Tusculanums Forlag, 2006. p. 97.</ref>
+The chronicle was first printed at Mainz in 1521.
+=== De ecclesiasticis disciplinis ===
+Regino also drew up, at the request of his friend and patron Radbod, Archbishop of Trier (d. 915), a collection of canons, Libri duo de synodalibus causis et disciplinis ecclesiasticis, dedicated to Hatto I, Archbishop of Mainz. It was a work on ecclesiastical discipline for use in ecclesiastical visitations. The work is divided into 434 sections. The title of the work in Migne's edition is Libellus DE ECCLESIASTICIS DISCIPLINIS ET RELIGIONE CHRISTIANA, COLLECTUS Ex jussu domini metropolitani Rathbodi Trevericae urbis episcopi, a Reginone quondam abbate Prumiensis monasterii, ex diversis sanctorum Patrum conciliis et decretis Romanorum pontificum. Substantial portions of this work were included in the Decretum Burchardi of 1012.
+Section 364 (corresponding to Burchard 10.1) is the so-called Canon Episcopi (after its incipit Ut episcopi episcoporumque ministri omnibus viribus elaborare studeant) dealing with popular superstition.
+==== Miscellaneous ====
+Around 900, Regino lists four distinctive features of ethnicity: (origin, race), (customs, behavior), (language), and (law). These categories would be considered key nominal qualifiers for ethnic identity from the Carolingian period onwards.<ref></ref>
+==References==
+===Sources===
+* (See p.&nbsp;196.)
+* urltoken CATHOLIC ENCYCLOPEDIA: Regino of Prum
+*H. Ermisch, Die Chronik des Regino bis 813 (Göttingen, 1872)
+*P. Schulz, Die Glaubwürdigkeit des Abtes Regino van Prüm (Hamburg, 1894
+*C. Wawra, De Reginone Prumensis (Breslau, 1901)
+*A. Molinier, Les Sources de l'histoire de France, Tome I (1901)
+*W. Wattenbach, Deutschlands Geschichtsquellen, Band I (1904).
+===Editions and translations===
+*Chronicon:
+**MacLean, Simon (ed. and tr.). History and politics in late Carolingian and Ottonian Europe. The chronicle of Regino of Prüm and Adalbert of Magdeburg. Manchester, 2009.
+**Kurze, Friedrich (ed.). Reginonis abbatis Prumiensis Chronicon cum continuatione Treverensi. MGH SS rerum Germanicarum in usum scholarum separatim editi 50. Hanover, 1890. urltoken Available from the Digital MGH
+**An earlier edition is in volume I of the Monumenta Germaniae Historica (1826).
+**German translation (only 2.book): By Ernst Dümmler "Die Chronik des Abtes Regino von Prüm". Several editions, introduction dated twice, 1856 & 1889; urltoken 5. unveränderte Auflage (1939), at archive.org
+*Tonarius
+**Tonarius, ed. Edmond de Coussemaker, Scriptores de musica medii aevi. Vol. II. Paris, 1867. 1-73.
+**De harmonica institutione, ed. Gerbert, Scriptores ecclesiastici de musica sacra. Vol. I. 1784.
+*Libri duo de synodalibus causis et disciplines ecclesiasticis
+** 
+** urltoken Opera Omnia by Migne Patrologia Latina, vol. 132, with analytical indexes
+**Das Sendhandbuch des Regino von Prüm, ed. F. W. H. Wasserschleben and Wilfried Hartmann (Darmstad, 2004).
+===Further reading===
+*
+*
+*
+* urltoken Open access version
+* “Ubaldo di Saint-Amand, Musica. Reginone di Prüm, Epistola de harmonica institutione”, Introduzione, traduzione e commento a cura di Alessandra Fiori, Firenze, Sismel - Edizioni del Galluzzo, 2011 (Società Internazionale per lo Studio del Medioevo Latino)
+== External links ==
+* urltoken Reginon and music, musicologie.org .
+*Chartier, Yves. Reginon de Prüm: Epistola de Armonica Institutione. . urltoken musicologie.org
+*
+* urltoken Digitized Edition of the Chronicon at E-codices.
+
+Regino of Prüm or of Prum , ; died 915 AD) was a Benedictine monk, who served as abbot of Prüm (892–99) and later of Saint Martin's at Trier, and chronicler, whose Chronicon is an important source for late Carolingian history.

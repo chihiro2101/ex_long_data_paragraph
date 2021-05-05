@@ -1,0 +1,85 @@
+Opteron
+
+==Technical description==
+===Two key capabilities===
+Opteron combines two important capabilities in a single processor:
+# native execution of legacy x86 32-bit applications without speed penalties
+# native execution of x86-64 64-bit applications
+The first capability is notable because at the time of Opteron's introduction, the only other 64-bit architecture marketed with 32-bit x86 compatibility (Intel's Itanium) ran x86 legacy-applications only with significant speed degradation. The second capability, by itself, is less noteworthy, as major RISC architectures (such as SPARC, Alpha, PA-RISC, PowerPC, MIPS) have been 64-bit for many years. In combining these two capabilities, however, the Opteron earned recognition for its ability to run the vast installed base of x86 applications economically, while simultaneously offering an upgrade-path to 64-bit computing.
+The Opteron processor possesses an integrated memory controller supporting DDR SDRAM, DDR2 SDRAM or DDR3 SDRAM (depending on processor generation). This both reduces the latency penalty for accessing the main RAM and eliminates the need for a separate northbridge chip.
+===Multi-processor features===
+In multi-processor systems (more than one Opteron on a single motherboard), the CPUs communicate using the Direct Connect Architecture over high-speed HyperTransport links. Each CPU can access the main memory of another processor, transparent to the programmer. The Opteron approach to multi-processing is not the same as standard symmetric multiprocessing; instead of having one bank of memory for all CPUs, each CPU has its own memory. Thus the Opteron is a Non-Uniform Memory Access (NUMA) architecture. The Opteron CPU directly supports up to an 8-way configuration, which can be found in mid-level servers. Enterprise-level servers use additional (and expensive) routing chips to support more than 8 CPUs per box.
+In a variety of computing benchmarks, the Opteron architecture has demonstrated better multi-processor scaling than the Intel Xeon<ref></ref> which didn't have a point to point system until QPI and integrated memory controllers with the Nehalem design. This is primarily because adding another Opteron processor increases memory bandwidth, while that is not always the case for Xeon systems, and the fact that the Opterons use a switched fabric, rather than a shared bus. In particular, the Opteron's integrated memory controller allows the CPU to access local RAM very quickly. In contrast, multiprocessor Xeon system CPUs share only two common buses for both processor-processor and processor-memory communication. As the number of CPUs increases in a typical Xeon system, contention for the shared bus causes computing efficiency to drop. Intel migrated to a memory architecture similar to the Opteron's for the Intel Core i7 family of processors and their Xeon derivatives.
+===Multi-core Opterons===
+In April 2005, AMD introduced its first multi-core Opterons. At the time, AMD's use of the term multi-core in practice meant dual-core; each physical Opteron chip contained two processor cores. This effectively doubled the computing performance available to each motherboard processor socket. One socket could then deliver the performance of two processors, two sockets could deliver the performance of four processors, and so on. Because motherboard costs increase dramatically as the number of CPU sockets increase, multicore CPUs enable a multiprocessing system to be built at lower cost.
+AMD's model number scheme has changed somewhat in light of its new multicore lineup. At the time of its introduction, AMD's fastest multicore Opteron was the model 875, with two cores running at 2.2 GHz each. AMD's fastest single-core Opteron at this time was the model 252, with one core running at 2.6&nbsp;GHz. For multithreaded applications, or many single threaded applications, the model 875 would be much faster than the model 252.
+Second-generation Opterons are offered in three series: the 1000 Series (single socket only), the 2000 Series (dual socket-capable), and the 8000 Series (quad or octo socket-capable). The 1000 Series uses the Socket AM2. The 2000 Series and 8000 Series use Socket F. urltoken 
+AMD announced its third-generation quad-core Opteron chips on September 10, 2007<ref></ref><ref></ref> 
+with hardware vendors announcing servers in the following month. Based on a core design codenamed Barcelona, new power and thermal management techniques were planned for the chips. Earlier dual core DDR2 based platforms were upgradeable to quad core chips.<ref>
+6-core Opteron Processors codenamed 'Istanbul' were announced on July 1, 2009. They were a drop-in upgrade for existing Socket F servers.
+</ref>
+The fourth generation was announced in June 2009 with the Istanbul hexa-cores. It introduced HT&nbsp;Assist, an additional directory for data location, reducing the overhead for probing and broadcasts. HT&nbsp;Assist uses 1 MB L3 cache per CPU when activated.<ref></ref>
+In March 2010 AMD released the Magny-Cours Opteron 6100 series CPUs for Socket G34. These are 8- and 12-core multi-chip module CPUs consisting of two four or six-core dies with a HyperTransport 3.1 link connecting the two dies. These CPUs updated the multi-socket Opteron platform to use DDR3 memory and increased the maximum HyperTransport link speed from 2.40&nbsp;GHz (4.80&nbsp;GT/s) for the Istanbul CPUs to 3.20&nbsp;GHz (6.40&nbsp;GT/s).
+AMD changed the naming scheme for its Opteron models. Opteron 4000 series CPUs on Socket C32 (released July 2010) are dual-socket capable and are targeted at uniprocessor and dual-processor uses. The Opteron 6000 series CPUs on Socket G34 are quad-socket capable and are targeted at high-end dual-processor and quad-processor applications.
+===Socket 939===
+AMD released Socket 939 Opterons, reducing the cost of motherboards for low-end servers and workstations. Except for the fact they have 1 MB L2 Cache (versus 512 KB for the Athlon64) the Socket 939 Opterons are identical to the San Diego and Toledo core Athlon 64s, but are run at lower clock speeds than the cores are capable of, making them more stable.
+===Socket AM2===
+Socket AM2 Opterons are available for servers that only have a single-chip setup. Codenamed Santa Ana, rev. F dual core AM2 Opterons feature 2 × 1 MB L2 cache, unlike the majority of their Athlon 64 X2 cousins which feature 2 × 512 KB L2 cache. These CPUs are given model numbers ranging from 1210 to 1224.
+===Socket AM2+===
+AMD introduced three quad-core Opterons on Socket AM2+ for single-CPU servers in 2007. These CPUs are produced on a 65&nbsp;nm manufacturing process and are similar to the Agena Phenom X4 CPUs. The Socket AM2+ quad-core Opterons are code-named "Budapest." The Socket AM2+ Opterons carry model numbers of 1352 (2.10&nbsp;GHz), 1354 (2.20&nbsp;GHz), and 1356 (2.30&nbsp;GHz.)
+===Socket AM3===
+AMD introduced three quad-core Opterons on Socket AM3 for single-CPU servers in 2009. These CPUs are produced on a 45&nbsp;nm manufacturing process and are similar to the Deneb-based Phenom II X4 CPUs. The Socket AM3 quad-core Opterons are code-named "Suzuka." These CPUs carry model numbers of 1381 (2.50&nbsp;GHz), 1385 (2.70&nbsp;GHz), and 1389 (2.90&nbsp;GHz.)
+===Socket AM3+===
+Socket AM3+ was introduced in 2011 and is a modification of AM3 for the Bulldozer microarchitecture. Opteron CPUs in the AM3+ package are named Opteron 3xxx.
+===Socket F===
+Socket F (LGA 1207 contacts) is AMD’s second generation of Opteron socket. This socket supports processors such as the Santa Rosa, Barcelona, Shanghai, and Istanbul codenamed processors. The “Lidded land grid array” socket adds support for DDR2 SDRAM and improved HyperTransport version 3 connectivity. Physically the socket and processor package are nearly identical, although not generally compatible with socket 1207 FX.
+===Socket G34===
+Socket G34 (LGA 1944 contacts) is one of the third generation of Opteron sockets, along with Socket C32. This socket supports Magny-Cours Opteron 6100, Bulldozer-based Interlagos Opteron 6200, and Piledriver-based "Abu Dhabi" Opteron 6300 series processors. This socket supports four channels of DDR3 SDRAM (two per CPU die). Unlike previous multi-CPU Opteron sockets, Socket G34 CPUs will function with unbuffered ECC or non-ECC RAM in addition to the traditional registered ECC RAM.
+===Socket C32===
+Socket C32 (LGA 1207 contacts) is the other member of the third generation of Opteron sockets. This socket is physically similar to Socket F but is not compatible with Socket F CPUs. Socket C32 uses DDR3 SDRAM and is keyed differently so as to prevent the insertion of Socket F CPUs that can use only DDR2 SDRAM. Like Socket G34, Socket C32 CPUs will be able to use unbuffered ECC or non-ECC RAM in addition to registered ECC SDRAM.
+====Micro-architecture update====
+The Opteron line saw an update with the implementation of the AMD K10 microarchitecture. New processors, launched in the third quarter of 2007 (codename Barcelona), incorporate a variety of improvements, particularly in memory prefetching, speculative loads, SIMD execution and branch predictor, yielding an appreciable performance improvement over K8-based Opterons, within the same power envelope.<ref></ref>
+In 2007 AMD introduced a scheme to characterize the power consumption of new processors under "average" daily usage, named average CPU power (ACP).
+===Socket FT3===
+The Opteron X1150 and Opteron X2150 APU are used with the BGA-769 or Socket FT3.<ref></ref>
+== Features ==
+===CPUs===
+x86 CPU features table
+===APUs===
+APU features table
+==Models==
+For Socket 940 and Socket 939 Opterons, each chip has a three-digit model number, in the form Opteron XYY. For Socket F and Socket AM2 Opterons, each chip has a four-digit model number, in the form Opteron XZYY. For all first, second, and third-generation Opterons, the first digit (the X) specifies the number of CPUs on the target machine:
+* 1 – Designed for uniprocessor systems
+* 2 – Designed for dual-processor systems
+* 8 – Designed for systems with 4 or 8 processors
+For Socket F and Socket AM2 Opterons, the second digit (the Z) represents the processor generation. Presently, only 2 (dual-core, DDR2), 3 (quad-core, DDR2) and 4 (six-core, DDR2) are used.
+Socket C32 and G34 Opterons use a new four-digit numbering scheme. The first digit refers to the number of CPUs in the target machine:
+*4 – Designed for uniprocessor and dual-processor systems.
+*6 – Designed for dual-processor and four-processor systems.
+Like the previous second and third generation Opterons, the second number refers to the processor generation. "1" refers to AMD K10-based units (Magny-Cours and Lisbon), "2" refers to the Bulldozer-based Interlagos, Valencia, and Zurich-based units, and "3" refers to the Piledriver-based Abu Dhabi, Seoul, and Delhi-based units.
+For all Opterons, the last two digits in the model number (the YY) indicate the clock frequency of a CPU, a higher number indicating a higher clock frequency. This speed indication is comparable to processors of the same generation if they have the same amount of cores, single-cores and dual-cores have different indications despite sometimes having the same clock frequency.
+The suffix HE or EE indicates a high-efficiency/energy-efficiency model having a lower TDP than a standard Opteron. The suffix SE indicates a top-of-the-line model having a higher TDP than a standard Opteron.
+Starting from 65&nbsp;nm fabrication process, the Opteron codenames have been based on Formula 1 hosting cities; AMD has a long term sponsorship with F1's most successful team, Ferrari.
+The affected processors may produce inconsistent results if three specific conditions occur simultaneously:
+* The execution of floating point-intensive code sequences
+* Elevated processor temperatures
+* Elevated ambient temperatures
+A software verification tool for identifying the AMD Opteron processors listed in the above table that may be affected under these specific conditions is available, only to AMD OEM partners. AMD will replace those processors at no charge.
+==Recognition==
+In the February 2010 issue of Custom PC (a UK-based computing magazine focused on PC hardware), the AMD Opteron 144 (released in Summer 2005) appeared in the "Hardware Hall of Fame". It was described as "The best overclocker's CPU ever made" due to its low cost and ability to run at speeds far beyond its stock speed. (According to Custom PC, it could run at "close to 3 GHz on air".)
+==See also==
+* List of AMD Opteron microprocessors
+* TDP power cap
+==References==
+==External links==
+* urltoken Official Opteron homepage
+* urltoken AMD Technical Docs
+* urltoken AMD K8 Opteron technical specifications
+* urltoken AMD K8 Dual Core Opteron technical specifications
+* urltoken Interactive AMD Opteron rating and product ID guide
+* urltoken Understanding the Detailed Architecture of AMD's 64 bit Core
+* urltoken Comparison between Xeon and Opteron processor performance
+* urltoken AMD: dual-core Opteron to 3&nbsp;GHz
+
+Opteron is AMD's x86 former server and workstation processor line, and was the first processor which supported the AMD64 instruction set architecture (known generically as x86-64 or AMD64). It was released on April 22, 2003, with the SledgeHammer core (K8) and was intended to compete in the server and workstation markets, particularly in the same segment as the Intel Xeon processor. Processors based on the AMD K10 microarchitecture (codenamed Barcelona) were announced on September 10, 2007, featuring a new quad-core configuration. The most-recently released Opteron CPUs are the Piledriver-based Opteron 4300 and 6300 series processors, codenamed "Seoul" and "Abu Dhabi" respectively. 
+In January 2016, the first ARMv8-A based Opteron-branded SoC was released,<ref name="Anand2016"></ref> though it is unclear what, if any, heritage this Opteron-branded product line shares with the original Opteron technology other than intended use in the server space.

@@ -1,0 +1,97 @@
+The Game of the Century (chess)
+
+==Background==
+Donald Byrne (1930–1976) was one of the leading American chess masters at the time of this game. He won the 1953 U.S. Open Championship, and represented the United States in the 1962, 1964, and 1968 Chess Olympiads.<ref>Burgess, Nunn, and Emms (1998), p. 213.</ref> He became an International Master in 1962, and probably would have risen further if not for ill health.<ref>Golombek (1977), p. 52.</ref> Robert "Bobby" Fischer (1943–2008) was at this time a promising junior facing one of his first real tests against master-level opposition. His overall performance in the tournament was mediocre,<ref> urltoken Third Rosenwald Trophy (1956), chessgames.com</ref> but he soon had a meteoric rise, winning the 1957 U.S. Open on tiebreaks, winning the 1957–58 U.S. Chess Championship (and all seven later championships in which he played), qualifying for the Candidates Tournament and becoming in 1958 the world's youngest grandmaster at age 15. He won the world championship in 1972, and is considered one of the greatest chess players of all time.
+In this game, Fischer (playing Black) demonstrates noteworthy innovation and improvisation. Byrne (playing White), after a standard opening, makes a seemingly minor mistake on move 11, losing a tempo by moving the same piece twice. Fischer pounces with brilliant sacrificial play, culminating in a queen sacrifice on move 17. Byrne captures the queen, but Fischer gets copious for it – a rook, two bishops, and a pawn. At the end, Fischer's pieces coordinate to , while Byrne's queen sits useless on the other side of the board.
+==The game==
+White: Donald Byrne Black: Bobby Fischer Opening: Grünfeld Defence (ECO D92)
+1. Nf3
+:A noncommittal move by Byrne. From here, the game can develop into a number of different openings.
+1. Nf6 2. c4 g6 3. Nc3 Bg7
+:Fischer defends based on "hypermodern" principles, inviting Byrne to establish a classical pawn stronghold in the , which Fischer intends to target and undermine with his fianchettoed bishop and other pieces.
+4. d4 0-0
+:Fischer castles, bringing his king to safety. The Black move 4.d5 would have reached the Grünfeld Defence immediately. After Fischer's 4.0-0, Byrne could have played 5.e4, whereupon 5.d6 6.Be2 e5 reaches the main line of the King's Indian Defense.
+5. Bf4 d5 
+:The game has now transposed to the Grünfeld Defence (5.d5, ECO code D92), usually initiated by 1.d4 Nf6 2.c4 g6 3.Nc3 d5.
+6. Qb3
+:A form of the so-called Russian System (the usual move order is 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3), putting pressure on Fischer's central d5-pawn.
+6. dxc4
+:Fischer relinquishes his center, but draws Byrne's queen to a square where it is exposed and can be attacked.
+7. Qxc4 c6
+:Also possible is 7.Na6 (the Prins Variation), preparing .c5 to challenge White's center.
+8. e4 Nbd7
+:In later games, Black played the more active 8.b5 followed by 9.Qa5.<ref name="Burgess p. 214">Burgess, Nunn, and Emms (1998), p. 214.</ref><ref>Arthur Bisguier and Andrew Soltis, American Chess Masters from Morphy to Fischer, Macmillan, 1974, pp. 272, 275. .</ref> An example is Bisguier–Benko, U.S. Championship 1963–64.<ref></ref> Fischer's choice is a little slow, although one would not guess that from the subsequent play.
+9. Rd1 Nb6 10. Qc5
+:An awkward square for the queen, which leaves it exposed to a possible .Na4 or .Ne4, as Fischer brilliantly demonstrates. Since both those squares are protected by Byrne's knight on c3, he understandably did not appreciate the danger. 10.Qb3 would have left the queen better placed, although it would have invited further harassment with 10.Be6.
+10. Bg4
+:Byrne's pawns control the center squares, but Fischer is ahead in and has castled, while Byrne's king is still in the center. These factors would not have been very significant had Byrne attended to his development on his next move.
+11. Bg5 (diagram)
+:Intended to prevent 11.Nfd7 followed by .e5, but Byrne errs by not completing his development.<ref name="Alexander p. 36">Alexander (1972), p. 36.</ref> Numerous authors suggest 11.Be2 instead, protecting the king and preparing kingside castling.<ref name="Burgess p. 214"/><ref name="Alexander p. 36"/><ref>Robert Wade and Kevin J. O'Connell, Bobby Fischer's Chess Games (2nd ed. 1973), p. 111. .</ref> Flear–Morris, Dublin 1991, continued 11.Be2 Nfd7 12.Qa3 Bxf3 13.Bxf3 e5 14.dxe5 Qe8 15.Be2 Nxe5 16.0-0 and White was slightly better.<ref name="Burgess p. 214"/>
+11. Na4
+:"One of the most powerful moves of all time." (Jonathan Rowson).<ref></ref> Fischer offers an ingenious knight sacrifice. If Byrne plays 12.Nxa4, Fischer will reply 12.Nxe4, leaving Byrne with some terrible choices:
+:*13.Qxe7 Qa5+ 14.b4 Qxa4 15.Qxe4 Rfe8 16.Be7 Bxf3 17.gxf3 Bf8 produces a deadly pin;
+:*13.Bxe7 Nxc5 14.Bxd8 Nxa4 15.Bg5 Bxf3 16.gxf3 Nxb2 gives Fischer an extra pawn and ruins Byrne's pawn structure;
+:*13.Qc1 Qa5+ 14.Nc3 Bxf3 15.gxf3 Nxg5 regains the sacrificed piece with a better position and extra pawn;
+:*13.Qb4 Nxg5 14.Nxg5 Bxd1 15.Kxd1 Bxd4 16.Qd2 Bxf2 with a winning material advantage (Fischer).
+12. Qa3 Nxc3 13. bxc3 Nxe4
+:Fischer again offers material in order to open the e-file and get at White's uncastled king.
+14. Bxe7 Qb6 15. Bc4
+:Byrne wisely declines the offered material. If 15.Bxf8 Bxf8 16.Qb3, Fischer analyzes 16.Nxc3! 17.Qxb6 (17.Qxc3 Bb4 wins the queen) axb6 18.Ra1 Re8+ 19.Kd2 Ne4+ 20.Kc2 Nxf2 21.Rg1 Bf5+, which he considers winning for Black. Also strong is 16.Re8 17.Qxb6 (17.Be2 Nxc3!) axb6 18.Be2 Nxc3 19.Rd2 Bb4 20.Kf1 Ne4 21.Rb2 Bc3 22.Rc2 Nd2+! 23.Kg1 (23.Nxd2 Bxe2+ 24.Kg1 Bd3! 25.Rc1 Bxd2 leaves Black with a winning material advantage) 23.Rxe2 24.Rxc3 Nxf3+ 25.gxf3 Bh3 26.Rc1 Rxa2, leaving White paralyzed.
+15. Nxc3! 
+:Now both 16.Qxc3 Rfe8 and 16.Bxf8 Bxf8 favor Black.<ref name="Alexander p. 37">Alexander (1972), p. 37.</ref>
+ 
+16. Bc5 Rfe8+ 17. Kf1 (see diagram)
+:Byrne threatens Fischer's queen; Fischer brings his rook into play, displacing Byrne's king. It appears that Fischer must solve his problems with his queen, whereupon White can play 18.Qxc3, with a winning material advantage. Jack Straley Battell writes that the masters observing the game considered Black's position lost.<ref>Jack Straley Battell, Collier's Encyclopedia Vol 6 (1966), p 196</ref>
+17. Be6!!
+:This is the move that made this game famous. Instead of saving his queen, Fischer offers to sacrifice it. Fischer pointed out that 17.Nb5? loses to 18.Bxf7+ Kxf7 19.Qb3+ Be6 20.Ng5+ Kg8 21.Nxe6 Nxd4 22.Nxd4+ Qxb3 23.Nxb3.<ref>Fischer (1959), p. 65.</ref>
+18. Bxb6?
+:Byrne takes the offered queen, hoping to outplay his 13-year-old opponent in the ensuing complications, but Fischer gets far too much for it, leaving Byrne with a hopeless game. 18.Bxe6 would have been even worse, leading to a smothered mate with 18.Qb5+ 19.Kg1 Ne2+ 20.Kf1 Ng3+ 21.Kg1 Qf1+! 22.Rxf1 Ne2. 18.Qxc3 would have been met by 18.Qxc5! and if 19.dxc5, 19.Bxc3 and Black should win the endgame. White's best chance may have been 18.Bd3 Nb5!, which Kmoch wrote would also result in "a win for Black in the long run".<ref>Horowitz and Battell (1965), pp. 329-30.</ref>
+18. Bxc4+
+:Fischer now begins a 'windmill' series of , picking up material.
+19. Kg1 Ne2+ 20. Kf1 Nxd4+ 21. Kg1 
+:21.Rd3? axb6 22.Qc3 Nxf3 23.Qxc4 Re1# (Fischer).
+21. Ne2+ 22. Kf1 Nc3+ 23. Kg1 axb6
+:Fischer captures a piece, simultaneously attacking Byrne's queen.
+24. Qb4 Ra4!
+:Fischer's pieces cooperate nicely: the bishop on g7 protects the knight on c3, which protects the rook on a4, which in turn protects the bishop on c4 and forces Byrne's queen away. Perhaps Byrne overlooked this move when analyzing 18.Bxb6, expecting instead 24.Nxd1? 25.Qxc4, which is much less clear. Otherwise, it is hard to explain why Byrne played 18.Bxb6, since Black now has a clear .
+25. Qxb6
+:Trying to protect his rook with 25.Qd6 loses the queen to 25.Nxd1 26.Qxd1 Rxa2 threatening 27.Ra1.<ref name="Alexander p. 37"/>
+25. Nxd1 (see diagram)
+:Fischer has gained a rook, two bishops, and a pawn for his sacrificed queen, leaving him ahead the equivalent, roughly, of one – an easily winning advantage in master play. White's queen is far outmatched by Black's pieces, which dominate the board and will soon overrun White's position. Moreover, Byrne's remaining rook is stuck on h1 and it will take precious time (and the loss of the pawn on f2) to free it. Byrne could have resigned here, but chose to play on until checkmate, as a courtesy to Fischer's skill.<ref>One of Byrne's chess students related later why he played on: "First of all, you have to remember that in 1956 no one knew that Bobby Fischer was going to become Bobby Fischer! He was just a very promising 13-year-old kid who played a great game against me. When it got to the position where I was lost, I asked some of the other competitors if it might be a nice thing to let the kid mate me, as a kind of tribute to the fine game he played. They said, 'Sure, why not?' and so I did." Tim Krabbé, urltoken Open Chess Diary (scroll down to No. 241) (quoting Don Heisman).</ref>
+26. h3 Rxa2 27. Kh2 Nxf2 28. Re1 Rxe1 29. Qd8+ Bf8 30. Nxe1 Bd5 31. Nf3 Ne4 32. Qb8 b5
+:Note that every piece and pawn of Black's is defended, leaving White's queen with nothing to do.
+33. h4 h5 34. Ne5 Kg7
+:Fischer breaks the pin, allowing the bishop to attack as well.
+35. Kg1 Bc5+ (see diagram)
+:Now Fischer uses his pieces in concert to force mate.
+36. Kf1 Ng3+ 37. Ke1 Bb4+
+:Kmoch notes that with 37.Re2+ Fischer could have mated a move sooner.<ref>Horowitz and Battell (1965), p. 330.</ref>
+38. Kd1 Bb3+ 39. Kc1 Ne2+ 40. Kb1 Nc3+ 41. Kc1 Rc2 
+Asked how he was able to pull off such a brilliant win, Fischer said: "I just made the moves I thought were best. I was just lucky."<ref></ref>
+==See also==
+* Immortal Game
+* List of books and documentaries by or about Bobby Fischer
+* List of chess games
+==Notes==
+==References==
+*
+* Graham Burgess, John Nunn, and John Emms. The Mammoth Book of The World's Greatest Chess Games. 1998. . pp.&nbsp;213–16.
+* James Eade. Chess for Dummies. NY, NY: IDG Books. 1996. .
+* Fischer, Bobby. Bobby Fischer's Games of Chess. Simon and Schuster, Inc., 1959, pp.&nbsp;63–67.
+* 
+*
+* Wade, Robert G. and Kevin J. O'Connell. Bobby Fischer's Chess Games. 1972. . pp.&nbsp;110–13 (game 179).
+==Further reading==
+*
+==External links==
+* urltoken Annotated text of The Game of the Century source for this article, with permission
+* The game online 
+* Frank Brady, urltoken Bobby Fischer's Game of the Century, chessbase.com, May 29 2011
+* urltoken "The Byrne v Fischer ‘Game of the Century” by Edward Winter
+* urltoken Visualization, FEN and PGN of the game analysed by Stockfish on Lichess
+Videos
+* by thechesswebsite
+* by ChessNetwork
+* by kingscrusher
+
+The Game of the Century is a chess game that was won by the 13-year-old future world champion Bobby Fischer against Donald Byrne in the Rosenwald Memorial Tournament at the Marshall Chess Club in New York City on October 17, 1956. In Chess Review, Hans Kmoch dubbed it "The Game of the Century" and wrote: "The following game, a stunning masterpiece of play performed by a boy of 13 against a formidable opponent, matches the finest on record in the history of chess prodigies."<ref>Chess Review, December 1956, p. 374. Also available on DVD (p. 418 on Chess Review 1956 PDF file).</ref>

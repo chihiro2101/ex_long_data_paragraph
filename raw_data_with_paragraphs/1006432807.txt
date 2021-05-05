@@ -1,0 +1,139 @@
+Samguk sagi
+
+==Background==
+In taking on the task of compiling the Samguk sagi ("compiling" is more accurate than "writing" because much of the history is taken from earlier historical records), Kim Busik was consciously modeling his actions on China Imperial traditions, just as he modeled the history’s format after its Chinese forebears.
+Specifically, he was harking back to the work of Sima Qian, an official of the former Han Dynasty (206 BCE-24 CE). Nowadays known as the Records of the Grand Historian, this work was released circa 100 BCE under the more modest title of Shǐjì 史記, i.e. Scribe's Records. By allusion, Kim Busik called his own work 三國史記, i.e. Samguk sagi, where Sagi (nowadays 사기) was the Korean reading of the Chinese Shǐjì.<ref></ref>
+Adopted as well from Chinese historiographical tradition was the classic four-part division of the standard dynastic history into Annals (bongi, 本紀), Tables (pyo, 表), Monographs (ji, 志), and Biographies (yeoljeon, 列傳).
+There were various motivating factors behind the compilation of the Samguk sagi in the 12th century. These may roughly be categorized as ideological and political. The ideological factors are made manifest in the work's preface, written by Kim Busik, where the historian states,
+:Of today’s scholars and high-ranking officials, there are those who are well-versed and can discuss in detail the Five Classics and the other philosophical treatises. as well as the histories of Qin and Han, but as to the events of our country, they are utterly ignorant from beginning to end. This is truly lamentable.<ref></ref>
+In this quote can be discerned two clear motives. One was to fill the vast gap in knowledge concerning Korea's Three Kingdom Era. Though each of the three kingdoms of Goguryeo, Baekje, and Silla had produced their own histories, these were largely lost in the continual wars, the fall of Goguryeo and Baekje, and the dispersal of their records. The other motive was to produce a history that would serve to educate native Korean literati in native history, and provide them with Korean exemplars of Confucian virtues. This was especially important in mid-Goryeo as that dynasty became increasingly Confucianized. 
+But there were other factors not so clearly discerned. In Chinese tradition, the compilation of a dynastic history also served political ends. The dynastic history was written by the succeeding dynasty and the very act of writing it served to illustrate that the succeeding dynasty had inherited the mandate to rule from its predecessor. In this context, it should be remembered that the compilation of the Samguk sagi was an officially sponsored undertaking, commissioned by the Goryeo king, with the members of its compilation staff approved by the central bureaucracy. As stated earlier, one aspect of its purpose was to educate scholars and officials of the Confucianized bureaucracy in their native heritage, and native potential for attaining Confucian virtue.
+However, the fact that "native heritage" is primarily interpreted by the Samguk sagi to mean "Three Kingdoms heritage" brings us to the work’s ostensibly broader purpose, and that was to promote Three Kingdoms (in contrast to the competing neighbors like Buyeo, Mahan, and Gaya, which were absorbed into the Three Kingdoms) as the orthodox ruling kingdoms of Korea, and to thus solidify the legitimacy and prestige of the Goryeo state, as the Three Kingdoms’ rightful successor. In this way it helped to confer the idea of zhengtong 正統, or "orthodox line of succession", upon the new dynasty. Though this objective was not directly stated in the memorial Kim Busik submitted in 1145, the intent was clearly understood. It was with just such intent that Goryeo's King Injong tapped Kim Busik to compile the history of the Three Kingdoms. Goryeo’s quest, through the writing of the Samguk sagi, to secure its legitimacy and establish its continuation of the "mantle of authority" (or Mandate of Heaven) from the Three Kingdoms, meant as a necessary consequence that the compilers of the Samguk sagi, unlike those of the Jewang Ungi or the Goryeo Dogyeong (高麗圖經), emphasized United Silla, the last survivor among the Three Kingdoms, and ignored Balhae.
+==Contents==
+The Samguk sagi is divided into 50 Books. Originally, each of them was written on a scroll (권, 卷). They are reparted as follows:
+===Silla's Records===
+12 scrolls, Nagi/Silla bongi, 나기/신라 본기, 羅紀/新羅本紀.<ref></ref>
+:Book 01. Geoseogan Hyeokgeose, Chachaung Namhae, Isageum Yuri, Talhae, Pasa, Jima, Ilseong
+:Book 02. Isageum Adalla, Beolhyu, Naehae, Jobun, Cheomhae, Michu, Yurye, Girim, Heulhae
+:Book 03. Isageum Naemul, Silseong, Maripgan Nulji, Jabi, Soji
+:Book 04. Maripgan Jijeung, King Beopheung, Jinheung, Jinji, Jinpyeong 
+:Book 05. Queen Seondeok, Jindeok, King Taejong Muyeol
+:Book 06. King Munmu - Part One 
+:Book 07. King Munmu - Part Two 
+:Book 08. King Sinmun, Hyoso, Seongdeok
+:Book 09. King Hyoseong, Gyeongdeok, Hyegong, Seondeok
+:Book 10. King Wonseong, Soseong, Aejang, Heondeok, Heungdeok, Huigang, Minae, Sinmu
+:Book 11. King Munseong, Heonan, Gyeongmun, Heongang, Jeonggang, Queen Jinseong
+:Book 12. King Hyogong, Sindeok, Gyeongmyeong, Gyeongae, Gyeongsun
+===Goguryeo's Records===
+10 scrolls, Yeogi/Goguryeo bongi, 여기/고구려 본기, 麗紀/高句麗本紀.<ref></ref>
+:Book 13. Sage King Dongmyeong, Bright King Yuri,
+:Book 14. King Daemusin, Minjung, Mobon,
+:Book 15. Great King Taejo, King Chadae
+:Book 16. King Sindae, Gogukcheon, Sansang
+:Book 17. King Dongcheon, Jungcheon, Seocheon, Bongsang, Micheon
+:Book 18. King Gogukwon, Sosurim, Gogugyang, Gwanggaeto, Jangsu,
+:Book 19. Illustrious King Munja, King Anjang, Anwon, Yangwon, Pyeongwon,
+:Book 20. King Yeongyang, Yeongnyu
+:Book 21. King Bojang - Part One 
+:Book 22. King Bojang - Part Two
+===Baekje's Records===
+6 scrolls, Jegi/Baekje bongi, 제기/백제 본기, 濟紀/百濟本紀.<ref></ref>
+:Book 23. King Onjo (Dynastic Founder), Daru, Giru, Gaeru, Chogo
+:Book 24. King Gusu, Saban, Goi, Chaekgye, Bunseo, Biryu, Gye, Geunchogo, Geungusu, Chimnyu
+:Book 25. King Jinsa, Asin, Jeonji, Guisin, Biyu, Gaero
+:Book 26. King Munju, Samgeun, Dongseong, Muryeong, Seong
+:Book 27. King Wideok, Hye, Beop, Mu
+:Book 28. King Uija
+===Chronological Tables===
+3 scrolls, Yeonpyo, 연표, 年表.
+:Book 29.
+:Book 30.
+:Book 31.
+===Monographs===
+9 scrolls, Ji, 지, 志.<ref></ref>
+:Book 32. Rites and music
+:Book 33. Vehicles, clothing, and dwellings
+:Book 34. Geography of Silla
+:Book 35. Geography of Goguryeo and new names assigned by King Gyeongdeok
+:Book 36. Geography of Baekje and new names assigned by King Gyeongdeok
+:Book 37. Geography (this section is empty on urltoken 
+:Book 38. Silla government offices. 
+:Book 39. Silla government offices. 
+:Book 40. Silla government offices.
+===Biographies===
+10 scrolls, Yeoljeon, 열전, 列傳.<ref></ref>
+<!-- 52 items of various length. Brave soldiers, filial son, filial daughter, faithfull wife, scholar prototypes, brave soldiers,
+1+0+0+10+10+3+13+11+2+2=52
+-->
+:Book 41. Kim Yusin (1)
+:Book 42. Kim Yusin (2)
+:Book 43. Kim Yusin (3)
+:Book 44. Eulji Mundeok 을지문덕, Geochilbu 김거칠부 , Geodo 거도, Yi Sabu 이사부, Kim Immun 김인문, Kim Yang 김양, Heukchi Sangji 흑치상지, Jang Bogo 장보고, Jeong Nyeon 정년, Prince Sadaham 사다함공
+:Book 45. Eulpaso 을파소, Kim Hujik 김후직, nog zhēn 祿真, Milu 밀우, Nyuyu 유유 纽由, Myeongnim Dap-bu 명림답부, Seok Uro 석우로, Park Jesang 박제상, Gwisan 귀산, Ondal 온달
+:Book 46. Scholars. Kangsu 강수, Choe Chiwon, Seol Chong
+:Book 47. Hwarangs. Haenon 해론, Sona 소나, Chwido 취도(驟徒), Nulchoi 눌최, Seol Gyedu 설계두, Kim Ryeong-yun 김영윤(金令胤), Gwanchang 관창, Kim Heum-un 김흠운, Yeolgi 열기(裂起), Binyeongja 비령자(丕寧子), Jukjuk 죽죽, Pilbu 필부(匹夫), Gyebaek 계백
+:Book 48. Meritorious. Hyangdeok (son), Seonggak (son), Silhye 실혜 (實兮) (poet), Mulgyeja 물계자 (soldier), Teacher Baekgyeol 백결 선생 (music), Prince Kim 검군, Kim Saeng 김생 (calligrapher) and Yo Gukil, Solgeo 솔거 (painter), Chiun (daughter), Seolssi (daughter), Domi (wife).<ref></ref> 
+:Book 49. Overthrows. Chang Jori 창조리, Yeon Gaesomun 연개소문
+:Book 50. Later Kings. Gung Ye 궁예, Gyeon Hwon 견훤
+==Historical sources==
+The Samguk sagi was written on the basis of the Gu Samguksa (舊三國史, Old history of the Three Kingdoms), and other earlier historical records such as the Hwarang Segi (花郞世記, Annals of Hwarang), most of which are no longer extant.
+Concerning external sources, no references are made to the Japanese Chronicles, like the Kojiki 古事記, "Records of Ancient Matters" or the Nihon Shoki 日本書紀, Chronicles of Japan that were respectively released in 712 and 720. It is possible Kim Busik was ignorant of them, or scorned to quote a Japanese source. In contrast, he lifts generously from the Chinese dynastic chronicles and even unofficial Chinese records, most prominently the Wei shu (魏書, Book of Wei), Sanguo Zhi (三國志), Jin Shu (晉書), Jiu Tangshu (舊唐書, Old history of Tang), Xin Tangshu (新唐書, New history of Tang), and the Zizhi Tongjian (資治通鑑, Comprehensive mirror for aid in government).
+==Criticism==
+Kim Busik was a patrician of Silla origin, and though he himself was a practicing Buddhist, he supported Confucianism over Buddhism as the guiding principle of governance and favored presenting tributes to the Chinese emperor to prevent a conflict with China and in deference to the lofty (sadae). It thus appears that his background and tendencies would have been reflected in the Samguk sagi.
+Formally, Kingdoms of Goguryeo and Baekje are equally treated with Former Silla. All three are referred with the term "aguk (아국, 我國)" and their forces with the term "abyeong (아병, 我兵)", meaning "our nation" and "our troops" respectively. For example, in book 21 (Bojang of Goguryeo), Kim Busik praised Yang Manchun, a commander of Goguryeo who defeated Emperor Taizong of Tang at the Siege of Ansi Fortress and called him a hero.
+Nevertheless, in the Biographies portion, a majority of the subjects are from Silla (68%), while the Silla’s scrolls are filled with glorious examples of loyalty and bravery. In any case, it was easier to access documents from the victor state Silla than from the defeated other two Kingdoms whose archives were destroyed during the unification wars.<ref></ref>
+Some Korean historians, have criticized of the records provided in the Samguk sagi, citing this bias towards China and Former Silla. Among them, Sin Chaeho. According to McBride,<ref></ref> part of the theses of Sin Chaeho were that:
+:* the real hero of the Three Kingdoms period was the Koguryo General Ulchi Mundék, who, in 612, lured the huge invasion force of Sui Emperor Yang-ti into a trap at Salsu (Cheongcheon) River, engineering a spectacular victory (but only deserves a page in Book 44).
+:* on the contrary, Kim Yusin, the arch-hero who deserves Books 41 to 43, was not a famous general endowed with wisdom and bravery, but a politician who was wily and fierce as an eagle. The great merits of his life were not fought on the battlefield for he was a man who plagued his neighboring countries with secret machinations<ref></ref>
+:* moreover the compilers of the Samguk sagi turned Kim’s losses into trifling victories while exaggerating his petty victories<ref></ref>
+:* All these distorsions found in the Samguk sagi were motivated by a strict adherence to Confucianism and a loss of the martial spirit so apparent in the Three Kingdoms period. All things that were be responsible for Korea’s sinicization and for the loss of the old Manchurian domain of Goguryeo.
+But concerning a possible sadaejuui towards China, one can note (with McBride<ref></ref>) 
+:The King said, ‘The Tang forces have destroyed our enemies for us; and yet, to the contrary, if we make war with them, will Heaven help us?’ 
+:Yusin said, ‘A dog is scared of its master and yet if the master steps on its legs it will bite him. How is it that in encountering this difficulty we cannot extricate ourselves? I request thee, Great King, to permit it.’ (Book 42)
+And about possible sadaejuui towards the Goryeo powerful people and class complicity, one can note (with Kim Kichung<ref></ref>) that many biographies are two sided in their conclusions. For example, in the Jukjuk biography (Book 47), the focus is less about the valor and patriotism of the layman Jukjuk himself and more about the misbehaviour of Prince Kim Pumseok, i.e. of the top aristocracy, even in Silla.
+In any case, it is clear that Kim Busik's Samguk sagi is critical to the study of Korean history during the Three Kingdoms and Unified Silla periods. Not only because this work, and its Buddhist counterpart Samguk yusa, are the only remaining Korean sources for the period, but also because the Samguk Sagi contains a large amount of information and details. For example, the translation tables given in Books 35 and 36 have been used for a tentative reconstruction of the former Koguryeo language.<ref></ref>
+==Bibliography==
+===Raw text===
+*
+----------->
+Translation of the whole Silla bongi
+* 
+Translation of the whole Goguryeo bongi
+* 
+Translation of the whole Baekje bongji
+* 
+Isolated translations
+* 
+* Gardiner, Kenneth H.J. 1982. "Legends of Koguryǒ (I-II): Samguk sagi, Annals of Koguryǒ." Korea Journal, 22(1): 60-69 and 22(2): 31-48. translation of book one of the Goguryeo bongi.
+* Jamieson, John Charles. 1969. "The Samguk sagi and the Unification Wars." Ph.D. dissertation, University of California, Berkeley. Translation of books 6 and 7 of the Silla bongi and eleven of the biographies, mostly of men of Silla.
+* Lee, Soyun, and Shin Jeongsoo. 2018. "Chapters 44 and 45 of the 'Samguk sagi': An Annotated Translation of Biography sic of Eulji Mundeok and Others." The Review of Korean Studies, 21(2): 165-145. translations of books 44 and 45 of the biographies section.
+* Na, Sanghoon, You Jinsook, and Shin Jeongsoo. 2018. "Chapter 41, 42 and 43 of the Samguk sagi: An Annotated Translation of sic Biography of Kim Yusin." The Review of Korean Studies, 21(1): 191-262.
+===Reference Books===
+*
+*
+*
+*
+* 
+===Public Domain Research Papers===
+* 
+* .
+* 
+* 
+* 
+===References to be completed===
+* Gardiner, K.H.J. "Samguk sagi and its Sources." Papers on Far Eastern History, 2 (September 1970): 1-41.
+: rem East Asian History is available at urltoken 
+* Shim, Seungja. "Plants and Animals in the Place Names of Samguk Sagi." In Proceedings of the 9th Annual Conference, 10–15 April 1985, Association for Korean Studies in Europe. Le Havre: Association for Korean Studies in Europe, 1985.
+* Soloviov, Alexander V. "Kim Busik's Samguk Sagi: the 12th Century Man Viewpoint on Korean Culture". Major Issues in History of Korean Culture: Proceedings of the 3rd International Conference on Korean Studies, Moscow, December 17–20, 1996. Moscow: International Center for Korean Studies, 1997:71-74.
+* Yi, Chong-hang. "On the True Nature of 'Wae' in Samguk sagi." Korea Journal, 17:11 (November 1977): 51-59.
+==See also==
+*Samguk Yusa
+*Goryeo-sa
+*Annals of Joseon Dynasty
+*Rulers of Korea
+*List of Korea-related topics
+*Placename glosses in the Samguk sagi
+==References==
+
+Samguk sagi , History of the Three Kingdoms) is a historical record of the Three Kingdoms of Korea: Goguryeo, Baekje and Silla. The Samguk sagi is written in Classical Chinese, the written language of the literati of ancient Korea, and its compilation was ordered by King Injong of Goryeo (r. 1122-1146) and undertaken by the government official and historian Gim Busik (金富軾) and a team of junior scholars. Completed in 1145, it is well known in Korea as the oldest surviving chronicle of Korean history.

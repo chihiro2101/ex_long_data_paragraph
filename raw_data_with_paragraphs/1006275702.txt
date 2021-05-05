@@ -1,0 +1,58 @@
+Rube Goldberg machine
+
+==Origin==
+The expression is named after the American cartoonist Rube Goldberg, whose cartoons often depicted
+devices that performed simple tasks in indirect convoluted ways. The cartoon above is Goldberg's Professor Butts and the Self-Operating Napkin, which was later reprinted in a few book collections, including the postcard book Rube Goldberg's Inventions! and the hardcover Rube Goldberg: Inventions, both compiled by Maynard Frank Wolfe from the Rube Goldberg Archives.<ref></ref>
+The term "Rube Goldberg" was being used in print to describe elaborate contraptions by 1928,<ref></ref> and appeared in the Random House Dictionary of the English Language in 1966 meaning "having a fantastically complicated improvised appearance", or "deviously complex and impractical".<ref></ref> Because Rube Goldberg machines are contraptions derived from tinkering with the tools close to hand, parallels have been drawn with evolutionary processes.<ref></ref>
+Many of Goldberg's ideas were utilized in films and TV shows for the comedic effect of creating such rigmarole for such a simple task, such as the front gate mechanism in The Goonies and the breakfast machine shown in Pee-wee's Big Adventure. In Ernest Goes to Jail, Ernest P. Worrell uses his invention simply to turn his TV on. Wallace from Wallace and Gromit creates and uses many such machines for numerous tasks, though the inspiration is the British cartoonist W. Heath Robinson (see below)<ref> urltoken "William Heath Robinson museum set to open" 13 October 2016 BBC</ref> Other films such as Chitty Chitty Bang Bang, Diving into the Money Pit, and Back To The Future have featured Rube Goldberg–style devices as well.
+==Competitions==
+thumb
+In early 1987, Purdue University in Indiana started the annual National Rube Goldberg Machine Contest, organized by the Phi chapter of Theta Tau, a national engineering fraternity. In 2009, the Epsilon chapter of Theta Tau established a similar annual contest at the University of California, Berkeley.
+Since around 1997, the kinetic artist Arthur Ganson has been the emcee of the annual "Friday After Thanksgiving" (FAT) competition sponsored by the MIT Museum in Cambridge, Massachusetts. Teams of contestants construct elaborate Rube Goldberg style chain-reaction machines on tables arranged around a large gymnasium. Each apparatus is linked by a string to its predecessor and successor machine. The initial string is ceremonially pulled, and the ensuing events are videotaped in closeup, and simultaneously projected on large screens for viewing by the live audience. After the entire cascade of events has finished, prizes are then awarded in various categories and age levels. Videos from several previous years' contests are viewable on the MIT Museum website.<ref name=FAT></ref>
+The Chain Reaction Contraption Contest<ref></ref> is an annual event hosted at the Carnegie Science Center in Pittsburgh, Pennsylvania in which high school teams each build a Rube Goldberg machine to complete some simple task (which changes from year to year) in 20 steps or more (with some additional constraints on size, timing, safety, etc.).
+On the TV show Food Network Challenge, competitors in 2011 were once required to create a Rube Goldberg machine out of sugar.<ref name="Challenge"></ref>
+An event called 'Mission Possible'<ref></ref> in the Science Olympiad involves students building a Rube Goldberg-like device to perform a certain series of tasks.
+The Rube Goldberg company holds an annual Rube Goldberg machine contest.<ref></ref>
+==Similar expressions and artists worldwide==
+* Australia—cartoonist Bruce Petty depicts such themes as the economy, international relations or other social issues as complicated interlocking machines that manipulate, or are manipulated by, people.
+* Austria—Franz Gsellmann worked for decades on a machine that he named the Weltmaschine ("world machine"),<ref> urltoken Die Weltmaschine des Franz Gsellmann . Weltmaschine.at (2010-12-18). Retrieved on 2011-05-06. Franz Gsellmann's world machine</ref> having many similarities to a Rube Goldberg machine.
+* Belgium - Léonard (comics) occasionally contains such machines (e.g. a giant egg-cracking device for regular-sized eggs).
+* Brazil - a TV Series from 1990 to 1994 had the intro based on a Rube Goldberg Machine. The show, Rá-Tim-Bum, was created by Flávio de Souza and was about Science for children.
+* Denmark—called Storm P maskiner ("Storm P machines"), after the Danish inventor and cartoonist Robert Storm Petersen (1882–1949).
+* France—a similar machine is called usine à gaz, or gasworks, suggesting a very complicated factory with pipes running everywhere and a risk of explosion. It is now used mainly among programmers to indicate a complicated program, or in journalism to refer to a bewildering law or regulation (cf. Stovepipe system).
+* Germany—such machines are often called Was-passiert-dann-Maschine ("What happens next machine") for the German name of similar devices used by Kermit the Frog in the children's TV series Sesame Street.
+* India—the humorist and children's author Sukumar Ray, in his nonsense poem "Abol tabol", had a character (Uncle) with a Rube Goldberg-like machine called "Uncle's contraption"(khuror kol). This word is used colloquially in Bengali to mean a complicated and useless object.
+* Italy—Italian Renaissance artist and scientist Leonardo da Vinci described an alarm clock-esque device which, utilizing a slow drip of water, would fill a vessel which then operated a lever to wake the sleeper.<ref></ref>
+* Japan—"Pythagorean devices" or "Pythagoras switch". PythagoraSwitch (ピタゴラスイッチ, "Pitagora Suicchi") is the name of a TV show featuring such devices. Another related genre is the Japanese art of chindōgu, which involves inventions that are hypothetically useful but of limited actual utility.
+* Spain—devices akin to Goldberg's machines are known as Inventos del TBO (tebeo), named after those that several cartoonists (Nit, Tínez, Marino Benejam, Frances Tur and finally Ramón Sabatés) made up and drew for a section in the comic book magazine TBO, allegedly designed by some "Professor Franz" from Copenhagen in Denmark.
+* Switzerland—Peter Fischli & David Weiss, Swiss artists known for their art installation movie Der Lauf der Dinge (The Way Things Go, 1987). It documents a 30-minute-long causal chain assembled of everyday objects, resembling a Rube Goldberg machine.
+* Turkey—such devices are known as Zihni Sinir Projeleri, allegedly invented by a certain Professor Zihni Sinir ("Crabby Mind"), a curious scientist character created by İrfan Sayar in 1977 for the cartoon magazine Gırgır. The cartoonist later went on to open a studio selling actual working implementations of his designs.
+* United Kingdom—the term "Heath Robinson contraption" gained dictionary recognition in 1912, referring to the fantastical comic machinery drawn by British cartoonist and illustrator W. Heath Robinson, which predates Rube Goldberg's introduction of his machines.<ref> urltoken History – Historic Figures: William Heath Robinson (1872–1944) . BBC. Retrieved on 2011-05-06.</ref> There are similarities between some of Heath Robinson's contraptions and the Rube Goldberg example shown and described above. See also Rowland Emett, active in the 1950s. The TV show The Great Egg Race (1979 to 1986) also involved making physical contraptions to solve set problems, and often resulted in Heath-Robinsonian devices.<ref>The Great Egg Race</ref> 
+* United States—Tim Hawkinson has made several art pieces that contain complicated apparatuses that are generally used to make abstract art or music. Many of them are centered on the randomness of other devices (such as a slot machine) and are dependent on them to create some menial effect.
+* Zoom - On the special quarantine episode of Mythic Quest on Apple TV+ the cast use a Zoom call at the end to create a Rube Goldberg Machine going through multiple user screens just to deliver a crisp to one of the members in the zoom chat. It includes various contraptions on the way including balls, dominoes and even someone turning their video calling on at the last second to create the effect.
+==See also==
+* Cog (advertisement)
+* Deathtrap (plot device)
+* Domino effect
+* Gyro Gearloose
+* Mouse Trap (1960s game)
+* Perchang, a game in which the player operates a Rube-Goldberg like machine to get balls into a funnel
+* Rolling ball sculpture
+* The Incredible Machine (series)
+* This Too Shall Pass (OK Go song), the video of which features a Rube Goldberg style machine
+* Turboencabulator
+* Veeblefetzer
+==References==
+==External links==
+* urltoken The Official Rube Goldberg Web Site
+* urltoken Rube Works: The Official Rube Goldberg Invention Game
+* urltoken Smithsonian Archives of American Art: Oral History Interview, 1970
+* urltoken Annual National Rube Goldberg Machine Contest
+* urltoken Detailed specifications of an award-winning Rube Goldberg machine from the New York City science fair
+* urltoken Friday After Thanksgiving (FAT) chain reaction competition at the MIT Museum
+*
+
+A Rube Goldberg machine, named after American cartoonist Rube Goldberg, is a chain reaction-type machine or contraption intentionally designed to perform a simple task in an indirect and overly complicated way. Usually, these machines consist of a series of simple unrelated devices; the action of each triggers the initiation of the next, eventually resulting in achieving a stated goal. In the United Kingdom, a similar contrivance is referred to as a "Heath Robinson contraption" after cartoons by the illustrator W. Heath Robinson.
+The design of such a "machine" is often presented on paper and would be impossible to implement in actuality. More recently, such machines are being fully constructed for entertainment (for example, a breakfast scene in Peewee's Big Adventure) and in Rube Goldberg competitions.
+Image:Rube Goldberg's "Self-Operating Napkin" (cropped).gif|right|thumb|428px|Professor Butts and the Self-Operating Napkin (1931). Soup spoon (A) is raised to mouth, pulling string (B) and thereby jerking ladle (C), which throws cracker (D) past toucan (E). Toucan jumps after cracker and perch (F) tilts, upsetting seeds (G) into pail (H). Extra weight in pail pulls rope (I), which opens and ignites lighter (J), setting off skyrocket (K), which causes sickle (L) to cut string (M), allowing pendulum with attached napkin to swing back and forth, thereby wiping chin.
+Over the years, the expression has expanded to mean any confusing or overly complicated system. For example, news headlines include "Is Rep. Bill Thomas the Rube Goldberg of Legislative Reform?"<ref> urltoken Economist's View: Is Rep. Bill Thomas the Rube Goldberg of Legislative Reform? . Economistsview.typepad.com (2005-06-06). Retrieved on 2011-05-06.</ref> and "Retirement 'insurance' as a Rube Goldberg machine".<ref> urltoken Social Security's Progressive Paradox – Reason Magazine . Reason.com (2005-05-02). Retrieved on 2011-05-06.</ref>

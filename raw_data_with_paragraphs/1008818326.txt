@@ -1,0 +1,178 @@
+Siege of Boston
+
+==Background==
+Prior to 1775, the British imposed taxes and import duties on the American colonies, to which the inhabitants objected since they No taxation without representation. In response to the Boston Tea Party and other acts of protest, 4,000 British troops under the command of General Thomas Gage were sent to occupy Boston and to pacify the restive Province of Massachusetts Bay.<ref name="Chidsey5">Chidsey, p. 5</ref> Parliament authorized Gage, Intolerable Acts, to disband the local provincial government (led by John Hancock and Samuel Adams). It was reformed into the Provincial Congress, and continued to meet. The Provincial Congress called for the organization of local militias and coordinated the accumulation of weapons and other military supplies.<ref name="FrothinghamProvCong">Frothingham, pp. 35, 54</ref> Under the terms of the Boston Port Act, Gage closed the Boston port, which caused much unemployment and discontent.<ref name="Frothingham7">Frothingham, p. 7</ref>
+When British forces were sent to seize military supplies from the town of Concord on April 19, 1775, militia companies from surrounding towns opposed them at the Battles of Lexington and Concord.<ref name="McCullough7">McCullough, p. 7</ref> At Concord, some of the British forces were routed in a confrontation at the North Bridge. The British troops, on their march back to Boston, were then engaged in a running battle, suffering heavy casualties.<ref name="SeeLC">See Battles of Lexington and Concord for the full story.</ref> All of the New England colonies (and later colonies farther south) raised militias in response to this alarm, and sent them to Boston.<ref name="Frothingham100"/>
+== Order of battle ==
+=== British Army ===
+The British army order of battle in July 1775 was:<ref>George Nafziger, urltoken British Forces under Howe 16 July 1775, United States Army Combined Arms Center.</ref>
+* Commander-in-Chief of the British Army in America, Major General William Howe, 5th Viscount Howe
+* Commander of Artillery & Engineers, Colonel Cleveland (commanding officer of the 4th Battalion)
+** No.1 Company, 4th Battalion, Royal Artillery
+** No.2 Company, 4th Battalion, Royal Artillery
+** No.4 Company, 4th Battalion, Royal Artillery
+** No.5 Company, 4th Battalion, Royal Artillery
+** No.8 Company, 4th Battalion, Royal Artillery
+** x2 Companies of Invalids
+* 1st Division, commanded by Major General Sir Henry Clinton
+** 17th Lancers#American Revolution (4 Squadrons)
+** 1st Brigade, commanded by Brigadier General Hugh Percy, 2nd Duke of Northumberland
+*** 4th (The King's Own) Regiment of Foot
+*** 23rd Regiment of Foot
+*** 44th Regiment of Foot
+*** 59th Regiment of Foot
+** 3rd Brigade, commanded by Brigadier General Paget
+*** 10th Regiment of Foot
+*** 33rd Regiment of Foot
+*** 47th Regiment of Foot
+*** 1st Battalion, Royal Marines
+** 5th Brigade, commanded by Brigadier General James Grant, Laird of Ballindalloch
+*** 22nd Regiment of Foot
+*** 43rd Regiment of Foot
+*** 52nd Regiment of Foot
+* 2nd Division, commanded by Major General John Burgoyne
+** 2nd Brigade, commanded by Brigadier General Jones
+*** 5th Regiment of Foot
+*** 35th Regiment of Foot
+*** 45th Regiment of Foot
+*** 53rd Regiment of Foot
+** 4th Brigade, commanded by Brigadier General James Robertson
+*** 18th Regiment of Foot/65th Regiment of Foot (combined)
+*** 40th Regiment of Foot
+*** 49th Regiment of Foot
+*** 2nd Battalion, Royal Marines
+=== Royal Navy ===
+* British North American Squadron (only those ships based in/around Boston listed)<ref>George Nafziger, urltoken British North American Squadron 1 January 1775, United States Army Combined Arms Center.</ref>
+** HMS Boyne (1766)
+** HMS Somerset (1748)
+** HMS Asia (1764)
+** HMS Preston (1757)
+** HMS Mercury (1756)
+** HMS Glasgow (1757)
+** HMS Diana (1775)
+* In Marblehead, Massachusetts:
+** HMS Lively (1756)
+=== United Colonies Army ===
+* Army of Massachusetts (Continental Army), commanded by the Commander-in-Chief, General George Washington<ref>George Nafziger, urltoken American Army of the United Colonies August 1775, United States Army Combined Arms Center.</ref>
+** Commander of Artillery, Brigadier General Henry Knox
+*** Continental Artillery Regiment
+*** Rhode Island Artillery Company
+** Massachusetts Line
+*** Frye's Massachusetts Regiment
+*** Pennsylvania Rifle Regiment
+*** Learned's Massachusetts Regiment
+*** Nixon's Massachusetts Regiment
+*** J. Brewer's Massachusetts Regiment
+*** Fellow's Massachusetts Regiment
+*** D. Brewer's Massachusetts Regiment
+*** Prescott's Massachusetts Regiment
+*** Cotton's Massachusetts Regiment
+*** Little's Massachusetts Regiment
+*** Danielson's Massachusetts Regiment
+*** Mansfield's Massachusetts Regiment
+*** Read's Massachusetts Regiment
+*** Glover's Massachusetts Regiment
+*** Walker's Massachusetts Regiment
+*** Whitcomb's Massachusetts Regiment
+*** Woodbridge's Massachusetts Regiment
+*** Bridge's Massachusetts Regiment
+*** Sargent's Massachusetts Regiment
+*** Scammon's Massachusetts Regiment
+*** Phinney's Massachusetts Regiment
+*** Ward's Massachusetts Regiment
+*** Thomas's Massachusetts Regiment
+*** Heath's Massachusetts Regiment
+*** Gardner's Massachusetts Regiment
+*** Gerrish's Massachusetts Regiment
+** New Hampshire Line
+*** 1st New Hampshire Regiment
+*** 2nd New Hampshire Regiment
+*** 3rd New Hampshire Regiment
+** Rhode Island Line
+*** 1st Rhode Island Regiment
+*** 2nd Rhode Island Regiment
+*** 3rd Rhode Island Regiment
+** Connecticut Line
+*** 2nd Connecticut Regiment
+*** 3rd Connecticut Regiment
+*** 6 cos, 2 from 4th Connecticut Regiment
+*** 6th Connecticut Regiment
+*** 8th Connecticut Regiment
+==Siege==
+===Digging in===
+Immediately after the battles of April 19, the Massachusetts militia, under the loose leadership of William Heath, who was superseded by General Artemas Ward late on the 20th,<ref name="McCullough35">McCullough, p. 35</ref> formed a siege line extending from Chelsea, around the peninsulas of Boston and Charlestown, to Roxbury, effectively surrounding Boston on three sides. They particularly blocked the Charlestown Neck (the only land access to Charlestown), and the Boston Neck (the only land access to Boston, which was then a peninsula), leaving only the harbor and sea access under British control.<ref name="Frothingham100">Frothingham, pp. 100–101</ref>
+In the days immediately following the creation of the siege line, the size of the colonial forces grew, as militias from New Hampshire, Rhode Island, and Connecticut arrived on the scene.<ref name="Frothingham100"/> General Gage wrote of his surprise of the number of rebels surrounding the city: "The rebels are not the despicable rabble too many have supposed them to be.In all their wars against the French they never showed such conduct, attention, and perseverance as they do now."<ref name="Harvey1">Harvey, p. 1</ref>
+General Gage turned his attention to fortifying easily defensible positions. In the south, at Roxbury, Gage ordered lines of defenses with 10 twenty-four pound guns. In Boston proper, four hills were quickly fortified. They were to be the main defense of the city.<ref>French, p. 236</ref> Over time, each of these hills was strengthened.<ref>French, p. 237</ref> Gage also decided to abandon Charlestown, removing the beleaguered forces (that had retreated from Concord) to Boston. The town of Charlestown itself was entirely vacant, and the high lands of Charlestown (Bunker Hill and Breed's Hill) were left undefended, as were the Dorchester Heights, which had a commanding view of the harbor and the city.<ref name="FrenchUndefended">French, pp. 126–128,220</ref>
+The British at first greatly restricted movement in and out of the city, fearing infiltration of weapons. Besieged and besiegers eventually reached an informal agreement allowing traffic on the Boston Neck, provided no firearms were carried. Residents of Boston turned in almost 2,000 muskets, and most of the Patriot residents left the city.<ref name="Chidsey53">Chidsey, p. 53</ref> Many Loyalists who lived outside the city of Boston left their homes and fled into the city. Most of them felt that it was not safe to live outside of the city, because the Patriots were now in control of the countryside.<ref name="French228">French, p. 228</ref> Some of the men, after arriving in Boston, joined Loyalist regiments attached to the British army.<ref name="French234">French, p. 234</ref>
+Because the siege did not blockade the harbor, the city remained open for the Royal Navy, under Samuel Graves, to bring in supplies from Nova Scotia and other places. Colonial forces could do little to stop these shipments due to the naval supremacy of the British fleet. Nevertheless, American privateers were able to harass supply ships, and food prices rose quickly. Soon the shortages meant the British forces were on short rations. Generally, the American forces were able to gather information about what was happening in the city from people escaping the privations of Boston, but General Gage had no effective intelligence of rebel activities.<ref name="McCullough118">McCullough, p. 118</ref>
+===Early skirmishes===
+On May 3, the Massachusetts Provincial Congress authorized Benedict Arnold to raise forces for taking Fort Ticonderoga near the southern end of Lake Champlain in the Province of New York, which was known to have heavy weapons, but to be only lightly defended. Arnold arrived in Castleton (in what is now Vermont, but was then disputed territory between New York and New Hampshire) on the 9th, where he joined with Ethan Allen and a militia company from Connecticut, all of whom had independently arrived at the idea of taking Ticonderoga. This company, under the joint leadership of Arnold and Allen, captured Fort Ticonderoga and Fort Crown Point. They also captured the one large military vessel on Lake Champlain in a raid on Fort Saint-Jean.<ref name="Fisher318">Fisher, pp. 318–321</ref> They recovered over 180 cannons, as well as other weaponry and supplies that the nascent Continental Army would find useful in tightening their grip on Boston.<ref name="Chidsey60">Chidsey, p. 60</ref>
+Boston lacked a regular supply of fresh meat, and many horses needed hay. On May 21, Gage ordered a party to go to Grape Island, in the outer harbor, and bring hay to Boston.<ref name="French248">French, p. 248</ref> When the Continentals on the mainland noticed this, they took alarm, and the militia were called out. As the British party arrived, they came under fire from the militia. The militia set fire to a barn on the island, destroying 80 tons of hay, and prevented the British from taking more than 3 tons.<ref name="French248"/>
+Continental forces, partly in response to the Grape Island incident, worked to clear the harbor islands of livestock and supplies useful to the British. On May 27, in the Battle of Chelsea Creek, the Royal Marines attempted to stop removal of livestock from some of the islands. The Americans resisted, and, in the course of the action, the British schooner Diana ran aground and was destroyed, but not before the Continentals recovered its weaponry.<ref name="French249"/> In an attempt to help quell the rebellion, Gage issued a proclamation on June 12 offering to pardon all of those who would lay down their arms, with the exception of John Hancock and Samuel Adams.<ref name="French251">French, p. 251</ref><ref></ref> Instead of quelling the rebellion, it ignited anger among the Patriots, and more people began to take up arms.<ref name="French251"/>
+===Breed's Hill===
+Throughout May, the British had been receiving reinforcements, until they reached a strength of about 6,000 men. On May 25, three Generals arrived on : William Howe, John Burgoyne, and Henry Clinton. Gage began planning to break out of the city.<ref name=French249>French, p. 249</ref>
+The plan decided on by the British command was to fortify both Bunker Hill and Dorchester Heights. They fixed the date for taking Dorchester Heights at June 18. On June 15, the colonists' Committee of Safety learned of the British plans. In response, they sent instructions to General Ward to fortify Bunker Hill and the heights of Charlestown; he ordered Colonel William Prescott to do so. On the night of June 16, Prescott led 1,200 men over the Charlestown Neck, and constructed fortifications on Bunker Hill and Breed's Hill.<ref name="French255">French, pp. 255–258</ref>
+On June 17, in the Battle of Bunker Hill, British forces under General Howe took the Charlestown peninsula.<ref name="French288">French, p. 288</ref> The British succeeded in their tactical objective of taking the high ground on the Charlestown peninsula, but they suffered significant losses. With some 1,000 men killed or wounded, including 92 officers killed, the British losses were so heavy that there were no further direct attacks on American forces.<ref name="French284">French, p. 284</ref> The Americans, while losing the battle, had again stood against the British regulars with some success, as they had successfully repelled two assaults on Breed's Hill during the engagement.<ref name="French272">French, pp. 272–273</ref> From this point, the siege essentially became a stalemate.
+===Stalemate===
+General George Washington arrived at Cambridge on July 2. He set up his headquarters at the Benjamin Wadsworth House at Harvard College.<ref> urltoken Benjamin Wadsworth House from Historic Buildings of Massachusetts.</ref> He took command of the newly formed Continental Army the following day. By this time forces and supplies were arriving, including companies of Rifleman from as far away as Maryland and Virginia.<ref name="Chidsey117">Chidsey, p. 117</ref> Washington began the work of molding the militias into something more closely resembling an army, appointing senior officers (where the militias had typically elected their leaders), and introducing more organization and disciplinary measures to the encamped militias.<ref name="Chidsey113">Chidsey, p. 113</ref>
+Washington required officers of different ranks to wear differentiating apparel, so that they might be distinguished from their underlings and superiors.<ref name="Chidsey112">Chidsey, p. 112</ref> On July 16, he moved his headquarters to the John Vassall House, also in Cambridge, that would later become well known as the home of Henry Wadsworth Longfellow. Toward the end of July, about 2,000 riflemen arrived in units raised in Pennsylvania, Maryland, and Virginia. The accuracy of the rifle was previously unknown in New England, and these forces were used to harass the besieged forces.<ref name="Frothingham227">Frothingham, pp. 227–228</ref>
+Washington also ordered the defenses to be improved. Trenches were dug on the Boston Neck, and then extended toward Boston. However, these activities had little effect on the British occupation.<ref>McCullough, p. 10</ref> The working parties were fired on from time to time, as were sentries guarding the works. On July 30, in retaliation for an American attack, the British pushed back an American advanced guard, and burned a few houses in Roxbury.<ref name="French337">French, p. 337</ref> Four days later, on August 2, an American rifleman was killed, and his body hung up by the neck. In retaliation, other American riflemen marched to the lines and began to attack the British troops. They continued their sharpshooting all day, killing or wounding many of the British, and losing only one man.<ref name="McCullough39"/>
+On August 30, the British made a surprise breakout from the Boston Neck, set fire to a tavern, and withdrew to their defenses.<ref name="McCullough39">McCullough, p. 39</ref> On the same night, 300 Americans attacked Boston Light and burned the lighthouse, killing several British soldiers and capturing 23 at the loss of one life.<ref name="McCullough39"/> On another August night, Washington sent 1,200 men to dig entrenchments on a hill near the Charlestown Neck. Despite a British bombardment, the Americans successfully dug the trenches.<ref name="French311">French, p. 311</ref>
+In early September, Washington began drawing up plans for two moves: first, to dispatch 1,000 men from Boston and invade Quebec, and second, to launch an attack on Boston.<ref name="McCullough50">McCullough, p. 50</ref> Washington felt that he could afford to send some troops to Quebec, as he had received intelligence from British deserters and American spies that the British had no intention of launching an attack from Boston until they were reinforced.<ref name="McCullough51">McCullough, p. 51</ref> On September 11, about 1,100 troops under the command of Benedict Arnold left for Quebec.<ref name="SmithMarch57">Smith, pp. 57–58</ref> Washington summoned a council of war, and made a case for an all out amphibious assault on Boston, by sending troops across Back Bay in flat-bottomed boats which could hold 50 men each.<ref name="McCullough53">McCullough, p. 53</ref> Washington believed it would be extremely difficult to keep the men together when winter came. In a war council, the plan was unanimously rejected, and the decision was not to attack "for the present at least."<ref name="McCullough53"/>
+In early September Washington authorized the appropriation and outfitting of local fishing vessels for intelligence-gathering and interdiction of supplies to the British. This activity was a precursor to the Continental Navy, which was established in the aftermath of the British Burning of Falmouth (present-day Portland, Maine). The provincial assemblies of Connecticut and Rhode Island had by then also begun arming ships and authorized privateering.<ref name="French319">French, pp. 319–320</ref>
+In early November, 400 British soldiers went to Lechmere Square on a raiding expedition to acquire some livestock. They made off with 10 head of cattle, but lost two lives in the skirmish with colonial troops sent to defend the point.<ref name="French338">French, p. 338</ref><ref name="Frothingham267">Frothingham, p. 267</ref> On November 29, colonial Captain John Manley, commanding the schooner Lee, captured one of the most valuable prizes of the siege, the British brigantine Nancy, just outside Boston Harbor. She was carrying a large supply of ordnance and military stores intended for the British troops in Boston.<ref name="Chidsey133">Chidsey, p. 133</ref>
+As winter approached, both sides faced their own problems. The Americans were so short of gunpowder that some of the soldiers were given spears instead of guns to fight with in the event of a British attack.<ref name="McCullough60">McCullough, p. 60</ref> Many of the American troops remained unpaid and many of their enlistments were set to expire at the end of the year. On the British side Howe, who had replaced Gage as commander in October, was faced with different problems. Wood was so scarce that British soldiers resorted to cutting down trees and tearing down wooden buildings, including the Old North Meeting House.<ref name="The North End">p.78</ref>
+To add to this, supplying the city had become increasingly difficult because of winter storms and the rise in rebel privateers.<ref name="McCullough60"/> An improvised American war fleet of about 12 converted merchant ships captured 55 British ships over the course of the winter. Many of the captured ships had been carrying food supplies to the British troops.<ref></ref> The British troops were so hungry that many were ready to desert as soon as they could. Worse, scurvy and smallpox had broken out in the city.<ref name="McCullough61">McCullough, p. 61</ref> Washington's army faced similar problems with smallpox, as soldiers from rural communities were exposed to the disease. Washington moved infected troops to a separate hospital, the only option then available given the public stigma against inoculation.<ref>Ann M. Becker, "Smallpox in Washington's Army: Strategic Implications of the Disease During the American Revolutionary War, The Journal of Military History, Vol. 68 No. 2 (April 2004) 388</ref>
+Washington again proposed to assault Boston in October, but his officers thought it best to wait until the harbor had frozen over.<ref name="French330">French, p. 330</ref> In February, when the water had frozen between Roxbury and Boston Common, Washington thought that in spite of his shortage in powder he would try an assault by rushing across the ice; but his officers again advised against it. Washington's desire to launch an attack on Boston arose from his fear that his army would desert in the winter, and how easily he knew that Howe could break the lines of his army in its present condition. He had not yet learned how completely he could trust in Howe's inactivity; he abandoned an attack across the ice with great reluctance in exchange for a more cautious plan, to fortify Dorchester Heights using cannon arrived from Fort Ticonderoga.<ref name="Fisher1">Fisher, p. 1</ref><ref name="Frothingham295">Frothingham, pp. 295–296</ref>
+In mid-January, on orders from London, British Major General Henry Clinton and a small fleet set sail for the Carolinas with 1,500 men. Their objective was to join forces with additional troops arriving from Europe, and to take a port in the southern colonies for further military operations.<ref name="McCullough78">McCullough, p. 78</ref> In early February a British raiding party crossed the ice and burned several farmhouses in Dorchester.<ref name="McCullough86">McCullough, p. 86</ref>
+==End of the siege==
+Between November 1775 and February 1776, Colonel Henry Knox and a team of engineers used sledges to retrieve 60 tons of heavy artillery that had been captured at Fort Ticonderoga. Bringing them across the frozen Hudson and Connecticut rivers in a difficult, complex operation, they arrived back at Cambridge on January 24, 1776.<ref name="McCullough84">McCullough, p. 84</ref>
+===Fortification of Dorchester Heights===
+Some of the Ticonderoga cannons, which were of a size and range not previously available to the Americans, were emplaced in fortifications around the city, and on the night of March 2, 1776, the Americans began to bombard the city with those cannon, to which the British responded with cannonades of their own.<ref name="McCullough91">McCullough, p. 91</ref> The American guns, under the direction of Colonel Knox, continued to exchange fire with the British until March 4. The exchange of fire did little damage to either side, although it did damage houses and kill some British soldiers in Boston.<ref name="McCullough92">McCullough, p. 92</ref>
+On March 5, Washington moved more of the Ticonderoga cannon and several thousand men overnight to occupy Dorchester Heights, overlooking Boston. Since it was winter, the ground was frozen, which made the digging of trenches impractical. Rufus Putnam, who had been a millwright, developed a plan to fortify the heights using defenses made of heavy timbers and fascines.<ref>Hubbard, Robert Ernest. General Rufus Putnam: George Washington's Chief Military Engineer and the "Father of Ohio," pp. 45-8, McFarland & Company, Inc., Jefferson, North Carolina. .</ref> These were prefabricated out of sight of the British, and brought in overnight.<ref>Hubbard, Robert Ernest. General Rufus Putnam: George Washington's Chief Military Engineer and the "Father of Ohio," pp. 45-8, McFarland & Company, Inc., Jefferson, North Carolina. .</ref> <ref>Hubbard, Robert Ernest. Major General Israel Putnam: Hero of the American Revolution, pp. 158, McFarland & Company, Inc., Jefferson, North Carolina, 2017. .</ref><ref>Philbrick, Nathaniel. Bunker Hill: A City, a Siege, a Revolution, pp. 274-7, Viking Penguin, New York, New York, 2013 .</ref><ref>Livingston, William Farrand. Israel Putnam: Pioneer, Ranger and Major General, 1718-1790, pp. 269-70, G.P. Putnam's Sons, New York and London, 1901.</ref> General Howe is said to have exclaimed, "My God, these fellows have done more work in one night than I could make my army do in three months."<ref name="McCullough93">McCullough, p. 93</ref><ref>Hubbard, Robert Ernest. General Rufus Putnam: George Washington's Chief Military Engineer and the "Father of Ohio," pp. 45-8, McFarland & Company, Inc., Jefferson, North Carolina. .</ref> The British fleet was within range of the American guns on Dorchester Heights, putting it and the troops in the city at risk.<ref name="Frothingham298">Frothingham, pp. 298–299</ref>
+The immediate response of the British was a two-hour cannon barrage at the heights, which had no effect because the British guns could not reach the American guns at such height.<ref name="McCullough94">McCullough, p. 94</ref> After the failure of the barrage, Howe and his officers agreed that the colonists must be removed from the heights if they were to hold Boston. They planned an assault on the heights; however, due to a storm the attack never took place, and the British elected instead to withdraw.<ref name="McCullough95">McCullough, p. 95</ref>
+On March 8, some prominent Bostonians sent a letter to Washington, stating that the British would not destroy the town if they were allowed to depart unmolested. Washington was given the letter, but formally rejected it, as it was not addressed to him by either name or title.<ref name="Frothinghame303">Frothingham, pp. 303–304</ref> However, the letter had the intended effect: when the evacuation began, there was no American fire to hinder the British departure. On March 9, after seeing movement on Nook's Hill on Dorchester, the British opened a massive fire barrage that lasted all night. It killed four men with one cannonball, but that was all the damage that was done.<ref name="McCullough99">McCullough, p. 99</ref> The next day, the colonists went out and collected the 700 cannonballs that had been fired at them.<ref name="McCullough99"/>
+Image:Boston area colonial map.jpg|thumb|450px|A map showing Boston and vicinity, including Bunker Hill, Dorchester Heights, and the troop disposition of Gen. Artemas Ward during the siege of Boston. From "Marshall's Life of Washington" (1806).
+===Evacuation===
+On March 10, 1776, General Howe issued a proclamation ordering the inhabitants to give up all linen and woolen goods that could be used by the colonists to continue the war. A Loyalist, Crean Brush, was authorized to receive these goods, in return for which he gave certificates that were effectively worthless.<ref name="McCullough104">McCullough, p. 104</ref> Over the next week, the British fleet sat in Boston harbor waiting for favorable winds, while Loyalists and British soldiers were loaded onto the ships. During this time, American naval activities outside the harbor successfully captured and diverted to ports under colonial control several British supply ships.<ref name="Frothingham308">Frothingham, p. 308</ref>
+On March 15, the wind became favorable, but before they could leave, it turned against them. On March 17, the wind once again turned favorable. The troops, who were authorized to burn the town if there were any disturbances while they were marching to their ships,<ref name="McCullough104"/> began to move out at 4:00&nbsp;a.m. By 9:00&nbsp;a.m., all ships were underway.<ref name="Frothingham309">Frothingham, p. 309</ref> The fleet departing from Boston included 120 ships, with more than 11,000 people aboard. Of those, 9,906 were British troops, 667 were women, and 553 were children.<ref name="McCullough105">McCullough, p. 105</ref>
+==Aftermath==
+===Americans clean up===
+Once the British fleet sailed away, the Americans moved to reclaim Boston and Charlestown. At first, they thought that the British were still on Bunker Hill, but it turned out that the British had left dummies in place.<ref name="McCullough105"/> Due to the risk of smallpox, at first only men picked for their prior exposure to the disease entered Boston under the command of Artemas Ward. More of the colonial army entered on March 20, 1776, once the risk of disease was judged low.<ref name="Frothingham310">Frothingham, pp. 310–311</ref> While Washington had essentially acceded to the British threat to burn Boston, and had not hindered their departure from the city, he did not make their escape from the outer harbor entirely easy. He directed Captain Manley to harass the departing British fleet, in which he had some success, capturing among other prizes the ship carrying Crean Brush and his plunder.<ref name="French429">French, p. 429</ref>
+General Howe, when his fleet finally left the outer harbor, left in his wake a small contingent of vessels whose primary purpose was to intercept any arriving British vessels. While they successfully redirected to Halifax numerous ships carrying British troops originally destined for Boston, some unsuspecting British troop ships landed in Boston, only to fall into American hands.<ref name="French436">French, p. 436</ref>
+The British departure ended major military activities in the New England colonies. Washington, fearing that the British were going to attack New York City, departed on April 4 with his army for Manhattan, beginning the New York and New Jersey campaign.<ref name="McCullough112">McCullough, p. 112</ref>
+There are six units of the Army National Guard (101st Eng Bn,<ref>Department of the Army, Lineage and Honors, 101st Engineer Battalion</ref> 125th MP Co,<ref></ref> 181st Inf,<ref>Department of the Army, Lineage and Honors, 181st Infantry. Reproduced in Sawicki 1981, pp. 354–355.</ref> 182nd Inf,<ref>Department of the Army, Lineage and Honors, 182nd Infantry. Reproduced in Sawicki 1981, pp. 355–357.</ref> 197th FA,<ref>Department of the Army, Lineage and Honors, 172nd Field Artillery and 197th Field Artillery. See also "Unit Histories: From Portsmouth Harbor to the Persian Gulf," New Hampshire Army National Guard Pamphlet 600-82-3.</ref> and 201st FA<ref>Department of the Army, Lineage and Honors, 201st Field Artillery.</ref>) derived from American units that participated in the siege of Boston. There are thirty currently existing units in the U.S. Army with lineages that go back to the colonial era.
+===Fate of the British generals===
+"Had Sir William Howe fortified the hills round Boston, he could not have been disgracefully driven from it," wrote his replacement Sir Henry Clinton.<ref>Thomas Fleming, The Enigma of General Howe (2017) p. 1 </ref> General Howe was severely criticized in the British press and Parliament for his failures in the Boston campaign. Nevertheless he remained in command for another two years: for the New York and New Jersey campaign and the Philadelphia campaign. General Gage never received another combat command. General Burgoyne would see action in the Saratoga campaign, a disaster that saw his capture, as well as that of 7,500 troops under his command. General Clinton would command the British forces in America for four years (1778–1782).<ref name="French437">French, pp. 437–438</ref>
+===Fate of the Loyalists===
+Many Massachusetts Loyalists left with the British when they evacuated Boston. Some went to England to rebuild lives there, and some returned to America after the war. Many went to Canada, settling in places like Saint John, New Brunswick, and often became active in the development of New Brunswick.<ref name="French439">French, pp. 438–439</ref>
+===Fate of Boston===
+Following the siege, Boston effectively ceased to be a military target, but continued to be a focal point for revolutionary activities, with its port acting as an important point for fitting ships of war and privateers. Its leading citizens would have important roles in the development of the future United States.<ref name="French443">French, pp. 441–443</ref> Boston and other area communities mark the March 17 end of the siege as Evacuation Day.
+==See also==
+* American Revolutionary War#Early engagements. The siege of Boston placed in sequence and strategic context.
+* Battle of Gloucester, capture of British seamen attempting to enforce blockade in Gloucester Harbor
+* Battle of Machias, Boston-based ship captured in Machias Bay
+* Fort Washington, Massachusetts, surviving colonial position used during the siege
+* List of conflicts in the United States#18th century
+* List of Washington's Headquarters during the Revolutionary War
+==Footnotes==
+==References and further reading==
+* Allison, Robert J. "George Washington and the Siege of Boston." in A Companion to George Washington (2012): 137-152.
+* Barbier, Brooke. Boston in the American Revolution: A Town Versus an Empire (Arcadia Publishing, 2017).
+* 
+* 
+* 
+* 
+* 
+* 
+* Hazelgrove, William. Henry Knox's Noble Train: The Story of a Boston Bookseller's Heroic Expedition that Saved the American Revolution (Rowman & Littlefield, 2020).
+* 
+* Philbrick, Nathaniel. Bunker Hill: A City, a Siege, a Revolution (Random House, 2013).
+* 
+* 
+===Primary sources===
+*
+
+The siege of Boston (April 19, 1775 – March 17, 1776) was the opening phase of the American Revolutionary War.<ref></ref> New England militiamen prevented the movement by land of the British Army, which was garrisoned in what was then the peninsular city of Boston, Massachusetts Bay. Both sides had to deal with resource supply and personnel issues over the course of the siege. British resupply and reinforcement activities were limited to sea access, which was impeded by American vessels. After eleven months of the siege, the British abandoned Boston and sailed their ships, troops and equipment to Nova Scotia.
+The siege began on April 19 after the Battles of Lexington and Concord, when the militia from surrounding Massachusetts communities blocked land access to Boston. The Continental Congress formed the Continental Army from the militia, with George Washington as its Commander in Chief. In June 1775, the British Battle of Bunker Hill, from which the Continentals were preparing to bombard the city, but their casualties were heavy and their gains were insufficient to break the Continental Army's hold on land access to Boston. The Americans laid siege to the British-occupied city. Military actions during the remainder of the siege were limited to occasional raids, minor skirmishes, and sniper fire. American war parties, however, both by land and in watercraft that were smaller and more nimble than the larger British ships, interfered with British foraging efforts. Also, American merchant vessels fitted with cannons were able to interdict transatlantic resupply efforts. Consequently, the British troops stationed in Boston suffered privation of food and fuel during the siege.
+In November 1775, George Washington sent the 25-year-old bookseller-turned-soldier Henry Knox to bring to Boston the heavy artillery that had been Capture of Fort Ticonderoga. In a technically complex and demanding operation, Knox Noble train of artillery by January 1776. In March 1776, these artillery fortified Dorchester Heights (which overlooked Boston and its harbor), thereby threatening the British supply lifeline. The British commander William Howe saw the British position as indefensible and withdrew the British forces in Boston to the British stronghold at Halifax, Nova Scotia, on March 17.

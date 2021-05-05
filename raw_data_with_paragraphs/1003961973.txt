@@ -1,0 +1,83 @@
+Digital8
+
+== MiniDV/DVC vs. Digital8 ==
+Contrary to popular perception, the Digital8 format is not technically inferior to MiniDV—both are identical at the bitstream level. From a user standpoint, Digital8 is DV, or rather, equivalent to and compatible with consumer MiniDV. At an application level - for example, in a 1394/FireWire link - a Digital8 camcorder appears and behaves exactly like a Mini DV camcorder.
+Digital8 and Mini DV use different, non-interchangeable cassette media, with Digital8 cassettes being the physically larger of the two. The two formats may also use different media formulations: Digital8 can use metal-particle or metal-evaporated media, while MiniDV is based solely on metal-evaporated media. The maximum recording time for Digital8 and MiniDV is 135 minutes and 130 minutes, respectively, using D-90 and DVM-85 tapes. These extra-thin, extra-long tapes are rare and expensive. urltoken 
+In addition, Digital8 uses tape at 29mm per second; more like the higher-end DVCAM (28mm/s) and DVCPRO (34mm/s). MiniDV uses tape at 19mm/s. According to Sony's press release of January 7, 1999, for the MiniDV format one frame is recorded onto 10 tracks, with the Digital8 format one frame's worth of information is recorded vertically onto 25 tracks. The use of this recording method enables digital images to be recorded on a Hi8 tape.
+== Market segment ==
+While analog Hi8 video enjoyed widespread use by amateur home video, current affairs TV programs, and some professional news organizations, Digital8 seems to have remained strictly a consumer or amateur product. (Among the exceptions is 2001 film Hall of Mirrors.) This is likely a reflection of Sony's design and market objectives for Digital8 format: to serve as a lower cost upgrade path for current customers (from analog 8&nbsp;mm), by leveraging existing manufacturing infrastructure of 8&nbsp;mm video equipment, and offering a familiar media format but with digital capabilities. Furthermore, Digital8 was released some time after MiniDV, giving the rival DV format a lead in the professional market. While little or no Digital8 equipment has been produced for the professional market, there are no technical barriers opposing its development.
+Digital8 is an obsolete format. By 2004 Sony, the format's original backer, was the only company still producing Digital8 equipment, and had no plans to develop new Digital 8 cameras. Hitachi marketed a few Digital8 camcorders for a while but no longer did so by that point. By 2005 and later, the Digital8 product line catered purely to the entry-level consumer. This is most likely because the larger, bulkier Digital8 cassette is perceived as an inferior technology, even though the Digital8 and DV formats offer indistinguishable A/V performance. In fact, the larger 8mm format is more robust, laying down wider tracks. Most, though not all, Digital8 camcorders can play back analogue Video8 and Hi8 tapes. As well as camcorders, Sony also released Digital8 Video Walkman portables, the GV-D200 and GV-D800.
+== Camera model variations ==
+In the early years after Digital8's introduction, Sony sold a product line with coverage from entry level to high-end consumer. The more consumer oriented line uses a 1/6" CCD image sensor and the more prosumer line uses a 1/4" one. Both existed from the beginning, but the 1/4" CCD models were discontinued.
+1998-1999 models only support Digital8 recording and playback at SP speed. 2000 and newer models added LP speed Digital8 recording (only supported on Hi8 tapes, not Video8 tapes). All models with analog playback can play Video8/Hi8 recordings made at either SP or LP speed. 2000 and newer models with analog playback also support DV Passthrough mode for capturing an analog video source directly into a computer without needing to record it to Digital8 tape first.
+Later Digital8 Handycams shared the same chassis, optics, and owner's manual with a range of analog Hi8 Handycams, although the CCD image sensor pixel count varied between the Digital8 (460K) and the Hi8 (320K) models.
+Although the 1/4" CCD models are fully capable of taking a still photo, that is a secondary function and they lack the Sony Memory Stick feature to off-load the JPEG images. Most of the entry level and later models focused on features such as better quality still pictures (see below), off-loading the same via Sony Memory Sticks, and more programming selections. The combining of still image and video capture is now common, however a good still image CCD has different qualities from a good video CCD. The cameras also lost features generally appealing to a prosumer level customer. The 1999 TRV-310, for instance, has the 1/4" CCD, a 3.5" LCD screen, an f1.4 lens, variable shutter speed settings, manual focus, and other professional controls. The lens on a typical 1/6" CCD is f1.8, about 60% as fast as an f1.4. The TRV-310, has a 1/4" CCD with a pixel count of 460K and "effective count" of 290K. The larger CCD with fewer pixels allows a smaller depth of field for intentional blurred backgrounds in some situations unattainable with the 1/6" CCD. It also has greater light sensitivity, 1 lux vs. 7 lux for the 1/6" CCD (without Night Shot), and less sensor noise in low light conditions.
+Another example of these capabilities changing with pixel count may be seen in the TRV-150, 250, 350, and 351 Digital8 models and their TRV-118, 318, and 418 Hi8 cousins. Despite having the same size CCD and the same f1.6 lens, the lower pixel count Hi8 models permit a 1 lux low light rating as compared to the 4 lux of the Digital8 models. The Sony DCR-TRV730/828/830 (and the later DCR-TRV740/840), were the only Digital8 camcorders to be built with a 1/4.7-inch (4.5&nbsp;mm) with advanced HAD (Hole Accumulation Diode) CCD. HAD is useful on smaller, high-megapixel-count CCDs and CMOSs. The pixel count for the TRV-730 is 1,070,000 pixels (690,000 in camera mode.)
+== Analog recordings ==
+Higher-end Digital8 equipment may minimize analog generation loss by offering the ability to playback and digitize legacy analog 8&nbsp;mm Video8/Hi8 format recordings, but none will record in analog. There are limitations, audio playback is limited to the Video8/Hi8 analog FM soundtrack, not any PCM digital audio track. Some models will play both NTSC and PAL recordings, others will only play their own native television standard. Analog recordings also lack timecode, so batch captures will not work.<ref></ref> The digitized video signal can be transferred in the same way as native digital recordings, through the camcorder's FireWire cable port, thus simplifying video file creation on computers equipped with a FireWire port and video capturing software, or FireWire equipped DVD recorders. The advantage of creating digital files using the camera's digital stream conversion is that the resulting files on the computer can be burned to DVDs as well as facilitating computerized digital editing and storage as video files. Lossless digital editing can be achieved when utilizing the FireWire port between two similar Digital8 cameras. Digitizing legacy signals does not improve image quality, but the resulting files have highly accurate sampling of the source audio and video quality of the Video8/Hi8 original.
+The models of Digital8 camcorders released by Sony that are not capable of analog Video8/Hi8 playback (usually the lower-end models) include the following:<ref> urltoken Sony eSupport: What models of Digital 8® camcorders cannot play tapes recorded in the analog 8mm or Hi8™ formats?</ref>
+* DCR-TRV130 (2001, NTSC)
+* DCR-TRV140 (2002, NTSC)
+* DCR-TRV145 (2003, PAL)
+* DCR-TRV147 (2003, PAL)
+* DCR-TRV150 (2003, NTSC)
+* DCR-TRV245 (2003, PAL)
+* DCR-TRV250 (2003, NTSC)
+* DCR-TRV255E (2004, PAL)
+* DCR-TRV260 (2004, NTSC)
+* DCR-TRV265 (2004, NTSC Export)
+* DCR-TRV265E (2004, PAL)
+* DCR-TRV270E (2005, PAL)
+* DCR-TRV280 (2005-2007, NTSC)
+* DCR-TRV285E (2005-2007, PAL)
+* DCR-TRV360 (2004, NTSC)
+* DCR-TRV361 (2004, NTSC Export)
+* DCR-TRV380 (2005, NTSC Export)
+The models of Sony Digital8 camcorder that are capable of both digital and analog playback include these models:<ref> urltoken eBay Guide authored by eBay user "dgjks6": "8mm, Video8, Hi8, and Digital 8"</ref> Additionally, all models released by Hitachi offer analog playback.
+* DCR-TR720 (1999, PAL)
+* DCR-TR7000 (1999, NTSC)
+* DCR-TR7100 (1999, PAL)
+* DCR-TRV103 (1998, NTSC)
+* DCR-TRV107 (1998, Latin America)
+* DCR-TRV110 (1998, NTSC)
+* DCR-TRV120 (2000, NTSC)
+* DCR-TRV203 (1999, NTSC Canada)
+* DCR-TRV210 (1999, NTSC)
+* DCR-TRV220 (2000, Asia Pacific)
+* DCR-TRV230 (2001, NTSC)
+* DCR-TRV238E (2002, PAL)
+* DCR-TRV239E (2002, PAL)
+* DCR-TRV240 (2002, NTSC)
+* DCR-TRV310 (1999, NTSC)
+* DCR-TRV315 (1999, NTSC)
+* DCR-TRV320 (2000, NTSC)
+* DCR-TRV330 (2001, NTSC)
+* DCR-TRV340 (2002, NTSC)
+* DCR-TRV345E (2003, PAL)
+* DCR-TRV350 (2003, NTSC)
+* DCR-TRV351 (2003, NTSC Latin America)
+* DCR-TRV355E (2003, PAL)
+* DCR-TRV356E (2003, PAL Export/China)
+* DCR-TRV410E (1999, PAL)
+* DCR-TRV420E (2000, PAL)
+* DCR-TRV460 (2004, NTSC)
+* DCR-TRV460E (2004, PAL)
+* DCR-TRV461E (2004, PAL Export)
+* DCR-TRV480 (2005, NTSC)
+* DCR-TRV480E (2005, PAL)
+* DCR-TRV510 (1999, NTSC)
+* DCR-TRV520 (2000, NTSC)
+* DCR-TRV525 (2000, NTSC)
+* DCR-TRV530 (2001, NTSC)
+* DCR-TRV620E (2000, PAL)
+* DCR-TRV720 (2000, NTSC)
+* DCR-TRV730 (2001, NTSC)
+* DCR-TRV740 (2002, NTSC)
+* DCR-TRV820 (2000, NTSC)
+* DCR-TRV828 (2001, NTSC Latin America)
+* DCR-TRV830 (2001, NTSC)
+* DCR-TRV840 (2002, NTSC)
+
+Digital8 (or Di8) is a consumer digital recording videocassette for camcorders based on the 8 mm video format developed by Sony, and introduced in 1999.
+The Digital8 format is a combination of the earlier analog Hi8 tape transport with the digital DV codec. Digital8 equipment uses the same videocassettes as analog recording Hi8 equipment, but the signal is encoded digitally using the industry-standard DV codec, which means it has identical digital audio and digital video specifications compared with DV.
+To facilitate digital recording on existing Hi8 video cassettes the helical scan video head drum spins 2.5× faster. For both NTSC and PAL Digital8 equipment, a standard-length 120-minute NTSC/90-minute PAL Hi8 magnetic tape cassette will store 60 minutes of Digital8 video (Standard Play) or 90 minutes (Long Play). There are 90-minute versions marketed specifically for Digital8, but these use thinner tape than the 60-minute ones. LP is model specific, such as the TRV-30, TRV-40, and others. Digital8 recordings can be made on standard-grade Video8 cassettes, but this practice is discouraged in the Sony user manuals, and Hi8 metal-particle cassettes are the recommended type for Digital8 recording. Most Hi8 tapes sold after the introduction of D8 are marked for both Hi8 and Digital8 usage.

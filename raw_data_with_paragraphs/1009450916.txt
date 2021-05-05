@@ -1,0 +1,119 @@
+Łomża
+
+===Historical population of Łomża, 1808 – 1931===
+General population in blue. Number of Poles of Jewish faith in green. Source: Qiryat Tiv'on, Israel.<ref name="SG"/> 
+<timeline>
+ImageSize = width:750 height:180
+PlotArea = left:75 right:20 top:25 bottom:25
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:28000
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:50 align:left
+ bar:1808 from:0 till:1516
+ bar:1808 color:cobar2 from:0 till:157
+ bar:1827 from:0 till:3265
+ bar:1827 color:cobar2 from:0 till:948
+ bar:1857 from:0 till:5881
+ bar:1857 color:cobar2 from:0 till:2608
+ bar:1897 from:0 till:19223
+ bar:1897 color:cobar2 from:0 till:8752
+ bar:1921 from:0 till:22014
+ bar:1921 color:cobar2 from:0 till:9131
+ bar:1931 from:0 till:25022
+ bar:1931 color:cobar2 from:0 till:8912
+PlotData=
+ textcolor:black fontsize:S 
+ bar:1808 at: 1516 text: 1,516 shift:(-14,5)
+ bar:1808 at: 157 text: 157 shift:(-45,5)
+ bar:1827 at: 3265 text: 3,265 shift:(-14,5)
+ bar:1827 at: 948 text: 948 shift:(-45,5)
+ bar:1857 at: 5881 text: 5,881 shift:(-14,5)
+ bar:1857 at: 2608 text: 2,608 shift:(-55,5)
+ bar:1897 at: 19223 text: 19,223 shift:(-17,5)
+ bar:1897 at: 8752 text: 8,752 shift:(-55,5)
+ bar:1921 at: 22014 text: 22,014 shift:(-17,5)
+ bar:1921 at: 9131 text: 9,131 shift:(-55,5)
+ bar:1931 at: 25022 text: 25,022 shift:(-17,5)
+ bar:1931 at: 8912 text: 8,912 shift:(-55,5)
+</timeline>
+==Religion==
+The inhabitants of Łomża are predominantly Roman Catholic, although over the centuries in addition to the Catholics, followers of other religions have settled there. There is evidence of many Jewish and Protestant gravestones at the Łomża cemeteries, particularly the two abandoned Jewish cemeteries.
+<gallery class="center" widths="155px" heights="155px">
+File:Lomza katedra fc05.jpg|Main nave of the Cathedral of Michael (archangel)
+File:Lomza katedra fc11.jpg|Renaissance tombstone from 1589 in the cathedral
+File:Zespół klasztorny OO Kapucynów w Łomży.jpg|Capuchin parish church (18th century)
+File:PL Lomża dworna street church.jpg|Holy Trinity church (19th century)
+File:Łomża PałacBiskupi.jpg|Episcopal Palace
+</gallery>
+==Education==
+The history of education in Łomża dates back to the early 15th century, when the first parish was founded. In 1614, Jesuits residing in Łomża created a Collegium (present-day I Liceum Ogólnokształcące im. Tadeusza Kościuszki). One of its rectors was Andrew Bobola. The educational level has not decreased after the KEN school pijarom in 1774. Łomża has educated a number of dignitaries, among others: Szymon Konarski, Rafał Krajewski, Jakub Ignacy Weight, Wojciech Szweykowski, and Adam Chętnik.
+Currently in Łomża there is a well-developed network of public and private schools at all levels. There are seven primary schools, eight schools, ten secondary schools, six universities (including three non-public) and two schools of art. The educational level in Łomża is high, based on the results of the exams and countrywide lists. For example, I Liceum Ogólnokształcące rates as a top national and central Poland school.
+<gallery class="center" widths="155px" heights="155px">
+File:Łomża PWSIP.jpg|College of Computer Science and Business Administration in Łomża.
+File:Łomża – I Liceum Ogólnokształcące im. Tadeusza Kościuszki.jpg|I Liceum Ogólnokształcące, named after Tadeusz Kościuszko (High School No. 1)
+File:Łomża IILO.jpg|II Liceum Ogólnokształcące, named after Maria Konopnicka (High School No. 2)
+File:Łomża Seminarium Duchowne.jpg|A building of a seminary school in Łomża
+File:WSA lomza1.jpg|WSA Students group in the front of the main building
+</gallery>
+==Economy==
+The economy of Łomża is closely connected to its natural environment, with agricultural and forestry industries at the forefront of the region's economic development. The economy is ecologically friendly, including the food industries, brewing, electronics, the manufacture of building materials and furniture, the production and processing of agricultural crops, as well as tourism and agro-tourism. 
+Even the largest companies employ less than 1,000 workers, even though a number of firms are listed on the Podlasie Top One Hundred Entrepreneurs.<ref name="UML"> "Raport o sytuacji społeczno-gospodarczej miasta Łomża," Urząd Miejski w Łomży, November 2006 (77 pages)</ref> Among them, the Browar Łomża (large scale producer of beer), DOMEL (producer of unleaded windows), FARGOTEX (importer of upholstery fabrics), Konrad (importer of farm animals), Łomża furniture factory (Łomżyńska Fabryka Mebli), PEPEES (producer of potato starch), Purzeczko (the personal and property protection). On top of that, the city is a registered office of the Podlasie Agency for Restructuring and Modernisation of Agriculture.
+By the end of 2007, the number of people steadily employed in Łomża was 13,408, including 7,170 women,<ref name="GUS"> urltoken Bank Danych Regionalnych Głównego Urzędu Statystycznego, Łomża</ref> however, the unemployment rate remained considerably high at 14.1 percent.<ref name="SLRP"> urltoken Statystyka Lokalnego Rynku Pracy, Powiatowy Urząd Pracy w Łomży </ref> The number of businesses registered by the end of 2008 was 6,421 of which 6,280 belonged to the private sector.<ref name=GUS/>
+==Sports==
+The history of sport in Łomża dates back to the end of the 19th century, when the first amateur races were held in 1897. Two years later, Łomża Rowing Society was established, and initiated its activities on January 26, 1902.
+The first football club was founded on April 16, 1926, currently known as ŁKS Łomża. It is the city's most successful football club, having played on the I liga in the 1930s, 1940s, and 2000s.
+There are several sports clubs in town including volleyball, basketball, athletics, and martial arts. The inhabitants of the town have been the most successful in athletics, sports fighting and bodybuilding. Sports in Łomża are supported by the Society for Promoting Physical Culture and the Łomża School Sports Association. In 1998, an indoor sports arena opened for national and international sporting events, including indoor football matches and martial arts tournaments.
+In 2009, a contract was signed for the construction of a municipal swimming pool to open in 2011, which is the second such facility in the city.
+==Landmarks==
+<gallery class="center" widths="155px" heights="155px">
+File:Łomża rynek - panoramio.jpg|Tenement houses at the Stary Rynek (Old Market Square)
+File:Ratusz w Łomży.jpg|Łomża Town Hall (Ratusz)
+File:Łomża PocztaGłówna.jpg|Main Post Office
+File:Bank Państwa Łomża Dworna 14.jpg|Former State Bank (Bank Państwa) building
+File:Łomża KościółWniebowzięciaNMP.jpg|Church of the Assumption of Virgin Mary
+File:Łomża Sąd Okręgowy.jpg|Regional Court in Łomża
+File:PILECKI.jpg|Monument to Witold Pilecki
+File:Kamienica Śledziewskich w Łomży.jpg|Śledziewski House (Kamienica Śledziewskich)
+File:Łomża Park Jakuba Wagi.jpg|Jakub Waga Park
+File:Łomża, Szpital Świętego Ducha.jpg|Former Holy Spirit Hospital
+File:Lomza katedra fc10.jpg|Monument to Cardinal Stefan Wyszyński
+File:Łomża Farna.jpg |Farna Street
+File:Łomża – Muzeum Północno-Mazowieckie.jpg|North-Masovian Museum (Muzeum Północno-Mazowieckie)
+File:Łomża – pomnik Stacha Konwy.jpg|Monument to Stach Konwa
+File:Cmentarz katedralny w Łomży - Kaplica Śmiarowskich (2).jpg|Śmiarowski cemetery chapel (19th century)
+</gallery>
+==Notable residents==
+* Hanka Bielicka (1915–2006), Polish actress
+* Andrew Bobola (1591–1657), Polish Roman Catholic saint
+* Yehoshua Leib Diskin (1818–1898), rabbi
+* Jula (singer) (born 1991), Polish singer/songwriter; participant in Bitwa na głos.
+* Yitzhak HaLevi Herzog (1888–1959), Chief Rabbi of Israel and father of Chaim Herzog, 6th President of Israel
+* Adam Kownacki (born 1989), Polish Heavyweight boxer
+* Samuel A. Levine (1891–1966), American cardiologist
+* Michał Piaszczyński (1885–1940), Polish Catholic priest, killed by the German Nazis
+* Rajmund Rembieliński (1774–1841), Polish nobleman, activist and landowner
+==See also==
+* Łomża Landscape Park
+* List of cities in Poland
+==References==
+==External links==
+* 
+* urltoken Łomża City in old documents
+* urltoken Historical Łomża
+* urltoken Łomża City in "Geographical Dictionary of Polish Kingdom and other Slavic countries, Vth volume" p. 699-704
+* urltoken The website about monuments in Łomża
+* 
+* urltoken Water Tower Sikorskiego street
+*
+
+</div>
+Łomża is the third largest city in Podlaskie Voivodeship with 63,036 inhabitants. At the end of 2006, the population growth was positive and amounted to 1.3% per 1000 inhabitants whereas the balance of migration was negative (-520).<ref name="GUS2006"/> The unemployment rate in May 2008 amounted to 10,2%.<ref> urltoken County Labour Bureau in Łomża: Statistics of the local job market </ref> According to data from 2006,<ref name="GUS2006"/> an average income per inhabitant amounted to 2,942.31 zł.<ref name="GUS2006"> urltoken Central Statistical Office, Poland - data of 2007 year </ref>

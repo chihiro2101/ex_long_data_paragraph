@@ -1,0 +1,111 @@
+Dual (grammatical number)
+
+== Comparative characteristics ==
+Many languages make a distinction between singular and plural: English, for example, distinguishes between man and men, or house and houses. In some languages, in addition to such singular and plural forms, there is also a dual form, which is used when exactly two people or things are meant. In many languages with dual forms, the use of the dual is mandatory as in some Arabic dialects using dual in nouns as in Hejazi Arabic, and the plural is used only for groups greater than two. However, the use of the dual is optional in some languages such as other modern Arabic dialects including Egyptian Arabic.
+In other languages such as Hebrew, the dual exists only for words naming time spans (day, week, etc.), a few measure words, and for words that naturally come in pairs and are not used in the plural except in rhetoric: eyes, ears, and so forth.
+In Slovene, the use of the dual is mandatory except for nouns that are natural pairs, such as trousers, eyes, ears, lips, hands, arms, legs, feet, kidneys, breasts, lungs, etc., for which the plural form has to be used unless one wants to stress that something is true for both one and the other part. For example, one says "oči me bolijo" (my eyes hurt), but if they want to stress that both their eyes hurt, they say "obe očesi me bolita". When using the pronoun "obe/oba" (both), the dual form that follows is mandatory.
+Although relatively few languages have the dual number, using different words for groups of two and groups greater than two is not uncommon. English has words distinguishing dual vs. plural number, including: both/all, either/any, neither/none, between/among, former/first, and latter/last. Japanese, which has no grammatical number, also has words dochira (which of the two) and dore (which of the three or more), etc.
+== Use in modern languages ==
+Among living languages, Modern Standard Arabic has a mandatory dual number, marked on nouns, verbs, adjectives and pronouns. (First-person dual forms, however, do not exist; compare this to the lack of third-person dual forms in the old Germanic languages.) Many of the spoken Arabic dialects have a dual marking for nouns (only), and its use can be mandatory in some dialects, and not mandatory in others. Likewise, Akkadian had a dual number, though its use was confined to standard phrases like "two hands", "two eyes", and "two arms". The dual in Hebrew has also atrophied, generally being used for only time, number, and natural pairs (like body parts) even in its Biblical Hebrew.
+Inuktitut and the related Central Alaskan Yup'ik language use dual forms; however, the related Greenlandic language does not (though it used to have them).
+Khoekhoegowab and other Khoe languages mark dual number in their person-gender-number enclitics, though the neuter gender does not have a dual form.
+Austronesian languages, particularly Polynesian languages such as Hawaiian, Niuean and Tongan, possess a dual number for pronouns but not for nouns, as nouns are generally marked for plural syntactically and not morphologically. Other Austronesian languages, particularly Languages of the Philippines, have a dual first-person pronoun; these languages include Ilokano , Tausug , and Kapampangan . These forms mean "we", but specifically "you and I". This form once existed in Tagalog or sometimes but has disappeared from standard usage (save for certain dialects such as in Batangas) since the middle of the 20th century, with kitá as the only surviving form (e.g. Mahál kitá, loosely "I love you").
+The dual was a standard feature of the Proto-Uralic language, and lives on in the Samoyedic languages and in most Sami languages, while other branches like Finnish, Estonian and Hungarian have lost it. Sami also features dual pronouns, expressing the concept of "we two here" as contrasted to "we". Nenets, two closely related Samoyedic languages, features a complete set of dual possessive suffixes for two systems, the number of possessors and the number of possessed objects (for example, "two houses of us two" expressed in one word).
+The dual form is also used in several modern Indo-European languages, such as Irish, Scottish Gaelic, Slovene and Sorbian (see below for details). The dual was a common feature of all early Slavic languages around the year 1000.
+==Arabic==
+In Modern Standard Arabic, as well as in Classical Arabic, the use of dual is compulsory when describing two units. For this purpose, , is added to the end of any noun or adjective regardless of gender or of how the plural is being formed. In the case of feminine nouns ending with , this letter becomes a . When the dual noun or adjective is rendered in the genitive or accusative forms, the becomes .
+Besides the noun and adjective dual, there are also dual verb forms of compulsory use for second and third person, together with their pronouns, but none for the first person.
+The use of dual in spoken Arabic varies widely and is mostly rendered a even when in nominative context. Whereas its use is quite common in Levantine Arabic, for instance meaning "two kilograms", dual forms are generally not used in Maghrebi Arabic, where two units are commonly expressed with the word , 
+as in meaning "a pair of kilograms", with the noun appearing in singular.
+==Hebrew==
+===Biblical and Mishnaic Hebrew===
+In Biblical, Mishnaic, and Medieval Hebrew, like Arabic and other Semitic languages, all nouns can have singular, plural or dual forms, and there is still a debate whether there are vestiges of dual verbal forms and pronouns.<ref></ref> However, in practice, most nouns use only singular and plural forms. Usually is added to masculine words to make them plural for example "book / books", whilst with feminine nouns the is replaced with . For example, "cow / cows". The masculine dual form is shown in pointed text with a pathach; in a purely consonantal text, masculine dual is not indicated at all by the consonants. The dual for (two) days is with pathach under the mem. An example of the dual form is "day / two days / two or more days". Some words occur so often in pairs that the form with the dual suffix is used in practice for the general plural, such as "eye / eyes", used even in a sentence like "The spider has eight eyes." Thus words like only appear to be dual, but are in fact what is called "pseudo-dual", which is a way of making a plural. Sometimes, words can change meaning depending on whether the dual or plural form is used, for example; can mean eye or water spring in the singular, but in the plural eyes will take the dual form of whilst springs are . Adjectives, verbs, and pronouns have only singular and plural, with the plural forms of these being used with dual nouns.
+===Modern Hebrew===
+In Modern Hebrew as used in Israel, there is also a dual number, but its use is very restricted. The dual form is usually used in expressions of time and number. These nouns have plurals as well, which are used for numbers higher than two, for example:
+== Languages with dual number ==
+*Afroasiatic languages
+**Egyptian (including Coptic)
+**Semitic languages
+***Akkadian (Assyrian and Babylonian)
+***Biblical Hebrew
+***Classical Arabic
+****Gulf Arabic (in nouns)
+****Maltese
+***Sabaean
+***Ugaritic
+*Austronesian languages
+**Tagalog language
+**Cebuano language
+**Ilocano language
+**Polynesian languages
+***Māori (only the personal pronouns)
+***Samoan (only the personal pronouns)
+***Tongan (only the personal pronouns)
+***Tahitian (only the personal pronouns)
+***Hawaiian (only the personal pronouns)
+**Chamorro (reflected in the verb)
+* Indo-European languages
+** Avestan
+** Ancient Greek
+** Germanic languages (only first and second person pronouns and verb forms)
+*** North Frisian (only pronouns in some dialects)
+*** Gothic
+*** Old English (only the personal pronouns)
+*** Old Norse (only the personal pronouns)
+** Insular Celtic languages:
+*** Old Irish
+*** Irish (only nouns, only following the numeral for two)
+*** Scottish Gaelic (only nouns, only following the numeral for two)
+** Old Church Slavonic
+** Old East Slavic
+** Sanskrit
+** Slovene
+** Chakavian
+** Sorbian languages:
+*** Lower Sorbian
+*** Upper Sorbian
+*Pama–Nyungan languages
+**Woiwurrung–Daungwurrung language
+**Yidiny
+* Uralic languages
+** Khanty
+** Mansi
+** Nenets
+** Sami languages
+* Other natural languages
+**American Sign Language
+**Dogrib (only in the first person)
+**Hopi (nouns)
+**Hmong
+**Inuktitut
+**Khamti<ref>"Khamti." Indian Institute of Technology Guwahati. N.p., n.d. Web. 14 Oct. 2012. <www.iitg.ernet.in/rcilts/phaseI/languages/khamti.htm></ref>
+**Khoe languages
+**Komo language<ref>Otero, Manuel A. "Dual Number in Ethiopian Komo." Nilo-Saharan: Models and Descriptions. By Angelika Mietzner and Anne Storch. Cologne: Rudiger Koppe Verlag, 2015. 123-34. Print.</ref>
+**Kunama language<ref>Idris, Nikodimos.1987. The Kunama and their language. Addis Ababa University BA thesis.</ref>
+**Lakota (only the personal pronouns, always means "you and I")
+**Mapuzungun
+**Melanesian Pidgin (several related languages)
+**Mi'kmaq
+**Nhanda
+**Santali (nouns)
+**Tonkawa
+**Xavante language
+**Yaghan
+*Constructed languages
+**Quenya (elvish language created by J.R.R Tolkien)
+==See also==
+*Grammatical number
+==Notes==
+==References==
+* Wilhelm von Humboldt (1828). Über den Dualis. Berlin
+* Charles Fontinoy. Le duel dans les langues sémitiques. Paris: Les Belles Lettres, 1969.
+* 
+* 
+* 
+* Fritz, Matthias. Der Dual im Indogermanischen. Heidelberg: Universitätsverlag Winter, 2011.
+
+Dual (abbreviated is a grammatical number that some languages use in addition to singular and plural. When a noun or pronoun appears in dual form, it is interpreted as referring to precisely two of the entities (objects or persons) identified by the noun or pronoun acting as a single unit or in unison. Verbs can also have dual agreement forms in these languages.
+The dual number existed in Proto-Indo-European, persisted in many of its descendants, such as Ancient Greek and Sanskrit, which have dual forms across nouns, verbs, and adjectives, Gothic, which used dual forms in pronouns and verbs, and Old English (Anglo-Saxon), which used dual forms in pronouns. It can still be found in a few modern Indo-European languages such as Irish, Scottish Gaelic, Lithuanian, Slovene, and Sorbian languages.
+The majority of modern Indo-European languages, including modern English, however, have lost dual through their development and only show residual traces of it. In all these languages, its function has been replaced by simple plural, as is evident in the English distinctions: both vs. all, either vs. any, neither vs. none, and so on. A commonly used sentence to exemplify dual in English is "Both go to the same school." where both refers to two specific people who had already been determined in the conversation.
+Many Semitic languages also have dual numbers. For instance, in Hebrew יים- (-ayim) or a variation of it is added to the end of some nouns, e.g. some parts of the body (eye, ear, nostril, lip, hand, leg) and some time periods (minute, hour, day, week, month, year) to indicate that it is dual (regardless of how the plural is formed). A similar situation exists in classical Arabic, where is added to the end of any noun to indicate that it is dual (regardless of how the plural is formed).
+It is also present in those Khoisan languages that have a rich inflectional morphology, particularly Khoe languages.<ref></ref>

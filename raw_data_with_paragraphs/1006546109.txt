@@ -1,0 +1,61 @@
+Hugo Junkers
+
+==Biography==
+Junkers was born in Rheydt in the Prussian Rhine Province, the son of a wealthy industrialist. After taking his Abitur exams in 1878, he attended the Berlin Institute of Technology and the RWTH Aachen University, where he completed his engineering studies in 1883.
+At first, he returned to Rheydt to work in his father's company, but soon attended further lectures on electromagnetism and thermodynamics held by Adolf Slaby in Charlottenburg. Slaby placed him with the Continental-Gasgesellschaft in Dessau, where he worked on the development of the first opposed-piston engine. To measure heating value, Junkers patented a calorimeter and founded a manufacturing company in 1892. Junkers personally introduced the calorimeter at the 1893 World's Columbian Exposition in Chicago, where it was awarded a gold medal. The next year, he patented a gas-fired bath boiler, which he refined as a Water heating. In 1895, he founded Junkers & Co. to utilize his inventions.
+From 1897, he was offered a professorship of mechanical engineering at Aachen, where he lectured until 1912. Working as an engineer at the same time, Junkers taking substantial gains of Junkers & Co. devised, patented, and exploited calorimeters, domestic appliances (gas stoves), pressure regulators, gas oil engines, fan heaters, and other inventions.
+===Aeronautical work===
+Junkers' aeronautical work began in earnest at age 50 when he worked with engineer Hans Reissner in Aachen. Reissner had developed an all-metal aircraft, on which work first started in 1909 at the Brand Heath, equipped with corrugated iron wings built by Junkers & Co. in Dessau. The iron wings were patented one year later. Junkers had a wind tunnel built and invented a hydraulic brake.
+He had far-sighted ideas of metal aeroplanes and flying wings, but the necessities of the war held him back. During World War I, the government forced him to focus on aircraft production. In 1915, he developed the world's first practical all-metal aircraft design, the Junkers J 1 "Blechesel"<ref>Junkers factory designations for their aircraft in the WWI period used Arabic numerals, as in the Junkers J 1 Blechesel, while the later armored J.I all-metal sesquiplane was so designated because the Kaiser's IdFlieg army aviation inspectorate used the letter "J", followed by a Roman numeral only, to designate all armored, infantry co-operation and ground-attack aircraft, which were also designed by the Albatros and AEG firms in WWI.</ref> (Sheetmetal Donkey), which survived on display in Deutsches Museum in Munich until WWII. His firm's first military production design in 1916–17 was the armored-fuselage, two-seat, all-metal sesquiplane known by its IdFlieg designation, the Junkers J.I, considered the best German ground attack aircraft of the war. During this time, the German government's IdFlieg military aviation inspectorate forced him to merge his firm with Anthony Fokker's to form the Junkers-Fokker Aktiengesellschaft on 20 October 1917.<ref></ref> The J.I's pattern of an armored fuselage that protected the nose-mounted engine, pilot, and observer in a unitized metal "bathtub" was the possible inspiration for Sergei Ilyushin's later Il-2 Shturmovik (conceivably appropriate as Junkers did have a manufacturing plant in Fili, a suburb of Moscow, in the Soviet Union in the 1920s) with a similar armored fuselage design. As this design philosophy for such combat aircraft had proven to be a good idea, it was once again broadly reused for the 1970s-premiered American A-10 Warthog twin-turbofan powered attack aircraft, also having its pilot enveloped in an armoured titanium bathtub. By 1918, Junkers' firm, with its previously demonstrated preference for monoplane-pattern airframe designs, had created the world's first production low-winged, single-seat monoplane all-metal fighter aircraft, the Junkers D.I, which pioneered the use of Alfred Wilm's 1906 invention of duralumin throughout a production airframe. The D.I did not enter production until 1918. He also produced a two-seat monoplane fighter, the Junkers CL.I. Both postwar Soviet aviation pioneer Andrei Tupolev and American aviation designer William Bushnell Stout owed much to Hugo Junkers in the designs of their earlier aircraft, which benefited from Junkers' corrugated, light-metal construction technique.
+The Junkers F.13 of 1919 was the first of several successful civil aircraft designs produced by Junkers Flugzeugwerke: later designs include the Junkers Ju 52 from 1932. Through a variety of business initiatives, Junkers was active in founding and developing airlines around the globe, initially intending to sell them aircraft. Airlines where Junkers played a pivotal role in early phases of their development include Deutsche Luft Hansa and Lloyd Aéreo Boliviano. Several business ventures failed from wider economic or political problems that hampered sound engineering plans. Junkers always had more ideas: the massive four-engined G.38, nicknamed "Der Grosse Dessauer", delivered to Luft Hansa, made no commercial trips for many months as he repeatedly recalled it to the factory for improvements.
+==Legacy==
+Hugo Junkers is mainly known in connection with aircraft bearing his name. These include some he reluctantly developed for the German Empire during World War I, later in minor association with Anthony Fokker, as well as civil aircraft designs during the "interwar period" produced by Junkers Flugzeugwerke (Junkers Aircraft Works). Junkers died in 1935, on his 76th birthday.
+The earliest all-metal post-World War I aircraft designs of both Andrei Tupolev — with his Tupolev ANT-2 two-passenger small aircraft of 1924 — and William Bushnell Stout's initial all-metal design, the Stout ST twin-engine torpedo bomber of 1922, were both based directly on the pioneering work of Junkers, with each engineer (one Soviet, one American) separately developing examples of aircraft like Tupolev's enormous, 63 meter wingspan, eight-engined Maksim Gorki — the largest aircraft built anywhere in the world in the early 1930s — and Stout's popular Ford Trimotor airliner.
+In 1976, Junkers was inducted into the International Air & Space Hall of Fame.<ref>Sprekelmeyer, Linda, editor. These We Honor: The International Aerospace Hall of Fame. Donning Co. Publishers, 2006. .</ref>
+==Timeline==
+* 1888–1893 work with Dessauer Continental-Gasgesellschaft
+* 1892 Patents Calorimeter
+* 1895 Founds Junkers & Co in Dessau to build gas engines & heaters
+* 1897–1912 Professor at the RWTH Aachen University in Aachen
+* 1908 Hans Reissner with Junkers' help starts work on all-metal aircraft
+* 1910 Patents the carriage of passengers within the wing
+* 1913/14 uses wind tunnel
+* 1915 Junkers J 1 all-metal monoplane aircraft flies (world's first practical all-metal aircraft to fly)
+* 1916 Junkers J 2 pioneering all metal monoplane fighter aircraft for the Luftstreitkräfte, six built
+* 20 October 1917 – 1919 Partnership Junkers-Fokkerwerke AG; mass production of 227 J4 aircraft
+* 1919 Junkers and Fokker part ways, company renamed Junkers Flugzeugwerke AG
+* 1919 First civilian all-metal aircraft Junkers F.13 flies
+* 1919 Starts work on "Giant" JG1, to seat passengers within thick wings
+* 1921 Allied Aeronautical Commission of Control orders JG1 destroyed (exceeds post-war size limit)
+* 1921 Founds "Abteilung Luftverkehr der Junkerswerke" (later merged into Deutsche Luft Hansa)
+* 1922 Starts military aircraft production near Moscow, financed by German government loans 
+* 1922 Proposes 100-passenger J-1000 aircraft – never built
+* 1925 Russian project fails, German government demands repayments
+* 1926 Legal battles end with Junkers losing several companies
+* 1927 Awarded the Wilhelm Exner Medal
+* 1928 First east-west transatlantic flight by a heavier-than-air aircraft; crewed by Köhl, Hünefeld and Fitzmaurice in a Junkers W33 
+* 1930 Receives Siemens-Ring for his scientific contributions to combustion engines and metallic airplanes
+* 1931 Junkers G38 34-passenger airliner delivered – largest in world until Tupolev's Maksim Gorky in 1934 – only two built
+* 1932 After great crash, saves Junkers Flugzeugbau and Motorenbau from bankruptcy, by selling virtually all his other assets .
+* 1935 Dies during negotiations to cede remaining stock and interests in Junkers.
+* 1935 Therese Junkers gives full control of interests to Third Reich.
+==See also==
+* Junkers company
+* Burt Rutan – who inaugurated the second major change in aviation materials technology
+* German inventors and discoverers
+* The Wind Rises
+==References==
+==Sources==
+* Detlef Siegfried. Der Fliegerblick: Intellektuelle Radikalismus und Flugzeugproduktion bei Junkers 1914 bis 1934. (Historisches Forschungszentrum der Friedrich-Ebert-Stiftung, Reihe Politik- und Gesellschaftsgeschichte, nr. 58) Bonn: J.H.W. Dietz, 2001. .
+==External links==
+* urltoken Biographical Essay by T.E. Heppenheimer.
+* urltoken The Hugo Junkers Homepage Horst Zoeller's comprehensive Junkers encyclopedia (www.junkers.de.vu has expired!)
+* urltoken Junkers biography on WWI aviation site
+* urltoken Major historical/factual European airlines overview site – many specific Junkers articles.
+* urltoken "Hugo Junkers - A Life for Technology" German language biographical homepage
+*
+
+Hugo Junkers (3 February 1859 – 3 February 1935) was a German aircraft engineer and aircraft designer who pioneered the design of all-metal airplanes and flying wings. His company, Junkers (Junkers Aircraft and Motor Works), was one of the mainstays of the German aircraft industry in the years between World War I and World War II. His multi-engined, all-metal passenger- and freight planes helped establish airlines in Germany and around the world.
+In addition to aircraft, Junkers also built both diesel and petrol engines and held various thermodynamic and metallurgy patents. He was also one of the main sponsors of the Bauhaus movement and facilitated the move of the Bauhaus from Weimar to Dessau (where his factory was situated) in 1925.
+Amongst the highlights of his career were the Junkers J 1 of 1915, the world's first practical all-metal aircraft, incorporating a cantilever wing design with virtually no external bracing, the Junkers F 13 of 1919 (the world's first all-metal passenger aircraft), the Junkers W 33 (which made the first successful heavier-than-air east-to-west crossing of the Atlantic Ocean), the Junkers G.38 "flying wing", and the Junkers Ju 52, affectionately nicknamed "Tante Ju", one of the most famous airliners of the 1930s.
+When the Nazis came into power in 1933 they requested Junkers and his businesses aid in the German re-armament. When Junkers declined, the Nazis responded by demanding ownership of all patents and market shares from his remaining companies, under threat of imprisonment on the grounds of High Treason. In 1934 Junkers was placed under house arrest, and died at home in 1935 during negotiations to give up the remaining stock and interests in Junkers. Under Nazi control, his company produced some of the most successful German warplanes of the Second World War.

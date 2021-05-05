@@ -1,0 +1,148 @@
+Euclid's Elements
+
+==Editions==
+Image:Ricci Guangqi 2.jpg|thumb|The Italy Jesuit Matteo Ricci (left) and the Chinese mathematics Xu Guangqi (right) published the Chinese edition of Euclid's Elements (幾何原本) in 1607.
+*1460s, Regiomontanus (incomplete)
+*1482, Erhard Ratdolt (Venice), first printed edition<ref></ref>
+*1533, editio princeps by Simon Grynäus
+*1557, by Jean Magnien and , reviewed by Stephanus Gracilis (only propositions, no full proofs, includes original Greek and the Latin translation)
+*1572, Commandinus Latin edition
+*1574, Christoph Clavius
+===Translations===
+*1505, (Latin)
+*1543, Niccolò Tartaglia (Italian)
+*1557, Jean Magnien and Pierre de Montdoré, reviewed by Stephanus Gracilis (Greek to Latin)
+*1558, Johann Scheubel (German)
+*1562, Jacob Kündig (German)
+*1562, Wilhelm Holtzmann (German)
+*1564–1566, de Béziers (French)
+*1570, Henry Billingsley (English)
+*1572, Commandinus (Latin)
+*1575, Commandinus (Italian)
+*1576, Rodrigo de Zamorano (Spanish)
+*1594, Typographia Medicea (edition of the Arabic translation of The Recension of Euclid's "Elements"
+*1604, de Bar-le-Duc (French)
+*1606, Jan Pieterszoon Dou (Dutch)
+*1607, Matteo Ricci, Xu Guangqi (Chinese)
+*1613, Pietro Cataldi (Italian)
+*1615, Denis Henrion (French)
+*1617, Frans van Schooten (Dutch)
+*1637, L. Carduchi (Spanish)
+*1639, Pierre Hérigone (French)
+*1651, Heinrich Hoffmann (German)
+*1651, Thomas Rudd (English)
+*1660, Isaac Barrow (English)
+*1661, John Leeke and Geo. Serle (English)
+*1663, Domenico Magni (Italian from Latin)
+*1672, Claude François Milliet Dechales (French)
+*1680, Vitale Giordano (Italian)
+*1685, William Halifax (English)
+*1689, Jacob Knesa (Spanish)
+*1690, Vincenzo Viviani (Italian)
+*1694, Ant. Ernst Burkh v. Pirckenstein (German)
+*1695, C. J. Vooght (Dutch)
+*1697, Samuel Reyher (German)
+*1702, Hendrik Coets (Dutch)
+*1705, Charles Scarborough (English)
+*1708, John Keill (English)
+*1714, Chr. Schessler (German)
+*1714, W. Whiston (English)
+*1720s, Jagannatha Samrat (Sanskrit, based on the Arabic translation of Nasir al-Din al-Tusi)
+*1731, Guido Grandi (abbreviation to Italian)
+*1738, Ivan Satarov (Russian from French)
+*1744, Mårten Strömer (Swedish)
+*1749, Dechales (Italian)
+*1745, Ernest Gottlieb Ziegenbalg (Danish)
+*1752, Leonardo Ximenes (Italian)
+*1756, Robert Simson (English)
+*1763, Pubo Steenstra (Dutch)
+*1768, Angelo Brunelli (Portuguese)
+*1773, 1781, J. F. Lorenz (German)
+*1780, Baruch Schick of Shklov (Hebrew)<ref></ref>
+*1781, 1788 James Williamson (English)
+*1781, William Austin (English)
+*1789, Pr. Suvoroff nad Yos. Nikitin (Russian from Greek)
+*1795, John Playfair (English)
+*1803, H.C. Linderup (Danish)
+*1804, François Peyrard (French). Peyrard discovered in 1808 the Vaticanus Graecus 190, which enables him to provide a first definitive version in 1814–1818
+*1807, Józef Czech (Polish based on Greek, Latin and English editions)
+*1807, J. K. F. Hauff (German)
+*1818, Vincenzo Flauti (Italian)
+*1820, Benjamin of Lesbos (Modern Greek)
+*1826, George Phillips (English)
+*1828, Joh. Josh and Ign. Hoffmann (German)
+*1828, Dionysius Lardner (English)
+*1833, E. S. Unger (German)
+*1833, Thomas Perronet Thompson (English)
+*1836, H. Falk (Swedish)
+*1844, 1845, 1859, P. R. Bråkenhjelm (Swedish)
+*1850, F. A. A. Lundgren (Swedish)
+*1850, H. A. Witt and M. E. Areskong (Swedish)
+*1862, Isaac Todhunter (English)
+*1865, Sámuel Brassai (Hungarian)
+*1873, Masakuni Yamada (Japanese)
+*1880, Vachtchenko-Zakhartchenko (Russian)
+*1897, Thyra Eibe (Danish)
+*1901, Max Simon (German)
+*1907, František Servít (Czech)
+*1908, Thomas Little Heath (English)
+*1939, R. Catesby Taliaferro (English)
+*1999, Maja Hudoletnjak Grgić (Book I-VI) (Croatian)
+*2009, Irineu Bicudo (Brazilian Portuguese)
+*2019, Ali Sinan Sertöz (Turkish)
+===Currently in print===
+*Euclid's Elements – All thirteen books complete in one volume, Based on Heath's translation, Green Lion Press .
+*The Elements: Books I–XIII – Complete and Unabridged, (2006) Translated by Sir Thomas Heath, Barnes & Noble .
+*The Thirteen Books of Euclid's Elements, translation and commentaries by Heath, Thomas L. (1956) in three volumes. Dover Publications. (vol. 1), (vol. 2), (vol. 3)
+=== Free versions ===
+*Euclid's Elements Redux, Volume 1, contains books I–III, based on John Casey's translation.
+*Euclid's Elements Redux, Volume 2, contains books IV–VIII, based on John Casey's translation.
+==References==
+=== Notes ===
+===Citations===
+===Sources===
+*
+*Benno Artmann: Euclid – The Creation of Mathematics. New York, Berlin, Heidelberg: Springer 1999, 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* Heath's authoritative translation plus extensive historical research and detailed commentary throughout the text.
+* 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* 
+*
+== External links ==
+* urltoken Multilingual edition of Elementa in the Bibliotheca Polyglotta
+* In HTML with Java-based interactive figures.
+* urltoken Richard Fitzpatrick's bilingual edition (freely downloadable PDF, typeset in a two-column format with the original Greek beside a modern English translation; also available in print as 
+* urltoken Heath's English translation (HTML, without the figures, public domain) (accessed February 4, 2010)
+** Heath's English translation and commentary, with the figures (Google Books): urltoken vol. 1, urltoken vol. 2, urltoken vol. 3, urltoken vol. 3 c. 2
+* urltoken Oliver Byrne's 1847 edition (also hosted at urltoken archive.org)– an unusual version by Oliver Byrne who used color rather than labels such as ABC (scanned page images, public domain)
+* urltoken Web adapted version of Byrne’s Euclid designed by Nicholas Rougeux 
+* urltoken The First Six Books of the Elements by John Casey and Euclid scanned by Project Gutenberg.
+* urltoken Reading Euclid – a course in how to read Euclid in the original Greek, with English translations and commentaries (HTML with figures)
+*Thomas More's urltoken manuscript
+* urltoken Latin translation by Aethelhard of Bath
+* urltoken Euclid Elements – The original Greek text Greek HTML
+*Clay Mathematics Institute Historical Archive – urltoken The thirteen books of Euclid's Elements copied by Stephen the Clerk for Arethas of Patras, in Constantinople in 888 AD
+* urltoken Kitāb Taḥrīr uṣūl li-Ūqlīdis Arabic translation of the thirteen books of Euclid's Elements by Nasīr al-Dīn al-Ṭūsī. Published by Medici Oriental Press(also, Typographia Medicea). Facsimile hosted by urltoken Islamic Heritage Project.
+* urltoken Euclid's Elements Redux, an open textbook based on the Elements
+* urltoken 1607 Chinese translations reprinted as part of Siku Quanshu, or "Complete Library of the Four Treasuries."
+*Stephen Wolfram, 2020. " urltoken The Empirical Metamathematics of Euclid and Beyond"
+
+The Elements Stoikheîon) is a mathematics treatise consisting of 13 books attributed to the ancient Greek mathematics Euclid in Alexandria, Ptolemaic Egypt c. 300 BC. It is a collection of definitions, postulates, propositions (theorems and constructions), and mathematical proofs of the propositions. The books cover plane and solid Euclidean geometry, elementary number theory, and incommensurable lines. Elements is the oldest extant large-scale deductive treatment of mathematics. It has proven instrumental in the development of logic and modern science, and its logical rigor was not surpassed until the 19th century.
+Euclid's Elements has been referred to as the most successful

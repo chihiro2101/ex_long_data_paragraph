@@ -1,0 +1,134 @@
+Descendents
+
+==Milo character==
+ to serve an equivalent function for the new band.<ref name="Bonus Cut">"Bonus Cut". Filmage: The Story of Descendents/All. Event occurs at 11:39.</ref>
+In addition to appearing on much of the Descendents' merchandise and promotional materials, the Milo character has been reinterpreted by other artists for all of the band's releases since 1996:
+*Reading a newspaper on the cover of Everything Sucks (1996).<ref name="Everything Sucks"/> The full illustration, used for the lyric sheet and the "I'm the One" single, depicts the character sitting atop the tank of an overflowing toilet as it floods the room around him and a mushroom cloud forms outside the window.<ref name="Everything Sucks"/> This illustration is credited to "Grey Stool", though Aukerman notes it was created by "the kind people at Epitaph Records|Epitaph Records".<ref name="FAQ"/>
+*As an elderly man in a wheelchair on the cover of the "When I Get Old" single (1997)<ref name="When I Get Old"></ref>
+*Dressed as Uncle Sam, in two versions, on the cover of 'Merican (2004), as drawn by Jeff Hagedorn<ref name="FAQ"/><ref name="'Merican"></ref>
+*Drawn on graph paper on the cover of Cool to Be You (2004), as illustrated by Chris Shary.<ref name="FAQ"/><ref name="Cool to Be You"/> Shary also drew the character as an old man for the cover of the Descendents tribute album Milo Turns 50 (2013), published by Filter magazine, and a more detailed depiction of the character as the promotional artwork for Filmage, a 2013 documentary film about the Descendents and All.<ref name="Filmage: Milo character"/><ref name="Milo Turns 50"></ref>
+*As an Erlenmeyer flask on the cover of Hypercaffium Spazzinate (2016).
+*As a ballot box on the cover of Suffrage (2020), the full illustration also depicts a hand with a spiked wristband depositing a vote into said ballot box.
+== Legacy and influence ==
+The Descendents have been cited as hugely influential to a large number of modern-day pop punk and skate punk bands such as Blink 182, NOFX, Green Day, Pennywise, Propagandhi, Rise Against, The All-American Rejects, The Bouncing Souls, The Offspring, and The Ataris.<ref></ref><ref></ref> "Everything about how I sing and play guitar came from this band . Blink is absolutely a product of The Descendents," said Blink-182 vocalist/guitarist Tom DeLonge in 2011,<ref name="delonge"></ref> while vocalist/bassist Mark Hoppus called "Silly Girl" from I Don't Want to Grow Up (1985) "the first song that really altered my life. . It spoke to me in a way that nothing did."<ref name="hoppus"></ref> In 2014, Filmage: The Story of Descendents/All, a documentary on the band, premiered. The film features interviews with Hoppus, Dave Grohl of Nirvana and Foo Fighters, and Mike Watt of Minutemen.<ref name="filmage"></ref>
+Milo Goes to College has been included in several lists of noteworthy punk albums. Spin has listed it several times, ranking it No.&nbsp;74 in a 1995 list of the best alternative albums and No.&nbsp;20 in a 2001 list of "The 50 Most Essential Punk Records", and including it in a 2004 list of "Essential Hardcore" albums.<ref></ref><ref name="Reynolds"></ref><ref name="Beaujon"></ref> In these lists, critic Simon Reynolds described the album as "Fifteen Cali-core paroxysms that anatomize dork-dude pangs with haiku brevity", while Andrew Beaujon called it "Super clean, super tight, super poppy hardcore about hating your parents, riding bikes, and not wanting to 'smell your muff.'<ref name="Reynolds"/><ref name="Beaujon"/> In 2006 Kerrang! ranked it as the 33rd greatest punk album of all time.<ref></ref> The German edition of the Rolling Stone's The 500 Greatest Albums of All Time ranked it at 349.<ref></ref>
+In 2016, a Descendents branded IPA entitled "Feel This Coffee" was released by the San Diego branch of Mikkeller. It is named after a track from their latest album.<ref></ref>
+==Band members==
+Current members
+*Bill Stevenson – drums (1978–1983, 1985–1987, 1995–1997, 2002–2004, 2010–present), vocals (1979-1980)
+*Milo Aukerman – vocals (1980–1982, 1985–1987, 1995–1997, 2002–2004, 2010–present)
+*Karl Alvarez – bass guitar (1986–1987, 1995–1997, 2002–2004, 2010–present)
+*Stephen Egerton – guitar (1986–1987, 1995–1997, 2002–2004, 2010–present)
+Former members
+*Frank Navetta – guitar (1977–1983), vocals (1979-1980); died 2008
+*David Nolte – vocals, guitar (1977–1979)
+*Tony Lombardo – bass guitar (1978–1983, 1985), vocals (1979-1980)
+*Ray Cooper – vocals, rhythm guitar (1982-1983), guitar (1985–1986)
+*Doug Carrion – bass guitar (1985–1986)
+<div class="left">
+===Timeline===
+<timeline>
+ImageSize = width:1000 height:auto barincrement:20
+PlotArea = left:100 bottom:60 top:5 right:10
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:01/01/1977 till:05/01/2020
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:horizontal position:bottom
+ScaleMajor = increment:2 start:1977
+ScaleMinor = increment:1 start:1977
+Colors =
+ id:vocals value:red legend:Vocals
+ id:lguitar value:teal legend:Lead_guitar
+ id:rguitar value:brightgreen legend:Rhythm_guitar
+ id:bass value:blue legend:Bass
+ id:drums value:orange legend:Drums
+ id:studio value:black legend:Studio_album
+ id:ep value:gray(0.55) legend:EP
+ id:bars value:gray(0.95)
+BackgroundColors = bars:bars
+LineData =
+ layer:back
+ at:04/01/1981 color:ep
+ at:05/01/1997 color:ep
+ at:02/10/2004 color:ep
+ at:09/04/1982 color:studio
+ at:06/01/1985 color:studio
+ at:07/01/1986 color:studio
+ at:12/14/1987 color:studio
+ at:09/24/1996 color:studio
+ at:03/23/2004 color:studio
+ at:07/01/2016 color:studio
+BarData =
+ bar:Nolte text:"David Nolte"
+ bar:Aukerman text:"Milo Aukerman"
+ bar:Cooper text:"Ray Cooper"
+ bar:Egerton text:"Stephen Egerton"
+ bar:Navetta text:"Frank Navetta" 
+ bar:Lombardo text:"Tony Lombardo"
+ bar:Carrion text:"Doug Carrion"
+ bar:Alvarez text:"Karl Alvarez"
+ bar:Stevenson text:"Bill Stevenson"
+PlotData=
+ width:11 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Aukerman from:07/01/1980 till:09/04/1982 color:vocals
+ bar:Aukerman from:02/01/1985 till:12/31/1987 color:vocals
+ bar:Aukerman from:02/01/1995 till:10/01/1997 color:vocals
+ bar:Aukerman from:04/01/2002 till:08/01/2004 color:vocals
+ bar:Aukerman from:08/01/2010 till:end color:vocals
+ bar:Stevenson from:01/01/1977 till:12/31/1983 color:drums
+ bar:Stevenson from:04/01/1979 till:07/01/1980 color:vocals width:3 
+ bar:Stevenson from:02/01/1985 till:12/31/1987 color:drums
+ bar:Stevenson from:02/01/1995 till:10/01/1997 color:drums
+ bar:Stevenson from:04/01/2002 till:08/01/2004 color:drums
+ bar:Stevenson from:08/01/2010 till:end color:drums
+ bar:Navetta from:01/01/1977 till:04/01/1979 color:rguitar
+ bar:Navetta from:01/01/1977 till:04/01/1979 color:lguitar width:3
+ bar:Navetta from:04/01/1979 till:12/13/1983 color:lguitar
+ bar:Navetta from:04/01/1979 till:07/01/1980 color:rguitar width:7
+ bar:Navetta from:04/01/1979 till:07/01/1980 color:vocals width:3 
+ bar:Navetta from:07/01/1980 till:07/01/1982 color:rguitar width:3
+ bar:Nolte from:01/01/1977 till:04/01/1979 color:rguitar width:3
+ bar:Nolte from:01/01/1977 till:04/01/1979 color:lguitar width:7
+ bar:Nolte from:01/01/1977 till:04/01/1979 color:vocals
+ bar:Cooper from:09/04/1982 till:12/31/1983 color:vocals
+ bar:Cooper from:09/04/1982 till:12/31/1983 color:rguitar width:3
+ bar:Cooper from:02/01/1985 till:09/01/1986 color:lguitar
+ bar:Cooper from:02/01/1985 till:09/01/1986 color:rguitar width:3
+ bar:Egerton from:09/01/1986 till:12/31/1987 color:lguitar
+ bar:Egerton from:09/01/1986 till:12/31/1987 color:rguitar width:3
+ bar:Egerton from:02/01/1995 till:10/01/1997 color:lguitar
+ bar:Egerton from:02/01/1995 till:10/01/1997 color:rguitar width:3
+ bar:Egerton from:04/01/2002 till:08/01/2004 color:lguitar
+ bar:Egerton from:04/01/2002 till:08/01/2004 color:rguitar width:3
+ bar:Egerton from:08/01/2010 till:end color:lguitar
+ bar:Egerton from:08/01/2010 till:end color:rguitar width:3
+ bar:Lombardo from:09/01/1978 till:12/31/1983 color:bass
+ bar:Lombardo from:04/01/1979 till:06/01/1980 color:vocals width:3
+ bar:Lombardo from:02/01/1985 till:07/01/1985 color:bass
+ bar:Carrion from:07/01/1985 till:09/01/1986 color:bass
+ bar:Alvarez from:09/01/1986 till:12/31/1987 color:bass
+ bar:Alvarez from:02/01/1995 till:10/01/1997 color:bass
+ bar:Alvarez from:04/01/2002 till:08/01/2004 color:bass
+ bar:Alvarez from:08/01/2010 till:end color:bass
+</timeline>
+</div>
+==Documentary==
+In 2013 Rogue Elephant Pictures, an Austin Texas-based film company, announced the pending release of Filmage, a film by Deedle Lacour and Matt Riggle. The documentary film has more than 40 interviews with band members past and present and keynote commentary by associated musicians such as Keith Morris of Black Flag, Mike Watt of the Minutemen, Kira Roessler of Black Flag, Ian MacKaye of Fugazi, and many more. The film was released on June 15, 2013.<ref name="Dalton"></ref>
+==Discography==
+Studio albums
+* Milo Goes to College (1982)
+* I Don't Want to Grow Up (1985)
+* Enjoy! (1986)
+* All (1987)
+* Everything Sucks (1996)
+* Cool to Be You (2004)
+* Hypercaffium Spazzinate (2016)
+==References==
+==External links==
+*
+*
+*
+*
+
+</ref> Stevenson wrote "One More Day" about the death of his father, who he had taken in and cared for throughout the last year of his life: "He and I always had a terrible relationship. We spent a good part of my adult life being somewhat estranged from each other. He became ill and I took care of him for a little while. And then he died. That song is just about his and my relationship. Just to get that out of me and not holding it inside anymore, is a huge relief for me . Every single time I hear that song, it just freaks me out. I've never, ever written a song that's freaked me out that much."<ref name="Interviews"/>

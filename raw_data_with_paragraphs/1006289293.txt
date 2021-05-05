@@ -1,0 +1,79 @@
+HGM-25A Titan I
+
+===Silos===
+Weapon System 107A-2 was a weapon system. I encompassed all of the equipment and even the bases for the Titan I strategic missile. The Titan I was first American ICBM designed to be based in underground silos, and it gave USAF managers, contractors and missile crews valuable experience building and working in vast complexes containing everything the missiles and crews needed for operation and survival. The complexes were composed of an entry portal, control center, powerhouse, terminal room, two antenna silos for the ATHENA guidance radar antennas, and three launchers each composed of: three equipment terminals, three propellant terminals, and three missile silos. All connected by an extensive network of tunnels.<ref>United States Air Force, The T.O. 21M-HGM25A-1-1 Technical Manual Operation and Organizational Maintenance HGM-25A Missile Weapon System, United States Air Force, 1964, Pg 1-9</ref> Both antenna terminals and all three launchers were isolated with double door blast locks the doors of which could not be open at the same time. This was to ensure that if there was an explosion in a missile launcher or the site was under attack, only the exposed antenna and/or missile silo would be damaged.<ref>United States Air Force, The T.O. 21M-HGM25A-1-1 Technical Manual Operation and Organizational Maintenance HGM-25A Missile Weapon System, United States Air Force, 1964, Pg 1-52</ref>
+The launch crew was composed of a missile combat crew commander, missile launch officer (MLO), guidance electronics officer (GEO), ballistic missile analyst technician (BMAT), and two electrical power production technicians (EPPT).<ref>United States Air Force, The T.O. 21M-HGM25A-1-1 Technical Manual Operation and Organizational Maintenance HGM-25A Missile Weapon System, United States Air Force, 1964, Pg 7-1 - 7-3</ref> There were also a cook and two Air Police.<ref>Simpson, Charles G, The Titan I part 2, Breckenridge, Colorado: Association of Air Force Missileers, October 1993, p. 5.</ref> During normal duty hours there was a site commander, site maintenance officer, site chief, job controller/expediter, tool crib operator, power house chief, three pad chiefs, three assistant pad chiefs, another cook and more air police. There could be a number of electricians, plumbers, power production technicians, air conditioning technicians, and other specialist when maintenance was being performed.<ref>Simpson, Charles G, The Titan I part 2, Breckenridge, Colorado: Association of Air Force Missileers, October 1993, p. 5.</ref>
+These early complexes while safe from a nearby nuclear detonation, however, had certain drawbacks. First, the missiles took about 15 minutes to fuel, and then, one at a time, had to be lifted to the surface on elevators for launching and guidance, which slowed their reaction time. Rapid launching was crucial to avoid possible destruction by incoming missiles. Even though Titan complexes were designed to withstand nearby nuclear blasts antenna and missile extended for launch and guidance were quite susceptible to even a relatively distant miss.<ref>United States Air Force, The T.O. 21M-HGM25A-1-1 Technical Manual Operation and Organizational Maintenance HGM-25A Missile Weapon System, United States Air Force, 1964, page 6-1</ref> The missiles sites of a squadron were placed at least 17 (usually 20 to 30) miles apart so that a single nuclear weapon could not take out two sites.<ref>Green Warren E.1962, The Development of the SM-68 Titan, Wright-Patterson Air Force Base: Air Force Systems Command, 1962, AFSC Historical Publications Series 62-23-1, p. 85.</ref> The sites also had to be close enough that if a site's guidance system failed it could "handover" its missiles to another site of the squadron.<ref>Hoselton, Gary A., Titan I Guidance System, Brekenridge, Colorado: Association of Air Force Missileers, Volume 6, Number 1998, p. 6.</ref><ref>United States Air Force, The T.O. 21M-HGM25A-1-1 Technical Manual Operation and Organizational Maintenance HGM-25A Missile Weapon System, United States Air Force, 1964, page 3-100</ref>
+The distance between the antenna silos and the most distant missile silo was between 1,000 and . These were by far the most complex, extensive and expensive missile launch facilities ever deployed by the USAF.<ref>Simpson, Charles G, The Titan I part 1, Breckenridge, Colorado: Association of Air Force Missileers, July 1993, p. 3.</ref><ref>Green Warren E., 1962, The Development of the SM-68 Titan, Wright-Patterson Air Force Base: Air Force Systems Command, 1962, AFSC Historical Publications Series 62-23-1, p. 77.</ref><ref>Kaplan, Albert B. and Keyes, Lt. Colonel George W.1962 Lowry Area History 29 September 1958 – December 1961, U.S. Army Corps of Engineers Ballistic Missile Construction Office (CEBMCO), 1962, pg. 4.</ref> Launching a missile required fueling it in its silo, and then raising the launcher and missile out of the silo on an elevator. Before each launch, the guidance radar, which was periodically calibrated by acquiring a special target at a precisely known range and bearing,<ref>Hoselton, Gary A., Titan I Guidance System, Brekenridge, Colorado: Association of Air Force Missileers, Volume 6, Number 1, March 1998, p. 7.</ref> had to acquire a radio on the missile (missile guidance set AN/DRW-18, AN/DRW-19, AN/DRW-20, AN/DRW-21, or AN/DRW-22).<ref>Hoselton, Gary A., Titan I Guidance System, Brekenridge, Colorado: Association of Air Force Missileers, Volume 6, Number 1, March 1998, p. 5.</ref><ref>United States Air Force, The T.O. 21M-HGM25A-1-1 Technical Manual Operation and Organizational Maintenance HGM-25A Missile Weapon System, United States Air Force, 1964, paragraph 1-159</ref> When the missile was launched, the guidance radar tracked the missile and supplied precise velocity range and azimuth data to the guidance computer, which then generated guidance corrections that were transmitted to the missile. Because of this, the complex could only launch and track one missile at a time, although another could be elevated while the first was being guided.
+===Retirement===
+When the storable-fueled Titan II and the solid-fueled Minuteman I were deployed in 1963, the Titan I and Atlas missiles became obsolete. They were retired from service as ICBMs in early 1965.<ref>On Alert An Operational History of the United States Air Force Intercontinental Ballistic Missile (ICBM) Program, 1945-2011, Spires, David, p 147, Air Force Space Command, United States Air Force, Colorado Springs, Colorado 2012 </ref><ref>Stumpf, David K., Titan II, p 31, The University of Arkansas Press, Fayetteville, Arkansas, 2000 United States Cold War Missile Program,U.S. Army Construction Engineering Research Laboratories, Champaign, IL., page 137</ref>
+The final launch from Vandenberg Air Force Base (VAFB) occurred on 5 March 1965. At that time, the disposition of the 101 total production missiles was as follows:
+*17 were test launched from VAFB (September 1961 – March 1965)
+*one was destroyed in Beale AFB Site 851-C1 silo explosion 24 May 1962
+*54 were deployed in silos on 20 January 1965
+*29 were in storage at SBAMA<ref></ref> 
+(three at VAFB, one at each of five bases, one at Lowry, and 20 in storage at SBAMA elsewhere)
+The 83 surplus missiles remained in inventory at Mira Loma AFS. It did not make economic sense to refurbish them as SM-65 Atlas missiles with similar payload capacities had already been converted to satellite launchers. About 33 were distributed to museums, parks and schools as static displays (see list below). The remaining 50 missiles were scrapped at Mira Loma AFS near San Bernardino, CA; the last was broken up in 1972, in accordance with the SALT-I Treaty of 1 February 1972.<ref></ref> 
+By November 1965 the Air Force Logistics Command had determined that the cost of modifying the widely dispersed sites to support other ballistic missiles was prohibitive, and attempts were made to find new uses.<ref>Clemmer, Wilbur E.1966, Phase-Out of the Atlas E and F and Titan I Weapon Systems, Wright-Patterson Air Force Base: Historical Research Division Air Force Logistics Command, 1962, p. 28.</ref> By Spring 1966 a number of possible uses and users had been identified. By 6 May 1966 the Air Force wanted to retain 5 Titan sites and the General Services Administration had earmarked 1 for possible use. The USAF removed equipment it had uses for, the rest was offered to other government agencies.<ref>Clemmer, Wilbur E.1966, Phase-Out of the Atlas E and F and Titan I Weapon Systems, Wright-Patterson Air Force Base: Historical Research Division Air Force Logistics Command, 1962, p. 31.</ref> Eventually no sites were retained and all were salvaged. The chosen method was the Service and Salvage contract, which required the contractor to remove the equipment the government wanted before proceeding with scrapping.<ref>Clemmer, Wilbur E.1966, Phase-Out of the Atlas E and F and Titan I Weapon Systems, Wright-Patterson Air Force Base: Historical Research Division Air Force Logistics Command, 1962, p. 49.</ref> This accounts for the varied degree of salvage at the sites today. Most are sealed today, with one in Colorado that is easily entered but also very unsafe.<ref></ref> One is open for tours.<ref></ref>
+Most of the ATHENA guidance computers were given to universities. One is in the Smithsonian. One remained in use at Vandenberg AFB until it guided a last Thor-Agena launch in May 1972. It had guided over 400 missiles.<ref>McMurran, Marshall W., Achieving Accuracy a Legacy of Computers and Missiles, p 141, Xlibris Corporation, 2008 </ref><ref></ref>
+On 6 September 1985 Strategic Defense Initiative (AKA "Star Wars" program), a scrapped Titan I Second Stage was used in a Missile Defense test. The MIRACL Near Infrared Laser, at White Sands Missile Range, NM was fired at a stationary Titan I second stage that was fixed to the ground. The second stage burst and was destroyed by the laser blast. The second stage was pressurized with nitrogen gas to 60-psi and did not contain any fuel or oxidizer. A follow-up test 6 days later was conducted on a scrapped Thor IRBM, its remnants reside at the SLC-10 Museum at Vandenberg AFB.<ref>”Missile Destroyed in First Sdi Test At High-energy Laser Facility”, Aviation Week, 23 September 1985, page 17</ref>
+<gallery class="center">
+File:Titan-I Mira Loma1.jpg|Titan-I ICBM SM vehicles being destroyed at Mira Loma AFS for the SALT-1 Treaty
+File:Titan-I Mira Loma2.jpg|Titan-I ICBM SM vehicles being destroyed at Mira Loma AFS for the SALT-1 Treaty
+File:Titan-I Mira Loma3.jpg|Titan-I ICBM SM vehicles being destroyed at Mira Loma AFS for the SALT-1 Treaty
+</gallery>
+==Static displays and articles==
+Of the 33 Titan I Strategic Missiles and two (plus five possible) Research and Development Missiles that were not launched, destroyed, or scrapped, several survive today:
+*B2 57-2691 Cape Canaveral Air Force Space & Missile Museum, Florida Horizontal
+*R&D (57–2743) Colorado State Capitol display 1959 (SN belongs to a Bomarc) Vertical
+*R&D G-type Science and Technology Museum, Chicago 21 June 1963 Vertical
+*SM-560-3650Lompoc? Horizontal
+*SM-4960-3694Cordele, Georgia (west side of I-75, exit 101 at U.S. Route 280). Vertical
+*SM-5360-3698 Site 395-C Museum, Vandenberg AFB, Lompoc, Ca. (from March AFB) Horizontal 
+*SM-5460-3699Strategic Air Command & Aerospace Museum, Ashland, Nebraska. Vertical
+*SM-6160-3706 Gotte Park, Kimball, NE (only first stage standing, damaged by winds in '96?)Vertical (damaged by winds 7/94 ?)
+*SM-63 60-3708In storage at Edwards AFB (still there?) Horizontal
+*SM-6561-4492NASA Ames Research Center, Mountain View, California. Horizontal
+*SM-6761-4494Titusville High School, Titusville, Florida (on Route US-1) removed, was horizontal
+*SM-6961-4496 (full missile) Discovery Park of America in Union City, Tennessee. It has been restored to correct external appearance and is now vertically displayed on the grounds. Its upper stage engine was also restored and on display.
+*SM-7061-4497 Veterans Home, Quincy, IL Vertical (removed and sent to DMAFB for destruction in May 2010)
+*SM-7161-4498U.S. Air Force Museum, now AMARC (to go to PIMA Mus.) Horizontal
+*SM-7261-4499Florence Regional Airport Air and Space Museum, Florence, South Carolina. Horizontal
+*SM-7361-4500former Holiday Motor Lodge, San Bernardino (now missing?). Horizontal
+*SM-7961-4506former Oklahoma State Fair Grounds, Oklahoma City, Oklahoma. 1960s Horizontal
+*SM-8161-4508Kansas Cosmosphere, Hutchinson, Kansas. In storage
+*SM-8661-4513 Beale AFB (not on display, was horizontal, removed 1994) Horizontal
+*SM-8861-4515 (st. 1) Pima Air & Space Museum, outside DM AFB, Tucson, Arizona, now WPAFB Horizontal
+*SM-89 61-4516 (st. 2) Pima Air Museum, outside DM AFB, Tucson, Arizona, now WPAFB Horizontal
+*SM-9261-4519 (st. 1) Kansas Cosmosphere, Hutchinson, Kansas.(acq. 11/93 from MCDD) Vertical (st 1 mate to SM-94 st 1)
+*SM-9361-4520 (st. 2) SLC-10 Museum, Vandenberg AFB, Lompoc, Ca. Horizontal (only stage 2)
+*SM-9461-4521 (st. 1) Kansas Cosmosphere, Hutchinson, Kansas. (acq. 6/93 from MCDD)Vertical (st 1 mate to SM-92 st 1)
+*SM-9661-4523South Dakota Air and Space Museum, Ellsworth AFB, Rapid City, South Dakota. Horizontal
+*SM-10161-4528 Estrella Warbirds Museum, Paso Robles, CA (2nd stage damaged) Horizontal
+*SM-?? (stg. 2 only) former SDI laser test target (whereabouts?)
+*SM-?? (stg. 1 only) former Spaceport USA Rocket Garden, Kennedy Space Center, Florida. Vert. (stg 1 mated to stg 1 below)
+*SM-?? (stg. 1 only) former Spaceport USA Rocket Garden, Kennedy Space Center, Florida. Vert. (stg 1 mated to stg 1 above)
+*SM-?? (stg. 1 only) Science Museum, Bayamon, Puerto Rico Vert. (stg 1 mated to stg 1 below)
+*SM-?? (stg. 1 only) Science Museum, Bayamon, Puerto Rico (top half from Bell's Junkyard) Vert. (stg 1 mated to stg 1 above)
+*SM-?? (full missile) former Outside main gate of White Sands Missile Range, N.M. false report?Vertical
+*SM-?? (full missile) Spacetec CCAFS Horizontal
+Note: Two stacked Titan-1 first stages created a perfect illusion of a Titan-2 Missile for museums above.
+==Prospective manned flights==
+The Titan I was considered for use as the first missile to put a man in space. Two of the firms responding to an Air Force "Request for Proposal" for "Project 7969," an early USAF project to "Put a Man in Space Soonest (MISS)". Two of the four firms which responded, Martin and Avco, proposed using Titan I as the booster.<ref></ref><ref></ref>
+==See also==
+* List of military aircraft of the United States
+* List of missiles
+==References==
+
+* 568th Strategic Missile Squadron April 1961 – March 1965
+: Larson AFB, Washington
+* 569th Strategic Missile Squadron June 1961 – March 1965
+: Mountain Home AFB, Idaho
+* 724th Strategic Missile Squadron April 1961 – June 1965
+: Lowry AFB, Colorado
+* 725th Strategic Missile Squadron April 1961 – June 1965
+: Lowry AFB, Colorado
+* 850th Strategic Missile Squadron June 1960 – March 1965
+: Ellsworth AFB, South Dakota
+* 851st Strategic Missile Squadron February 1961 – March 1965
+: Beale AFB, California

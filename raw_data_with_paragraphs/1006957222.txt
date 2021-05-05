@@ -1,0 +1,118 @@
+Change ringing
+
+==Technique and physics==
+Image:bells.devon.750pix.jpg|thumb|Bell ringing at Stoke Gabriel parish church, Devon, England. This is in the "ringing chamber".
+Today, some towers have as many as sixteen bells that can be rung together, though six or eight bells are more common. The highest pitch bell is known as the treble, and the lowest is the tenor. For convenience, the bells are referred to by number, with the treble being number 1 and the other bells numbered by their pitch&mdash;2,3,4, etc.&mdash;sequentially down the scale. (This system often seems counter-intuitive to musicians, who are used to a numbering that ascends with pitch.) The bells are usually tuned to a diatonic major scale, with the tenor bell being the tonic (or key) note of the scale. Some towers contain additional bells so that different subsets of the full number can be rung, still to a diatonic scale.<ref></ref> For instance, many 12-bell towers have a flat sixth,<ref>This again may seem counter-intuitive to musicians. A flat sixth in a 12-bell ring is in fact the flattened 7th of the scale. A sharp second bell is a sharpened 11th (or 4th in the upper, incomplete octave) of the scale. For example, assume the bells are tuned to C-G'. A flat sixth is B allowing F-F' to be a scale. The sharp second is F', giving G-G' as the scale.</ref> which if rung instead of the normal number 6 bell allows 2 to 9 to be rung as light diatonic octave; other variations are also possible.<ref> urltoken Dove entry for Worcester Cathedral, a twelve bell tower with 3 semi-tone bells. urltoken Search on Dove's Guide for towers with 13 or more bells, note that Christ Church Cathedral, Dublin is listed as having 16 bells, with additional sharp 6, 9 and 13; Swan Bells, Perth, Western Australia, is again a 16 but with additional flat 3 and 10. Retrieved 28 May 2008.</ref>
+The bells in a tower reside in the bell chamber or belfry usually with Louver to enable the sound to escape.
+The bells are mounted within a bellframe of steel or wood. Each bell is suspended from a headstock fitted on trunnions (plain or non-friction bearings) mounted to the belfry framework so that the bell assembly can rotate. When stationary in the down position, the centre of mass of the bell and clapper is appreciably below the centreline of the trunnion supports, giving a pendulum effect to the assembly, and this dynamic is controlled by the ringer's rope. The headstock is fitted with a wooden stay, which, in conjunction with a slider, limits maximum rotational movement to a little less than 370 degrees. To the headstock a large wooden wheel is fitted and to which a rope is attached. The rope wraps and unwraps as the bell rotates backwards and forwards. This is full circle ringing and quite different from fixed or limited motion bells, which chime. Within the bell the clapper is constrained to swing in the direction that the bell swings. The clapper is a rigid steel or wrought iron bar with a large ball to strike the bell. The thickest part of the mouth of bell is called the soundbow and it is against this that the ball strikes. Beyond the ball is a flight, which controls the speed of the clapper. In very small bells this can be nearly as long as the rest of the clapper.
+Below the bell chamber there may be one or more sound chambers, (one of which is likely to house the clock mechanism if the church has one) and through which the rope passes before it drops into the ringing chamber or room. Typically, the rope's length is such that it falls close to or on to the floor of the ringing chamber. About from the floor, the rope has a woolen grip called the sally (usually around long) while the lower end of the rope is doubled over to form an easily held tail-end.
+Unattended bells are normally left hanging in the normal ("down") position, but prior to being rung, the bells are rung up. In the down position, the bells are safe if a person touches them or pulls a rope. A bell that is up is dangerous to be near, and only expert ringers should ever contemplate entering a bell chamber or touching a rope when the bells are up. The ringer pulls on the rope and starts the bell swinging. Each time the bell swings the ringer adds a little more energy to the system, similar to pushing a child's swing. Eventually there is enough energy for the bell to swing right up and be left over-centre just beyond the balance point with the stay resting against the slider.
+Bellringers typically stand in a circle around the ringing chamber, each managing one rope. Bells and their attendant ropes are so mounted that the ropes are pulled in a circular sequence, usually clockwise, starting with the lightest (treble) bell and descending to the heaviest (tenor). To ring the bell, the ringer first pulls the sally towards the floor, upsetting the bell's balance and swinging it on its bearings. As the bell swings downwards the rope unwinds from the wheel and the ringer adds enough pull to counteract friction and air resistance. The bell winds the rope back onto the other side of the wheel as it rises and the ringer can slow (or check) the rise of the bell if required.
+The rope is attached to one side of the wheel so that a different amount of rope is wound on and off as it swings to and fro. The first stroke is the handstroke with a small amount of rope on the wheel. The ringer pulls on the sally and when the bell swings up it draws up more rope onto the wheel and the sally rises to, or beyond, the ceiling. The ringer keeps hold of the tail-end of the rope to control the bell. After a controlled pause with the bell, on or close to its balancing point, the ringer rings the backstroke by pulling the tail-end, causing the bell to swing back towards its starting position. As the sally rises, the ringer catches it to pause the bell at its balance position.
+In English-style ringing the bell is rung up such that the clapper is resting on the lower edge of the bell when the bell is on the stay. During each swing, the clapper travels faster than the bell, eventually striking the soundbow and making the bell sound. The bell speaks roughly when horizontal as it rises, thus projecting the sound outwards. The clapper rebounds very slightly, allowing the bell to ring. At the balance point, the clapper passes over the top and rests against the soundbow.
+In change ringing where the order the bells are struck in is constantly altered, it is necessary to time the swing so that this strike occurs with precise positioning within the overall pattern. Precision of striking is important at all times. To ring quickly, the bell must not complete the full 360 degrees before swinging back in the opposite direction; while ringing slowly, the ringer waits with the bell held at the balance, before allowing it to swing back. To achieve this, the ringer must work with the bell's momentum, applying just the right amount of effort during the pull that the bell swings as far as required and no further. This allows two adjacent bells to reverse positions, the quicker bell passing the slower bell to establish a new pattern. Although ringing up certainly involves some physical exertion, actual ringing should rely more on practised skill than mere brute force. Even the smallest bell in a tower is much heavier than the person ringing it. The heaviest bell hung for full-circle ringing is in Liverpool Cathedral and weighs .<ref></ref><ref></ref> Despite this colossal weight, it can be safely rung by one (experienced) ringer.
+(Whilst heavier bells exist—for example Big Ben—they are generally only chimed, either by swinging the bell slightly or having the bell hung dead and using a mechanical hammer.)
+==Changes==
+The simplest way to sound a ring of bells is by ringing rounds. This is a repeated sequence of bells descending from the highest to lowest note, which is from the lightest to the heaviest bell. This was the original sequence used before change ringing was developed, and change ringing always starts and ends with this sequence.
+Two forms of ringing changes have developed;
+#Call changes: where the conductor of the ringing commands each change.
+#Method ringing: where after a word of command to start, the changes are rung from memory by the ringers.
+===Call change ringing===
+Most ringers begin their ringing career with call change ringing; they can thus concentrate on learning the physical skills needed to handle their bells without needing to worry about "methods". There are also many towers where experienced ringers practise call change ringing as an art in its own right (and even exclusively), particularly in the English county of Devon.
+The technique was probably developed in the early 17th century in the early days of change ringing.<ref>Change ringing – the history of an English Art. Vol 3, W T Cook & Cyril A Wratten. Pub Central Council of Church Bell Ringers, 1994. P90-93 “A recent examination of a number of call change ‘peals’ still practised at Totnes in the South Hams …including the ubiquitous ‘Sixty on Thirds’ discloses a remarkable affinity with the seventeenth century Plain Changes described by Duckworth and Stedman. The avoidance, where possible, of repetition and the use of hunts, half-hunt and extreme changes are all features of their construction, and together suggest a basically uninterrupted descent from the earlier system, unbroken by the intrusion of change ringing."</ref>
+Call change ringing requires one ringer to give commands to change the order of the bells, as distinct from method ringing, where the ringers memorise the course of bells as part of a continuous pattern.<ref>Bell ringing- the English Art of Change Ringing. Ron Johnson. Pub Viking 1986 P 89.</ref>
+====Call change instructions====
+In call change ringing each different sequence of the bells, known as a "row", is specifically called out by one ringer, the "conductor", who instructs the other ringers how to change their bells' places from row to row. This command is known as a "call".
+The change is made at the next "handstroke" (when the sally on the bell rope is pulled), after the call. In calling, the conductor usually has a strategy or plan to achieve the desired progression of rows, rather than remembering each call, and an example of these is shown in the example on eight bells. Conductors can space out the calls at will, but each row is normally struck twice at least because of the difficulty of calling continuous changes.
+Calls are usually of the form "X to (or after) Y" or "X and Y"; in which X and Y refer to two of the bells by their physical numbers in the tower (not by their positions in the row). All cause two bells to swap. The first form is used for calling up and calling down, and the second form swaps the two bells mentioned.<ref></ref>
+As an example of calling up and down, consider the following sequence of rows, and the calls a conductor would use to call them:
+Such names are often humorous; for example, the sequence 14235 on five bells is called weasels because it is the tune of the refrain to the children's song Pop Goes the Weasel. This is particularly effective at the end of ringing down. The bells are in order, and so if not chimed leave a pause, the sequence becomes: 1.4.23.5 where a dot indicates a pause.
+Called changes are listed at urltoken MAW Call Change Collection
+===Striking===
+Although neither call change nor method ringing produces conventional tunes, it is still the aim of the ringers to produce a pleasant sound. One of the most important aspects of this is good striking — not only should the bells never clash by sounding at the same moment, the bells should sound to a perfect rhythm, tapping out a steady beat.
+It is the custom to leave a pause of one beat after every alternate row, i.e., after the ringing of each ‘backstroke’ row. This is called 'open handstroke' ringing (or open handstroke leading). In Devon, Cornwall and parts of Yorkshire, this custom is not followed when call-change ringing; instead the bells strike steadily without the pause. This latter custom is known as the closed-hand or cartwheel arrangement. However for method ringing the universal practice is to ring with open handstrokes, even in the South West of England.
+Striking competitions are held where various bands of ringers attempt to ring with their best striking. They are judged on their number of faults (striking errors); the band with the fewest faults wins. These competitions are organized on regional and national levels, being particularly popular among the call-change ringers of Devon where it is customary to include the quality of the rise and lower of the bells as part of the judging criteria. Competitions for method ringers usually start "off the stay"—i.e., the bells are rung up before the competition begins. At the annual National 12 Bell Striking Contest the bands are ringing methods and producing a different change approximately every 2.5 seconds, with a gap between bells of 0.21 seconds. To an expert ringer's ear at this level of competition a variation of a tenth of this would be discernible as a striking fault.
+===Sport===
+In 2016 readers of The Ringing World magazine wrote to insist that bell ringing was "an art and a sport", as demonstrated by regular "striking competitions." It was suggested that classification of change ringing as a sport by Sport England could save it from becoming obsolete. But the Central Council of Church Bell Ringers opposed the move, suggesting that it would jeopardise its relationship with church bodies, since bell ringing should be seen as part of Christian worship, not exercise. The council's president, Chris Mew, said: "Where is the glamour of the sports field and where are the David Beckhams of the belfry?"<ref></ref>
+== In literature and television ==
+The mystery novel The Nine Tailors by Dorothy L. Sayers (1934) contains a great deal of information on change-ringing. Her fictional detective, Lord Peter Wimsey, demonstrates his skill at ringing, and the solution to the central puzzle of the book rests in part upon his knowledge of the patterns of change ringing.
+Connie Willis, who frequently and overtly references Sayers in To Say Nothing of the Dog (1997), features bell ringers in her earlier novel Doomsday Book (1992); a group of American women led by a Mrs. Taylor frequently appears practising for or ringing both handbells and changes.
+The British television series Midsomer Murders aired an episode in the fifth season on a series of murders within a bell-ringing team, in "Ring Out Your Dead".
+In the science-fiction novel Anathem by Neal Stephenson (2008) changes are rung in a cloistered monastery for mathematicians to signal different ceremonies.
+==English bell-ringing terms==
+thumb
+* Back – at or near last place in a change.
+* Back bells – the heavier bells (so tend to limit the speed).
+* Backstroke (or Backstroke home) – The part of a bell's cycle started by pulling on the tail end (rope end) in the tower, or with the bells raised in hand; also: the position at which the back bells come into rounds order at backstroke.
+* Baldrick – the leather lined metal strap from which the clappers used to be hung.
+* Band – a group of ringers for a given set of bells (or for a special purpose, e.g., a "peal band")
+* Bearings – the load-bearing assembly on which the headstock (and so the whole bell) turns about its gudgeon pins. Modern hanging means the bell is hung on ball bearings, but were traditionally plain bearings.
+* Bob – the commonest type of call in most methods<ref></ref> or a class of plainmethod (in which either dodging takes place or some bells are not just hunting or place making); also can mean (usually called the "Bob place") the appropriate point in the method (e.g. a lead end) to modify the sequence of changes.
+* Bob caller – someone who calls a touch, but does not check the ringing as a conductor would.
+* Bristol start – starting to raise in peal by adding an extra bell each time.
+* Bump the stay – allow the bell to swing over the balance, out of control, so the stay pushes the slider to its limit, stopping the bell.
+* Cambridge – The right place surprise method, one of the standard eight, that is often the first learned.
+* Canons – loops cast onto older bells' crowns.
+* Cinques – (pronounced "sinks") methods for working eleven bells (possibly with a twelfth covering) the name deriving from the practice of swapping five pairs of bells.
+* Clapper – the metal (usually cast iron) rod/hammer hung from a pivot below the crown of the bell, that strikes the soundbow of the bell when the bell stops moving.
+* Clocking – causing a bell to sound while down by pulling a hammer against it (as a clock would) or by pulling the clapper against the side of the bell.
+* Closed leads (also called cartwheeling) – handstroke changes follow backstroke changes with no handstroke gap (unlike open leads)
+* Come round – return to rounds to end a touch (e.g. "come round at handstroke), or produce rounds prematurely.
+* Cover – a bell (e.g. tenor) ringing at the end of every row, while the other bells ring a method.
+* Delight – a treble bob method in which an internal place is made sometimes, but not every time, the treble is going from one dodge to another ("cross sections").
+* Dodge – Changing direction for one stroke in bell ringing (although strictly a dodge is taking a retrograde step in the middle of a portion of hunting). Dodging practice is an exercise where two bells exchange places on every stroke, sometimes taught to aid learners change from call changes to plain hunt.
+* Double method – a method where the structure is the same if reversed.
+* Doubles – a method with five working bells, possibly with a sixth covering.
+* Down – EITHER: when the bells are hanging with the mouth lowermost position, OR: moving towards the front (as in "hunting down").
+* Extent – a touch where all possible changes are rung exactly once each; the number of such different rows is N factorial, where N is the number of bells.
+* Handstroke – the stroke when the sally is gripped. 
+* Hunt – move one place at a time up or down (see plain hunt, treble bob hunt, etc.).
+* Firing- From rounds all the bells are rung at once for a few strokes before returning to rounds. Done at special occasions such as weddings or New Year. 
+* Fire out – to ring haphazardly, either because ringers accidentally try to ring at once, or deliberately for wedding ringing.
+* Front – at or near the start of a row.
+* Front bells – the smaller bells which are rung first in rounds.
+* Garter hole – the hole in the wheel where the rope passes through.
+* Lead end – the change on which the treble is leading (ringing first) at its backstroke.
+* Little Bob – a method in which the treble plain hunts between lead and fourths place.
+* Line – the sequence of places a bell rings in a method, or the diagram describing the method (the convention being that the treble line is shown in red while the others are blue).
+* Method – an agreed/named sequence of changes that forms a round block, See plain course.
+* Muffling For commemorative services such as funerals, memorial services and Remembrance Sunday, the bells are rung half-muffled with a leather pad on one side of the clapper. Very rarely fully muffled with pads both sides. 
+* Sally – the woollen bulge woven into the rope. It is both an indicator and a help with gripping. 
+* Slider – A device which allows the bell to go over the balance at each end of its swing, but not to over-rotate. 
+* Stay – a device that is attached to the headstock and works in conjunction with the slider.
+* Tenor – the lowest pitched bell in the tower.
+* Treble – the highest-pitched bell in the tower. 
+* Up – EITHER: when the bells are raised to the mouth uppermost position, OR: moving towards the back (as in "hunting up").
+==See also==
+*The Australian and New Zealand Association of Bellringers 
+*Braid theory
+*Change ringing software
+*Grandsire
+*John Taylor & Co
+*Steinhaus–Johnson–Trotter algorithm
+*Veronese bellringing art
+*Whitechapel Bell Foundry
+==Notes==
+==References==
+* urltoken Bells and Bellringing, a presentation prepared by the Publications Committee of the Central Council of Church Bell Ringers
+==External links==
+* urltoken The Craft of Bellringing, a DVD documentary about change ringing
+* urltoken Discover Bell Ringing – introduction for non-ringers
+* urltoken Call changes explained
+* urltoken ringing.info, a wide-ranging and well-organized compendium of ringing links
+* urltoken The Central Council of Church Bell Ringers
+* urltoken Central Council decisions &mdash; scroll down the page to see the council's definition of a peal
+* urltoken Ringing World, the Council's weekly journal
+* urltoken Dove's Guide, a directory of towers worldwide with bells hung for change ringing
+* urltoken Some recordings of change ringing
+* urltoken Change Ringing Wiki - Info for ringers
+* urltoken - Video of plain hunt ringing
+* urltoken Animation of English Full-circle ringing
+* urltoken Change-ringing resources, an online compendium of almost everything you need to know
+
+, but is a series of mathematical sequences.
+Change ringing originated following the invention of English full-circle tower bell ringing in the early 17th century, when bell ringers found that swinging a bell through a much larger arc than that required for swing-chiming gave control over the time between successive strikes of the clapper. Ordinarily a bell will swing through a small arc only at a set speed governed by its size and shape in the nature of a simple pendulum, but by swinging through a larger arc approaching a full circle, control of the strike interval can be exercised by the ringer. This culminated in the technique of full circle ringing, which enabled ringers to independently change the speeds of their individual bells accurately to combine in ringing different mathematical permutations, known as "changes". 
+ 
+Speed control of a tower bell is exerted by the ringer only when each bell is mouth upwards and moving slowly near the balance point; this constraint and the intricate rope manipulation involved normally requires that each bell has its own ringer. The considerable weights of full-circle tower bells also means they cannot be easily stopped or started and the practical change of interval between successive strikes is limited. This places limitations on the rules for generating easily-rung changes; each bell must strike once in each change, but its position of striking in successive changes can only change by one place.
+Change ringing is practised worldwide, but it is by far most common on church bells in English churches, where it first developed. 
+Change ringing is also performed on handbells, where conventionally each ringer holds two bells, and chimed on carillons and chimes of bells; though these are more commonly used to play conventional melodies.

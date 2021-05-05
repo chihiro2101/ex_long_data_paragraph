@@ -1,0 +1,56 @@
+Activities of daily living
+
+== Basic ADLs ==
+Basic ADLs consist of self-care tasks that include:<ref></ref>
+* Bathing and showering 
+* Personal hygiene and grooming (including brushing/combing/styling hair)
+* clothing
+* Toilet hygiene (getting to the toilet, cleaning oneself, and getting back up)
+* Functional mobility, often referred to as "transferring", as measured by the ability to walk, get in and out of bed, and get into and out of a chair; the broader definition (moving from one place to another while performing activities) is useful for people with different physical abilities who are still able to get around independently.
+* Self-feeding (not including cooking or chewing and swallowing)
+Basic ADLs include the things many people do when they get up in the morning and get ready to go out of the house: get out of bed, go to the toilet, bathe, dress, groom, and eat.
+There is a hierarchy to the ADLs: ". the early loss function is hygiene, the mid-loss functions are toilet use and locomotion, and the late loss function is eating. When there is only one remaining area in which the person is independent, there is a 62.9% chance that it is eating and only a 3.5% chance that it is hygiene."<ref></ref>
+Although not in wide general use, a mnemonic that some find useful is DEATH: dressing/bathing, eating, ambulating (walking), toileting, hygiene.<ref name="UOttawa"></ref>
+== Instrumental ADLs ==
+Instrumental activities of daily living (IADLs) are not necessary for fundamental functioning, but they let an individual live independently in a community:<ref name=FGH>Bookman, A., Harrington, M., Pass, L., & Reisner, E. (2007). Family Caregiver Handbook. Cambridge, MA: Massachusetts Institute of Technology.</ref><ref></ref>
+* Homemaking
+* Managing money
+* Moving within the community
+* Preparing meals
+* Shopping for groceries and necessities
+* Taking prescribed medications
+* Using the telephone or other form of communication
+Occupational therapy often evaluate IADLs when completing patient assessments. The American Occupational Therapy Association identifies 12 types of IADLs that may be performed as a co-occupation with others:<ref name="OTPF"></ref>
+* Care of others (including selecting and supervising caregivers)
+* Care of pets
+* Child rearing
+* Communication management
+* Community mobility
+* Financial management
+* Health management and maintenance
+* Home establishment and maintenance
+* Meal preparation and cleanup
+* Religious observances
+* Safety procedures and emergency responses
+* Shopping
+== Role of therapy ==
+Occupational therapists evaluate and use therapeutic interventions to rebuild the skills required to maintain, regain or increase a person's independence in all Activities of Daily Living that have declined because of health conditions (physical or mental), injury or age-related debility.<ref></ref>
+Physical therapists use exercises to assist patients in maintaining and gaining independence in ADLs. The exercise program is based on what components patients are lacking such as walking speed, strength, balance, and coordination. Slow walking speed is associated with increased risk of falls. Exercise enhances walking speed, allowing for safer and more functional Walking capabilities. After initiating an exercise program, it is important to maintain the routine. Otherwise, the benefits will be lost.<ref></ref> Exercise for patients who are frail is essential for preserving functional independence and avoiding the necessity for care from others or placement in a long-term-care facility.<ref></ref>
+== Assistance ==
+Assisting in activities of daily living are skills required in nursing and as well as other professions such as nursing assistants. This includes assisting in patient mobility, such as moving an activity intolerant patient within bed. For hygiene, this often involves bed baths and assisting with urinary and bowel elimination.
+== Evaluation ==
+There are several evaluation tools, such as the Katz ADL scale,<ref> urltoken Katz ADL scale</ref> the Older Americans Resources and Services (OARS) ADL/IADL scale, the Lawton IADL scale and the Bristol Activities of Daily Living Scale. 
+In the domain of disability, measures have been developed to capture functional recovery in performing basic activities of daily living.<ref></ref><ref></ref> Among them, some measures like the Functional Independence Measure are designed for assessment across a wide range of disabilities. Others like the Spinal Cord Independence Measure are designed to evaluate participants in a specific type of disability. 
+Most models of health care service use ADL evaluations in their practice, including the medical (or institutional) models, such as the Roper-Logan-Tierney model of nursing, and the resident-centered models, such as the Program of All-Inclusive Care for the Elderly (PACE).
+The Pervasive computing technology was considered to determine the wellness of the elderly living independently in their homes. The framework of the intelligent system consists of monitoring important daily activities through the observation of everyday object usage. The improved wellness indices helped in reducing false warnings related to the daily activities of elderly living.<ref>N. K. Suryadevara and S. C. Mukhopadhyay, "Determining Wellness through an Ambient Assisted Living Environment," in IEEE Intelligent Systems, vol. 29, no. 3, pp. 30-37, May-June 2014, doi: 10.1109/MIS.2014.16.</ref>
+=== Research ===
+ADL evaluations are used increasingly in Epidemiology studies as an assessment of health in later-life that does not necessarily involve specific ailments. Studies using ADL differ from those investigating specific disease outcomes, as they are sensitive to a broader spectrum of health effects, at lower-levels of impact. ADL is measured on a continuous scale, making the process of investigation fairly straightforward.
+Sidney Katz initially studied 64 hip fracture patients over an 18-month period. Comprehensive data on treatments, patient progression, and outcomes were collected during this study. After analyzing the study data, the researchers discovered that the patients they viewed as being most independent could perform a set of basic activities – ranging from the most complex bathing activity, to the least complex feeding activity. From these data, Katz developed a scale to assess patients' ability to live independently.<ref></ref> This was first published in the 1963 in the Journal of the American Medical Association; the paper has since been cited over 1,000 times.<ref></ref>
+Although the scale offers a standardized measure for psychological and biological function, the process of arriving at this assumption has been criticised. Specifically, Porter has argued for a phenomenological approach noting that:
+<blockquote>Katz et al. (1963) made a claim that became the basis for the ontological assumptions of the ADL research tradition. In their suggestion that there was an "ordered regression in skills as part of the natural process of aging" (p. 918), there was an implicit generalization, from their sample of older persons with fractured hips, to all older persons.<ref name=":0"></ref></blockquote>
+Porter emphasizes the possible disease-specific nature of ADLs (being derived from hip-fracture patients), the need for objective definition of ADLs, and the possible value of adding additional functional measures.<ref name=":0" />
+A systematic review examined the effectiveness of imparting activities of daily life skills programmes for people with chronic mental illnesses:
+
+Activities of daily living (ADLs or ADL) is a term used in healthcare to refer to people's daily self-care activities. The concept of ADLs was originally proposed in the 1950s by Sidney Katz and his team at the Benjamin Rose Hospital in Cleveland, Ohio and has been added to and refined by a variety of researchers since that time.<ref></ref> Health professionals often use a person's ability or inability to perform ADLs as a measurement of their functional status, particularly in regard to people post injury, with Disability and the Old age.<ref name=EN>"Activities of Daily Living Evaluation." Encyclopedia of Nursing & Allied Health. ed. Kristine Krapp. Gale Group, Inc., 2002. eNotes.com. 2006. urltoken Enotes Nursing Encyclopedia Accessed on: 11 Oct, 2007</ref> Younger children often require help from adults to perform ADLs, as they have not yet developed the skills necessary to perform them independently.
+Common ADLs include feeding ourselves, bathing, dressing, grooming, work, homemaking, cleaning oneself after defecating and leisure.<ref name =MN> urltoken MedicineNet.com Medical Dictionary</ref> A number of national surveys collect data on the ADL status of the U.S. population.<ref name =NCHS> urltoken United States Census</ref> While basic definitions of ADLs have been suggested, what specifically constitutes a particular ADL for each individual may vary. Adaptive equipment and devices may be used to enhance and increase independence in performing ADLs.
+ADLs refer to the most basic functions of living. The first sentence in the previous paragraph ends with "leisure,<ref name =MN> urltoken MedicineNet.com Medical Dictionary</ref> " or more completely "ability to make use of leisure." It usually is easy to make the binary choice YES/NO as regards "can someone feed themselves," though even here there are graduations. However, the question "can someone make good use of leisure?" does not easily lead to a binary choice YES/NO, and so the measurement of "leisure" is very problematic. "Employability" is even more problematic. Clearly quantifiable ADLs refer to very basic skills, while "quality of life" variables have not yet been quantified.

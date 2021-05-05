@@ -1,0 +1,41 @@
+Customer
+
+==Etymology==
+Early societies relied on a gift economy based on favours. Later, as commerce developed, less permanent human relations were formed, depending more on transitory needs rather than enduring social desires. Although such distinctions have no contemporary semantic weight, certain (short term) sectors prefer client while more stable, repeat business operations tend to prefer customer.
+===Clients===
+The term client is derived from Latin clientem or clinare meaning "to incline” or “to bend", and is related to the emotive idea of closure. It is widely believed that people only change their habits when motivated by greed and fear.<ref></ref> Winning a client is therefore a singular event, which is why professional specialists who deal with particular problems tend to attract one-time clients rather than regular customers.
+===Customers===
+Clients who habitually return to a seller develop customs that allow for regular, sustained commerce that allows the seller to develop statistical models to optimize production processes (which change the nature or form of goods or services) and supply chains (which changes the location or formalizes the changes of ownership or entitlement transactions).
+== Customer segmentation ==
+In the 21st century customers are generally categorized into two types:
+* an entrepreneur or trader (sometimes a intermediary) - a dealer who purchases goods for re-sale.
+* an end user or ultimate customer who does not re-sell the things bought but is the actual consumer or an agent such as a Purchasing for the consumer.
+A customer may or may not also be a consumer, but the two notions are distinct. A customer purchases goods; a consumer uses them. An ultimate customer may be a consumer as well, but just as equally may have purchased items for someone else to consume. An intermediate customer is not a consumer at all. The situation is somewhat complicated in that ultimate customers of so-called industrial goods and services (who are entities such as government bodies, manufacturers, and educational and medical institutions) either themselves use up the goods and services that they buy, or incorporate them into other finished products, and so are technically consumers, too. However, they are rarely called that, but are rather called industrial customers or business-to-business customers. Similarly, customers who buy services rather than goods are rarely called consumers.
+Six Sigma doctrine places (active) customers in opposition to two other classes of people: not-customers and non-customers:
+* Customers of a given business have actively dealt with that business within a particular recent period that depends on the product sold.
+* Not-customers are either past customers who are no longer customers or potential customers who choose to interact with the competition.
+* Non-customers are people who are active in a different market segment entirely.
+Geoff Tennant, a Six Sigma consultant from the United Kingdom, uses the following analogy to explain the difference: A supermarket's customer is the person buying milk at that supermarket; a not-customer buys milk from a competing supermarket, whereas a non-customer doesn't buy milk from supermarkets at all but rather "has milk delivered to the door in the traditional British way".
+Tennant also categorizes customers in another way that is employed outwith the fields of marketing. While marketers, market regulation, and economists use the intermediate/ultimate categorization, the field of customer service more often categorizes customers into two classes:
+# An external customer of an organization is a customer who is not directly connected to that organization.
+# An internal customer is a customer who is directly connected to an organization, and is usually (but not necessarily) internal to the organization. Internal customers are usually stakeholders, employees, or shareholders, but the definition also encompasses creditors and external regulators.
+Before the introduction of the notion of an internal customer, external customers were, simply, customers. Quality management writer Joseph M. Juran popularized the concept, introducing it in 1988 in the fourth edition of his Quality Control Handbook . The idea has since gained wide acceptance in the literature on total quality management and service marketing; and many organizations recognize the customer satisfaction of internal customers as a precursor to, and a prerequisite for, external customer satisfaction, with authors such as regarding service organizations which design products for internal customer satisfaction as better able to satisfy the needs of external customers. Research on the theory and practice of managing the internal customer continues in a variety of service sector industries.<ref>
+</ref><ref>
+ urltoken 
+</ref>
+==Arguments against use of the term “internal customers”==
+Leading authors in management and marketing, like Peter Drucker, Philip Kotler, W. Edwards Deming, etc., have not used the term “internal customer” in their works. They consider the “customer” as a very specific role in the society which represents a crucial part in the relationship between the demand and the supply. Some of the most important characteristics of any customer are that: any customer is never in a subordination line with any supplier; any customer has equal positions with the supplier within negotiations; and any customer can accept or reject any offer for a service or a product. Peter Drucker wrote “They are all people who can say no, people who have the choice to accept or reject what you offer.”<ref></ref>
+In opposition to the stated customer’s characteristics, relationships between colleagues in a company are always based on a subordination – direct or indirect. Company employees are obliged to follow processes of their companies. Company employees do not have the authority to choose a unit/colleague to fulfill any task. Company employees are obliged to use an existing unit/colleague by using the company’s structure and approved processes, therefore these internal relationships are not considered as an option.
+Many authors in ITIL and Six Sigma methodologies define “internal customer” as an internal part of a company which uses the output of another part of a company as its own input. But actually, this definition describes better a classical internal process rather than a relationship between a customer and a supplier. Peter Drucker considers that there are no customers inside organizations. He wrote “Inside an organization there are only cost centers. The only profit center is a customer whose check has not bounced.”<ref></ref> In addition, William Deming advises managers, in his 9th point, to “Break down barriers between departments. They must work as a team”,<ref></ref> which means that there have to be teamwork in a company rather than a supplier/customer relationship. One more argument, even the ITIL methodology admits that “the term ‘colleague’ may be more accurate in describing how two internal groups are related to one another.”.<ref></ref>
+==See also==
+*Customer centricity
+*Customer relationship management
+*Customer data integration
+*Guided selling
+*Service level agreement
+*Early adopter
+*Customer delight
+== Notes ==
+=
+
+In sales, commerce and economics, a customer (sometimes known as a client, buyer, or purchaser) is the recipient of a good, service, product or an idea - obtained from a seller, vendor, or supplier via a financial transaction or exchange for money or some other valuable consideration.

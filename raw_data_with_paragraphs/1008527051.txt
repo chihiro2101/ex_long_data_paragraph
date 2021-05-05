@@ -1,0 +1,61 @@
+Erwin Chargaff
+
+==Early life==
+Chargaff was born on 11 August 1905 to a Jewish family in Czernowitz, Duchy of Bukovina, Austria-Hungary, which is now Chernivtsi, Ukraine.
+At the outbreak of World War I, his family moved to Vienna, where he attended the Maximiliansgymnasium (now the Gymnasium Wasagasse). He then went on to the TU Wien (Technische Hochschule Wien) where he met his future wife Vera Broido.
+From 1924 to 1928, Chargaff studied chemistry in Vienna, and earned a doctorate working under the direction of Fritz Feigl.<ref></ref>
+He married Vera Broido in 1928. Chargaff had one son, Thomas Chargaff.
+From 1925 to 1930, Chargaff served as the Milton Campbell Research Fellow in organic chemistry at Yale University, but he did not like New Haven, Connecticut. Chargaff returned to Europe, where he lived from 1930 to 1934, serving first as the assistant in charge of chemistry for the department of bacteriology and public health at the University of Berlin (1930–1933) and then, being forced to resign his position in Germany as a result of the Nazi policies against Jews, as a research associate at the Pasteur Institute in Paris (1933–1934).
+==Columbia University==
+Chargaff immigrated to Manhattan, New York City in 1935, taking a position as a research associate in the department of biochemistry at Columbia University, where he spent most of his professional career. Chargaff became an assistant professor in 1938 and a professor in 1952. After serving as department chair from 1970 to 1974, Chargaff retired as professor emeritus. After his retirement as professor emeritus, Chargaff moved his lab to Roosevelt Hospital, where he continued to work until his retirement in 1992.
+He became an American citizen in 1940.
+During his time at Columbia, Chargaff published numerous scientific papers, dealing primarily with the study of nucleic acids such as DNA using chromatography techniques. He became interested in DNA in 1944 after Oswald Avery identified the molecule as the basis of heredity. In 1950, he published that the amounts of adenine and thymine in DNA were roughly the same, as were the amounts of cytosine and guanine.<ref name=NucleotidePaper></ref> This later became known as the first of Chargaff's rules.
+==Chargaff's rules==
+Erwin Chargaff proposed two main rules in his lifetime which were appropriately named Chargaff's rules. The first and best known achievement was to show that in natural DNA the number of guanine units equals the number of cytosine units and the number of adenine units equals the number of thymine units. In human DNA, for example, the four bases are present in these percentages: A=30.9% and T=29.4%; G=19.9% and C=19.8%. This strongly hinted towards the base pair makeup of the DNA, although Chargaff did not explicitly state this connection himself. For this research, Chargaff is credited with disproving the tetranucleotide hypothesis (Phoebus Levene's widely accepted hypothesis that DNA was composed of a large number of repeats of GACT). Most researchers had previously assumed that deviations from equimolar base ratios (G = A = C = T) were due to experimental error, but Chargaff documented that the variation was real, with C + G typically being slightly less abundant. He did his experiments with the newly developed paper chromatography and ultraviolet spectrophotometer. Chargaff met Francis Crick and James D. Watson at Cambridge in 1952, and, despite not getting along with them personally,<ref></ref> he explained his findings to them. Chargaff's research would later help the Watson and Crick laboratory team to deduce the double helix structure of DNA.
+The second of Chargaff's rules is that the composition of DNA varies from one species to another, in particular in the relative amounts of A, G, T, and C bases. Such evidence of molecular diversity, which had been presumed absent from DNA, made DNA a more credible candidate for the genetic material than protein.
+==Later life==
+Beginning in the 1950s, Chargaff became increasingly outspoken about the failure of the field of molecular biology, claiming that molecular biology was "running riot and doing things that can never be justified".<ref></ref> He believed that human knowledge will always be limited in relation to the complexity of the natural world, and that it is simply dangerous when humans believe that the world is a machine, even assuming that humans can have full knowledge of its workings. He also believed that in a world that functions as a complex system of interdependency and interconnectedness, genetic engineering of life will inevitably have unforeseen consequences. Chargaff warned that "the technology of genetic engineering poses a greater threat to the world than the advent of nuclear technology. An irreversible attack on the biosphere is something so unheard of, so unthinkable to previous generations, that I only wish that mine had not been guilty of it".
+After Francis Crick, James Watson and Maurice Wilkins received the 1962 Nobel Prize for their work on discovering the double helix of DNA, Chargaff withdrew from his lab and wrote to scientists all over the world about his exclusion.<ref name="nytimesnobel"></ref>
+He died on 20 June 2002 in Manhattan, New York City.<ref></ref>
+==Honors==
+Honors awarded to him include the Pasteur Medal (1949) and the National Medal of Science (1974).<ref></ref>
+==Books authored==
+*
+*Unbegreifliches Geheimnis. Wissenschaft als Kampf für und gegen die Natur. Stuttgart: Klett-Cotta, 1980, 
+*Bemerkungen. Stuttgart: Klett-Cotta, 1981, 
+*Warnungstafeln. Die Vergangenheit spricht zur Gegenwart. Stuttgart: Klett-Cotta, 1982, 
+*Kritik der Zukunft. Essay. Stuttgart: Klett-Cotta, 1983, 
+*Zeugenschaft. Essays über Sprache und Wissenschaft. Stuttgart: Klett-Cotta, 1985, 
+*Serious Questions, An ABC of Sceptical Reflections. Boston, Basel, Stuttgart: Birkhäuser, 1986
+*Abscheu vor der Weltgeschichte. Fragmente vom Menschen. Stuttgart: Klett-Cotta, 1988, 
+*Alphabetische Anschläge. Stuttgart: Klett-Cotta, 1989, 
+*Vorläufiges Ende. Ein Dreigespräch. Stuttgart: Klett-Cotta, 1990, 
+*Vermächtnis. Essays. Stuttgart: Klett-Cotta, 1992, 
+*Über das Lebendige. Ausgewählte Essays. Stuttgart: Klett-Cotta, 1993, 
+*Armes Amerika – Arme Welt. Stuttgart: Klett-Cotta, 1994, 
+*Ein zweites Leben. Autobiographisches und andere Texte. Stuttgart: Klett-Cotta, 1995, 
+*Die Aussicht vom dreizehnten Stock. Stuttgart: Klett-Cotta, 1998, 
+*Brevier der Ahnungen. Eine Auswahl aus dem Werk. Stuttgart: Klett-Cotta, 2002, 
+*Stimmen im Labyrinth. Über die Natur und ihre Erforschung. Stuttgart: Klett-Cotta, 2003, 
+==See also==
+* Nobel Prize controversies
+==References==
+==Sources==
+* urltoken Erwin Chargaff Papers, American Philosophical Society
+* urltoken Chargaff obituary from The Guardian, 2 July 2002
+* urltoken Chargaff obituary from The Sydney Morning Herald, 12 July 2002
+* 
+* urltoken The composition of the deoxyribonucleic acid of salmon sperm by E. Chargaff, R. Lipshitz, C. Green and M. E. Hodes in Journal of Biological Chemistry (1951) volume 192 pages 223–230.
+* 
+== External links ==
+* urltoken "How Genetics Got a Chemical Education". Annals of the New York Academy of Sciences (1979), 325, 345–360.
+* urltoken Weintraub, B. (2006); Erwin Chargaff and Chargaff's Rules. Chemistry in Israel, Bulletin of the Israel Chemical Society. Issue No.22, Sept. 2006. p29-31.
+* urltoken Key Participants: Erwin Chargaff – Linus Pauling and the Race for DNA: A Documentary History
+* urltoken National Academy of Sciences Biographical Memoir
+
+Erwin Chargaff (11 August 1905 – 20 June 2002) was an Austro-Hungarian-born American biochemist, writer, Bucovinian Jew, who emigrated to the United States during the Nazi era and was a professor of biochemistry at Columbia University medical school.<ref></ref> Through careful experimentation, Chargaff discovered two rules, called Chargaff's rules, that helped lead to the discovery of the double helix structure of DNA.
+The first parity rule was that in DNA the number of guanine units is equal to the number of cytosine units, and the number of adenine units is equal to the number of thymine units. This hinted at the base pair makeup of DNA.
+ 
+The second parity rule was discovered in 1968.<ref></ref> It states that, in single-stranded DNA, the number of adenine units is approximately equal to that of thymine, and the number of cytosine units is approximately equal to that of guanine. 
+He also observed that the relative amounts of guanine, cytosine, adenine and thymine bases vary from one species to another. This hinted that DNA rather than protein could be the genetic material.
+Chargaff was also a great writer. He left behind an important humanistic opus. His memoirs, Heraclitean Fire,<ref></ref> is arguably<ref> </ref><ref> </ref> one of the best autobiographies written by a scientist and should be read by anyone who is interested in Science and in Humanities. The book is freely available at the Rockefeller University Press.<ref name="site"></ref>

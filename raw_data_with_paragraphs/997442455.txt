@@ -1,0 +1,83 @@
+Heart murmur
+
+==Classification==
+Murmurs can be classified by seven different characteristics: timing, shape, location, radiation, intensity, pitch and quality.<ref name="LHC"></ref>
+* Timing refers to whether the murmur is a systolic or Diastole murmur.
+* Shape refers to the intensity over time; murmurs can be crescendo, decrescendo or crescendo-decrescendo. Crescendo murmurs progressively increase in intensity. Decrescendo murmurs progressively decrease in intensity. With crescendo—decrescendo murmurs (diamond or kite-shaped murmurs), a progressive increase in intensity is followed by a progressive decrease in intensity. 
+* Location refers to where the heart murmur is usually heard best. There are four places on the anterior chest wall to listen for heart murmurs; each of the locations roughly corresponds to a specific part of the heart and should be listened to (through the stethoscope) with the patient lying down, face up.
+*:The four locations are:
+*:* Aortic region - the 2nd right intercostal space.
+*:* Pulmonic region - the 2nd left intercostal spaces.
+*:* Tricuspid region - the 4th left intercostal space.
+*:* Mitral region - the 5th left mid-clavicular intercostal space.
+*:Additional maneuvers can be performed for additional auscultation:
+*:* Left lateral decubitus.
+*:* With the patient sitting upright.
+*:* With the patient leaning forward and exhaling.
+* Radiation refers to where the sound of the murmur radiates. The rule of thumb is that the sound radiates in the direction of the blood flow.
+* Intensity refers to the loudness of the murmur, and is graded according to the Levine scale, from 1 to 6:<ref></ref><ref></ref>
+*# The murmur is only audible on listening carefully for some time.
+*# The murmur is faint but immediately audible on placing the stethoscope on the chest. 
+*# A loud murmur readily audible but with no palpable thrill.<ref></ref>
+*# A loud murmur with a palpable thrill.
+*# A loud murmur with a palpable thrill. The murmur is so loud that it is audible with only the rim of the stethoscope touching the chest.
+*# A loud murmur with a palpable thrill. The murmur is audible with the stethoscope not touching the chest but lifted just off it.
+* Pitch may be low, medium or high and is determined by whether it can be auscultated best with the bell or diaphragm of a stethoscope.
+* Quality refers to unusual characteristics of a murmur, such as blowing, harsh, rumbling or musical.
+=== Mnemonics ===
+A mnemonic to remember what characteristics to look for when listening to murmurs is SCRIPT: Site, Configuration (shape), Radiation, Intensity, Pitch and quality, and Timing in the cardiac cycle.
+The use of two simple mnemonics may help differentiate systolic and diastolic murmurs; PASS and PAID. <u>Pulmonary and aortic stenoses are systolic while pulmonary and aortic insufficiency (regurgitation) are diastolic</u>. <u>Mitral and tricuspid defects are opposite.<ref> Mnemonic tutorial video for cardiac murmurs</ref></u>
+==Interventions that change murmur sounds==
+* Inhalation leads to an increase in intrathoracic negative pressure, which increases the capacity of pulmonary circulation, thereby prolonging ejection time. This will affect the closure of the pulmonary valve. This finding, also called Carvallo's maneuver, has been found by studies to have a sensitivity of 100% and a specificity of 80% to 88% in detecting murmurs originating in the right heart.<ref name="pmid2897627"></ref><ref name="pmid6497192"></ref> specifically positive Carvallo's sign describes the increase in intensity of a tricuspid regurgitation murmur with inspiration.<ref>Harrison's Internal Medicine 17th, chapter 5, "Disorders of the cardiovascular system," question 32, self assessment and board review</ref>
+* Abrupt standing
+* Squatting, by increasing afterload and increasing preload.
+* Handgrip maneuver, by increasing afterload
+* Valsalva maneuver. One study found the Valsalva maneuver to have a sensitivity of 65%, specificity of 96% in detecting hypertrophic obstructive cardiomyopathy (HOCM).<ref name="pmid2897627"/> Both standing and Valsalva maneuver will decrease venous return and subsequently decrease left ventricular filling, resulting in an increase in the loudness of the murmur of hypertrophic cardiomyopathy, since outflow obstruction is increased by decreasing preload. Alternatively, squatting increases systemic vascular resistance, increasing afterload and helping to hold the obstruction in a more open configuration, decreasing the murmur. Maximum handgrip exercise also results in a decrease in the loudness of the murmur.<ref>Harrison's Internal Medicine 17th, chapter 5, "Disorders of the cardiovascular system," question 86-87, self assessment and board review</ref>
+* Post ectopic potentiation
+* Inhaled amyl nitrite is a vasodilator that diminishes systolic murmurs in left-to-right shunts in ventricular septal defects, and reveals right-to left shunts in the setting of a pulmonic stenosis and a ventricular septal defect.<ref></ref> 
+* Methoxamine
+* Positioning of the patient. That is, putting patients in the left lateral position will allow a murmur in the mitral valve area to be more pronounced.
+==Anatomic sources==
+Systolic
+Aortic valve stenosis typically is a crescendo/decrescendo systolic murmur best heard at the right upper sternal border sometimes with radiation to the carotid arteries. In mild aortic stenosis, the crescendo-decrescendo is early peaking whereas in severe aortic stenosis, the crescendo is late-peaking, and the S2 heart sound may be obliterated.
+Stenosis of Bicuspid aortic valve is similar to the aortic valve stenosis heart murmur, but a systolic ejection click may be heard after S1 in calcified bicuspid aortic valves. Symptoms tend to present between 40 and 70 years of age.
+Mitral regurgitation typically is a holosystolic (pansystolic) murmur heard best at the apex, and may radiate to the axilla or precordium. A systolic click may be heard if there is associated mitral valve prolapse. Valsalva maneuver in mitral regurgitation associated with mitral valve prolapse will decrease left ventricular preload and move the murmur onset closer to S1, and isometric handgrip, which increases left ventricular afterload, will increase murmur intensity. In acute severe mitral regurgitation, a holosystolic (pansystolic) murmur may not be heard.
+Pulmonary valve stenosis typically is a crescendo-decrescendo systolic murmur heard best at the left upper sternal border, associated with a systolic ejection click that increases with inspiration (due to increased venous return to the right side of the heart) and sometimes radiates to the left clavicle.
+Tricuspid insufficiency presents as a holosystolic (pansystolic) murmur at the left lower sternal border with radiation to the left upper sternal border. Prominent v and c waves may be seen in the JVP (jugular venous pressure). The murmur will increase with inspiration.
+Hypertrophic obstructive cardiomyopathy (or hypertrophic subaortic stenosis) will be a systolic crescendo-decrescendo murmur best heard at the left lower sternal border. Valsalva maneuver will increase the intensity of the murmur, as will changing positions from squatting to standing.
+Atrial septal defect will present with a systolic crescendo-decrescendo murmur best heard at the left upper sternal border due to increased volume going through the pulmonary valve, and is associated with a fixed, split S2 and a right ventricular heave.
+Ventricular septal defect (VSD) will present as a holosystolic (pansystolic) murmur at the left lower sternal border, associated with a palpable thrill, and increases with isometric handgrip. A right to left shunt (Eisenmenger syndrome) may develop with uncorrected VSDs due to worsening pulmonary hypertension, which will increase the murmur intensity and be associated with cyanosis.
+Flow murmur may be heard at the right upper sternal border in certain conditions, such as anemia, hyperthyroidism, fever, and pregnancy.
+Diastolic
+Aortic valve regurgitation will present as a diastolic decrescendo murmur heard at the left lower sternal border or right lower sternal border (when associated with a dilated aorta). This may be associated with bounding carotid and peripheral pulses (Corrigan's pulse, Watson's water hammer pulse), and a widened pulse pressure.
+Mitral stenosis typically presents as a diastolic low-pitched decrescendo murmur best heard at the cardiac apex in the left lateral decubitus position. It may be associated with an opening snap. Increasing severity will shorten the time between S2(A2) and the opening snap. (i.e. In severe MS the opening snap will occur earlier after A2)
+Tricuspid valve stenosis presents as a diastolic decrescendo murmur at the left lower sternal border, and signs of right heart failure may be seen on exam.
+Pulmonary valve insufficiency presents as a diastolic decrescendo murmur at the left lower sternal border. A palpable S2 in the second left intercostal space correlates with pulmonary hypertension due to mitral stenosis.
+Continuous and Combined Systolic/Diastolic
+Patent ductus arteriosus may present as a continuous murmur radiating to the back.
+Coarctation of the aorta can present with a continuous murmur: a systolic component at the left infraclavicular region and the back due to the stenosis, and a diastolic component over the chest wall due to blood flow through collateral vessels.
+Aortic valve regurgitation is associated with a three phase murmur, specifically a midsystolic murmur followed by S2, followed by a parasternal early diastolic and mid-diastolic murmur (Austin Flint murmur). Although the exact cause of an Austin Flint murmur is unknown, it is hypothesized that the mechanism of murmur is from the severe aortic regurgitation jet vibrating the anterior mitral valve leaflet, colliding with the mitral inflow during diastole, with increased mitral inflow velocity from the narrowed mitral valve orifice leading to the jet impinging on the myocardial wall.<ref></ref><ref></ref>
+Another uncommon cause of a continuous murmur is a ruptured sinus of valsalva.<ref></ref> Usually the murmur is well heard in the aortic area and along the left sternal border.
+== Types and disease associations ==
+;Continuous machinery murmur, at the left upper sternal border
+:Classic for a patent ductus arteriosus, and in serious cases associated with poor feeding, failure to thrive and respiratory distress. Other examination findings may include widened pulse pressures and bounding pulses.
+;Systolic murmur loudest below the left scapula
+:Classic for a coarctation of the aorta which is often seen in Turner's Syndrome, (gonadal dysgenesis), an X-linked disorder with a part missing of the X-chromosome. Other findings of this murmur is radio-femoral delay, and different blood pressures in the upper and lower extremities.
+;Harsh holosystolic (pansystolic) murmur at the left lower sternal border
+:Classic for a ventricular septal defect. It is in these children that the delayed-onset cyanotic heart disease occurs known as Eisenmenger syndrome, which is a reversal of the left-to-right heart shunt as the right ventricle hypertrophies, causing a right-to-left shunt and resulting cyanosis.
+;Widely split fixed S<sub>2</sub> and systolic ejection murmur at the left upper sternal border
+:Classically due to a patent foramen ovale or atrial septal defect, which is lack of closure of the foramen ovale. This produces a left-to-right shunt initially, thus does not produce cyanosis, but causes pulmonary hypertension. Longstanding uncorrected atrial septal defects can also result in Eisenmenger's syndrome with resultant cyanosis.
+==Cooing dove murmur==
+The cooing dove murmur is a cardiac murmur with a musical quality (high pitched - hence the name) and is associated with aortic valve regurgitation (or mitral regurgitation before rupture of chordae). It is a diastolic murmur which can be heard over the mid-precordium.<ref> urltoken 
+==See also==
+*Benign paediatric heart murmur
+*George Alexander Gibson discoverer of the Gibson murmur.
+*Precordial examination
+==References==
+== External links ==
+he:איוושה
+
+Heart murmurs are heart sounds produced when blood flow across a heart valve and creates a sound loud enough to be heard with a stethoscope. Murmurs are of various types and are important in the detection of cardiac and valvular pathologies (can be a sign of Heart diseases or defects).
+There are two types of murmurs. A functional murmur or "physiology murmur" is a heart murmur that is primarily due to physiologic conditions outside the heart. Other types of murmurs are due to structural defects in the heart itself. Functional murmurs are benign (an "innocent murmur").<ref></ref>
+Murmurs may also be the result of various problems, such as narrowing or leaking of valves, or the presence of abnormal passages through which blood flows in or near the heart. Such murmurs, known as pathologic murmurs, should be evaluated by a cardiologist.
+Heart murmurs are most frequently categorized by timing, into systolic heart murmurs and diastolic heart murmurs, differing in the part of the heartbeat on which they can be heard. However, continuous murmurs cannot be directly placed into either category.<ref></ref>

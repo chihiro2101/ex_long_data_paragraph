@@ -1,0 +1,87 @@
+Musical bow
+
+== History ==
+There is speculation that the hunting bow may have been used as a musical instrument from as early as circa 13,000 B.C.<ref></ref> Henri Breuil surveyed the Trois Frères in France caves and made an engraving that attempted to reproduce a c. 13,000&nbsp;B.C. cave painting into a black-and-white lithograph engraving.<ref name=frerescavedate></ref> His engraving showed a mysterious figure, a "man camouflaged to resemble a bison," in the midst of a mass of herd-animals, "herding the beasts and playing the musical bow."<ref name=frerescavedate/><ref name=Garcia></ref><ref name=Walter></ref> The artwork is confused, and those who are trying to reproduce the art in color have had to work to bring out legible images.<ref name=Garcia/><ref name=Walter/> One interpretation of the "magician-hunter" image considers his hunting-bow to be a musical bow, used as a single-stringed musical instrument.<ref name=Walter/><ref name=vanCampen></ref>
+Whether the bow in the cave illustration is a musical instrument or the hunting tool in a paleolithic hunt, musicologists have considered whether the bow could be a possible relative or ancestor to the chordophone: the lute, lyre, harp, and zither family. Curt Sachs said that there was good reason not to consider hunters' bows as likely musical bows.<ref name=bowtolute1></ref> One reason was that the oldest known musical bows were 10 feet long, useless for hunting, and that "musical bows were not associated with hunters' beliefs and ceremonies."<ref name=bowtolute1/> Sachs considered the musical bows important, however. He pointed out that the name for the Greek lute, pandura was likely derived from pan-tur, a Sumerian word meaning "small bow."<ref name=bowtolute></ref> He considered this evidence in support of the theory that the musical bow was ancestral to the pierced lute.<ref name=bowtolute/>
+The bows used for music required a resonator, a hollowed object like a bowl, a gourd, or a musician's mouth, in order to produce audible sound.<ref name=bowtolute1/> Although the musical bow could be manipulated to produce more than one tone, instruments were developed from it that used one note per string.<ref name=bowtolute1/><ref name=Dumbrillp179></ref> Since each string played a single note, adding strings added new notes for instrument families such as bow harps, harps, and lyres.<ref name=Dumbrillp179/> In turn, this led to being able to play dyads and chords.<ref name=Dumbrillp179/> Another innovation occurred when the bow harp was straightened out and a bridge used to lift the strings off the stick-neck, creating the lute.<ref name=Dumbrillp308></ref>
+Ravanahatha is also one of the oldest string instrument played with a bow written in 5000 years old Indian Epic Ramayana.
+ 
+Musical bows are still used in a number of cultures today. It can be found as far south as Swaziland, and as far east as eastern Africa, Madagascar, and Réunion. and also outside of Africa, as in the case of berimbau, malunga (derivations of the African musical bow) or the Appalachian mouth-bow.
+== Playing ways ==
+The usual way to make the bow sound is to pluck the string, although sometimes a subsidiary bow is used to scrape the string, much as on a violin. The Onavillu of Kerala sounds when struck with a thin stick. Unlike string instruments used in classical music, however, they do not have a built-in resonator, although resonators may be made to work with the bow in a number of ways.
+The most usual type of resonator consists of a gourd attached to the back of the string bearer. The bow may also be stood in a pit or gourd on the ground, or one end of it may be partially placed in the mouth. This last method allows the size of the resonator to be varied as the instrument is played, thus allowing a melody to be heard consisting of the notes resonating in the player's mouth. As well as these various forms of resonators, the bow is frequently played without a resonator at all.
+In Africa, the musical bow is usually played by a solo performer. In capoeira, the berimbau is played as part of the roda, a musical group standing in a circle, in the centre of which the capoeiristas perform or play. The Appalachian mouth-bow can be played amplified in old-time music jams.
+==Ground bow==
+The ground-bow or a earth-bow is a single-string bow-shaped folk musical instrument, classified as a chordophone. It is known in cultures of equatorial<ref name=ebgb> urltoken "Ground Bow", Encyclopædia Britannica</ref> and south<ref></ref> Africa, and in other cultures with African roots. It consists of a flexible stick planted into the ground (possibly a stripped sapling or a branch<ref name=kru89/>), with a string from its free end to a resonator of some kind based on a pit in the ground.<ref name=adt> urltoken "Arco de tierra", referring to François-René Tranchefort, Los instrumentos musicales en el mundo, , 1985, and later editions</ref> It looks like a game trap or a child toy, therefore its distribution over Africa used to be overlooked. Hornbostel (1933) classified is in the category of harps, although it has combined characteristics of a harp and a musical bow.<ref name=kru89>Jaco Kruger, urltoken "Rediscovering the Venda Ground-Bow", Ethnomusicology,
+Vol. 33, No. 3 (Autumn, 1989), pp. 391-404</ref>
+The resonator may be a pit covered by a board, with a string attached to it.<ref name=adt/> Kruges describes several other constructions by Venda, e.g., the other end of a string is tied to a stone dropped into the pit, with the string passing through the board covering the pit, etc.<ref name=kru89/>
+Other names include "ground harp" (Sachs, 1940, History of Musical Instruments) and ground-bass. It is called kalinga or galinga by Venda people. In their language "galinga" means simply a hole in the ground, while the origins of "kalinga" are uncertain.<ref name=kru89/> It is known as gayumba in Haiti,<ref name=mlac/> Dominican Republic,<ref>Fradique Lizardo, Instrumentos musicales indígenas dominicanos, 1975, urltoken Section "Gayumba", p.64
+</ref> and tumbandera in Haitian traditions of Cuba.<ref name=mlac>Music in Latin America and the Caribbean: An Encyclopedic History , vol.2, urltoken p.210</ref><ref></ref> Baka people call it angbindi.<ref> urltoken 
+It is also known in Cuba under the onomatopoeic name tingo-talango (tingotalango).<ref> urltoken "CUBANISM: WHAT IS The “Tíngo Talángo” ?"</ref><ref> urltoken "TINGO TALANGO, son, Auteur : Julio CUEVA</ref> Julio Cueva's song Tingo Talango dedicated to this musical instrument describes its construction thus:<blockquote>
+: Si quieren que les describa
+: cómo es el tingo talango
+: tráiganme un gajo de güira
+: o si no uno de mango.
+: Se abre un hueco en el suelo,
+: encima una hoja de lata,
+: en el centro un agujero
+: donde un alambre se ata.
+</blockquote>
+Tingo Talango is also the song by Ñico Lora.
+The instrument is reportedly nearly-extinct in the native cultures.<ref name=kru89/><ref name=mlac/>
+===Playing techniques===
+Kalinga may be struck by a stick or plucked in various ways. The bow stick may be bent to change the tension of the string, and hence the tone. It can be played in a glissando manner: the stick is bent, struck, and released, producing a peculiar sound. The produced pitches are not always stable.<ref name=kru89/>
+Kalinga is usually is played to provide repetitive accompaniment to the choral song.<ref name=kru89/>
+== In Africa ==
+Due to the nature of their construction and playing, musical bows are quiet instruments, therefore needing a resonator to resound. The resonator can either be a gourd (as in uhadi, umakhweyana, segankure, xitende, berimbau, etc.) or the player's mouth (as in umrhubhe, umqangala, tshihwana, xizambi, etc.)
+Musical bows are the main instruments of the Nguni and Sotho people, the predominant peoples of South Africa. Historians believe that many of the musical bows came from Khoisan peoples. Although there are many differences between musical bows, all of them share two things: a resonator, and at least two fundamental notes.
+The strongest notes are the fundamentals, the deepest notes produced by the string, whereas the higher notes (the harmonic partials) are produced by the resonator.
+There are at least two fundamental notes produced by all musical bows, an open (when the player does not shorten it or touch it) and a closed (where the string is shortened or stopped by the player's hand). In Xhosa they are called vu (from the word Vuliwe, 'open') and ba (from Banjiwe, 'held') respectively. These two notes can already be on the string, if it is divided or stopped by a string attached to the gourd, as in the case of umakhweyana, xitende, berimbau, hungu, etc. The pitch difference between a vu and a ba is usually about a whole tone. In certain places, it can be closer to a semitone (e.g. Zulu) or closer to a minor third (Tsonga).
+Some of those instruments have more than two notes, for example the Zulu umakhweyana and the Tsonga xitende have three, whereas the Venda tshihwana has four.<ref name="christine"></ref>
+=== Other names ===
+Musical bows are known by various names in the different languages of South Africa - some refer only to musical bows using gourds as resonators, others using the mouth:<ref name="christine"/><ref></ref>
+*Akele: ngongo
+*Kimbundu: hungu
+*Nguni: makhoyane
+*Pedi: lekope
+*S. Sotho: lesiba, thomo, setolotolo
+*Tepehuán: gat
+*Tswana: segankure
+*Tsonga: xizambi, xitende
+*Umbundu: ombulumbumba
+*Venda: tshihwana, lugube, tshijolo
+*Xhosa: uhadi, umrhubhe, umqunge, inkinge
+*Zulu: umakhweyana, ugubu, umqangala, umhubhe<ref> urltoken 
+*!Kung: m'bolumbumba
+*Lingala: tolo-tolo
+*umqangala
+== In other places ==
+The most popular musical bow today is the Brazilian adaptation of the musical bow, the berimbau, most commonly associated with the jogo de capoeira.
+Kse diev, a gourd resonated "musical bow cum stick" whose string is made out of copper, is used in Cambodia and is considered one of the oldest Cambodian instruments, with bas-reliefs going back to the 12th century AD. Has been thought of as musical bow; under Hornbostel-Sachs classification, it is a "Musical bow cum stick" because it has only one curved end to flex.<ref name=system></ref> Under Hornbostel-Sachs, musical bows are defined as flexible and curved string bearers or as stick zithers with both ends flexible and curved.<ref name=system/>
+ 
+Malunga, a musical bow made of bamboo, gut strings, and a coconut gourd is used by the Siddi people of India, of African origin.
+Belembaotuyan is found in Guam, probably introduced through trade between South America and Asia in the nineteenth century.
+Bobre, musical bow of Mauritius and Réunion.
+Kunkulkawe is the name of a musical bow found among the Mapuche people in Chile and Argentina.
+Piompirintzi is the name of a musical bow found among the Ashaninka people in Peru.
+Latajkiaswolé is the name of a musical bow found among the Wichi, Pilaga, and other tribes of the Gran Chaco region of South America.
+In the United States a musical bow is primarily found in the Appalachian Mountains, where it is called a "mouthbow" or "mouth bow".
+In northwestern Mexico, the Tepehuán Indians of Durango use the musical bow during their mitote. The Tepehuán's musical bow has a gourd attached to it.
+The ku is a Maori instrument from New Zealand, made of matai wood and a fibre string, and is tapped with a rod.<ref></ref>
+The ukeke is a three-stringed musical bow from Hawaii, played using the mouth as a resonating chamber.
+The Yelatáj chos woley is a musical bow (played with another bow), from the Wichí culture of the Argentinian Gran Chaco.
+In the Caribbean, on the island of Curaçao, the benta is a one-stringed musical bow, played using the mouth as a resonating chamber. Most probably brought to the island by Africans from Ghana, Angola, Nigeria during the slave trade, it is played as a leading instrument in “muzik di zumbi”, ghost music (zumbi means ghost).<ref> urltoken 
+The name refers to the spooky atmosphere on the plantations since there was no electricity, and the hauling wind carries the sound of the music in all directions. 
+It is mostly accompanied by drum, hoe and “wiri” (scraper of a serrated piece of iron). 
+The Curaçaoan benta resembles the Brazilian berimbao, the Indian malunga, the Hawaiïan ukeke, and string bows of several Africa countries.
+A variant called the "whizzing bow", which is swung with the arm in a circle is played in Central America, China, Indonesia, and west Africa.<ref> urltoken Whizzing Bow. Oxford Music Online, published January 20, 2001.</ref>
+==See also==
+*Ravanahatha
+*Berimbau
+*Malunga
+*Belembaotuyan
+*Jew's harp
+*Idiophone
+
+The musical bow (bowstring or string bow, a subset of bar zithers) is a simple string instrument used by a number of South African peoples, which is also found in the Americas via slave trade.<ref></ref> It consists of a flexible, usually wooden, stick 1.5 to 10 feet (0.5 to 3 m) long, and strung end to end with a taut cord, usually metal. It can be played with the hands or a wooden stick or branch. It is uncertain if the musical bow developed from the hunting bow, though the San people of the Kalahari Desert do convert their hunting bows to musical use.<ref name=Brit/>
+Types of bow include mouth-resonated string bow, ground bow, and gourd-resonated string bow.<ref>Nzewi, Meki and Nzewi, Odyke (2007). A Contemporary Study of Musical Arts: Informed by African Indigenous Knowledge Systems, Volume 1: The Root: Foundation, p.108. African Minds. </ref><ref name=Brit></ref>

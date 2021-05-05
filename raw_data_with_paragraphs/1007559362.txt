@@ -1,0 +1,225 @@
+Amiiformes
+
+==Taxonomy==
+* Order Amiiformes <small>Hay 1929</small><ref name="mikko"></ref><ref name="Nelson"></ref><ref name="van der Laan"></ref>
+** Genus †Guizhouamia <small>Liu, Yin & Wang 2002</small>
+** Genus †Stromerichthys <small>Weiler 1935</small>
+** Superfamily †Caturoidea
+*** Family †Liodesmidae <small>Jordan 1905</small>
+**** Genus †Paraliodesmus <small>Dunkle 1969</small>
+**** Genus †Liodesmus <small>Wagner 1859</small> Lophiurus <small>Vetter 1881</small>
+*** Family †Caturidae <small>Owen 1860 corrig.</small>
+**** Genus ?†Allolepidotus <small>(Deecke 1889)</small> Heterolepidotus (Allolepidotus) <small>Deecke 1889</small>; Plesiolepidotus <small>Schlosser 1923</small>
+**** Genus ?†Catutoichthys <small>Gouiric-Cavalli 2016</small>
+**** Genus ?†Ditaxiodus <small>Owen 1866</small>
+**** Genus ?†Eoeugnathus <small>Brough 1939</small>
+**** Genus ?†Guizhoueugnathus <small>Liu 2004</small>
+**** Genus ?†Harpactira <small>Egerton 1876</small> Harpactes <small>Egerton 1876 non Swainson 1833 non Templeton 1834 non Menetries 1848</small>
+**** Genus ?†Plesiofuro <small>Su 1993</small>
+**** Genus ?†Sinoeugnathus <small>Su 1959</small>
+**** Genus ?†Thlattodus <small>Owen 1866</small>
+**** Genus ?†Xingyia <small>Liu et al. 2003</small>
+**** Genus †Amblysemius <small>Agassiz 1844</small>
+**** Genus †Caturus <small>Agassiz 1834</small> Uraeus <small>Agassiz 1832 non Wagler 1830</small>; Strobilodusss <small>Wagner 1851</small>; Endactis <small>Egerton 1858 non Rafinesque 1820</small>; Conodus <small>Woodward 1895 non Gervais 1869</small>; Conodus <small>Agassiz 1841 nomen nudum</small>
+**** Genus †Furo <small>Gistl 1848</small> Eugnathus <small>Agassiz 1844 non Schönherr 1833</small>; Eugnathus <small>Agassiz 1836 nomen nudum</small>; Isopholis <small>Zittel 1887</small>
+**** Genus †Heterolepidotus <small>Egerton 1872</small> Eulepidotus <small>Egerton 1868 non Herrich-Schaeffer 1850-1856</small>; Brachyichthys <small>Winkler 1862</small>
+**** Genus †Neorhombolepis <small>Woodward 1888</small>
+**** Genus †Osteorachis <small>Egerton 1868</small>
+**** Genus †Otomitla <small>Felix 1891</small>
+** Superfamily Amioidea <small>Bonaparte 1838</small>
+*** Genus ?†Amiidarum <small>Lange 1968</small> Otolith
+*** Genus ?†Ferganamia <small>Kaznyshkin 1990</small>
+*** Genus ?†Lehmanamia <small>Casier 1966</small>
+*** Family Amiidae <small>Bonaparte 1837</small>
+**** Subfamily †Siamamiinae <small>Berg 1940</small>
+***** Genus †Siamamia <small>Cavin, Suteethorn, Buffetaut, Claude, Cuny, Le Loeuff and Tong 2007</small>
+**** Subfamily Amiinae <small>Bonaparte 1837 sensu Grande & Bemis 1998</small>
+***** Genus Amia <small>Linnaeus 1766 non Browne 1756 ex Browne 1789 non Gronow 1763 ex Gray 1854 non Meuschen 1781</small>; Amiatus <small>Rafinesque 1815</small>; Hypamia <small>(Leidy 1873)</small>; Amia (Hypamia) <small>Leidy 1873</small>; Kindleia <small>Jordan 1927</small>; Protamia <small>(Leidy 1873)</small>; Amia (Protamia) <small>Leidy 1873</small>; Stylomyleodon <small>Russell 1928</small>]
+***** Genus †Cyclurus <small>Agassiz 1839</small> Notaeus <small>Agassiz 1843</small>
+***** Genus †Pseudamiatus <small>Whitley 1954</small> Pseudamia <small>Lehman 1951 non Bleeker 1865</small>
+**** Subfamily †Amiopsinae <small>Grande and Bemis 1998</small>
+***** Genus †Amiopsis <small>Kner 1863</small> Urocles
+**** Subfamily †Solnhofenamiinae <small>Grande and Bemis 1998</small>
+***** Genus †Solnhofenamia <small>Grande and Bemis 1998</small> (type)
+**** Subfamily †Vidalamiinae <small>Grande and Bemis 1998</small>
+***** Tribe †Calamopleurini <small>Grande and Bemis 1998</small>
+****** Genus †Calamopleurus <small>Agassiz 1841</small> Enneles <small>Jordan & Branner 1908</small>
+****** Genus †Maliamia <small>Patterson and Longbottom 1989</small>
+***** Tribe †Vidalamiini <small>Grande and Bemis 1998</small>
+****** Genus †Melvius <small>Bryant 1987</small>
+****** Genus †Pachyamia <small>Chalifa and Tchernov 1982</small>
+****** Genus †Vidalamia <small>White and Moy-Thomas 1941</small> Vidalia <small>le Sauvage1903 non Robineau-Desvoidy 1830 non Lamouroux ex Agardh 1863</small>
+****** Genus †Nipponamia <small>Yabumoto 1994</small>
+==Timeline of genera==
+<timeline>
+ImageSize = width:1500px height:auto barincrement:15px
+PlotArea = left:10px bottom:50px top:10px right:10px
+Period = from:-251 till:0
+TimeAxis = orientation:horizontal
+ScaleMajor = unit:year increment:10 start:-251
+ScaleMinor = unit:year increment:1 start:-251
+TimeAxis = orientation:hor
+AlignBars = justify
+Colors =
+ #legends
+ id:CAR value:claret
+ id:ANK  value:rgb(0.4,0.3,0.196)
+ id:HER value:teal
+ id:HAD value:green
+ id:OMN value:blue
+ id:black value:black
+ id:white value:white
+ id:mesozoic value:rgb(0.54,0.54,0.258)
+ id:triassic value:rgb(0.51,0.17,0.57) 
+ id:earlytriassic value:rgb(0.6,0.22,0.61) 
+ id:middletriassic value:rgb(0.73,0.53,0.71) 
+ id:latetriassic value:rgb(0.78,0.65,0.8) 
+ id:jurassic value:rgb(0.2,0.7,0.79) 
+ id:earlyjurassic value:rgb(0,0.69,0.89) 
+ id:middlejurassic value:rgb(0.52,0.81,0.91) 
+ id:latejurassic value:rgb(0.74,0.89,0.97) 
+ id:cretaceous value:rgb(0.5,0.78,0.31)
+ id:earlycretaceous value:rgb(0.63,0.78,0.65)
+ id:latecretaceous value:rgb(0.74,0.82,0.37)
+ id:cenozoic value:rgb(0.54,0.54,0.258)
+ id:paleogene value:rgb(0.99,0.6,0.32) 
+ id:paleocene value:rgb(0.99,0.65,0.37) 
+ id:eocene value:rgb(0.99,0.71,0.42) 
+ id:oligocene value:rgb(0.99,0.75,0.48) 
+ id:neogene value:rgb(0.999999,0.9,0.1) 
+ id:miocene value:rgb(0.999999,0.999999,0) 
+ id:pliocene value:rgb(0.97,0.98,0.68)
+ id:quaternary value:rgb(0.98,0.98,0.5)
+ id:pleistocene value:rgb(0.999999,0.95,0.68)
+ id:holocene value:rgb(0.999,0.95,0.88)
+ 
+BarData=
+ bar:eratop
+ bar:space
+ bar:periodtop
+ bar:space
+ bar:NAM1
+ bar:NAM2
+ bar:NAM3
+ bar:NAM4
+ bar:NAM5
+ bar:NAM6
+ bar:NAM7
+ bar:NAM8
+ bar:NAM9
+ bar:NAM10
+ bar:NAM11
+ bar:NAM12
+ bar:NAM13
+ bar:NAM14
+ bar:NAM15
+ bar:NAM16
+ bar:NAM17
+ bar:NAM18
+ bar:NAM19
+ bar:NAM20
+ bar:NAM21
+ bar:NAM22
+ bar:NAM23
+ bar:NAM24
+ bar:NAM25
+ bar:NAM26
+ bar:NAM27
+ bar:NAM28
+ bar:NAM29
+ bar:NAM30
+ bar:NAM31
+ bar:space
+ bar:period
+ bar:space
+ bar:era
+PlotData=
+ align:center textcolor:black fontsize:M mark:(line,black) width:25
+ shift:(7,-4)
+ 
+ bar:periodtop
+ from: -251 till: -245 color:earlytriassic text:Early
+ from: -245 till: -228 color:middletriassic text:Middle
+ from: -228 till: -199.6 color:latetriassic text:Late
+ from: -199.6 till: -175.6 color:earlyjurassic text:Early
+ from: -175.6 till: -161.2 color:middlejurassic text:Middle
+ from: -161.2 till: -145.5 color:latejurassic text:Late
+ from: -145.5 till: -99.6 color:earlycretaceous text:Early
+ from: -99.6 till: -65.5 color:latecretaceous text:Late
+ from: -65.5 till: -55.8 color:paleocene text:Paleo.
+ from: -55.8 till: -33.9 color:eocene text:Eo.
+ from: -33.9 till: -23.03 color:oligocene text:Oligo.
+ from: -23.03 till: -5.332 color:miocene text:Mio.
+ from: -5.332 till: -2.588 color:pliocene text:Pl.
+ from: -2.588 till: -0.0117 color:pleistocene text:Pl.
+ from: -0.0117 till: 0 color:holocene text:H.
+ bar:eratop
+ from: -251 till: -199.6 color:triassic text:Triassic
+ from: -199.6 till: -145.5 color:jurassic text:Jurassic
+ from: -145.5 till: -65.5 color:cretaceous text:Cretaceous
+ from: -65.5 till: -23.03 color:paleogene text:Paleogene
+ from: -23.03 till: -2.588 color:neogene text:Neogene
+ from: -2.588 till: 0 color:quaternary text:Q.
+PlotData=
+ align:left fontsize:M mark:(line,white) width:5 anchor:till align:left
+ color:earlytriassic bar:NAM1 from:-251 till:-249.7 text:Ospia
+ color:earlytriassic bar:NAM2 from:-251 till:-249.7 text:Paracentrophorus
+ color:earlytriassic bar:NAM3 from:-251 till:-249.7 text:Parasemionotus
+ color:earlytriassic bar:NAM4 from:-251 till:-249.7 text:Thomasinotus
+ color:earlytriassic bar:NAM5 from:-251 till:-245 text:Broughia
+ color:earlytriassic bar:NAM6 from:-251 till:-245 text:Jacobulus
+ color:earlytriassic bar:NAM7 from:-251 till:-245 text:Lehmanotus
+ color:earlytriassic bar:NAM8 from:-251 till:-245 text:Stensioonotus
+ color:earlytriassic bar:NAM9 from:-251 till:-245 text:Tungusichthys
+ color:earlytriassic bar:NAM10 from:-251 till:-245 text:Watsonulus
+ color:middletriassic bar:NAM11 from:-245 till:-199.6 text:Allolepidotus
+ color:latetriassic bar:NAM12 from:-237 till:-228 text:Sinoeugnathus
+ color:latetriassic bar:NAM13 from:-237 till:-199.6 text:Eoeugnathus
+ color:latetriassic bar:NAM14 from:-228 till:-145.5 text:Caturus
+ color:latetriassic bar:NAM15 from:-228 till:-145.5 text:Furo
+ color:latetriassic bar:NAM16 from:-216.5 till:-149.03 text:Heterolepidotus
+ color:earlyjurassic bar:NAM17 from:-196.5 till:-161.2 text:Osteorachis
+ color:earlyjurassic bar:NAM18 from:-183 till:-180.53 text:Odmdenia
+ color:latejurassic bar:NAM20 from:-152.43 till:-112 text:Ionoscopus
+ color:latejurassic bar:NAM21 from:-150.8 till:-149.03 text:Callopterus
+ color:latejurassic bar:NAM22 from:-150.8 till:-149.03 text:Eusemius
+ color:latejurassic bar:NAM23 from:-150.8 till:-149.03 text:Liodesmus
+ color:latejurassic bar:NAM24 from:-150.8 till:-149.03 text:Oligopleura
+ color:latejurassic bar:NAM25 from:-150.8 till:-145.5 text:Amiopsis
+ color:earlycretaceous bar:NAM26 from:-145.5 till:-99.6 text:Otomitla
+ color:earlycretaceous bar:NAM27 from:-145.5 till:-89.3 text:Neorhombolepis
+ color:earlycretaceous bar:NAM28 from:-112 till:-99.6 text:Macrepistius
+ color:latecretaceous bar:NAM29 from:-99.6 till:-97.6 text:Aphanepygus
+ color:latecretaceous bar:NAM30 from:-99.6 till:-89.3 text:Lophiostomus
+ color:latecretaceous bar:NAM31 from:-99.6 till:-65.5 text:Stromerichthys
+PlotData=
+ align:center textcolor:black fontsize:M mark:(line,black) width:25
+ bar:period
+ from: -251 till: -245 color:earlytriassic text:Early
+ from: -245 till: -228 color:middletriassic text:Middle
+ from: -228 till: -199.6 color:latetriassic text:Late
+ from: -199.6 till: -175.6 color:earlyjurassic text:Early
+ from: -175.6 till: -161.2 color:middlejurassic text:Middle
+ from: -161.2 till: -145.5 color:latejurassic text:Late
+ from: -145.5 till: -99.6 color:earlycretaceous text:Early
+ from: -99.6 till: -65.5 color:latecretaceous text:Late
+ from: -65.5 till: -55.8 color:paleocene text:Paleo.
+ from: -55.8 till: -33.9 color:eocene text:Eo.
+ from: -33.9 till: -23.03 color:oligocene text:Oligo.
+ from: -23.03 till: -5.332 color:miocene text:Mio.
+ from: -5.332 till: -2.588 color:pliocene text:Pl.
+ from: -2.588 till: -0.0117 color:pleistocene text:Pl.
+ from: -0.0117 till: 0 color:holocene text:H.
+ bar:era
+ from: -251 till: -199.6 color:triassic text:Triassic
+ from: -199.6 till: -145.5 color:jurassic text:Jurassic
+ from: -145.5 till: -65.5 color:cretaceous text:Cretaceous
+ from: -65.5 till: -23.03 color:paleogene text:Paleogene
+ from: -23.03 till: -2.588 color:neogene text:Neogene
+ from: -2.588 till: 0 color:quaternary text:Q.
+</timeline>
+==References==
+==External links==
+
+The Amiiformes order of fish has only one extant species, the bowfin (Amia calva). These Amiiformes are found in the freshwater systems throughout North America and parts of southern Canada. They live in freshwater streams, rivers, and swamps. These bowfin fish are not on the endangered list. They have the ability to go to the surface to breathe if the water level is too low. The extinct species of the Amiiformes can be found fossilized in Asia and Europe, but the bowfin is the last living species in the order. 
+Characteristics of Amiiformes are a cylindrical body with a long dorsal fin, single gular plate, urltoken heterocercal caudal fin, 10 to 13 flattened urltoken branchiostegal rays, maxilla included in gape, and prominent ocellus near upper base of caudal fin.

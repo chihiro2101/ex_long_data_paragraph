@@ -1,0 +1,68 @@
+Catamaran
+
+== History ==
+Catamarans from Oceania and Maritime Southeast Asia became the inspiration for modern catamarans. Until the 20th century catamaran development focused primarily on sail-driven concepts.
+=== Etymology ===
+The word "catamaran" is derived from the Tamil word, kattumaram (கட்டுமரம்), which means "logs bound together". However, the original kattumaram did not refer to double-hulled boats at all, but to a type of single-hulled raft of the Tamils made of three to seven tree trunks lashed together. The term has evolved in English usage to refer solely to unrelated double-hulled boats.<ref name="Pohl"></ref><ref></ref><ref></ref><ref name="dictionary"></ref> <ref> urltoken Origins and Ethnological Significance
+Of Indian Boat Designs JAMES HORNELL
+Director of Fisheries, Madras Government
+The Origins and Ethnological Significance
+Of Indian Boat Designs
+Memoirs of the Asiatic Society of Bengal
+Calcutta 1920
+</ref>
+=== Development in Oceania and Asia ===
+file:Succession of forms in the development of the Austronesian boat.png|thumb|left|Succession of forms in the development of the Austronesian boat (Mahdi, 1999)
+Catamaran-type vessels were an early technology of the Austronesian peoples. Early researchers like Heine-Geldern (1932) and Hornell (1943) once believed that catamarans evolved from outrigger canoes, but modern authors specializing in Austronesian cultures like Doran (1981) and Mahdi (1988) now believe it to be the opposite.<ref name="Mahdi1999" /><ref name="Doran1981" /><ref name="Doran1974" />
+file:Hokule'a.jpg|thumb|Hōkūleʻa, a modern replica of a Polynesian Multihull voyaging canoe—an Austronesian innovation
+Two canoes bound together developed directly from minimal raft technologies of two logs tied together. Over time, the double-hulled canoe form developed into the asymmetric double canoe, where one hull is smaller than the other. Eventually the smaller hull became the prototype outrigger, giving way to the single outrigger canoe, then to the reversible single outrigger canoe. Finally, the single outrigger types developed into the double outrigger canoe (or trimarans).<ref name="Mahdi1999" /><ref name="Doran1981" /><ref name="Doran1974"></ref>
+This would also explain why older Austronesian populations in Island Southeast Asia tend to favor double outrigger canoes, as it keeps the boats stable when tacking. But they still have small regions where catamarans and single-outrigger canoes are still used. In contrast, more distant outlying descendant populations in Oceania, Madagascar, and the Comoros, retained the double-hull and the single outrigger canoe types, but the technology for double outriggers never reached them (although it exists in western Melanesia). To deal with the problem of the instability of the boat when the outrigger faces leeward when tacking, they instead developed the shunting technique in sailing, in conjunction with reversible single-outriggers.<ref name="Mahdi1999"></ref><ref name="Doran1981"></ref><ref name="Doran1974" /><ref name="Beheim"></ref><ref name="Hornell1932"></ref>
+Despite their being the more "primitive form" of outrigger canoes, they were nonetheless effective, allowing seafaring Polynesians to Polynesian navigation.<ref></ref>
+===Traditional catamarans===
+The following is a list of traditional Austronesian catamarans:
+*Island Melanesia:
+:*Fiji: Drua (or Wangga tabu)
+:*Papua New Guinea: Lakatoi
+:*Tonga: Hamatafua, Kalia, Tongiaki
+*Polynesia
+:*Cook Islands: Vaka katea
+:*Hawaii: Waʻa kaulua
+:*Marquesas: Vaka touʻua
+:*New Zealand: Waka hourua
+:*Samoa: ʻAlia, Amatasi, Va'a-tele
+:*Society Islands: Pahi, Tipairua
+=== Western development ===
+file:Herreshoff Duplex Catamaran sailing in the Thames River--1880.png|thumb|Nathaniel Herreshoff's long catamaran, Duplex, on the River Thames—built in 1877
+The first documented example of double-hulled sailing craft in Europe was designed by William Petty in 1662 to sail faster, in shallower waters, in lighter wind, and with fewer crew than other vessels of the time. However, the unusual design met with skepticism and was not a commercial success.<ref></ref><ref></ref>
+left
+The design remained relatively unused in the West for almost 160 years until the early 19th-century, when the Englishman Mayflower F. Crisp built a two-hulled merchant ship in Yangon. The ship was christened Original. Crisp described it as "a fast sailing fine sea boat; she traded during the monsoon between Rangoon and the Tenasserim Provinces for several years".<ref></ref><ref></ref>
+Later that century, the American Nathanael Herreshoff constructed a double-hulled sailing boat of his own design (US Pat. No. 189,459).<ref></ref> The craft, Amaryllis, raced at her maiden regatta on June 22, 1876, and performed exceedingly well. Her debut demonstrated the distinct performance advantages afforded to catamarans over the standard monohulls. It was as a result of this event, the Centennial Regatta of the New York Yacht Club, that catamarans were barred from regular sailing classes, and this remained the case until the 1970s.<ref name="ban"></ref> On June 6, 1882, three catamarans from the Southern Yacht Club of New Orleans raced a 15nm course on Lake Pontchartrain and the winning boat in the catamaran class, Nip and Tuck, beat the fastest sloop's time by over five minutes.<ref></ref><ref></ref>
+In 1936, Eric de Bisschop built a Polynesian "double canoe" in Hawaii and sailed it home to a hero's welcome in France. In 1939, he published his experiences in a book, Kaimiloa, which was translated into English in 1940.<ref>The Voyage of the Kaimiloa, London, 1940 (translated from French: Kaimiloa : D'Honolulu à Cannes par l'Australie et Le Cap, à bord d'une double pirogue polynésienne), Editions Plon, Paris, 1939 (Au delà des horizons lointains 1).</ref>
+Roland and Frank Prout experimented with catamarans in 1949 and converted their 1935 boat factory in Canvey Island, Essex (England), to catamaran production in 1954. Their Shearwater catamarans easily won races against monohulls. Yellow Bird, a 1956-built Shearwater III, raced successfully by Francis Prout in the 1960s, is in the collection of the National Maritime Museum Cornwall.<ref></ref> G. Prout & Sons, Ltd. designed a mast aft rig with the mast aft of midships to support an enlarged jib—more than twice the size of the design's reduced mainsail; it was produced as the Snowgoose model.<ref name="snowgoose"></ref> The claimed advantage of this sail plan was to diminish any tendency for the bows of the vessel to dig in.<ref></ref><ref></ref>
+thumb
+In the mid-twentieth century, beachcats became a widespread category of sailing catamarans, owing to their ease of launching and mass production. In California, a maker of surfboards, Hobie Alter, produced the Hobie 14 in 1967, and two years later the larger and even more successful Hobie 16. As of 2016, the Hobie 16 was still being produced with more than 100,000 having been manufactured.<ref></ref>
+Catamarans were introduced to Olympic sailing in 1976. The two-handed Tornado catamaran was selected for the multihull discipline in the Olympic Games from 1976 through 2008. It was redesigned in 2000.<ref>.</ref> The foiling Nacra 17 will be used in the Tokyo 2020 Olympics,<ref></ref><ref></ref> after the 2015 adoption of the Nacra 15 as a Youth World Championships class and as a new class for the Youth Olympic Games.<ref></ref><ref></ref>
+Australia became the site of builders of large transport catamarans—Incat in 1977<ref></ref> and Austal in 1988<ref></ref>—each building civilian Ferry and Navy vessels.
+The largest ship ever built in terms of gross tonnage, the Pioneering Spirit, incorporates a catamaran design.<ref></ref>
+== Performance ==
+file:Brady 45&#039; strip-built catamaran with fractional Bermuda rig.jpg|thumb|upright|A 45' catamaran under sail, showing minimal bow wave and wake resulting from the hulls being narrow, low displacement and long
+Catamarans have two distinct primary performance characteristics that distinguish them from displacement monohull vessels: lower resistance to passage through the water and greater stability (initial resistance to capsize). Choosing between a monohull and catamaran configuration includes considerations of carrying capacity, speed, and efficiency.
+=== Resistance ===
+At low to moderate speeds, a lightweight catamaran hull experiences resistance to passage through water that is approximately proportional to the square of its speed. A displacement monohull, by comparison, experiences resistance that is at least the cube of its speed. This means that a catamaran would require four times the power in order to double its speed, whereas a monohull would require eight times the power to double its speed, starting at a slow speed.<ref name=Garrett/> For powered catamarans, this implies smaller power plants (although two are typically required). For sailing catamarans, low forward resistance<ref></ref> allows the sails to derive power from attached flow,<ref name=Weitner></ref> their most efficient mode—analogous to a wing—leading to the use of wingsails in racing craft.<ref name=Sail></ref>
+=== Stability ===
+Catamarans rely primarily on form stability to resist heeling and capsize.<ref name=Garrett></ref> Comparison of heeling stability of a rectangular-cross section monohull of beam, B, compared with two catamaran hulls of width B/2, separated by a distance, 2×B, determines that the catamaran has an initial resistance to heeling that is seven times that of the monohull.<ref></ref> Compared with a monohull, a cruising catamaran sailboat has a high initial resistance to heeling and capsize—a fifty-footer requires four times the force to initiate a capsize than an equivalent monohull.<ref name = Offshore></ref>
+=== Tradeoffs ===
+One measure of the trade-off between speed and carrying capacity is the Froude number#Ship hydrodynamics,<ref>.</ref> compared with calm water transportation efficiency.<ref name = Watson/> Fn<sub>V</sub> applies when the waterline length is too speed-dependent to be meaningful—as with a planing hull.<ref></ref> It uses a reference length, the cubic root of the volumetric displacement of the hull, V, where u is the relative flow velocity between the sea and ship, and g is Gravitational constant:
+ 
+:<math>\mathrm</ref>
+=== Military ===
+file:USNS Spearhead (JHSV-1) - 1.jpg|thumb|left|US Naval Ship Spearhead (JHSV-1) during sea trials in 2012
+Military Sealift Command operates several Expeditionary Fast Transport catamarans owned by the U.S. Navy.<ref></ref> They are used for high speed transport of military cargo, and to get into shallow ports.
+The Makar-class is a class of two large catamaran-hull survey ships built for the Indian Navy. As of 2012, one vessel, INS Makar (J31), was in service and the second was under construction.<ref></ref>
+First launched in 2004 at Shanghai, the Houbei class missile boat of the People's Liberation Army Navy (PLAN) has a catamaran design to accommodate the vessel's stealth features.<ref name="Wired"></ref>
+
+file:Bladef16-1up.jpg|thumb|A Formula 16 beachable catamaran
+file:Salem Ferry.JPG|thumb|Powered catamaran passenger ferry at Salem, Massachusetts, United States
+A catamaran (informally, a "cat") is a multihull watercraft featuring two parallel hulls of equal size. It is a geometry-stabilized craft, deriving its stability from its wide beam, rather than from a ballasted keel as with a monohull boat. Catamarans typically have less hull volume, smaller displacement, and shallower draft (draught) than monohulls of comparable length. The two hulls combined also often have a smaller hydrodynamic resistance than comparable monohulls, requiring less propulsive power from either sails or motors. The catamaran's wider stance on the water can reduce both heeling and wave-induced motion, as compared with a monohull, and can give reduced wakes.
+Catamarans were invented by the Austronesian peoples which enabled their expansion to the islands of the Indian and Pacific Oceans.<ref name="Doran1974"></ref>
+Catamarans range in size from small (sailing or rowing vessels) to large (naval ships and roll-on/roll-off car ferries). The structure connecting a catamaran's two hulls ranges from a simple frame strung with webbing to support the crew to a bridging superstructure incorporating extensive cabin and/or cargo space.

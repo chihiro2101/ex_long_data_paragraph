@@ -1,0 +1,101 @@
+Alliterative verse
+
+==Common Germanic origins and features==
+The poetic forms found in the various Germanic languages are not identical, but there is sufficient similarity to make it clear that they are closely related traditions, stemming from a common Germanic source. Knowledge about that common tradition, however, is based almost entirely on inference from later poetry.
+One statement we have about the nature of alliterative verse from a practicing alliterative poet is that of Snorri Sturluson in the Prose Edda. He describes metrical patterns and poetic devices used by skaldic poets around the year 1200. Snorri's description has served as the starting point for scholars to reconstruct alliterative meters beyond those of Old Norse. There have been many different metrical theories proposed, all of them attended with controversy. Looked at broadly, however, certain basic features are common from the earliest to the latest poetry.
+Alliterative verse has been found in some of the earliest monuments of Germanic literature. The Golden horns of Gallehus, discovered in Denmark and likely dating to the 4th century, bear this rune inscription in Proto-Norse:
+ x / x x x / x x / x / x x
+ ek hlewagastiʀ holtijaʀ || horna tawidō
+ (I, Hlewagastiʀ son? of Holt, made the horn.)
+This inscription contains four strongly stressed syllables, the first three of which alliterate on /x/ and the last of which does not alliterate, essentially the same pattern found in much later verse.
+Originally all alliterative poetry was composed and transmitted orally, and much went unrecorded. The degree to which writing may have altered this oral art form remains much in dispute. Nevertheless, there is a broad consensus among scholars that the written verse retains many (and some would argue almost all) of the features of the spoken language.
+===Metrical form===
+The core metrical features of traditional Germanic alliterative verse are as follows; they can be seen in the Gallehus inscription above:<ref name="Terasawa 2011 pp3-26"></ref>
+*A long line is divided into two half-lines. Half-lines are also known as 'verses', 'hemistichs', or 'distichs'; the first is called the 'a-verse' (or 'on-verse'), the second the 'b-verse' (or 'off-verse'). The rhythm of the b-verse is generally more regular than that of the a-verse, helping listeners to perceive where the end of the line falls.<ref name="Terasawa 2011 pp3-26"/>
+*A heavy pause, or 'cæsura', separates the verses.<ref name="Terasawa 2011 pp3-26"/>
+*Each verse usually has two heavily stressed syllables, referred to as 'lifts' or 'beats' (other, less heavily stressed syllables, are called 'dips').<ref name="Terasawa 2011 pp3-26"/>
+*The first (and, if there is one, sometimes the second) lift in the a-verse alliterates with the first lift in the b-verse.<ref name="Terasawa 2011 pp3-26"/>
+*The second lift in the b-verse does not alliterate with the first lifts.<ref name="Terasawa 2011 pp3-26"/>
+Some of these fundamental rules varied in certain traditions over time. Unlike in post-medieval English accentual verse, in which a syllable is either stressed or unstressed, Germanic poets were sensitive to degrees of stress. These can be thought of at three levels:<ref name="Terasawa 2011 pp3-26"/>
+# most stressed ('stress-words'): root syllables of nouns, adjectives, participles, infinitives<ref name="Terasawa 2011 pp3-26"/>
+# less stressed ('particles'): root syllables most finite verbs (i.e. verbs which are not infinitives) and adverbs<ref name="Terasawa 2011 pp3-26"/>
+# even less stressed ('proclitics'): most pronouns, weakly stressed adverbs, prepositions, conjunctions, parts of the verb to be, word-endings<ref name="Terasawa 2011 pp3-26"/>
+If a half-line contains one or more stress-words, their root syllables will be the lifts. (This is the case in the Gallehus Horn inscription above, where all the lifts are nouns.) If it contains no stress-words, the root syllables of any particles will be the lift. Rarely, even a proclitic can be the lift, either because there are no more heavily stressed syllables or because it is given extra stress for some particular reason.
+If a lift was occupied by word with a short root vowel followed by only one consonant followed by an unstressed vowel (i.e. '(-)CVCV(-)) these two syllables were in most circumstances counted as only one syllable. This is called resolution.<ref></ref>
+The patterns of unstressed syllables vary significantly in the alliterative traditions of different Germanic languages. The rules for these patterns remain imperfectly understood and subject to debate.
+===Rules for alliteration===
+Alliteration fits naturally with the prosodic patterns of early Germanic languages. Alliteration essentially involves matching the left edges of stressed syllables. Early Germanic languages share a left-prominent prosodic pattern. In other words, stress falls on the root syllable of a word, which is normally the initial syllable (except where the root is preceded by an unstressed prefix, as in past participles, for example). This means that the first sound of a word was particularly salient to listeners. Traditional Germanic verse had two particular rules about alliteration:
+*All vowels alliterate with each other.<ref name="Donka Minkova 2003"></ref>
+*The consonant clusters st-, sp- and sc- are treated as separate sounds (so st- only alliterates with st-, not with s- or sp-).<ref></ref>
+The precise reasons for this are debated. The most common, but not uniformly accepted, theory for vowel-alliteration is that words beginning with vowels all actually began with a glottal stop (as is still the case in some modern Germanic languages).<ref name="Donka Minkova 2003"/>
+===Diction===
+The need to find an appropriate alliterating word gave certain other distinctive features to alliterative verse as well. Alliterative poets drew on a specialized vocabulary of poetic synonyms rarely used in prose texts and used standard images and metaphors called kennings.
+Old Saxon and medieval English attest to the word fitt with the sense of 'a section in a longer poem', and this term is sometimes used today by scholars to refer to sections of alliterative poems.<ref>' urltoken fit | fytte, n.1.', Oxford English Dictionary Online, 1st edn (Oxford: Oxford University Press, 1896).</ref><ref>R. D. Fulk, 'The Origin of the Numbered Sections in Beowulf and in Other Old English Poems', Anglo-Saxon England, 35 (2006), 91-109 (p. 91 fn. 1).</ref>
+==English alliterative verse==
+===Old English poetic forms===
+Old English classical poetry, epitomised by Beowulf, follows the rules of traditional Germanic poetry outlined above, and is indeed a major source for reconstructing them. J.R.R. Tolkien's essay "On Translating Beowulf" analyses the rules as used in the poem.<ref></ref> Some patterns of classical Old English verse begin to break down at the end of the Old English period. Moreover, Thomas Bredehoft has argued that an alternative system of non-classical Old English poetry with looser constraints existed alongside this classical verse. In Bredehoft's reading, this poetry is epitomized by the homilies of Ælfric of Eynsham traditionally described as being in 'rhythmical prose'.<ref>Bredehoft, Thomas A. 'Ælfric and Late Old English Verse', <nowiki></nowiki>Anglo-Saxon England<nowiki></nowiki>, 33 (2004), 77–107; Thomas A. Bredehoft, Early English Metre (Toronto: University of Toronto Press, 2005).</ref> This section of the article, however, focuses on the classical form.
+====Metrical form====
+As described above for the Germanic tradition as a whole, each line of poetry in Old English consists of two half-lines or verses with a pause or caesura in the middle of the line. Each half-line usually has two accented syllables, although the first may only have one. The following example from the poem The Battle of Maldon, spoken by the warrior Beorhtwold, shows the usual pattern:
+ true of words. She who wore the necklace bade me to bear my head high in battle, when the battle-ice a gleaming sword seeks to shatter skulls.
+The bracketed words in the poem ("so said the goddess of hawk-land, true of words") are syntactically separate, but interspersed within the text of the rest of the verse. The elaborate kennings manifested here are also practically necessary in this complex and demanding form, as much to solve metrical difficulties as for the sake of vivid imagery. Intriguingly, the saga claims that Harald improvised these lines after he gave a lesser performance (in fornyrðislag); Harald judged that verse bad, and then offered this one in the more demanding form. While the exchange may be fictionalized, the scene illustrates the regard in which the form was held.
+Most dróttkvætt poems that survive appear in one or another of the Norse Sagas; several of the sagas are biography of skaldic poets.
+===Hrynhenda===
+Hrynhenda is a later development of dróttkvætt with eight syllables per line instead of six, with the similar rules of rhyme and alliteration, although each hrynhent-variant shows particular subtleties. It is first attested around 985 in the so-called Hafgerðingadrápa of which four lines survive (alliterants and rhymes bolded):
+:Mínar biðk at munka reyni
+:meinalausan farar beina;
+:heiðis haldi hárar foldar
+:hallar dróttinn of mér stalli.
+: I ask the tester of monks (God) for a safe journey; the lord of the palace of the high ground (God — here we have a kenning in four parts) keep the seat of the falcon (hand) over me.
+The author was said to be a Christian from the Hebrides, who composed the poem asking God to keep him safe at sea. (Note: The third line is, in fact, over-alliterated. There should be exactly two alliterants in the odd-numbered lines.) The metre gained some popularity in courtly poetry, as the rhythm may sound more majestic than dróttkvætt.
+We learn much about these in the Hattatal:<ref>Hattatal, Snorri Sturluson</ref> Snorri gives for certain at least three different variant-forms of hryniandi. These long-syllabled lines are explained by Snorri as being extra-metrical in most cases: the "main" form never has alliteration or rhyme in the first 2 syllables of the odd-lines (i.e., rimes always coming at the fourth-syllable), and the even-lines never have rhyme on the fifth/sixth syllables (i.e.: they cannot harbor rime in these places because they extra-metrical), the following couplet shows the paradigm:
+Tiggi snýr á ógnar áru
+(Undgagl veit þat) sóknar hagli. 
+Note the juxtaposition of alliteration and rhyme of the even-line
+Then, the variant-forms show unsurprising dróttkvætt patterns overall; the main difference being that the first trochee of the odd-lines are technically not reckoned as extrametrical since they harbor alliteration, but the even-lines' extra-metrical feature is more or less as the same. The 2nd form is the "troll-hryniandi": in the odd-lines the alliteration is moved to the first metrical position (no longer "extra-metrical") while the rhyme remains the same (Snorri seems to imply that frumhending, which is placing a rhyme on the first syllable of any line, is preferably avoided in all these forms: the rhymes are always preferred as oddhending, "middle-of-the-line rhymes") — in the even-lines the rhyme and alliteration are not juxtaposed, and this is a key feature of its distinction (the significant features only are marked in bold below):
+Stála kendi steykvilundum
+Styriar valdi raudu falda. 
+The next form, which Snorri calls "ordinary/standard hrynhenda", is almost like a "combination" of the previous — alliteration always on the first metrical-position, and the rimes in the odd-lines juxtaposed (all features in bold in this example):
+Vafdi lítt er virdum mætti
+Vígrækiandi fram at sækia.'
+There is one more form which is a bit different though seemed to be counted among the previous group by Snorri, called draughent. The syllable-count changes to seven (and, whether relevant to us or not, the second-syllable seems to be counted as the extra-metrical):
+Vápna hríd velta nádi
+Vægdarlaus feigum hausi.
+Hilmir lét höggum mæta
+Herda klett bana verdant.
+As one can see, there is very often clashing stress in the middle of the line (Vápna hríd velta.//.Vægdarlaus feigum., etc.), and oddhending seems preferred (as well as keeping alliterative and rhyming syllables separated, which likely has to do with the syllabic-makeup of the line).
+===Post-medieval Scandinavian alliterative verse===
+Alliterative poetry is still practiced in Iceland in an unbroken tradition since the settlement, most commonly in the form of rímur.<ref>Cf. .</ref> The most common alliterative ríma form is ferskeytt.<ref>Vésteinn Ólason, 'Old Icelandic Poetry', in A History of Icelandic Literature, ed. by Daisy Nejmann, Histories of Scandinavian Literature, 5 (Lincoln: University of Nebraska Press, 2006), pp. 1-63 (pp. 55-59).</ref>
+==High German and Saxon forms==
+The Old High German and Old Saxon corpus of Stabreim or alliterative verse is small. Fewer than 200 Old High German lines survive, in four works: the Hildebrandslied, Muspilli, the Merseburg Charms and the Wessobrunn Prayer. All four are preserved in forms that are clearly to some extent corrupt, suggesting that the scribes may themselves not have been entirely familiar with the poetic tradition.
+Two Old Saxon alliterative poems survive. One is the reworking of the four gospels into the epic Heliand (nearly 6000 lines), where Jesus and his disciples are portrayed in a Saxon warrior culture. The other is the fragmentary Genesis (337 lines in 3 unconnected fragments), created as a reworking of Biblical content based on Latin sources.
+However, both German traditions show one common feature which is much less common elsewhere: a proliferation of unaccented syllables. Generally these are part of speech which would naturally be unstressed — pronouns, prepositions, articles, modal auxiliary — but in the Old Saxon works there are also adjectives and lexical verbs. The unaccented syllables typically occur before the first stress in the half-line, and most often in the b-verse.
+The Hildebrandslied, lines 4–5:
+The Heliand, line 3062:
+:Sâlig bist thu Sîmon, quað he, sunu Ionases; || ni mahtes thu that selbo gehuggean
+::Blessed are you Simon, he said, son of Jonah; || for you did not see that yourself (Matthew 16, 17)
+This leads to a less dense style, no doubt closer to everyday language, which has been interpreted both as a sign of decadent technique from ill-tutored poets and as an artistic innovation giving scope for additional poetic effects. Either way, it signifies a break with the strict Sievers typology.
+In more recent times, Richard Wagner sought to evoke old German models and what he considered a more natural and less over-civilised style by writing his Ring poems in Stabreim.
+==Notes==
+==References==
+==Sources==
+*
+*
+*
+==Further reading==
+*
+*
+*
+*
+*
+*
+*
+*
+==External links==
+* urltoken Carmina Scaldica a selection of Norse and Icelandic skaldic poetry, ed. Finnur Jónsson, 1929
+* urltoken Jörmungrund An extensive resource for Old Norse poetry
+* urltoken Jónas Hallgrímsson: Selected Poetry and Prose, ed. and trans. by Dick Ringler (1998), ch. 3 Probably the most accessible discussion in English of alliterant placement in modern Icelandic (also mostly applicable to Old Norse).
+* urltoken Forgotten ground regained A site dedicated to alliterative and accentual poetry.
+* urltoken An interactive guide to Old and Middle English alliterative verse by Alaric Hall.
+
+In prosody, alliterative verse is a form of verse that uses alliteration as the principal ornamental device to help indicate the underlying Metre (poetry), as opposed to other devices such as rhyme. The most commonly studied traditions of alliterative verse are those found in the oldest literature of the Germanic languages, where scholars use the term 'alliterative poetry' rather broadly to indicate a tradition which not only shares alliteration as its primary ornament but also certain metrical characteristics. The Old English epic Beowulf, as well as most other Old English poetry, the Old High German Muspilli, the Old Saxon Heliand, the Old Norse Poetic Edda, and many Middle English poems such as Piers Plowman, Sir Gawain and the Green Knight, and the Alliterative Morte Arthur all use alliterative verse.
+Alliterative verse can be found in many other languages as well. The Finnish Kalevala and the Estonian Kalevipoeg both use alliterative forms derived from folk tradition.

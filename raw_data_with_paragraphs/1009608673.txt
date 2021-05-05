@@ -1,0 +1,191 @@
+Traffic congestion
+
+==Causes==
+Traffic congestion occurs when a volume of traffic or mode choice generates demand for space greater than the available street capacity; this point is commonly termed saturation. There are a number of specific circumstances which cause or aggravate congestion; most of them reduce the capacity of a road at a given point or over a certain length, or increase the number of vehicles required for a given volume of people or goods. About half of U.S. traffic congestion is recurring, and is attributed to sheer weight of traffic; most of the rest is attributed to traffic incidents, road work and weather events.<ref></ref><ref></ref> In terms of traffic operation, rainfall reduces traffic capacity and operating speeds, thereby resulting in greater congestion and road network productivity loss.
+Traffic research still cannot fully predict under which conditions a "traffic jam" (as opposed to heavy, but smoothly flowing traffic) may suddenly occur. It has been found that individual incidents (such as accidents or even a single car braking heavily in a previously smooth flow) may cause ripple effects (a cascading failure) which then spread out and create a sustained traffic jam when, otherwise, normal flow might have continued for some time longer.<ref></ref>
+===Separation of work and residential areas===
+People often work and live in different parts of the city. Places of work are often located away from housing areas, resulting in the need for people to commute to work. 
+According to a 2011 report published by the United States Census Bureau, a total of 132.3 million people in the United States commute between their work and residential areas daily.
+<ref></ref>
+===Movement to obtain or provide goods and services===
+People may need to move about within the city to obtain goods and services, for instance to purchase goods or attend classes in a different part of the city.
+Brussels, a city with a strong service economy, has one of the worst traffic congestion in the world, wasting 74 hours in traffic in 2014.
+===Mathematical theories===
+Some traffic engineers have attempted to apply the rules of fluid dynamics to traffic flow, likening it to the flow of a fluid in a pipe. Congestion simulations and real-time observations have shown that in heavy but free flowing traffic, jams can arise spontaneously, triggered by minor events ("butterfly effects"), such as an abrupt steering maneuver by a single motorist. Traffic scientists liken such a situation to the sudden freezing of supercooling.<ref name="ball">Critical Mass – Philip Ball, </ref>
+However, unlike a fluid, traffic flow is often affected by signals or other events at junctions that periodically affect the smooth flow of traffic. Alternative mathematical theories exist, such as Boris Kerner's three-phase traffic theory (see also spatiotemporal reconstruction of traffic congestion).
+Because of the poor correlation of theoretical models to actual observed traffic flows, transportation planners and highway engineers attempt to traffic flow using empirical models. Their working traffic models typically use a combination of macro-, micro- and mesoscopic features, and may add matrix entropy effects, by "platooning" groups of vehicles and by randomising the flow patterns within individual segments of the network. These models are then typically calibrated by measuring actual traffic flows on the links in the network, and the baseline flows are adjusted accordingly.
+A team of MIT mathematicians has developed a model that describes the formation of "phantom jams," in which small disturbances (a driver hitting the brake too hard, or getting too close to another car) in heavy traffic can become amplified into a full-blown, self-sustaining traffic jam. Key to the study is the realization that the mathematics of such jams, which the researchers call "jamitons," are strikingly similar to the equations that describe detonation waves produced by explosions, says Aslan Kasimov, lecturer in MIT's Department of Mathematics. That discovery enabled the team to solve traffic-jam equations that were first theorized in the 1950s.<ref></ref>
+In recent articles, percolation theory has been applied to study traffic congestion in a city. The quality of the global traffic in a city at a given time can be characterized by a single parameter, the percolation critical threshold. The critical threshold represent the velocity below which one can travel in a large fraction of city network. Above this threshold one can travel only within a relatively small clusters (neighborhoods). The method is able to identify repetitive traffic bottlenecks<ref>Percolation transition in dynamical traffic network with evolving critical bottlenecks 
+D. Li, B. Fu, Y. Wang, G. Lu, Y. Berezin, H.E. Stanley, S. Havlin
+PNAS 112, 669 (2015)</ref>
+Critical exponents characterizing the cluster size distribution of good traffic are similar to those of percolation theory.<ref>Switch between critical percolation modes in city traffic dynamics
+G Zeng, D Li, S Guo, L Gao, Z Gao, HE Stanley, S Havlin
+Proceedings of the National Academy of Sciences 116 (1), 23-28 (2019)</ref> A method to identify functional clusters of spatio-temporal streets that represent fluent traffic flow in a city has been developed by Serok et al.<ref>Unveiling the inter-relations between the urban streets network and its dynamic traffic flows: Planning implication
+Nimrod Serok, Orr Levy, Shlomo Havlin, Efrat Blumenfeld-Lieberthal,
+SAGE Publications 46(7), 1362 (2019)</ref>
+An empirical study regarding the size distribution of traffic jams has been performed recently by Zhang et al.<ref>Scale-free resilience of real traffic jams
+Limiao Zhang, Guanwen Zeng, Daqing Li, Hai-Jun Huang, H Eugene Stanley, Shlomo Havlin
+Proceedings of the National Academy of Sciences 116(18), 8673-8678 (2019)</ref> They found an approximate universal power law for the jam sizes distribution. Indications for multiple metastable states and hysteresis in real data of traffic flow during rush hours have been found by G. Zeng et al.<ref></ref>
+===Economic theories===
+Congested roads can be seen as an example of the tragedy of the commons. Because roads in most places are free at the point of usage, there is little financial incentive for drivers not to over-use them, up to the point where traffic collapses into a jam, when demand becomes limited by opportunity cost. Private highway and road pricing have both been proposed as measures that may reduce congestion through economic incentives and disincentives. Congestion can also happen due to non-recurring highway incidents, such as a crash or roadworks, which may reduce the road's capacity below normal levels.
+Economist Anthony Downs argues that rush hour traffic congestion is inevitable because of the benefits of having a relatively Business hours . In a capitalism economy, goods can be allocated either by pricing (ability to pay) or by queueing (first-come first-served); congestion is an example of the latter. Instead of the traditional solution of making the "pipe" large enough to accommodate the total demand for peak-hour vehicle travel (a supply-side solution), either by widening roadways or increasing "flow pressure" via automated highway systems, Downs advocates greater use of road pricing to reduce congestion (a demand-side solution, effectively rationing demand), in turn plowing the revenues generated therefrom into public transportation projects.
+A 2011 study in The American Economic Review indicates that there may be a "fundamental law of road congestion." The researchers, from the University of Toronto and the London School of Economics, analyzed data from the U.S. Highway Performance and Monitoring System for 1983, 1993 and 2003, as well as information on population, employment, geography, transit, and political factors. They determined that the number of vehicle-kilometers traveled (VKT) increases in direct proportion to the available lane-kilometers of roadways. The implication is that building new roads and widening existing ones only results in additional traffic that continues to rise until peak congestion returns to the previous level.<ref></ref><ref></ref>
+==Classification==
+Qualitative classification of traffic is often done in the form of a six letter A-F level of service (LOS) scale defined in the Highway Capacity Manual, a US document used (or used as a basis for national guidelines) worldwide. These levels are used by Transport engineering as a shorthand and to describe traffic levels to the lay public. While this system generally uses delay as the basis for its measurements, the particular measurements and statistical methods vary depending on the facility being described. For instance, while the percent time spent following a slower-moving vehicle figures into the LOS for a rural two-lane road, the LOS at an urban intersection incorporates such measurements as the number of drivers forced to wait through more than one signal cycle.<ref>Traffic Engineering, Third Edition. Roger P. Roess, Elana S. Prassas, and William R. McShane. </ref>
+Traffic congestion occurs in time and space, i.e., it is a spatiotemporal process. Therefore, another classification schema of traffic congestion is associated with some common spatiotemporal features of traffic congestion found in measured traffic data. Common spatiotemporal empirical features of traffic congestion are those features, which are qualitatively the same for different highways in different countries measured during years of traffic observations. Common features of traffic congestion are independent on weather, road conditions and road infrastructure, vehicular technology, driver characteristics, day time, etc. Examples of common features of traffic congestion are the features J and S for, respectively, the wide moving jam and synchronized flow traffic phases found in Kerner's three-phase traffic theory. The common features of traffic congestion can be reconstructed in space and time with the use of the ASDA and FOTO models.
+==Negative impacts==
+Traffic congestion has a number of negative effects:
+* Wasting time of motorists and passengers ("opportunity cost"). As a non-productive activity for most people, congestion reduces regional economic health.
+* Delays, which may result in late arrival for employment, meetings, and education, resulting in lost business, disciplinary action or other personal losses.
+* Inability to forecast travel time accurately, leading to drivers allocating more time to travel "just in case", and less time on productive activities.
+* Wasted fuel increasing air pollution and greenhouse gas owing to increased idling, acceleration and braking.
+* Wear and tear on vehicles as a result of idling in traffic and frequent acceleration and braking, leading to more frequent repairs and replacements.
+* Stressed and frustrated motorists, encouraging road rage and reduced health of motorists
+* Emergencies: blocked traffic may interfere with the passage of emergency vehicles traveling to their destinations where they are urgently needed.
+* Spillover effect from congested main arteries to secondary roads and side streets as alternative routes are attempted ('rat running'), which may affect neighborhood amenity and real estate prices.
+* Higher chance of collisions due to tight spacing and constant stopping-and-going.
+===Road rage===
+Road rage is aggressive or angry behavior by a driver of an automobile or other motor vehicle. Such behavior might include rude gestures, verbal insults, deliberately driving in an unsafe or threatening manner, or making threats. Road rage can lead to altercations, assaults, and collisions which result in injuries and even deaths. It can be thought of as an extreme case of aggressive driving.
+The term originated in the United States in 1987–1988 (specifically, from Newscasters at KTLA, a local television station), when a rash of freeway shootings occurred on the 405, 110 and 10 freeways in Los Angeles, California. These shooting sprees even spawned a response from the AAA Motor Club to its members on how to respond to drivers with road rage or aggressive maneuvers and gestures.<ref></ref>
+=== Economic loss ===
+</ref> In response to the increased demand to public transit caused by these policies, aggressive programs to rapidly expand public transport systems in many Chinese cities are currently underway.<ref></ref>
+A unique Chinese phenomenon of severe traffic congestion occurs during Chunyun or Spring Festival travel season.<ref></ref> It is a long-held tradition for most Chinese people to reunite with their families during Chinese New Year. People return to their hometown to have a reunion dinner with their families on Chinese New Year. It has been described as the largest annual human migration in the world.<ref></ref><ref></ref> Since the economic boom and rapid urbanization of China since the late 1970s, many people work and study a considerable distance from their hometowns. Traffic flow is typically directional, with large amounts of the population working in more developed coastal provinces needing travel to their hometowns in the less developed interior. The process reverses near the end of Chunyun. With almost 3 billion trips<ref></ref> made in 40 days of the 2016 Chunyun Period, the Chinese intercity transportation network is extremely strained during this period.
+The August 2010 China National Highway 110 traffic jam in Hebei province caught media attention for its severity, stretching more than from August 14 to 26, including at least 11 days of total gridlock.<ref></ref><ref></ref><ref name=NYT0810></ref> The event was caused by a combination of road works and thousands of coal trucks from Inner Mongolia's coalfields that travel daily to Beijing. The New York Times has called this event the "Great Chinese Gridlock of 2010."<ref name=NYT0810/><ref></ref> The congestion is regarded as the worst in history by duration, and is one of the longest in length after the long Lyon-Paris traffic jam in France on February 16, 1980.
+Recently, in Hangzhou City Brain has become active, reducing traffic congestion somewhat.<ref> urltoken Alibaba's 'City Brain' is slashing congestion in its hometown</ref>
+===India===
+The number of vehicles in India is quickly increasing as a growing middle class can now afford to buy cars. India's road conditions have not kept up with the exponential growth in number of vehicles.
+Various causes for this include:
+* Private encroachments
+* Non cooperation among drivers
+* Unscientific road design
+* Lack of free ways / exit ways where local roads and main roads intersect
+* Lack of demarcated footpaths
+* Lack of bus bays
+* Lack of cycle tracks
+* Lack of coordination among various government departments (e.g. digging of roads by telecom/water department and leaving it open)
+===Indonesia===
+According to a 2015 study by motor oil company Castrol, Jakarta is found to be the worst city in the world for traffic congestion. Relying on information from TomTom navigation devices in 78 countries, the index found that drivers are stopping and starting their cars 33,240 times per year on the road. After Jakarta, the worst cities for traffic are Istanbul, Mexico City, Surabaya, and St. Petersburg.<ref></ref>
+Daily congestion in Jakarta is not a recent problem. The expansion of commercial area without road expansion shows worsening daily congestion even in main roads such as Jalan Jenderal Sudirman, Jalan M.H. Thamrin, and Jalan Gajah Mada in the mid 1970s.<ref></ref>
+In 2016, 22 people died as a result of traffic congestion in Java. They were among those stuck in a three-day traffic jam at a toll exit in Brebes, Central Java called Brebes Exit or 'Brexit'. The traffic block stretched for 21&nbsp;km here and thousands of cars clogged the highway. Many people died because of carbon monoxide poisoning, fatigue or heat.<ref></ref>
+===New Zealand===
+New Zealand has followed strongly car-oriented transport policies since after World War II (especially in Auckland, where one third of the country's population lives, is New Zealand's most traffic congested city, and has been labelled worse than New York for traffic congestion with commuters sitting in traffic congestion for 95 hours per year),<ref name="GRIFF"> urltoken Backtracking Auckland: Bureaucratic rationality and public preferences in transport planning – Mees, Paul; Dodson, Jago; Urban Research Program Issues Paper 5, Griffith University, April 2006</ref> and currently has one of the highest car-ownership rates per capita in the world, after the United States.<ref> urltoken Modern Society (from Te Ara: The Encyclopedia of New Zealand. Accessed 2008-04-25.)</ref> Traffic congestion in New Zealand is increasing with drivers on New Zealand's motorways reported to be struggling to exceed 20&nbsp;km/h on an average commute, sometimes crawling along at 8&nbsp;km/h for more than half an hour.
+===Philippines===
+According to a survey by Waze, traffic congestion in Metro Manila is called the "worst" in the world, after Rio de Janeiro, São Paulo, and Jakarta.<ref></ref> It is worsened by Traffic violation, like illegal parking, loading and unloading, Red light running, and wrong-way driving.<ref></ref> Traffic congestion in Metro Manila is caused by the large number of registered vehicles, lack of roads, and overpopulation, especially in the cities of Manila and Caloocan, as well as the municipality of Pateros.<ref name=faqph></ref> Traffic caused losses of ₱137,500,000,000 on the economy in 2011, and unbuilt roads and railway projects also causes worsening congestion.<ref></ref> The Japan International Cooperation Agency (JICA) feared that daily economic losses will reach Php 6,000,000,000 by 2030 if traffic congestion cannot be controlled.<ref></ref>
+===Turkey===
+In recent years, the Istanbul Metropolitan Municipality has made huge investments on intelligent transportation systems and public transportation. Despite that, traffic is a significant problem in İstanbul.
+İstanbul has chosen the second most congested<ref></ref> and the most sudden-stopping traffic in the world.<ref></ref> Travel times in Turkey's largest city take on average 55 percent longer than they should, even in relatively less busy hours.<ref></ref>
+===United Kingdom===
+In the United Kingdom the inevitability of congestion in some urban road networks has been officially recognized since the Department for Transport set down policies based on the report Traffic in Towns in 1963:
+<blockquote>
+Even when everything that it is possibly to do by way of building new roads and expanding public transport has been done, there would still be, in the absence of deliberate limitation, more cars trying to move into, or within our cities than could possibly be accommodated.<ref name=tit>
+</ref>
+</blockquote>
+The Department for Transport sees growing congestion as one of the most serious transport problems facing the UK.<ref>
+</ref> On 1 December 2006, Rod Eddington published a UK government-sponsored Eddington Transport Study. The Eddington Transport Study set out the case for action to improve road and rail networks, as a "crucial enabler of sustained productivity and competitiveness". Eddington has estimated that congestion may cost the economy of England £22 bn a year in lost time by 2025. He warned that roads were in serious danger of becoming so congested that the economy would suffer.<ref>
+</ref> At the launch of the report Eddington told journalists and transport industry representatives introducing road pricing to encourage drivers to drive less was an "economic no-brainer". There was, he said "no attractive alternative". It would allegedly cut congestion by half by 2025, and bring benefits to the British economy totalling £28 bn a year.<ref>
+</ref>
+A congestion charge for driving in central London was introduced in 2003. In 2013, ten years later, Transport for London reported that the scheme resulted in a 10% reduction in traffic volumes from baseline conditions, and an overall reduction of 11% in vehicle kilometres in London. Despite these gains, traffic speeds in central London became progressively slower.
+===United States===
+The Texas Transportation Institute estimated that, in 2000, the 75 largest metropolitan areas experienced 3.6 billion vehicle-hours of delay, resulting in 5.7 billion U.S. gallons (21.6 billion liters) in wasted fuel and $67.5 billion in lost productivity, or about 0.7% of the nation's GDP. It also estimated that the annual cost of congestion for each driver was approximately $1,000 in very large cities and $200 in small cities. Traffic congestion is increasing in major cities and delays are becoming more frequent in smaller cities and rural areas.
+30% of traffic is cars looking for parking.<ref> urltoken 
+According to traffic analysis firm INRIX in 2013,<ref></ref> the top 65 worst US traffic congested cities (measured in average hours wasted per vehicle for the year) were:
+# Los Angeles, California: 64.4 hours
+# Honolulu, Hawaii: 59.5 hours
+# San Francisco, California: 56.1 hours
+# New York, New York: 52.9 hours
+# Bridgeport, Connecticut: 42.1 hours
+# Austin, Texas: 41.2 hours
+# Houston, Texas: 40.6 hours
+# Washington, D.C.: 40.3 hours
+# Boston, Massachusetts: 37.9 hours
+# Seattle, Washington: 37.1 hours
+# San Jose, California: 34.7 hours
+# Chicago, Illinois: 34.2 hours
+# Dallas, Texas: 33.5 hours
+# El Paso, Texas: 32.6 hours
+# Denver, Colorado: 31.7 hours
+# New Haven, Connecticut: 31.2 hours
+# Fort Worth, Texas: 30.6 hours
+# Albuquerque, New Mexico: 29.3 hours
+# Detroit: 28.5 hours
+# Colorado Springs, Colorado: 26.8 hours
+# St. Louis, Missouri: 25.6 hours
+# Indianapolis, Indiana: 24.9 hours
+# Baltimore, Maryland: 23.4 hours
+# Las Vegas, Nevada: 22.1 hours
+# Salt Lake City, Utah: 21.9 hours
+# Lubbock, Texas: 21.5 hours
+# Provo, Utah: 21.2 hours
+# Aurora, Colorado: 20.7 hours
+# New Orleans, Louisiana: 20.2 hours
+# Arlington, Texas: 19.8 hours
+# Hartford, Connecticut: 19.6 hours
+# Miami, Florida: 19.5 hours
+# Tampa, Florida: 19.4 hours
+# Daytona Beach, Florida: 19.2 hours
+# Boise, Idaho: 18.7 hours
+# Rio Rancho, New Mexico: 18.4 hours
+# Wichita, Kansas: 18.1 hours
+# Mobile, Alabama: 17.6 hours;
+# Fort Collins, Colorado: 16.9 hour
+# Kansas City, Missouri: 16.7 hours
+# Columbia, Missouri: 16.3 hours
+# Abilene, Texas: 16.1 hours
+# Sacramento, California: 15.8 hours
+# Midland, Texas: 15.4 hours
+# Westminster, Colorado: 14.7 hours
+# Plano, Texas: 14.5 hours
+# Temple, Texas: 14.2 hours
+# Loveland, Colorado: 13.8 hours
+# Amarillo, Texas: 13.2 hours
+# Odessa, Texas: 12.8 hours
+# San Antonio, Texas: 12.7 hours
+# Galveston, Texas: 12.6 hours
+# Golden, Colorado: 12.3 hours
+# Greeley, Colorado: 11.8 hours
+# Santa Barbara, California: 11.6 hours
+# Anchorage, Alaska: 10.9 hours
+# Olympia, Washington: 10.7 hours
+# Harrisburg, Pennsylvania: 10.6 hours
+# Columbus, Ohio: 10.4 hours
+# Portland, Oregon: 10.2 hours
+# Redding, California: 9.8 hours
+# Frederick, Maryland: 9.7 hours
+# Castle Rock, Colorado: 9.6 hours
+# Frisco, Texas: 9.4 hour
+# Trenton, New Jersey: 9.3 hours
+The most congested highway in the United States, according to a 2010 study of freight congestion (truck speed and travel time), is Chicago's Interstate 290 at the Circle Interchange. The average truck speed was just .<ref></ref>
+==See also==
+* Connected car
+* Journal of Transport and Land Use
+* Kerner's breakdown minimization principle
+* Peak car
+* Smeed's law
+* Transims
+* Transportation forecasting
+* Traffic Message Channel (TMC)
+* Donald Shoup
+* Traffic obstruction
+* Urban planning
+==References==
+Bianchi Alves, B., & Darido, G. (2016, February 7). Sustainable cities, two related challenges: high quality mobility on foot and efficient urban logistics (Part II). Retrieved November 2, 2019, from urltoken 
+2019 Top 100 Truck Bottlenecks. (2019, February 14). Retrieved November 3, 2019, from urltoken 
+Haag, M., & Hu, W. (2019, October 27). 1.5 Million Packages a Day: The Internet Brings Chaos to N.Y. Streets. Retrieved November 1, 2019, from urltoken 
+Popovich, N., & Lu, D. (2019, October 10). The Most Detailed Map of Auto Emissions in America. Retrieved November 1, 2019, from urltoken 
+Reed, S. (2018, September 21). In London, Electric Trucks Are Helping UPS Make 'Eco-Friendly' Deliveries. Retrieved November 3, 2019, from urltoken 
+Rooney, K. (2019, April 3). Online shopping overtakes a major part of retail for the first time ever. Retrieved November 2, 2019, from urltoken 
+==Further reading==
+* urltoken B.S. Kerner, Introduction to Modern Traffic Flow Theory and Control: The Long Road to Three-Phase Traffic Theory, Springer, Berlin, New York 2009
+* urltoken B.S. Kerner, The Physics of Traffic, Springer, Berlin, New York 2004
+* Koslowsky, Meni; Avraham N. Kluger; and Mordechai Reich. Commuting Stress, New York: Plenum, 1995.
+* 
+* 
+* Victoria Transport Policy Institute (March 2013), urltoken Smart Congestion Relief – Comprehensive Analysis Of Traffic Congestion Costs and Congestion Reduction Benefits
+* R. Wiedemann, Simulation des Straßenverkehrsflusses. Schriftenreihe des IfV, 8, 1974. Institut für Verkehrswesen. Universität Karlsruhe (in German).
+==External links==
+* urltoken Institute of Transportation Engineers
+* urltoken How Traffic Works from HowStuffWorks.com
+
+Traffic congestion is a condition in transport that is characterised by slower speeds, longer trip times, and increased vehicular queueing. Traffic congestion on urban road networks has increased substantially, since the 1950s.<ref></ref> When traffic demand is great enough that the interaction between vehicles slows the speed of the traffic stream, this results in some congestion. While congestion is a possibility for any mode of transportation, this article will focus on automobile congestion on public roads.
+As demand approaches the capacity of a road (or of the intersections along the road), extreme traffic congestion sets in. When vehicles are fully stopped for periods of time, this is known as a traffic jam<ref></ref><ref></ref> or (informally) a traffic snarl-up.<ref></ref><ref></ref> Traffic congestion can lead to drivers becoming frustrated and engaging in road rage.
+Mathematically, traffic is modeled as a flow through a fixed point on the route, analogously to fluid dynamics.

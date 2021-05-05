@@ -1,0 +1,113 @@
+Special district (United States)
+
+== Definition of "Special District" by the United States Census ==
+The United States Census counts government units across all States. This includes "special districts." To count the special districts the Census must define the special districts so as to address all such governmental entities across the broad spectrum of 50 states' definitions and interpretations. The Census's full definition is:<blockquote>Special district governments are independent, special purpose governmental units, other than school district governments, that exist as separate entities with substantial administrative and fiscal independence from general purpose local governments. As defined for Census Bureau statistics on governments, the term ‘‘special district governments’’ excludes school district governments as they are defined as a separate governmental type.
+ Special district governments provide specific services that are not being supplied by existing general purpose governments. Most perform a single function, but in some instances, their enabling legislation allows them to provide several, usually related, types of services. The services provided by these districts range from such basic social needs as hospitals and fire protection, to the less conspicuous tasks of mosquito abatement and upkeep of cemeteries.
+ The Census Bureau classification of special district governments covers a wide variety of entities, most of which are officially called districts or authorities. Not all public agencies so termed, however, represent separate governments. Many entities that carry the designation ‘‘district’’ or ‘‘authority’’ are, by law, so closely related to county, municipal, town or township, or state governments that they are classified as subordinate agencies of those governments in Census Bureau statistics on governments, and are not counted as separate special district governments.
+ In order to be classified as a special district government, rather than as a subordinate agency, an entity must possess three attributes—existence as an organized entity, governmental character, and substantial autonomy. Each state description also lists various statutory authorities, commissions, corporations, and other forms of organizations that have certain governmental characteristics, but are subject by law to administrative or fiscal control by the state or by independent local governments; therefore, they are classified as subordinate agencies of those governments.<ref></ref></blockquote>
+==Characteristics==
+Special districts serve limited areas and have governing boards that accomplish legislatively assigned functions using public funds.<ref name="Mitzanry, K 2002, p. 2">Mitzanry, K, & Manatt, A. (2002, February).What's so special about special districts? A citizen's guide to special districts in California. 3rd. ed. p. 2.</ref>
+===Governing body===
+Each district is governed by a board of directors, commissioners, board of supervisors, or the like. These boards may be appointed by public officials, appointed by private entities, popularly elected, or elected by benefited citizens (typically, property owners). Sometimes, one or more public officials will serve as an ex officio member on the board.
+The board of a special district serves primarily as a managing board and often appoints a chief executive for day-to-day operations and decision making and policy implementation. In the New England states, special districts are often run in the same town meeting fashion as other local governments. Most districts have employees,<ref> urltoken but some districts exist solely to raise funds by issuing bonds and/or by providing tax increment financing.
+===Functions===
+Special districts perform many functions including airports, ports, highways, mass transit, parking facilities, fire protection, libraries, parks, cemeteries, hospitals, irrigation, conservation, sewerage, wastewater treatment, solid waste, Optical fiber, stadiums, water supply, electric power, and natural gas utility.<ref> urltoken N. The formation of American local governments: Private values in public institutions. Oxford University Press, 1994, p. 14.</ref>
+==Legal basis==
+Special districts are authorized by state law and must have public foundation, civil office, and public accountability.
+===State law===
+Special districts in the United States are founded by some level of government in accordance with state law <ref>U.S. Advisory Commission on Intergovernmental Relations. (1993, March). State laws governing local government structure and administration. page 7.</ref> (either constitutional amendment, general law, or special acts)<ref>Mitzanry, K, & Manatt, A. (2002, February) What's so special about special districts? A citizen's guide to special districts in California. 3rd. ed. p. 4.</ref> and exist in all states. Special districts are legally separate entities with at least some corporate powers.<ref></ref> Districts are created by legislative action, court action, or public referendum. The procedures for creating a special district may include procedures such as petitions, hearings, voter or landowner approval, or government approval. Tribal governments may create special districts pursuant to state law and may serve on the boards of special districts.
+===Public foundation===
+Special districts, like all public entities, have public foundation.<ref>15A Am Jur 2d Colleges and Universities § 2
+</ref><ref>16B Am Jur 2d Constitutional Law § 723</ref><ref>4B M.J. CORPORATIONS § 26</ref> The landmark case of the U.S. Supreme Court addressing public versus private charters was Dartmouth College v. Woodward in 1819.<ref name="Newmyer, R. K 2001, pp. 244-253">Newmyer, R. K. John Marshall and heroic age of the Supreme Court. Louisiana State University Press: Baton Rouge, 2001, pp. 244-253.</ref> Dartmouth established the fundamental differences between public and private organizations. Critically, a government must be founded by all of the people of a governmental area or by their governmental representatives.<ref name="Newmyer, R. K 2001, pp. 244-253" /><ref name="Allen v. McKean 1833">Allen v. McKean, 1 F. Cas. 489 (1833)</ref><ref>Louisville v. University of Louisville, 54 Ky. 642 (June 1855)</ref><ref>Ohio v. Neff, 52 Ohio St. 375, 40 N.E. 720 (1895)</ref><ref name="Currie, D. P. 1982">Currie, D. P. (1982, Fall). The Constitution in the Supreme Court: State and Congressional powers, 1801-1835. University of Chicago Law Review. 49 U. Chi. L. Rev. 887.</ref><ref>Opinion No. 84-134, 1984 Okla. AG LEXIS 17</ref><ref>Opinion No. 1007, 1994 Minn. AG LEXIS 2</ref>
+===Civil office===
+Special districts possess some form of civil office, that is, the board has received a delegation of sovereign power from the state.<ref>Commissioner v. Shamberg's Estate, 144 F.2d 998 (1945)</ref> Some boards may be appointed by only landowners.<ref>Mitzanry, K, & Manatt, A. (2002, February).What's so special about special districts? A citizen's guide to special districts in California. 3rd. ed. p. 7 (box).</ref><ref>Burns, N. The formation of American local governments: Private values in public institutions. Oxford University Press, 1994, p. 12.</ref> Private entities may appoint some or all of the members of a special district;<ref>Scholle v. Maryland 90 Md. 729, 46 A. 736 (1900)</ref><ref>Marks v. Frantz, 179 Ky. 638 (1956)</ref><ref>Palm Beach County Health Care District v. Everglades Memorial Hospital 658 So. 2d 577 (Fla. 1995)</ref> however, there must be evidence of civil office. In addition to special districts with privately appointed boards, a special district may have a privately founded board;<ref>Sharpless v. Mayor 21 Pa. 147 (1853)</ref> however, such a board could not be given the power to set a tax.
+===Accountability===
+There is a citizen-government fiscal accountability relationship.<ref>Mead, D. M. (Winter 2002). The role of GASB 34 in the citizen-government accountability relationship. State and Local Government Review. Vol 34, No. 1 51-63.</ref> To maintain accountability for special districts, states must maintain ultimate control (the power to repeal the authorizing law at any time).<ref>Hess V. Port Authority Trans-Hudson Corporation, 513 U.S. 30, 115 S. Ct. 394, 130 L. Ed. 2d 245 (1994)</ref><ref>Meriwether v. Garrett, 102 U.S. 472, 26 L. Ed. 197 (1880)</ref><ref>Palm Beach County Health Care District v. Everglades Memorial Hospital, 658 So. 2d 577 (Fla. 1995)</ref><ref>Hess v. Port Authority Trans-Hudson Corporation, 513 U.S. 30,115 S. Ct. 394, 130 L. Ed. 2d 245 (1994)</ref><ref>Vogt v. Orleans Levee District, 294 F.3d 684 (5th Cir. 2002)</ref><ref>Reynolds v. Sims, 377 U.S. 533, 84 S. Ct. 136, 12 L. Ed. 2d 506 (1964)</ref> Due to public foundation and, thus, ultimate control, the state can freely delegate sovereign power (such as the power to tax) to special districts and can allow them to act autonomously with little supervision.
+==History==
+There is little information available on the earliest special districts in the United States. It is known that park districts existed in the 18th century. Toll road and canal corporations existed in the 19th century.<ref name="Intergovernmental Relations 1964">Advisory Commission on Intergovernmental Relations. (1964, May). The problem special districts in American government. Washington, DC UNT Digital Library</ref> The first general statute authorizing irrigation districts was adopted by California in 1887.<ref>Bollens, J. C. (1957). Special district government in the United States. University of California Press, pp. 142-144.</ref> The U.S. Census Bureau began identifying and collecting data on special districts in 1942.<ref>under construction</ref>
+=== English custom ===
+Special districts in the United States follow the English custom. The earliest known general law in England authorizing special purpose authorities was the Statute of Sewers of 1532.<ref name="Webb, S. 1922 p. 61">Webb, S.(1922). English local government: Statutory authorities for special purposes. p. 61.</ref> Single purpose authorities created by individual charters also existed at the time.<ref name="Webb, S. 1922 p. 61"/> However, the early authorities were temporary and unconnected to local government structure.<ref>Webb, S.(1922). English local government: Statutory authorities for special purposes. p. 300.</ref> The first laws authorizing permanent authorities connected to local governments were the Incorporated Guardians of the Poor, which were created by special acts in the 17th century.<ref>Webb, S.(1922). English local government: Statutory authorities for special purposes. p. 299.</ref> Turnpike trusts were an early and popular special purpose authority in England.<ref>Webb, S.(1922). English local government: Statutory authorities for special purposes.</ref> Internal drainage boards are current examples in parts of England and Wales.
+==Trends==
+The state of Illinois leads the nation in the number of special districts with California close behind.<ref name="ReferenceA"/> State counts of their special districts may differ from the federal count because the states may have different definitions of a special district than the U.S. Census Bureau.<ref name="Intergovernmental Relations 1964"/>
+==Examples==
+All of the following examples have been found by the U.S. Census Bureau to be special districts.<ref name="ReferenceA">U.S. Census Bureau 2012 Census of Governments Governments Organization</ref> See the Census of Governments Government Organization publications at a depository library or visit urltoken and select Governments Division.
+* Alabama: Alabama Municipal Electric Authority (special act)
+* Alaska: regional electrical authorities (general law)
+* Arizona: drainage districts (general law)
+* Arkansas: fire ant abatement districts (general law)
+* California: In California a Community Services District (CSD) is a special district providing multiple services, often for unincorporated communities,<ref></ref> such as Vandenberg Village CSD for Vandenberg Village. An example of a non-CSD special district is the Golden Gate Bridge, Highway and Transportation District
+* Colorado: ambulance districts (general law)
+* Connecticut: Pomperaug Valley Water Authority (special act)
+* Delaware: tax ditches (general law)
+* Florida: Daytona Beach Racing and Recreational Facilities District (special act); Reedy Creek Improvement District, which includes the Walt Disney Resort and the cities of Bay Lake and Lake Buena Vista (special act); The Tohopekaliga Water Authority (TWA, or Toho for short), which provides the majority of the public water, wastewater, and reclaimed water services for Osceola County and some small parts of Polk and Orange Counties (special act)
+* Georgia: airport authorities (special acts)
+* Hawaii: Office of Hawaiian Affairs (constitutional amendment)
+* Idaho: auditorium districts (general law)
+* Illinois: Chicago Transit Authority (special act)
+* Indiana: Northwest Indiana Regional Development Authority (special act)
+* Iowa: library districts (joint or regional) (general law)
+* Kansas: industrial districts (general law)
+* Kentucky: Louisville-Jefferson County Air Pollution Control District (general law with special application)
+* Louisiana: Abbeville Film and Visitors Commission District (special act)
+* Maine: cemetery districts (special acts)
+* Maryland: water and sewer authorities (general law)
+* Massachusetts: Goose Pond Maintenance District (special act)
+* Michigan: recreation authorities (general law)
+* Minnesota: Metropolitan Mosquito Control District (special act)
+* Mississippi: lighting districts (special acts)
+* Missouri: Jackson County Sports Complex Authority (special act)
+* Montana: county rail authorities (general law)
+* Nebraska: Omaha Metropolitan Utilities District (general law with special application)
+* New Hampshire: housing authorities (general law)
+* New Jersey: Port Authority of New York and New Jersey and New Jersey Turnpike Authority - 1948 law (joint or regional) (general law)
+* New Mexico: cotton boll weevil control districts (general law)
+* New York: Hyde Park Fire and Water District (special act)
+* North Carolina: Research Triangle Regional Public Transit Authority (special act)
+* North Dakota: vector control districts (general law)
+* Ohio: new community authorities, special improvement districts,<ref></ref> transportation improvement districts<ref></ref> (general law)
+* Oklahoma: public library systems (general law)
+* Oregon: geothermal heating districts, port authorities -1909 (general law)
+* Pennsylvania: Philadelphia Regional Port Authority (special act)
+* Rhode Island: East Providence Special Development District Commission (special act)
+* South Carolina: Myrtle Beach Air Base Redevelopment Authority (executive order)
+* South Dakota: television translator districts (general law)
+* Tennessee: utility districts (general law)
+* Texas: Palacios Seawall Commission (special act)
+* Utah: irrigation districts (general law)
+* Vermont: Vermont Public Power Supply Authority (special act)
+* Virginia: Buchanan County Tourist Train Development Authority (special act)
+* Washington: hydroelectric resources authorities (general law)
+* West Virginia: Hatfield-McCoy Regional Recreation Authority (special act)
+* Wisconsin: local professional baseball park districts (general law)
+* Wyoming: resort districts (general law)
+==See also==
+* District
+* FOCJ
+* Joint powers authority
+* Local government in the United States
+* Public-benefit corporation
+* Special districts in Illinois
+==References==
+==Further reading==
+* Friedman, L. M. A history of American law. (3rd). Simon & Schuster: New York. 2005.
+* Krane, D., Rigos, P. N., and Hill, M. B. Home rule in America: A fifty-state handbook. CQ Press. 2001.
+* Mergent's Municipal and Government Manual
+* Zimmerman, J. F. The New England town meeting. Greenwood Publishing Group. 1997.
+==External links==
+* urltoken A Citizen's Guide to Special Districts in California
+* urltoken California Special Districts Association
+* urltoken Special Districts Association of Oregon
+* urltoken Oregon Special Districts Fact Sheets
+* urltoken U.S. Census Bureau
+* urltoken U.S. Census Bureau/Governments Organization/Volume 1
+* urltoken Government Accounting Standards Board
+* urltoken 2006 Government Finance and Employment Classification Manual, U.S. Census Bureau
+* urltoken 2007 Governments Integrated Directory, U.S. Census Bureau
+* urltoken IRS tax-exempt bond information
+* urltoken Municipal Research and Services Center of Washington
+* urltoken Florida Department of Economic Opportunity, Special District Accountability Program
+* urltoken State and Local Government Review - current and past issues
+* urltoken Bloomberg News
+* urltoken Last Week Tonight with John Oliver: Special Districts (HBO)
+
+Special districts (also known as special service districts, special district governments, limited purpose entities, or special-purpose districts) are independent, special-purpose governmental units that exist separately from local governments such as county, municipal, and township governments, with substantial administrative and fiscal independence. They are formed to perform a single function or a set of related functions.<ref name='Census2002'></ref> The term special district governments as defined by the U.S. Census Bureau excludes school districts.<ref name="Census2002"/> In 2017, the U.S. had more than 51,296 special district governments.<ref></ref>

@@ -1,0 +1,53 @@
+Porphyrin
+
+==Complexes of porphyrins==
+<gallery caption="Representative porphyrins and derivatives" widths="140px" heights="100px">
+File:Porphyrin.svg|Porphin is the simplest porphyrin, a rare compound of theoretical interest.
+File:PPIXtransH.png|Derivatives of protoporphyrin IX are common in nature, the precursor to hemes.
+File:H2octaethylporphyrin.png |Octaethylporphyrin (H<sub>2</sub>OEP) is a synthetic analogue of protoporphyrin IX. Unlike the natural porphyrin ligands, OEP<sup>2−</sup> is highly symmetrical.
+File:H2TPP.png|Tetraphenylporphyrin (H<sub>2</sub>TPP)is another synthetic analogue of protoporphyrin IX. Unlike the natural porphyrin ligands, TPP<sup>2−</sup> is highly symmetrical. Another difference is that its methyne centers are occupied by phenyl groups.
+File:Heme b.svg|Simplified view of heme, a complex of a protoporphyrin IX.
+</gallery>
+Porphyrins are the conjugate acids of ligands that bind metals to form complexes. The metal ion usually has a charge of 2+ or 3+. A schematic equation for these syntheses is shown:
+:H<sub>2</sub>porphyrin + ML<sub>n</sub><sup>2+</sup> → M(porphyrinate)L<sub>n−4</sub> + 4 L + 2 H<sup>+</sup>, where M = metal ion and L = a ligand
+A porphyrin without a metal-ion in its cavity is a free base. Some iron-containing porphyrins are called hemes. Heme-containing proteins, or hemoproteins, are found extensively in nature. Hemoglobin and myoglobin are two Oxygen-binding proteins that contain iron porphyrins. Various cytochromes are also hemoproteins.
+==Related species==
+A benzoporphyrin is a porphyrin with a benzene ring fused to one of the pyrrole units. e.g. verteporfin is a benzoporphyrin derivative.<ref name=Scott2000></ref>
+Several other heterocycles are related to porphyrins. These include corrins, chlorins, bacteriochlorophylls, and corphins. Chlorins (2,3-dihydroporphyrin) are more reduced, contain more hydrogen than porphyrins, i.e. one pyrrole has been converted to a pyrroline. This structure occurs in chlorophylls. Replacement of two of the four pyrrolic subunits with pyrrolinic subunits results in either a bacteriochlorin (as found in some photosynthetic bacteria) or an isobacteriochlorin, depending on the relative positions of the reduced rings. Some porphyrin derivatives follow Hückel's rule, but most do not.
+==Natural formation==
+A geoporphyrin, also known as a petroporphyrin, is a porphyrin of geologic origin.<ref name=handbook></ref> They can occur in crude oil, oil shale, coal, or sedimentary rocks.<ref name=handbook/><ref></ref> Abelsonite is possibly the only geoporphyrin mineral, as it is rare for porphyrins to occur in isolation and form crystals.<ref></ref>
+==Synthesis==
+===Biosynthesis===
+In non-photosynthetic eukaryotes such as animals, insects, fungi, and protozoa, as well as the α-proteobacteria group of bacteria, the committed step for porphyrin biosynthesis is the formation of Aminolevulinic acid (δ-ALA, 5-ALA or dALA) by the reaction of the amino acid glycine with succinyl-CoA from the citric acid cycle. In plants, algae, bacteria (except for the α-proteobacteria group) and archaea, it is produced from glutamic acid via glutamyl-tRNA and glutamate-1-semialdehyde. The enzymes involved in this pathway are glutamyl-tRNA synthetase, glutamyl-tRNA reductase, and glutamate-1-semialdehyde 2,1-aminomutase. This pathway is known as the C5 or Beale pathway.
+Two molecules of dALA are then combined by porphobilinogen synthase to give porphobilinogen (PBG), which contains a pyrrole ring. Four PBGs are then combined through deamination into hydroxymethyl bilane (HMB), which is hydrolysed to form the circular tetrapyrrole uroporphyrinogen III. This molecule undergoes a number of further modifications. Intermediates are used in different species to form particular substances, but, in humans, the main end-product protoporphyrin IX is combined with iron to form heme. Bile pigments are the breakdown products of heme.
+The following scheme summarizes the biosynthesis of porphyrins, with references by EC number and the OMIM database. The porphyria associated with the deficiency of each enzyme is also shown:
+===Laboratory synthesis===
+Image:Tetratolylporphyrin.jpg|thumb|right|Brilliant crystals of meso-tetratolylporphyrin, prepared from 4-methylbenzaldehyde and pyrrole in refluxing propionic acid
+One of the most common syntheses for porphyrins is the Rothemund reaction, first reported in 1936,<ref></ref><ref></ref> which is also the basis for more recent methods described by Adler and Longo.<ref></ref> The general scheme is a condensation and oxidation process starting with pyrrole and an aldehyde.
+:400px
+==Isomeric Porphyrins==
+The first synthetic porphyrin isomer was reported by Emanual Vogel and Coworkers in 1986. This isomer 18porphyrin-(2.0.2.0) is named as porphycene, and the central N<sub>4</sub> Cavity forms a rectangle shape as shown in figure.<ref></ref> Porphycenes showed interesting photophysical behavior and found versatile compound towards the photodynamic therapy.<ref></ref> This inspired Vogel and Sessler to took up the challenge of preparing 18porphyrin-(2.1.0.1) and named it as Corrphycene or Porphycerin.<ref></ref> The third porphyrin that is 18porphyrin-(2.1.1.0), was reported by Callot and Vogel-Sessler. Vogel and coworkers reported successful isolation of 18Porphyrin-(3.0.1.0) or Isoporphycene.<ref></ref> The Japanese scientist Furuta<ref></ref> and Polish scientist Latos-Grażyński<ref></ref> almost simultaneously reported the N-Confused porphyrins. The inversion of one of the pyrrolic subunits in the macrocyclic ring resulted to face one of the nitrogen atom outside of the core of the macrocycle. 
+==Applications==
+===Photodynamic therapy===
+Porphyrins have been evaluated in the context of photodynamic therapy (PDT) since they strongly absorb light, which is then converted to energy and heat in the illuminated areas.<ref></ref> This technique has been applied in macular degeneration using verteporfin.<ref name="pmid17636693"></ref>
+PDT is considered a noninvasive cancer treatment, involving the interaction between light of a determined frequency, a photo-sensitizer, and oxygen. This interaction produces the formation of a highly reactive oxygen species (ROS), usually singlet oxygen, as well as superoxide anion, free hydroxyl radical, or hydrogen peroxide.<ref>Price, M., Terlecky, S. R. and Kessel, D. (2009), A Role for Hydrogen Peroxide in the Pro‐apoptotic Effects of Photodynamic Therapy. Photochemistry and Photobiology, 85: 1491-1496. doi:10.1111/j.1751-1097.2009.00589.x</ref>
+These high reactive oxygen species react with susceptible cellular organic biomolecules such as; lipids, aromatic amino acids, and nucleic acid heterocyclic bases, to produce oxidative radicals that damage the cell, possibly inducing apoptosis or even necrosis.<ref>Singh, S., Aggarwal, A., N. V. S. Dinesh K. Bhupathiraju, Arianna, G., Tiwari, K., & Drain, C. M. (2015). Glycosylated Porphyrins, Phthalocyanines, and Other Porphyrinoids for Diagnostics and Therapeutics. Chemical Reviews, 115(18), 10261-10306. doi:10.1021/acs.chemrev.5b00244</ref>
+===Organic geochemistry===
+The field of organic geochemistry had its origins in the isolation of porphyrins from petroleum. This finding helped establish the biological origins of petroleum. Petroleum is sometimes "fingerprinted" by analysis of trace amounts of nickel and vanadyl porphyrins.
+=== Toxicology ===
+Heme biosynthesis is used as biomarker in environmental toxicology studies. While excess production of porphyrins indicate organochlorine exposure, lead inhibits ALA dehydratase enzyme.<ref></ref>
+==Potential applications==
+===Biomimetic catalysis===
+Although not commercialized, metalloporphyrin complexes are widely studied as catalysts for the oxidation of organic compounds. Particularly popular for such laboratory research are complexes of meso-tetraphenylporphyrin and octaethylporphyrin. Complexes with Mn, Fe, and Co catalyze a variety of reactions of potential interest in organic synthesis. Some complexes emulate the action of various heme enzymes such as cytochrome P450, lignin peroxidase.<ref></ref><ref></ref> Metalloporphyrins are also studied as catalysts for water splitting, with the purpose of generating molecular hydrogen and oxygen for fuel cells.<ref></ref>
+===Molecular electronics and sensors===
+Porphyrin-based compounds are of interest as possible components of molecular electronics and photonics.<ref></ref> Synthetic porphyrin dyes have been incorporated in prototype dye-sensitized solar cells.<ref></ref><ref></ref>
+Metalloporphyrins have been investigated as sensors.<ref></ref> 
+Phthalocyanines, which are structurally related to porphyrins, are used in commerce as dyes and catalysts, but porphyrins are not.
+===Supramolecular chemistry===
+Image:Host Guest Complex Porphyrin Sanders AngewChemIntEdEngl 1995 1096.jpg|thumb|An example of porphyrins involved in host–guest chemistry. Here, a four-porphyrin–zinc complex hosts a porphyrin guest.<ref name = sanders></ref>
+Porphyrins are often used to construct structures in supramolecular chemistry. These systems take advantage of the Lewis acidity of the metal, typically zinc. An example of a host–guest complex that was constructed from a macrocycle composed of four porphyrins.<ref name = sanders/> A guest-free base porphyrin is bound to the center by coordination with its four-pyridine substituents.
+===Theoretical interest in aromaticity===
+Porphyrinoid macrocycles can show variable aromaticity.<ref></ref> An Hückel aromatic porphyrin is porphycene.<ref></ref> antiaromatic, Mobious aromatic, and non aromatic porphyrinoid macrocycles are known.<ref></ref>
+
+Porphyrins are a group of heterocyclic macrocycle organic compounds, composed of four modified pyrrole subunits interconnected at their α carbon atoms via methine bridges (=CH−). The parent of porphyrin is porphine, a rare chemical compound of exclusively theoretical interest. Substituted porphines are called porphyrins.<ref></ref> With a total of 26 π-electrons, of which 18 π-electrons form a planar, continuous cycle, the porphyrin ring structure is often described as aromatic.<ref></ref><ref></ref> One result of the large conjugated system is that porphyrins typically absorb strongly in the visible region of the electromagnetic spectrum, i.e. they are deeply colored. The name "porphyrin" derives from the Greek word πορφύρα (porphyra), meaning purple.<ref></ref>
+Metal complexes derived from porphyrins occur naturally. One of the best-known families of porphyrin complexes is heme, the pigment in red blood cells, a cofactor of the protein hemoglobin.

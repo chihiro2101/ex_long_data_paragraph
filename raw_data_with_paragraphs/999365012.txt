@@ -1,0 +1,54 @@
+Nitromethane
+
+== Preparation ==
+Nitromethane is produced industrially by combining propane and nitric acid in the gas phase at 350–450&nbsp;°C (662–842&nbsp;°F). This exothermic reaction produces the four industrially significant nitroalkanes: nitromethane, nitroethane, 1-nitropropane, and 2-Nitropropane. The reaction involves free radicals, including the alkoxyl radicals of the type CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>O, which arise via homolysis of the corresponding nitrite ester. These alkoxy radicals are susceptible to C—C fragmentation reactions, which explains the formation of a mixture of products.<ref name=Markofsky></ref>
+===Laboratory methods===
+It can be prepared in other methods that are of instructional value. The reaction of chloroacetic acid with sodium nitrite in aqueous solution produces this compound:<ref></ref>
+:ClCH<sub>2</sub>COONa + NaNO<sub>2</sub> + H<sub>2</sub>O → CH<sub>3</sub>NO<sub>2</sub> + NaCl + NaHCO<sub>3</sub>
+==Uses==
+The principal use of nitromethane is as a stabilizer for chlorinated solvents, which are used in dry cleaning, semiconductor processing, and degreasing. It is also used most effectively as a solvent or dissolving agent for acrylate monomers, such as cyanoacrylates (more commonly known as "super-glues").<ref name=Markofsky/> It is also used as a fuel in some forms of racing.
+It can be used as an explosive, when gelled with several percent of gelling agent. This type of mixture is called PLX. Other mixtures include ANNM and ANNMAl – explosive mixtures of ammonium nitrate, nitromethane and aluminium powder.
+As an organic solvent, it is considered to be highly polar (ε<sub>r</sub> = 36 at 20 °C and μ = 3.5 Debye) but is aprotic and possesses very low Lewis basicity. Thus, it is a rare example of a polar solvent that is also weakly coordinating. This makes it useful for dissolving positively charged, strongly electrophilic species. However, its relatively high acidity and explosive properties (see below) limit its applications.
+==Reactions==
+===Acid-base properties===
+Nitromethane is a relatively acidic carbanion. It has a pK<sub>a</sub> of 17.2 in DMSO solution. This value indicates an aqueous pK<sub>a</sub> of about 11.<ref></ref> The reason of that being so acidic is due to the resonance structure below: 
+It is slow to deprotonate. Protonation of the conjugate base O<sub>2</sub>NCH<sub>2</sub><sup>−</sup>, which is nearly isosteric with nitrate, occurs initially at oxygen.<ref>
+</ref>
+===Organic reactions===
+In organic synthesis nitromethane is employed as a one carbon synthon.<ref></ref><ref></ref> Its acidity allows it to undergo deprotonation, enabling condensation reactions analogous to those of carbonyl compounds. Thus, under base catalysis, nitromethane adds to aldehydes in 1,2-addition in the nitroaldol reaction. Some important derivatives include the pesticides chloropicrin (Cl<sub>3</sub>CNO<sub>2</sub>), beta-Nitrostyrene, and tris(hydroxymethyl)nitromethane, ((HOCH<sub>2</sub>)<sub>3</sub>CNO<sub>2</sub>). Reduction of the latter gives tris(hydroxymethyl)aminomethane, (HOCH<sub>2</sub>)<sub>3</sub>CNH<sub>2</sub>, better known as tris, a widely used buffer. In more specialized organic synthesis, nitromethane serves as a Michael donor, adding to α,β-unsaturated carbonyl compounds via 1,4-addition in the Michael reaction.
+===As an engine fuel ===
+Nitromethane is used as a fuel in motor racing, particularly drag racing, as well as for radio-controlled models<ref name=Markofsky/> (such as cars, planes and helicopters). In this context, nitromethane is commonly referred to as "nitro", and is the principal ingredient for fuel used in the "Top Fuel" category of drag racing.
+The oxygen content of nitromethane enables it to burn with much less atmospheric oxygen than conventional fuels. During nitromethane combustion nitric oxide (NO) is one of the major emission products along with CO and HO.<ref></ref> Recent (2020) studies<ref></ref>suggest the correct stoichiometric equation for the burning of nitromethane is:
+:4 CH<sub>3</sub>NO<sub>2</sub> + 5 O<sub>2</sub> → 4 CO<sub>2</sub> + 6 H<sub>2</sub>O + 4 NO
+The amount of air required to burn of gasoline is , but only of air is required for 1&nbsp;kg of nitromethane. Since an engine's cylinder can only contain a limited amount of air on each stroke, 8.6 times as much nitromethane as gasoline can be burned in one stroke. Nitromethane, however, has a lower specific energy: gasoline provides about 42–44 MJ/kg, whereas nitromethane provides only 11.3 MJ/kg. This analysis indicates that nitromethane generates about 2.3 times the power of gasoline when combined with a given amount of oxygen.
+Nitromethane can also be used as a monopropellant, i.e., a fuel that burns without added oxygen. The following equation describes this process:
+:2 CH<sub>3</sub>NO<sub>2</sub> → 2 CO + 2 H<sub>2</sub>O + H<sub>2</sub> + N<sub>2</sub>
+Nitromethane has a Laminar flame speed of approximately 0.5&nbsp;m/s, somewhat higher than gasoline, thus making it suitable for high-speed engines. It also has a somewhat higher flame temperature of about . The high heat of vaporization of 0.56 MJ/kg together with the high fuel flow provides significant cooling of the incoming charge (about twice that of methanol), resulting in reasonably low temperatures
+Nitromethane is usually used with Air-fuel ratio because it provides power even in the absence of atmospheric oxygen. When rich air–fuel mixtures are used, hydrogen and carbon monoxide are two of the combustion products. These gases often ignite, sometimes spectacularly, as the normally very rich mixtures of the still burning fuel exits the exhaust ports. Very rich mixtures are necessary to reduce the temperature of combustion chamber hot parts in order to control pre-ignition and subsequent detonation. Operational details depend on the particular mixture and engine characteristics.
+A small amount of hydrazine blended in nitromethane can increase the power output even further. With nitromethane, hydrazine forms an explosive salt that is again a monopropellant. This unstable mixture poses a severe safety hazard and the Academy of Model Aeronautics does not permit its use in competitions.<ref></ref>
+In model aircraft and car glow fuel, the primary ingredient is generally methanol with some nitromethane (0% to 65%, but rarely over 30%, and 10–20% lubricants (usually castor oil and/or synthetic oil). Even moderate amounts of nitromethane tend to increase the power created by the engine (as the limiting factor is often the air intake), making the engine easier to tune (adjust for the proper air/fuel ratio).
+====Explosive properties====
+Nitromethane was not known to be a high explosive until a railroad tanker car loaded with it exploded on .<ref></ref> After much testing, it was realized that nitromethane was a more energetic high explosive than TNT, although TNT has a higher Detonation velocity (VoD) and brisance. Both of these explosives are oxygen-poor, and some benefits are gained from mixing with an oxidizer, such as ammonium nitrate. Pure nitromethane is an insensitive explosive with a VoD of approximately , but even so inhibitors may be used to reduce the hazards. The tank car explosion was speculated to be due to adiabatic compression, a hazard common to all liquid explosives. This is when small entrained air bubbles compress and superheat with rapid rises in pressure. It was thought that an operator rapidly snapped shut a valve creating a "hammer-lock" pressure surge.
+Nitromethane can also be mixed with ammonium nitrate, which is used as an oxidizer, to form an explosive mixture known as ANNM. One graphic example of this was the use of nitromethane and ammonium nitrate in the Oklahoma City bombing.
+Nitromethane is used as a model explosive, along with TNT. It has several advantages as a model explosive over TNT, namely its uniform density and lack of solid post-detonation species that complicate the determination of equation of state and further calculations.
+====Nitromethane exhaust====
+Exhaust gas from an internal combustion engine whose fuel includes nitromethane will contain nitric acid vapour, which is corrosive, and when inhaled causes a muscular reaction making it impossible to breathe. The condensed nitric acid-based residue left over in a glow-fueled model engine after a model-flight session can also corrode their internal components, usually mandating use of a combination of kerosene to neutralize the residual nitric acid, and an "after-run oil" (often the lower-viscosity "air tool oil" variety of a popular preservative oil) for lubrication to safeguard against such damage, when such an engine is placed into storage.
+==Purification==
+Nitromethane is a popular solvent in organic and electroanalytical chemistry. It can be purified by cooling below its freezing point, washing the solid with cold diethyl ether, followed by distillation.<ref></ref>
+==See also==
+*Top Fuel
+*Adiabatic flame temperature, a thermodynamic calculation of the flame temperature of nitromethane
+*Dinitromethane
+*Model engine
+*Trinitromethane
+*Tetranitromethane
+*RE factor
+==References==
+==Cited sources==
+*
+==External links==
+* urltoken WebBook page for nitromethane
+* urltoken History of Nitromethane
+* urltoken CDC – NIOSH Pocket Guide to Chemical Hazards
+
+Nitromethane, sometimes shortened to just Nitro, is an organic compound with the chemical formula . It is the simplest organic nitro compound. It is a polar liquid commonly used as a solvent in a variety of industrial applications such as in extractions, as a reaction medium, and as a cleaning solvent. As an intermediate in organic synthesis, it is used widely in the manufacture of pharmaceuticals, pesticides, explosives, fibers, and coatings.<ref name=Markofsky/> Nitromethane is used as a fuel additive in various motorsports and hobbies, e.g. Top Fuel drag racing and miniature Glow plug (model engine) in radio control, control line and free flight model aircraft.

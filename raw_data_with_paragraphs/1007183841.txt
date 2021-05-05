@@ -1,0 +1,182 @@
+Pepper spray
+
+==Components==
+The active ingredient in pepper spray is capsaicin, which is derived from the fruit of plants in the genus Capsicum, including chilis. Extraction of oleoresin capsicum (OC) from peppers requires capsicum to be finely ground, from which capsaicin is then extracted using an organic solvent such as ethanol. The solvent is then evaporated, and the remaining waxlike resin is the oleoresin capsaicin.<ref> urltoken Sabre Red. FAQs: What is oleoresin capsaicum? August 2020.</ref>
+An emulsifier such as propylene glycol is used to suspend OC in water, and the suspension is then pressurized to make an aerosol pepper spray.
+Determining the strength of pepper sprays made by different manufacturers can be confusing and difficult. Statements a company makes about their product strength are not regulated. A method using the capsaicin and related capsaicinoids (CRC) content of the product is unreliable as well, because there are six different types of capsaicinoids, causing different levels of irritation. Manufacturers do not state which particular type of capsaicinoids are used. Personal pepper sprays can range from a low of 0.18% to a high of 3%. Most law enforcement pepper sprays use between 1.3% and 2%. The federal government of the United States has determined that bear attack deterrent sprays must contain at least 1.0% and not more than 2% CRC. CRC does not measure the amount of OC within the formulation. Instead, CRC is the pain-producing component of the OC that produces the burning sensation.
+The federal government of the United States makes no mention of Scoville scale (SHU) or OC in their requirements, only CRC (only for bear attack deterrent sprays). But, there are countries (Italy, Portugal and Spain – see below, under "Legality") and a few states within the US that do mention OC limitations. Some manufacturers may show a very high percentage of OC and, although OC is the active ingredient within the formulation, it does not indicate pepper spray strength. High OC percentage also indicates that a spray has more oil content; which can possibly use lower grade pepper oils (but, more of it), or lower grade capsaicinoids (within the major CRCs) and also has less ability to soak and penetrate skin than a formula with less, but higher-quality, pepper oil, because oil has hydrophobic properties. The OC percentage measures only the amount of chili oil extract contained in the defense spray, not the strength, pungency or effectiveness of the product. Other companies may show a high SHU. The SHU is a measurement of the base resin compound and not what comes out in the aerosol. The rated irritant effect of the resin may be diluted depending on how much of it is put in the can.<ref> urltoken National Institute of Justice. Oleoresin Capsaicum: Pepper Spray as a Force Alternative. March 1994.</ref>
+==Counterparts==
+There are several counterparts of pepper spray developed and legal to possess in some countries. In the United Kingdom, Nonivamide (known also as PAVA spray) is used by police officers. As a Section 5 weapon, it is not generally permitted to the public. Pelargonic acid morpholide (MPK) is widely used as a self-defense chemical agent spray in Russia, though its effectiveness compared to natural pepper spray is unclear. In China, Ministry of Public Security police units and security guards use tear gas ejectors with OC, CS or CN gases. These are defined as a "restricted" weapon that only police officers as well as approved security can use.<ref></ref> However, the law does not forbid civilians from purchasing and possessing any non-police used pepper spray.
+==Effects==
+Pepper spray is an Inflammation agent. It inflames the mucous membranes in the eyes, nose, throat and lungs.<ref></ref> It causes immediate closing of the eyes, difficulty breathing, runny nose, and coughing.<ref name="Effects Of Pepper Spray"></ref> The duration of its effects depends on the strength of the spray; the average full effect lasts from 20 to 90 minutes, but eye irritation and redness can last for up to 24 hours.<ref></ref>
+The Journal of Investigative Ophthalmology and Visual Science published a study that concluded that single exposure of the eye to OC is harmless, but repeated exposure can result in long-lasting changes in corneal sensitivity. They found no lasting decrease in visual acuity.<ref></ref>
+The European Parliament Scientific and Technological Options Assessment (STOA) published in 1998 "An Appraisal of Technologies of Political Control"<ref></ref>
+The STOA appraisal states:
+::"Past experience has shown that to rely on manufacturers unsubstantiated claims about the absence of hazards is unwise. In the US, companies making crowd control weapons, (e.g. pepper-gas manufacturer Zarc International), have put their technical data in the public domain without loss of profitability."
+:and
+::"Research on chemical irritants should be published in open scientific journals before authorization for any usage is permitted and that the safety criteria for such chemicals should be treated as if they were drugs rather than riot control agents;"
+For those taking drugs, or those subjected to restraining techniques that restrict the breathing passages, there is a risk of death. In 1995, the Los Angeles Times reported at least 61 deaths associated with police use of pepper spray since 1990 in the USA.<ref>Los Angeles Times June 18, 1995</ref> The American Civil Liberties Union (ACLU) documented 27 people in police custody who died after exposure to pepper spray in California since 1993 <ref></ref><ref name="ACLU_1995">"Pepper spray's lethal legacy" in Ottawa Citizen. October 22, 1998, p. A1.</ref> However, the ACLU report counts all deaths occurring within hours of exposure to pepper spray regardless of prior interaction, taser use, or if drugs are involved. In all 27 cases listed by the ACLU, the coroners' report listed other factors as the primary cause of death; in few cases the use of pepper spray may have been a contributing factor.
+The US Army performed studies in 1993 at Aberdeen Proving Ground, and a UNC study in 2000 stated that the compound in peppers, capsaicin, is mildly mutagenic, and only 10% of mice exposed to it developed cancer. Where the study also found many beneficial effects of capsaicin, the Occupational Safety and Health Administration released statements declaring exposure of employees to OC is an unnecessary health risk. As of 1999, it was in use by more than 2,000 public safety agencies.<ref> Archived at urltoken web.archive.org</ref>
+The head of the FBI's Less-Than-Lethal Weapons Program at the time of the 1991 study, Special Agent Thomas W. W. Ward, was fired by the FBI and was sentenced to two months in prison for receiving payments from a peppergas manufacturer while conducting and authoring the FBI study that eventually approved pepper spray for FBI use.<ref>"Former F.B.I. Agent Is Sentenced to Prison", The New York Times. May 20, 1996, p. B8.</ref><ref>"Ex-FBI Agent Pleads Guilty in Conflict-of-Interest Case", The Washington Post. February 13, 1996, p. A12.</ref> Prosecutors said that from December 1989 through 1990, Ward received about $5,000 a month for a total of $57,500, from Luckey Police Products, a Fort Lauderdale, Florida-based company that was a major producer and supplier of pepper spray. The payments were paid through a Florida company owned by Ward's wife.<ref>"Pepper spray study is tainted", San Francisco Chronicle. May 20, 1996, p. B8.</ref>
+Direct close-range spray can cause more serious eye irritation by attacking the cornea with a concentrated stream of liquid (the so-called "hydraulic needle" effect). Some brands have addressed this problem by means of an elliptically cone-shaped spray pattern.
+Pepper spray has been associated with positional asphyxiation of individuals in police custody. There is much debate over the actual cause of death in these cases. There have been few controlled clinical studies of the human health effects of pepper spray marketed for police use, and those studies are contradictory. Some studies have found no harmful effects beyond the effects described above.<ref>Reay DT. Forensic pathology, part 1: death in custody. Clinics in Lab Med 1998;18:19–20; Watson WA, Stremel KR, and Westdorp EJ. Oleoresin capsicum (cap-stun) toxicity from aerosol exposures. Ann Pharmacotherapy 1996;30:733–5.</ref> Due to these studies and deaths, many law enforcement agencies have moved to include policies and training to prevent positional deaths.<ref></ref><ref> urltoken However, there are some scientific studies that argue the positional asphyxiation claim is a myth due to pinpoint pressure on a person. The study by two universities stressed that no pressure should be applied to the neck area. They concluded that the person's own weight is not scientifically enough to stop a person's breathing with the rest of their body supported.<ref></ref>
+===Acute response===
+For individuals not previously exposed to OC effects, the general feelings after being sprayed can be best likened to being "set alight." The initial reaction, should the spray be directed at the face, is the involuntary closing of the eyes, an instant sensation of the restriction of the airways and the general feeling of sudden and intense, searing pain about the face, nose, and throat. This is due to irritation of mucous membranes. Many people experience fear and are disoriented due to sudden restriction of vision even though it is temporary. There is an associated shortness of breath, although studies performed with asthmatics have not produced any asthma attacks in those individuals, and monitoring is still needed for the individuals after exposure.<ref> urltoken Police are trained to repeatedly instruct targets to breathe normally if they complain of difficulty, as the shock of the exposure can generate considerable panic as opposed to actual physical symptoms.
+==Treatment==
+Capsaicin is not soluble in water, and even large volumes of water will not wash it off, only dilute it. In general, victims are encouraged to blink vigorously in order to encourage tears, which will help flush the irritant from the eyes.
+A study of five often-recommended treatments for skin pain (Maalox, 2% lidocaine gel, baby shampoo, milk, or water) concluded that:<ref></ref>
+<blockquote>.there was no significant difference in pain relief provided by five different treatment regimens. Time after exposure appeared to be the best predictor for decrease in pain.</blockquote>
+There is no way to simply neutralize the effects of tear gas, but a person can be helped to minimize the effects.<ref> urltoken Move the affected person away from the source and to fresh air. Avoid rubbing the spray into the skin, thereby prolonging the burning sensation. In order to not spread the compound to other parts of the body, avoid touching affected areas. Rubbing the eyes repeatedly can damage the cornea, so do not touch or wipe eyes.<ref> urltoken There are wipes some manufacturers claim will decontaminate someone having received a dose of pepper spray, but no trials proving this can be found. Many ambulance services and emergency departments carry saline to remove the spray. Some of the OC and CS will remain in the respiratory system, but a recovery of vision and the coordination of the eyes can be expected within 7 to 15 minutes.<ref>Young, D., Police Marksman Magazine, July/August 1995 Issue.</ref>
+Some "triple-action" pepper sprays also contain "tear gas" (CS gas), which can be neutralized with sodium metabisulfite (Campden tablets), though it is not for use on a person. This is for area clean up only.<ref></ref>
+==Use==
+Pepper spray typically comes in canisters, which are often small enough to be carried or concealed in a pocket or purse. Pepper spray can also be purchased concealed in items such as rings. There are also Pepper-spray projectile available, which can be fired from a paintball gun or similar platform. It has been used for years against demonstrators and aggressive animals like bears. There are also many types such as foam, gel, foggers, and spray.<ref> urltoken 
+==Legality==
+Pepper spray is banned for use in war by Article I.5 of the Chemical Weapons Convention, which bans the use of all riot control agents in warfare whether death or less-than-lethal.<ref name=OPCW></ref> Depending on the location, it may be legal to use for self-defense.
+=== Africa ===
+* Nigeria: Assistant Police Commissioner stated that pepper sprays are illegal for civilians to possess.<ref></ref>
+* South Africa: Pepper sprays are legal to own by civilians for self defence.<ref></ref>
+===Asia===
+* Bangladesh: 
+** Bengal Police started using pepper spray to control opposition movement.
+* China: Forbidden for civilians, it is used only by law enforcement agencies.<ref></ref> Less lethal sprays are legal.
+** Hong Kong: Forbidden for civilians, it is legal or possess and use by only the members of Disciplined Services when on duty. 
+*** Such devices are classified as "arms" under the "Laws of Hong Kong". Chap 238 Firearms and Ammunition Ordinance. Without a valid licence from the Hong Kong Police Force, it is a crime to possess and can result in a fine of $100,000 and imprisonment for up to 14 years.<ref></ref>
+* India: Legal<ref></ref> 
+** They are sold via government-approved companies after performing a background verification.<ref></ref>
+* Indonesia: It is legal, but there are restrictions on its sale and possession.
+* Iran: Forbidden for civilians, it is used only by the police. 
+* Israel: OC and CS spray cans may be purchased by any member of the public without restriction and carried in public. 
+** In the 1980s, a firearms license was required for doing so, but these sprays have since been deregulated.
+* Japan: There are no laws against possession or use, but using it could result in imprisonment, depending on the damage caused to the target. 
+* Malaysia: Use and possession of pepper spray for self-defense are legal.
+* Mongolia: Possession and use for self-defense are legal, and it is freely available in stores. 
+* Philippines: Possession and use for self-defense is legal, and it is freely available in stores. 
+* Saudi Arabia: Use and possession of pepper spray for self-defense are legal.
+** It is an offence to use a pepper spray on anyone for reasons other than self-defense. 
+* Singapore: Travellers are prohibited from bringing pepper spray into the country, and it is illegal for the public to possess.<ref></ref>
+* South Korea: Pepper sprays containing OC are legal.
+** Requires permit to distribute, own, carry pepper sprays containing pre-compressed gas or explosive propellent.
+** Pepper sprays without any pre-compressed gas or explosive propellent are unrestricted. 
+* Thailand: Use for self-defense is legal, and it is freely available in stores.
+** Possession in a public place can be punished by confiscation and a fine. 
+* Taiwan: Legal for self-defense, it is available in some shops.
+** It is an offence to use a pepper spray on anyone for reasons other than self-defense. 
+* Vietnam: Forbidden for civilians and used only by the police.
+===Europe===
+* Austria: Pepper spray is classified as a self-defense device.
+* Belgium: Pepper spray is classified as a prohibited weapon.
+** Possession is illegal for anyone other than police officers, police agents (assistant police officers),<ref></ref> security officers of public transport companies, soldiers and customs officers to carry a capsicum spray. It's also authorised after obtaining permission from the Minister of Internal Affairs.<ref>K.B. of 10 June 2006 tot regeling van het model, de inhoud, de wijze van dragen en het gebruik van spuitbussen en handboeien door de leden van de veiligheidsdiensten van de openbare vervoersmaatschappijen (B.S. 20 June 2006.</ref>
+* Czech Republic: Possession and carrying is legal. 
+** Police also encourage vulnerable groups like pensioners, children, and women to carry pepper spray.<ref></ref>
+** Carrying at public demonstrations and into court buildings is illegal (pepper spray as well as other weapons may be left with armed guard upon entry of a courthouse).
+* Denmark: As of January 1, 2019, pepper spray is legal to own and use for adults.<ref></ref> 
+**Pepper spray may only be stored and used within place of residence/living, and may not be carried and/or used in public without a specific permit to do so.
+**A permit for public carry and use of pepper spray can be issued to people with documented history of threats and/or stalking against them.<ref></ref>
+**Use of pepper spray is subject to §13 of "Straffeloven" which states that self-defense measures has to be carried out in reasonable manner, thus defense against non-violent thieves may not involve pepper spray. Legal use of pepper spray generally require that the defender is attacked with risk of bodily harm. 
+* Finland: Possession of pepper spray requires a license. 
+** Licenses are issued for defensive purposes and to individuals working jobs where such a device is needed such as the private security sector.<ref></ref> 
+*France: It is legal for anyone over the age of 18 to buy a pepper spray in an armoury or military surplus store.
+** It is classified as a Category D Weapon in French law and if the aerosol contains more than , it is classed as an offensive weapon; possession in a public place can be punished by confiscation and a fine. 
+*** However, if it contains less than , while still a Category 6 Weapon, it is not classed as a punishable offence for the purposes of the Weapons law, so if you are controlled, it will be confiscated with maybe a verbal warning given.
+* Germany: Pepper sprays labeled for the purpose of defense against animals may be owned and carried by all citizens regardless of age. Such sprays are not legally considered as weapons urltoken §1. Carrying it at (or on the way to and from) demonstrations may still be punished.<ref> urltoken §2 VersammlG.</ref> 
+** Sprays that are not labelled "animal-defence spray" or do not bear the test mark of the (MPA, material testing institute) are classified as prohibited weapons. 
+*** Justified use against humans as self-defense is allowed.<ref> urltoken §32 StGB</ref> 
+** CS sprays bearing a test mark of the MPA may be owned and carried by anyone over the age of 14.<ref name="weapons"> urltoken Ministerium des Inneren on Weapon Laws (German).</ref>
+* Greece: Such items are illegal. They will be confiscated and possession may result in detention and arrest.<ref></ref>
+* Hungary: Such items are reserved for law enforcement (including civilian members of the auxiliary police).
+** Civilians may carry canisters filled with maximum of any other lachrymatory agent.
+*** However, there is no restriction for pepper gas pistol cartridges.<ref> urltoken 175/2003. (X. 28.) Korm. rendelet a közbiztonságra különösen veszélyes eszközökről .</ref>
+* Iceland: Possession of pepper spray is illegal for private citizens. 
+** Police officers carry pepper spray as part of their standard equipment.
+** Members of the riot police use larger pepper-spray canisters than what is used by a normal police officer. 
+* Ireland: Possession of this spray by persons other the Garda Síochána (national police) is an offence under the Firearms and Offensive Weapons Act.<ref></ref>
+* Italy: Any citizen over 16 years of age without a criminal record could possess, carry and purchase any OC-based compounds and personal defence devices that respond to the following criteria:
+** Containing a payload not exceeding , with a percentage of Oleoresin Capsicum not exceeding 10% and a maximum concentration of capsaicin and capsaicinoid substances not exceeding 2,5%;
+** Containing no flammable, corrosive, toxic or carcinogenic substances, and no other aggressive chemical compound than OC itself;
+** Being sealed when sold and featuring a safety device against accidental discharge;
+** Featuring a range not exceeding .<ref></ref>
+* Latvia: Pepper spray is classified as a self-defense device. 
+** It can be bought and carried by anyone over 16 years of age. 
+** Pepper spray handguns can be bought and carried without any license by anyone over 18.
+* Netherlands: It is illegal for civilians to own and carry pepper spray. 
+** Only police officers trained in the specific use of pepper spray are allowed to carry and use it against civilians and animals.
+* Norway: It is illegal for civilians. 
+** Police officers are allowed to carry pepper spray as part of their standard equipment.
+* Poland: Called precisely in Polish Penal Code "a hand-held disabling gas thrower", sprays are not considered a weapon.
+** They can be carried by anyone without further registration or permission.<ref></ref>
+* Portugal: Civilians who do not have criminal records are allowed to get police permits to purchase from gun shops, carry, and use OC sprays with a maximum concentration of 5%. 
+** CS is considered a weapon and is not permitted. 
+*** Police carry OC sprays of higher concentration.
+* Romania: Pepper spray is banned at sporting and cultural events, public transportation and entertainment locations (according to Penal Code 2012, art 372, (1), c).
+* Russia: It is classified as a self-defense weapon and can be carried by anyone over 18.<ref></ref> 
+** Use against humans is legal. 
+*** OC is not the only legal agent used. CS, CR, PAM (МПК), and (rarely) CN are also legal<ref></ref> and highly popular.
+* Serbia: Pepper spray is legal under the new law as of 2016 and can be carried by anyone over the age of 16. Use against humans in self-defence is legal.<ref></ref>
+* Slovakia: It is classified as a self-defense weapon.
+** It is available to anyone over 18. 
+** The police recommend its use.<ref></ref>
+* Spain: Approved pepper spray made with 5% CS is available to anyone older than 18 years.
+** OC pepper spray, recently adopted for some civilian use (e.g., one of , with no registration DGSP-07-22-SDP, is approved by the Ministry of Health and Consumption).
+* Sweden: Requires weapons licence, essentially always illegal to carry in public or private.<ref></ref> Issued as supplementary service weapon to police.<ref></ref>
+* Switzerland: Pepper spray in Switzerland is subject to the Chemicals Legislation. It may only be distributed to buyers above 18 years of age and against ID evidence. Self-service is not permitted and the customer ought to be made aware of safe storage, use and disposal. The vendor needs to possess the "Know-how for the distribution of particularly hazardous chemicals". Potential mailing has to be shipped as registered courier with the remark "to addressee only". The products must be classified and labelled at least as irritant (Xi;R36/37). Regulations for aerosol packages need to be observed. Sprays with greenhouse relevant propellants such as R134a (1,1,1,2-Tetrafluorethan) are banned. Spray products for self-defense with irritants such as CA, CS, CN, CR are considered as weapons in terms of the gun control law. The weapon purchase permit as well as the weapon carrier permit are required for the purchase of such weapons. In 2009, the Swiss Army introduced for the military personnel the irritant atomizer 2000 (RSG-2000) and is introduced during watch functions. The military bearer permit is granted after passing the half day training.
+* United Kingdom: Pepper spray is illegal<ref></ref> under Section 5(1)(b) of the Firearms Act 1968: "A person commits an offence if . he has in his possession . any weapon of whatever description designed or adapted for the discharge of any noxious liquid, gas or other thing."
+** Police officers are exempt from this law and permitted to carry pepper spray as part of their standard equipment.
+===North America===
+====Canada====
+Pepper spray designed to be used against people is considered a prohibited weapon in Canada. The definition under regulation states "any device designed to be used for the purpose of injuring, immobilizing or otherwise incapacitating any person by the discharge therefrom of (a) tear gas, Mace or other gas, or (b) any liquid, spray, powder or other substance that is capable of injuring, immobilizing or otherwise incapacitating any person" is a prohibited weapon.<ref></ref>
+Only law enforcement officers may legally carry or possess pepper spray labeled for use on persons. Any similar canister with the labels reading "dog spray" or "bear spray" is regulated under the Pest Control Products Act—while legal to be carried by anyone, it is against the law if its use causes "a risk of imminent death or serious bodily harm to another person" or harming the environment and carries a penalty up to a fine of $500,000 and jail time of maximum 3 years.<ref></ref> Carrying bear spray in public, without justification, may also lead to charges under the Criminal Code.<ref></ref>
+====United States====
+It is a federal offense to carry/ship pepper spray on a commercial airliner or possess it beyond the security metal detectors at the airport. State law and local ordinances regarding possession and use vary across the country.
+When pepper spray is used in the workplace, OSHA requires a pepper spray Safety data sheet (SDS) be available to all employees.<ref name=MSDS></ref>
+Pepper spray can be legally purchased and carried in all 50 states. Some states regulate the maximum allowed strength of the pepper spray, age restriction, content and use.<ref></ref>
+* California: As of January 1, 1996 and as a result of Assembly Bill 830 (Speier), the pepper spray and Mace programs are now deregulated. Consumers will no longer be required to have training, and a certificate is not required to purchase or possess these items. Pepper spray and Mace are available through gun shops, sporting goods stores, and other business outlets. California Penal Code Section 12400–12460 govern pepper spray use in California.<ref name="consumerwiki.dca.ca.gov"></ref> Container holding the defense spray must contain no more than net weight of aerosol spray.<ref>California Penal Code, Section 12403.7</ref>
+** Certain individuals are still prohibited from possessing pepper spray, including minors under the age of 16, convicted felons, individuals convicted of certain drug offences, individuals convicted of assault, and individuals convicted of misusing pepper spray.<ref name="consumerwiki.dca.ca.gov"/>
+* Massachusetts: Before July 1, 2014, residents may purchase defense sprays only from licensed Firearms Dealers in that state, and must hold a valid Firearms Identification Card (FID) or License to Carry Firearms (LTC) to purchase or to possess outside of one's own private property.<ref>.</ref> New legislations allow residents to purchase pepper spray without a Firearms Identification Card starting July 1.<ref></ref>
+* Florida: Any pepper spray containing no more than of chemical can be carried in public openly or concealed without a permit.<ref></ref><ref></ref> Furthermore, any such pepper spray is classified as "self-defense chemical spray" and therefore not considered a weapon under Florida law.<ref></ref>
+* Michigan: Allows "reasonable use" of spray containing not more than 18% oleoresin capsicum to protect "a person or property under circumstances that would justify the person's use of physical force".<ref></ref> It is illegal to distribute a "self-defense spray" to a person under 18 years of age.
+* New York: Can be legally possessed by any person age 18 or over. Restricted to no more than 0.67% capsaicin content.
+** It must be purchased in person (i.e., cannot be purchased by mail-order or internet sale) either at a pharmacy or from a licensed firearm retailer (NY Penal Law 265.20 14) and the seller must keep a record of purchases. 
+*** The use of pepper spray to prevent a public official from performing his/her official duties is a class-E felony.
+* New Jersey: Non-felons over the age of 18 can possess a small amount of pepper spray, with no more than three-quarters of of chemical substance.
+* Virginia: Code of Virginia § 18.2-312. Illegal use of tear gas, phosgene and other gases. "If any person maliciously release or cause or procure to be released in any private home, place of business or place of public gathering any tear gas, mustard gas, phosgene gas or other noxious or nauseating gases or mixtures of chemicals designed to, and capable of, producing vile or injurious or nauseating odors or gases, and bodily injury results to any person from such gas or odor, the offending person shall be guilty of a Class 3 felony. If such act be done unlawfully, but not maliciously, the offending person shall be guilty of a Class 6 felony. Nothing herein contained shall prevent the use of tear gas or other gases by police officers or other peace officers in the proper performance of their duties, or by any person or persons in the protection of person, life or property."<ref></ref>
+* Washington: Persons over 18 may carry personal-protection spray devices. 
+** Persons over age 14 may carry personal-protection spray devices with their legal guardian's consent.<ref></ref>
+* Wisconsin: Tear gas is not permissible. 
+** By regulation, OC products with a maximum OC concentration of 10% and weight range of oleoresin of capsicum and inert ingredients of are authorized. Further, the product cannot be camouflaged, and must have a safety feature designed to prevent accidental discharge. The units may not have an effective range of over and must have an effective range of . 
+*** In addition there are certain labeling and packaging requirements, it must not be sold to anyone under 18 and the phone number of the manufacturer has to be on the label. The units must also be sold in sealed tamper-proof packages.<ref></ref><ref></ref>
+*Texas law makes it legal for an individual to possess a small, commercially-sold container of pepper spray for personal self-defense. However, Texas law otherwise makes it illegal to carry a "chemical dispensing device".<ref>Texas Penal Code 46.05(a)(1)(4) and Texas Penal Code 46.01(14)</ref>
+===South America===
+* Brazil: Classified as weapon by Federal Act n° 3665/2000 (Regulation for Fiscalization of Controlled Products). Only law enforcement officers and private security agents with a recognized Less Lethal Weapons training certificate can carry it. 
+* Colombia: Can be sold without any kind of restriction to anyone older than 14 years. 
+** Use has not been inducted on the law enforcement officer's arsenal.
+===Australia===
+* Australian Capital Territory: Pepper spray is a "prohibited weapon", making it an offence to possess or use it.<ref></ref>
+* New South Wales: Possession of pepper spray by unauthorized persons is illegal, under schedule 1 of the Weapons Prohibition Act 1998, being classified as a "prohibited weapon".<ref></ref> 
+* Northern Territory: Prescribed by regulation to be a prohibited weapon under the Weapons Control Act.<ref></ref> 
+** This legislation makes it an offence for someone without permit, normally anyone who is not an officer of Police/Correctional Services/Customs/Defence, to carry a prohibited weapon.
+* Tasmania: Possession of pepper spray by unauthorized persons is illegal, under an amendment of the Police Offences Act 1935, being classified as an "offensive weapon". Likewise, possession of knives, batons and other any other instrument that may be considered, "Offensive Weapons" if they are possessed by an individual, in a Public Place, "Without lawful excuse", leading to confusion within the police force over what constitutes "lawful excuse". Self-defense as a lawful excuse to carry such items varies from one officer to the next. 
+** Pepper spray is commercially available without a license. Authority to possess and use Oleo-resin Capsicum devices remains with Tasmania Police Officers (As part of general-issue operational equipment), and Tasmanian Justice Department (H.M. Prisons) Officers.
+* South Australia: in South Australia, possession of pepper spray without lawful excuse is illegal.<ref></ref>
+* Western Australia: The possession of pepper spray by individuals for self-defence subject to a "reasonable excuse" test has been legal in Western Australia following the landmark Supreme Court decision in Hall v Collins 2003 WASCA 74 (4 April 2003).<ref name="Anne Calverley 2003">Anne Calverley, 'Judge clears use of pepper spray', The West Australian, 28 March 2003, 1.</ref>
+* Victoria: Schedule 3 of the Control of Weapons Regulations 2011 designates "an article designed or adapted to discharge oleoresin capsicum spray" as a prohibited weapon.<ref></ref>
+* Queensland: in Queensland, pepper spray is considered an offensive weapon and can not be used for self-defence.<ref></ref>
+===New Zealand===
+* Classed as a restricted weapon.<ref></ref> 
+** This means people would need a permit from the police to obtain or carry pepper spray. 
+** Front-line police officers have routinely carried pepper spray since 1997. New Zealand Prison Service made OC spray available for use in approved situations in 2013. 
+** New Zealand Defence Force Military Police are permitted to carry OC spray under a special agreement due to the nature of their duties.
+** The Scoville rating of these sprays are 500,000 (sabre MK9 HVS unit) and 2,000,000 (Sabre, cell buster fog delivery). This was as a result of excessive staff assaults and a two-year trial in ten prisons throughout the country.<ref>Broadstock, M. (2002) urltoken What is the safety of "pepper spray" use by law enforcement or mental health service staff? , NZHTA Tech Brief Series 2002; 1(2). .</ref>
+==Civilian use advocates==
+In June 2002, West Australian resident Rob Hall was convicted for using a canister of pepper spray to break up an altercation between two guests at his home in Midland. He was sentenced to a good behavior bond and granted a spent conviction order, which he appealed to the Supreme Court. Justice Christine Wheeler ruled in his favor, thereby legalizing pepper spray in the state on a case-by-case basis for those who are able to show a reasonable excuse.<ref name="Anne Calverley 2003"/><ref>Hall v Collins 2003 WASCA 74 (4 April 2003).</ref>
+On 14 March 2012, a person dressed entirely in black entered the public gallery of the New South Wales Legislative Council and launched a paper plane into the air in the form of a petition to Police Minister Mike Gallacher calling on the government to allow civilians to carry capsicum spray.<ref></ref>
+==See also==
+* Mace (spray)
+* Offensive weapon
+* Defensive weapon
+==References==
+==External links==
+* urltoken Are guns more effective than pepper spray in an Alaska bear attack?
+
+Pepper spray, oleoresin capsicum spray, OC spray, capsaicin spray, or capsicum spray is a lachrymatory agent (a compound that irritates the eyes to cause a burning sensation, pain, and temporary blindness) used in policing, riot control, crowd control, and self-defense, including defense against dogs and bears.<ref></ref><ref></ref> Its inflammatory effects cause the eyes to close, temporarily taking away vision. This temporary blindness allows officers to more easily restrain subjects and permits people in danger to use pepper spray in self-defense for an opportunity to escape. It also causes temporary discomfort and burning of the lungs which causes shortness of breath.
+Pepper spray was engineered into a spray originally for defense against bears and other dangerous predators. Many claim the use of OC is prohibited by the Chemical Weapons Convention (CWC) but it is not a chemical weapon and is listed as a "Riot Control Agent" according to the CWC's definitions. It is also listed as "Purposes Not Prohibited Under this Convention" under 9(d) of the CWC agreement<ref> urltoken (emphasis added).
+Kamran Loghman, the person who developed it for use in riot control, wrote the guide for police departments on how it should be used. It was successfully adapted, except for improper usages such as when UC Davis pepper spray incident, Loghman commented, "I have never seen such an inappropriate and improper use of chemical agents," prompting court rulings completely barring its use on docile persons.<ref></ref><ref name="seelye"></ref><ref name="hemphill"></ref>

@@ -1,0 +1,156 @@
+Scaffolding
+
+==History==
+===Antiquity===
+Sockets in the walls around the paleolithic cave paintings at Lascaux, suggest that a scaffold system was used for painting the ceiling, over 17,000 years ago.
+The Berlin Foundry Cup depicts scaffolding in ancient Greece (early 5th century BC). Egyptians, Nubians and Chinese are also recorded as having used scaffolding-like structures to build tall buildings. Early scaffolding was made of wood and secured with rope knots.
+===Modern era===
+Scaffolding was erected by individual firms with wildly varying standards and sizes. The process was revolutionized by Daniel Palmer Jones and David Henry Jones. Modern day scaffolding standards, practices and processes can be attributed to these men and their companies: Rapid Scaffold Tie Company Ltd, Tubular Scaffolding Company and Scaffolding Great Britain Ltd (SGB).<ref></ref>
+David Palmer-Jones patented the "Scaffixer", a coupling device far more robust than rope which revolutionized scaffolding construction. In 1913, his company was commissioned for the reconstruction of Buckingham Palace, during which his Scaffixer gained much publicity. Palmer-Jones followed this up with the improved "Universal Coupler" in 1919 - this soon became the industry standard coupling and has remained so to this day.<ref></ref>
+Advancements in metallurgy throughout the early 20th century saw the introduction of tubular steel water pipes (instead of timber poles) with standardized dimensions, allowing for the industrial Interchangeable parts and improving the structural stability of the scaffold. The use of diagonal bracings also helped to improve stability, especially on tall buildings. The first frame system was brought to market by SGB in 1944 and was used extensively for the postwar reconstruction.<ref></ref>
+==Scaffolding today==
+The European Standard, BS EN 12811-1, specifies performance requirements and methods of structural and general design for access and working scaffolds. Requirements given are for scaffold structures that rely on the adjacent structures for stability. In general these requirements also apply to other types of working scaffolds.
+The purpose of a working scaffold is to provide a safe working platform and access suitable for work crews to carry out their work. The European Standard sets out performance requirements for working scaffolds. These are substantially independent of the materials of which the scaffold is made. The standard is intended to be used as the basis for enquiry and design.<ref></ref>
+===Materials===
+The basic components of scaffolding are tubes, couplers and boards.
+The basic lightweight tube scaffolding that became the standard and revolutionised scaffolding, becoming the baseline for decades, was invented and marketed in the mid-1950s. With one basic 24 pound unit a scaffold of various sizes and heights could be assembled easily by a couple of labourers without the nuts or bolts previously needed.<ref> urltoken "Light Weight Scaffolding Goes Together Without Nuts or Bolts." Popular Mechanics, February 1954, p. 103.</ref>
+Tubes are usually made either of steel or aluminium; although there is composite scaffolding which uses filament-wound tubes of glass fibre in a nylon or polyester matrix, because of the high cost of composite tube, it is usually only used when there is a risk from overhead electric cables that cannot be isolated. If steel, they are either 'black' or galvanised. The tubes come in a variety of lengths and a standard outside diameter of 48.3&nbsp;mm. (1.5 NPS pipe). The chief difference between the two types of metal tubes is the lower weight of aluminium tubes (1.7&nbsp;kg/m as opposed to 4.4&nbsp;kg/m). However they are more flexible and have a lower resistance to stress. Tubes are generally bought in 6.3 m lengths and can then be cut down to certain typical sizes. Most large companies will brand their tubes with their name and address in order to deter theft.
+Boards provide a working surface for scaffold users. They are seasoned wood and come in three thicknesses (38&nbsp;mm (usual), 50&nbsp;mm and 63&nbsp;mm) are a standard width (225&nbsp;mm) and are a maximum of 3.9 m long. The board ends are protected either by metal plates called hoop irons or sometimes nail plates, which often have the company name stamped into them. Timber scaffold boards in the UK should comply with the requirements of BS 2482. As well as timber, steel or aluminium decking is used, as well as laminate boards. In addition to the boards for the working platform, there are sole boards which are placed beneath the scaffolding if the surface is soft or otherwise suspect, although ordinary boards can also be used. Another solution, called a scaffpad, is made from a rubber base with a base plate moulded inside; these are desirable for use on uneven ground since they adapt, whereas sole boards may split and have to be replaced.
+Couplers are the fittings which hold the tubes together. The most common are called scaffold couplers, and there are three basic types: right-angle couplers, putlog couplers and swivel couplers. To join tubes end-to-end joint pins (also called spigots) or sleeve couplers are used. Only right angle couplers and swivel couplers can be used to fix tube in a 'load-bearing connection'. Single couplers are not load-bearing couplers and have no design capacity.
+Other common scaffolding components include base plates, ladders, ropes, anchor ties, reveal ties, gin wheels, sheeting, etc.
+Most companies will adopt a specific colour to paint the scaffolding with, in order that quick visual identification can be made in case of theft. All components that are made from metal can be painted but items that are wooden should never be painted as this could hide defects.
+Despite the metric measurements given, many scaffolders measure tubes and boards in imperial units, with tubes from 21 feet down and boards from 13&nbsp;ft down.
+Bamboo scaffolding is widely used in Hong Kong and Macau,<ref> urltoken "Craft of Bamboo Scaffolding" Praça do Tap Seac, Edif. do Instituto Cultural, Macau</ref> with nylon straps tied into knots as couplers.<ref name=bd-gov-hk-1></ref> In India, bamboo or other wooden scaffolding is also mostly used, with poles being lashed together using ropes made from coconut hair (coir).
+===Basic scaffolding===
+The key elements of the scaffolding are the standard, ledger and transoms. The standards, also called uprights, are the vertical tubes that transfer the entire weight of the structure to the ground where they rest on a square base plate to spread the load. The base plate has a shank in its centre to hold the tube and is sometimes pinned to a sole board. Ledgers are horizontal tubes which connect between the standards. Transoms rest upon the ledgers at right angles. Main transoms are placed next to the standards, they hold the standards in place and provide support for boards; intermediate transoms are those placed between the main transoms to provide extra support for boards. In Canada this style is referred to as "English". "American" has the transoms attached to the standards and is used less but has certain advantages in some situations.
+As well as the tubes at right angles there are cross braces to increase rigidity, these are placed diagonally from ledger to ledger, next to the standards to which they are fitted. If the braces are fitted to the ledgers they are called ledger braces. To limit sway a facade brace is fitted to the face of the scaffold every 30 metres or so at an angle of 35°-55° running right from the base to the top of the scaffold and fixed at every level.
+Of the couplers previously mentioned, right-angle couplers join ledgers or transoms to standards, putlog or single couplers join board bearing transoms to ledgers - Non-board bearing transoms should be fixed using a right-angle coupler. Swivel couplers are to connect tubes at any other angle. The actual joints are staggered to avoid occurring at the same level in neighbouring standards.
+The spacings of the basic elements in the scaffold are fairly standard. For a general purpose scaffold the maximum bay length is 2.1 m, for heavier work the bay size is reduced to 2 or even 1.8 m while for inspection a bay width of up to 2.7 m is allowed.
+The scaffolding width is determined by the width of the boards, the minimum width allowed is 600&nbsp;mm but a more typical four-board scaffold would be 870&nbsp;mm wide from standard to standard. More heavy-duty scaffolding can require 5, 6 or even up to 8 boards width. Often an inside board is added to reduce the gap between the inner standard and the structure.
+The lift height, the spacing between ledgers, is 2 m, although the base lift can be up to 2.7 m. The diagram above also shows a kicker lift, which is just 150&nbsp;mm or so above the ground.
+Transom spacing is determined by the thickness of the boards supported, 38&nbsp;mm boards require a transom spacing of no more than 1.2 m while a 50&nbsp;mm board can stand a transom spacing of 2.6 m and 63&nbsp;mm boards can have a maximum span of 3.25 m. The minimum overhang for all boards is 50&nbsp;mm and the maximum overhang is no more than 4x the thickness of the board.
+===Foundations===
+Good foundations are essential. Often scaffold frameworks will require more than simple base plates to safely carry and spread the load. Scaffolding can be used without base plates on concrete or similar hard surfaces, although base plates are always recommended. For surfaces like pavements or tarmac base plates are necessary. For softer or more doubtful surfaces sole boards must be used, beneath a single standard a sole board should be at least with no dimension less than , the thickness must be at least . For heavier duty scaffold much more substantial baulks set in concrete can be required. On uneven ground steps must be cut for the base plates, a minimum step size of around is recommended. A working platform requires certain other elements to be safe. They must be close-boarded, have double guard rails and toe and stop boards. Safe and secure access must also be provided.
+----
+===Ties===
+Scaffolds are only rarely independent structures. To provide stability for a scaffolding (at left) framework ties are generally fixed to the adjacent building/fabric/steelwork.
+General practice is to attach a tie every 4 m on alternate lifts (traditional scaffolding). Prefabricated System scaffolds require structural connections at all frames - i.e. 2–3 m centres (tie patterns must be provided by the System manufacturer/supplier). The ties are coupled to the scaffold as close to the junction of standard and ledger (node point) as possible. Due to recent regulation changes, scaffolding ties must support +/- loads (tie/butt loads) and lateral (shear) loads.
+Due to the different nature of structures there is a variety of different ties to take advantage of the opportunities.
+Through ties are put through structure openings such as windows. A vertical inside tube crossing the opening is attached to the scaffold by a transom and a crossing horizontal tube on the outside called a bridle tube. The gaps between the tubes and the structure surfaces are packed or wedged with timber sections to ensure a solid fit.
+Box ties are used to attach the scaffold to suitable pillars or comparable features. Two additional transoms are put across from the lift on each side of the feature and are joined on both sides with shorter tubes called tie tubes. When a complete box tie is impossible a l-shaped lip tie can be used to hook the scaffold to the structure, to limit inward movement an additional transom, a butt transom, is placed hard against the outside face of the structure.
+Sometimes it is possible to use anchor ties (also called bolt ties), these are ties fitted into holes drilled in the structure. A common type is a ring bolt with an expanding wedge which is then tied to a node point.
+The least 'invasive' tie is a reveal tie. These use an opening in the structure but use a tube wedged horizontally in the opening. The reveal tube is usually held in place by a reveal screw pin (an adjustable threaded bar) and protective packing at either end. A transom tie tube links the reveal tube to the scaffold. Reveal ties are not well regarded, they rely solely on friction and need regular checking so it is not recommended that more than half of all ties be reveal ties.
+If it is not possible to use a safe number of ties rakers can be used. These are single tubes attached to a ledger extending out from the scaffold at an angle of less than 75° and securely founded. A transom at the base then completes a triangle back to the base of the main scaffold.
+==Bamboo scaffolding==
+Bamboo scaffolding is a type of scaffolding made from bamboo and widely used in construction work for centuries. Many famous landmarks, notably The Great Wall of China, were built using bamboo scaffolding,<ref name=chinadaily-1></ref> and its use continues today in some parts of the world.
+=== History ===
+Bamboo scaffolding was first introduced into the building industry in Hong Kong immediately after colonization in the 1800s.<ref name=scmp-1></ref><ref name=industrialhistoryhk-1></ref> It was widely used in the building of houses and multi-story buildings (up to four stories high) prior to the development of metal scaffolding.<ref name=chicagotribune-1></ref><ref name=hkbu-1></ref> It was also useful for short-term construction projects, such as framework for temporary sheds for Cantonese opera performances.<ref name=hku-1></ref>
+There are three types of scaffolding in Hong Kong: 
+# Double-row scaffold;
+# Extended Bamboo scaffolding;
+# Shop signs of Bamboo Scaffolding.
+===Gradual decline===
+In 2013, there were 1,751 registered bamboo scaffolders and roughly 200 scaffolding companies in Hong Kong.<ref name=independent-1></ref> The use of bamboo scaffolding is diminishing due to shortages in labor and material. Despite the lack of labor force and material, recently safety issues have become another serious concern.<ref name=HKBU></ref>
+The labor shortage may be due to the reluctance of younger generations to become scaffolders. “They even think that it’s a dirty and dangerous job. They are not going to do that kind of work,” said Yu Hang Flord, who has been a scaffolder for 30 years and later became the director of Wui Fai Holdings, a member of the Hong Kong and Kowloon Scaffolders General Merchants Association. “They refuse to step in, although we give them high pay. They are scared of it. Young generations do not like jobs that involve hard work.” Another reason fewer people are becoming scaffolders is that new recruits need to undergo training with the Hong Kong Construction Industry Council in order to acquire a license. Older scaffolders generally learned in apprenticeships, and may have been able to gather more hands-on experience.<ref name=labour-gov-hk-1></ref>
+Material shortages are also a contributing factor to the decline. The bamboo scaffolding material was imported from mainland China. Bamboo—which matures after three years to the wide diameter and thick skin perfect for scaffolding—came from the Shaoxing area in Guangdong. Over the past two decades, firms have had to look to Guangxi instead. The industry's fear is that one day supplies will be blocked due to export embargoes and environmental concerns. Attempts to import bamboo from Thailand, or switch to synthetic or plastic bamboo, have so far proved unsuccessful.
+In many African countries, notably Nigeria, bamboo scaffolding is still used for small scale construction in urban areas. In rural areas, the use of bamboo scaffolding for construction is common. In fact, bamboo is an essential building and construction commodity in Nigeria; the bamboo materials are transported on heavy trucks and trailers from rural areas (especially the tropical rain forest) to cities and the northern part of Nigeria.
+Some of the structures in relaxation and recreation centres, both in urban and rural areas of Nigeria, are put in place using bamboo materials. This is not for reasons of poverty (especially in the cities) but to add more aesthetics to these centres. Bamboo materials are still used in the construction of some bukas (local restaurants) in rural areas.<ref> urltoken 
+===Specifications===
+Forms of bamboo scaffolding include:<ref> urltoken 
+* Double-row Scaffold
+Only double-row bamboo scaffold is allowed to be used for working at height.
+* Nylon Mesh
+The perimeter of bamboo scaffold should be covered by nylon mesh against falling objects. The lapping of nylon mesh should be at least 100&nbsp;mm wide.
+* Access and Egress
+Suitable means of access should be provided from the building or ground level to the scaffold such as gangway, stairs and ladder etc.
+* Catch Fan
+Sloping catch fans shall be erected at a level close to the first floor and at no more than 15 metres, vertical intervals should give a minimum horizontal protection coverage of 1500&nbsp;mm. Large catch fans should be erected at specific locations to protect the public and/or workers underneath.
+* Platform of Catch Fan or Receptacle
+A suitable receptacle, covered with galvanized zinc sheet, should be provided within each catch-fan to trap falling objects.
+* Steel Bracket
+Steel brackets shall be provided for supporting the standard of scaffold at about six floor intervals. The horizontal distance between steel brackets is about 3 metres.
+* Putlogs
+Mild steel bars or similar materials are required to tie any structure to maintain the bamboo scaffold in its position on every floor. The distance of adjacent putlogs is about 3 to 4 metres.
+* Working Platform
+Every working platform must be at least 400&nbsp;mm wide and closely boarded by planks. The edges of working platforms should be protected by no less than 2 horizontal bamboo members of the scaffold, at intervals between 750&nbsp;mm to 900&nbsp;mm and suitable toe-boards no less than 200&nbsp;mm high.
+* Special Scaffold
+All scaffolds with a height excess of 15 metres shall be designed by an Engineer. 
+* Competent Examiner
+They should complete a formal training in bamboo scaffolding work or hold a trade test certificate on bamboo scaffolding and have at least 10 years of relevant experience.
+*Trained Worker 
+They should complete formal training in bamboo scaffolding work or hold a trade test certificate on bamboo scaffolding and have at least 3 years of relevant experience.
+=== Uses in construction ===
+Bamboo scaffolding is a temporary structure to support people and materials when constructing or repairing building exteriors and interiors.<ref name=archsd-gov-hk-1></ref> In bamboo scaffolding, plastic fibre straps and bamboo shoots are bound together to form a solid and secure scaffold structure without screws.<ref name=hk-magazine-1></ref> Bamboo scaffolding does not need to have a foundation on the ground, as long as the scaffolding has a fulcrum for structural support.<ref name=bd-gov-hk-1/>
+Bamboo scaffolding is mostly seen in developing Asian countries such as India, Bangladesh, Sri Lanka, and Indonesia.
+=== Cultural use ===
+=== Chinese opera theatres ===
+Chinese Opera is one of the world's "Intangible Cultural Heritages". One of bamboo scaffolding's main alternative uses is in drama theatres. The flexibility and convenience of this type of scaffolding suits stages set up for temporary use and also separates the audience from the performers.
+Respecting and promoting the traditional cultures of Chinese Opera, a huge event called the West Kowloon Bamboo Theatre has been held at the West Kowloon Waterfront Promenade annually since 2012.
+==== Yu Lan Ghost Festival ====
+Stages are built from bamboo scaffolding for the live Chinese operas and Chiu Chow–style dramas performed during every Yu Lan Ghost Festival to worship ghostly ancestors.
+==== Cheung Chau Bun Festival ====
+The bamboo tower used in the famous Bun Scrambling Competition during the Cheung Chau Bun Festival on the island of Cheung Chau is constructed out of bamboo scaffolding.<ref name=scmp-2></ref> Nine thousand buns, representing fortune and blessing, are supported on the fourteen-meter tall bamboo tower in front of the Yuk Hui Temple. For the Piu Sik Parade, bamboo stands and racks are used to hold the young costumed performers above the crowds.
+==Specialty scaffolding==
+Types of scaffolding covered by the Occupational Health and Safety Administration in the United States include the following categories: Pole; tube and coupler; fabricated frame (tubular welded frame scaffolds); plasterers’, decorators’, and large area scaffolds; bricklayers' (pipe); horse; form scaffolds and carpenters’
+bracket scaffolds; roof brackets; outrigger; pump jacks; ladder jacks; window jacks; crawlingboards (chicken ladders); step, platform, and trestle ladder
+scaffolds; single-point adjustable suspension; two-point adjustable suspension (swing stages); multipoint adjustable suspension; stonesetters’ multipoint adjustable suspension scaffolds, and masons’ multipoint adjustable suspension scaffolds; catenary; float (ship); interior hung; needle beam; multilevel suspended; mobile; repair bracket scaffolds; and stilts.<ref> urltoken Jeff Ende. "Getting a grip on OSHA’s scaffolding regulations" Masonryconstruction.com Publication #M970339 Copyright © 1997, The Aberdeen Group</ref>
+===Gallery of scaffold types===
+<gallery>
+File:Coupler 1.jpg|Tube and clamp scaffold detail.
+File:2512-échafaudage-Réunion.jpg|A type of metal pole scaffold in France.
+File:Deva Citadel 2011 - Wall Section Under Restoration-1.jpg|Wooden pole scaffold.
+File:CARPENTER AT WORK ON THE FIRST UNIT OF THE NEW ALPINE VILLAGE AT THE OUTSKIRTS OF HELEN. WHEN COMPLETED THE PROJECT. - NARA - 557731.jpg|Pipe staging is very common in the U.S. Welded sections stack on top of each other and braced with cross braces, workers stand on planks or aluminum platforms.
+File:HK BambooScaffolding NylonKnot.JPG|Bamboo scaffold with nylon knots.
+File:Rietdekken - Beilen - 20521600 - RCE.jpg|The putlog is the horizontal piece on which the platform rests, the upright pole is called a standard. In some masonry buildings the holes into which the putlogs are inserted remain unfilled and are called putlog holes.
+File:Fotothek df tg 0003033 Mechanik ^ Hebezeug ^ Winde ^ Seil.jpg|A type of putlog scaffold where the putlogs go through the wall and are relatively balanced on each side.
+File:Exterieur VERROTTE DRAAGCONSTRUCTIE LOOPGEDEELTE RONDOM HOUTEN OPBOUW - Amsterdam - 20294998 - RCE.jpg|Carpenters' bracket scaffolding or wall brackets bolt through, and hang from, a wall. 
+File:Floriano Ferramola rifiuta di abbandonare il cantiere davanti alle truppe di Gaston de Foix.jpg|Tall horse scaffold.
+File:Scaffold (PSF).png|Swing stage
+File:Rieten dak met ladder en ladderlift - Blaricum - 20344468 - RCE.jpg|Ladder brackets mount to the rungs of a ladder and hold planks.
+File:Wrens Train For New Job- Training For Ship Mechanics of the Women's Royal Naval Service, England, UK, 1943 D17079.jpg|Trestle ladder scaffold.
+File:Carpentry and painting LCCN2001705885.tif|A simple putlog type scaffolding and roof brackets.
+File:Handwerker-Stelzen.jpg|Stilts are considered a type of scaffold by OSHA in the USA. Stilts are commonly used by drywall tapers working on ceilings.
+</gallery>
+===Putlog scaffold===
+In addition to the putlog couplers (discussed above), there are also putlog tubes. These have a flattened end or have been fitted with a blade. This feature allows the end of the tube to be inserted into or rest upon the brickwork of the structure.
+A putlog scaffold may also be called a bricklayer's scaffold. As such, the scaffold consists only of a single row of standards with a single ledger. The putlogs are transoms - attached to the ledger at one end but integrated into the bricks at the other.
+Spacing is the same on a putlog scaffold as on a general purpose scaffold, and ties are still required.
+In recent years a number of new innovations have meant an increased scope of use for scaffolding, such as ladderbeams for spanning spaces that cannot accommodate standards and the increased use of sheeting and structure to create temporary roofs.
+Putlog tubes can also be used vertically when drove under downward pressure into the ground, most typically in greens and fields, where approx 1/4 of the putlog tube remains exposed above ground. The purpose for this alternative method is to create a good anchoring point for additional vertical scaffolding to clamp on to, most commonly used in live events and festivals with scaffolding poles upto 21foot in height where festoon lighting, cabling and bunting can be hung from safely.
+===Pump-jack===
+A pump-jack is a type of portable scaffolding system. The scaffold rests on supports attached to two or more vertical posts. The user raises the scaffolding by pumping the foot pedals on the supports, like an automobile jack.<ref></ref>
+===Baker staging===
+Baker staging is a metal scaffold which is easy to assemble. Rolling platforms typically wide by long and tall sections which can be stacked up to three high with the use of added outriggers. The work platform height is adjustable.
+===X-Deck ladder scaffolding===
+Low level scaffolding that is height adjustable. It is a hybrid ladder scaffold work platform.
+==Standards==
+The widespread use of scaffolding systems, along with the profound importance that they earned in modern applications such as civil engineering projects and temporary structures, led to the definition of a series of standards covering a vast number of specific issues involving scaffolding. Among the standards there are:
+* DIN 4420, a DIN standard divided in 5 parts which covers the design and detail of scaffolds, ladder scaffolds, safety requirements and standard types, materials, components, dimensions and loadbearing capacity.
+* DIN 4421, a DIN standard which covers the analysis, design and construction of falsework
+* 29 CFR Part 1926: Safety Standards for Scaffolds Used in the Construction Industry from the U.S. Occupational Safety and Health Administration (OSHA), with an accompanying "construction eTool"<ref></ref><ref></ref>
+==See also==
+* Index of construction articles
+* National Access and Scaffolding Confederation (UK trade association)
+* Steeplejack
+* Willow Island disaster
+==References==
+==External links==
+* urltoken Illustrated Formwork and Temporary Work Glossary
+* urltoken New York City Scaffolding Regulations PDF (shows nine types of scaffolding)
+* urltoken OSHA Publication 3150, A Guide to Scaffold Use in the Construction Industry
+* urltoken OSHA scaffold types illustrated
+* urltoken Illustrations of many kinds of scaffolding
+* urltoken UK Health & Safety Executive Scaffold Checklist
+
+Scaffolding, also called scaffold or staging,<ref>"staging, vbl. n.". def. 1. Oxford English Dictionary Second Edition on CD-ROM (v. 4.0) © Oxford University Press 2009</ref> is a temporary structure used to support a work crew and materials to aid in the construction, maintenance and repair of buildings, bridges and all other man-made structures. Scaffolds are widely used on site to get access to heights and areas that would be otherwise hard to get to.<ref></ref> Unsafe scaffolding has the potential to result in death or serious injury. Scaffolding is also used in adapted forms for formwork and shoring, grandstand seating, concert stages, access/viewing towers, exhibition stands, ski ramps, half pipes and art projects.
+There are five main types of scaffolding used worldwide today. These are Tube and Coupler (fitting) components, prefabricated modular system scaffold components, H-frame / facade modular system scaffolds, timber scaffolds and bamboo scaffolds (particularly in China and India). Each type is made from several components which often include:
+* A base jack or plate which is a load-bearing base for the scaffold. 
+* The standard, the upright component with connector joins. 
+* The ledger, a horizontal brace. 
+* The transom, a horizontal cross-section load-bearing component which holds the batten, board, or decking unit. 
+* Brace diagonal and/or cross section bracing component. 
+* Batten or board decking component used to make the working platform. 
+* Coupler, a fitting used to join components together. 
+* Scaffold tie, used to tie in the scaffold to structures. 
+* Brackets, used to extend the width of working platforms. 
+Specialized components used to aid in their use as a temporary structure often include heavy duty load bearing transoms, ladders or stairway units for the ingress and egress of the scaffold, beams ladder/unit types used to span obstacles and rubbish chutes used to remove unwanted materials from the scaffold or construction project.

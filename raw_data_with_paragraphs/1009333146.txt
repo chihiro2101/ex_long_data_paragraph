@@ -1,0 +1,107 @@
+Sodium carbonate
+
+==Hydrates==
+Sodium carbonate is obtained as three hydrates and as the anhydrous salt:
+* sodium carbonate decahydrate (natron), Na<sub>2</sub>CO<sub>3</sub>·10H<sub>2</sub>O, which readily effloresces to form the monohydrate.
+* sodium carbonate heptahydrate (not known in mineral form), Na<sub>2</sub>CO<sub>3</sub>·7H<sub>2</sub>O.
+* sodium carbonate monohydrate (thermonatrite), Na<sub>2</sub>CO<sub>3</sub>·H<sub>2</sub>O. Also known as crystal carbonate.
+* anhydrous sodium carbonate, also known as calcined soda, is formed by heating the hydrates. It is also formed when sodium hydrogen carbonate is heated (calcined) e.g. in the final step of the Solvay process.
+The decahydrate is formed from water solutions crystallizing in the temperature range -2.1 to +32.0&nbsp;°C, the heptahydrate in the narrow range 32.0 to 35.4&nbsp;°C and above this temperature the monohydrate forms.<ref></ref> In dry air the decahydrate and heptahydrate lose water to give the monohydrate. Other hydrates have been reported, e.g. with 2.5 units of water per sodium carbonate unit ("pentahemihydrate").<ref></ref>
+=== Washing soda ===
+Sodium carbonate decahydrate (Na<sub>2</sub>CO<sub>3</sub>·10H<sub>2</sub>O), also known as washing soda, is the most common hydrate of sodium carbonate containing 10 molecules of water of crystallization. Soda ash is dissolved in water and crystallized to get washing soda.
+<chem>Na2CO3 + 10H2O -> Na2CO3.10H2O</chem>
+* It is white crystalline solid.
+* It is one of the few metal Carbonate which are soluble in water.
+* It is alkaline with a pH level of 11; it turns red litmus to blue.
+* It has detergent properties or cleansing properties, because it can remove dirt and grease from dirty clothes, etc. It attacks dirt and grease to form water soluble products, which are then washed away on rinsing with water.
+==Applications==
+Some common applications of sodium carbonate (or washing soda) include:
+* Sodium carbonate (or washing soda) is used as a cleansing agent for domestic purposes like washing clothes. Sodium carbonate is a component of many dry soap powders.
+* It is used for removing temporary and permanent hardness of water.<ref name=":0" /> (see water softening).
+* It is used in the manufacture of glass, soap and paper. (see glass manufacture)
+* It is used in the manufacture of sodium compounds like borax
+===Glass manufacture===
+Sodium carbonate serves as a flux for silica, lowering the melting point of the mixture to something achievable without special materials. This "soda glass" is mildly water-soluble, so some calcium carbonate is added to the melt mixture to make the glass insoluble. Bottle and window glass (soda-lime glass) is made by melting such mixtures of sodium carbonate, calcium carbonate, and silica sand (silicon dioxide (SiO<sub>2</sub>)). When these materials are heated, the carbonates release carbon dioxide. In this way, sodium carbonate is a source of sodium oxide. Soda-lime glass has been the most common form of glass for centuries.<ref name=Ullmann/>
+===Water softening===
+Hard water contains dissolved compounds, usually calcium or magnesium compounds. Sodium carbonate is used for removing temporary and permanent hardness of water.<ref name=":0"> urltoken 
+As sodium carbonate is water-soluble and magnesium carbonate and calcium carbonate are insoluble, so it is used to soften water by removing Mg<sup>2+</sup> and Ca<sup>2+</sup>. These ions form insoluble solid precipitates upon treatment with carbonate ions:
+:<chem>Ca^2+ + CO3^2- -> CaCO3</chem>
+<chem>Ca^2+(aq) + Na2CO3(aq) -> CaCO3(s) + 2Na+(aq)</chem>
+Similarly, <chem>Mg^2+(aq) + Na2CO3(aq) -> MgCO3(s) + 2Na+(aq)</chem>
+The water is softened because it no longer contains dissolved calcium ions and magnesium ions.<ref name=":0" />
+===Food additive and cooking===
+Sodium carbonate is a food additive (E500) used as an acidity regulator, anticaking agent, raising agent, and stabilizer. It is one of the components of , a solution of alkaline salts used to give ramen noodles their characteristic flavor and texture. It is used in the production of snus to stabilize the pH of the final product. Sodium carbonate is used in the production of sherbet powder. The cooling and fizzing sensation results from the endothermic reaction between sodium carbonate and a weak acid, commonly citric acid, releasing carbon dioxide gas, which occurs when the sherbet is moistened by saliva. In China, it is used to replace lye-water in the crust of traditional Cantonese moon cakes, and in many other Chinese steamed buns and noodles. In cooking, it is sometimes used in place of sodium hydroxide for lyeing, especially with German cuisine and lye rolls. These dishes are treated with a solution of an alkaline substance to change the pH of the surface of the food and improve browning.
+Sodium carbonate is corrosive to aluminum cookware, utensils and foil.<ref></ref>
+===Inexpensive, weak base===
+Sodium carbonate is also used as a relatively strong base in various fields. As a common alkali, it is preferred in many chemical processes because it is cheaper than NaOH and far safer to handle. Its mildness especially recommends its use in domestic applications.
+For example, it is used as a pH regulator to maintain stable alkaline conditions necessary for the action of the majority of photographic film developing agents. It is also a common additive in swimming pools and aquarium water to maintain a desired pH and carbonate hardness (KH). In dyeing with fiber-reactive dyes, sodium carbonate (often under a name such as soda ash fixative or soda ash activator) is used to ensure proper chemical bonding of the dye with cellulose (plant) fibers, typically before dyeing (for tie dyes), mixed with the dye (for dye painting), or after dyeing (for immersion dyeing). It is also used in the froth flotation process to maintain a favourable pH as a float conditioner besides CaO and other mildly basic compounds.
+===Precursor to other compounds===
+Sodium (NaHCO<sub>3</sub>) or baking soda, also a component in fire extinguishers, is often generated from sodium carbonate. Although NaHCO<sub>3</sub> is itself an intermediate product of the Solvay process, the heating needed to remove the ammonia that contaminates it decomposes some NaHCO<sub>3</sub>, making it more economic to react finished Na<sub>2</sub>CO<sub>3</sub> with CO<sub>2</sub>:
+:Na<sub>2</sub>CO<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O → 2NaHCO<sub>3</sub>
+In a related reaction, sodium carbonate is used to make sodium bisulfite (NaHSO<sub>3</sub>), which is used for the "sulfite" method of separating lignin from cellulose. This reaction is exploited for removing sulfur dioxide from flue gases in power stations:
+:Na<sub>2</sub>CO<sub>3</sub> + SO<sub>2</sub> + H<sub>2</sub>O → NaHCO<sub>3</sub> + NaHSO<sub>3</sub>
+This application has become more common, especially where stations have to meet stringent emission controls.
+Sodium carbonate is used by the cotton industry to neutralize the sulfuric acid needed for acid delinting of fuzzy cottonseed.
+===Miscellaneous===
+Sodium carbonate is used by the brick industry as a wetting agent to reduce the amount of water needed to extrude the clay. In casting, it is referred to as "bonding agent" and is used to allow wet alginate to adhere to gelled alginate. Sodium carbonate is used in toothpastes, where it acts as a foaming agent and an abrasive, and to temporarily increase mouth pH.
+Sodium carbonate is also used in the processing and tanning of animal hides.
+==Physical properties==
+The integral enthalpy of solution of sodium carbonate is −28.1&nbsp;kJ/mol for a 10% w/w aqueous solution.<ref></ref> The Mohs hardness of sodium carbonate monohydrate is 1.3.<ref name=pphoic />
+==Occurrence as natural mineral==
+Sodium carbonate is soluble in water, and can occur naturally in arid regions, especially in mineral deposits (evaporites) formed when seasonal lakes evaporate. Deposits of the mineral natron have been mined from dry lake bottoms in Egypt since ancient times, when natron was used in the preparation of mummy and in the early manufacture of glass.
+The anhydrous mineral form of sodium carbonate is quite rare and called natrite. Sodium carbonate also erupts from Ol Doinyo Lengai, Tanzania's unique volcano, and it is presumed to have erupted from other volcanoes in the past, but due to these minerals' instability at the earth's surface, are likely to be eroded. All three mineralogical forms of sodium carbonate, as well as trona, trisodium hydrogendicarbonate dihydrate, are also known from ultra-alkaline pegmatite, that occur for example in the Kola Peninsula in Russia.
+Extraterrestrially, known sodium carbonate is rare. Deposits have been identified as the source of bright spots on Ceres, interior material that has been brought to the surface.<ref></ref> While there are carbonates on Mars, and these are expected to include sodium carbonate,<ref name="Kargel2004"></ref> deposits have yet to be confirmed, this absence is explained by some as being due to a global dominance of low pH in previously aqueous Martian soil.<ref>Grotzinger, J. and R. Milliken (eds.) 2012. Sedimentary Geology of Mars. SEPM</ref>
+==Production==
+===Mining===
+Trona, sodium sesquicarbonate (Na<sub>3</sub>HCO<sub>3</sub>CO<sub>3</sub>·2H<sub>2</sub>O), is mined in several areas of the US and provides nearly all the domestic consumption of sodium carbonate. Large natural deposits found in 1938, such as the one near Green River, Wyoming, have made mining more economical than industrial production in North America.
+There are important reserves of trona in Turkey; two million tons of soda ash have been extracted from the reserves near Ankara.
+It is also mined from some alkaline lakes such as Lake Magadi in Kenya by dredging. Hot saline springs continuously replenish salt in the lake so that, provided the rate of dredging is no greater than the replenishment rate, the source is fully sustainable.
+===Barilla and kelp===
+Several "halophyte" (salt-tolerant) plant species and seaweed species can be processed to yield an impure form of sodium carbonate, and these sources predominated in Europe and elsewhere until the early 19th century. The land plants (typically glassworts or saltworts) or the seaweed (typically Fucus species) were harvested, dried, and burned. The ashes were then "lixivated" (washed with water) to form an alkali solution. This solution was boiled dry to create the final product, which was termed "soda ash"; this very old name refers derives from the Arabic word soda, in turn applied to salsola soda, one of the many species of seashore plants harvested for production. "Barilla" is a commercial term applied to an impure form of potash obtained from coastal plants or kelp.<ref></ref>
+The sodium carbonate concentration in soda ash varied very widely, from 2–3 percent for the seaweed-derived form ("kelp"), to 30 percent for the best barilla produced from saltwort plants in Spain. Plant and seaweed sources for soda ash, and also for the related alkali "potash", became increasingly inadequate by the end of the 18th century, and the search for commercially viable routes to synthesizing soda ash from salt and other chemicals intensified.<ref name="Clow52">
+Clow, Archibald and Clow, Nan L. (1952). Chemical Revolution, (Ayer Co Pub, June 1952), pp. 65–90. .</ref>
+===Leblanc process===
+In 1792, the French chemist Nicolas Leblanc patented a process for producing sodium carbonate from salt, sulfuric acid, limestone, and coal. In the first step, sodium chloride is treated with sulfuric acid in the Mannheim process. This reaction produces sodium sulfate (salt cake) and hydrogen chloride:
+: 2NaCl + H<sub>2</sub>SO<sub>4</sub> &rarr; Na<sub>2</sub>SO<sub>4</sub> + 2HCl
+The salt cake and crushed limestone (calcium carbonate) was reduced by heating with coal.<ref name=Ullmann></ref> This conversion entails two parts. First is the carbothermic reaction whereby the coal, a source of carbon, Redox the sulfate to sulfide:
+: Na<sub>2</sub>SO<sub>4</sub> + 2C &rarr; Na<sub>2</sub>S + 2CO<sub>2</sub>
+The second stage is the reaction to produce sodium carbonate and calcium sulfide:
+: Na<sub>2</sub>S + CaCO<sub>3</sub> &rarr; Na<sub>2</sub>CO<sub>3</sub> + CaS
+This mixture is called black ash. The soda ash is extracted from the black ash with water. Evaporation of this extract yields solid sodium carbonate. This extraction process was termed lixivating.
+The hydrochloric acid produced by the Leblanc process was a major source of air pollution, and the calcium sulfide byproduct also presented waste disposal issues. However, it remained the major production method for sodium carbonate until the late 1880s.<ref name="Clow52"/><ref name="Kiefer"></ref>
+===Solvay process===
+In 1861, the Belgium industrial chemist Ernest Solvay developed a method to make sodium carbonate by first reacting sodium chloride, ammonia, water, and carbon dioxide to generate sodium bicarbonate and ammonium chloride:<ref name=Ullmann/>
+:NaCl + NH<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O → NaHCO<sub>3</sub> + NH<sub>4</sub>Cl
+The resulting sodium bicarbonate was then converted to sodium carbonate by heating it, releasing water and carbon dioxide:
+:2NaHCO<sub>3</sub> → Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>
+Meanwhile, the ammonia was regenerated from the ammonium chloride byproduct by treating it with the lime (calcium oxide) left over from carbon dioxide generation:
+:2NH<sub>4</sub>Cl + CaO → 2NH<sub>3</sub> + CaCl<sub>2</sub> + H<sub>2</sub>O
+The Solvay process recycles its ammonia. It consumes only brine and limestone, and calcium chloride is its only waste product. The process is substantially more economical than the Leblanc process, which generates two waste products, calcium sulfide and hydrogen chloride. The Solvay process quickly came to dominate sodium carbonate production worldwide. By 1900, 90% of sodium carbonate was produced by the Solvay process, and the last Leblanc process plant closed in the early 1920s.<ref name=Ullmann/>
+The second step of the Solvay process, heating sodium bicarbonate, is used on a small scale by home cooks and in restaurants to make sodium carbonate for culinary purposes (including pretzels and alkali noodles). The method is appealing to such users because sodium bicarbonate is widely sold as baking soda, and the temperatures required to to convert baking soda to sodium carbonate are readily achieved in conventional kitchen ovens.<ref></ref>
+===Hou's process===
+This process was developed by Chinese chemist Hou Debang in the 1930s. The earlier steam reforming byproduct carbon dioxide was pumped through a saturated solution of brine and ammonia to produce sodium bicarbonate by these reactions:
+:methane + 2water → carbon dioxide + 4hydrogen
+:3hydrogen + nitrogen → 2ammonia
+:ammonia + carbon dioxide + water → ammonium bicarbonate
+:ammonium bicarbonate + NaCl → NH<sub>4</sub>Cl + NaHCO<sub>3</sub>
+The sodium bicarbonate was collected as a precipitate due to its low solubility and then heated up to approximately or to yield pure sodium carbonate similar to last step of the Solvay process. More sodium chloride is added to the remaining solution of ammonium and sodium chlorides; also, more ammonia is pumped at 30-40&nbsp;°C to this solution. The solution temperature is then lowered to below 10&nbsp;°C. Solubility of ammonium chloride is higher than that of sodium chloride at 30&nbsp;°C and lower at 10&nbsp;°C. Due to this temperature-dependent solubility difference and the common-ion effect, ammonium chloride is precipitated in a sodium chloride solution.
+The Chinese name of Hou's process, lianhe zhijian fa , means "coupled manufacturing alkali method": Hou's process is coupled to the Haber process and offers better atom economy by eliminating the production of calcium chloride, since ammonia no longer needs to be regenerated. The byproduct ammonium chloride can be sold as a fertilizer.
+==See also==
+* Natron
+* Residual sodium carbonate index
+* Sodium bicarbonate
+==References==
+==Further reading==
+* 
+* 
+==External links==
+* urltoken American Natural Soda Ash Company
+* urltoken International Chemical Safety Card 1135
+* urltoken FMC Wyoming Corporation
+* urltoken Use of sodium carbonate in dyeing
+* urltoken Sodium carbonate manufacturing by synthetic processes
+* urltoken Soda Ash light overview, manufacturing method and applications
+* urltoken Soda Ash Market- Industry Analysis and Forecast
+<br>
+
+Sodium carbonate, , (also known as washing soda, soda ash and soda crystals) is the inorganic compound with the formula Na<sub>2</sub>CO<sub>3</sub> and its various hydrates. All forms are white, water-soluble salts that yield moderately alkaline solutions in water. Historically it was extracted from the ashes of plants growing in sodium-rich soils. Because the ashes of these sodium-rich plants were noticeably different from ashes of wood (once used to produce potash), sodium carbonate became known as "soda ash."<ref></ref> It is produced in large quantities from sodium chloride and limestone by the Solvay process.

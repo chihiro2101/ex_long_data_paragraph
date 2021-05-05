@@ -1,0 +1,55 @@
+Traffic shaping
+
+==Functionality==
+If a link becomes utilized to the point where there is a significant level of congestion, latency can rise substantially. Traffic shaping can be used to prevent this from occurring and keep latency in check. Traffic shaping provides a means to control the volume of traffic being sent into a network in a specified period (bandwidth throttling), or the maximum rate at which the traffic is sent (rate limiting), or more complex criteria such as generic cell rate algorithm. This control can be accomplished in many ways and for many reasons; however traffic shaping is always achieved by delaying packets.
+Traffic shaping is commonly applied at the network edges to control traffic entering the network, but can also be applied by the traffic source (for example, computer or network card<ref>IEEE INFOCOM 2001. Arsenic: a user-accessible gigabit Ethernet interface Pratt, I., Fraser, K., Computer Laboratory, Cambridge University; Twentieth Annual Joint Conference of the IEEE Computer and Communications Societies. Proceedings 2001 Volume 1, pages: 67-76 vol.1. Describes a gigabit Ethernet NIC with transmit traffic shaping.</ref>) or by an element in the network.
+==Uses==
+Traffic shaping is sometimes applied by traffic sources to ensure the traffic they send complies with a contract which may be enforced in the network by traffic policing.
+Shaping is widely used for teletraffic engineering, and appears in domestic ISPs' networks as one of several Internet Traffic Management Practices (ITMPs).<ref> urltoken Review of the Internet traffic management practices of Internet service providers (Telecom. Reg. Policy CRTC 2009-657) Canada telecomms regulator CRTC ruling relating to traffic shaping usage by domestic ISPs.</ref> Some ISPs may use traffic shaping to limit resources consumed by peer-to-peer file-sharing networks, such as BitTorrent.<ref></ref>
+Data centers use traffic shaping to maintain service level agreements for the variety of applications and the many tenants hosted as they all share the same physical network.<ref name=architecture>M. Noormohammadpour, C. S. Raghavendra, urltoken "Datacenter Traffic Control: Understanding Techniques and Trade-offs," IEEE Communications Surveys & Tutorials, vol. PP, no. 99, pp. 1-1.</ref>
+Audio Video Bridging includes an integral traffic-shaping provision defined in IEEE 802.1Qav.
+Nodes in an IP network which buffer packets before sending on a link which is at capacity produce an unintended traffic shaping effect. This can appear across, for example, a low bandwidth link, a particularly expensive WAN link or satellite hop.
+== Implementation ==
+A traffic shaper works by delaying metered traffic such that each packet complies with the relevant traffic contract. Metering may be implemented with, for example, the leaky bucket or token bucket algorithms (the former typically in ATM and the latter in IP networks). Metered packets or cells are then stored in a FIFO buffer, one for each separately shaped class, until they can be transmitted in compliance with the associated traffic contract. Transmission may occur immediately (if the traffic arriving at the shaper is already compliant), after some delay (waiting in the buffer until its scheduled release time) or never (in case of packet loss).
+===Overflow condition===
+All traffic shaper implementations have a finite buffer, and must cope with the case where the buffer is full. A simple and common approach is to drop traffic arriving while the buffer is full 
+a strategy known as tail drop and which results in traffic policing as well as shaping. A more sophisticated implementation could apply a dropping algorithm such as random early detection.
+===Traffic classification===
+Simple traffic shaping schemes shape all traffic uniformly. More sophisticated shapers first classify traffic. Traffic classification categorises traffic (for example, based on port number or protocol). Different classes can then be shaped separately to achieve a desired effect.
+===Self-limiting sources===
+A self-limiting source produces traffic which never exceeds some upper bound, for example media sources which cannot transmit faster than their encoded rate allows.<ref></ref> Self-limiting sources shape the traffic they generate to a greater or lesser degree. Congestion control mechanisms can also affect traffic shaping of sorts - for example TCP's window mechanism implements a variable rate constraint related to bandwidth-delay product.
+TCP Nice, a modified version of TCP developed by researchers at the University of Texas at Austin, allows applications to request that certain TCP connections be managed by the operating system as near zero-cost background transfers, or nice flows. Such flows interfere only minimally with foreground (non-nice) flows, while reaping a large fraction of spare network bandwidth.<ref></ref>
+===Relationship to bandwidth management===
+Traffic shaping is a specific technique and one of several which combined constitute bandwidth management.<ref> urltoken ATM Forum Traffic Management Specification, Version 4.0 Approved Specification 0056.00, Section 5.5, Traffic Shaping</ref>
+==ISPs and traffic management==
+Traffic shaping is of interest especially to internet service providers (ISPs). Their high-cost, high-traffic networks are their major assets, and as such, are the focus of their attentions. They sometimes use traffic shaping to optimize the use of their network, sometimes by shaping traffic according to their assessment of importance and thus discouraging use of certain applications.<ref> urltoken CNet: Is Comcast's BitTorrent filtering violating the law? Analysis of Comcast's impersonation techniques for limiting BitTorrent usage.</ref>
+==Enterprises==
+Most companies with remote offices are now connected via a wide area network (WAN). Applications tend to be centrally hosted at the head office and remote offices are expected to pull data from central databases and server farms. As applications become more hungry in terms of bandwidth and prices of dedicated circuits being relatively high in most areas of the world, instead of increasing the size of their WAN circuits, companies feel the need to properly manage their circuits to make sure business-oriented traffic gets priority over other traffic. Traffic shaping is thus a good means for companies to avoid purchasing additional bandwidth while properly managing these resources.
+Alternatives to traffic shaping in this regard are application acceleration and WAN optimization and compression, which are fundamentally different from traffic shaping. Traffic shaping defines bandwidth rules whereas application acceleration using multiple techniques like a TCP performance-enhancing proxy. WAN optimization, on the other hand, compresses data streams or sends only differences in file updates. The latter is quite effective for chatty protocols like CIFS.
+==Traffic shaping detection==
+There are several methods to detect and measure traffic shaping.
+* urltoken ShaperProbe (Retired)
+* urltoken Glasnost (Retired)
+==See also==
+* Network congestion avoidance
+* Quality of service
+* Multilayer switch
+* TCP pacing
+* Broadband networks
+* Net neutrality
+* Tc (Linux) command used to manage traffic shaping
+==References==
+* 
+==External links==
+* urltoken BBC News - Traffic Shaping and BitTorrent
+* urltoken IT-world.com, Traffic Shaping article comparing traffic management techniques circa 2001
+* urltoken Network World, 03/05/01: Where should traffic shaping occur?
+* urltoken Network World, 03/07/01: WAN-side traffic shaping
+* urltoken Linux Kernel: Traffic Control, Shaping and QoS
+* urltoken A Practical Guide to Linux Traffic Control
+* urltoken Web based traffic shaping bridge/router
+* urltoken Dynamisches Bandbreitenmanagement im Chemnitzer StudentenNetz (German work about " urltoken DynShaper-Software" used at urltoken CSN (student network at Chemnitz University of Technology): urltoken Manuals)
+
+Traffic shaping is a bandwidth management technique used on computer networks which delays some or all datagrams to bring them into compliance with a desired traffic profile.<ref> urltoken IETF RFC 2475 "An Architecture for Differentiated Services" section 2.3.3.3 - Internet standard definition of "Shaper"</ref><ref> urltoken ITU-T Recommendation I.371: Traffic control and congestion control in B-ISDN Section 7.2.7 defines traffic shaping as a traffic control mechanism which "alters the traffic characteristics of a stream of cells on a VCC or a VPC to achieve a desired modification of those traffic characteristics, in order to achieve better network efficiency whilst meeting the QoS objectives or to ensure conformance at a subsequent interface. . Shaping modifies traffic characteristics of a cell flow with the consequence of increasing the mean cell transfer delay."</ref> Traffic shaping is used to optimize or guarantee performance, improve latency, or increase usable bandwidth for some kinds of packets by delaying other kinds. It is often confused with traffic policing, the distinct but related practice of Packet loss and packet marking.<ref> Graphs illustrate differences in typical output</ref>
+The most common type of traffic shaping is application-based traffic shaping.<ref></ref> In application-based traffic shaping, fingerprinting tools are first used to identify applications of interest, which are then subject to shaping policies. Some controversial cases of application-based traffic shaping include bandwidth throttling of peer-to-peer file sharing traffic. Many application protocols use encryption to circumvent application-based traffic shaping.
+Another type of traffic shaping is route-based traffic shaping. Route-based traffic shaping is conducted based on previous-hop or next-hop information.<ref> urltoken Ascertaining the Reality of Network Neutrality Violation in Backbone ISPs, ACM HotNets 2008</ref>

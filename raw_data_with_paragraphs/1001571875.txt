@@ -1,0 +1,73 @@
+Chinese astrology
+
+==Background==
+<!--
+ HIDDEN EDITOR NOTE:
+ DO NOT ADD ANY INFORMATION WITHOUT CITING A RELIABLE SOURCE
+ UNSOURCED ADDITIONS WILL BE REMOVED
+-->
+Chinese astrology was elaborated during the Zhou dynasty (1046–256 BC) and flourished during the Han dynasty (2nd century BC to 2nd century AD). During the Han period, the familiar elements of traditional Chinese culture—the yin-yang philosophy, the theory of the five elements, the concepts of heaven and earth, and Confucian morality—were brought together to formalize the philosophical principles of Chinese medicine and divination, astrology and alchemy.<ref>Xiaochun Sun, Jacob Kistemaker, The Chinese sky during the Han:
+constellating stars and society, pp.3-4. BRILL, 1997. </ref>
+The five classical planets are associated with the wuxing:
+* Venus—Metal (White Tiger)
+* Jupiter—Wood (Azure Dragon)
+* Mercury—Water (Black Tortoise)
+* Mars—Fire (Vermilion Bird) (may be associated with the phoenix which was also an imperial symbol along with the Dragon)
+* Saturn—Earth (Yellow Dragon)
+According to Chinese astrology, a person's destiny can be determined by the position of the major planets at the person's birth along with the positions of the sun, moon, comets, the person's time of birth, and zodiac sign. The system of the twelve-year cycle of animal signs was built from observations of the orbit of Jupiter (the Year Star; . Following the orbit of Jupiter around the sun, Chinese astronomers divided the celestial circle into 12 sections, and rounded it to 12 years (from 11.86). Jupiter is associated with the constellation Sheti - Boötes) and is sometimes called Sheti.
+A system of computing one's fate and destiny based on one's birthday, birth season, and birth hours, known as Zi wei dou shu , or Purple Star Astrology, is still used regularly in modern-day Chinese astrology to divine one's fortune. The 28 Chinese constellations, Xiu , are quite different from Western constellations. For example, the Big Bear (Ursa Major) is known as Dou ; the belt of Orion is known as Shen , or the "Happiness, Fortune, Longevity" trio of demigods. The seven northern constellations are referred to as Xuan Wu . Xuan Wu is also known as the spirit of the northern sky or the spirit of Water in Taoism belief.
+In addition to astrological readings of the heavenly bodies, the stars in the sky form the basis of many fairy tales. For example, the Summer Triangle is the trio of the cowherd (Altair), the weaving maiden fairy (Vega), and the "tai bai" fairy (Deneb). The two forbidden lovers were separated by the silvery river (the Milky Way). Each year on the seventh day of the seventh month in the Chinese calendar, the birds form a bridge across the Milky Way. The cowherd carries their two sons (the two stars on each side of Altair) across the bridge to reunite with their fairy mother. The tai bai fairy acts as the chaperone of these two immortal lovers.
+===Chinese and East-Asian===
+Chinese astrology has a close relation with Chinese philosophy which the core values and concepts are originated from Taoism or "Tao".<ref name=Kistemaker></ref>
+==Luni-solar calendar==
+<!--
+ HIDDEN EDITOR NOTE:
+ DO NOT ADD ANY INFORMATION WITHOUT CITING A RELIABLE SOURCE
+ UNSOURCED ADDITIONS WILL BE REMOVED
+-->
+The 60-year cycle consists of two separate cycles interacting with each other. The first is the cycle of ten heavenly stems, namely the five elements (in order Wood, Fire, Earth, Metal, and Water) in their yin and yang forms.
+The second is the cycle of the twelve zodiac animal signs shēngxiào) or Earthly Branches. They are in order as follows: the Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig. In Vietnam the Rabbit is replaced by the cat.
+This combination creates the 60-year cycle due to the fewest years (least common multiple) it would take to get from Yang Wood Rat to its next iteration, which always starts with Yang Wood Rat and ends with Yin Water Pig. Since the zodiac animal cycle of 12 is divisible by two, every zodiac sign can occur only as either yin or yang: the Dragon is always yang, the Snake is always yin, etc. The current cycle began in 1984 (as shown in "Table of the sixty-year calendar" below).
+When trying to traverse the lunisolar calendar, an easy rule to follow is that years that end in an even number are yang, those that end with an odd number are yin. The cycle proceeds as follows:
+*If the year ends in 0 it is Yang Metal.
+*If the year ends in 1 it is Yin Metal.
+*If the year ends in 2 it is Yang Water.
+*If the year ends in 3 it is Yin Water.
+*If the year ends in 4 it is Yang Wood.
+*If the year ends in 5 it is Yin Wood.
+*If the year ends in 6 it is Yang Fire.
+*If the year ends in 7 it is Yin Fire.
+*If the year ends in 8 it is Yang Earth.
+*If the year ends in 9 it is Yin Earth.
+However, since the (traditional) Chinese zodiac follows the (lunisolar) Chinese calendar, the switch-over date is the Chinese New Year, not January 1 as in the Gregorian calendar. Therefore, a person who was born in January or early February may have the sign of the previous year. For example, if a person was born in January 1970, his or her element would still be Yin Earth, not Yang Metal. Similarly, although 1990 was called the year of the Horse, anyone born from January 1 to January 26, 1990, was in fact born in the Year of the Snake (the sign of the previous year), because the 1990 Year of the Horse did not begin until January 27, 1990. For this reason, many online sign calculators (and Chinese restaurant place mats) may give a person the wrong sign if he/she was born in January or early February.
+The start of a new zodiac is also celebrated on Chinese New Year along with many other customs.
+===Table of the sixty-year calendar===
+<!--
+ HIDDEN EDITOR NOTE:
+ DO NOT ADD ANY INFORMATION WITHOUT CITING A RELIABLE SOURCE
+ UNSOURCED ADDITIONS WILL BE REMOVED
+-->
+The following table shows the 60-year cycle matched up to the Western calendar for the years 1984–2043 (see sexagenary cycle article for years 1924–1983). This is only applied to Chinese Lunar calendar. The sexagenary cycle begins at lichun.<ref></ref> Each of the Chinese lunar years are associated with a combination of the ten Heavenly Stems and the twelve Earthly Branches which make up the urltoken 60 Stem-Branches in a sexagenary cycle. 
+==See also==
+* Chinese calendar correspondence table
+* Chinese calendar
+* Da Liu Ren
+* Four Pillars of Destiny
+* Qimen Dunjia
+* Sexagenary cycle
+* Shēngxiào
+* Symbolic stars
+* Synoptical astrology
+* Tai Yi Shen Shu
+* Zi wei dou shu
+==References==
+===Sources===
+* Shelly Wu. (2005). Chinese Astrology. Publisher: The Career Press, Inc.
+
+<!--
+ HIDDEN EDITOR NOTE:
+ DO NOT ADD ANY INFORMATION WITHOUT CITING A RELIABLE SOURCE
+ UNSOURCED ADDITIONS WILL BE REMOVED
+-->
+Chinese astrology is based on the traditional astronomy and calendars. Chinese astrology came to flourish during the Han Dynasty (2nd century BC to 2nd century AD).<ref name=Ting></ref><ref name=Ho></ref>
+Chinese astrology has a close relation with Chinese philosophy (theory of the three harmonies: heaven, earth, and water), and uses the principles of yin and yang and concepts that are not found in Western astrology, such as the wuxing (five phases), the ten Heavenly Stems, the twelve Earthly Branches, the Chinese calendar (moon calendar and sun calendar), and the time calculation after year, month, day, and shichen , double hour).

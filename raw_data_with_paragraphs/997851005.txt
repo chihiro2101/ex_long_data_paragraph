@@ -1,0 +1,84 @@
+Dušan's Code
+
+==Background==
+On 16 April 1346 (Easter), Dušan convoked a huge assembly at Skopje, attended by the Serbian Archbishop Joanikije II, the Archbishop of Ochrid Nikolaj I, the Bulgarian Patriarch Simeon and various religious leaders of Mount Athos. The assembly and clerics agreed on, and then ceremonially performed the raising of the autocephalous Serbian Archbishopric to the status of Serbian Patriarchate.<ref name=Fine309></ref> The Archbishop from then on was titled Serbian Patriarch, although one documents called him Patriarch of Serbs and Greeks, with the seat at the Monastery of Peć.<ref name=Fine309/> The first Serbian Patriarch Joanikije II now solemnly crowned Dušan as "Emperor of Serbs" (Greek .<ref name=Fine309/>
+==History==
+ 
+The Code was promulgated at a state council on 21 May 1349 in Skopje, the capital of the Serbian Empire. The foreword is as follows: "We enact this Law by our Orthodox Synod, by His Holiness the Patriarch Kir Joanikije together with all the Archbishops and Clergy, small and great, and by me, the true-believing Emperor Stefan, and all the Lords, small and great, of this our Empire". In the Charter, which accompanied the Code, it said: "It is my desire to enact certain virtues and truest of laws of the Orthodox faith to be adhered to and observed".<ref name=Cirkovic68></ref> Emperor Dušan added a series of articles to it in 1353 or 1354, at a council in Serres.<ref name=Fine314></ref> This second part was half the size and at times cited issues from the first part, referring it to the "first Code".<ref name=Cirkovic68/>
+It had a total of 201 articles. Four of them (79, 123, 152, 153), regarding various subjects, refers to the authority of the "Law of the Sainted King" (i.e. Stefan Uroš II Milutin of Serbia, r. 1282–1321, Dušan's grandfather), which suggests that Milutin had issued a code whose text has not survived.<ref name=Fine314/> Dušan's Code was thus a supplement to Milutin's code, as well as a supplement to the various Church law codes that also had authority in Serbia; in particular the Zakonopravilo, enacted in 1219 with the establishment of the Serbian Orthodox Church and Serbian Kingdom.<ref name=Fine314/> The Syntagma Canonum, written in 1335 by Matthew Blastares, had been translated into Serbian and had received legal authority by 1349, and its articles had influenced the text of the Code.<ref name=Fine314/> Dušan's Code was heavily influenced by Byzantine law – nearly half of its articles reflect some influence, often modified for Serbia.<ref name=Fine314/> The code had many articles concerning the Church, which reflects Byzantine Church law; Byzantine civil law codes, especially the Basilika by Basil I and Leo VI, also influenced the code.<ref name=Fine314/> Scholars A. Solovjev and Soulis conclude that the Council of 1349 issued a three-part comprehensive legal document, since most early manuscripts of the Code also contain two other texts: The first part was an abridgement of the Syntagma, the second part was the "Code of Justinian" (an abridgement of The Partner's Law), and the third part was always Dušan's Code itself.<ref name=Fine314/>
+According to Fine, there is a possibility that the Code was written to supplement the first two parts, by adding items that were not covered, rather than to build a comprehensive legal system.<ref name=Fine315></ref>
+==Composition==
+The first part, the Syntagma, was an encyclopedic legal collection, provided in alphabetical order. It drew from religious and secular law; ecclesiastical articles made up a majority of the Byzantine original.<ref name=Fine315/> The version of Dušan's manuscripts contained only a third of the original Greek version; it omitted most of the ecclesiastical material and contained mainly secular articles; Serbia already had an ecclesiastical code in St. Sava's Nomocanon.<ref name=Fine315/> The secular articles of the abridged Serbian version of the Syntagma were drawn chiefly from Basil I's law code and the Novella's of Emperors who succeeded him; they focused on laws governing contracts, loans, inheritance, marriage, dowries etc. as well as on matters of criminal law.<ref name=Fine315/> The second part, the Law of Justinian, was actually a shortened version of the 8th-century Farmer's Law, a code settling problems and disputes among peasants within a village.<ref name=Fine315/>
+The third part, Dušan's Code, added what was not covered in the other two parts and specific Serbian situations.<ref name=Fine315/> Since aspects of civil and criminal law were well covered in the two parts, Dušan's articles concerned with public law and legal procedures.<ref name=Fine315/> The Code also provided more material on actual punishments; in which there is a strong Byzantine influence, with executions and mutilations frequently replacing Serbia's traditional fines.<ref name=Fine315/> It touched on crimes or insults and their punishment; settlement of civil suits (including ordeals and selection and role of juries); court procedure and judicial jurisdictions (defining which cases to be judged by which bodies among Church courts, the Emperor's court, courts of the Emperor's circuit judges, and judgement by a nobleman); and rights and obligations, including the right to freely carry out commerce (articles 120, 121), tax obligations (summary tax and timeframe to pay), grazing rights and their violation, service obligations to the Emperor, exemption from state dues (usually for the Church), obligations associated with land, and the obligation of the Church to perform charity. The code also defined the different types of landholding (specifying the various rights and obligations that went with various categories of land), the rights of inheritance, the position of slaves, and the position of serfs. It defined the labor dues serfs owed to their lords (article 68) but also gave them the right to lay plaint against their master before the Emperor's court (article l39). The code also noted the special privileges of foreign communities (e.g. the Saxons).<ref name=Fine316></ref>
+Many articles regarded the Church's status, thus supplementing the existing canon law texts. The Church received a very privileged position, on the whole, though it was given the duty of charity in no uncertain terms: "And in all churches the poor shall be fed . and should any one fail to feed them, be he Metropolitan, bishop, or abbot, he shall be deprived of his office" (article 28). The code also banned simony. A clear-cut separation of Church and state was established in most matters, allowing Church courts to judge the Church's people and prohibiting the nobility from interfering with Church property and Church matters.<ref name=Fine316/> Dušan's Code did not look favorably upon the Catholic Church, though he, as his predecessors, was friendly and respectable to foreign Catholics (Saxons and coastal merchants).<ref name=Fine316/> He referred to the Roman Catholic Church as the "Latin heresy" and to its adherents as "half believers." He prohibited proselytism by Catholics among the Orthodox, Orthodox conversions to Catholicism, and mixed marriages between Catholics and Orthodox unless the Catholic converted to Orthodoxy. He also had articles strongly penalizing "heretics" (Bogomils). Only the Orthodox were called Christians.<ref name=Fine316/>
+The code defined and allowed court procedure, jurisdictions, and punishment to depend upon the social class of the individual involved, supporting the existing class structure.<ref name=Fine316/> Articles touched on the status in society and in court of clergy, nobility, commoners, serfs, slaves, Albanians and Vlachs (the latter two for their pastoralist lifestyle, than for ethnic reasons), and foreigners.<ref name=Fine316/> The Code also guaranteed the authority and income of the state; it contained articles on taxes, obligations associated with land, and services and hospitality owed to the Emperor and his agents.<ref name=Fine316/> Greek, "Latin" or Italian, Ragusan, Bulgarian, Vlach, Albanian and Serbian merchants can freely trade without interference and in transit they are free to transfer their goods.<ref>Traian Stoianovich; (1960) The Conquering Balkan Orthodox Merchant p. 236; The Journal of Economic History, </ref> 
+The Code also maintained law and order, not limiting itself against crime and insults, but also gave responsibility to specific communities; it stated the existing custom that each territory was responsible and liable for keeping order; e.g. a frontier lord was responsible for defending his border: "if any foreign army come and ravish the land of the Emperor, and again return through their land, those frontier lords shall pay all the people through whose territory they the army came." (Article 49).<ref name=Fine316/> The control of brigands, a constant problem in the Balkans, was also widely addressed in articles 126, 145, 146, 158 and 191.<ref name=Fine316/> Article 145 says: "In whatsoever village a thief or brigand be found, that village shall be scattered and the brigand shall be hanged forthwith . and the headmen of the village shall be brought before me the Emperor and shall pay for all the brigand or thief hath done from the beginning and shall be punished as a thief and a brigand." and continues in article 146, "also prefects and lieutenants and bailiffs and reeves and headmen who administer villages and mountain hamlets. All these shall be punished in the manner written above article 145 if any thief or brigand be found in them." And article 126 states, "lf there be a robbery or theft on urban land around a town, let the neighborhood pay for it all." And finally article 158 requires that the localities bordering on an uninhabited hill jointly supervise that region and pay for damage from any robbery occurring there.<ref name=Fine317></ref> Fine concludes that these articles demonstrate a weakness in the state's maintaining of order in rural and border areas, which caused it to pass responsibility down to local inhabitants, by threatening them with penalties, the state hoped to force the locality to assume this duty.<ref name=Fine317/> Another reason for the strictness of the articles towards the locality was the belief that the brigand could not survive without local support, shelter, and food. Thus the brigand was seen as a local figure, locally supported, preying on strangers. As a result, the allegedly supporting locality shared his guilt and deserved to share the punishment. The strict articles were therefore intended to discourage a community from aiding brigands.<ref name=Fine317/>
+The monarch had wide autocratic powers, but was surrounded and advised by a permanent council of magnates and prelates.<ref name=Anderson290></ref> The court, chancellery and administration were rough copies of those of Constantinople.<ref name=Anderson290/> The Code named the administrative hierarchy as following: "lands, cities, župas and krajištes", the župas and krajištes were one and the same, with the župas on the borders were called krajištes ("frontier march").<ref></ref> The župa consisted of villages, and their status, rights and obligations were regulated in the constitution. The ruling nobility possessed hereditary allodial estates, which were worked by dependent sebri, the equivalent of Greek paroikos; peasants owing labour services, formally bound by decree.<ref name=Anderson290/> The earlier title of župan was abolished and replaced with the Greek kephale (kefalija, "head, master").<ref name=Anderson290/>
+The legal transplanting is notable with the articles 171 and 172, which regulated juridical independence, taken from Basilika (book VII, 1, 16–17).
+===Peasants===
+Dušan's Code is one of few sources on the position of Serbia's peasants.<ref name=Fine318></ref>
+==Legacy==
+The code continued as the constitution under the rule of Dušan's son, Stefan Uroš V, and during the fall of the Serbian Empire, it was used in all provinces. It was officially used in the successor state, Serbian Despotate,<ref name=Sedlar330>Sedlar, p. 330</ref> until its annexation by the Ottoman Empire in 1459. The code was used as a reference for Serbian communities under Turkish rule, which exercised considerable legal autonomy in civil cases.<ref name=Sedlar330/> The code was used in the Serbian autonomical areas under the Republic of Venice, like Grbalj and Paštrovići.<ref></ref>
+According to Serbian authors T. O. Oraovac<ref></ref> and S. S. Djurić, the code also served as the base of the Kanun of Albanian nobleman Leka Dukagjini (1410–1481), a set of customary laws in northern Albania that existed until the 20th century.<ref></ref> Noel Malcolm suggests that an article in Dušan's Code was an early attempt to clamp down on the self-administered customary law of the mountains, as later codified in the Kanun of Lek Dukagjin, and if so, this would be the earliest evidence that such customary law was in effect.<ref></ref> Despite the similarities historians agree that the Code of Leke Dukagjini is not the same as Dusans Code and that such conclusions are "far-fetched". When the Turkish invaders conquered the medieval Serbian state many customary laws of social life amongst the Balkan peoples were brought back to use, this included the Albanians.<ref name="The Code of Leke Dukagjini"></ref> 
+The town of Shkodra had for example, before Dušan's Code, its own customary laws and rules.<ref> P. 3-4 of the PDF</ref>
+It regulated all social spheres, thus it is considered the second oldest preserved constitution of Serbia. The original manuscript is not preserved, but around twenty copies of the transcript, ranging from the 14th to the 18th century, remain.
+==Manuscripts==
+.<ref name=Radovanovic268></ref>
+Today 24 manuscripts of Dusan's Code are known. The oldest extant is the Struga manuscript from 1373; which is not preserved in full; only 100 articles remain. The Athos and Studenica manuscripts date from around 1418. The Hilandar, Bistrica and Prizren manuscripts, which have the most complete texts, date to the 15th century. The Rakovac manuscript, dating to around 1700, comprises only the last 12 articles and the Emperor's comments.
+==Quotes==
+;On the Law
+:Further commandeth our Imperial Majesty:
+:Should our Imperial Majesty write a letter
+:Out of wrath, or out of love
+:Or out of mercy for any one,
+:And should such a letter contravene the Code
+:And be at variance with the law and justice
+:As set down in the Code,
+:The judges
+:Shall not comply therewith
+:But shall judge
+:And act withal as justice commandenth.
+;On Poor Women
+:Any poor woman unable to litigate
+:Or defend herself shall choose an attorney
+:Who shall speak on her behalf.
+:The poorest hemp-spinstress shall be as free as a priest shall.
+;On Prisoners
+:Whoso escapeth from prison to the Imperial Court, be he a serf of the Crown, or of the Church, or of a nobleman, shall by the act itself be set free; should he be bearing any gifts for the man to whom he hath escaped, he shall return them to the man from whom he hath escaped.
+:Whoso escapeth from the prison at our Imperial Court to the patriarchal court shall be set free; also shall be set free any man who escapeth from the patriarchal prison to the Imperial Court.
+:Also, should any one give shelter to a man from a foreign land, and that man be a fugitive from his master or from justice holding our imperial letter of clemency, said letter shall not be contested; should he hold no such letter, he shall be returned wherefrom he hath escaped.
+==See also==
+*Medieval Serbian law
+==References==
+==Sources==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+*
+* 
+* 
+* 
+* (Public Domain)
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+*
+*Soloviev, Alexander
+** Selected Monuments of Serbian Law from the 12th to 15th centuries (1926)
+** Legislation of Stefan Dušan, Emperor of Serbs and Greeks (1928)
+** Dušan's Code in 1349 and 1354 (1929)
+* 
+*Golijan, Dragan, and Vladan Stanković. "Dušan’s Code-The Act Constitutional Nature And Foundation Of The Serbian State." International Journal of Economics & Law 13 (2015): 30–34.
+==External links==
+* urltoken THE CODE OF SERBIAN TSAR STEPHAN DUSHAN, by Radoman Stankovic
+
+Dušan's Code , Dušanov zakonik, known historically as Закон благовјернаго цара Стефана – Law of the pious Emperor Stefan) is a compilation of several legal systems that was enacted by Stefan Uroš IV Dušan of Serbia in 1349. It was used in the Serbian Empire and the succeeding Serbian Despotate. It is considered an early constitution, or close to it; an advanced set of laws which regulated all aspects of life.

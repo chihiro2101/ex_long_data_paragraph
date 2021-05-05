@@ -1,0 +1,1291 @@
+Wikipedia:WikiProject Philippine LGUs/Provinces data table
+
+CC: Component cities.<br />
+CD: Congressional districts.<br />
+PR: Population Rank.<br />
+AR: Area Rank.<br />
+DR: Density Rank.<br />
+<table border="1" style="border-collapse: collapse;">
+<tr>
+ <th>Province</th>
+ <th>Capital</th>
+ <th>Region</th>
+ <th>Governor</th>
+ <th>HUC</th>
+ <th>CC</th>
+ <th>Mun.</th>
+ <th>Bgys.</th>
+ <th>CD</th>
+ <th>Population</th>
+ <th>PR</th>
+ <th>Area</th>
+ <th>AR</th>
+ <th>Density</th>
+ <th>DR</th></tr>
+<tr>
+ <td>Abra</td>
+ <td>Bangued</td>
+ <td>CAR</td>
+ <td>Vicente P. Valera</td>
+ <td>-</td>
+ <td>-</td>
+ <td>27</td>
+ <td>303</td>
+ <td>1</td>
+ <td>209,491</td>
+ <td>68</td>
+ <td>3,975.6</td>
+ <td>31</td>
+ <td>53</td>
+ <td>76</td></tr>
+<tr>
+ <td>Agusan del Norte</td>
+ <td>Butuan City</td>
+ <td>XIII</td>
+ <td>Ma. Angelica Rosedell M. Amante</td>
+ <td>-</td>
+ <td>1</td>
+ <td>11</td>
+ <td>250</td>
+ <td>2</td>
+ <td>552,849</td>
+ <td>47</td>
+ <td>2,590.0</td>
+ <td>52</td>
+ <td>213</td>
+ <td>39</td></tr>
+<tr>
+ <td>Agusan del Sur</td>
+ <td>Prosperidad</td>
+ <td>XIII</td>
+ <td>Adolph Edward G. Plaza</td>
+ <td>-</td>
+ <td>-</td>
+ <td>14</td>
+ <td>314</td>
+ <td>1</td>
+ <td>559,294</td>
+ <td>45</td>
+ <td>8,966.0</td>
+ <td>4</td>
+ <td>62</td>
+ <td>73</td></tr>
+<tr>
+ <td>Aklan</td>
+ <td>Kalibo</td>
+ <td>VI</td>
+ <td>Florencio T. Miraflores</td>
+ <td>-</td>
+ <td>-</td>
+ <td>17</td>
+ <td>327</td>
+ <td>1</td>
+ <td>451,314</td>
+ <td>56</td>
+ <td>1,817.9</td>
+ <td>62</td>
+ <td>248</td>
+ <td>29</td></tr>
+<tr>
+ <td>Albay</td>
+ <td>Legazpi City</td>
+ <td>V</td>
+ <td>Al Francis D. Bichara</td>
+ <td>-</td>
+ <td>3</td>
+ <td>15</td>
+ <td>720</td>
+ <td>3</td>
+ <td>1,090,907</td>
+ <td>22</td>
+ <td>2,552.6</td>
+ <td>54</td>
+ <td>427</td>
+ <td>10</td></tr>
+<tr>
+ <td>Antique</td>
+ <td>San Jose</td>
+ <td>VI</td>
+ <td>Salvacion Z. Perez</td>
+ <td>-</td>
+ <td>-</td>
+ <td>18</td>
+ <td>590</td>
+ <td>1</td>
+ <td>471,088</td>
+ <td>54</td>
+ <td>2,522.0</td>
+ <td>55</td>
+ <td>187</td>
+ <td>46</td></tr>
+<tr>
+ <td>Apayao</td>
+ <td>Kabugao</td>
+ <td>CAR</td>
+ <td>Elias K. Bulut Sr.</td>
+ <td>-</td>
+ <td>-</td>
+ <td>7</td>
+ <td>133</td>
+ <td>1</td>
+ <td>97,129</td>
+ <td>76</td>
+ <td>3,927.9</td>
+ <td>32</td>
+ <td>25</td>
+ <td>79</td></tr>
+<tr>
+ <td>Aurora</td>
+ <td>Baler</td>
+ <td>III</td>
+ <td>Ramoncita P. Ong</td>
+ <td>-</td>
+ <td>-</td>
+ <td>8</td>
+ <td>151</td>
+ <td>1</td>
+ <td>173,797</td>
+ <td>70</td>
+ <td>3,239.5</td>
+ <td>40</td>
+ <td>54</td>
+ <td>75</td></tr>
+<tr>
+ <td>Basilan</td>
+ <td>Isabela City</td>
+ <td>ARMM</td>
+ <td>Ustadz Abdulwahab M. Akbar </td>
+ <td>-</td>
+ <td>-</td>
+ <td>6</td>
+ <td>210</td>
+ <td>1</td>
+ <td>259,796</td>
+ <td>64</td>
+ <td>1,234.2</td>
+ <td>72</td>
+ <td>211</td>
+ <td>40</td></tr>
+<tr>
+ <td>Bataan</td>
+ <td>Balanga City</td>
+ <td>III</td>
+ <td>Leonardo B. Roman</td>
+ <td>-</td>
+ <td>1</td>
+ <td>11</td>
+ <td>237</td>
+ <td>2</td>
+ <td>557,659</td>
+ <td>46</td>
+ <td>1,373.0</td>
+ <td>68</td>
+ <td>406</td>
+ <td>12</td></tr>
+<tr>
+ <td>Batanes</td>
+ <td>Basco</td>
+ <td>II</td>
+ <td>Vicente S. Gato</td>
+ <td>-</td>
+ <td>-</td>
+ <td>6</td>
+ <td>29</td>
+ <td>1</td>
+ <td>16,467</td>
+ <td>79</td>
+ <td>209.3</td>
+ <td>79</td>
+ <td>79</td>
+ <td>69</td></tr>
+<tr>
+ <td>Batangas</td>
+ <td>Batangas City</td>
+ <td>IV-A</td>
+ <td>Hermilando I Mandanas</td>
+ <td>-</td>
+ <td>3</td>
+ <td>31</td>
+ <td>1,078</td>
+ <td>4</td>
+ <td>1,905,348</td>
+ <td>9</td>
+ <td>3,165.8</td>
+ <td>41</td>
+ <td>602</td>
+ <td>7</td></tr>
+<tr>
+ <td>Benguet</td>
+ <td>La Trinidad</td>
+ <td>CAR</td>
+ <td>Raul M Molintas</td>
+ <td>1</td>
+ <td>-</td>
+ <td>13</td>
+ <td>269</td>
+ <td>1</td>
+ <td>582,515</td>
+ <td>43</td>
+ <td>2,655.4</td>
+ <td>49</td>
+ <td>219</td>
+ <td>36</td></tr>
+<tr>
+ <td>Biliran</td>
+ <td>Naval</td>
+ <td>VIII</td>
+ <td>Rogelio J. Espina</td>
+ <td>-</td>
+ <td>-</td>
+ <td>8</td>
+ <td>132</td>
+ <td>1</td>
+ <td>140,274</td>
+ <td>75</td>
+ <td>555.5</td>
+ <td>76</td>
+ <td>253</td>
+ <td>26</td></tr>
+<tr>
+ <td>Bohol</td>
+ <td>Tagbilaran City</td>
+ <td>VII</td>
+ <td>Erico Aumentado</td>
+ <td>-</td>
+ <td>1</td>
+ <td>47</td>
+ <td>1,109</td>
+ <td>3</td>
+ <td>1,137,268</td>
+ <td>18</td>
+ <td>4,117.3</td>
+ <td>29</td>
+ <td>276</td>
+ <td>25</td></tr>
+<tr>
+ <td>Bukidnon</td>
+ <td>Malaybalay City</td>
+ <td>X</td>
+ <td>Jose Ma. R. Zubiri</td>
+ <td>-</td>
+ <td>2</td>
+ <td>20</td>
+ <td>464</td>
+ <td>3</td>
+ <td>1,060,265</td>
+ <td>24</td>
+ <td>8,293.8</td>
+ <td>6</td>
+ <td>128</td>
+ <td>58</td></tr>
+<tr>
+ <td>Bulacan</td>
+ <td>Malolos</td>
+ <td>III</td>
+ <td>Josefina M. Dela Cruz</td>
+ <td>-</td>
+ <td>2</td>
+ <td>22</td>
+ <td>569</td>
+ <td>4</td>
+ <td>2,234,088</td>
+ <td>4</td>
+ <td>2,625.0</td>
+ <td>51</td>
+ <td>851</td>
+ <td>5</td></tr>
+<tr>
+ <td>Cagayan</td>
+ <td>Tuguegarao City</td>
+ <td>II</td>
+ <td>Edgar R. Lara</td>
+ <td>-</td>
+ <td>1</td>
+ <td>28</td>
+ <td>820</td>
+ <td>3</td>
+ <td>993,580</td>
+ <td>25</td>
+ <td>9,002.7</td>
+ <td>3</td>
+ <td>110</td>
+ <td>64</td></tr>
+<tr>
+ <td>Camarines Norte</td>
+ <td>Daet</td>
+ <td>V</td>
+ <td>Jesus Typoco Jr.</td>
+ <td>-</td>
+ <td>-</td>
+ <td>12</td>
+ <td>282</td>
+ <td>1</td>
+ <td>458,840</td>
+ <td>55</td>
+ <td>2,112.5</td>
+ <td>59</td>
+ <td>217</td>
+ <td>37</td></tr>
+<tr>
+ <td>Camarines Sur</td>
+ <td>Pili</td>
+ <td>V</td>
+ <td>Luis R. Villafuerte</td>
+ <td>-</td>
+ <td>2</td>
+ <td>35</td>
+ <td>1,063</td>
+ <td>4</td>
+ <td>1,551,549</td>
+ <td>15</td>
+ <td>5,266.8</td>
+ <td>17</td>
+ <td>295</td>
+ <td>22</td></tr>
+<tr>
+ <td>Camiguin</td>
+ <td>Mambajao</td>
+ <td>X</td>
+ <td>Pedro P. Romualdo</td>
+ <td>-</td>
+ <td>-</td>
+ <td>5</td>
+ <td>58</td>
+ <td>1</td>
+ <td>74,232</td>
+ <td>78</td>
+ <td>229.8</td>
+ <td>78</td>
+ <td>323</td>
+ <td>16</td></tr>
+<tr>
+ <td>Capiz</td>
+ <td>Roxas City</td>
+ <td>VI</td>
+ <td>Vicente B Bermejo</td>
+ <td>-</td>
+ <td>1</td>
+ <td>16</td>
+ <td>473</td>
+ <td>2</td>
+ <td>654,156</td>
+ <td>36</td>
+ <td>2,633.2</td>
+ <td>50</td>
+ <td>248</td>
+ <td>28</td></tr>
+<tr>
+ <td>Catanduanes</td>
+ <td>Virac</td>
+ <td>V</td>
+ <td>Leandro B. Verceles</td>
+ <td>-</td>
+ <td>-</td>
+ <td>11</td>
+ <td>315</td>
+ <td>1</td>
+ <td>215,356</td>
+ <td>67</td>
+ <td>1,511.5</td>
+ <td>66</td>
+ <td>142</td>
+ <td>56</td></tr>
+<tr>
+ <td>Cavite</td>
+ <td>Imus</td>
+ <td>IV-A</td>
+ <td>Erineo S. Maliksi</td>
+ <td>-</td>
+ <td>4</td>
+ <td>19</td>
+ <td>828</td>
+ <td>3</td>
+ <td>2,063,161</td>
+ <td>5</td>
+ <td>1,287.6</td>
+ <td>71</td>
+ <td>1,602</td>
+ <td>1</td></tr>
+<tr>
+ <td>Cebu</td>
+ <td>Cebu City</td>
+ <td>VII</td>
+ <td>Pablo P. Garcia</td>
+ <td>2</td>
+ <td>4</td>
+ <td>47</td>
+ <td>1,203</td>
+ <td>6</td>
+ <td>3,356,137</td>
+ <td>1</td>
+ <td>5,088.4</td>
+ <td>19</td>
+ <td>660</td>
+ <td>6</td></tr>
+<tr>
+ <td>Compostela Valley</td>
+ <td>Nabunturan</td>
+ <td>XI</td>
+ <td>Jose R. Caballero</td>
+ <td>-</td>
+ <td>-</td>
+ <td>11</td>
+ <td>235</td>
+ <td>2</td>
+ <td>580,244</td>
+ <td>44</td>
+ <td>4,667.0</td>
+ <td>24</td>
+ <td>124</td>
+ <td>61</td></tr>
+<tr>
+ <td>Cotabato</td>
+ <td>Kidapawan City</td>
+ <td>XII</td>
+ <td>Emmanuel F. Piñol</td>
+ <td>-</td>
+ <td>1</td>
+ <td>17</td>
+ <td>543</td>
+ <td>2</td>
+ <td>958,643</td>
+ <td>26</td>
+ <td>6,569.9</td>
+ <td>9</td>
+ <td>146</td>
+ <td>54</td></tr>
+<tr>
+ <td>Davao</td>
+ <td>Tagum City</td>
+ <td>XI</td>
+ <td>Rodolfo P. Del Rosario</td>
+ <td>-</td>
+ <td>3</td>
+ <td>7</td>
+ <td>223</td>
+ <td>2</td>
+ <td>743,811</td>
+ <td>32</td>
+ <td>3,463.0</td>
+ <td>38</td>
+ <td>215</td>
+ <td>38</td></tr>
+<tr>
+ <td>Davao del Sur</td>
+ <td>Digos City</td>
+ <td>XI</td>
+ <td>Reynerio E. Llanos</td>
+ <td>1</td>
+ <td>1</td>
+ <td>14</td>
+ <td>517</td>
+ <td>2</td>
+ <td>1,905,917</td>
+ <td>8</td>
+ <td>6,377.6</td>
+ <td>10</td>
+ <td>299</td>
+ <td>20</td></tr>
+<tr>
+ <td>Davao Oriental</td>
+ <td>Mati</td>
+ <td>XI</td>
+ <td>Ma Elena T. Palma-Gil</td>
+ <td>-</td>
+ <td>-</td>
+ <td>11</td>
+ <td>183</td>
+ <td>2</td>
+ <td>446,191</td>
+ <td>57</td>
+ <td>5,164.5</td>
+ <td>18</td>
+ <td>86</td>
+ <td>68</td></tr>
+<tr>
+ <td>Eastern Samar</td>
+ <td>Borongan</td>
+ <td>VIII</td>
+ <td>Clotilde J. Salazar</td>
+ <td>-</td>
+ <td>-</td>
+ <td>23</td>
+ <td>597</td>
+ <td>1</td>
+ <td>375,822</td>
+ <td>60</td>
+ <td>4,339.6</td>
+ <td>28</td>
+ <td>87</td>
+ <td>67</td></tr>
+<tr>
+ <td>Guimaras</td>
+ <td>Jordan</td>
+ <td>VI</td>
+ <td>Joaquin Carlos Rahma A. Nava</td>
+ <td>-</td>
+ <td>-</td>
+ <td>5</td>
+ <td>98</td>
+ <td>1</td>
+ <td>141,450</td>
+ <td>73</td>
+ <td>604.7</td>
+ <td>75</td>
+ <td>234</td>
+ <td>33</td></tr>
+<tr>
+ <td>Ifugao</td>
+ <td>Lagawe</td>
+ <td>CAR</td>
+ <td>Teodoro B. Baguilat</td>
+ <td>-</td>
+ <td>-</td>
+ <td>11</td>
+ <td>175</td>
+ <td>1</td>
+ <td>161,623</td>
+ <td>71</td>
+ <td>2,517.8</td>
+ <td>56</td>
+ <td>64</td>
+ <td>72</td></tr>
+<tr>
+ <td>Ilocos Norte</td>
+ <td>Laoag City</td>
+ <td>I</td>
+ <td>Ferdinand "Bongbong" R. Marcos Jr.</td>
+ <td>-</td>
+ <td>1</td>
+ <td>22</td>
+ <td>557</td>
+ <td>2</td>
+ <td>514,241</td>
+ <td>48</td>
+ <td>3,399.3</td>
+ <td>39</td>
+ <td>151</td>
+ <td>53</td></tr>
+<tr>
+ <td>Ilocos Sur</td>
+ <td>Vigan City</td>
+ <td>I</td>
+ <td>Deogracias Victor B. Savellano</td>
+ <td>-</td>
+ <td>2</td>
+ <td>32</td>
+ <td>768</td>
+ <td>2</td>
+ <td>594,206</td>
+ <td>41</td>
+ <td>2,579.6</td>
+ <td>53</td>
+ <td>230</td>
+ <td>34</td></tr>
+<tr>
+ <td>Iloilo</td>
+ <td>Iloilo City</td>
+ <td>VI</td>
+ <td>Niel D. Tupas</td>
+ <td>1</td>
+ <td>1</td>
+ <td>42</td>
+ <td>1,901</td>
+ <td>5</td>
+ <td>1,925,002</td>
+ <td>7</td>
+ <td>4,719.4</td>
+ <td>22</td>
+ <td>408</td>
+ <td>11</td></tr>
+<tr>
+ <td>Isabela</td>
+ <td>Ilagan</td>
+ <td>II</td>
+ <td>Faustino S. Dy Jr.</td>
+ <td>-</td>
+ <td>2</td>
+ <td>35</td>
+ <td>1,055</td>
+ <td>4</td>
+ <td>1,287,575</td>
+ <td>17</td>
+ <td>10,664.6</td>
+ <td>2</td>
+ <td>121</td>
+ <td>62</td></tr>
+<tr>
+ <td>Kalinga</td>
+ <td>Tabuk</td>
+ <td>CAR</td>
+ <td>Macario A Duguiang</td>
+ <td>-</td>
+ <td>-</td>
+ <td>8</td>
+ <td>152</td>
+ <td>1</td>
+ <td>174,023</td>
+ <td>69</td>
+ <td>3,119.7</td>
+ <td>42</td>
+ <td>56</td>
+ <td>74</td></tr>
+<tr>
+ <td>La Union</td>
+ <td>San Fernando City</td>
+ <td>I</td>
+ <td>Victor C. Ortega</td>
+ <td>-</td>
+ <td>1</td>
+ <td>19</td>
+ <td>576</td>
+ <td>2</td>
+ <td>657,945</td>
+ <td>35</td>
+ <td>1,493.1</td>
+ <td>67</td>
+ <td>441</td>
+ <td>9</td></tr>
+<tr>
+ <td>Laguna</td>
+ <td>Santa Cruz</td>
+ <td>IV-A</td>
+ <td>Teresita S. Lazaro</td>
+ <td>-</td>
+ <td>2</td>
+ <td>28</td>
+ <td>674</td>
+ <td>4</td>
+ <td>1,965,872</td>
+ <td>6</td>
+ <td>1,759.7</td>
+ <td>63</td>
+ <td>1,117</td>
+ <td>3</td></tr>
+<tr>
+ <td>Lanao del Norte</td>
+ <td>Tubod</td>
+ <td>X</td>
+ <td>Imelda Q. Dimaporo</td>
+ <td>1</td>
+ <td>-</td>
+ <td>22</td>
+ <td>506</td>
+ <td>2</td>
+ <td>758,123</td>
+ <td>30</td>
+ <td>3,092.0</td>
+ <td>43</td>
+ <td>245</td>
+ <td>31</td></tr>
+<tr>
+ <td>Lanao del Sur</td>
+ <td>Marawi City</td>
+ <td>ARMM</td>
+ <td>Mamintal Adiong</td>
+ <td>-</td>
+ <td>1</td>
+ <td>38</td>
+ <td>1,155</td>
+ <td>2</td>
+ <td>800,162</td>
+ <td>29</td>
+ <td>3,872.9</td>
+ <td>34</td>
+ <td>207</td>
+ <td>43</td></tr>
+<tr>
+ <td>Leyte</td>
+ <td>Tacloban City</td>
+ <td>VIII</td>
+ <td>Remedios L. Petilla</td>
+ <td>-</td>
+ <td>2</td>
+ <td>41</td>
+ <td>1,641</td>
+ <td>5</td>
+ <td>1,592,336</td>
+ <td>14</td>
+ <td>5,712.8</td>
+ <td>12</td>
+ <td>279</td>
+ <td>24</td></tr>
+<tr>
+ <td>Maguindanao</td>
+ <td>Shariff Aguak</td>
+ <td>ARMM</td>
+ <td>Datu Andal S. Ampatuan</td>
+ <td>-</td>
+ <td>-</td>
+ <td>22</td>
+ <td>472</td>
+ <td>2</td>
+ <td>801,102</td>
+ <td>28</td>
+ <td>4,900.1</td>
+ <td>21</td>
+ <td>163</td>
+ <td>50</td></tr>
+<tr>
+ <td>Marinduque</td>
+ <td>Boac</td>
+ <td>IV-B</td>
+ <td>Carmencita O. Reyes</td>
+ <td>-</td>
+ <td>-</td>
+ <td>6</td>
+ <td>218</td>
+ <td>1</td>
+ <td>217,392</td>
+ <td>66</td>
+ <td>959.3</td>
+ <td>74</td>
+ <td>227</td>
+ <td>35</td></tr>
+<tr>
+ <td>Masbate</td>
+ <td>Masbate City</td>
+ <td>V</td>
+ <td>Antoni T. Kho</td>
+ <td>-</td>
+ <td>1</td>
+ <td>20</td>
+ <td>550</td>
+ <td>3</td>
+ <td>707,668</td>
+ <td>33</td>
+ <td>4,047.7</td>
+ <td>30</td>
+ <td>175</td>
+ <td>48</td></tr>
+<tr>
+ <td>Misamis Occidental</td>
+ <td>Oroquieta City</td>
+ <td>X</td>
+ <td>Loreto S. Ocampos</td>
+ <td>-</td>
+ <td>3</td>
+ <td>14</td>
+ <td>490</td>
+ <td>2</td>
+ <td>486,723</td>
+ <td>52</td>
+ <td>1,939.3</td>
+ <td>61</td>
+ <td>251</td>
+ <td>27</td></tr>
+<tr>
+ <td>Misamis Oriental</td>
+ <td>Cagayan de Oro City</td>
+ <td>X</td>
+ <td>Antonio P. Calingin</td>
+ <td>1</td>
+ <td>1</td>
+ <td>24</td>
+ <td>502</td>
+ <td>2</td>
+ <td>1,126,215</td>
+ <td>19</td>
+ <td>3,570.0</td>
+ <td>36</td>
+ <td>315</td>
+ <td>17</td></tr>
+<tr>
+ <td>Mountain Province</td>
+ <td>Bontoc</td>
+ <td>CAR</td>
+ <td>Sario M. Malinias</td>
+ <td>-</td>
+ <td>-</td>
+ <td>10</td>
+ <td>144</td>
+ <td>1</td>
+ <td>140,439</td>
+ <td>74</td>
+ <td>2,097.3</td>
+ <td>60</td>
+ <td>67</td>
+ <td>70</td></tr>
+<tr>
+ <td>Negros Occidental</td>
+ <td>Bacolod City</td>
+ <td>VI</td>
+ <td>Joseph G. Maranon</td>
+ <td>1</td>
+ <td>12</td>
+ <td>19</td>
+ <td>661</td>
+ <td>6</td>
+ <td>2,565,723</td>
+ <td>2</td>
+ <td>7,926.1</td>
+ <td>7</td>
+ <td>324</td>
+ <td>15</td></tr>
+<tr>
+ <td>Negros Oriental</td>
+ <td>Dumaguete City</td>
+ <td>VII</td>
+ <td>George P. Arnaiz</td>
+ <td>-</td>
+ <td>5</td>
+ <td>20</td>
+ <td>557</td>
+ <td>3</td>
+ <td>1,126,061</td>
+ <td>20</td>
+ <td>5,402.3</td>
+ <td>14</td>
+ <td>208</td>
+ <td>41</td></tr>
+<tr>
+ <td>Northern Samar</td>
+ <td>Catarman</td>
+ <td>VIII</td>
+ <td>Raul A. Daza</td>
+ <td>-</td>
+ <td></td>
+ <td>24</td>
+ <td>569</td>
+ <td>2</td>
+ <td>500,639</td>
+ <td>50</td>
+ <td>3,498.0</td>
+ <td>37</td>
+ <td>143</td>
+ <td>55</td></tr>
+<tr>
+ <td>Nueva Ecija</td>
+ <td>Palayan City</td>
+ <td>III</td>
+ <td>Tomas N. Joson III</td>
+ <td>-</td>
+ <td>5</td>
+ <td>27</td>
+ <td>849</td>
+ <td>4</td>
+ <td>1,659,883</td>
+ <td>13</td>
+ <td>5,284.3</td>
+ <td>16</td>
+ <td>314</td>
+ <td>18</td></tr>
+<tr>
+ <td>Nueva Vizcaya</td>
+ <td>Bayombong</td>
+ <td>II</td>
+ <td>Rodolfo Q. Agbayani</td>
+ <td>-</td>
+ <td>-</td>
+ <td>15</td>
+ <td>275</td>
+ <td>1</td>
+ <td>366,962</td>
+ <td>61</td>
+ <td>3,903.9</td>
+ <td>33</td>
+ <td>94</td>
+ <td>66</td></tr>
+<tr>
+ <td>Occidental Mindoro</td>
+ <td>Mamburao</td>
+ <td>IV-B</td>
+ <td>Jose T. Villarosa</td>
+ <td>-</td>
+ <td>-</td>
+ <td>11</td>
+ <td>162</td>
+ <td>1</td>
+ <td>380,250</td>
+ <td>59</td>
+ <td>5,879.9</td>
+ <td>11</td>
+ <td>65</td>
+ <td>71</td></tr>
+<tr>
+ <td>Oriental Mindoro</td>
+ <td>Calapan City</td>
+ <td>IV-B</td>
+ <td>Bartolome L. Marasigan</td>
+ <td>-</td>
+ <td>1</td>
+ <td>14</td>
+ <td>426</td>
+ <td>2</td>
+ <td>681,818</td>
+ <td>34</td>
+ <td>4,364.7</td>
+ <td>27</td>
+ <td>156</td>
+ <td>52</td></tr>
+<tr>
+ <td>Palawan</td>
+ <td>Puerto Princesa City</td>
+ <td>IV-B</td>
+ <td>Mario Joel T. Reyes</td>
+ <td>-</td>
+ <td>1</td>
+ <td>23</td>
+ <td>432</td>
+ <td>2</td>
+ <td>755,412</td>
+ <td>31</td>
+ <td>14,896.3</td>
+ <td>1</td>
+ <td>51</td>
+ <td>77</td></tr>
+<tr>
+ <td>Pampanga</td>
+ <td>San Fernando City</td>
+ <td>III</td>
+ <td>Manuel M. Lapid</td>
+ <td>-</td>
+ <td>2</td>
+ <td>20</td>
+ <td>537</td>
+ <td>4</td>
+ <td>1,882,730</td>
+ <td>10</td>
+ <td>2,180.7</td>
+ <td>57</td>
+ <td>863</td>
+ <td>4</td></tr>
+<tr>
+ <td>Pangasinan</td>
+ <td>Lingayen</td>
+ <td>I</td>
+ <td>Victor Aguedo E. Agbayani</td>
+ <td>-</td>
+ <td>4</td>
+ <td>44</td>
+ <td>1,364</td>
+ <td>6</td>
+ <td>2,434,086</td>
+ <td>3</td>
+ <td>5,368.2</td>
+ <td>15</td>
+ <td>453</td>
+ <td>8</td></tr>
+<tr>
+ <td>Quezon</td>
+ <td>Lucena City</td>
+ <td>IV-A</td>
+ <td>Wilfrido L. Enverga</td>
+ <td>1</td>
+ <td>-</td>
+ <td>40</td>
+ <td>1,242</td>
+ <td>4</td>
+ <td>1,679,030</td>
+ <td>12</td>
+ <td>8,706.6</td>
+ <td>5</td>
+ <td>193</td>
+ <td>45</td></tr>
+<tr>
+ <td>Quirino</td>
+ <td>Cabarroguis</td>
+ <td>II</td>
+ <td>Pedro L. Bacani</td>
+ <td>-</td>
+ <td>-</td>
+ <td>6</td>
+ <td>132</td>
+ <td>1</td>
+ <td>148,575</td>
+ <td>72</td>
+ <td>3,057.2</td>
+ <td>45</td>
+ <td>49</td>
+ <td>78</td></tr>
+<tr>
+ <td>Rizal</td>
+ <td>Antipolo City</td>
+ <td>IV-A</td>
+ <td>Rebecca A. Ynares</td>
+ <td>-</td>
+ <td>1</td>
+ <td>13</td>
+ <td>187</td>
+ <td>2</td>
+ <td>1,707,218</td>
+ <td>11</td>
+ <td>1,308.9</td>
+ <td>70</td>
+ <td>1,304</td>
+ <td>2</td></tr>
+<tr>
+ <td>Romblon</td>
+ <td>Romblon</td>
+ <td>IV-B</td>
+ <td>Eleandro Jesus F. Madrona</td>
+ <td>-</td>
+ <td>-</td>
+ <td>17</td>
+ <td>219</td>
+ <td>1</td>
+ <td>264,357</td>
+ <td>64</td>
+ <td>1,355.9</td>
+ <td>69</td>
+ <td>195</td>
+ <td>44</td></tr>
+<tr>
+ <td>Samar</td>
+ <td>Catbalogan</td>
+ <td>VIII</td>
+ <td>Milagrosa T. Tan</td>
+ <td>-</td>
+ <td>1</td>
+ <td>25</td>
+ <td>951</td>
+ <td>2</td>
+ <td>641,124</td>
+ <td>38</td>
+ <td>5,591.0</td>
+ <td>13</td>
+ <td>115</td>
+ <td>63</td></tr>
+<tr>
+ <td>Sarangani</td>
+ <td>Alabel</td>
+ <td>XII</td>
+ <td>Mike Escobar</td>
+ <td>-</td>
+ <td>-</td>
+ <td>7</td>
+ <td>140</td>
+ <td>1</td>
+ <td>410,622</td>
+ <td>58</td>
+ <td>2,980.0</td>
+ <td>47</td>
+ <td>138</td>
+ <td>57</td></tr>
+<tr>
+ <td>Siquijor</td>
+ <td>Siquijor</td>
+ <td>VII</td>
+ <td>Orlando Fua Sr.</td>
+ <td>-</td>
+ <td>-</td>
+ <td>6</td>
+ <td>134</td>
+ <td>1</td>
+ <td>81,598</td>
+ <td>77</td>
+ <td>343.5</td>
+ <td>77</td>
+ <td>238</td>
+ <td>32</td></tr>
+<tr>
+ <td>Sorsogon</td>
+ <td>Sorsogon City</td>
+ <td>V</td>
+ <td>Raul R. Lee</td>
+ <td>-</td>
+ <td>1</td>
+ <td>14</td>
+ <td>541</td>
+ <td>2</td>
+ <td>650,535</td>
+ <td>37</td>
+ <td>2,141.4</td>
+ <td>58</td>
+ <td>304</td>
+ <td>19</td></tr>
+<tr>
+ <td>South Cotabato</td>
+ <td>Koronadal City</td>
+ <td>XII</td>
+ <td>Daisy P. Fuentes</td>
+ <td>-</td>
+ <td>2</td>
+ <td>10</td>
+ <td>224</td>
+ <td>2</td>
+ <td>1,102,550</td>
+ <td>21</td>
+ <td>4,489.0</td>
+ <td>26</td>
+ <td>246</td>
+ <td>30</td></tr>
+<tr>
+ <td>Southern Leyte</td>
+ <td>Maasin City</td>
+ <td>VIII</td>
+ <td>Rosette Y. Lerias</td>
+ <td>-</td>
+ <td>1</td>
+ <td>18</td>
+ <td>500</td>
+ <td>1</td>
+ <td>360,160</td>
+ <td>62</td>
+ <td>1,734.8</td>
+ <td>64</td>
+ <td>208</td>
+ <td>42</td></tr>
+<tr>
+ <td>Sultan Kudarat</td>
+ <td>Isulan</td>
+ <td>XII</td>
+ <td>Datu Pax S. Mangudadato</td>
+ <td>-</td>
+ <td>1</td>
+ <td>11</td>
+ <td>248</td>
+ <td>1</td>
+ <td>586,505</td>
+ <td>42</td>
+ <td>4,714.8</td>
+ <td>23</td>
+ <td>124</td>
+ <td>59</td></tr>
+<tr>
+ <td>Sulu</td>
+ <td>Jolo</td>
+ <td>ARMM</td>
+ <td>Jikiri H. Yusof</td>
+ <td>-</td>
+ <td>-</td>
+ <td>18</td>
+ <td>410</td>
+ <td>2</td>
+ <td>619,668</td>
+ <td>40</td>
+ <td>1,600.4</td>
+ <td>65</td>
+ <td>387</td>
+ <td>13</td></tr>
+<tr>
+ <td>Surigao del Norte</td>
+ <td>Surigao City</td>
+ <td>XIII</td>
+ <td>Robert Lyndon S. Barbers</td>
+ <td>-</td>
+ <td>1</td>
+ <td>27</td>
+ <td>435</td>
+ <td>2</td>
+ <td>481,416</td>
+ <td>53</td>
+ <td>2,739.0</td>
+ <td>48</td>
+ <td>176</td>
+ <td>47</td></tr>
+<tr>
+ <td>Surigao del Sur</td>
+ <td>Tandag</td>
+ <td>XIII</td>
+ <td>Vicente T. Pimentel</td>
+ <td>-</td>
+ <td>1</td>
+ <td>18</td>
+ <td>309</td>
+ <td>2</td>
+ <td>501,808</td>
+ <td>49</td>
+ <td>4,552.2</td>
+ <td>25</td>
+ <td>110</td>
+ <td>65</td></tr>
+<tr>
+ <td>Tarlac</td>
+ <td>Tarlac City</td>
+ <td>III</td>
+ <td>Jose V. Yap</td>
+ <td>-</td>
+ <td>1</td>
+ <td>17</td>
+ <td>510</td>
+ <td>3</td>
+ <td>1,068,783</td>
+ <td>23</td>
+ <td>3,053.4</td>
+ <td>46</td>
+ <td>350</td>
+ <td>14</td></tr>
+<tr>
+ <td>Tawi-Tawi</td>
+ <td>Panglima Sugala</td>
+ <td>ARMM</td>
+ <td>Rashidin H. Matba</td>
+ <td>-</td>
+ <td>-</td>
+ <td>10</td>
+ <td>203</td>
+ <td>1</td>
+ <td>322,317</td>
+ <td>63</td>
+ <td>1,087.4</td>
+ <td>73</td>
+ <td>296</td>
+ <td>21</td></tr>
+<tr>
+ <td>Zambales</td>
+ <td>Iba</td>
+ <td>III</td>
+ <td>Vicente P. Magsaysay</td>
+ <td>1</td>
+ <td>-</td>
+ <td>13</td>
+ <td>247</td>
+ <td>2</td>
+ <td>627,802</td>
+ <td>39</td>
+ <td>3,714.4</td>
+ <td>35</td>
+ <td>169</td>
+ <td>49</td></tr>
+<tr>
+ <td>Zamboanga del Norte</td>
+ <td>Dipolog City</td>
+ <td>IX</td>
+ <td>Isagani S. Amatong</td>
+ <td>-</td>
+ <td>2</td>
+ <td>25</td>
+ <td>691</td>
+ <td>3</td>
+ <td>823,130</td>
+ <td>27</td>
+ <td>6,618.0</td>
+ <td>8</td>
+ <td>124</td>
+ <td>60</td></tr>
+<tr>
+ <td>Zamboanga del Sur</td>
+ <td>Pagadian City</td>
+ <td>IX</td>
+ <td>Aurora E. Cerilles</td>
+ <td>1</td>
+ <td>1</td>
+ <td>26</td>
+ <td>779</td>
+ <td>2</td>
+ <td>1,437,941</td>
+ <td>16</td>
+ <td>4,964.1</td>
+ <td>20</td>
+ <td>290</td>
+ <td>23</td></tr>
+<tr>
+ <td>Zamboanga Sibugay</td>
+ <td>Ipil</td>
+ <td>IX</td>
+ <td>George T. Hofer</td>
+ <td>-</td>
+ <td>-</td>
+ <td>16</td>
+ <td>388</td>
+ <td>1</td>
+ <td>497,239</td>
+ <td>51</td>
+ <td>3,087.9</td>
+ <td>44</td>
+ <td>161</td>
+ <td>51</td></tr>
+</table>
+
+HUC: Highly-urbanized cities.<br />

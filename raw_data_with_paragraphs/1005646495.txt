@@ -1,0 +1,106 @@
+Tradesman
+
+==History==
+In Victorian England:
+:The terms "skilled worker," "craftsman," "artisan," and "tradesman" were used in senses that overlap. All describe people with specialized training in the skills needed for a particular kind of work. Some of them produced goods that they sold from their own premises (e.g. bootmakers, saddlers, hatmakers, jewelers, glassblowers); others (e.g. typesetters, bookbinders, wheelwrights) were employed to do one part of the production in a business that required a variety of skilled workers. Still others were factory hands who had become experts in some complex part of the process and could command high wages and steady employment. Skilled workers in the building trades (e.g. carpenters, masons, Plumber, painters, plasterers, glaziers) were also referred to by one or another of these terms.<ref>Sally Mitchell, Daily Life in Victorian England (Greenwood: 1996), p. 60.</ref>
+One study of Caversham, New Zealand at the turn of the century notes that a skilled trade was considered a trade that required an apprenticeship to entry.<ref name="Olssen">Erik Olssen, Building the New World: Work, Politics, and Society in Caversham, 1880s-1920s (Auckland University Press, 1995), pp. 47-49.</ref> Skilled tradesmen worked either in traditional handicraft workshops or newer factories that emerged during the Industrial Revolution.<ref name="Olssen"/> Traditional handicraft roles included, for example: "sail-maker, candle-maker, cooper, japanner, lapidary and taxidermist, canister-maker, furrier, cap-maker, dobbin-maker, French polish, baker, miller, brewer, confectioner, watch-maker, tinsmith, glazier, maltster, wood-turner, saddler, shipwright, scale-maker, engraver and cutler."<ref name="Olssen"/>
+==Modern use and list of skilled trades==
+Tradesmen are contrasted with unskilled workers, Agriculture workers, and professionals (those in the learned professions).<ref>Whitney, William D., ed. "Trade." Def, 7. The Century Dictionary: An Encyclopedic Lexicon of the English Language vol. 8. New York. The Century Co. 1895. 6,415.</ref> Skilled tradesmen are distinguished:
+* from unskilled workers such as bus drivers, truck drivers, and landscapers in that the unskilled workers "rely heavily on physical exertion" while those in the skilled trades rely on "specific knowledge, skills, and abilities."<ref name="CampbellRamos">Wanda J. Campbell & Robert A. Ramos, "Blue-collar Selection in Private Sector Organizations" in Handbook of Employee Selection (eds. James L. Farr, Nancy T. Tippins: Taylor & Francis 2010), p. 741.</ref> Both types of work, however, are considered blue-collar.<ref name="CampbellRamos"/> 
+* from Professional in that the professionals require more education and have a higher duty of care<ref>Robert D. Sprauge, "Liability for System and Data Quality" in Social, Ethical and Policy Implications of Information Technology (eds. Linda L. Brennan & Victoria Elizabeth Johnson: Idea Group: 2004), p. 194)</ref> and routinely make decisions "on the basis of expertise and ability in complex situations where there may be no, or little, previous history."<ref>Christopher Lawless, Forensic Science: A Sociological Introduction (Routledge, 2016), p. 62.</ref>
+There is no definitive list of modern skilled trades, as definitions vary, with some lists being broader than others.<ref name="MichReport"> urltoken Employment and Occupations in the Skilled Trades in Michigan, Michigan Department of Technology, Management, and Budget, Bureau of Labor Market Information and Strategic Initiatives (June 2013).</ref>
+A June 2013 report by the Michigan Department of Technology, Management and Budget, however, generated the following list of trades (divided into industrial, construction, and service skilled trades), along with their Standard Occupational Classification System code:<ref name="MichReport"/>
+* Skilled industrial trades
+** 47‐2011 Boilermakers
+** 47-2061 Laborers <ref> Construction Laborers, Occupational Employment Statistics, U.S. Dept. of Labor, last accessed 1/30/2020. urltoken 
+** 47‐2111 Electricians
+** 47‐2152 Plumbers, pipefitters, and steamfitters
+** 49‐2095 Electrical and electronics repairers, powerhouse, substation, and relay
+** 49‐9041 Industrial machinery mechanics
+** 49‐9043 Maintenance workers, machinery
+** 49‐9044 Millwrights
+** 49‐9069 Precision instrument and equipment repairers, all other
+** 49‐9071 General maintenance and repair workers
+** 49‐9096 Riggers
+** 51‐4012 CNC machine tool programmers
+** 51‐4041 Machinists
+** 51‐4061 Model makers, metal and plastic
+** 51‐4062 Patternmakers, metal and plastic
+** 51‐4111 Tool and die makers
+** 51‐4121 Welders, cutters, solderers, and brazers
+** 51‐4194 Tool grinders, filers, and sharpeners
+** 51‐7011 Cabinetmakers and bench carpenters
+** 51‐7031 Model makers, wood
+** 51‐7032 Patternmakers, wood
+** 51‐8021 Stationary engineers and boiler operators
+** 51‐8031 Water and wastewater treatment plant and system operators
+* Skilled construction trades
+** 47‐2011 Boilermakers
+** 47‐2021 Brickmasons and blockmasons
+** 47‐2031 Carpenters
+** 47‐2044 Tile and marble setters
+** 47‐2051 Cement masons and concrete finishers
+** 47‐2053 Terrazzo workers and finishers
+** 47-2061 Laborers <ref> Construction Laborers, Occupational Employment Statistics, U.S. Dept. of Labor, last accessed 1/30/2020. urltoken 
+** 47‐2073 Operating engineers and other heavy equipment operators
+** 47‐2111 Electricians
+** 47‐2121 Glaziers
+** 47‐2132 Pipe insulation
+** 47‐2141 Painters, construction and maintenance
+** 47‐2151 Pipelayers
+** 47‐2152 Plumbers, pipefitters, and steamfitters
+** 47‐2161 Plasterers and stucco masons
+** 47‐2211 Sheet metal workers
+** 47‐2221 Structural iron and steel workers
+** 47‐4021 Elevator installers and repairers
+** 49‐9021 Heating, ventilation, and air conditioning#HVAC Technician
+** 49‐9096 Riggers
+** 53‐7021 Crane and tower operators
+* Skilled service trades
+** 29‐2021 Dental hygienists
+** 29‐2041 Emergency medical technicians and paramedics
+** 29‐2057 Ophthalmic medical technicians
+** 31‐9091 Dental assistants
+** 31‐9092 Medical assistants
+** 31‐9094 Medical transcriptionists
+** 31‐9097 Phlebotomists
+** 35‐1011 Chefs and head cooks
+** 39‐4031 Morticians, undertakers, and funeral directors
+** 39‐5012 Hairdressers, hairstylists, and cosmetologists
+** 39‐5092 Manicurists and pedicurists
+** 43‐6012 Legal secretary
+** 43‐6013 Medical secretaries
+** 47-2061 Laborers <ref> Construction Laborers, Occupational Employment Statistics, U.S. Dept. of Labor, last accessed 1/30/2020. urltoken 
+** 49‐3021 Panel beater
+** 49‐3023 Auto mechanic
+** 49‐3031 Bus and truck mechanics and diesel engine specialists
+** 49‐3041 Farm equipment mechanics and service technicians
+** 51‐3011 Bakers
+** 51‐6041 Shoe and leather workers and repairers
+** 51‐9071 Jewelers and precious stone and metal workers
+** 51‐9081 Dental laboratory technicians
+** 51‐9082 Medical appliance technicians
+** 53‐2012 Commercial pilots
+==Earnings and social standing==
+A British study found that, after taking student loan repayments into account, a higher apprenticeship (at level 5 in the national qualifications frameworks) delivered higher lifetime median earnings than a degree from a university outside the Russell Group. Despite this, polling for the report found that apprenticeships have a lower perceived value than bachelor's degrees.<ref></ref>
+Data from the United States shows that, although vocational education is usually less financially lucrative in the long term than a bachelor's degree, it can still provide a respectable income at much less cost in time and money. Even ten years after graduation, there are many people with a certificate or associate degree who earn more money than those with a B.A.<ref></ref>
+<ref></ref>
+<ref></ref><ref></ref>
+The average taxable income for the top trades in Australia can be up to $100,000, while the average for all Australians is $85,800.<ref></ref> As of 2020, the fastest growing trades in demand are Fencing, Handyman and Roofing.<ref></ref>
+==See also==
+* Artisan
+* Grey-collar worker
+* Guild
+* Journeyman
+* List of construction trades
+* Master craftsman
+* Renovation
+* Skilled worker
+* Trade union
+* Technician
+* Vocational education
+==References==
+no:Handverker
+
+A tradesman, skilled tradesman, or tradie refers to a skilled worker who specializes in a particular occupation that requires work experience, on-the-job training, and often formal vocational education, but not a bachelor's degree.
+As opposed to a craftsman or an artisan the occupation of a tradesman is not necessarily restricted to manual work.

@@ -1,0 +1,261 @@
+List of presidents of Colombia
+
+==Lists of presidents==
+===Republic of Colombia (1819&ndash;1831)===
+This list includes those persons who were sworn into or forcibly took the office of President of the Gran Colombia following the passing of the Colombian Constitution of 1832, which took effect on .
+The Republic of Colombia of 1821&ndash;1831 is now commonly referred to as the Gran Colombia to differentiate it from the present-day Republic of Colombia. Gran Colombia was the union of the territories that comprised the Viceroyalty of the New Granada under the uti possidetis principle, and it included the political entities that had formed in the New Granada after the initial wars of independence of 1810 against the Kingdom of Spain under King Joseph I; those included the Second Republic of Venezuela, the United Provinces of New Granada, the Presidency of Quito, and the Royal Audiencia of Panama.
+The Office of the Presidency goes back to the Congress of Angostura. This quasi-constituent assembly was formed to lay the ground work for a self-ruled governing administration after independence. The Constituent Assembly was formed by regional leaders that represented areas under rebel control; these areas did not include parts of what is now Colombia, as those areas were still under Spanish control, but aimed to legislate on its behalf. Congress elected an interim-executive officer and vested this figure with the title of President. Chosen to be first President of Colombia, was General Simón Bolívar, leader of the revolutionary forces, who up to that point was titled "Supreme Chief" for his role in the revolution. The following day, Congress elected Francisco Antonio Zea Díaz, first Vice President of Colombia. Bolívar was subsequently re-elected interim President by the Angostura Assembly on 
+== Timeline ==
+<timeline>
+ImageSize = width:1200 height:auto barincrement:10
+PlotArea = top:3 bottom:150 right:150 left:20
+AlignBars = late
+Colors =
+ id:none value:gray(0.8) legend:None_(independent)
+ id:liberal value:rgb(1,0.2,0.2) legend:Liberal
+ id:conservative value:rgb(0.2,0.2,1) legend:Conservative
+ id:national value:rgb(0.89,1,0.17) legend:National
+ id:republicanunion value:rgb(1,0.81,0.69) legend:Republican_Union
+ id:none(military) value:rgb(0.42,0.56,0.14) legend:None_(military)
+ id:colombiafirst value:rgb(0.5,0,0.5) legend:Colombia_First
+ id:nationalunity value:rgb(1,0.55,0) legend:National_Unity
+ id:democraticcenter value:rgb(0.1,0.6,1) legend:Democratic_Center
+ id:gridlinemajor value:gray(0.9)
+ id:gridlineminor value:gray(0.95)
+ id:constitution value:rgb(0.8,0.8,0)
+DateFormat = yyyy
+Period = from:1819 till:2018
+TimeAxis = orientation:horizontal
+ScaleMajor = gridcolor:gridlinemajor unit:year increment:5 start:1819
+ScaleMinor = gridcolor:gridlineminor unit:year increment:1 start:1819
+Legend = columns:4 left:200 top:100 columnwidth:230
+ 
+TextData =
+ pos:(20,100) textcolor:black fontsize:M
+ text:"Political parties:" #
+ pos:(20,170) textcolor:constitution fontsize:S 
+ text:"1821" 
+ pos:(60,170) textcolor:constitution fontsize:S 
+ text:"1830" 
+ pos:(77,180) textcolor:constitution fontsize:S 
+ text:"1832" 
+ pos:(133,170) textcolor:constitution fontsize:S 
+ text:"1843" 
+ pos:(185,170) textcolor:constitution fontsize:S 
+ text:"1853" 
+ pos:(209,180) textcolor:constitution fontsize:S 
+ text:"1858" 
+ pos:(237,170) textcolor:constitution fontsize:S 
+ text:"1863" 
+ pos:(355,170) textcolor:constitution fontsize:S 
+ text:"1886" 
+ pos:(900,170) textcolor:constitution fontsize:S 
+ text:"1991"
+LineData =
+ layer:back
+ at:1821 width:0.1 color:constitution
+ at:1830 width:0.1 color:constitution
+ at:1832 width:0.1 color:constitution
+ at:1843 width:0.1 color:constitution
+ at:1853 width:0.1 color:constitution
+ at:1858 width:0.1 color:constitution
+ at:1863 width:0.1 color:constitution
+ at:1886 width:0.1 color:constitution
+ at:1991 width:0.1 color:constitution
+BarData =
+ bar:SimónBolívaryPalacios
+ bar:JoaquíndeMosquerayArboleda
+ bar:RafaelUrdanetayFaría
+ bar:FranciscodePaulaSantanderyOmaña
+ bar:JoséIgnaciodeMárquezBarreto
+ bar:PedroAlcántaraHerránMartínez
+ bar:TomásCiprianodeMosquerayArboleda
+ bar:JoséHilarioLópezValdéz
+ bar:JoséMaríaObandodelCampo
+ bar:JoséMaríaMeloyOrtiz
+ bar:MarianoOspinaRodríguez
+ bar:BartoloméCalvoDíaz
+ bar:ManuelMurilloToro
+ bar:SantosAcostaCastillo
+ bar:SantosGutiérrezPrieto
+ bar:EustorgioSalgarMoreno
+ bar:SantiagoPérezdeManosalbas
+ bar:AquileoParraGómez
+ bar:JuliánTrujilloLargacha
+ bar:RafaelNúñezMoledo
+ bar:FranciscoJavierZaldúayRacines
+ bar:JoséEusebioOtáloraMartínez
+ bar:MiguelAntonioCaroTobar
+ bar:ManuelAntonioSanclementeSanclemente
+ bar:JoséManuelMarroquínRicaurte
+ bar:RafaelReyesPrieto
+ bar:RamónGonzálezValencia
+ bar:CarlosEugenioRestrepoRestrepo
+ bar:JoséVicenteConchaFerreira
+ bar:MarcoFidelSuárez
+ bar:JorgeHolguínMallarino
+ bar:PedroNelOspinaVázquez
+ bar:MiguelAbadíaMéndez
+ bar:EnriqueOlayaHerrera
+ bar:AlfonsoLópezPumarejo
+ bar:EduardoSantosMontejo
+ bar:MarianoOspinaPérez
+ bar:LaureanoGómezCastro
+ bar:GustavoRojasPinilla
+ bar:MilitaryJunta
+ bar:AlbertoLlerasCamargo
+ bar:GuillermoLeónValenciaMuñoz
+ bar:CarlosLlerasRestrepo
+ bar:MisaelPastranaBorrero
+ bar:AlfonsoLópezMichelsen
+ bar:JulioCésarTurbayAyala
+ bar:BelisarioBetancurCuartas
+ bar:VirgilioBarcoVargas
+ bar:CésarGaviriaTrujillo
+ bar:ErnestoSamperPizano
+ bar:AndrésPastranaArango
+ bar:ÁlvaroUribeVélez
+ bar:JuanManuelSantosCalderón
+ bar:IvánDuqueMárquez
+PlotData=
+ width:5 align:left fontsize:S shift:(5,-4) anchor:till
+ bar:SimónBolívaryPalacios
+ from: 1819 till: 1830 color:none text:"Simón Bolívar y Palacios"
+ bar:JoaquíndeMosquerayArboleda
+ from: 1830 till: 1830 color:none text:"Joaquín de Mosquera y Arboleda"
+ bar:RafaelUrdanetayFaría
+ from: 1830 till: 1831 color:none text:"Rafael Urdaneta y Faría"
+ bar:FranciscodePaulaSantanderyOmaña
+ from: 1832 till: 1837 color:none text:"Francisco de Paula Santander y Omaña"
+ bar:JoséIgnaciodeMárquezBarreto
+ from: 1837 till: 1841 color:none text:"José Ignacio de Márquez Barreto"
+ bar:PedroAlcántaraHerránMartínez
+ from: 1841 till: 1845 color:none text:"Pedro Alcántara Herrán Martínez"
+ bar:TomásCiprianodeMosquerayArboleda
+ from: 1845 till: 1849 color:none
+ from: 1861 till: 1863 color:liberal
+ from: 1863 till: 1864 color:liberal
+ from: 1866 till: 1867 color:liberal text:"Tomás Cipriano de Mosquera y Arboleda"
+ bar:JoséHilarioLópezValdéz
+ from: 1849 till: 1853 color:liberal text:"José Hilario López Valdéz"
+ bar:JoséMaríaObandodelCampo
+ from: 1853 till: 1854 color:liberal text:"José María Obando del Campo"
+ bar:JoséMaríaMeloyOrtiz
+ from: 1854 till: 1854 color:none(military) text:"José María Melo y Ortiz"
+ bar:MarianoOspinaRodríguez
+ from: 1857 till: 1861 color:conservative text:"Mariano Ospina Rodríguez"
+ bar:BartoloméCalvoDíaz
+ from: 1861 till: 1861 color:conservative text:"Bartolomé Calvo Díaz"
+ bar:ManuelMurilloToro
+ from: 1864 till: 1866 color:liberal
+ from: 1872 till: 1874 color:liberal text:"Manuel Murillo Toro"
+ bar:SantosAcostaCastillo
+ from: 1867 till: 1868 color:liberal text:"Santos Acosta Castillo"
+ bar:SantosGutiérrezPrieto
+ from: 1868 till: 1870 color:liberal text:"Santos Gutiérrez Prieto"
+ bar:EustorgioSalgarMoreno
+ from: 1870 till: 1872 color:liberal text:"Eustorgio Salgar Moreno"
+ bar:SantiagoPérezdeManosalbas
+ from: 1874 till: 1876 color:liberal text:"Santiago Pérez de Manosalbas"
+ bar:AquileoParraGómez
+ from: 1876 till: 1878 color:liberal text:"Aquileo Parra Gómez"
+ bar:JuliánTrujilloLargacha
+ from: 1878 till: 1880 color:liberal text:"Julián Trujillo Largacha"
+ bar:RafaelNúñezMoledo
+ from: 1880 till: 1882 color:liberal
+ from: 1884 till: 1886 color:liberal
+ from: 1886 till: 1894 color:national text:"Rafael Núñez Moledo"
+ bar:FranciscoJavierZaldúayRacines
+ from: 1882 till: 1882 color:liberal text:"Francisco Javier Zaldúa y Racines"
+ bar:JoséEusebioOtáloraMartínez
+ from: 1882 till: 1884 color:liberal text:"José Eusebio Otálora Martínez"
+ bar:MiguelAntonioCaroTobar
+ from: 1894 till: 1898 color:national text:"Miguel Antonio Caro Tobar"
+ bar:ManuelAntonioSanclementeSanclemente
+ from: 1898 till: 1900 color:national text:"Manuel Antonio Sanclemente Sanclemente"
+ bar:JoséManuelMarroquínRicaurte
+ from: 1900 till: 1904 color:conservative text:"José Manuel Marroquín Ricaurte"
+ bar:RafaelReyesPrieto
+ from: 1904 till: 1909 color:conservative text:"Rafael Reyes Prieto"
+ bar:RamónGonzálezValencia
+ from: 1909 till: 1910 color:conservative text:"Ramón González Valencia"
+ bar:CarlosEugenioRestrepoRestrepo
+ from: 1910 till: 1914 color:republicanunion text:"Carlos Eugenio Restrepo Restrepo"
+ bar:JoséVicenteConchaFerreira
+ from: 1914 till: 1918 color:conservative text:"José Vicente Concha Ferreira"
+ bar:MarcoFidelSuárez
+ from: 1918 till: 1921 color:conservative text:"Marco Fidel Suárez"
+ bar:JorgeHolguínMallarino
+ from: 1921 till: 1922 color:conservative text:"Jorge Holguín Mallarino"
+ bar:PedroNelOspinaVázquez
+ from: 1922 till: 1926 color:conservative text:"Pedro Nel Ospina Vázquez"
+ bar:MiguelAbadíaMéndez
+ from: 1926 till: 1930 color:conservative text:"Miguel Abadía Méndez"
+ bar:EnriqueOlayaHerrera
+ from: 1930 till: 1934 color:liberal text:"Enrique Olaya Herrera"
+ bar:AlfonsoLópezPumarejo
+ from: 1934 till: 1938 color:liberal
+ from: 1942 till: 1946 color:liberal text:"Alfonso López Pumarejo"
+ bar:EduardoSantosMontejo
+ from: 1938 till: 1942 color:liberal text:"Eduardo Santos Montejo"
+ bar:MarianoOspinaPérez
+ from: 1946 till: 1950 color:conservative text:"Mariano Ospina Pérez"
+ bar:LaureanoGómezCastro
+ from: 1950 till: 1953 color:conservative text:"Laureano Gómez Castro"
+ bar:GustavoRojasPinilla
+ from: 1953 till: 1957 color:none(military) text:"Gustavo Rojas Pinilla"
+ bar:MilitaryJunta
+ from: 1957 till: 1958 color:none(military) text:"Military Junta"
+ bar:AlbertoLlerasCamargo
+ from: 1958 till: 1962 color:liberal text:"Alberto Lleras Camargo"
+ bar:GuillermoLeónValenciaMuñoz
+ from: 1962 till: 1966 color:conservative text:"Guillermo León Valencia Muñoz"
+ bar:CarlosLlerasRestrepo
+ from: 1966 till: 1970 color:liberal text:"Carlos Lleras Restrepo"
+ bar:MisaelPastranaBorrero
+ from: 1970 till: 1974 color:conservative text:"Misael Pastrana Borrero"
+ bar:AlfonsoLópezMichelsen
+ from: 1974 till: 1978 color:liberal text:"Alfonso López Michelsen"
+ bar:JulioCésarTurbayAyala
+ from: 1978 till: 1982 color:liberal text:"Julio César Turbay Ayala"
+ bar:BelisarioBetancurCuartas
+ from: 1982 till: 1986 color:conservative text:"Belisario Betancur Cuartas"
+ bar:VirgilioBarcoVargas
+ from: 1986 till: 1990 color:liberal text:"Virgilio Barco Vargas"
+ bar:CésarGaviriaTrujillo
+ from: 1990 till: 1994 color:liberal text:"César Gaviria Trujillo"
+ bar:ErnestoSamperPizano
+ from: 1994 till: 1998 color:liberal text:"Ernesto Samper Pizano"
+ bar:AndrésPastranaArango
+ from: 1998 till: 2002 color:conservative text:"Andrés Pastrana Arango"
+ bar:ÁlvaroUribeVélez
+ from: 2002 till: 2010 color:colombiafirst text:"Álvaro Uribe Vélez"
+ bar:JuanManuelSantosCalderón
+ from: 2010 till: 2018 color:nationalunity text:"Juan Manuel Santos Calderón"
+ bar:IvánDuqueMárquez
+ from: 2018 till: end color:democraticcenter text:"Iván Duque"
+</timeline>
+==Living former presidents==
+As of , there are five living former presidents:
+<gallery mode=packed heights=200px>
+File:César Gaviria.jpg|<center>César Gaviria Trujillo<br />(1990–1994)<br /><br /></center>
+File:Samper cropped.jpg|<center>Ernesto Samper Pizano<br />(1994–1998)<br /><br /></center>
+File:Andrés_Pastrana_(2009).jpg|<center>Andrés Pastrana Arango<br />(1998–2002)<br /><br /></center>
+File:Álvaro Uribe (cropped).jpg|<center>Álvaro Uribe Vélez<br />(2002–2010)<br /><br /></center>
+File:Juan_Manuel_Santos_in_2018.jpg|<center>Juan Manuel Santos Calderón<br />(2010–2018)<br /><br /></center>
+</gallery>
+The most recent death of a former president was that of Belisario Betancur (1982–1986) on ; he was 95 years old.<ref></ref>
+==See also==
+* List of vice presidents of Colombia
+* List of presidential designates of Colombia
+* List of viceroys of New Granada
+==Notes==
+==References==
+==Further reading==
+* 
+* 
+* 
+* 
+==External links==
+
+The following is a list of presidents of Colombia. Under the Colombian Constitution of 1991, the President of Colombia is the head of state and head of government of the Colombia. As chief of the executive branch and head of the national government as a whole, the presidency is the highest political office in Colombia by influence and recognition. The president is also the commander-in-chief of the Military Forces of Colombia. The president is direct election to a four-year term in a popular election. Since the passing of the Legislative Act 2 of 2004, no person may be elected president more than twice.<ref name="Colombia, Congress of"></ref> Upon the death, resignation, or removal from office of an incumbent President, the Vice President assumes the office. The President must be at least 30 years of age and a "natural born" citizen of Colombia.

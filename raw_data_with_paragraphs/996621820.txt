@@ -1,0 +1,70 @@
+Curry's paradox
+
+==In natural language==
+Claims of the form "if A, then B" are called conditional claims. Curry's paradox uses a particular kind of self-referential conditional sentence, as demonstrated in this example:
+Even though Germany does not border China, the example sentence certainly is a natural-language sentence, and so the truth of that sentence can be analyzed. The paradox follows from this analysis. The analysis consists of two steps.
+# First, common natural-language proof techniques can be used to prove that the example sentence is true. 
+# Second, the truth of the example sentence can be used to prove that Germany borders China. Because Germany does not border China, this suggests that there has been an error in one of the proofs.
+The claim "Germany borders China" could be replaced by any other claim, and the sentence would still be provable. Thus every sentence appears to be provable. Because the proof uses only well-accepted methods of deduction, and because none of these methods appears to be incorrect, this situation is paradoxical.<ref>A parallel example is explained in the Stanford Encyclopedia of Philosophy. See </ref>
+=== Informal proof===
+The standard method for proving conditional sentences (sentences of the form "if A, then B") is called a "conditional proof". In this method, in order to prove "if A, then B", first A is assumed and then with that assumption B is shown to be true.
+To produce Curry's paradox, as described in the two steps above, apply this method to the sentence "if this sentence is true, then Germany borders China". Here A, "this sentence is true", refers to the overall sentence, while B is "Germany borders China". So, assuming A is the same as assuming "If A, then B". Therefore, in assuming A, we have assumed both A and "If A, then B". Therefore B is true, by modus ponens, and we have proven "If this sentence is true, then 'Germany borders China' is true." in the usual way, by assuming the hypothesis and deriving the conclusion.
+Now, because we have proved "If this sentence is true, then 'Germany borders China' is true", then
+we can again apply modus ponens, because we know that the claim "this sentence is true" is correct. In this way, we can deduce that Germany borders China.
+== Formal proof ==
+===Sentential logic===
+The example in the previous section used unformalized, natural-language reasoning. Curry's paradox also occurs in some varieties of formal logic. In this context, it shows that if we assume there is a formal sentence (X → Y), where X itself is equivalent to (X → Y), then we can prove Y with a formal proof. One example of such a formal proof is as follows. For an explanation of the logic notation used in this section, refer to the Logic notation.
+# X := (X → Y)<br>
+# X → X<br>
+# X → (X → Y)<br>
+# X → Y<br>
+# X<br>
+# Y<br>
+An alternative proof is via Peirce's law. If X = X → Y then (X → Y) → X. This together with Peirce's law ((X → Y) → X) → X and modus ponens implies X and subsequently Y (as in above proof).
+Therefore, if Y is an unprovable statement in a formal system, there is no statement X in that system such that X is equivalent to the implication (X → Y). By contrast, the previous section shows that in natural (unformalized) language, for every natural language statement Y there is a natural language statement Z such that Z is equivalent to (Z → Y) in natural language. Namely, Z is "If this sentence is true then Y".
+In specific cases where the classification of Y is already known, few steps are needed to reveal the contradiction. For example, when Y is "Germany borders China," it is known that Y is false.
+# X = (X → Y)<br>
+# X = (X → false)<br>
+# X = (¬X ∨ false)<br>
+# X = ¬X<br>
+=== Naive set theory ===
+Even if the underlying mathematical logic does not admit any self-referential sentences, certain forms of naive set theory are still vulnerable to Curry's paradox. In set theories that allow unrestricted comprehension, we can nevertheless prove any logical statement Y by examining the set
+ </math> can only represent <math>+2</math>. However there is no convenient way to restrict the lambda abstraction to one value or to assure that there is a value.
+Lambda calculus allows recursion by passing the same function that is called as a parameter. This allows situations where <math>f\ x = y </math> has multiple or no solutions for <math>f</math>.
+Lambda calculus may be considered as part of mathematics if only lambda abstractions that represent a single solution to an equation are allowed. Other lambda abstractions are incorrect in mathematics.
+Curry's paradox and other paradoxes arise in Lambda calculus because of the inconsistency of Lambda calculus considered as a deductive system. See also deductive lambda calculus.
+====Domain of lambda calculus terms====
+Lambda calculus is a consistent theory in its own domain. However, it is not consistent to add the lambda abstraction definition to mathematics. Lambda terms describe values from the lambda calculus domain. Each lambda term has a value in that domain.
+When translating expressions from mathematics to lambda calculus, the domain of lambda calculus terms is not always isomorphic to the domain of the mathematical expressions. This lack of isomorphism is the source of the apparent contradictions.
+=== Resolution in unrestricted languages ===
+There are many language constructs that implicitly invoke an equation that may have none or many solutions. The sound resolution to this problem is to syntactically link these expressions to an existentially quantified variable. The variable represents the multiple values in a way that is meaningful in common human reasoning, but is also valid in mathematics.
+For example, a natural language that allows the Eval function is not mathematically consistent. But each call to Eval in that natural language may be translated into mathematics in a way that is consistent. The translation of Eval(s) into mathematics is
+So where s = "Eval(s) → y",
+If y is false, then the x = x → y is false, but this is a falsehood, not a paradox.
+The existence of the variable x was implicit in the natural language. The variable x is created when the natural language is translated into mathematics. This allows us to use natural language, with natural semantics, while maintaining mathematical integrity.
+=== Resolution in formal logic ===
+The argument in formal logic starts with assuming the validity of naming (X → Y) as X. However, this is not a valid starting point. First we must deduce the validity of the naming. The following theorem is easily proved and represents such a naming:
+In the above statement the formula A is named as X. Now attempt to instantiate the formula with (X → Y) for A. However, this is not possible, as the scope of <math> \exists X </math> is inside the scope of <math> \forall A </math>. The order of the quantifiers may be reversed using Skolemization:
+However, now instantiation gives
+which is not the starting point for the proof and does not lead to a contradiction. There are no other instantiations for A that lead to the starting point of the paradox.
+===Resolution in set theory===
+In Zermelo–Fraenkel set theory (ZFC), the Axiom schema of specification is replaced with a group of axioms that allow construction of sets. So Curry's paradox cannot be stated in ZFC. ZFC evolved in response to Russell's paradox.
+==See also==
+* Russell's paradox
+* Girard's paradox
+* Kleene–Rosser paradox
+* Liar paradox
+* List of paradoxes
+* Richard's paradox
+* Zermelo–Fraenkel set theory
+* Fixed-point combinator
+* Deductive lambda calculus
+* Let expression
+==References==
+== External links ==
+*
+*
+* urltoken Penguins Rule the Universe: A Proof that Penguins Rule the Universe, a brief and entertaining discussion of Curry's paradox.
+
+Curry's paradox is a paradox in which an arbitrary claim F is proved from the mere existence of a sentence C that says of itself "If C, then F", requiring only a few apparently innocuous logical deduction rules. Since F is arbitrary, any logic having these rules allows one to prove everything. The paradox may be expressed in natural language and in various logics, including certain forms of set theory, lambda calculus, and combinatory logic.
+The paradox is named after the logician Haskell Curry. It has also been called Löb's paradox after Martin Hugo Löb,<ref></ref> due to its relationship to Löb's theorem.

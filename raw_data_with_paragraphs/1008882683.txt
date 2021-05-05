@@ -1,0 +1,106 @@
+Parking
+
+== Parking facilities ==
+Facilities include indoor and outdoor private property belonging to a house, the side of the road where metered or laid out for such use, a parking lot (North American English) or car park (British English), indoor and outdoor multi-storey car park, shared underground parking facilities and facilities for particular types of vehicle such as dedicated structures for cycle parking.
+In the U.S., after the first public parking garage for motor vehicles was opened in Boston, May 24, 1898, livery stables in urban centers began to be converted into garages.<ref>Shannon Sanders McDonald: The parking garage. Design and evolution of a modern urban form, Washington 2007, p. 7-21</ref> In cities of the Eastern US, many former livery stables, with lifts for carriages, continue to operate as garages today.
+The following terms give regional variations. All except carport refer to outdoor multi-level parking facilities. In some regional dialects, some of these phrases refer also to indoor or single-level facilities.
+* Parking ramp (used in some parts of the upper Midwestern United States, especially Minneapolis, but sometimes seen as far east as Buffalo, New York). Elsewhere, the term "ramp" would apply to the inclines between floors of a parking garage, but not to the entire structure itself.
+* Multi-storey car park
+* Car park (UK, Ireland, Hong Kong, South Africa; usually single-level)
+* Parking structure (Western U.S.)
+* Parking garage (Canada and USA, where this term does not always distinguish between outdoor above-ground multi-level parking and indoor underground parking.)
+* Parking building (New Zealand)
+* Carport (open-air single-level covered parking)
+* Cycle park (UK, Hong Kong)
+* Parkade (Canada, South Africa)
+In addition to basic car parking/parking lots variations of serviced parking types exist. Common serviced parking types are:
+* Park and ride
+* Valet parking
+* Airport Parking
+* Meet and Greet Parking
+* Park and Fly Parking
+* Sharing economy
+Parking spaces may be variously arranged.
+Parking lots specifically for bicycles are becoming more prevalent in many countries. These may include bicycle parking racks and locks, as well as more modern technologies for security and convenience.<ref></ref> For instance, one bicycle parking lot in Tokyo has an automated parking system.<ref></ref>
+== Economics ==
+Urban parking spaces can have a high value where the price of land is high. In Boston in 2009 a single parking space sold for $300,000.<ref></ref> According to Parkopedia's 2019 Global Parking Index, the cost for 2 hours of parking in USD$ for the top 25 cities is as follows:<ref></ref>
+In congested urban areas parking of motor vehicles is time-consuming and often expensive. Urban planners who are in a position to override market forces must consider whether and how to accommodate or "demand manage" potentially large numbers of motor vehicles in small geographic areas. Usually the authorities set minimum, or more rarely maximum, numbers of motor vehicle parking spaces for new housing and commercial developments, and may also plan their location and distribution to influence their convenience and accessibility. The costs or subsidies of such parking accommodations can become a heated point in local politics. For example, in 2006 the San Francisco Board of Supervisors considered a controversial zoning plan to limit the number of motor vehicle parking spaces available in new residential developments.<ref></ref> 
+Tradeable parking allowances have been proposed <ref></ref> for dense residential areas to reduce inequity and increase urban livability. In summary, each resident would receive an annual, fractional allowance for on-street parking. To park on the street, one must assemble a whole parking allowance by purchasing fractional allowances from others who do not own cars.
+In the graph to the right or below the value above the line represents the out-of-pocket cost per trip, per person for each mode of transportation; the value below the line shows subsidies, environmental impact, social and indirect costs. When cities charge market rates for on-street parking and municipal parking garages for motor vehicles, and when bridges and tunnels are tolled for these modes, driving becomes less competitive in terms of out-of-pocket costs compared to other modes of transportation. When municipal motor vehicle parking is underpriced and roads are not tolled, the shortfall in tax expenditures by drivers, through fuel tax and other taxes, might be regarded as a very large subsidy for automobile use: much greater than common subsidies for the maintenance of infrastructure and discounted fares for public transportation.<ref name="Vuchic" />
+s and other markers, usually without approval of municipal authorities.
+For example, during the winter of 2005 in Boston, the practice of some people saving convenient roadway for themselves became controversial. At that time, many Boston districts had an informal convention that if a person shoveled the snow out of a roadspace, that person could claim ownership of that space with a marker.<ref name="snow chairs"></ref> However, city government defied that custom and cleared markers out of spaces.<ref></ref>
+Festivals and sporting events often spawn a cottage industry of parking. Homeowners, schools, and businesses often make extra money by charging a flat-rate fee for all-day parking during the event. In some countries, such "cottage industry parking" has become large-scale business. The UK airport parking industry is currently estimated to be worth 1.3 billion GBP per year.
+According to the International Parking Institute, "parking is a $25 billion industry and plays a pivotal role in transportation, building design, quality of life and environmental issues".<ref></ref>
+ Annual parking revenue in the US alone is $10 billion.<ref></ref>
+Some airports charge more for parking cars than for parking aircraft.<ref></ref>
+Parking control is primarily an issue in densely populated cities in advanced countries, where the great demand for parking spaces makes them expensive and difficult. In urban locations parking control is a developing subject. Parking restrictions may be public or private. Local government, as opposed to central government, is the primary activator in public parking. The emphasis is on restriction of on-street parking facilities; and parking charges and fines are often major income sources for local government in North America and Europe.
+Most colleges and universities in the U.S. charge for parking. Some colleges even have a parking services department that issue daily, weekly and annual parking permits as well as enforce parking ordinances. An example of one such department is at Western Michigan University.
+Typically, communication about the parking status of a roadway takes the form of notices, e.g. fixed to a nearby wall and/or road markings. Part of the requirements for passing the driving test in some countries is to demonstrate understanding of parking signs.
+Motorists parking on-street in big cities often have to pay for the time the vehicle is on the spot. There are fines for overstay. The motorist is often required to display a sticker beneath the windscreen indicating that he has paid for the parking space usage for an allocated time period.
+Private parking control includes both residential and corporate property. Owners of private property use signs indicating that parking facilities are restricted to certain categories of people such as the owners themselves and their guests, or staff members and permitted contractors only.
+It is often necessary not only to communicate parking restrictions, but also to have available a workable deterrent. The deterrent can take physical forms such as vehicle immobilisation exemplified by the wheel clamp, and non-physical forms such as levying parking charges on the registered vehicle owners. Sometimes photography is used to record violations.
+On both public and private land, physical restrictions include: parking bollards, parking poles that swivel from horizontal to vertical, gated entry and exit with time-dependent charges. This is an expanding subject.
+=== Parking price elasticity ===
+The average response in parking demand to a change in price (parking price elasticity) is -0.52 for commuting and -0.62 for non-commuting trips. Non-commuters also respond to parking fees by changing their parking duration if the price is per hour.<ref>Lehner, S.; Peer, S. (2019), The price elasticity of parking: A meta-analysis, Transportation Research Part A: Policy and Practice, Volume 121, March 2019, Pages 177-191" web|url= urltoken 
+=== Performance parking ===
+Donald C. Shoup in 2005 argued in his book, The High Cost of Free Parking, against the large-scale use of land and other resources in urban and suburban areas for motor vehicle parking.<ref name="Shoup"> urltoken The High Cost of Free Parking by Donald C. Shoup</ref> Shoup's work has been popularized along with market-rate parking and performance parking, both of which raise and lower the price of metered street parking with the goal of reducing cruising for parking and double parking without overcharging for parking.
+"Performance parking" or variable-rate parking is based on Dr Shoup's ideas. Electronic parking meters are used so that parking spaces in desirable locations and at desirable times are more expensive than less desirable locations. Other variations include rising rates based on duration of parking. More modern ideas use sensors and networked parking meters that "bid up" (or down) the price of parking automatically with the goal of keeping 85–90% of the spaces in use at any given time to ensure perpetual parking availability. These ideas have been implemented in Redwood City, California<ref></ref> and are being implemented in San Francisco<ref></ref> and Los Angeles.<ref></ref>
+One empirical study supports performance-based pricing by analyzing the block-level price elasticity of parking demand in the SFpark context.<ref></ref> The study suggests that block-level elasticities vary so widely that urban planners and economists cannot accurately predict the response in parking demand to a given change in price. The public policy implication is that planners should utilize observed occupancy rates in order to adjust prices so that target occupancy rates are achieved. Effective implementation will require further experimentation with and assessment of the tâtonnement process.
+==Fringe parking==
+Fringe parking is an area for parking usually located outside the central business district and most often used by suburban residents who work or shop downtown.
+==Statistics==
+Parking Generation is a document produced by the Institute of Transportation Engineers (ITE) that assembles a vast array of parking demand observations predominately from the United States. It summarizes the amount of parking observed with various land uses at different times of the day/week/month/year including the peak parking demand. While it has been assailed by some planners for lack of data in urban settings, it stands as the single largest accumulation of actual parking demand data related to land use. Anyone can submit parking demand data for inclusion. The report is updated approximately every 5 to 10 years.
+==Finding parking==
+Parking guidance and information systems, or PGS, present drivers with dynamic information on parking within controlled areas (like parking garages and parking lots). The systems combine traffic monitoring, communication, processing and variable message sign technologies to provide the service. There are a variety of technologies and approaches, including:
+Mobile apps that help drivers find parking take different approaches, including:
+* AppyParking displays both the cheapest and nearest on and off street parking rules for 14 major cities in the UK including London, as well as seeing live availability of parking bays where available. It also includes daily petrol prices for every petrol station in the UK through an in-app subscription. 
+* ParkWhiz, SpotHero, JustPark, which allows for mobile booking at participating lots, garages and hotels,
+* MonkeyParking, which lets drivers departing a parking space sell that information to drivers looking for parking. This type of app has been outlawed in Boston and San Francisco.<ref></ref>
+* Peer-to-Peer parking aggregators, such as Parqex, RoverParking and SimpleParker, that match private parking space owners with drivers.
+Some connected cars have mobile apps associated with the in-car system, that can locate the car or indicate the last place it was parked. Cars with Internavi communicate to each other indicating recently vacated spots.
+San Francisco uses a system called SFpark, which has sensors embedded in the roadway. It allows drivers to find parking via mobile app, web site, or SMS, and includes "smart" parking meters and garages that use variable pricing based on time and location to keep approximately 15% of parking spaces open.
+Some South Boston spots also have sensors, so users of an app called Parker can find vacancies.<ref></ref>
+Ford Motor Company is developing a system called Parking Spotter, which allows vehicles to upload parking spot information into the cloud for other drivers to access.<ref></ref>
+Parking guidance and information system provides information about the availability of parking spaces within a controlled area. The systems may include vehicle detection sensors that can count the number of available spaces and display the information on various signs. There may be indicator lights that can lead drivers to an exact available spot.
+An amusing alliterative slang term for finding an ideal parking spot directly in front of ones destination is Doris Day parking named for the American singer and actor who in numerous Romantic Comedies was shown to immediately drive into the perfect spot time after time.<ref></ref><ref></ref>
+Statistically, the optimal strategy is to drive past the first empty spot and park in the next available spot.<ref></ref><ref></ref>
+==See also==
+* Alternate side parking
+* Automated parking system
+* Automatic parking
+* Back-in angle parking
+* Bicycle parking
+* Car condo
+* Controlled parking zone
+* Decriminalised parking enforcement
+* Disabled parking permit
+* Disc parking
+* Double parking
+* Franelero
+* Garage parking
+* Lovers' lane
+* Men's parking space
+* Multi-storey car park
+* Omniview technology
+* Overspill parking
+* Parallel parking
+* Park and ride
+* Parking lot
+* Parking meter
+* Parking space
+* Parking chair
+* Parking guidance and information
+* Parking violation
+* Predatory towing
+* Residential zoned parking
+* Shared parking
+* Snow removal
+* Valet parking
+* Women's parking space
+* Zone Bleue
+==References==
+==External links==
+* urltoken International Parking Institute
+* urltoken Etymology of Parking
+
+Parking is the act of stopping and disengaging a vehicle and leaving it unoccupied. Parking on one or both sides of a road is often permitted, though sometimes with restrictions. Some buildings have parking facilities for use of the buildings' users. Countries and local governments have rules<ref>Roads in the Neo-Assyrian_Empire (ca. 700 BC) bore signs stating "Royal Road. Let no man lessen it." The penalty for illegal use was "death by impalement on a stake." </ref> for design and use of parking spaces.

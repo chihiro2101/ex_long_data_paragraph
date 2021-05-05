@@ -1,0 +1,93 @@
+Rat snake
+
+== Species ==
+=== Old World rat snakes ===
+Coelognathus spp.
+* Philippine rat snake, C. erythrurus <small>(A.M.C. Duméril, Bibron & A.H.A. Duméril, 1854)</small>
+* Black copper rat snake or yellow striped snake, C. flavolineatus <small>(Schlegel, 1837)</small>
+* Trinket snake, C. helena <small>(Daudin, 1803)</small>
+* Copperhead rat snake, C. radiatus <small>(F. Boie, 1827)</small>
+* Indonesian rat snake, C. subradiatus <small>(Schlegel, 1837)</small>
+Elaphe spp.
+* Twin-spotted rat snake, Elaphe bimaculata <small>Schmidt, 1925</small>
+* King rat snake, Elaphe carinata <small>(Günther, 1864)</small>
+* Japanese rat snake, E. climacophora <small>(H. Boie, 1826)</small>
+* David's rat snake, E. davidi <small>(Sauvage, 1884)</small>
+* Dione rat snake, E. dione <small>(Pallas, 1773)</small>
+* Japanese four-lined rat snake, E. quadrivirgata <small>(H. Boie, 1826)</small>
+* Four-lined snake, E. quatuorlineata <small>(Lacépède, 1789)</small>
+* Red-backed rat snake, E. rufodorsata <small>(Cantor, 1842)</small>
+* Eastern four-lined snake, E. sauromates <small>(Pallas, 1811)</small>
+* Russian rat snake, E. schrenckii <small>Strauch, 1873</small>
+Euprepiophis spp.
+* Japanese forest rat snake, E. conspicillatus <small>(H. Boie, 1826)</small>
+* Mandarin rat snake, E. mandarinus <small>(Cantor, 1842)</small>
+Gonyosoma spp.
+* Green trinket snake, G. frenatum <small>(Gray, 1853)</small>
+* Celebes black-tailed rat snake, G. jansenii <small>(Bleeker, 1858)</small>
+* Red-tailed green rat snake, G. oxycephalum <small>(F. Boie, 1827)</small>
+Oreocryptophis spp.
+* Mountain rat snake, O. porphyracea <small>(Cantor, 1839)</small>
+Orthriophis spp.
+* Cantor's rat snake, O. cantoris <small>(Boulenger, 1894)</small>
+* Hodgson's rat snake, O. hodgsoni <small>(Günther, 1860)</small>
+* 100 flower rat snake, O. moellendorffi <small>(Boettger, 1886)</small>
+* Beauty snake, O. taeniurus <small>(Cope, 1861)</small>
+Ptyas spp.
+* Keeled rat snake, P. carinata <small>(Günther, 1858)</small>
+* P. dhumnades <small>(Cantor, 1842)</small>
+* Sulawesi black racer, P. dipsas <small>(Schlegel, 1837)</small>
+* White-bellied rat snake, P. fusca <small>(Günther, 1858)</small>
+* Chinese rat snake, P. korros <small>(Schlegel, 1837)</small>
+* P. luzonensis <small>(Günther, 1873)</small>
+* Oriental rat snake, P. mucosa <small>(Linnaeus, 1758)</small>
+* Green rat snake, P. nigromarginata <small>(Blyth, 1854)</small>
+Rhadinophis spp.
+* Green bush snake, R. prasinus <small>(Blyth, 1854)</small>
+Rhynchophis spp.
+* Rhinoceros ratsnake, R. boulengeri <small>Mocquard, 1897</small>
+Zamenis spp.
+* Transcaucasian rat snake, Z. hohenackeri <small>(Strauch, 1873)</small>
+* Italian Aesculapian snake, Z. lineatus <small>(Camerano, 1891)</small>
+* Aesculapian snake, Z. longissimus <small>(Laurenti, 1768)</small>
+* Persian rat snake, Z. persicus <small>(F. Werner, 1913)</small>
+* Leopard snake, Z. situla <small>(Linnaeus, 1758)</small>
+=== New World rat snakes ===
+Bogertophis spp.
+* Baja California rat snake, B. rosaliae <small>(Mocquard, 1899)</small>
+* Trans-Pecos rat snake, B. subocularis <small>(Brown, 1901)</small>
+Pantherophis spp.
+* Eastern rat snake, P. alleghaniensis <small>(Holbrook, 1836)</small>
+* Baird's rat snake, P. bairdi <small>(Yarrow, 1880)</small>
+* Great Plains rat snake, P. emoryi <small>(Baird & Girard, 1853)</small>
+* Eastern fox snake, P. gloydi <small>(Conant, 1940)</small>
+* Corn snake, P. guttatus <small>(Linnaeus, 1766)</small>
+* Black rat snake, P. obsoletus <small>(Say, 1823)</small>
+* Western fox snake, P. ramspotti <small>(Crother, White, Savage, Eckstut, Graham & Gardner, 2011)</small>
+* Gray rat snake, P. spiloides <small>(A.M.C. Duméril, Bibron & A.H.A. Duméril, 1854)</small>
+* Eastern fox snake, P. vulpinus <small>(Baird & Girard, 1853)</small>
+Pseudelaphe spp.
+* Mexican rat snake, P. flavirufa <small>(Cope, 1867)</small>
+Senticolis spp.
+* Green rat snake, S. triaspis <small>(Cope, 1866)</small>
+Spilotes spp.
+* Chicken snake or yellow rat snake, S. pullatus <small>(Linnaeus, 1758)</small>
+Nota bene: In the above species lists, an authority's name in parentheses indicates that the species was originally described in a different genus. An authority's name not in parentheses indicates that the species is still assigned to the original genus in which it was described.
+== Taxonomy ==
+In recent years, some taxonomic controversy has occurred over the genus of North American rat snakes. Based on mitochondrial DNA, Utiger et al. (2002) showed that North American rat snakes of the genus Elaphe, along with closely related genera such as Pituophis and Lampropeltis, form a monophyletic group separate from Old World members of the genus. They therefore suggested the resurrection of the available name Pantherophis Fitzinger for all North American taxa (north of Mexico).<ref></ref><ref name="CNAH"> urltoken Elaphe obsoleta at urltoken The Center for North American Herpetology. Accessed 20 June 2008.</ref> Crother et al. (2008) accepted the taxonomic change to Pantherophis.<ref name="Cro08">Crother BI, et al. (2008) Scientific and Standard English Names of Amphibians and Reptiles of North America North of Mexico: 6th edition. Herp. Rev. 37, pp. 58–59. or see urltoken pp. 64 ff in the 7th edition.</ref>
+== Venom ==
+Rat snakes are not venomous. Rat snakes usually hunt and kill mice by biting with their teeth and suffocate them by constriction of its own body.
+== In captivity ==
+Rat snakes are commonly kept as pets by reptile enthusiasts. The corn snake, one of the most popular pet reptiles, is a rat snake. New World species are generally thought to be more docile in captivity as opposed to Old World rat snakes, of which the opposite is assumed.<ref name="Bart"></ref>
+== Effects of climate change on rat snakes ==
+=== Positive impacts ===
+All snakes are ectotherm species, meaning they depend on the temperature of the environment to maintain homeostasis.<ref></ref> Although it is predicted that the current rate of climate change will be too rapid for many reptiles and amphibian species to adapt or to evolve,<ref></ref> studies have suggested that a warmer climate may actually be beneficial to rat snake species. Global warming also poses less threats to rat snakes in temperate zones than in tropical zones as rat snake species in temperate zones can tolerate broader ranges of temperature.<ref name=":1"></ref> Global climate change will increase both day and night time temperatures. This will make the night time environment more thermally suitable for rat snakes to hunt, thereby making them more active at night.<ref name=":2"></ref> Increasing night time activity allows rat snakes to catch larger prey such as birds, since female birds usually incubate their eggs in the nest at night and have decreased ability to detect rat snakes due to poor visibility conditions. Global warming may also lead to changes in predation. Rat snakes are prey species to predators like hawks. While rat snakes are being hunted during the day, being more active at night due to warmer temperatures may allow rat snakes to be less vulnerable to predation from hawks.<ref name=":2" /> A warming climate also enhances food digestion in rat snakes thereby making them more efficient, which enables rat snake individuals to grow larger in size and allowing them to consume more prey.<ref name=":3"></ref> In comparison to rat snake species at relatively colder regions, rat snake species at lower latitudes tend to be larger in size due to warmer climate conditions. As the global climate warms, the average body size of rat snakes at higher latitudes will become larger, which will allow the species to catch more prey and thus increase their overall reproductive success.<ref></ref>
+=== Negative impacts ===
+Eastern rat snake species in North America are experiencing negative shifts in their Behavior due to Global Warming and increasing temperatures. These shifts differ between the large distribution of rat snakes that range from Ontario to Texas.<ref name=":1" /> The increasing Global Warming can negatively impact this species and can be attributed to population declines in some areas.
+Rat snake populations from their northern range, such as Ontario, are experiencing a shift in hibernation emergence.<ref name=":0"></ref> The populations in these regions typically emerge from hibernation in late April.<ref name=":0" /> However, the increasing variability in temperature may cause rat snakes to emerge on a warm sunny day in the months of February or March.<ref name=":1" /> Climate change has caused winters that can have weather turn back very quickly from sunny periods with high temperatures to snow and below freezing temperatures. The early emergence of these rat snakes will begin to expose them to these fatal conditions if a snake cannot return to its hibernaculum in time.<ref name=":1" /> Therefore, the fluctuations in temperature affect the thermoregulation that rat snakes need for bodily functions like digestion and movement.<ref name=":3" /> The unpredictability of the weather is causing more rat snakes in their northern range to get caught in these cold snaps and freeze to death.<ref name=":0" />
+Increasing temperatures due to climate change have increased the nocturnal activity of rat snakes, especially in warmer climates such as Texas.<ref name=":1" /> This has allowed them to alter their predation habits and feed more on nesting birds and other accessible prey.<ref></ref> However, their increased nocturnal activity puts them at risk to a new range of nocturnal predators. Rat snakes may not be used to the presence of nocturnal predators such as raccoons and owls and may be more vulnerable as prey.<ref></ref> Until rat snakes are able to adapt to their relatively new predators, populations may be at risk due to heavy predation.
+=== Life history alterations in Ontario gray rat snakes ===
+As rat snakes are ectothermic species, they require sunlight and heat to maintain their body temperatures. Across their range in North America each species of rat snake has different ideal body temperatures. In Ontario, the average ideal body temperature of a rat snake is 28.1 degrees Celsius with free ranging gravid females tending to require a bit higher in order to meet their thermoregulatory requirements for gestation.<ref name=":4"></ref> With ambient air temperatures over the course of their entire active season (from May to September) almost never reaching the required 28.1&nbsp;°C, rat snakes in Ontario resort to basking habitats where conditions allow temperatures to rise above normal and up to 43 degrees Celsius at the hottest times of day and year.<ref name=":4" /> These habitats include areas such as rock outcrops, bare ground, or edge habitat where they can bask on tree branches fully exposed to the sun. However, with climate change and an associated increase in ambient air temperature by 3&nbsp;°C, the amount of required time spent by snakes in these habitats will decrease.<ref></ref> This will result in alterations in the amount and time of activity of rat snakes in the province. They will have the potential to be generally more active during both the day and night as it will be easier for them to maintain their ideal body temperature. Habitat choices may also shift with increased temperatures. More time could be spent in areas such as forests or barns where the temperatures are currently too low for the snakes to spend most of their time.<ref name=":4" /> There will be less of a need to expose themselves in their open basking habitats, causing decreases in predator vulnerability as well as increases in thermoregulatory ability and foraging time. In addition, rat snakes in Ontario have a slower growth and maturation rates due to the cooler climate and shorter active seasons compared to other species of rat snakes further South in North America.<ref></ref> This means that Ontario's rat snakes are more vulnerable to population declines. But, with an increase in temperature and an increase in the duration of the active season from climate change, it is possible that the growth and maturation rates of these snakes will increase.<ref></ref>
+
+Rat snakes are members – along with kingsnakes, milk snakes, Oxybelis and indigo snakes – of the subfamily Colubrinae of the family Colubridae. They are medium to large Constriction and are found throughout much of the Northern Hemisphere. They feed primarily on rodents. Many species make attractive and docile pets and one, the corn snake, is one of the most popular reptile pets in the world. As with all snakes, they can be defensive when approached too closely, handled, or restrained, but bites are not serious. Like nearly all colubrids, rat snakes pose no threat to humans. Rat snakes were long believed to be completely nonvenomous, but recent studies have shown that some Old World species do possess small amounts of venom, though the amount is negligible relative to humans.<ref></ref>
+Previously, most rat snakes were assigned to the genus Elaphe, but many have been since renamed following mitochondrial DNA analysis performed in 2002. For the purpose of this article, names will be harmonized with the TIGR Database.

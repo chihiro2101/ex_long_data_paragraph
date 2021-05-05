@@ -1,0 +1,244 @@
+Old World warbler
+
+== Characteristics ==
+Most Old World warblers are of generally undistinguished appearance, though some Asian species are boldly marked. The sexes are often identical, but may be clearly distinct, notably in the genus Sylvia. They are of small to medium size, varying from 9 to 16 centimetres in length, with a small, finely pointed bill. Almost all species are primarily insectivore, although some will also eat fruit, nectar, or tiny seeds.<ref name=EoB></ref>
+The majority of species are monogamous and build simple, cup nest in dense vegetation. They lay between two and six eggs per clutch, depending on species. Both parents typically help in raising the young, which are able to fly at around two weeks of age.<ref name=EoB/>
+== Systematics ==
+In the late 20th century, the Sylviidae were thought to unite nearly 300 small insectivorous bird species in nearly 50 genus. They had themselves been split out of the Muscicapidae. The latter family had for most of its existence served as perhaps the ultimate wastebin taxon on the history of ornithology. By the early 20th century, about every insectivorous Old World "songster" known to science had at one point been placed therein, and most continued to be so.
+Only after the mid-20th century did the dismantling of the "pan-Muscicapidae" begin in earnest. However, the Sylviidae remained a huge family, with few clear patterns of relationships recognisable. Though by no means as diverse as the Timaliidae (Old World babblers) (another "wastebin taxon" containing more thrush-like forms), the frontiers between the former "pan-Muscicapidae" were much blurred. The largely southern warbler family Cisticolidae was traditionally included in the Sylviidae. The kinglets, a small genus in a monotypic family Regulidae, were also frequently placed in this family. The American Ornithologists' Union includes the gnatcatchers, as subfamily Polioptilinae, in the Sylviidae.<ref>AOU: urltoken Check-list of North American Birds </ref>
+Sibley & Ahlquist (1990) united the "Old World warblers" with the babblers and other taxa in a superfamily Sylvioidea as a result of DNA–DNA hybridisation studies. This demonstrated that the Muscicapidae as initially defined were a form taxon which collected entirely unrelated songbirds. Consequently, the monophyly of the individual "songster" lineages themselves was increasingly being questioned.
+More recently, analysis of DNA sequence data has provided information on the Sylvioidea. Usually, the scope of the clade was vastly underestimated and only one or two specimens were sampled for each presumed "family". Minor or little-known groups such as the parrotbills were left out entirely (e.g. Ericson & Johansson 2003, Barker et al. 2004). These could only confirm that the Cisticolidae were indeed distinct, and suggested that bulbuls (Pycnonotidae) were apparently the closest relatives of a group containing Sylviidae, Timaliidae, cisticolids and white-eyes.
+In 2003, a study of Timaliidae relationships (Cibois 2003a) using mtDNA cytochrome b and 12S/16S rRNA data indicated that the Sylviidae and Old World babblers were not reciprocally monophyletic to each other. Moreover, Sylvia, the type genus of the Sylviidae, turned out to be closer to taxa such as the yellow-eyed babbler (Chrysomma sinense) (traditionally held to be an atypical timaliid) and the wrentit (Chamaea fasciata), an enigmatic species generally held to be the only Americas Old World babbler. The parrotbills, formerly considered a family Paradoxornithidae (roughly, "puzzling birds") of unclear affiliations also were part of what apparently was a well distinctive clade.
+Cibois suggested that the Sylviidae should officially be suppressed by the ICZN as a taxon and the genus Sylvia merged into the Timaliidae (Cibois 2003b), but doubts remained. Clearly, the sheer extent of the groups concerned made it necessary to study a wide range of taxa. This was begun by Beresford et al. (2005) and Alström et al. (2006). They determined that the late-20th-century Sylviidae united at least four, but probably as many as seven major distinct lineages. The authors propose the creation of several new families (Phylloscopidae, Cettiidae, Acrocephalidae, Megaluridae) to better reflect the evolutionary history of the sylvioid group.
+The Sylviidae, in turn, receive several taxa from other families. Nonetheless, the now-monophyletic family has shrunk by nearly 80% for the time being, now containing 55 species in 10 genera at least. It is entirely likely however that with further research, other taxa from those still incertae sedis among its former contents, the Timaliidae, the Cisticolinae, or even the Muscicapidae will be moved into this group.
+==Species==
+===Family Sylviidae sensu stricto===
+True warblers (or sylviid warblers) and parrotbills. A fairly diverse group of smallish taxa with longish tails. Mostly in Asia, to a lesser extent in Africa. A few range into Europe; one monotypic genus on the west coast of North America.
+* Genus Sylvia – typical warblers (c. 20 species). Paraphyletic or contains Parisoma
+** Temperate Eurasian superspecies ("atricapilla-borin group")
+*** Eurasian blackcap, Sylvia atricapilla
+*** Garden warbler, Sylvia borin
+** Parisoma superspecies
+*** Brown parisoma, Sylvia lugens
+*** Banded parisoma, Sylvia boehmi
+*** Layard's warbler, Sylvia layardi
+*** Chestnut-vented warbler, Sylvia subcaeruleum
+** curruca clade
+*** Yemen warbler, Sylvia buryi – sometimes placed in Parisoma
+*** Arabian warbler, Sylvia leucomelaena
+*** Western Orphean warbler, Sylvia hortensis
+*** Eastern Orphean warbler, Sylvia crassirostris
+*** Lesser whitethroat, Sylvia curruca
+*** Hume's whitethroat, Sylvia althaea
+*** Desert whitethroat, Sylvia minula
+**** Margelanic whitethroat, Sylvia (minula) margelanica
+** communis-melanocephala assemblage
+*** Barred warbler, Sylvia nisoria – tentatively place here
+*** Asian desert warbler, Sylvia nana
+*** African desert warbler, Sylvia deserti
+*** Whitethroat, Sylvia communis
+*** Spectacled warbler, Sylvia conspicillata
+*** Tristram's warbler, Sylvia deserticola
+*** Dartford warbler, Sylvia undata
+*** Marmora's warbler, Sylvia sarda
+*** Balearic warbler, Sylvia balearica
+*** Rüppell's warbler, Sylvia rueppelli
+*** Cyprus warbler, Sylvia melanothorax
+*** Subalpine warbler, Sylvia cantillans
+**** Eastern subalpine warbler, Sylvia (cantillans) albistriata
+**** Moltoni's warbler, Sylvia (cantillans) moltonii
+*** Sardinian warbler, Sylvia melanocephala
+**** Sylvia (melanocephala) momus
+**** Fayyum warbler, Sylvia melanocephala/momus norissae – doubtfully distinct, extinct (c. 1940)
+*** Menetries's warbler, Sylvia mystacea
+Image:Chrysomma sinense.jpg|thumb|right|Chrysomma sinense, the yellow-eyed babbler, is a sylviid closely related to parrotbills.
+* Genus Pseudoalcippe – African hill babbler. Formerly in Illadopsis (Timaliidae)
+* Genus Rhopophilus – Chinese hill warbler. Formerly in Cisticolidae
+* Genus Lioparus – golden-breasted fulvetta. Formerly in Alcippe (Timaliidae)
+* Genus Paradoxornis – typical parrotbills (18 species). Formerly in Paradoxornithidae; polyphyletic
+* Genus Conostoma – great parrotbill. Formerly in Paradoxornithidae; tentatively placed here
+* Genus Fulvetta – typical fulvettas (7 species). Formerly in Alcippe (Timaliidae)
+* Genus Chrysomma – 3 species. Formerly in Timaliidae
+* Genus Chamaea – wrentit
+===Moved to family Pellorneidae===
+* Genus Graminicola
+** Rufous-rumped grassbird ("-babbler") Graminicola bengalensis
+===Moved to family Cisticolidae===
+* Genus Bathmocercus – rufous-warblers
+** Black-capped rufous-warbler, Bathmocercus cerviniventris
+** Black-faced rufous-warbler, Bathmocercus rufus
+* Genus Sceptomycter – sometimes merged into Bathmocercus. Cisticolidae?
+** Mrs Moreau's warbler, Sceptomycter winifredae
+* Genus Poliolais – Cisticolidae or more basal like bulbuls?
+** White-tailed warbler, Poliolais lopezi
+* Two to 14 of the 15 tailorbirds
+===Moved to family Acrocephalidae===
+Image:Hippolais icterina1.jpg|thumb|right|Icterine warbler, Hippolais icterina
+Marsh and tree warblers or acrocephalid warblers. Usually rather large "warblers", most are olivaceous brown above with much yellow to beige below. Usually in open woodland, reed beds or tall grass. Mainly southern Asia to western Europe and surroundings ranging far into Pacific, some in Africa. The genus limits are seriously in need of revision; either most species are moved into Acrocephalus, or the latter is split up though there is presently insufficient knowledge as to how.
+* Genus Acrocephalus – marsh warblers (about 35 species)
+* Genus Hippolais – tree warblers (8 species)
+* Genus Chloropeta – yellow warblers (3 species)
+* Genus Nesillas – brush warblers (4 living species, 1 recently extinct)
+===Moved to Malagasy warblers===
+See Cibois et al. (2001)
+* Genus Thamnornis
+** Thamnornis, Thamnornis chloropetoides
+* Genus Cryptosylvicola
+** Cryptic warbler, Cryptosylvicola randriansoloi
+===Moved to family Locustellidae===
+Image:Fernbird.jpg|thumb|right|New Zealand's fernbird – probably belongs to the Locustellidae
+Grass warblers and allies. Mid-sized and usually long-tailed species; sometimes strongly patterned but generally very drab in overall colouration. Often forage on the ground. Old World and into Australian region, centred on the Indian Ocean; possibly also one species in South America. A not too robustly supported clade that requires further study.
+* Genus Bradypterus – megalurid bush-warblers (11 species)
+* Genus Locustella – grass warblers (more than 20 species)
+* Genus Megalurus – typical grassbirds (10 species)
+* Genus Amphilais – grey emutail
+* Genus Elaphrornis – Sri Lanka bush warbler
+* Genus Schoenicola – (2 species)
+* Genus Buettikoferella – buff-banded thicketbird
+* Genus Chaetornis – bristled grassbird
+The black-capped donacobius, Donacobius atricapillus, which was long considered an aberrant wren or mockingbird is apparently quite closely related, and might possibly be considered the only American species of this family.
+===Moved to family Cettiidae===
+Typical bush warblers and relatives or cettiid warblers. Another group of generally very drab species, tend to be smaller and shorter-tailed than Megaluridae. Usually frequent shrubland and undergrowth. Continental Asia, and surrounding regions, ranging into Africa and southern Europe.
+* Genus Pholidornis – formerly in Remizidae; tentatively placed here
+** Tit hylia, Pholidornis rushiae
+* Genus Hylia – tentatively placed here <ref></ref>
+** Green hylia, Hylia prasina
+* Genus Abroscopus – Abroscopus warblers
+** Rufous-faced warbler, Abroscopus albogularis
+** Yellow-bellied warbler, Abroscopus superciliaris
+** Black-faced warbler, Abroscopus schisticeps
+Image:Cettia diphone (crying).JPG|thumb|right|Uguisu (鶯), the Japanese bush warbler (Horornis diphone). See also uguisubari.
+* Genus Erythrocercus – monarch-warblers. Formerly Monarchinae.
+** Chestnut-capped flycatcher, Erythrocercus mccallii
+** Little yellow flycatcher, Erythrocercus holochlorus
+** Livingstone's flycatcher, Erythrocercus livingstonei
+* Genus Urosphena – stubtails
+** Timor stubtail, Urosphena subulata
+*** Babar stubtail, Urosphena subulata advena – extinct (mid-20th century)
+** Bornean stubtail, Urosphena whiteheadi
+** Asian stubtail, Urosphena squameiceps
+** Pale-footed bush warbler, Urosphena pallidipes
+** Neumann's warbler, Urosphena neumanni
+* Genus Tesia – tesias
+** Javan tesia, tesia superciliaris
+** Slaty-bellied tesia, Tesia olivea
+** Grey-bellied tesia, Tesia cyaniventer
+** Russet-capped tesia, Tesia everetti
+* Genus Horornis – bush warblers (some 13 species).
+* Genus Cettia – bush warblers (4 species).
+* Genus Tickellia
+** Broad-billed warbler, Tickellia hodgsoni
+* Genus Phyllergates
+** Mountain tailorbird, Phyllergates cucullatus
+** Rufous-headed tailorbird, Phyllergates heterolaemus
+===Moved to family Aegithalidae===
+* Genus Leptopoecile – tit-warblers. Tentatively placed there.
+** White-browed tit-warbler, Leptopoecile sophiae
+** Crested tit-warbler, Leptopoecile elegans
+===Moved to family Phylloscopidae===
+Leaf warblers or phylloscopid warblers. A group very variable in size, often vivid green colouration above and yellow below, or more subdued with greyish-green to greyish-brown plumage. Catch food on the wing fairly often. Eurasia, ranging into Wallacea and Africa.
+Image:Świstunka.jpg|thumb|right|Wood warbler, Phylloscopus sibilatrix
+* Genus Phylloscopus – leaf warblers (c. 55 species). (includes former genus Seicercus<ref></ref>)
+** Green-crowned warbler, Phylloscopus burkii
+** Grey-crowned warbler, Phylloscopus tephrocephalus
+** Whistler's warbler, Phylloscopus whistleri
+** Bianchi's warbler, Phylloscopus valentini
+** Martens's warbler, Phylloscopus omeiensis
+** Alström's warbler, Seicercus soror
+** White-spectacled warbler, Phylloscopus affinis – paraphyletic
+*** Bar-winged white-spectacled warbler, Seicercus (affinis) intermedius
+** Grey-cheeked warbler, Phylloscopus poliogenys
+** Chestnut-crowned warbler, Phylloscopus castaniceps
+** Yellow-breasted warbler, Phylloscopus montis
+** Sunda warbler, Phylloscopus grammiceps
+===Moved to family Macrosphenidae===
+African warblers. Also "Sphenoeacus group". An assemblage of usually species-poor and apparently rather ancient "odd warblers" from Africa. Ecomorphology quite variable. Monophyly requires confirmation.
+* Genus Sylvietta – crombecs
+** Green crombec, Sylvietta virens
+** Lemon-bellied crombec, Sylvietta denti
+** White-browed crombec, Sylvietta leucophrys
+*** Chapin's crombec, Sylvietta (leucophrys) chapini – possibly extinct (late 20th century?)
+** Northern crombec, Sylvietta brachyura
+** Philippa's crombec, Sylvietta philippae
+** Red-capped crombec, Sylvietta ruficapilla
+** Red-faced crombec, Sylvietta whytii
+** Somali crombec, Sylvietta isabellina
+** Long-billed crombec, Sylvietta rufescens
+* Genus Melocichla
+** Moustached grass warbler, Melocichla mentalis
+* Genus Achaetops
+** Rockrunner, Achaetops pycnopygius
+* Genus Sphenoeacus
+** Cape grassbird, Sphenoeacus afer
+* Genus Cryptillas.
+** Victorin's warbler, Cryptillas victorini
+* Genus Macrosphenus – longbills
+** Kemp's longbill, Macrosphenus kempi
+** Yellow longbill, Macrosphenus flavicans
+** Grey longbill, Macrosphenus concolor
+** Pulitzer's longbill, Macrosphenus pulitzeri
+** Kretschmer's longbill, Macrosphenus kretschmeri
+==="Sylviidae" incertae sedis===
+Taxa that have not been studied. Most are likely to belong to one of Sylvioidea families listed above. Those in the Australian-Pacific region are probably Megaluridae. These taxa are listed in the sequence used in recent years.
+* Genus Dromaeocercus – emutails. Locustelidae?
+** Brown emutail, Dromaeocercus brunneus
+** Grey emutail, Dromaeocercus seebohmi – sometimes separated in Amphilais
+* Genus Phyllolais – Cisticolidae?
+** Buff-bellied warbler, Phyllolais pulchella
+* Genus Graueria
+** Grauer's warbler, Graueria vittata
+* Genus Eremomela – eremomelas. Cettiidae?
+** Salvadori's eremomela, Eremomela salvadorii
+** Yellow-vented eremomela, Eremomela flavicrissalis
+** Yellow-bellied eremomela, Eremomela icteropygialis
+** Senegal eremomela, Eremomela canescens
+** Green-backed eremomela, Eremomela pusilla
+** Green-capped eremomela, Eremomela scotops
+** Yellow-rumped eremomela, Eremomela gregalis
+** Rufous-crowned eremomela, Eremomela badiceps
+** Turner's eremomela, Eremomela turneri
+*** Western Turner's eremomela, Eremomela turneri kalindei – probably extinct (early 1980s?)
+** Black-necked eremomela, Eremomela atricollis
+** Burnt-neck eremomela, Eremomela usticollis
+* Genus Randia – Malagasy warblers?
+** Rand's warbler, Randia pseudozosterops
+* Genus Megalurus – fernbirds. Sometimes merged into Megalurus. Locustellidae?
+** Fernbird, Bowdleria punctata
+** Chatham fernbird, Bowdleria rufescens – extinct (c. 1900)
+* Genus Chaetornis – bristled grassbird. Locustellidae?
+* Genus Schoenicola – grassbirds. Basal Locustellidae?
+** Broad-tailed grassbird, Schoenicola platyura
+** Fan-tailed grassbird, Schoenicola brevirostris
+* Genus Cincloramphus – songlarks. Basal Locustellidae?
+** Brown songlark, Cincloramphus cruralis
+** Rufous songlark, Cincloramphus mathewsi
+* Genus Buettikoferella – probably Locustellidae
+** Buff-banded bushbird, Buettikoferella bivittata
+* Genus Megalurulus – thicketbirds. Probably Locustellidae
+** New Caledonian grassbird, Megalurulus mariei
+** Bismarck thicketbird, Megalurulus grosvenori
+** Bougainville thicketbird, Megalurulus llaneae
+** Melanesian thicketbird, Megalurulus whitneyi
+** Rusty thicketbird, Megalurulus rubiginosus
+* Genus Trichocichla – long-legged warbler
+===Not in Sylvioidea===
+Entirely unrelated songbirds hitherto placed in Sylviidae
+* Genus Amaurocichla – Apparently a Passeroidea; very close to, or part of the Motacillidae<ref></ref>
+** Bocage's longbill or São Tomé short-tail, Amaurocichla bocagei
+* Genus Stenostira – Together with some "odd flycatchers", they form the new family Stenostiridae. They are closely related to Paridae (Beresford et al. 2005)
+** Fairy flycatcher, Stenostira scita
+* Genus Hyliota – hyliotas. Basal Passerida with no known relatives, perhaps somewhat closer to Promeropidae (sugarbirds)<ref></ref>
+** Yellow-bellied hyliota, Hyliota flavigaster
+** Southern hyliota, Hyliota australis
+** Usambara hyliota, Hyliota usambarae
+** Violet-backed hyliota, Hyliota violacea
+* Genus Newtonia – newtonias. Now in Vangidae (vangas); possibly polyphyletic (Yamagishi et al. 2001)
+** Dark newtonia, Newtonia amphichroa
+** Common newtonia, Newtonia brunneicauda
+** Archbold's newtonia, Newtonia archboldi
+** Red-tailed newtonia, Newtonia fanovanae – tentatively placed here
+==See also==
+* List of extinct birds
+== Notes ==
+
+Old World warblers are a large group of birds formerly grouped together in the bird family Sylviidae. The family held over 400 species in over 70 genera, and were the source of much taxonomic confusion. Two families were split out initially, the cisticolas into Cisticolidae and the kinglets into Regulidae. In the past ten years they have been the subject of much research and many species are now placed into other families, including the Acrocephalidae, Cettiidae, Phylloscopidae, and Megaluridae. In addition some species have been moved into existing families or have not yet had their placement fully resolved. A smaller family of warblers, together with some babblers formerly placed in the family Timaliidae and the parrotbills, are retained in a much smaller family Sylviidae.

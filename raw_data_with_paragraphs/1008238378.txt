@@ -1,0 +1,79 @@
+Collodion process
+
+==History==
+Image:Theodore Roosevelt on broken glass.jpg|thumb|This deteriorated dry plate portrait of Theodore Roosevelt is similar to a wet plate image but has substantial differences.
+The collodion process was invented in 1851 by Frederick Scott Archer and theorized a year earlier by Gustave Le Gray. During the subsequent decades, many photographers and experimenters refined or varied the process. By the end of the 1860s it had almost entirely replaced the first announced photographic process, the daguerreotype.
+During the 1880s, the collodion process was largely replaced by Dry plate—glass plates with a photographic emulsion of silver halides suspended in gelatin. The dry gelatin emulsion was not only more convenient, but it could also be made much more sensitive, greatly reducing exposure times.
+One collodion process, the tintype, was in limited use for casual portraiture by some itinerant and amusement park photographers as late as the 1930s, and the wet plate collodion process was still in use in the printing industry in the 1960s for line and tone work (mostly printed material involving black type against a white background) since it was much cheaper than gelatin film in large volumes.
+==21st century==
+The wet plate collodion process has undergone a revival as a historical technique in the twenty-first century.<ref> Brummm Magazine, Issue #2, 2016 </ref> There are several practising ambrotype and tintypists who regularly set up and make images, for example at Civil War re-enactments and arts festivals. Fine art photographers use the process and its handcrafted individuality for gallery showings and personal work. There are several makers of reproduction equipment and many artists work with collodion around the globe. The process is taught in workshops around the world and several workbooks and manuals are in print. Modern collodion artists includes Sally Mann, Ben Cauchi,<ref>" urltoken Ben Cauchi," The Arts Foundation (New Zealand). Retrieved 13 February 2019.</ref> , John Coffer, Joni Sternbach,<ref>Surf Site Tin Type, 2015, Damiani Editore, Milan</ref> David Emitt Adams, Mark Osterman, France Scully Osterman, Jack Dabaghian, Lindsey Ross, Meg Turner,<ref></ref> and Paul d'Orléans/ Susan McLaughlin <ref></ref><ref>'The Alchemists', 1903 Magazine, Issue 1, 2016</ref> James Walker and Luther Gerlach. There are many more as well that have contributed to bringing this process forward to a modern age.
+==Advantages==
+thumb
+The collodion process produced a negative image on a transparent support (glass). This was an improvement over the calotype process, discovered by Henry Fox Talbot, which relied on paper negatives, and the daguerreotype, which produced a one-of-a-kind positive image and could not be replicated. The collodion process, thus combined desirable qualities of the calotype process (enabling the photographer to make a theoretically unlimited number of prints from a single negative) and the daguerreotype (creating a sharpness and clarity that could not be achieved with paper negatives). Collodion printing was typically done on albumen print.
+As collodion is a sticky and transparent medium, and can be soaked in a solution of silver nitrate while wet, it is ideal for coating stable surfaces such as glass or metal for photography. When a metal plate is coated with collodion, charged with silver nitrate, exposed, and developed, it produces a direct positive image, although 'backwards' on the plate. When coated on glass, the image becomes a negative, and can be reproduced easily on photographic paper. This was a huge advantage over the daguerreotype, which was not directly reproducible. Wet plate/collodion is also a relatively inexpensive process compared to its predecessor, and does not require polishing equipment or the extremely toxic fuming boxes needed for the daguerreotype. With glass as the medium, the cost per image was also far less than special silver-plated copper plates, and more durable than paper negatives. The process was also very fast for the time, requiring only a few seconds to expose an image in daylight, rather than 30 seconds or more for other forms of photography available in the mid-1800s.
+==Disadvantages==
+The wet collodion process had a major disadvantage. The entire process, from coating to developing, had to be done before the plate dried. This gave the photographer no more than about 10-15 minutes to complete everything. This made it inconvenient for field use, as it required a portable darkroom. The plate dripped silver nitrate solution, causing stains and potentially explosive build-up of nitrate residue in the camera and plate holders.
+The silver nitrate bath was also a source of problems. It gradually became saturated with alcohol, ether, iodide and bromide salts, dust, and various organic matter. It would lose effectiveness, causing plates to mysteriously fail to reproduce an image.
+As with all preceding photographic processes, the wet-collodion process was sensitive only to blue and ultraviolet light. Warm colours appear dark, cool colours uniformly light. A sky with clouds is quite difficult to render, as the spectrum of white clouds contains about as much blue as the sky. Lemons and tomatoes appear a shiny black, and a blue and white tablecloth appears plain white. Victorian sitters who in collodion photographs look as if they are in mourning might have been wearing bright yellow or pink.<ref></ref>
+==Use==
+Despite its disadvantages, wet plate collodion became enormously popular. It was used for portraiture, landscape work, architectural photography and art photography. The largest collodion glass plate negatives produced in the nineteenth century were made in Sydney, Australia, in 1875. They were made by the professional photographer Charles Bayliss with the help of a wealthy amateur photographer Bernhard Otto Holtermann, who also funded the project.<ref> urltoken HOLTERMAN'S PHOTOGRAPHS. (1875, November 9). Evening News (Sydney, NSW: 1869 - 1931), p. 2. Retrieved November 4, 2018</ref>
+Bayliss and Holtermann produced four known glass negatives all of which were taken from Holtermann’s purpose-built camera in the tower of his mansion in North Sydney.<ref>The mansion is now part of the Sydney Church of England Grammar School (commonly known as Shore or Shore School)</ref> Two were 160 x 96.5 cm (5.1 ft x 3.08 ft) and formed a panorama of Sydney Harbour from Garden Island to Miller’s Point. The other two were 136 x 95 cm (4.4 x 3.1 feet) and were of the Harbour and Garden Island and Longnose Point. Three of the four are now held by the State Library of New South Wales.<ref> urltoken BERNARD OTTO HOLTERMAN. (1875, December 11). Illustrated Sydney News and New South Wales Agriculturalist and Grazier (NSW : 1872 - 1881), p. 3</ref>
+The wet plate process is used by a number of artists and experimenters who prefer its aesthetic qualities to those of the more modern gelatin silver process. World Wet Plate Day is staged annually in May for contemporary practitioners.<ref></ref>
+==Search for a dry collodion process==
+The extreme inconvenience of exposing wet collodion in the field led to many attempts to develop a dry collodion process, which could be exposed and developed some time after coating. A large number of methods were tried, though none was ever found to be truly practical and consistent in operation. Well-known scientists such as Joseph Sidebotham, Richard Kennett, Major Russell and Frederick Charles Luther Wratten attempted, but never met with good results.
+Typically, methods involved coating or mixing the collodion with a substance that prevented it from drying quickly. As long as the collodion remained at least partially wet, it retained some of its sensitivity. Common processes involved chemicals such as glycerin, magnesium nitrate, tannic acid and albumen. Others involved more unlikely substances, such as tea, coffee, honey, beer and seemingly unending combinations thereof.
+Many methods worked to an extent; they allowed the plate to be exposed hours, or even days, after coating. They all possessed the chief disadvantage, that they rendered the plate extremely slow. An image could require anywhere from three to ten times more exposure on a dry plate than on a wet plate.
+==Collodion emulsion==
+Image:1860 Anonyme Un vétéran et sa femme Ambrotype.jpg|right|thumb|British veteran of the Napoleonic era Peninsular War with his wife, c.1860, hand-tinted ambrotype using the bleached collodion positive process.
+In 1864 W. B. Bolton and B. J. Sayce published an idea for a process that would revolutionize photography. They suggested that sensitive silver salts be formed in a liquid collodion, rather than being precipitated, in-situ, on the surface of a plate. A light-sensitive plate could then be prepared by simply flowing this emulsion across the surface of a glass plate; no silver nitrate bath was required.
+This idea was soon brought to fruition. First, a printing emulsion was developed using silver chloride. These emulsions were slow, and could not be developed, so they were mostly used for positive printing. Shortly later, silver iodide and silver bromide emulsions were produced. These proved to be significantly faster, and the image could be brought out by development.
+The emulsions also had the advantage that they could be washed. In the wet collodion process, silver nitrate reacted with a halide salt; potassium iodide, for example. This resulted in a double replacement reaction. The silver and iodine ions in solution reacted, forming silver iodide on the collodion film. However, at the same time, potassium nitrate also formed, from the potassium ions in the iodide and the nitrate ions in the silver. This salt could not be removed in the wet process. However, with the emulsion process, it could be washed out after creation of the emulsion.
+The speed of the emulsion process was unremarkable. It was not as fast as the ordinary wet process, but was not nearly as slow as the dry plate processes. Its chief advantage was that each plate behaved the same way. Inconsistencies in the ordinary process were rare.
+==Collodion emulsion preparation example==
+Below is an example of the preparation of a collodion emulsion, from the late 19th century. The language has been adapted to be more modern, and the units of measure have been converted to metric.
+:4.9&nbsp;grams of pyroxylin are dissolved in 81.3 ml of ethanol, 148 ml of ether.
+:13&nbsp;grams of zinc bromide are dissolved in 29.6 ml of alcohol. Four or five drops of nitric acid are added. This is added to half the collodion made above.
+:21.4&nbsp;grams of silver nitrate are dissolved in 7.4 ml of water. 29.6 ml of alcohol are added. This is then poured into the other half of the collodion; the bromine collodion dropped in, slowly, while stirring.
+:The result is an emulsion of silver bromide. It is left to ripen for 10 to 20 hours, until it attains a creamy consistency. It may then be used or washed, as outlined below.
+:To wash, the emulsion is poured into a dish and the solvents are evaporated until the collodion becomes gelatinous. It is then washed with water, followed by a washing in alcohol. After washing, it is redissolved in a mixture of ether and alcohol and is then ready for use.
+:Emulsions created in this manner could be used wet, but they were often coated on the plate and preserved in similar ways to the dry process.
+:Collodion emulsion plates were developed in an alkaline developer, not unlike those in common use today. An example formula follows.
+::Part A: Pyrogallic acid 96 g, alcohol 1 oz.
+::Part B: Potassium bromide 12 g, distilled Water 30 ml
+::Part C: Ammonium carbonate 80 g water 30 ml
+When needed for use, mix 0.37 ml of A, 2.72 ml of B and 10.9 ml of C. Flow this over the plate until developed. If a dry plate is used, first wash the preservative off in running water.
+==See also==
+* Albumen print
+* Ambrotype
+* August Semmendinger
+* Calotype
+* Collodion
+* Daguerreotype
+* Excelsior Wet Plate Camera
+* Tintype
+==References==
+*
+==External links==
+<!--====================================================
+ | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. WIKIPEDIA |
+ | IS NOT A COLLECTION OF LINKS NOR SHOULD IT BE USED FOR ADVERTISING. |
+ | |
+ | Excessive or inappropriate links WILL BE DELETED. |
+ | See Wikipedia:External links & Wikipedia:Spam for details. |
+ | |
+ | If there are already plentiful links, please propose additions or |
+ | replacements on this article's discussion page, or submit your link |
+ | to the relevant category at the Open Directory Project (dmoz.org) |
+ | and link back to that category using the template. |
+ ====================================================-->
+* urltoken WATCH: George Eastman House "The Collodion Process – Photographic Processes"
+* urltoken The Getty Museum: The Wet Collodion Process
+* urltoken Step by Step Wet Plate Photography
+* urltoken Collodion: Material Safety Data Sheet
+* urltoken Compound W data sheet
+* urltoken World Wet Plate Day
+* urltoken Getting Started In Wetplate Collodion Photography
+* urltoken Old Photography Process: Collodion Wet Plate
+
+Image:Año 1867, negativo de vidrio al colodión, vista de Gerona o Girona, Fototeca del IPCE, Spain.JPG|thumb|1867. Collodion wet plate process. Girona.- Puente de Isabel II. Ministry of Education, Culture and Sport (Spain).
+The collodion process is an early photography process. The collodion process, mostly synonymous with the "collodion wet plate process", requires the photographic material to be coated, sensitized, exposed and developed within the span of about fifteen minutes, necessitating a portable darkroom for use in the field. Collodion is normally used in its wet form, but can also be used in dry form, at the cost of greatly increased exposure time. The latter made the dry form unsuitable for the usual portraiture work of most professional photographers of the 19th century. The use of the dry form was therefore mostly confined to landscape photography and other special applications where minutes-long exposure times were tolerable.<ref name="Towler"></ref>

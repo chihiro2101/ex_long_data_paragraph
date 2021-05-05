@@ -1,0 +1,145 @@
+Sea cucumber
+
+=== Locomotion ===
+Some abyssal species in the abyssal order Elasipodida have evolved to a "benthopelagic" behaviour: their body is nearly the same density as the water around them, so they can make long jumps (up to high), before falling slowly back to the ocean floor. Most of them have specific swimming appendages, such as some kind of umbrella (like Enypniastes), or a long lobe on top of the body (Psychropotes). Only one species is known as a true completely pelagic species, that never comes close to the bottom: Pelagothuria natatrix.<ref></ref>
+=== Diet ===
+Holothuroidea are generally scavengers, feeding on debris in the benthic zone of the ocean. Exceptions include some pelagic cucumbers and the species Rynkatorpa pawsoni, which has a commensal relationship with deep-sea anglerfish.<ref></ref> The diet of most cucumbers consists of plankton and decaying organic matter found in the sea. Some sea cucumbers position themselves in currents and catch food that flows by with their open tentacles. They also sift through the bottom sediments using their tentacles. Other species can dig into bottom silt or sand until they are completely buried. They then extrude their feeding tentacles, ready to withdraw at any hint of danger.
+In the South Pacific sea cucumbers may be found in densities of 40 individuals per square meter (33 /sq yd). These populations can process 19 kilograms of sediment per square meter (34&nbsp;lb /sq yd) per year.<ref></ref>
+The shape of the tentacles is generally adapted to the diet, and to the size of the particles to be ingested: the filter-feeding species mostly have complex arborescent tentacles, intended to maximize the surface area available for filtering, while the species feeding on the substratum will more often need digitate tentacles to sort out the nutritional material; the detritivore species living on fine sand or mud more often need shorter "peltate" tentacles, shaped like shovels. A single specimen can swallow more than 45&nbsp;kg of sediment a year, and their excellent digestive capacities allow them to reject a finer, purer and homogeneous sediment. Therefore, sea cucumbers play a major role in the biological processing of the sea bed (bioturbation, purge, homogenization of the substratum etc.).
+<gallery style="text-align:center;" mode="packed">
+Image:Euapta godeffroyi, détail.jpg|The mouth of an Euapta godeffroyi, showing pinnate tentacles.
+Image:Apostichopus californicus.004 - Aquarium Finisterrae.jpg|Mouth of a Holothuria sp., showing peltate tentacles.
+Image:Cucumaria main.jpg|Mouth of a Cucumaria miniata, with dendritic tentacles, for filtering the water.
+Image:Holothurie sp.jpg|Faeces of an holothurian. This participates in sediment homogenization and purification.
+</gallery>
+=== Communication and sociability ===
+=== Reproduction ===
+Most sea cucumbers reproduce by releasing sperm and ova into the ocean water. Depending on conditions, one organism can produce thousands of gametes. Sea cucumbers are typically dioecious, with separate male and female individuals, but some species are protandric. The reproductive system consists of a single gonad, consisting of a cluster of tubules emptying into a single duct that opens on the upper surface of the animal, close to the tentacles.<ref name=IZ/>
+At least 30 species, including the red-chested sea cucumber (Pseudocnella insolens), fertilize their eggs internally and then pick up the fertilized zygote with one of their feeding tentacles. The egg is then inserted into a pouch on the adult's body, where it develops and eventually hatches from the pouch as a juvenile sea cucumber.<ref>Branch GM, Griffiths CL, Branch ML and Beckley LE(2005) Two Oceans </ref> A few species are known to brood their young inside the body cavity, giving birth through a small rupture in the body wall close to the anus.<ref name=IZ/>
+=== Development ===
+In all other species, the egg develops into a free-swimming larva, typically after around three days of development. The first stage of larval development is known as an auricularia, and is only around in length. This larva swims by means of a long band of cilia wrapped around its body, and somewhat resembles the bipinnaria larva of starfish. As the larva grows it transforms into the doliolaria, with a barrel-shaped body and three to five separate rings of cilia. The pentacularia is the third larval stage of sea cucumber, where the tentacles appear. The tentacles are usually the first adult features to appear, before the regular tube feet.<ref name=IZ/>
+=== Symbiosis and commensalism ===
+Numerous small animals can live in symbiosis or commensalism with sea cucumbers, as well as some parasites.
+Some cleaner shrimps can live on the tegument of holothurians, in particular several species of the genus Periclimenes (genus which is specialized in echinoderms), in particular Periclimenes imperator.<ref name="Mah Crabs & Shrimps">.</ref>
+A variety of fish, most commonly pearl fish, have evolved a commensalism symbiotic relationship with sea cucumbers in which the pearl fish will live in sea cucumber's cloaca using it for protection from predation, a source of food (the nutrients passing in and out of the anus from the water), and to develop into their adult stage of life. Many polychaete worms (family Polynoidae<ref name="Mah Worms & Snails"></ref>) and crabs (like Lissocarcinus orbicularis) have also specialized to use the mouth or the cloacal respiratory trees for protection by living inside the sea cucumber.<ref></ref> Nevertheless, holothurians species of the genus Actinopyga have anal teeth that prevent visitors from penetrating their anus.<ref name="Mah Pearlfish-Sea Cucumber"></ref>
+Sea cucumbers can also shelter bivalvia as endocommensals, such as Entovalva sp.<ref name="Mah CLAMS that live in their throat"></ref>
+<gallery style="text-align:center;" mode="packed">
+Image:Swimming Crab - Lissocarcinus Orbicularis on Sea Cucumber.jpg|Lissocarcinus orbicularis, a symbiotic crab.
+Image:Shrimp on Sea Cucumber.jpg|Periclimenes imperator, a symbiotic shrimp.
+Image:Polychètes sur T. anax.JPG|Polynoid worms on a king sea cucumber.
+</gallery>
+=== Predators and defensive systems ===
+Image:Tonna Perdix en train de se nourrir.JPG|thumb|Tonna perdix, a selective predator of tropical sea cucumbers
+Sea cucumbers are often ignored by most of the marine predators because of the toxins they contain (in particular holothurin) and because of their often spectacular defensive systems. However, they remain a prey for some highly specialized predators which are not affected by their toxins, such as the big mollusks Tonna galea and Tonna perdix, which paralyzes them using powerful poison before swallowing them completely.<ref></ref>
+Some other less specialized and opportunist predators can also prey on sea cucumbers sometimes when they cannot find any better food, such as certain species of fish (triggerfish, pufferfish) and crustaceans (crabs, lobsters, hermit crabs).
+Some species of coral-reef sea cucumbers within the order Aspidochirotida can defend themselves by expelling their sticky cuvierian tubules (enlargements of the respiratory tree that float freely in the coelom) to entangle potential predators. When startled, these cucumbers may expel some of them through a tear in the wall of the cloaca in an Autotomy process known as evisceration. Replacement tubules grow back in one and a half to five weeks, depending on the species.<ref name=PLoSone/><ref></ref> The release of these tubules can also be accompanied by the discharge of a toxic chemical known as holothurin, which has similar properties to soap. This chemical can kill animals in the vicinity and is one more method by which these sedentary animals can defend themselves.<ref name=piper/>
+=== Estivation ===
+If the water temperature becomes too high, some species of sea cucumber from temperate seas can aestivate. While they are in this state of dormancy they stop feeding, their gut atrophies, their metabolism slows down and they lose weight. The body returns to its normal state when conditions improve.<ref name=PLoSone/>
+==Phylogeny and classification==
+Image:Euapta godeffroyi1.jpg|thumb|Apodida like this Euapta godeffroyi are snake-shaped, without podia, and have pinnate tentacles. 
+Image:Holothuria cinerascens Réunion.jpg|thumb|Holothuriida like this Holothuria cinerascens are sausage-shaped, with peltate tentacles. 
+Image:Cercodemas anceps Red box sea cucumber PC260152.JPG|thumb|Dendrochirotida like this Cercodemas anceps are curled-bodied and have arborescent tentacles. 
+Image:Scotoplanes globosa and crab.jpg|thumb|Elasipodida like this "sea pig" Scotoplanes have a translucent body with specific appendages; they live in the abyss. 
+Image:Stichopus herrmanni (Mayotte).jpg|thumb|upright=1|Synallactida like this Stichopus herrmanni still lack a definition.
+Holothuroidea (sea cucumbers) are one of five extant classes that make up the phylum Echinodermata. This is one of the most distinctive and diverse phyla, ranging from starfish to urchins to sea cucumbers and many other organisms. The echinoderms are mainly distinguished from other phyla by their body plan and organization. While the organisms in this phylum may not all look the same from the outside, their make-up is another story.
+All echinoderms share three main characteristics. When mature, echinoderms have a pentamerous radial symmetry. While this can easily be seen in a sea star or brittle star, in the sea cucumber it is less distinct and seen in their five primary tentacles. The pentamerous radial symmetry can also be seen in their five ambulacral canals.<ref></ref> The ambulacral canals are used in their water vascular system which is another characteristic that binds this phylum together.
+The water vascular system that develops from their middle coelom or hydrocoel. Echinoderms use this system for many things including movement by pushing water in and out of their podia or "tube feet". Echinoderms tube feet (including sea cucumbers) can be seen aligned along the side of their axes.
+While echinoderms are invertebrates, meaning they do not have a spine, they do all have an endoskeleton that is secreted by the mesenchyme. This endoskeleton is composed of plates called ossicles. They are always internal but may only be covered by a thin epidermal layer like in sea urchin's spines. In the sea cucumber the ossicles are only found in the dermis, making them a very supple organism. For most echinoderms, their ossicles are found in units making up a three dimensional structure. However, in sea cucumbers the ossicles are found in a two-dimensional network.<ref></ref>
+All echinoderms also possess anatomical feature(s) called mutable collagenous tissues, or MCTs.<ref name=":0"></ref> Such tissues can rapidly change their passive mechanical properties from soft to stiff under the control of the nervous system and coordinated with muscle activity. Different echinoderm classes use MCTs in different ways. The asteroids, sea stars, can detach limbs for self-defense and then regenerate them. The Crinoidea, sea fans, can go from stiff to limp depending on the current for optimal filter feeding. The Echinoidea, sand dollars, use MCTs to grow and replace their rows of teeth when they need new ones. The Holothuroidea, sea cucumbers, use MCTs to eviscerate their gut as a self-defense response. MCTs can be used in many ways but are all similar at the cellular level and in mechanics of function. A common trend in the uses of MCTs is that they are generally used for self-defense mechanisms and in regeneration.<ref name=":0" />
+Having no skeleton unlike the other echinoderms, holothurian classification is more complex and their paleontological phylogeny relies on a fistful of well-preserved specimens. The modern taxonomy is based first of all on the presence or the shape of certain soft parts (podia, lungs, tentacles, peripharingal crown) to determine the main orders, and secondarily on the microscopic examination of ossicles to determine the genus and the species. Contemporary genetic methods have been helpful in clarifying their classification.
+Taxonomic classification according to World Register of Marine Species :
+* order Apodida <small>Brandt, 1835</small>
+** family Chiridotidae <small>Östergren, 1898</small>
+** family Myriotrochidae <small>Théel, 1877</small>
+** family Synaptidae <small>Burmeister, 1837</small>
+* order Dendrochirotida <small>Grube, 1840</small>
+** family Cucumariidae <small>Ludwig, 1894</small>
+** family Cucumellidae <small>Thandar & Arumugam, 2011</small>
+** family Heterothyonidae <small>Pawson, 1970</small>
+** family Paracucumidae <small>Pawson & Fell, 1965</small>
+** family Phyllophoridae <small>Östergren, 1907</small>
+** family Placothuriidae <small>Pawson & Fell, 1965</small>
+** family Psolidae <small>Burmeister, 1837</small>
+** family Rhopalodinidae <small>Théel, 1886</small>
+** family Sclerodactylidae <small>Panning, 1949</small>
+** family Vaneyellidae <small>Pawson & Fell, 1965</small>
+** family Ypsilothuriidae <small>Heding, 1942</small>
+* order Elasipodida <small>Théel, 1882</small>
+** family Deimatidae <small>Théel, 1882</small>
+** family Elpidiidae <small>Théel, 1882</small>
+** family Laetmogonidae <small>Ekman, 1926</small>
+** family Pelagothuriidae <small>Ludwig, 1893</small>
+** family Psychropotidae <small>Théel, 1882</small>
+* order Holothuriida <small>Miller, Kerr, Paulay, Reich, Wilson, Carvajal & Rouse, 2017 </small>
+** family Holothuriidae <small>Burmeister, 1837</small>
+** family Mesothuriidae <small>Smirnov, 2012</small>
+* order Molpadida <small>Haeckel, 1896</small>
+** family Caudinidae <small>Heding, 1931</small>
+** family Eupyrgidae <small>Semper, 1867</small>
+** family Gephyrothuriidae <small>Koehler & Vaney, 1905</small>
+** family Molpadiidae <small>Müller, 1850</small>
+* order Persiculida <small>Miller, Kerr, Paulay, Reich, Wilson, Carvajal & Rouse, 2017 </small>
+** family Gephyrothuriidae <small>Koehler & Vaney, 1905</small>
+** family Molpadiodemidae <small>Miller, Kerr, Paulay, Reich, Wilson, Carvajal & Rouse, 2017</small>
+** family Pseudostichopodidae <small>Miller, Kerr, Paulay, Reich, Wilson, Carvajal & Rouse, 2017</small>
+* order Synallactida <small>Miller, Kerr, Paulay, Reich, Wilson, Carvajal & Rouse, 2017 </small>
+** family Stichopodidae <small>Haeckel, 1896</small>
+** family Synallactidae <small>Ludwig, 1894</small>
+**family Deimatidae <small>Théel, 1882</small>
+==Relation to humans==
+=== Food ===
+To supply the markets of Southern China, Makassar trepangers traded with the Indigenous Australians of Arnhem Land from at least the 18th century and probably earlier. This is the first recorded example of Makassan contact with Australia.<ref> </ref>
+There are many commercially important species of sea cucumber that are harvested and dried for export for use in Chinese cuisine as hoisam.<ref name="Conand FAO"></ref> Some of the more commonly found species in markets include:<ref name="Conand FAO"/><ref></ref>
+*Holothuria nobilis
+*Thelenota ananas
+*Actinopyga echinites
+*Actinopyga palauensis
+*Holothuria scabra
+*Holothuria fuscogilva
+*Actinopyga mauritiana
+*Stichius japonicus
+*Apostichopus californicus
+*Acaudina molpadioides
+*Isostichopus fuscus
+=== Medicine ===
+According to the American Cancer Society, although it has been used in traditional Asian folk medicine for a variety of ailments, "there is little reliable scientific evidence to support claims that sea cucumber is effective in treating cancer, arthritis, and other diseases" but research is examining "whether some compounds made by sea cucumbers may be helpful against cancer".<ref></ref>
+Various pharmaceutical companies emphasize gamat, the traditional medicinal usage of this animal.<ref></ref> Extracts are prepared and made into oil, cream or cosmetics. Some products are intended to be taken internally.
+A review article found that chondroitin sulfate and related compounds found in sea cucumbers can help in treating joint-pain, and that dried sea cucumber is "medicinally effective in suppressing arthralgia".<ref></ref>
+Another study suggested that sea cucumbers contain all the fatty acids necessary to play a potentially active role in tissue repair.<ref></ref> Sea cucumbers are under investigation for use in treating ailments including colorectal cancer.<ref></ref> Surgical probes made of nanocomposite material based on the sea cucumber have been shown to reduce brain scarring.<ref></ref> One study found that a lectin from Dendrochirotida impaired the development of the malaria when produced by transgenic Anopheles.<ref></ref>
+<gallery style="text-align:center;" mode="packed">
+File:Dried sea cucumber.jpg|"Teripang" in a market in Asia.
+File:Sea cucumber dish 2.jpg|Sea cucumber in sauce in China.
+File:Haisom Cah Jamur 1.JPG|Haisom cah jamur, Chinese Indonesian sea cucumber with mushroom.
+File:Sea cucumber dish 3.jpg|Deep fried sea cucumbers.
+File:Keripik teripang 1.JPG|Kripik teripang, Indonesian sea cucumber cracker.
+</gallery>
+==Procurement==
+Sea cucumbers are harvested from the environment, both legally and illegally, and are increasingly farmed via aquaculture. The harvested animals are normally dried for resale.<ref name="NYT031913" /> In 2016, prices on Alibaba ranged up to $1,000/kg.<ref></ref>
+===Commercial harvest===
+In recent years, the sea cucumber industry in Alaska has increased due to increased demand for the skins and muscles to China.<ref name="NF"></ref> Wild sea cucumbers are caught by divers. Wild Alaskan sea cucumbers have higher nutritional value and are larger than farmed Chinese sea cucumbers. Larger size and higher nutritional value has allowed the Alaskan fisheries to continue to compete for market share.<ref name="NF" />
+One of Australia's oldest fisheries is the collection of sea cucumber, harvested by divers from throughout the Coral Sea in far North Queensland, Torres Straits and Western Australia. In the late 1800s as many as 400 divers operated from Cook Town, Queensland.
+Overfishing of sea cucumbers in the Great Barrier Reef is threatening their population.<ref></ref> Their popularity as luxury seafood in East Asian countries poses a serious threat.<ref></ref>
+===Black market===
+As of 2013 a thriving black market was driven by demand in China where at its peak might have sold for the equivalent of US$300<ref name=NYT031913></ref> and a single sea cucumber for about US$160.<ref name= crackdown></ref> A crackdown by governments both in and out of China reduced both prices and consumption, particularly among government officials who had been known to eat (and were able to afford purchasing) the most expensive and rare species.<ref name= crackdown /> In the Caribbean Sea off the shores of the Yucatán Peninsula near fishing ports such as Dzilam de Bravo, illegal harvesting had devastated the population and resulted in conflict as rival gangs struggled to control the harvest.<ref name=NYT031913 />
+===Aquaculture===
+Overexploitation of sea cucumber stocks in many parts of the world provided motivation for the development of sea cucumber aquaculture in the early 1980s. The Chinese and Japanese were the first to develop successful hatchery technology on Apostichopus japonicus, prized for its high meat content and success in commercial hatcheries.<ref name="Baskar">James, B. D. (2004). urltoken Captive breeding of the sea cucumber, Holothuria scabra, from India. In Lovatelli, A. (comp./ed.); Conand, C.; Purcell, S.; Uthicke, S.; Hamel, J.-F.; Mercier, A. (eds.) Advances in sea cucumber aquaculture and management. FAO Fisheries Technical Paper. No. 463. Rome, FAO. 2004.425p.</ref> Using techniques pioneered by the Chinese and Japanese, a second species, Holothuria scabra, was cultured for the first time in India in 1988.<ref name="james">James, D. B., Gandhi, A. D., Palaniswamy, N., & Rodrigo, J. X. (1994). urltoken Techniques and Culture of the Sea-cucumber Holothuria scabra. CMFRI Special Publication(57),1-40.</ref> In recent years Australia, Indonesia, New Caledonia, Maldives, Solomon Islands and Vietnam have successfully cultured H. scabra using the same technology, and now culture other species.<ref name="Baskar" />
+==Conservation==
+In 2020, the Indian government created the world's first sea cucumber conservation area, the Dr KK Mohammed Koya Sea Cucumber Conservation Reserve, to protect the sea cucumber species. In India, the commercial harvesting and transportation of sea cucumbers is banned.<ref name="Badri Chatterjee"></ref><ref></ref>
+==In art and literature==
+Edgar Allan Poe's only novel, The Narrative of Arthur Gordon Pym of Nantucket (1838), includes in its twentieth chapter a long, detailed description of sea cucumbers, which the narrator calls biche de mer.
+In Kir Bulychov's science-fiction novella, "Half a Life", a human being kidnapped by alien machines described her fellow alien prisoners as "trepangs".
+The first movement of French pianist Erik Satie's Embryons desséchés is titled "D'Holothournie". It is said to emulate the "purring" of the Holothourian.
+Sea cucumbers have inspired thousands of haiku in Japan, where they are called namako (海鼠), written with characters that can be translated as "sea mice" (an example of gikun). In English translations of these haiku, they are usually called "sea slugs». According to the Oxford English Dictionary, the English term "sea slug" was originally applied to holothurians during the 18th century. The term is now applied to several groups of sea snails, marine gastropod mollusks that have no shell or only a very reduced shell, including the nudibranchs. Almost 1,000 Japanese holothurian haiku translated into English appear in the book Rise, Ye Sea Slugs! by Robin D. Gill.<ref>Gill, RobinD. urltoken Rise, Ye Sea Slugs!. Paraverse Press, 2003, </ref>
+Nobel laureate poet Wisława Szymborska wrote a poem which mentions holothurians, titled "Autotomy".
+In the book John Dies at the End, the character Amy Sullivan was nicknamed "Cucumber" by the narrator/author when the two were children. This is assumed by other characters to have a sexual connotation but is actually a reference to her frequent nausea. The name is in reference to a sea cucumber's use of vomiting as a method of self-defense.
+A descriptive passage in American novelist and MacArthur Fellow Cormac McCarthy's 1985 anti-Western Blood Meridian likens cactus embers to holothurians: "In the thorn forest through which they'd passed the little desert wolves yapped and on the dry plain before them others answered and the wind fanned the coals that he watched. The bones of cholla that glowed there in their incandescent basketry pulsed like burning holothurians in the phosphorous dark of the sea's deeps."
+==See also==
+* Gamat
+* Trepanging
+==Notes==
+==Citations==
+==External links==
+
+Sea cucumbers can be found in great numbers on the deep seafloor, where they often make up the majority of the animal biomass.<ref></ref> At depths deeper than , sea cucumbers comprise 90% of the total mass of the macrofauna.<ref></ref> Sea cucumbers form large herds that move across the bathygraphic features of the ocean, hunting food. The body of some deep water holothurians, such as Enypniastes eximia, Peniagone leander and Paelopatides confundens,<ref></ref> is made of a tough gelatinous tissue with unique properties that makes the animals able to control their own buoyancy, making it possible for them to either live on the ocean floor or to actively swim <ref>Blue Planet Discovery Channel</ref> or float over it in order to move to new locations,<ref></ref> in a manner similar to how the group Torquaratoridae floats through water.
+Holothurians appear to be the echinoderms best adapted to extreme depths, and are still very diversified beyond 5,000 m deep: several species from the family Elpidiidae ("sea pigs") can be found deeper than 9,500 m, and the record seems to be some species of the genus Myriotrochus (in particular Myriotrochus bruuni), identified down to 10,687 meters deep.<ref name="MahDeepest"></ref>
+In more shallow waters, sea cucumbers can form dense populations. The strawberry sea cucumber (Squamocnus brevidentis) of New Zealand lives on rocky walls around the southern coast of the South Island where populations sometimes reach densities of 1,000 animals per square meter (93 /sq ft). For this reason, one such area in Fiordland is called the strawberry fields.<ref></ref>

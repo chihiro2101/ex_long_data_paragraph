@@ -1,0 +1,70 @@
+Alternate Reality (series)
+
+==Concept==
+Aliens have captured the player from Earth, and suddenly the player finds themself in front of a gate with a slot-machine-like row of rotating numbers of statistics. Stepping through the gate freezes the numbers and turns the player into a new person, putting them into an "alternate reality", hence the name.
+In 1988 Datasoft denied that the series would end after The Dungeon.<ref name="cgw198804"></ref> The end of the series was supposed to conclude with the player discovering everyone's true bodies on the ship cocooned and effectively frozen, and that the ship is really a "pleasure world" of some kind for the aliens, leading to the player's ultimate decision of what to do to the ship, to the aliens, or even whether to return to Earth. However, the series was never completed.
+During the late 90s, Price intended to produce an MMORPG version of the game called Alternate Reality Online or ARO, and teamed with Monolith. The deal ended due to lack of funds to start serious development on the project. Monolith originally had funds, but needed the funds for existing games in the pipeline. Monolith tried to find an external publisher to fund the game, but the number of technical innovations, coupled with an unknown market for MMORPGs, made it difficult to find publishers willing to risk funding. The publication deal ended and the rights to the game were returned due to no funds. Monolith went on years later to create The Matrix Online.
+==The "Lost" Games==
+The original outline for the game series included plans for 6 games:
+* The City
+* The Arena
+* The Palace
+* The Wilderness
+* Revelations
+* Destiny
+The first break from this outline was when Datasoft forced the release of The City early, and The Dungeon which would have been included, became its own release. Nonetheless, the design planned to allow the player to move between these games, so that, for example, when one attempted to leave the confines of The City, one was prompted to "Insert disk #1 of Alternate Reality: The Wilderness". The planned seamless migration never worked out, in large part because the Datasoft developers did not implement the idea, so only the Atari 8 Bit city had the ability to boot sequels. Since the final coding of the sequels was done by Datasoft, the matching code was not put into any of the sequels, including the Atari 8 bit dungeon.
+Although The Dungeon was completed and released, work on the remaining 5 installments never moved beyond theoretical outlines. A brief summary of these outlines follows:
+===The City (and its sewers, which became The Dungeon)===
+The player is thrust into a new environment (the city of Xebec's Demise) and must learn to survive. While The City is mostly an open area planned to serve as the hub for the game series, The Dungeon was made up of four concentric levels, each one smaller than the one above.
+===The Arena===
+Slavers would be added to the City/Dungeon in order to capture new gladiators and force them into combat. This was similar to how the player was captured from Earth in the first place, causing the player to once again be thrust into a new environment. The plan also included provisions for players to enter the arena in other ways, e.g., as a spectator or a free man. A limited "character vs. character" mode would allow characters from other saved games to be loaded in and pitted against the current character. Lastly, there would be one or more ways to retire a character into a life of luxury, thus "winning", but players would need to start a new character if they wanted to continue on in the series. Retired characters would then return as opponents faced by any new characters.
+===The Palace===
+Planned to feature courtly intrigue and the ability to purchase land in the city, with the capability to alter the map and building layouts if one built new sections or tore down walls. Players could climb the ladder of power and responsibility, and eventually choose to rule the city as its new king. This was intended as another way to retire a character and thus "win". New characters created would be able to meet the previously crowned king, or even attempt to overthrow him.
+===The Wilderness===
+The Wilderness was to be a pilgrimage to find the truth concerning Alternate Reality. There would be traps, tricks to waylay the adventurer, and diversions to turn him or her away from the true quest. This expansion would feature a vast expanse of outdoor terrain and new areas to explore.
+===Revelation===
+With the illusion broken, the player would find his or her way onto the alien ship and out of the Holodeck upon which he or she was previously trapped. There was to be a way into the ship through the bottom of The Dungeon (on the 4th level), as well as in the distant wilderness.
+===Destiny===
+Now armed with high tech equipment and making allies of certain alien factions sympathetic to the player's cause, the player could take the fight to his or her captors. Searching further within this immense ship, the player would discover a chamber filled with metal cocoons. Using wits and the knowledge gained through other locations, the controls for the cocoons could be manipulated to discover what was contained within. It would be revealed that these cocoons hold bodies, the bodies of all of those captured. The machines keep the bodies physically alive and fit, but imprisoned. The minds of those entrapped are tapped and fed with images (à la The Matrix, only years earlier).
+The ship's computer can even permit the images to interact with solid/material components of the ship. The player would learn that his or her own body was itself just an image, with the actual body lying in a cocoon. The question of the nature of reality would be raised, leading to questions such as what is a soul? What is experience? The player has experienced the entire ordeal through the illusionary image ever since the kidnapping.
+In the end, the player would be left with many choices. One could continue to live on as the image body, a nearly immortal life, but knowing that these aliens have done this and can watch, feel, and experience whatever is done. In essence, the player is their entertainment. They have become jaded by luxury, power and knowledge and use lesser beings to regain some of the passions of life. Hence, one could instead cut off this channel, though the alien beings may destroy the ship, or even Earth itself. One could escape in a smaller ship (as compared to the massive Alternate Reality entertainment world) and go back to Earth. One could even destroy the planet, or bring it back to Earth to let scientists learn from it. There would be many choices (including selling out humanity), but these would be the decisions the player would have to make at the end of the journey.
+==Technology==
+AR worked from a 3D first-person perspective, with a small window taking up about 1/9 of the screen at the center. The player controlled one character who had an absolute minimum of visual representationthe closest to a character image to be found was when one encountered a "doppelganger" monster. The 3D used was not like other contemporary 3D graphics either. Most other 3D first-person games used static graphics to represent the walls, meaning the player could only move one tile at a time. However, in this game the rate of travel depended on the character's speed, and moved incrementally along the tile. Distant walls would slowly come in to focus rather than suddenly appear.
+Alternate Reality had a raycasting engine similar to Wolfenstein 3D, which came seven years later, but was recognized for popularizing the system. However, the design implemented right-angle movement only.
+Another upshot of the fact that the graphics were rendered rather than simple images is that while the sun was setting, the entire palette of colors changed convincingly. Distant waterfalls moved, and the rain was realistically rendered.
+The first game, The City, also featured a novel anti-copying technique. The program disks could be copied through the standard methods and the copy would appear to work. However, not long after the player began the game, their character would become weaker and weaker and then die from an apparent disease. The Dungeon, if loaded with an unauthorized copy, featured two "FBI agents" as encounters during the beginning of the game, who attacked with "the long arm of the law". The two agents were overly powerful and unbeatable, so as to kill the character before being able to play the game. Due to a bug, the other way to run into these characters was to try to transfer over a character from the city. In effect, it was impossible to actually transfer a character over from the city to the dungeon without mailing in the disks to be exchanged for a fixed version.
+==Gameplay==
+left
+At the top of the screen were character statistics, such as game-world time, Strength, Health, etc. This brings up some of the unique aspects of the game: the character is not omniscient with respect to himself, but has some attributes that stay hidden except in special casesfor example, the player never knew the character's alignment (good/evil/neutral), and poison, drunkenness and disease tricked the perceived stats, temporarily or permanently changed them. In fact, the player never chose an alignment, but came to learn it through how other characters treated them in the game.
+Among these hidden stats were things to keep track of how hungry, tired, thirsty, hot or cold, or encumbered the character was. Fifteen years before The Sims, this game managed the character's well-being by tracking more than just their hit points. In fact, this game shared many game play aspects with The Sims.
+The Sims uses several constantly diminishing stats: hunger, happiness, etc. and balances the player's ability to fulfill them with the length of time it takes to accomplish tasks. Alternate Reality, similarly, required the player to balance all of these things. While food and water could be carried, supplies were limited and the player would have to find or purchase new packets. The character could only sleep in an Inn, so if the player was off adventuring and the character started to get hungry and tired, they'd have to return to a safe area before the player could fulfill these needs.
+Another feature was the non-linear game play, and extremely large game world that could be explored at will, rather than according to how the game expected.
+Due to budget constraints, the first game was released, essentially, without a plot. Only in the second installment were any elements of a traditional RPG plot added in, but the player could (and probably did) spend days playing before realizing the importance of any of their actions. This was nearly two decades before Grand Theft Auto III would be called revolutionary for offering the same feature.
+The bottom of the screen alternated depending on user choice and situation between consumables like food, water, money, and torches, equipment, combat options, spells, and other things. The sides held the compass at left (when the player had one) and directional arrows at right.
+The gameplay of both games is reminiscent of other RPGs but more sophisticated than its peerswhile the player wandered around gaining levels and equipment, there were things like a finite number of items in the world, and items stolen could be regained. Near overflows of memory from possessing too many items resulted in an encounter with The Devourer, a fearsome creature that sucked items from the player, and thus removed them from memory. Death was permissible and mostly uncheatable since the game cleverly marked the character as dead as soon as the user started and only let the character to become "alive" once they saved. It was possible to "revive" a lost character, but it caused a loss in one of the character's stats.
+==Ports==
+The games in the Alternate Reality series were developed on the Atari 8-bit family of home computers, but were ported to other platforms as well.<ref> urltoken 
+===The City===
+* Atari 8-bit family
+* Commodore 64
+* Apple II
+* Apple Macintosh
+* Atari ST
+* Amiga
+* DOS on the PC
+* Tandy Color Computer 3
+===The Dungeon===
+* Atari 8-bit family
+* Commodore 64 / Commodore 128
+* Apple II
+==Reception==
+In 1993 Scorpia called The City "a fascinating premise that turned out rather poorly . a game for those with great persistence and patience", and The Dungeon "better than the first, but not by much".<ref name="scorpia199310"></ref>
+Alternate Reality: The City and Alternate Reality: The Dungeon were both the subject of the feature review Dragon #135. The reviewers gave Alternate Reality: The City 3 stars, and Alternate Reality: The Dungeon stars.<ref name="Dragon135"></ref>
+Alternate Reality: The City was reviewed in Computer Gamer #12 and got a value for money rating of 5/5.<ref name="cgreview"> urltoken Alternate Reality in Computer Gamer issue 12, March 1986, pp. 58-60, Argus Design Ltd., London</ref> It was also reviewed in Casus Belli #33 (June 1986).<ref> urltoken 
+==References==
+==External links==
+* urltoken The Alternate Reality FAQ
+* urltoken Alternate Reality: The City and The Dungeon and canceled project info + Multimedia
+* urltoken Images of The City package, manual and screenshots
+
+Alternate Reality (AR) is an unfinished role-playing video game series that has achieved cult status among many fans of RPGs.<ref name=gamasutra></ref> It was created by Philip Price, who formed a development company called Paradise Programming. Published by Datasoft, AR: The City was released in 1985 and AR: The Dungeon was released in 1987.<ref name=gamasutra/> Price was unable to complete the second game in the series, and The Dungeon was finished by Ken Jordan and Dan Pinal. Gary Gilbertson created the music for both games.

@@ -1,0 +1,50 @@
+Cymbal alloys
+
+==Bell bronze==
+Bell bronze, also known as bell metal, is the traditional alloy used for fine Cymbal, many Gong, and, as the name suggests, bells.
+It is normally stated to be one part tin to four parts copper, that is 20% tin, and this is still the most common formula, but there has always been some variation. Larger and smaller bells are cast with differing amounts of tin, and some bell, gong, and cymbal makers use small but significant amounts of other elements, notably silver, gold, and phosphorus.
+Bell bronze is a two-phase alloy, meaning some of the tin is not dissolved in the copper grains but exists between them. This makes the metal harder and more brittle than a single-phase alloy,
+and also affects the way the metal responds to hardening by hammering and lathing, and greatly restricts the use of mechanised techniques of manufacture. Major orchestras generally use bell-bronze cymbals, which are capable of a greater dynamic range than any others. They are also generally the preferred cymbals of drum kit players.
+==Signature Bronze Alloys==
+In 1989 Paiste released professional cymbal series composed of sheet metal bronze with about 15% tin. Though the manufacturing requires the metal to be rolled hot at certain stages, it is not tempered like traditional B20 cymbals but annealed. Using this alloy allows for greater consistency between blanks compared to traditional cymbal alloy, and is more applicable to Paiste's 2002 production methods. urltoken Examples include Paiste Signatures, Traditionals and Dark Energy. Paiste calls this Signature Bronze or Sound Formula, and for a time produced no bell metal cymbals, but now produces high-end cymbals of both this alloy and bell bronze. Since then, other manufactures followed the lead and implemented lines of high tin sheet metal alloy. Zildjian Project 391 series employed Paiste alloy explicitly, however many companies (Zildjian included) produce cymbals with B12 (Such as Zildjian ZHT, now S series) and B10 alloys. Meinl cymbals are well known for employing both alloys.
+There is some evidence that a similar sheet alloy was used by the Hammerax company (though with added iron and nickel. <ref> urltoken 
+<br />
+==Malleable bronze==
+Malleable bronze is an alloy of tin and copper containing typically 8% tin. It is a single-phase alloy and can be cold rolled into sheets, unlike bell bronze. It is readily available as commercial sheet metal in many grades and thicknesses.
+Cymbal bronzes containing 8% tin are most normally called B8 alloy. Paiste refer to their 8% tin bronze as 2002 alloy.
+From the mid 20th century there were attempts to make top-quality cymbals from malleable bronze, originally for reasons of economy. As the Paiste patent referred to above says:
+Less than three decades ago experiments were carried out for economical considerations with a commercial common bronze sheet or plating containing 8% tin by weight. The result was that the old bronze rule was confirmed and proven to be correct. One had to realize that with careful working and processing of the cymbal it was possible to achieve considerable qualitative results with the bronze sheet or plating containing 8% by weight tin, but these results could never approach the results obtained with traditional cymbals having a tin content of 20% by weight.
+Not everyone agrees with this unfavourable assessment, written well after the development of the very successful Paiste 2002 series. In particular, top-line malleable bronze cymbals proved exceptionally suitable for the louder music then developing. The best of them now approach, and some claim equal, the best bell bronze cymbals in quality.
+Examples of malleable bronze cymbals include: Harpy H, Meinl One of a Kind, Meinl Custom and Amun,
+Meinl Lightning and Raker, Meinl Classics and some Generation X,
+Meinl Trooper and Cadet, Orion Solo Pro and Solo Pro Master, Orion Viziuss, Paiste 2002 and Giant Beat, Paiste 802 and Alpha, Paiste 502 and some Exotic Percussion, Pearl Pro, Meinl MCS, Sabian B8 and B8 Pro, Sabian Pro, Sabian Pro Sonix, Sabian APX, Sabian B8X, Soultone Custom Brilliant, Soultone Extreme, Soultone Natural, Soultone Vintage, Soultone Vintage OldSchool 1964, Soultone Gospel, UFIP Tiger, UFIP Supernova, Zildjian I Series, ZBT, ZXT, ZHT, and the sonic "XXX" series by Krash Cymbalz, a B10 alloy line for the heavy-handed, aggressive drummer.<ref>krashcymbalz.com/ceo Derek "D-DAY" Kendall</ref>
+==Brass==
+Some of the finest traditional gongs and china cymbals and nearly all zills are made from brass. However, it is widely used in cymbals. Brass cymbals are inexpensive beginners' cymbals, not meant to last long; the rigidity of brass yields cymbals harsh in sound and very prone to cracks at the bell hole and the border. 
+Many of the "show" cymbals provided by many drum kit manufacturers for use in shop window displays are also made from brass. These are typically very poor in tone, some even being disks of untreated metal and unplayable despite the reputable brand name they may bear.
+The brass for cymbals is about 38% zinc in copper, which is very easily worked, readily available as sheet metal, and easily the cheapest metal stock normally used for cymbals. The tone of brass cymbals tends to be warm but dull compared to any sort of tin bronze, and very few drummers exploit it.
+Examples of brass cymbals include: Harpy B, Meinl Marathon M38, Meinl Meteor, Meinl HCS, Orion Twister, Paiste 101, Paiste 302 and some Exotic Percussion, Pearl, Royal, Twister Series by Orion, Solar and Sbr by Sabian, Soultone Intro, UFIP M8, Planet Z by Zildjian. Nearly all zill of all makes are also made out of brass.
+==Nickel silver==
+Nickel silver as used in cymbal making is an alloy of copper and nickel, and an alloy with about 12% nickel is used for some beginners' cymbals.
+A very few specialised high-quality cymbals are also made from nickel silver, as are some top-quality gongs tending to the more modern and exotic sounds.
+Some maintain that the term nickel silver should only be used for alloys containing an appreciable content of zinc, and would call this cymbal alloy nickel bronze instead, but the use of the term nickel silver for all cymbal bronzes with nickel as the main alloying metal is well established.
+Nickel silver is malleable and available as commercial sheet metal, and gives a bright tone but without the shimmer and sensitivity of tin bronzes. In the early to mid 20th century nickel alloy cymbals were far more widely produced and used, and so many older recordings were probably made using cymbals with a significant nickel content.
+Evelyn Glennie is particularly noted for exploiting the tones of nickel silver cymbals.
+Examples of nickel silver cymbals include: Some Foremost, Meinl Streamer and Marathon N12, Paiste 402, the original 1970s Paiste 101 (current 101s are Brass) and some Exotic Percussion, Sabian Signature Glennies Garbage, and some Zilco.
+==Other metals==
+Cymbals have also been made from silicon and aluminum bronzes but these alloys have not become generally popular.
+Meinl FX9 is an alloy of 69% copper, 15% manganese, 15% zinc and 1% aluminium, and was used for the new Meinl Generation X line released in 2003. Previous Generation X models were made from malleable bronze. FX9 is described by Meinl as not being a bronze at all, and was previously described by their sales literature as containing tin rather than zinc. There is a minority view that the word "bronze" should be reserved for two-phase alloys, which may be their usage here.
+Unlike cymbals, some gongs are made from several different metals fused together. Many different metals have been used. Parts of some traditional gongs, notably the bosses of some "nipple" gongs, are made from iron based alloys.
+A few independent cymbal makers have also used stainless steel and titanium to produce cymbals and gongs.
+==See also==
+* Cymbal making
+* Cymbal manufacturers
+==References==
+;Sources
+* The Cymbal Book, Hugo Pinksterboer - techniques and culture of current cymbal makers
+* The Cymbal Book, Hal Leonard, - comprehensive history
+==External links==
+How Alloying Elements Affect the Properties of Copper Alloys
+( urltoken 
+ru:Сплавы для тарелок
+
+Cymbals are made from four main alloys, all of them copper-based. These are: bell bronze, Ductility bronze, brass, and nickel silver.

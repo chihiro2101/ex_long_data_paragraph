@@ -1,0 +1,127 @@
+.50 BMG
+
+==History==
+John Browning had the idea for this round during World War I in response to a need for an anti-aircraft weapon, based on a scaled-up .30-06 Springfield design, used in a machine gun based on a scaled-up M1919/M1917 design that Browning had initially developed around 1900 (but which was not adopted by the U.S. military until 1917, hence the model designation).<ref name="Skinner2013"></ref> Armor-piercing incendiary tracer (APIT) rounds were especially effective against aircraft, and the AP rounds and armor-piercing incendiary (API) rounds were excellent for destroying concrete bunkers, structures, and lighter armored fighting vehicles (AFVs). The API and APIT rounds left a flash, report, and smoke on contact, useful in detecting strikes on targets.<ref>Dunlap, Roy F., Ordnance Went Up Front, Samworth Press (1948), pp. 311–312.</ref>
+The development of the .50 BMG round is sometimes confused with the German 13.2&nbsp;mm TuF, which was developed by Germany for an anti-tank rifle to combat British tanks during WWI and against aircraft. According to the American Rifleman: "Actually, the Browning .50 originated in the Great War. American interest in an armor-piercing cartridge was influenced by the marginal French 11 mm design, prompting U.S. Army Ordnance officers to consult Browning. They wanted a heavy projectile at 2700 feet per second (f.p.s.), but the ammunition did not exist. Browning pondered the situation and, according to his son John, replied, 'Well, the cartridge sounds pretty good to start. You make up some cartridges and we'll do some shooting.'"<ref name="AR50">Barrett Tillman, American Rifleman,February 23, 2017, urltoken </ref>
+The American Rifleman further explains that development was "reputedly influenced by Germany's 13.2x92 mm SR (.53-cal.) anti-tank rifle" and that then "Ordnance contracted with Winchester to design a .50-cal. cartridge. Subsequently, Frankford Arsenal took over from Winchester, producing the historic .50 BMG or 12.7x99 mm cartridge. The Army then returned to John Browning for the actual gun. Teamed with Colt, he produced prototypes ready for testing and, ironically, completed them by Nov. 11, 1918—the Great War's end."<ref name="AR50"/>
+The round was put into use in the M1921 Browning machine gun. This gun was later developed into the M2HB Browning which with its .50 caliber armor-piercing cartridges went on to function as an anti-aircraft and anti-vehicular machine gun, capable of penetrating of face-hardened armor steel plate at ,<ref></ref> of rolled homogeneous armor at the same range,<ref></ref> and at .<ref>Barnes, Frank C., Cartridges of the World, U.S. Army .50 BMG Cartridge Specifications, DBI Books (1989), , p. 432.</ref>
+The concept of a .50 caliber machine gun was not an invention of this era; this caliber (.50 inch) had been used in Maxim gun and in a number of manual rapid-fire guns such as the original Gatling gun, although these were much lower power cartridges.
+During World War II the .50 BMG was primarily used in the M2 Browning machine gun, in both its "light barrel" aircraft mount version and the "heavy barrel" (HB) version on ground vehicles, for anti-aircraft purposes. An upgraded variant of the M2 Browning HB machine gun used during World War II is still in use today. Since the mid-1950s, some armored personnel carriers and utility vehicles have been made to withstand 12.7&nbsp;mm machine gun fire, restricting the destructive capability of the M2. It still has more penetrating power than lighter weapons such as general-purpose machine guns, though it is significantly heavier and more cumbersome to transport. Its range and accuracy, however, are superior to light machine guns when fixed on tripods, and it has not been replaced as the standard caliber for Western vehicle-mounted machine guns (Soviet and CIS armored vehicles mount 12.7×108mm NSVs, which are ballistically similar to .50 BMGs).
+Decades later, the .50 BMG was chambered in high-powered rifles as well.<ref name="Skinner2013"/> The Barrett M82 .50 caliber rifle and later variants were developed during the 1980s and have upgraded the anti-materiel power of the military sniper.<ref name="Skinner2013"/> A skilled sniper can effectively neutralize an infantry unit by eliminating several targets (soldiers or equipment) without revealing his precise location. The long range (over one mile) between firing position and target allows time for the sniper to avoid enemy retaliation by either changing positions repeatedly, or by safely retreating.
+==Power==
+A common method for understanding the actual power of a cartridge is comparison of muzzle energy. The .30-06 Springfield, the standard caliber for American soldiers in both World Wars and a popular caliber amongst American hunters, can produce muzzle energies between . The .50 BMG round can produce between , depending on its powder and bullet type, as well as the weapon it is fired from. Due to the high ballistic coefficient of the bullet, the .50 BMG's trajectory also suffers less "drift" from cross-winds than smaller and lighter calibers, making the .50 BMG a good choice for high-powered sniper rifles.<ref name="Michaelis2000"></ref>
+==Cartridge dimensions==
+The .50 BMG (12.7×99mm NATO) cartridge has a capacity of 290 grains (19&nbsp;ml H<sub>2</sub>O). The round is a scaled-up version of the .30-06 Springfield but uses a case wall with a long taper to facilitate feeding and extraction in various weapons.
+The common rifling twist rate for this cartridge is 1 in , with eight lands and grooves. The primer type specified for this ammunition is a boxer primer that has a single centralized ignition point (US and NATO countries).<ref> urltoken NATO Infantry Weapons Standardization, Per G. Arvidsson, ChairmanWeapons & Sensors Working GroupLand Capability Group 1 - Dismounted Soldier NATO Army Armaments Group </ref> However, some other countries produce the ammunition with Berdan primers that have two flash holes.
+The average chamber pressure in this round as listed in TM43-0001-27,<ref></ref> the U.S. Army Ammunition Data Sheets&nbsp;—&nbsp;Small Caliber Ammunition, not including plastic practice, short cased spotter, or proof/test loads, is . The proof/test pressure is listed as .
+== Military cartridge types ==
+The .50 BMG cartridge is also produced commercially with a plethora of different bullets and to a number of different specifications.
+; Cartridge, caliber .50, tracer, M1: This tracer is used for observing fire, signaling, target designation, and incendiary purposes. This bullet has a red tip.
+; Cartridge, caliber .50, incendiary, M1: This cartridge is used against unarmored, flammable targets. The incendiary bullet has a light blue tip
+; Cartridge, caliber .50, ball, M2: This cartridge is used against personnel and unarmored targets. This bullet has an unpainted tip.
+; Cartridge, caliber .50, armor piercing (AP), M2: This cartridge is used against lightly armored vehicles, protective shelters, and personnel, and can be identified by its black tip.
+; Cartridge, caliber .50, armor-piercing incendiary (API), M8: This cartridge is used, in place of the armor-piercing round, against armored, flammable targets. The bullet has a silver tip.
+; Cartridge, caliber .50, tracer, M10: Tracer for observing fire, signaling, target designation, and incendiary purposes. Designed to be less intense than the M1 tracer, the M10 has an orange tip.
+; Cartridge, caliber .50, tracer, M17: Tracer for observing fire, signaling, target designation, and incendiary purposes. Can be fired from the M82/M107 series of rifles.
+; Cartridge, caliber .50, armor-piercing incendiary tracer (API-T), M20: This cartridge is used in place of the armor-piercing round against armored, flammable targets, with a tracer element for observation purposes. This cartridge is effectively a variant of the M8 armor-piercing incendiary with the added tracer element. Can be fired from the M82/M107 series of rifles. This bullet has a red tip with a ring of aluminum paint.
+; Cartridge, caliber .50, tracer, headlight, M21: Tracer for use in observing fire during air-to-air combat. Designed to be more visible, the M21 is three times more brilliant than the M1 tracer.
+; Cartridge, caliber .50, incendiary, M23: This cartridge is used against unarmored, flammable targets. The tip of the bullet is painted blue with a light blue ring.
+; Cartridge, caliber .50, ball, M33: This cartridge is used against personnel and unarmored targets. Can be fired from the M82/M107 series of rifles.
+; Cartridge, caliber .50, saboted light armor penetrator (SLAP), M903: This cartridge has a 355 – 360 gr (23.00 – 23.33&nbsp;g) heavy metal (tungsten) penetrator that is sabot-launched at a muzzle velocity of 4,000&nbsp;ft/s (1,219&nbsp;m/s). The 0.50 in (12.7&nbsp;mm) diameter sabot is designed to separate after leaving the muzzle, releasing the 0.30 (7.62&nbsp;mm) penetrator. It is injection molded of special high strength plastic and is reinforced with an aluminum insert in the base section. The cartridge is identified by an amber sabot (Ultem 1000). For use only in the M2 series of machine guns. This round can penetrate 0.75in (19&nbsp;mm) of steel armor at .<ref name="photobucket"></ref>
+; Cartridge, caliber .50, saboted light armor penetrator tracer (SLAP-T), M962: Like the M903, this is a SLAP round, with the only difference being that the M962 also has a tracer element for observing fire, target designation, and incendiary purposes. It has a red plastic sabot for identification, and is used only in the M2 series of machine guns.
+; Cartridge, caliber .50, ball, XM1022: A long-range match cartridge specifically designed for long-range work using the M107 rifle.
+; Cartridge, caliber .50, M1022 long-range sniper: The .50 caliber M1022 has an olive green bullet coating with no tip ID coloration. The projectile is of standard ball design. It is designed for long-range sniper training and tactical use against targets that do not require armor-piercing or incendiary effects. It exhibits superior long range accuracy and is trajectory matched to MK211 grade A. The M1022 is ideal for use in all .50 caliber bolt-action and semi-automatic sniper rifles.<ref name="atk.com"></ref> The bullet remains supersonic out to from to .<ref> urltoken Cartridges for Long-Range Sniping Rifles by Anthony G Williams </ref>
+thumb
+; Cartridge, caliber .50, Raufoss Mk 211 (HEIAP), Mk 211 Mod 0: A "combined effects" cartridge, the Raufoss Mk 211 Mod 0 HEIAP cartridge contains a .30 caliber tungsten penetrator, zirconium powder, and Composition A explosive. It can be used in any .50 caliber weapon in the US inventory with the exception of the M85 machine gun. The cartridge is identified by a green tip with a gray ring.
+; Cartridge, caliber .50, armor-piercing incendiary dim tracer (API-DT), Mk 257: The .50 caliber Mk 257 API-DT has a purple bullet tip. The bullet has a hardened steel core and incendiary tip. It is used in the M2, M3, and M85. Dim trace reduces the possibility of the weapon being located during night fire and is visible only with night-vision devices.<ref name="atk.com" />
+; Cartridge, caliber .50, armor-piercing (AP), Mk 263 Mod 2: The .50 caliber Mk 263 has a black tip. The bullet has a hardened steel core and features double valleys to reduce bearing surface thereby decreasing friction and increasing stability. It is used in the M2, M3, and M85.
+; Cartridge, caliber .50, armor-piercing incendiary tracer (API-T), Mk 300 Mod 0: as with the Mk 211 Mod 0, but with a tracer component. This cartridge likely can be used in any .50 caliber weapon in the US inventory with the exception of the M85 machine gun, as with the Mk 211 Mod 0.
+; Cartridge, caliber .50, armor piercing explosive incendiary (APEI), Mk 169 Mod 2: This cartridge is used against hardened targets such as bunkers, for suppressive fire against lightly armored vehicles, and ground and aerial threat suppression. It is generally fired either from pilot-aimed aircraft-mounted guns or anti-aircraft platforms, both produced by FN Herstal.<ref> urltoken Janes listing of the FN Herstal .50 cal M3P coaxial weapon system (Belgium). </ref> It is identified by a gray over yellow tip.<ref> urltoken Igman Ammunition Cal. 12.7 x 99&nbsp;mm, APEI, M 02 </ref> A tracer variant of it also exists.
+; Cartridge, caliber .50, ball, Mk 323 Mod 0: Created by the Naval Surface Warfare Center Crane Division, this cartridge uses M33 ball projectiles in polymer cases instead of brass. It has a clear polymer case, with a standard brass head fused at the bottom. The Mk 323 can be fired from M2HB/M2A1 machine guns and GAU-21/A aircraft guns with the same performance. It gives a 25 percent weight savings over brass-cased ammunition and allows 40 percent more ammunition to be carried for the same weight. The Mk 323's polymer casing is applied to tracer, AP, API, and SLAP projectiles.<ref> urltoken Crane Using Lightweight .50 Cal Ammo - Kitup. Military.com, September 11, 2011.</ref><ref name="dtic"></ref>
+DARPA (Defense Advanced Research Projects Agency) contracted with Teledyne Scientific Company to develop the EXACTO program, including a .50-caliber guided bullet. Videos published by DARPA show the guided bullet diverting to strike a moving target.<ref></ref><ref></ref><ref></ref><ref></ref>
+==Links used for feeding machine guns==
+Two distinct and non-compatible metallic links have been used for the .50 BMG cartridge, depending upon the machine gun which will be firing the cartridges. The M2 and M9 links, "pull-out" designs, are used in the Browning M2 and M3 machine guns.<ref></ref><ref></ref>
+Pull-out cloth belts were also used at one time, but have been obsolete since 1945. The M15-series "push-through" links were used in the M85 machine gun.
+==Legal issues==
+The specified maximum diameter of an unfired .50 BMG bullet is ; while this appears to be over the .50 inch (12.7&nbsp;mm) maximum allowed for non-sporting Title I firearms under the U.S. National Firearms Act, the barrel of a .50 BMG rifle is only .50 inch (12.7&nbsp;mm) across the rifling lands and slightly larger in the grooves. The oversized bullet is formed to the bore size upon firing, forming a tight seal and engaging the rifling, a mechanism which in firearm terms is known as swaging. Subject to political controversy due to the great power of the cartridge (it is the most powerful commonly available cartridge not considered a destructive device under the National Firearms Act), it remains popular among long-range shooters for its accuracy and external ballistics. While the .50 BMG round is able to deliver accurate shot placement (if match grade ammunition is used) at ranges over , smaller caliber rifles produce better scores and tighter groups in competitions.<ref></ref>
+In response to legal action against the .50 BMG in the United States and Europe, an alternative chambering was developed. The .510 DTC Europ uses the same bullet, but has slightly different case dimensions. .510 DTC cases can be made by fire-forming .50 BMG cases in a .510 DTC chambered rifle. The new round has almost identical ballistics, but because of the different dimensions, rifles chambered for .50 BMG cannot fire the .510 DTC, and therefore rifles chambered for .510 DTC do not fall under many of the same legal prohibitions. Barrett offers a similar alternative, the .416 Barrett, which is based on a shortened .50 BMG case necked down to .416 caliber (10.3&nbsp;mm).
+A 1999 Justice Department Office of Special Investigations briefing on .50 caliber rifle crime identified several instances of the .50 BMG being involved in criminal activities.<ref></ref> Most of the instances of criminal activity cited in the Office of Special Investigations briefing involved the illegal possession of a .50 BMG rifle. The briefing did not identify any instance of a .50 BMG rifle being used in the commission of a murder.
+In the United States, Washington, D.C. disallows registration of .50 BMG rifles, thus rendering civilian possession unlawful.<ref name="atf."></ref><ref name=Giffords_50cal_2018></ref> California prohibits the private purchase of a rifle capable of firing the .50 BMG through the .50 Caliber BMG Regulation Act of 2004.<ref name="ca_legis."></ref> Connecticut specifically bans the Barrett M82 .50 BMG rifle.<ref name="ct_ga."></ref> However, .50 BMG rifles registered prior to the enacted bans remain lawful to possess in California<ref name=Giffords_50cal_2018/><ref></ref> and Connecticut.<ref name=Giffords_50cal_2018/><ref></ref> Maryland imposes additional regulations on the sale and transfer of .50 BMG rifles and other "regulated firearms", and limits purchases of any firearm within this class to one per month, but does not impose registration requirements or any form of categorical ban.<ref name=Giffords_50cal_2018/>
+Within the United Kingdom, it is legal to own a bolt action .50 BMG rifle with a section 1 Firearms Certificate.<ref name="fcsa."></ref> Applications requesting firearms in this caliber are assessed by the same criteria as smaller calibers; with the applicant having to prove they have a valid reason for owning such a weapon.<ref name="gov"></ref>
+Contrary to a persistent misconception within the United States Armed Forces, using .50 BMG directly against enemy personnel is not prohibited by the laws of war.<ref></ref> Writing for the Marine Corps Gazette, Maj Hays Parks states that "No treaty language exists (either generally or specifically) to support a limitation on the use of .50 BMG against personnel, and its widespread, longstanding use in this role suggests that such antipersonnel employment is the customary practice of nations." Parks theorizes that the misconception originated in historical doctrine discouraging the use of the M8C spotting rifle—an integral .50-caliber aiming aid for the M40 recoilless rifle—in the antipersonnel role. This limitation was entirely tactical in nature and was intended to hide the vulnerable M40 and its crew from the enemy until the main anti-tank gun was ready for firing; however, Parks concludes that some U.S. troops assumed the existence of a legal limitation on the use of .50-caliber projectiles more generally.
+On May 1, 2020, Prime Minister Justin Trudeau announced a ban on various "military-style" firearms in Canada. This ban includes firearms that chamber the .50BMG. The ban includes a two-year amnesty period before the firearms must be surrendered, with an as-yet-unannounced compensation program in the works.<ref></ref><ref></ref>
+==Typical uses==
+The primary military use of this round is in the Browning M2HB heavy machine gun and the Barrett M82 anti-material rifle.
+The U.S. Coast Guard uses .50 BMG rifles to disable outboard engines from armed helicopters during interdictions. Similarly, .50 BMG weapons have attracted attention from law enforcement agencies; they have been adopted by the New York City Police Department as well as the Pittsburgh Police. A .50 BMG round can effectively disable a vehicle when fired into the engine block. If it is necessary to breach barriers, a .50 BMG round will penetrate most commercial brick walls and concrete cinder blocks.
+The .50 BMG round has been used as a sniper round as early as the Korean War.<ref name="Senich1993"></ref> The former record for a confirmed long-distance kill was set by U.S. Marine sniper Carlos Hathcock in 1967 during the Vietnam War, at a distance of ;<ref></ref> Hathcock used the .50 BMG in an M2 Browning equipped with a telescopic sight. This weapon was used by other snipers, and eventually purpose-built sniper rifles were developed specifically for this round.
+In June 2017, a McMillan Tac-50 was used by a sniper with Canada's Joint Task Force 2 to kill an Islamic State insurgent in Iraq, setting the longest recorded sniper kills shot in military history at .<ref></ref> Before that record, Canadian Army Corporal Rob Furlong of the PPCLI achieved what was then the longest-range confirmed sniper kill in history when he shot a Taliban combatant at during the 2002 campaign in the Afghanistan War.<ref></ref> This was surpassed in 2009 by a British sniper in Afghanistan with using a .338 Lapua Magnum (8.58×70&nbsp;mm) rifle.<ref></ref><ref></ref>
+In addition to long-range and anti-materiel sniping, the U.S. military uses .50 BMG weapons to detonate unexploded ordnance from a safe distance. It can disable most unarmored and lightly armored vehicles.<ref name="Cutshaw2011"></ref>
+Some civilians use .50 caliber rifles for long-range target shooting: the US-based Fifty Caliber Shooters Association holds .50 BMG shooting matches.<ref> urltoken Match dates at the Fifty Caliber Shooters Association </ref>
+==Partial list of .50 BMG firearms==
+===Carbines===
+* Barrett M82CQ (a carbine version of the M82A3)
+* Bushmaster BA50 carbine (22" barrel version of the BA50)
+* Serbu Firearms BFG-50 Carbine (22" barrel version of the BFG-50 single-shot bolt-action)<ref name="serbu1"></ref>
+===Rifles===
+* Accuracy International AS50
+* Accuracy International AW50
+* Accuracy International AX50
+* Armalite AR-50
+* Arms Tech Ltd. TTR-50<ref></ref>
+* Barrett M82
+* Barrett M95
+* Barrett M99
+* Bushmaster BA50<ref></ref>
+* Desert Tech HTI
+* DSR-50
+* EDM Arms Windrunner<ref></ref>
+* Gepard anti-materiel rifle
+* L.A.R. Manufacturing, Inc. Grizzly Big Boar
+* McMillan Tac-50
+* OM 50 Nemesis<ref></ref>
+* PGM Hecate II
+* Pindad SPR-2 and Pindad SPR-3<ref name="pindad"></ref>
+* Ramo M600<ref></ref>
+* Robar RC-50
+* Serbu Firearms BFG-50 (single-shot bolt-action)<ref name="serbu1"/>
+* Serbu Firearms BFG-50a (magazine fed semi-automatic)<ref></ref>
+* Serbu Firearms RN-50 (single-shot modified break-action)<ref></ref>
+* Snipex M
+* Snipex Rhino Hunter
+* Steyr HS .50
+* WKW Wilk
+* Zastava M93 Black Arrow
+===Machine guns===
+* GAU-19
+* M1921 Browning machine gun
+* M2 Browning
+* M85 machine gun
+* MAC-58 - did not enter production
+* Rolls-Royce Experimental Machine Gun - only built as prototype
+* STK 50MG
+* XM218
+* XM312
+* XM806
+===Pistols===
+*Triple Action Thunder
+===Chain gun===
+*Profense PF 50
+==See also==
+* .50 caliber handguns
+* 12&nbsp;mm caliber
+* 12.7×108mm (Russian equivalent)
+* 14.5×114mm
+* List of firearms
+* List of rifle cartridges
+* Table of handgun and rifle cartridges
+* High Explosive Incendiary/Armor Piercing Ammunition
+* .510 DTC EUROP
+* .510 Whisper
+* NATO EPVAT testing
+* Gun laws in the United States (by state)
+* .50 Caliber BMG Regulation Act of 2004
+==References==
+==External links==
+
+The .50 Browning Machine Gun (.50 BMG, 12.7×99mm NATO and designated as the 50 Browning by the C.I.P.<ref name="C.I.P. TDCC"/>) is a caliber firearm cartridge developed for the M2 Browning machine gun in the late 1910s, entering official service in 1921. Under STANAG 4383, it is a standard service cartridge for NATO forces as well as many non-NATO countries. The cartridge itself has been made in many variants: multiple generations of regular ball, tracer, armor-piercing (AP), incendiary, and saboted sub-caliber rounds. The rounds intended for machine guns are made into a continuous belt using metallic links.
+The .50 BMG cartridge is also used in long-range sniper rifles and anti-materiel rifles. A wide variety of ammunition is available, and the availability of match grade ammunition has increased the usefulness of .50 caliber rifles by allowing more accurate fire than lower quality rounds.<ref name="Sweeney2015"></ref>

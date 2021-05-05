@@ -1,0 +1,44 @@
+Damascius
+
+==Life==
+Damascius was born in Damascus in Syria, whence he derived his name: his Syrian name is unknown. In his early youth he went to Alexandria, where he spent twelve years partly as a pupil of Theon, a rhetorician, and partly as a professor of rhetoric. He was then convinced by his teacher Isidore to shift his focus to philosophy and science, and studied under Hermias and his sons, Ammonius and Heliodorus. Later on in life he migrated to Athens and continued his studies under Marinus, the mathematician, Zenodotus, and Isidore, the dialectician. He became a close friend of Isidore, succeeded him as head of the School of Athens in ca. 515, and wrote his biography, part of which is preserved in the Bibliotheca of Photius.<ref name="EB1911"></ref> In Athens he met Severianus of Damascus.
+In 529, Justinian I closed the school, and Damascius with six of his colleagues sought an asylum, probably in 532, at the court of Khosrau I of Persia. They found the conditions intolerable, and when the following year Justinian and Khosrau concluded a peace treaty, it was provided that the philosophers should be allowed to return.<ref>Agathias, Scholast. ii. 30</ref> It is believed that Damascius returned to Alexandria and there devoted himself to the writing of his works.<ref name="EB1911"/>
+Among the disciples of Damascius the most important are Simplicius, the celebrated commentator on Aristotle, Epictetus, and Eulamius. He dedicated his Life of Isidore to his disciple Theodora. We have no further particulars of the life of Damascius; we only know that he did not found any new school, and thus Neoplatonist philosophy ended its external existence.
+==Writings==
+His chief treatise is entitled Difficulties and Solutions of First Principles . It examines the nature and attributes of God and the human soul. This examination is, in two respects, in striking contrast to that of certain other Neoplatonist writers. It is conspicuously free from Oriental mysticism, and it contains no polemic against Christianity, to the doctrines of which, in fact, there is no allusion. Hence the charge of impiety which Photius brings against him. In this treatise Damascius inquires into the first principle of all things, which he finds to be an unfathomable and unspeakable divine depth, being all in one, but undivided. His main result is that God is infinite, and as such, incomprehensible; that his attributes of goodness, knowledge and power are credited to him only by inference from their effects; that this inference is logically valid and sufficient for human thought. He insists throughout on the unity and the indivisibility of God.<ref name="EB1911"/> This work is, moreover, of great importance for the history of philosophy, because of the great number of accounts which it contains concerning former philosophers.
+The rest of Damascius's writings are for the most part commentaries on works of Aristotle and Plato. The surviving commentaries are: 
+*Commentary on Plato's Parmenides.
+*Commentary on Plato's Phaedo. This work has been erroneously ascribed to Olympiodorus the Younger.<ref name="reale1">Giovanni Reale, John R. Catan, 1989, A History of Ancient Philosophy: The Schools of the Imperial Age, page 546. SUNY Press.</ref>
+*Commentary on Plato's Philebus. Also erroneously ascribed to Olympiodorus.<ref name="reale1"/>
+Among the lost works there were:
+*Commentaries on Plato's Timaeus, First Alcibiades, and other dialogues.
+*Commentaries on Aristotle's De Caelo, and other works. The writings of Damascius on Time, Space, and Number, cited by Simplicius in his commentary on Aristotle's Physica,<ref>Simplicius, fol. 189, b., 153, a., 183, b.</ref> are perhaps parts of his commentaries on Aristotle's writings.
+*Life of Isidore. Damascius's biography of his teacher Isidore (perhaps a part of the philosophos historia attributed to Damascius by the Suda), of which Photius<ref>Photius, Cod. 242, comp. 181; in volume 6 of the edition by Rene Henry.</ref> has preserved a considerable fragment. The text has been reconstructed and translated recently.<ref>Polymnia Athanassiadi (ed.), Damascius. The Philosophical History. Athens: Apamea Cultural Association, 1999. Pp. 403. . urltoken BMCR review</ref> It is considered the source containing most details about the life of Ammonius Hermiae.<ref></ref>
+*Logoi Paradoxoi, in 4 books, of which Photius<ref>Photius, Cod. 130</ref> also gives an account and specifies the respective titles of the books.
+Mazzucchi (2006) has argued that Damascius was the author of the Pseudo-Dionysius, the "last counter-offensive of the pagan" (l'ultima controffensiva del paganesimo).
+==See also==
+*Iamblichus
+*Plotinus
+*Proclus
+*Simplicius of Cilicia
+*Decline of Greco-Roman polytheism
+*Azone
+*Ammonius Saccas
+==References==
+==Sources==
+*Polymnia Athanassiadi, Persecution and Response in late Paganism. The evidence of Damascius. In: Journal of Hellenic Studies 113 (1993), pp.&nbsp;1–29.
+*Cosmin Andron, Damascius on Knowledge and its Object. In: Rhizai 1 (2004) pp.&nbsp;107–124
+*Sebastian R. P. Gertz, urltoken Death and Immortality in Late Neoplatonism: Studies on the Ancient Commentaries on Plato's Phaedo, Leiden: Brill, 2011.
+* Sebastian R. P. Gertz, urltoken "From ‘Immortal’ to ‘Imperishable’: Damascius on the Final Argument in Plato’s Phaedo". In: Ancient Readings of Plato’s Phaedo (Leiden: 2015), 240-55.
+*Raban von Haehling, Damascius und die heidnische Opposition im 5. Jahrhundert nach Christus. In: Jahrbuch für Antike und Christentum 23 (1980), pp.&nbsp;82–85.
+*Udo Hartmann, Geist im Exil. Römische Philosophen am Hof der Sasaniden. In: Udo Hartmann/Andreas Luther/Monika Schuol (eds.), Grenzüberschreitungen. Formen des Kontakts zwischen Orient und Okzident im Altertum. Stuttgart 2002, pp.&nbsp;123–160.
+*Androniki Kalogiratou, The Portrayal of Socrates by Damascius. In: Phronimon: Journal of the South African Society for Greek Philosophy and the Humanities 7 (1) 2006, pp.&nbsp;45–54.
+*Androniki Kalogiratou, Theology in Philosophy: The Case of the Late Antique Neoplatonist Damascius. In Skepsis: A Journal for Philosophy and Interdisciplinary Research XVIII, i-ii, 2007, pp.&nbsp;58–79. 
+*John R. Martindale, John Morris, The Prosopography of the Later Roman Empire II. Cambridge 1980, pp.&nbsp;342f.
+*Carlo Maria Mazzucchi, Damascio, Autore del Corpus Dionysiacum, e il dialogo Περι Πολιτικης Επιστημης. In: Aevum: Rassegna di scienze storiche linguistiche e filologiche 80, Nº 2 (2006), pp.&nbsp;299–334.
+*Carlo Maria Mazzucchi, Iterum de Damascio Areopagita. In: Aevum: Rassegna di scienze storiche linguistiche e filologiche 87, Nº 1 (2013), pp.&nbsp;249–265.
+*Sara Ahbel-Rappe, Scepticism in the sixth century? Damascius’ 'Doubts and Solutions Concerning First Principles,' Journal of the History of Philosophy 36 (1998), pp.&nbsp;337–363.
+*Sara Ahbel-Rappe, Damascius' Problems and Solutions Regarding First Principles, (New York, 2010) (OUP USA American Academy of Religion - Texts & Translation).
+*Marilena Vlad, urltoken Damascius et l’ineffable. Récit de l’impossible discours (Paris, Vrin, 2019)
+
+Damascius ; , 458 &ndash; after 538), known as "the last of the Neoplatonism," was the last scholarch of the School of Athens. He was one of the pagan philosophers persecuted by Emperor Justinian I in the early 6th century AD, and was forced for a time to seek refuge in the Persian court, before being allowed back into the Empire. His surviving works consist of three commentaries on the works of Plato, and a Metaphysics text entitled Difficulties and Solutions of First Principles.

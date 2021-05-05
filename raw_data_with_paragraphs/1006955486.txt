@@ -1,0 +1,47 @@
+Seven Bridges of Königsberg
+
+==Euler's analysis==
+First, Euler pointed out that the choice of route inside each land mass is irrelevant. The only important feature of a route is the sequence of bridges crossed. This allowed him to reformulate the problem in abstract terms (laying the foundations of graph theory), eliminating all features except the list of land masses and the bridges connecting them. In modern terms, one replaces each land mass with an abstract "vertex" or node, and each bridge with an abstract connection, an "edge", which only serves to record which pair of vertices (land masses) is connected by that bridge. The resulting mathematical structure is a graph.
+<span style="font-size: 300%;">
+ →
+ →
+</span>
+Since only the connection information is relevant, the shape of pictorial representations of a graph may be distorted in any way, without changing the graph itself. Only the existence (or absence) of an edge between each pair of nodes is significant. For example, it does not matter whether the edges drawn are straight or curved, or whether one node is to the left or right of another.
+Next, Euler observed that (except at the endpoints of the walk), whenever one enters a vertex by a bridge, one leaves the vertex by a bridge. In other words, during any walk in the graph, the number of times one enters a non-terminal vertex equals the number of times one leaves it. Now, if every bridge has been traversed exactly once, it follows that, for each land mass (except for the ones chosen for the start and finish), the number of bridges touching that land mass must be even (half of them, in the particular traversal, will be traversed "toward" the landmass; the other half, "away" from it). However, all four of the land masses in the original problem are touched by an odd number of bridges (one is touched by 5 bridges, and each of the other three is touched by 3). Since, at most, two land masses can serve as the endpoints of a walk, the proposition of a walk traversing each bridge once leads to a contradiction.
+In modern language, Euler shows that the possibility of a walk through a graph, traversing each edge exactly once, depends on the degrees of the nodes. The degree of a node is the number of edges touching it. Euler's argument shows that a necessary condition for the walk of the desired form is that the graph be connected and have exactly zero or two nodes of odd degree. This condition turns out also to be sufficient—a result stated by Euler and later proved by Carl Hierholzer. Such a walk is now called an Eulerian path or Euler walk in his honor. Further, if there are nodes of odd degree, then any Eulerian path will start at one of them and end at the other. Since the graph corresponding to historical Königsberg has four nodes of odd degree, it cannot have an Eulerian path.
+An alternative form of the problem asks for a path that traverses all bridges and also has the same starting and ending point. Such a walk is called an Eulerian circuit or an Euler tour. Such a circuit exists if, and only if, the graph is connected, and there are no nodes of odd degree at all. All Eulerian circuits are also Eulerian paths, but not all Eulerian paths are Eulerian circuits.
+Euler's work was presented to the St. Petersburg Academy on 26 August 1735, and published as Solutio problematis ad geometriam situs pertinentis (The solution of a problem relating to the geometry of position) in the journal Commentarii academiae scientiarum Petropolitanae in 1741.<ref> urltoken The Euler Archive, commentary on publication, and original text, in Latin.</ref> It is available in English translation in The World of Mathematics by James R. Newman.
+==Significance in the history and philosophy of mathematics==
+In the history of mathematics, Euler's solution of the Königsberg bridge problem is considered to be the first theorem of graph theory and the first true proof in the theory of networks,<ref></ref> a subject now generally regarded as a branch of combinatorics. Combinatorial problems of other types had been considered since antiquity.
+In addition, Euler's recognition that the key information was the number of bridges and the list of their endpoints (rather than their exact positions) presaged the development of topology. The difference between the actual layout and the graph schematic is a good example of the idea that topology is not concerned with the rigid shape of objects.
+Hence, as Euler recognized, the "geometry of position" is not about "measurements and calculations" but about something more general. That called in question the traditional Aristotelian view that mathematics is the "science of quantity". Though that view fits arithmetic and Euclidean geometry, it did not fit topology and the more abstract structural features studied in modern mathematics.
+Philosophers have noted that Euler's proof is not about an abstraction or a model of reality, but directly about the real arrangement of bridges. Hence the certainty of mathematical proof can apply directly to reality.<ref>J. Franklin, An Aristotelian Realist Philosophy of Mathematics, Palgrave Macmillan, Basingstoke, 2014, pp.&nbsp;48–9, 96, 215, 225; J. Franklin, urltoken The formal sciences discover the philosophers' stone, Studies in History and Philosophy of Science 25 (4) (1994), pp.&nbsp;513–533.</ref>
+==Present state of the bridges==
+Two of the seven original bridges did not survive the bombing of Königsberg in World War II. Two others were later demolished and replaced by a modern highway. The three other bridges remain, although only two of them are from Euler's time (one was rebuilt in 1935).<ref></ref> 
+Thus, , five bridges exist at the same sites that were involved in Euler's problem.
+In terms of graph theory, two of the nodes now have degree 2, and the other two have degree 3. Therefore, an Eulerian path is now possible, but it must begin on one island and end on the other.<ref></ref>
+The University of Canterbury in Christchurch has incorporated a model of the bridges into a grass area between the old Physical Sciences Library and the Erskine Building, housing the Departments of Mathematics, Statistics and Computer Science.<ref></ref> The rivers are replaced with short bushes and the central island sports a stone tōrō. Rochester Institute of Technology has incorporated the puzzle into the pavement in front of the Gene Polisseni Center, an ice hockey arena that opened in 2014.<ref></ref>
+==See also==
+* Eulerian path
+* Five room puzzle
+* Glossary of graph theory
+* Hamiltonian path
+* Icosian game
+* Water, gas, and electricity
+==References==
+==External links==
+* urltoken Kaliningrad and the Konigsberg Bridge Problem at urltoken Convergence
+* urltoken Euler's original publication (in Latin)
+* urltoken The Bridges of Königsberg
+* urltoken How the bridges of Königsberg help to understand the brain
+* urltoken Euler's Königsberg's Bridges Problem at urltoken Math Dept. Contra Costa College
+* urltoken Pregel – A Google graphing tool named after this problem
+* urltoken Present day Graph Problem
+
+The Seven Bridges of Königsberg is a historically notable problem in mathematics. Its negative resolution by Leonhard Euler in 1736<ref>Euler, Leonhard (1736). "Solutio problematis ad geometriam situs pertinentis". Comment. Acad. Sci. U. Petrop 8, 128–40.</ref> laid the foundations of graph theory and prefigured the idea of topology.<ref> Shields provides a discussion of the social significance of Euler's engagement with this popular problem and its significance as an example of (proto-)topological understanding applied to everyday life.</ref>
+The city of Königsberg in Prussia (now Kaliningrad, Russia) was set on both sides of the Pregolya, and included two large islands—Kneiphof and Lomse—which were connected to each other, or to the two mainland portions of the city, by seven bridges. The problem was to devise a walk through the city that would cross each of those bridges once and only once.
+By way of specifying the logical task unambiguously, solutions involving either
+# reaching an island or mainland bank other than via one of the bridges, or
+# accessing any bridge without crossing to its other end 
+are explicitly unacceptable.
+Euler proved that the problem has no solution. The difficulty he faced was the Topology#Motivation, and of subsequent tests that established this assertion with mathematical rigor.

@@ -1,0 +1,118 @@
+Salyut 7
+
+==Description==
+Salyut 7 was the backup vehicle for Salyut 6 and very similar in equipment and capabilities. With delays to the Mir programme it was decided to launch the back-up vehicle as Salyut 7. In orbit the station suffered technical failures though it benefited from the improved payload capacity of the visiting Progress and Soyuz craft and the experience of its crews who improvised many solutions (such as a fuel line rupture in September 1983 requiring EVAs by the Soyuz T-10 to repair). It was aloft for eight years and ten months (a record not broken until Mir), during which time it was visited by 10 crews constituting six main expeditions and four secondary flights (including French and Indian cosmonauts). The station also saw two flights of Svetlana Savitskaya making her the second woman in space since Valentina Tereshkova first flew in June 1963 and the first woman to perform an EVA during which she conducted metal cutting and welding alongside her colleague Vladimir Dzhanibekov.<ref name="welding"></ref> Aside from the many experiments and observations made on Salyut 7, the station also tested the docking and use of large modules with an orbiting space station. The modules were called "Heavy Kosmos modules" though in reality were variants of the TKS spacecraft intended for the cancelled Almaz military space station. They helped engineers develop technology necessary to build Mir.
+==Equipment==
+It had two docking ports, one on either end of the station, to allow docking with the Progress unmanned resupply craft, and a wider front docking port to allow safer docking with a Heavy Kosmos module. It carried three solar panels, two in lateral and one in dorsal longitudinal positions, but they now had the ability to mount secondary panels on their sides. Internally, the Salyut 7 carried electric stoves, a refrigerator, constant hot water and redesigned seats at the command console (more like bicycle seats). Two portholes were designed to allow ultraviolet light in, to help kill infections.<ref name=portree1/> The medical, biological and exercise sections were improved, to allow long stays in the station. The BST-1M telescope used in Salyut 6 was replaced by an X-ray detection system.<ref></ref>
+Salyut 7 was the most advanced and most comfortable space station of the Salyut series. A set of modifications to the interior made it more liveable. There were approximately 20 windows with shades on the Salyut 7. To protect the inside of the windows, they were covered with removable glass panels. The colour scheme was improved and a refrigerator was installed. The ceiling on the Salyut 7 was white; the left wall was apple green and the right one beige <ref></ref><ref></ref>
+==Crews and missions==
+Following up the use of Kosmos 1267 on Salyut 6, the Soviets launched Kosmos 1443 on 2 March 1983 from a Proton SL-13. It docked with the station on 10 March, and was used by the crew of Soyuz T-9. It jettisoned its recovery module on 23 August, and re-entered the atmosphere on 19 September. Kosmos 1686 was launched on 27 September 1985, docking with the station on 2 October. It did not carry a recovery vehicle, and remained connected to the station for use by the crew of Soyuz T-14. Ten Soyuz T crews operated in Salyut 7. Only two Interkosmos "guest cosmonauts" worked in Salyut 7. The Soyuz T-10-1 was aborted on the launch pad when a fire broke out at the base of the vehicle. The payload was ejected, and the crew was recovered safely.
+===Resident crews===
+Salyut 7 had six resident crews.
+* The first crew, Anatoli Berezovoy and Valentin Lebedev, arrived on 13 May 1982 on Soyuz T-5 and remained for 211 days until 10 December 1982.<ref name=portree1/>
+* On 27 June 1983, the crew of Vladimir Lyakhov and Alexander Alexandrov arrived on Soyuz T-9 and remained for 150 days, until 23 November 1983. 
+* On 8 February 1984, Leonid Kizim, Vladimir Solovyov and Oleg Atkov began a 237-day stay, the longest on Salyut 7, which ended on 2 October 1984.
+* Vladimir Dzhanibekov and Viktor Savinykh (Soyuz T-13) arrived at the space station on 6 June 1985 to repair its malfunctions. 
+* On 17 September 1985, Soyuz T-14 docked with the station carrying Vladimir Vasyutin, Alexander Volkov and Georgi Grechko. Eight days later Dzhanibekov and Grechko left the station and returned to Earth after 103 days, while Savinyikh, Vasyutin and Volkov remained on Salyut 7 and returned to Earth on 21 November 1985 after 65 days. 
+* On 6 May 1986, Soyuz T-15 carrying Leonid Kizim and Vladimir Solovyov docked with the space station and undocked, after a 50-day stay, on 25 June 1986. The Soyuz had come from the Mir space station and returned to Mir on 26 June 1986 in a flight lasting 29 hours.
+There were also four visiting missions, crews which came to bring supplies and make shorter duration visits with the resident crews.
+==Technical and crew problems==
+The station suffered from two major problems, the first of which required extensive repair work to be performed on a number of EVAs.
+===Leaks===
+On 9 September 1983, during the stay of Vladimir Lyakhov and Alexander Alexandrov, while reorienting the station to perform a radiowave transmission experiment, Lyakhov noticed the pressure of one fuel tank was almost zero. Following this, Alexandrov spotted a fuel leak when looking through the aft porthole. Ground control decided to try to repair the damaged pipes, in what was the most complex repair attempted during EVA at the time. This was to be attempted by the next crew, the current one lacking the necessary training and tools. The damage was eventually repaired by Leonid Kizim and Vladimir Solovyov, who needed four EVAs to fix two leaks. A special tool to fix the third leak was delivered by Soyuz T-12, and the leak was subsequently fixed.<ref name="rzim">Leaving Earth, by Robert Zimmerman, , 2003.</ref>
+===Loss of power===
+On 11 February 1985, contact with Salyut 7 was lost. The station began to drift, and all systems shut down. At this time the station was uninhabited, after the departure of Leonid Kizim, Vladimir Solovyov and Oleg Atkov, and before the next crew arrived. It was once again decided to attempt to repair the station. The work was performed by Vladimir Dzhanibekov and Viktor Savinykh on the Soyuz T-13 mission during June 1985, in what was in the words of author David S. F. Portree "one of the most impressive feats of in-space repairs in history".<ref name=portree1/> This operation forms the basis of the 2017 Russian film Salyut 7.
+All Soviet and Russian space stations were equipped with automatic rendezvous and docking systems, from the first space station Salyut 1 using the Igla system, to the Russian Orbital Segment of the International Space Station using the Kurs system. Upon arrival, on 6 June 1985, the Soyuz crew found the station was not broadcasting radar or telemetry for rendezvous, and after arrival and external inspection of the tumbling station, the crew estimated proximity using handheld laser rangefinders.
+Dzhanibekov piloted his ship to intercept the forward port of Salyut 7 and matched the station's rotation. After hard docking to the station and confirming the station's electrical system was dead, Dzhanibekov and Savinykh sampled the station atmosphere prior to opening the hatch. Attired in winter fur-lined clothing, they entered the station to conduct repairs. The fault was eventually found to be an electrical sensor that determined when the batteries needed charging.
+Once the batteries were replaced, the station started charging them, and warmed up over the next few days.<ref name="rzim"/> Within a week sufficient systems were brought back online to allow uncrewed Progress cargo ships to dock with the station.<ref name=portree1/>
+==End of life==
+Salyut 7 was last inhabited in 1986 by the crew of Soyuz T-15, who ferried equipment from Salyut 7 to the new Mir space station. Between 19 and 22 August 1986, engines on Kosmos 1686 boosted Salyut 7 to a record-high mean orbital altitude of 475&nbsp;km to forestall reentry until 1994. Retrieval at a future date by a Buran shuttle was also planned.<ref> urltoken Astronautix, Salyut 7.</ref>
+However, unexpectedly high solar activity in the late 1980s and early 1990s increased atmospheric drag on the station and sped its orbital decay. It finally underwent an uncontrolled reentry on 7 February 1991 over the town of Capitán Bermúdez in Argentina after it overshot its intended entry point, which would have placed its debris in uninhabited portions of the southern Pacific Ocean.<ref> urltoken aero.org, Spacecraft Reentry FAQ:</ref><ref></ref>
+==Expeditions and visiting spacecraft==
+Notation:
+* EO or PE means Principal Expedition
+* EP or VE means Visiting Expedition
+===Expeditions===
+===Docking operations===
+On three occasions, a visiting Soyuz craft was transferred from the station's aft port to its forward port. This was done to accommodate upcoming Progress shuttles, which could only refuel the station using connections available at the aft port. Typically, the resident crew would first dock at the forward port, leaving the aft port available for Progress craft and visiting Soyuz support crews. When a support crew docked at the aft port and left in the older, forward Soyuz, the resident crew would move the new vehicle forward by boarding it, undocking, and translating some 100–200 meters away from Salyut 7. Then, ground control would command the station itself to rotate 180 degrees, and the Soyuz would close and re-dock at the forward port. Soyuz T-7, T-9 and T-11 performed the operation, piloted by resident crews.<ref>Portree, Mir Hardware Heritage, pp. 90-102.</ref>
+==Specifications==
+Specifications of the baseline 1982 Salyut 7 module, from Mir Hardware Heritage (1995, NASA RP1357):<ref name=portree1/>
+* Length – about 16 m
+* Maximum diameter – 4.15 meters
+* Habitable volume – 90 m³
+* Weight at launch – 19,824&nbsp;kg
+* Launch vehicle – Proton rocket (three-stage)
+* Orbital inclination – 51.6°
+* Span across solar arrays – 17 m
+* Area of solar arrays – 51 m²
+* Number of solar arrays – 3
+* Electricity available – 4.5&nbsp;kW
+* Resupply carriers – Soyuz-T, Progress, TKS spacecraft
+* Docking System – Igla or manual approach
+* Number of docking ports – 2
+* Total manned missions – 12
+* Total unmanned missions – 15
+* Total long-duration missions – 6
+* Number of main engines – 2
+* Main engine thrust (each) – 300&nbsp;kg
+==Visiting spacecraft and crews==
+(Launched crews. Spacecraft launch and landing dates listed.)
+* Soyuz T-5 – 13 May – 27 August 1982
+** Anatoli Berezovoy
+** Valentin Lebedev
+* Soyuz T-6 – 24 June – 2 July 1982 – Intercosmos Flight
+** Vladimir Dzhanibekov
+** Aleksandr Ivanchenkov
+** Jean-Loup Chrétien – France
+* Soyuz T-7 – 19 August – 10 December 1982
+** Leonid Popov
+** Aleksandr Serebrov
+** Svetlana Savitskaya
+* Soyuz T-8 – 20–22 April 1983 – Failed docking
+** Vladimir Titov
+** Gennady Strekalov
+** Aleksandr Serebrov
+* Soyuz T-9 – 27 June – 23 November 1983
+** Vladimir Lyakhov
+** Alexander Alexandrov
+* Soyuz T-10-1 – 26 September 1983 – Launch abort
+** Vladimir Titov
+** Gennady Strekalov
+* Soyuz T-10 – 8 February – 11 April 1984
+** Leonid Kizim
+** Vladimir Solovyov
+** Oleg Atkov
+* TKS 3 – 4 March – 14 August 1983 – Launched unmanned as Kosmos 1443.
+* Soyuz T-11 – 3 April – 2 October 1984 – Intercosmos Flight
+** Yury Malyshev
+** Gennady Strekalov
+** Rakesh Sharma – India
+* Soyuz T-12 – 17–29 July 1984
+** Vladimir Dzhanibekov
+** Svetlana Savitskaya
+** Igor Volk
+* Soyuz T-13 – 6 June – 26 September 1985
+** Vladimir Dzhanibekov
+** Viktor Savinykh
+* Soyuz T-14 – 17 September – 21 November 1985
+** Vladimir Vasyutin
+** Georgi Grechko
+** Alexander Volkov
+* TKS 4 – September 1985 – 7 February 1991 – Launched unmanned as Kosmos 1686. Featured a high-resolution photo apparatus and optical sensor experiments (infrared telescope and Ozon spectrometer).
+* Soyuz T-15 – 13 March – 16 July 1986 – Also visited Mir
+** Leonid Kizim
+** Vladimir Solovyov
+==In popular culture==
+The repair and reactivation of the station by Soyuz T-13 is the subject of the 2017 Russian historical drama Salyut 7. These events also served as a plot base for the Polish fiction novel Połowa nieba (pol. Half the sky), by Bartek Biedrzycki (first published 2018), collected in Zimne światło gwiazd in 2020.
+==See also==
+* List of spacewalks
+* Skylab
+* STS-61 (Hubble Space Telescope mirror fix-mission)
+==References==
+<references/>
+==External links==
+* 
+*
+
+Salyut 7 ; (a.k.a. DOS-6<ref name=portree1/>) was a space station in low Earth orbit from April 1982 to February 1991.<ref name=portree1> urltoken David Portree – Mir Hardware Heritage (1995) – Page 90-95 – NASA RP1357</ref> It was first crewed in May 1982 with two crew via Soyuz T-5, and last visited in June 1986, by Soyuz T-15.<ref name=portree1/> Various crew and modules were used over its lifetime, including 12 crewed and 15 uncrewed launches in total.<ref name=portree1/> Supporting spacecraft included the Soyuz T, Progress, and TKS spacecraft.<ref name=portree1/>
+It was part of the Soviet Salyut programme, and launched on 19 April 1982 on a Proton rocket from Site 200/40 at the Baikonur Cosmodrome in the Soviet Union. Salyut 7 was part of the transition from "monolithic" to "modular" space stations, acting as a testbed for docking of additional modules and expanded station operations. It was the tenth space station of any kind launched. Salyut 7 was the last space station of the Salyut Program, which was replaced by Mir.

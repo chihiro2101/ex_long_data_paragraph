@@ -1,0 +1,701 @@
+Global 200
+
+==Background==
+The WWF has identified 867 terrestrial ecoregions across the Earth's land surface, as well as freshwater and marine ecoregions. The goal of this classification system is to ensure that the full range of ecosystems will be represented in regional conservation and development strategies. Of these ecoregions, the WWF selected the Global 200 as the ecoregions most crucial to the conservation of global biodiversity. The Global 200 list actually contains 238 ecoregions, made up of 142 terrestrial, 53 freshwater, and 43 marine ecoregions.
+Conservationists interested in preserving biodiversity have generally focused on the preservation of tropical moist broadleaf forests (commonly known as tropical rainforests) because it is estimated that they harbor one half of Earth's species. On the other hand, the WWF determined that a more comprehensive strategy for conserving global biodiversity should also consider the other half of species, as well as the ecosystems that support them.
+Several habitats, such as Mediterranean forests, woodlands, and scrub biome, were determined to be more threatened than tropical rain forests, and therefore require concerted conservation action. WWF maintains that "although conservation action typically takes place at the country level, patterns of biodiversity and ecological processes (e.g., migration) do not conform to political boundaries", which is why ecoregion-based conservation strategies are deemed essential.
+===Classification===
+Historically, zoologists and botanists have developed various classification systems that take into account the world's plant and animal communities. Two of the worldwide classification systems most commonly used today were summarized by Miklos Udvardy in 1975.
+The Earth's land surface can be divided into eight biogeographic realms (formerly called kingdoms, and which the BBC calls ecozones) that represent the major terrestrial communities of animals and plants, and are a synthesis of previous systems of floristic provinces and faunal regions. The biome system classifies the world into ecosystem types (i.e. forests, grasslands, etc.) based on climate and vegetation. Each biogeographical realm contains multiple biomes, and biomes occur across several biogeographical realms. A system of biogeographical provinces was developed to identify specific geographic areas in each biogeographical realm that were of a consistent biome type, and shared distinct plant and animal communities. The WWF system represents a further refinement of the system of biomes (which the WWF calls "major habitat types"), biogeographical realms, and biogeographical provinces (the WWF scheme divides most biogeographical provinces into multiple smaller ecoregions).
+===Selection process===
+Based on a comprehensive list of ecoregions, The Global 200 includes all major habitat types (biomes), all ecosystem types, and species from every major habitat type. It focuses on each major habitat type of every continent (such as tropical forests or coral reefs). It uses ecoregions as the unit of scale for comparison. WWF say ecoregions could be considered as conservation units at regional scale because they meet similar biological communities.
+Some ecoregions were selected over other ecoregions of the same major habitat type (biome) or realm. Selection of the Global 200 relied on extensive studies of 19 terrestrial, freshwater, and marine major habitat types. Selection of the ecoregions was based on analyses of species richness, species endemism, unique higher taxa, unusual ecological or evolutionary phenomena, and global rarity of major habitat type.
+Global 200 ecoregion list is most helpful to conservation efforts at a regional scale: local deforestation, destruction of swamp habitats, degradation of soils, etc. However, certain phenomena, such as bird or whale migration, depend on more complex parameters not used to define the current database, such as atmospheric currents and dynamic pelagic ecosystems. These would require gathering more information, and co-ordination of efforts between multiple ecoregions. However, the Global 200 ecoregions can help these efforts by identifying habitat sites and resting sites for migratory animals. It may also help identify the origin of invasive species, and offer insights for slowing down or stopping their intrusion.
+==Global 200: Terrestrial==
+===Tropical and subtropical moist broadleaf forests===
+====Afrotropic====
+*Guinean moist forests
+**AT0111 Eastern Guinean forests
+**AT0114 Guinean montane forests
+**AT0130 Western Guinean lowland forests
+*Congolian coastal forests<ref> urltoken Congolian Coastal Forests - A Global Ecoregion</ref>
+**AT0102 Atlantic Equatorial coastal forests
+**AT0107 Cross–Sanaga–Bioko coastal forests
+**AT0127 Sao Tome, Principe and Annobon moist lowland forests
+*Cameroon Highlands forests
+**AT0103 Cameroonian Highlands forests
+**AT0121 Mount Cameroon and Bioko montane forests
+*Northeastern Congolian lowland forests
+**AT0124 Northeastern Congolian lowland forests
+*Central Congo Basin Moist Forests
+**AT0104 Central Congolian lowland forests
+**AT0110 Eastern Congolian swamp forests
+*Western Congo Basin Moist Forests
+**AT0126 Northwestern Congolian lowland forests 
+**AT0129 Western Congolian swamp forests
+*Albertine Rift montane forests
+**AT0101 Albertine Rift montane forests
+*East African Coastal Forests
+**AT0125 Northern Zanzibar–Inhambane coastal forest mosaic
+**AT0128 Southern Zanzibar–Inhambane coastal forest mosaic
+*Eastern Arc Montane Forests (Kenya, Tanzania)
+**AT0108 East African montane forests
+*Madagascar lowlands and subhumid forests
+**AT0117 Madagascar lowland forests
+**AT0118 Madagascar subhumid forests
+*Seychelles and Mascarene Islands moist forests
+**AT0113 Granitic Seychelles forests
+**AT0120 Mascarene forests
+====Australasia====
+*Sulawesi moist forests
+**AA0123 Sulawesi lowland rain forests
+**AA0124 Sulawesi montane rain forests
+*Moluccas moist forests (Indonesia)
+**AA0106 Halmahera rain forests
+*Southern New Guinea lowland forests
+**AA0122 Southern New Guinea lowland rain forests
+*New Guinea montane forests
+**AA0116 Northern New Guinea montane rain forests
+*Solomons-Vanuatu-Bismarck moist forests
+**AA0101 Admiralty Islands lowland rain forests
+**AA0111 New Britain-New Ireland lowland rain forests
+**AA0112 New Britain-New Ireland montane rain forests
+**AA0119 Solomon Islands rain forests
+**AA0126 Vanuatu rain forests
+*Queensland tropical rain forests
+**AA0117 Queensland tropical rain forests
+*New Caledonia moist forests
+**AA0113 New Caledonia rain forests
+*Lord Howe&ndash;Norfolk Islands forests
+**AA0109 Lord Howe Island subtropical forests
+====Indomalaya====
+*South Western Ghats montane rain forests and moist deciduous forests
+**IM0150 South Western Ghats moist deciduous forests
+**IM0151 South Western Ghats montane rain forests
+*Sri Lanka moist forests
+**IM0154 Sri Lanka lowland rain forests
+**IM0155 Sri Lanka montane rain forests
+*Northern Indochina Subtropical moist forests
+**IM0137 Northern Indochina subtropical forests
+*Southeast China-Hainan moist forests
+**IM0149 South China–Vietnam subtropical evergreen forests
+**IM0169 Hainan Island monsoon rain forests
+*Taiwan montane forests
+**IM0172 Taiwan subtropical evergreen forests
+*Annamite Range moist forests (Cambodia, Laos, Vietnam)
+**IM0136 Northern Annamites rain forests
+**IM0152 Southern Annamites montane rain forests
+*Sumatran Islands lowland and montane forests
+**IM0157 Sumatran freshwater swamp forests
+**IM0158 Sumatran lowland rain forests
+**IM0159 Sumatran montane rain forests
+**IM0160 Sumatran peat swamp forests
+*Philippines moist forests
+**IM0114 Greater Negros–Panay rain forests
+**IM0122 Luzon montane rain forests
+**IM0123 Luzon rain forests
+**IM0128 Mindanao montane rain forests
+**IM0129 Mindanao–Eastern Visayas rain forests
+**IM0130 Mindoro rain forests
+**IM0156 Sulu Archipelago rain forests
+*Palawan moist forests
+**IM0143 Palawan rain forests
+*Kayah-Karen/Tenasserim moist forests
+**IM0119 Kayah-Karen montane rain forests
+**IM0163 Tenasserim-South Thailand semi-evergreen rain forests
+*Peninsular Malaysian lowland and montane forests
+**IM0144 Peninsular Malaysian montane rain forests
+**IM0145 Peninsular Malaysian peat swamp forests
+**IM0146 Peninsular Malaysian rain forests
+*Borneo lowland and montane forests
+**IM0102 Borneo lowland rain forests
+**IM0103 Borneo montane rain forests
+**IM0104 Borneo peat swamp forests
+*Nansei Shoto Archipelago forests (Japan)
+**IM0170 Nansei Islands subtropical evergreen forests
+*Eastern Deccan Plateau moist forests (India)
+**IM0111 Eastern highlands moist deciduous forests
+*Naga-Manupuri-Chin hills moist forests (Bangladesh, India, Myanmar)
+**IM0109 Chin Hills–Arakan Yoma montane forests
+**IM0120 Lower Gangetic Plains moist deciduous forests
+**IM0131 Mizoram–Manipur–Kachin rain forests
+*Cardamom Mountains moist forests
+**IM0106 Cardamom Mountains rain forests
+*Western Java montane forests
+**IM0167 Western Java montane rain forests
+*Maldives–Lakshadweep–Chagos Archipelago tropical moist forests
+**IM0125 Maldives–Lakshadweep–Chagos Archipelago tropical moist forests
+====Neotropic====
+*Greater Antilles moist forests
+**NT0120 Cuban moist forests
+**NT0127 Hispaniolan moist forests
+**NT0131 Jamaican moist forests
+**NT0155 Puerto Rican moist forests
+*Talamancan-Isthmian Pacific forests
+**NT0167 Talamancan montane forests
+*Choco - Darien moist forests
+**NT0115 Choco-Darien moist forests
+*Northern Andean montane forests
+**NT0145 Northwestern Andean montane forests
+*Coastal Venezuela montane forests
+**NT0147 Orinoco Delta swamp forests
+**NT0169 Tepuis
+**NT0171 Trinidad and Tobago moist forests
+*Guianan moist forests
+**NT0125 Guianan moist forests
+*Napo moist forests
+**NT0142 Napo moist forests
+*Rio Negro - Jurua moist forests
+**NT0132 Japura-Solimoes-Negro moist forests
+**NT0133 Jurua-Purus moist forests
+**NT0158 Rio Negro campinarana
+*Guayana Highlands moist forests
+**NT0124 Guayanan Highlands moist forests
+*Central Andean yungas
+**NT0105 Bolivian Yungas
+**NT0153 Peruvian Yungas
+*Southwestern Amazonian moist forests
+**NT0166 Southwest Amazon moist forests
+*Atlantic forests
+**NT0103 Bahia coastal forests
+**NT0151 Pernambuco coastal forests
+**NT0160 Serra do Mar coastal forests
+====Oceania====
+*South Pacific Islands forests (American Samoa - United States, Cook Islands - New Zealand, Fiji, French Polynesia - France, Niue - New Zealand, Samoa, Tonga, Wallis and Futuna Islands - France)
+**OC0102 Central Polynesian tropical moist forests
+**OC0103 Cook Islands tropical moist forests
+**OC0104 Eastern Micronesia tropical moist forests
+**OC0105 Fiji tropical moist forests
+**OC0112 Samoan tropical moist forests
+**OC0114 Tongan tropical moist forests
+**OC0117 Western Polynesian tropical moist forests
+*Hawaii moist forests
+**OC0106 Hawaiian tropical rainforests
+===Tropical and subtropical dry broadleaf forests===
+====Afrotropic====
+*Madagascar dry deciduous forests
+**AT0202 Madagascar dry deciduous forests
+====Australasia====
+*Nusa Tenggara Dry Forests (Indonesia)
+**AA0201 Lesser Sundas deciduous forests
+**AA0203 Sumba deciduous forests
+**AA0204 Timor and Wetar deciduous forests
+*New Caledonia dry forests
+**AA0202 New Caledonia dry forests
+====Indomalaya====
+*Indochina dry forests
+**IM0202 Central Indochina dry forests
+*Chhota - Nagpur dry forests
+**IM0203 Chota Nagpur dry deciduous forests
+====Neotropic====
+*Mexican dry forests
+**NT0204 Bajio dry forests
+**NT0205 Balsas dry forests
+**NT0227 Sierra de la Laguna dry forests
+*Tumbesian - Andean valleys dry forests (Colombia, Ecuador, Peru)
+**NT0201 Apure-Villavicencio dry forests
+**NT0214 Ecuadorian dry forests
+**NT0221 Magdalena Valley dry forests
+**NT0223 Marañón dry forests
+**NT0232 Tumbes-Piura dry forests
+*Chiquitano dry forests
+**NT0212 Chiquitano dry forests
+*Atlantic dry forests
+**NT0202 Atlantic dry forests
+====Oceania====
+*Hawaii dry forests
+**OC0202 Hawaiian tropical dry forests
+===Tropical and subtropical coniferous forests===
+====Nearctic====
+*Sierra Madre Oriental and Occidental pine-oak forests
+**NA0302 Sierra Madre Occidental pine-oak forests
+**NA0303 Sierra Madre Oriental pine-oak forests
+====Neotropic====
+*Greater Antillean pine forests
+**NT0304 Cuban pine forests
+**NT0305 Hispaniolan pine forests
+*Mesoamerican pine-oak forests (El Salvador, Guatemala, Honduras, Mexico, Nicaragua)
+**NT0308 Selva Zoque
+**NT0309 Sierra Madre del Sur pine-oak forests
+**NT0310 Trans-Mexican Volcanic Belt pine-oak forests
+===Temperate broadleaf and mixed forests===
+====Australasia====
+*Eastern Australia temperate forests
+**AA0402 Eastern Australian temperate forests
+*Tasmanian temperate rain forests
+**AA0413 Tasmanian temperate rain forests
+*New Zealand temperate forests
+**AA0403 Fiordland temperate forests
+**AA0404 Nelson Coast temperate forests
+**AA0405 Northland temperate forests
+**AA0406 Northland temperate kauri forests
+**AA0407 Rakiura Island temperate forests
+**AA0410 Southland temperate forests
+**AA0414 Westland temperate forests
+====Indomalaya====
+*Eastern Himalayan broadleaf and conifer forests
+**IM0401 Eastern Himalayan broadleaf forests
+*Western Himalayan temperate forests
+**IM0403 Western Himalayan broadleaf forests
+====Nearctic====
+*Appalachian and mixed mesophytic forests
+**NA0402 Appalachian mixed mesophytic forests
+====Neotropic====
+*Valdivian temperate rain forests - Juan Fernández Islands
+**NT0401 Juan Fernández Islands temperate forests
+**NT0404 Valdivian temperate forests
+====Palearctic====
+*Southwest China temperate forests
+**PA0417 Daba Mountains evergreen forests
+**PA0434 Qin Ling Mountains deciduous forests
+**PA0437 Sichuan Basin evergreen broadleaf forests
+*Russian Far East temperate forests
+**PA0426 Manchurian mixed forests
+**PA0443 Ussuri broadleaf and mixed forests
+===Temperate coniferous forests===
+====Nearctic====
+*Pacific temperate rain forests
+**NA0510 Central Pacific coastal forests
+**NA0512 Eastern Cascades forests
+**NA0520 Northern Pacific coastal forests
+*Klamath - Siskiyou forests
+**NA0516 Klamath-Siskiyou forests
+*Sierra Nevada forests
+**NA0527 Sierra Nevada forests
+*Southeastern coniferous and broadleaf forests
+**NA0529 Southeastern conifer forests
+====Palearctic====
+*European-Mediterranean montane mixed forest
+**PA0501 Alps conifer and mixed forests
+**PA0513 Mediterranean conifer and mixed forests
+*Caucasus-Anatolian-Hyrcanian temperate forest (Armenia, Azerbaijan, Bulgaria, Georgia, Iran, Russia, Turkey, Turkmenistan)
+**PA0407 Caspian Hyrcanian mixed forests
+**PA0408 Caucasus mixed forests
+**PA0507 Elburz Range forest steppe
+**PA0515 Northern Anatolian conifer and deciduous forests
+*Altai - Sayan montane forests
+**PA0502 Altai montane forest and forest steppe
+**PA0519 Sayan montane conifer forests
+*Hengduan Shan coniferous forests
+**PA0509 Hengduan Mountains subalpine conifer forests
+===Boreal forests/taiga===
+====Nearctic====
+*Muskwa / Slave Lake boreal forests
+**NA0610 Muskwa-Slave Lake forests
+*Canadian Boreal Forests
+**NA0606 Eastern Canadian Shield taiga
+====Palearctic====
+*Ural Mountains taiga
+**PA0610 Urals montane tundra and taiga
+*East Siberian taiga
+**PA0601 East Siberian taiga
+*Kamchatka taiga and grasslands
+**PA0603 Kamchatka-Kurile meadows and sparse forests
+**PA0604 Kamchatka-Kurile taiga
+**painga mountains taiga
+===Tropical and subtropical grasslands, savannas, and shrublands===
+====Afrotropic====
+*Horn of Africa acacia savannas
+**AT0715 Somali Acacia-Commiphora bushlands and thickets
+*East African acacia savannas
+**AT0711 Northern Acacia-Commiphora bushlands and thickets
+*Central and Eastern miombo woodlands
+**AT0704 Central Zambezian miombo woodlands
+**AT0706 Eastern miombo woodlands
+*Sudanian savannas
+**AT0705 East Sudanian savanna
+**AT0722 West Sudanian savanna
+====Australasia====
+*Northern Australia and Trans-Fly savannas
+**AA0701 Arnhem Land tropical savanna
+**AA0702 Brigalow tropical savanna
+**AA0703 Cape York tropical savanna
+**AA0704 Carpentaria tropical savanna
+**AA0705 Einasleigh upland savanna
+**AA0706 Kimberley tropical savanna
+**AA0708 Trans-Fly savanna and grasslands
+====Indomalaya====
+*Terai-Duar savannas and grasslands
+**IM0701 Terai-Duar savanna and grasslands
+====Neotropic====
+*Llanos savannas
+**NT0709 Llanos
+*Cerrado woodlands and savannas
+**NT0704 Cerrado
+===Temperate grasslands, savannas, and shrublands===
+====Australasia====
+*Central Range subalpine grasslands
+**AA1002 Central Range sub-alpine grasslands
+====Nearctic====
+*Northern prairie
+**NA0810 Northern mixed grasslands
+**NA0811 Northern short grasslands
+**NA0812 Northern tall grasslands
+====Neotropic====
+*Patagonian steppe
+**NT0805 Patagonian steppe
+====Palearctic====
+*Daurian steppe
+**PA0804 Daurian forest steppe
+===Flooded grasslands and savannas===
+====Afrotropic====
+*Sudd - Sahelian flooded grasslands and savannas (Cameroon, Chad, Ethiopia, Mali, Niger, Nigeria, Sudan, Uganda)
+**AT0903 Inner Niger Delta flooded savanna
+**AT0904 Lake Chad flooded savanna
+**AT0905 Saharan flooded grasslands
+*Zambezian flooded savannas
+**AT0907 Zambezian flooded grasslands
+====Indomalaya====
+*Rann of Kutch flooded grasslands
+**IM0901 Rann of Kutch seasonal salt marsh
+====Neotropic====
+*Everglades flooded grasslands
+**NT0904 Everglades
+*Pantanal flooded savannas
+**NT0907 Pantanal
+===Montane grasslands and shrublands===
+====Afrotropic====
+*Ethiopian Highlands
+**AT1007 Ethiopian montane grasslands and woodlands
+**AT1008 Ethiopian montane moorlands
+*Southern Rift montane woodlands
+**AT1015 Southern Rift montane forest-grassland mosaic
+*East African moorlands
+**AT1005 East African montane moorlands
+*Drakensberg montane shrublands and woodlands
+**AT1003 Drakensberg alti-montane grasslands and woodlands
+**AT1004 Drakensberg montane grasslands, woodlands and forests
+====Australasian====
+* New Guinea Central Range subalpine grasslands
+====Indomalaya====
+*Kinabalu montane shrublands
+**IM1001 Kinabalu montane alpine meadows
+====Neotropic====
+*Northern Andean páramo
+**NT1006 Northern Andean páramo
+*Central Andean dry puna
+**NT1001 Central Andean dry puna
+====Palearctic====
+*Tibetan Plateau steppe
+**PA1020 Tibetan Plateau alpine shrublands and meadows
+*Middle Asian montane steppe and woodlands (Afghanistan, China, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan)
+**PA1011 North Tibetan Plateau-Kunlun Mountains alpine desert
+**PA1015 Qilian Mountains subalpine meadows
+**PA1013 Ordos Plateau steppe
+*Eastern Himalayan alpine meadows
+**PA1003 Eastern Himalayan alpine shrub and meadows
+===Tundra===
+====Nearctic====
+*Alaskan North Slope coastal tundra (Canada, United States)
+**NA1103 Arctic coastal tundra
+**NA1104 Arctic foothills tundra
+**NA1108 Brooks-British Range tundra
+*Canadian low arctic tundra (Canada)
+**NA1114 Low Arctic tundra
+**NA1116 Ogilvie-MacKenzie alpine tundra
+**NA1118 Torngat Mountain tundra
+====Palearctic====
+*Fenno - Scandia alpine tundra and taiga (Finland, Norway, Russia, Sweden)
+**PA1106 Kola Peninsula tundra
+**PA1110 Scandinavian Montane Birch forest and grasslands
+*Taimyr and Siberian coastal tundra
+**PA1107 Northeast Siberian coastal tundra
+**PA1111 Taimyr-Central Siberian tundra
+*Chukote coastal tundra (Russia)
+**PA1104 Chukchi Peninsula tundra
+===Mediterranean forests, woodlands, and scrub===
+====Afrotropic====
+*Fynbos
+**AT1202 Lowland fynbos and renosterveld
+**AT1203 Montane fynbos and renosterveld
+====Australasia====
+*Southwestern Australia forests and scrub
+**AA1201 Coolgardie woodlands
+**AA1202 Esperance mallee
+**AA1209 Southwest Australia savanna
+**AA1210 Southwest Australia woodlands
+*Southern Australia mallee and woodlands
+**AA1203 Eyre and York mallee
+**AA1206 Mount Lofty woodlands
+**AA1208 Naracoorte woodlands
+====Nearctic====
+*California chaparral and woodlands
+**NA1201 California coastal sage and chaparral
+**NA1202 California interior chaparral and woodlands
+**NA1203 California montane chaparral and woodlands
+====Neotropic====
+*Chilean Matorral
+**NT1201 Chilean Matorral
+====Palearctic====
+*Mediterranean forests, woodlands, and scrub
+**PA1214 Mediterranean woodlands and forests
+===Deserts and xeric shrublands===
+====Afrotropic====
+*Namib - Karoo - Kaokoveld deserts (Angola, Namibia, South Africa)
+**AT1310 Kaokoveld desert
+**AT1314 Nama Karoo
+**AT1315 Namib desert
+**AT1322 Succulent Karoo
+*Madagascar spiny thicket
+**AT1311 Madagascar spiny thickets
+*Socotra Island desert (Yemen)
+**AT1318 Socotra Island xeric shrublands
+*Arabian Highland woodlands and shrublands (Oman, Saudi Arabia, United Arab Emirates, Yemen)
+**AT1320 Southwestern Arabian foothills savanna
+**AT1321 Southwestern Arabian montane woodlands
+====Australasia====
+*Carnavon xeric scrub
+**AA1301 Carnarvon xeric shrublands
+*Great Sandy - Tanami deserts
+**AA1304 Great Sandy-Tanami desert
+====Nearctic====
+*Sonoran - Baja deserts
+**NA1301 Baja California desert
+**NA1310 Sonoran desert
+*Chihuahuan - Tehuacan deserts
+**NA1303 Chihuahuan desert
+====Neotropic====
+*Galápagos Islands scrub
+**NT1307 Galápagos Islands xeric scrub
+*Atacama - Sechura deserts
+**NT1303 Atacama desert
+**NT1315 Sechura desert
+====Palearctic====
+*Central Asian deserts (Kazakhstan, Kyrgyzstan, Uzbekistan, Turkmenistan)
+**PA1310 Central Asian northern desert
+**PA1312 Central Asian southern desert
+===Mangroves===
+====Afrotropic====
+*East African mangroves
+**AT1402 East African mangroves
+*Gulf of Guinea mangroves
+**AT1403 Guinean mangroves
+*Madagascar mangroves
+**AT1404 Madagascar mangroves
+====Australasia====
+*New Guinea mangroves
+**AA1401 New Guinea mangroves
+====Indomalaya====
+*Greater Sundas mangroves
+**IM1405 Sunda Shelf mangroves
+*Sundarbans mangroves
+**IM1406 Sundarbans mangroves
+====Nearctic====
+*Northwest Mexican coast mangroves
+**NA1401 Northwest Mexican coast mangroves
+====Neotropic====
+*Guianan - Amazon mangroves
+**NT1401 Alvarado mangroves
+**NT1402 Amapá mangroves
+**NT1406 Belizean reef mangroves
+**NT1411 Guianan mangroves
+**NT1427 Pará mangroves
+*Panama Bight mangroves
+**NT1414 Gulf of Panama mangroves
+**NT1409 Esmeraldes-Pacific Colombia mangroves
+**NT1418 Manabí mangroves
+**NT1413 Gulf of Guayaquil-Tumbes mangroves
+==Global 200: Freshwater ecoregions==
+===Large rivers===
+====Afrotropic====
+*Congo River and flooded forests (Angola, Democratic Republic of Congo, Republic of Congo)
+====Indomalaya====
+*Mekong River (Cambodia, China, Laos, Myanmar, Thailand, Vietnam)
+====Nearctic====
+*Colorado River (Mexico, United States)
+*Lower Mississippi River (United States)
+====Neotropic====
+*Amazon River and flooded forests (Brazil, Colombia, Peru)
+*Orinoco River and flooded forests (Brazil, Colombia, Venezuela)
+====Palearctic====
+*Yangtze River and lakes (China)
+===Large river headwaters===
+====Afrotropic====
+*Congo basin piedmont rivers and streams (Angola, Cameroon, Central African Republic, Democratic Republic of Congo, Gabon, Republic of Congo, Sudan)
+====Nearctic====
+*Mississippi piedmont rivers and streams (United States)
+====Neotropic====
+*Upper Amazon rivers and streams (Bolivia, Brazil, Colombia, Ecuador, French Guiana (France), Guyana, Peru, Suriname, Venezuela)
+*Upper Paraná rivers and streams (Argentina, Brazil, Paraguay)
+*Brazilian Shield Amazonian rivers and streams (Bolivia, Brazil, Paraguay)
+===Large river deltas===
+====Afrotropic====
+*Niger River delta (Nigeria)
+====Indomalaya====
+*Indus River Delta (India, Pakistan)
+====Palearctic====
+*Volga Delta (Kazakhstan, Russia)
+*Mesopotamian delta and marshes (Iran, Iraq, Kuwait)
+*Danube Delta (Bulgaria, Moldova, Romania, Ukraine, Yugoslavia)
+*Lena River delta (Russia)
+===Small rivers===
+====Afrotropic====
+*Upper Guinea rivers and streams (Côte d'Ivoire, Guinea, Liberia, Sierra Leone)
+*Madagascar freshwater (Madagascar)
+*Gulf of Guinea rivers and streams (Angola, Cameroon, Democratic Republic of Congo, Equatorial Guinea, Gabon, Nigeria, Republic of Congo)
+*Cape rivers and streams (South Africa)
+====Australasia====
+*New Guinea rivers and streams (Indonesia, Papua New Guinea)
+*New Caledonia rivers and streams (New Caledonia)
+*Kimberley rivers and streams (Australia)
+*Southwest Australia rivers and streams (Australia)
+*Eastern Australia rivers and streams (Australia)
+====Indomalaya====
+*Xi Jiang rivers and streams (China, Vietnam)
+*Western Ghats Rivers and Streams (India)
+*Southwestern Sri Lanka rivers and streams (Sri Lanka)
+*Salween River (China, Myanmar, Thailand)
+*Sundaland rivers and swamps (Brunei, Malaysia, Indonesia, Singapore)
+====Nearctic====
+*Southeastern rivers and streams (United States)
+*Pacific Northwest coastal rivers and streams (United States)
+*Gulf of Alaska coastal rivers and streams (Canada, United States)
+====Neotropic====
+*Guianan freshwater (Brazil, French Guiana, Guyana, Suriname, Venezuela)
+*Greater Antillean freshwater (Cuba, Dominican Republic, Haiti, Puerto Rico)
+====Palearctic====
+*Balkan rivers and streams (Albania, Bosnia and Herzogovina, Bulgaria, Croatia, Greece, Macedonia, Turkey, Yugoslavia)
+*Russian Far East rivers and wetlands (China, Mongolia, Russia)
+===Large lakes===
+====Afrotropic====
+*Rift Valley lakes (Burundi, Democratic Republic of Congo, Ethiopia, Kenya, Malawi, Mozambique, Rwanda, Tanzania, Uganda, Zambia)
+====Neotropic====
+*High Andean lakes (Argentina, Bolivia, Chile, Peru)
+====Palearctic====
+*Lake Baikal (Russia)
+*Lake Biwa (Japan)
+===Small lakes===
+====Afrotropic====
+*Cameroon crater lakes (Cameroon)
+====Australasia====
+*Lakes Kutubu and Sentani (Indonesia, Papua New Guinea)
+*Central Sulawesi lakes (Indonesia)
+====Indomalaya====
+*Philippines freshwater (Philippines)
+*Inle Lake (Myanmar)
+*Yunnan lakes and streams (China)
+====Neotropic====
+*Mexican highland lakes (Mexico)
+===Xeric basins===
+====Australasia====
+*Central Australian freshwater (Australia)
+====Nearctic====
+*Chihuahuan freshwater (Mexico, United States)
+====Palearctic====
+*Anatolian freshwater (Syria, Turkey)
+==Global 200 Marine ecoregions==
+===Polar===
+====Antarctic Ocean====
+*Antarctic Peninsula & Weddell Sea
+====Arctic Ocean====
+*Bering Sea (Canada, Russia, United States)
+*Barents-Kara Sea (Norway, Russia)
+===Temperate shelves and seas===
+====Mediterranean Sea====
+*Mediterranean (Albania, Algeria, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Greece, Israel, Italy, Lebanon, Libya, Malta, Monaco, Morocco, Serbia & Montenegro, Slovenia, Spain, Syria, Tunisia, Turkey)
+====Temperate Northern Atlantic====
+*Northeast Atlantic Shelf Marine (Belgium, Denmark, Estonia, Finland, France, Germany, Ireland, Latvia, Lithuania, Netherlands, Norway, Poland, Russia, Sweden, United Kingdom)
+*Grand Banks (Canada, St. Pierre and Miquelon (France), United States)
+*Chesapeake Bay (United States)
+====Temperate Northern Pacific====
+*Yellow Sea (China, North Korea, South Korea)
+*Sea of Okhotsk (Japan, Russia)
+====Southern Ocean====
+*Patagonian Southwest Atlantic (Argentina, Brazil, Chile, Uruguay)
+*Southern Australian Marine (Australia)
+*New Zealand Marine (New Zealand)
+===upwelling===
+====North Temperate Indo-Pacific====
+*California Current (Canada, Mexico, United States)
+====South Temperate Atlantic====
+*Benguela Current (Namibia, South Africa)
+====South Temperate Indo-Pacific====
+*Humboldt Current (Chile, Ecuador, Peru)
+*Agulhas Current (Mozambique, South Africa)
+===Upwelling===
+====Central Indo-Pacific====
+*Western Australian Marine (Australia)
+====Eastern Indo-Pacific====
+*Panama Bight (Colombia, Ecuador, Panama)
+*Gulf of California (Mexico)
+*Galápagos Marine (Ecuador)
+====Eastern Tropical Atlantic====
+*Canary Current (Canary Islands, Gambia, Guinea-Bissau, Mauritania, Morocco, Senegal, Western Sahara)
+===Coral reef===
+====Central Indo-Pacific====
+*Nansei Shoto (Ryukyu Islands) (Japan)
+*Sulu-Sulawesi Seas (Indonesia, Malaysia, Philippines)
+*Bismarck-Solomon Seas (Indonesia, Papua New Guinea, Solomon Islands)
+*Banda-Flores Sea (Indonesia)
+*New Caledonia Barrier Reef (New Caledonia)
+*Great Barrier Reef (Australia)
+*Lord Howe-Norfolk Islands Marine (Australia)
+*Palau Marine (Palau)
+*Andaman Sea (Andaman and Nicobar Islands (India), Indonesia, Malaysia, Myanmar, Thailand)
+====Eastern Indo-Pacific====
+*Tahitian Marine (Cook Islands, French Polynesia)
+*Hawaiian Marine (Hawaii)
+*Rapa Nui (Easter Island)
+*Fiji Barrier Reef (Fiji)
+====Western Indo-Pacific====
+*Maldives, Chagos, and Lakshadweep atolls (Chagos Archipelago (United Kingdom), India, Maldives, Sri Lanka)
+*Red Sea (Djibouti, Egypt, Eritrea, Israel, Jordan, Saudi Arabia, Sudan, Yemen)
+*Arabian Sea (Djibouti, Iran, Oman, Pakistan, Qatar, Saudi Arabia, Somalia, United Arab Emirates, Yemen)
+*East African Marine (Kenya, Mozambique, Somalia, Tanzania)
+*West Madagascar Marine (Comoros, Madagascar, Mayotte and Iles Glorieuses (France), Seychelles)
+====Western Tropical Atlantic====
+*Mesoamerican Barrier Reef System (Belize, Guatemala, Honduras, Mexico)
+*Greater Antillean Marine (Bahamas, Cayman Islands, Cuba, Dominican Republic, Haiti, Jamaica, Puerto Rico, Turks and Caicos Islands, United States)
+*Southern Caribbean Sea (Aruba, Colombia, Netherlands Antilles, Panama, Trinidad and Tobago, Venezuela)
+*Northeast Brazil Shelf Marine (Brazil)
+== Global Priority Places ==
+WWF WWF has identified 35 global priority places around the world (terrestrial, freshwater and marine) as either being home to irreplaceable and threatened biodiversity, or representing an opportunity to conserve the largest and most intact representative of their ecosystem.<ref> urltoken WWF's Strategic Plan for Conservation</ref>
+# African Rift Lakes Region - Include the 3 largest lakes in Africa: Victoria, Tanganyika and Malawi, as well as lakes Turkana, Albert, Edward, Kivu and others.
+# Altai-Sayan region - One of the last remaining untouched areas of the world 
+# Amazon Guianas - World's largest tropical rain forest and river basin with a mosaic of mountains, coniferous forests, steppe and alpine meadows. 
+# Amur-Heilong - Refuge for Amur leopard and tiger.
+# Arctic Seas & Associated Boreal/Tundra - Protecting Arctic Environments
+# Atlantic Forests - Forest stretches from the Atlantic coast of Brazil, south along the Brazilian Atlantic coastline and inland into northeast Argentina and eastern Paraguay.
+# Borneo and Sumatra - Priceless forests harbor untold species
+# Cerrado-Pantanal
+# Chihuahuan Desert - Protecting the balance of a desert
+# Choco-Darien
+# Coastal East Africa - Improving livelihoods by conserving nature
+# Congo Basin - Protecting Africa's tropical forests
+# Coral Triangle - Home to the world's most abundant variety of corals and sea life
+# Eastern Himalayas - Empowering communities to protect sacred lands
+# Fynbos
+# The Galápagos - The world's most treasured islands
+# Greater Black Sea Basin
+# Lake Baikal
+# Madagascar - Safeguarding one of Earth's most captivating islands
+# Mediterranean Sea
+# Mekong Complex - Protecting the river of life from source to sea
+# Miombo woodlands
+# Namib-Karoo-Kaokoveld
+# New Guinea & Offshore Islands
+# Northern Great Plains
+# Orinoco River & Flooded Forests
+# Southeastern Rivers and Streams
+# Southern Chile - A land of ancient forests and abundant oceans
+# Southern Ocean
+# Southwest Australia
+# Southwest Pacific
+# Sumatra
+# West Africa Marine
+# Western Ghats
+# Yangtze Basin - Sustaining a valley of life
+== Gallery ==
+<gallery>
+Image:Ecoregions.png|WWF Global 200 ecoregions.
+Image:Wwfeco.png|WWF terrestrial ecoregions.
+Image:Ucayalirivermap.png|Map of the Amazon Basin. Urubamba - Ucayali River.
+Image:Lijiang_Lage.jpg|Lijiang City, Yunnan, China.
+Image:Indiahills.png|Hills of India.
+Image:Ocean drainage.png|Major endorheic basins of the world. Basins are shown in dark gray; major endorheic lakes are shown in black.
+Image:Vegetation-no-legend.PNG|Terrestrial biomes classified by vegetation.
+</gallery>
+
+The Global 200 is the list of ecoregions identified by 
+WWF, the global conservation organization, as priorities for conservation. According to WWF, an ecoregion is defined as a "relatively large unit of land or water containing a characteristic set of natural communities that share a large majority of their species dynamics, and environmental conditions".<ref>Olson, D. M. & E. Dinerstein. 1998. The Global 200: A representation approach to conserving the Earth’s most biologically valuable ecoregions. Conservation Biol. 12:502–515. urltoken D. M., Dinerstein, E. 2002. The Global 200: Priority ecoregions for global conservation. Annals of the Missouri Botanical Garden 89(2):199-224, urltoken Nature Conservancy. 1997. Designing a geography of hope: guidelines for ecoregion-based conservation in The Nature Conservancy. The Nature Conservancy, Arlington, Virginia</ref> So, for example, based on their levels of endemism, Madagascar gets multiple listings, ancient Lake Baikal gets one, and the North American Great Lakes get none. 
+The WWF assigns a conservation status to each ecoregion in the Global 200: critical or endangered; vulnerable; and relatively stable or intact. Over half of the ecoregions in the Global 200 are rated endangered.

@@ -1,0 +1,72 @@
+Flooring
+
+==Subfloor==
+The floor under the flooring is called the subfloor, which provides the support for the flooring. Special purpose subfloors like floating floors, raised floors or sprung floors may be laid upon another underlying subfloor which provides the structural strength. Subfloors that are below grade (underground) or ground level floors in buildings without basements typically have a concrete subfloor. Subfloors above grade (above ground) typically have a plywood subfloor.
+==Flooring materials==
+The choice of materials for floor covering is affected by factors such as cost, endurance, noise insulation, comfort, and cleaning effort. Some types of flooring must not be installed below grade, including laminate and hardwood due to potential damage from moisture.
+The sub-floor may be finished in a way that makes it usable without any extra work, see:
+* Earthen floor adobe or clay floors
+* Solid ground floor, cementitious levelling/wearing/granolithic screeds,<ref>G. Garber, Design and Construction of Concrete Floors, CRC Press, 2nd Edition, 2006, </ref> polymer-modified concretes and levelling/wearing screeds.<ref>Y. Ohama, Handbook of Polymer-Modified Concrete and Mortars, William Andrew Publishing, 1995, </ref>
+===Carpeting===
+Carpet is a soft floor covering made of bound carpet fibers or stapled fibers. Carpeting refers to wall-to-wall coverage, whereas a rug is simply used to cover a space. This type of flooring is typically used indoors and can be used in both high and low traffic areas. It typically lasts for 15-18 years before it needs to be replaced. The quality of a carpet is usually measured in face weight, or how many fibers there are per square inch. The higher the face weight the more plush a carpet will feel.<ref></ref>
+Carpets come in a variety of materials including wool, nylon, olefin and polyester.
+There are different types of carpet like twists, which is commonly referred to as a berber. Twist carpeting is composed of multiple twisted fibers set into the carpet backing. It is typically used in low traffic areas. Another type of carpeting is looped carpets, which are composed of looped fibers set into the carpet backing. This type of carpeting is typically used in high traffic areas as it is easy to clean.
+There are four common widths for carpeting goods: 6' wide, 12' wide, 13'6" wide, and 15' wide.
+==== Installation Methods ====
+Today, there are two primary forms of carpet installation: tackless installation and direct glue down. Tackless installation occurs when tack strip is installed around the perimeter of a room and the carpet is stretched over padding onto those tack strips to hold it in place. Before this installation method, carpet was tacked down with staples throughout the installation which is why the new method is called tackless installation; as you no longer need nails in the middle of the floor. Direct glue down occurs when you spread special carpet adhesive over the substrate and then roll the carpet onto the glue to hold it in place. 
+==== Carpet underlay ====
+Padding can be placed underneath the carpet to add comfort and provide some noise insulation. The level of comfort is determined by the type of material used, which can include memory foam and rubber regrind.
+Carpet underlay is rated by density in pounds. For example, you could purchase a carpet pad with an 8 pound density rating, which would be softer than a carpet pad with a 10 pound density rating. Softer carpet pads feel better to walk on but sacrifice durability of the carpet that sits on top of it. The denser the carpet pad, the longer the carpet lasts.
+===Wood flooring===
+Many different species of wood are fabricated into wood flooring in two primary forms: plank and parquet. Hardwoods are typically much more durable than softwoods. Reclaimed lumber has a unique appearance and is used in Green building. The thermal conductivity of the Wood flooring is less as compared to laminate wood Flooring<ref></ref>
+Engineered hardwood has a thin solid wood layer on top with a composite core. It can be a less expensive option than buying hardwood, but it cannot be sanded and refinished. This flooring typically is installed with a click-lock method.
+Bamboo flooring is a floor manufactured from the bamboo plant and is a type of hardwood flooring, though technically not a wood. Bamboo is known to be durable and environmentally friendly. It is available in many different patterns, colors, and textures. There are three types of bamboo flooring construction: horizontal cut, vertical cut, and strand woven. Strand woven is the hardest and most durable of the three types. 
+Cork flooring is a flooring material manufactured from the by-product of the Quercus suber. Cork floors are considered to be eco-friendly since the cork oak tree bark is stripped every nine to ten years and doesn't damage the tree. Cork flooring comes in both tiles and planks, and can have glue or glues-less installation.
+Hardwood durability and hardness is determined by a ranking system called the Janka scale. The Janka scale is the PSI amount that it takes to embed a steel ball into the hardwood. The more PSI it takes to do so, the harder the wood.
+=== Laminate ===
+Laminate is a floor covering that appears similar to hardwood but is made with a plywood or medium density fiberboard ("MDF") core with a plastic laminate top layer. HDF laminate consists of high density fiberboard topped by one or more layers of decorative paper and a transparent protective layer. Laminate may be more durable than hardwood, but cannot be refinished like hardwood. Laminate flooring is available in many different patterns which can resemble different woods or even ceramic tile. It usually locks or taps together. Underlayment is required for laminate flooring to provide moisture and noise control.
+The common installation method for laminate flooring is a floating installation, which means the floor connects to each other to form interlocked flooring system and is not attached to the sub-floor which means it is free to "float" over a variety of sub-floors. This includes existing flooring like ceramic tile and hardwood floors. It is the most versatile installation method because it can be put over any substrate that is flat.
+=== Hybrid flooring ===
+Hybrid combines the best attributes of both laminate and vinyl to create a rigid floating floor that can be installed throughout the entire home. Hybrid is made of multiple layers of materials pressed together for an extremely hard wearing floor.
+=== Hard flooring ===
+Hard flooring (not to be confused with "hardwood") is a family of flooring materials that includes concrete or cement, ceramic tile, glass tiles, and natural stone products.
+Ceramic tiles are clay products which are formed into thin tiles and fired. Ceramic tiles are set in beds of mortar or mastic with the joints between tiles grouted. Varieties of ceramic tiles include quarry tile, porcelain, terracotta.
+Many different natural stones are cut into a variety of sizes, shapes, and thicknesses for use as flooring. Stone flooring uses a similar installation method to ceramic tile. Slate and marble are popular types of stone flooring that requires polishing and sealing. Stone aggregates, like Terrazzo, can also be used instead of raw cut stone and are available as either preformed tiles or to be constructed in-place using a cement binder.
+Porcelain stoneware can be used instead of natural stone. It is a ceramic material like a tile; however, it is typically thick and often comes in squares of .
+Concrete or cement finished floor is also used for its ability to be treated for different feel and its durability, such as polished concrete. Epoxy resurfacing of concrete flooring is used to update or upgrade concrete floor surfaces in commercial and residential applications – see seamless polymer flooring section below.
+Floating tile flooring, also called modular tile flooring, includes a range of porcelain and ceramic tile products that can be installed without adhesive or mortar. Generally, the tile is rectified to precise dimensions, and fused to an interlocking base. Some products require use of a flexible grout and others have an integrated grout strip. The advantages include speed of installation, ease of use, reusability, and low cost relative to using traditional tile installation methods.
+===Resilient flooring===
+Unlike ceramic and stone tiles, which are made of minerals, resilient flooring is made of materials that have some elasticity, giving the flooring a degree of flexibility called resilience. Performance surfaces used for dance or athletics are usually made of wood or resilient flooring.
+Resilient flooring includes many different manufactured products including linoleum, sheet vinyl, vinyl composition tile, cork (sheet or tile), and rubber. 
+Vinyl flooring is available in large sheets or vinyl tile; the former is resilient. Some come with a pre-applied adhesive for peel-and-stick installation, others require adhesive to be spread on to the substrate.<ref></ref> 
+The two basic categories of vinyl floor tiles are solid vinyl (products with a vinyl on binder content higher than 34%) and vinyl composition (products with a vinyl or binder content lower than 34%),<ref></ref> and the three basic categories of vinyl sheet flooring are homogeneous, inlaid, and layered composite. These types of vinyl flooring differ in manufacturing process and content, ranging in vinyl (polyvinyl chloride) content from 11% to 55%.
+Resilient flooring products, such as PVC and polypropylene are becoming more popular in specialty applications such as trailer flooring and garage flooring. New applications have also emerged for marine flooring. There are important factors to consider in specialty applications, that may not be present in a typical application. For example, certain tires will leave marks on PVC flooring but those marks will be less prevalent on polypropylene products. Adhesives also change based on application.
+===Seamless polymer flooring===
+Many different seamless flooring materials are available that vary from air drying latex emulsion polymers to reactive thermoset resins such as waterborne, solvents or solvent-free urethanes, polyaspartics and epoxy.<ref>Industrial Polymer Applications: Essential Chemistry and Technology, Royal Society of Chemistry, UK, 1st edition, 2016, </ref> Applied in liquid form, when allowed to dry and/or cure to provide a completely seamless floor covering.
+They find use in situations ranging from the simple protection of domestic garage floors, to the restoration and protection of commercial and industrial flooring. They are also used to solve a vast array of problems in industry such as wet areas in laboratories or food processing plants where spillages of oils and fats are easily absorbed and difficult to clean. Other reasons for covering concrete with synthetic resin flooring are for improving resistance to chemicals, enhancing resistance to impact and wear, and for aesthetic appearance purposes.
+Seamless polymer flooring can take many forms:<ref>BS 8204 Screeds, Bases and In Situ Floorings, Synthetic Resin Floorings: Code of Practice, BSI, </ref>
+* Floor seals applied at less than 6 mil (0.15 mm)
+* Floor coatings applied at 6 - 12 mil (0.15 – 0.3 mm)
+* High-build floor coatings applied at 6 - 40 mil (0.15 – 1 mm)
+* Broadcast flooring with embedded aggregate applied in excess of 80 mil (2 mm)
+* Flow applied (self-smoothing/self-leveling flooring) applied at 80 – 120 mil (2 – 3 mm)
+* Trowel finished bound resin screed flooring applied in excess of 160 mil (4 mm)
+* Heavy-duty flow applied to floor applied at 160 – 240 mil (4 – 6 mm)
+* Heavy-duty trowel finished resin screed flooring applied in excess of 240mil (6 mm)
+They typically have granular or rubberized particles added to give better traction/slip resistance on walkways and steps especially in areas subject to frequent washing, and for better traction/skid resistance in traffic aisles.
+==Sustainable flooring==
+Sustainable flooring is produced from more sustainable materials (and by more sustainable processes) that reduces demands on ecosystems during its life-cycle.<ref> urltoken Top 5 Green Building Strategies - EPA Publication 909-F-07-001</ref>
+==Features==
+There are a number of special features that may be used to ornament a floor or perform a useful service:
+* Floor medallions decorative centerpieces of a floor design.
+* Mat to help keep a floor clean.
+* Gratings used to drain water or to rub dirt off shoes.
+* Tactile or rumble strips to warn of for instance a wheelchair ramp, these would normally also be distinctively colored or patterned.
+* Light strips to show an escape route out, especially on airplanes.
+* Moldings or baseboards to decorate the sides of a floor or to cover the edge of a floating floor.
+* Anti-slip mats: The addition of either granular or Rubber mat particles that will allow wheels, shoes, or feet better traction.
+==See also==
+* Floor cleaning
+
+Flooring is the general term for a permanent covering of a floor, or for the work of installing such a floor covering. Floor covering is a term to generically describe any finish material applied over a floor structure to provide a walking surface. Both terms are used interchangeably but floor covering refers more to loose-laid materials.
+Materials almost always classified as flooring include carpet, laminate, tile, and vinyl.

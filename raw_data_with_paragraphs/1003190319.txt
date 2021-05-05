@@ -1,0 +1,77 @@
+Time signal
+
+==Audible and visible time signals==
+One sort of public time signal is a striking clock. These clocks are only as good as the clockwork that activates them, but they have improved substantially since the first clocks from the 14th century. Until modern times, a public clock such as Big Ben was the only time standard the general public needed.
+Accurate knowledge of time of day is essential for navigation, and ships carried the most accurate marine chronometers available, although they did not keep perfect time. A number of accurate audible or visible time signals were established in many seaport cities to enable navigators to set their chronometers.
+=== Signal guns ===
+In Vancouver, British Columbia, a "9 O'Clock Gun" is still shot every night at 9&nbsp;pm. (This gun was brought to Stanley Park in 1894 by the Department of Fisheries originally to warn fishermen of the 6:00&nbsp;pm Sunday closing of fishing.) The 9:00&nbsp;pm firing was later established as a time signal for the general population. Until a time gun was installed, the nearby Brockton Point lighthouse keeper detonated a stick of dynamite. Elsewhere in Canada, a "Noon Gun" is fired daily from the citadels in Halifax and Quebec City and from Signal Hill in St. John's, Newfoundland and Labrador.<ref></ref>
+In the same manner, a Noon Gun has been fired in Cape Town, South Africa, since 1806.<ref></ref> The gun is fired daily from the Lion Battery at Signal Hill.
+A cannon was fired at one o'clock every weekday at Liverpool, England, at the Castle in Edinburgh, Scotland, and also at Perth in Australia to establish the time. The Edinburgh "One O'Clock Gun" is still in operation. A cannon located at the top of Santa Lucia Hill, in Santiago, Chile, is shot every noon.
+In Rome, on the Janiculum, a hill west of the Tiber since 1904 a cannon is fired daily at noon towards the river as a time signal. This was introduced in 1847 by Pope Pius IX to synchronise all the church bells of Rome. It was situated in Castel Sant'Angelo until 1903 when it was moved to Monte Mario for a few months until it was placed in its current position. The cannon was silenced from the start of WWII for about twenty years until 21 April 1959, the 2712th anniversary of Rome's founding, and has been in use since then.
+For many years an old cannon was fired "about noon" from a mountain near Kabul, Afghanistan.<ref></ref><ref></ref>
+=== Sirens, whistles, and other audible signals ===
+In many Midwestern US cities where tornadoes are a common hazard, the emergency sirens are tested regularly at a specified time (say, noon each Saturday); while not primarily intended to mark the time, local people often check their watches when they hear this signal. In many non-seafaring communities, loud factory whistles served as public time signals before radio made them obsolete. Sometimes, the tradition of a factory whistle becomes so deeply entrenched in a community that the whistle is maintained long after its original function as a time keeper became obsolete.<ref></ref> For example, the University of Iowa's power plant whistle has been reinstated several times by popular demand after numerous attempts to silence it.<ref></ref>
+=== Visual signals ===
+In 1861 and 1862, the Edinburgh Post Office Directory published time gun maps relating the number of seconds required for the report of the time gun to reach various locations in the city. is a vestige of a visual time signal.
+==Electrical time signals==
+=== United Kingdom ===
+The first telegraph distribution of time signal in the United Kingdom, indeed, in the world, was initiated in 1852 by the Electric Telegraph Company in collaboration with the Astronomer Royal. Greenwich Mean Time was distributed by telegraph from the Greenwich Observatory. This included a system for synchronising the drop of the time ball at Greenwich with other time balls around the country, one of which was on top of the Electric's offices in the Strand.<ref name=Kieve52/>
+Other synchronised time balls were on top of the Nelson Monument, Edinburgh; the sailors' home Broomielaw, Glasgow; Liverpool; and one at Deal, Kent installed by the Admiralty.<ref name=Kieve52>Kieve, Jeffrey L., The Electric Telegraph: A Social and Economic History, pp. 52-53, David and Charles, 1973 .</ref>
+=== United States ===
+Telegraph signals were used regularly for time coordination by the United States Naval Observatory starting in 1865.<ref> urltoken Timekeeping at the U.S. Naval Observatory</ref> By the late 1800s, many U.S. observatories were selling accurate time by offering a regional time signal service.<ref></ref>
+Sandford Fleming proposed a single 24-hour clock for the entire world. At a meeting of the Royal Canadian Institute on 8 February 1879 he linked it to the Prime meridian (Greenwich) (now 180°). He suggested that standard time zones could be used locally, but they were subordinate to his single world time.
+Standard time came into existence in the United States on 18 November 1883. Earlier, on 11 October 1883, the General Time Convention, forerunner to the American Railway Association, approved a plan that divided the United States into several time zones. On that November day, the US Naval Observatory telegraphed a signal that coordinated noon at Eastern standard time with 11&nbsp;am Central, 10&nbsp;am Mountain, and 9&nbsp;am Pacific standard time.
+A March 1905 issue of The Technical World describes the role of the United States Naval Observatory as a source of time signals:
+:One of the most important functions of the Naval Observatory is found in the daily distribution of the correct time to every portion of the United States. This is effected by means of telegraphic signals, which are sent out from Washington at noon daily, except Sundays. The original object of this time service was to furnish mariners in the seaboard cities with the means of regulating their chronometers; but, like many another governmental activity, its scope has gradually broadened until it has become of general usefulness. The electrical impulse which goes forth from the Observatory at noon each day, now sets or regulates automatically more than 70,000 clocks located in all parts of the United States, and also serves, in each of the larger cities of the country, to release a time-ball located on some lofty building of central location. The dropping of the time-ball – accompanied, at some points, with the simultaneous firing of a cannon – is the signal for the regulation by hand of hundreds of other clocks and watches in the vicinity.
+==Radio time sources==
+===Dedicated time signal broadcasts===
+The telegraphic distribution of time signals was made obsolete by the use of AM, FM, shortwave radio, Internet Network Time Protocol servers as well as atomic clocks in Satellite Navigation systems. Since 1905 time signals have been transmitted by radio.<ref name=Burns04></ref> There are dedicated radio time signal stations around the world.
+Time stations operating in the longwave radio band have highly predictable radio propagation characteristics, which gives low uncertainty in the received time signals. Stations operating in the shortwave band can cover wider areas with relatively low-power transmitters, but the varying distance that the signal travels increases the uncertainty of the time signal on a scale of milliseconds.<ref>Dennis D. McCarthy, P. Kenneth Seidelmann Time: From Earth Rotation to Atomic Physics, Wiley-VCH, 2009
+, page 256</ref>
+Radio time signal stations broadcast the time in both audible and machine-readable time code form that can be used as references for radio clocks and radio-controlled watches.<ref>Dennis D. McCarthy, P. Kenneth Seidelmann, Time: From Earth Rotation to Atomic Physics , Wiley-VCH, 2009 , page 256</ref>
+The audio portions of the shortwave WWV and WWVH broadcasts can also be heard by telephone. The time announcements are normally delayed by less than 30 ms when using land lines from within the continental United States, and the stability (delay variation) is generally < 1 ms. When mobile phones are used, the delays are often more than 100 ms due to the multiple access methods used to share cell channels. In rare instances when the telephone connection is made by satellite, the time is delayed by 250 to 500 ms.
+These broadcasts are available by telephone by dialling US numbers (303) 499-7111 for WWV (Colorado), and (808) 335-4363 for WWVH (Hawaii). Calls, which are not toll-free, are disconnected after 2 minutes.
+Loran-C time signals may also be used for radio clock synchronization, by augmenting their highly accurate frequency transmissions with external measurements of the offsets of LORAN navigation signals against time standards.
+===General broadcasters===
+As radio receivers became more widely available, broadcasters included time information in the form of voice announcements or automated tones to accurately indicate the hour. The BBC has included time "pips" in its broadcasts from 1922.<ref name=Burns04/>
+In the United States many information-based radio stations (full-service, all-news and news/talk) also broadcast time signals at the beginning of the hour. In New York, WCBS and WINS have distinctive beginning-of-the-hour tones, though the WINS signal is only approximate (several seconds error). WINS also has a tone at 30 minutes past the hour for those setting their clocks. WTIC uses the Morse code V for victory to the tune of Beethoven's 5th Symphony at the beginning of the hour continuously since 1943.
+Stations using iBiquity Digital Corporation's "HD Radio" system are contractually required<ref> urltoken iBiquity Licensing Fact Sheet 2009 (PDF).</ref> to delay their analog broadcast by about eight seconds so it remains in sync with the digital stream. Thus, network-generated time signals and service cues will also be delayed by about eight seconds (for this reason, when WBEN-AM in Buffalo, New York was broadcasting time markers and was simulcast on an FM station that broadcast in HD, the FM signal did not carry the time signal; WBEN does not broadcast in HD). Local signals may also be delayed.
+The all-news radio stations of the CBS Radio Network, of which WCBS is the flagship, air a "bong" (at a frequency of 440&nbsp;Hz, the A440 (pitch standard)) that immediately precedes each top-of-the-hour network newscast. (The same bong could be heard on the CBS Television Network, at the top of the hour immediately before the beginning of any televised program, in the 1960s and 1970s.) An automated "chirp" at one second before the hour signals a switch to the radio network broadcast. As an example, KNX, the CBS Radio Network all-news station in Los Angeles, broadcasts this "bong" sound on the hour. However, due to buffering of the digital broadcast on some computers, this signal may be delayed as much as 20 seconds from the actual start of the hour (this is presumably the same situation for all CBS Radio stations, as each station's digital stream is produced and distributed in a similar manner), though unlike program content which is on a broadcast delay for content concerns, the time signal airs as-is over-the-air, meaning it can sometimes be talked over during a live news event or sports play-by-play. KYW-AM in Philadelphia broadcasts a time signal at the top of the hour along with its jingle.
+Bonneville International-owned news/talk station KSL (AM-FM) in Salt Lake City uses a "clang" that originates from the Nauvoo Bell on Temple Square in Salt Lake City which has been a staple on the station since the early 1960s.
+In Canada, the national English-language non-commercial CBC Radio One network has broadcast the daily National Research Council Time Signal since 5 November 1939;<ref></ref> the simulcast occurs daily at 1pm Eastern Time. Its French-language counterpart, Radio-Canada, broadcasts a similar signal at noon. Vancouver radio station CKNW also broadcasts time signals, using a chime every half-hour. The CBC's predecessor, the CNR Radio, broadcast the time signal over its CBO-FM, CNRO (originally CKCH), at 9 pm daily and also on its Moncton station, CNRA, beginning in 1923. CNRA closed in 1931 but the broadcasts continued on CNRO when the station was acquired by the Canadian Radio Broadcasting Commission in 1933 and by the CBC in 1936 before going national in 1939.<ref></ref>
+In Australia, many information-based radio stations broadcast time signals at the beginning of the hour, and a speaking clock service was also available until October 2019. However, the VNG dedicated time signal service has been discontinued.<ref>Alfred Kruijshoop and Marjorie Walker urltoken Introduction - Time NZ & A retrieved 23 November 2013</ref>
+In Cuba, Radio Reloj is a radio station which has a time signal over news. Radio Reloj translates to Clock Radio.
+===Digital delay===
+Program material, including time signals, that is transmitted digitally (e.g. DAB, Internet radio) can be delayed by tens of seconds due to buffering and error correction, making time signals received on a digital radio unreliable when accuracy is needed.
+==See also==
+* American Practical Navigator
+* Car radio, Radio Data System (RDS)
+* Clock signal
+* Extended Data Services and PBS
+* 
+* Greenwich Time Signal
+* Low frequency, (LF)
+* Smart Personal Objects Technology, (SPOT)
+* Speaking clock
+* Synchronization
+* VBI, VITC
+* WWVB
+* Time synchronization in North America
+* Time transfer
+* Time and frequency transfer
+* Time synchronization
+==References==
+* Downing, Michael, Spring Forward: The Annual Madness of Daylight Saving Time (Shoemaker and Hoard, 2005) 
+==External links==
+*
+* urltoken Travel Downunder mentions the time cannon at Perth
+* urltoken Durr Cannon Research Projects: mentions the time cannon at Cape Town
+* urltoken The VNG User's Consortium is working on ways to solve the problem of the lack of accurate time signals in Australia.
+* urltoken The Edinburgh time gun
+* urltoken Distribution of Time Signals by the U.S. Naval Observatory
+* urltoken Distributed Time Service, an upgrade to current time station technology
+* urltoken Receiving, identifying and decoding time signals by Nick Hacko, VK2DX
+
+A time signal is a visible, audible, mechanical, or electronic signal used as a reference to determine the time of day.
+Church bells or voices announcing hours of prayer gave way to automatically operated chimes on public clocks; however, audible signals (even signal guns) have limited range. Busy seaports used a visual signal, the dropping of a ball, to allow mariners to check the chronometers used for navigation. The advent of electrical telegraphs allowed widespread and precise distribution of time signals from central observatories. Railways were among the first customers for time signals, which allowed synchronization of their operations over wide geographic areas. Dedicated radio time signal stations transmit a signal that allows automatic synchronization of clocks, and commercial broadcasters still include time signals in their programming.
+Today, GPS navigation radio signals are used to precisely distribute time signals over much of the world. There are many commercially available Radio clock available to accurately indicate the local time, both for business and residential use. Computers often set their time from an time server. Where this is not available, a locally connected GPS receiver can precisely set the time using one of several software applications.

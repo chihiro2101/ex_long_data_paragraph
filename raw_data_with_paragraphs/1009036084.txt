@@ -1,0 +1,138 @@
+Sphex
+
+==Behaviour==
+In preparation for egg laying, they construct a protected "nest" (some species dig nests in the ground, while others use pre-existing holes) and then stock it with captured insects. Typically, the prey are left alive, but paralysis by wasp toxins. The wasps lay their eggs in the provisioned nest and the wasp larvae feed on the paralyzed insects as they develop.
+The great golden digger wasp (Sphex ichneumoneus) is found in North America. The developing wasps spend the winter in their nest. When the new generation of adults emerge, they contain the genetically programmed behaviors required to carry out another season of nest building. During the summer, a female might build as many as six nests, each with several compartments for her eggs. The building and provisioning of the nests takes place in a stereotypical, step-by-step fashion.
+Sphex has been shown, as in some Jean Henri Fabre studies,<ref>Fabre, J.H. (1915/2001). The hunting wasps. New York: Dodd, Mead and Company.</ref> not to count how many crickets it collects for its nest. Although the wasp instinctively searches for four crickets, it cannot take into account a lost cricket, whether the cricket has been lost to ants or flies or simply been misplaced. Sphex drags its cricket prey towards its burrow by the antennae; if the antennae of the cricket are cut off, the wasp would not think to continue to pull its prey by a leg.
+The navigation abilities of Sphex were studied by the ethologist Niko Tinbergen.<ref>Tinbergen, N. (1974). Curious naturalists (2nd Ed). Harmondsworth: Penguin.</ref> Richard Dawkins and Jane Brockmann later studied female rivalry over nesting holes in Sphex ichneumoneus.<ref></ref>
+== Uses in philosophy ==
+Some writers in the philosophy of mind, most notably Daniel Dennett, have cited Sphexs behavior for their arguments about human and animal free will.<ref>Dennett, Daniel (1973). "Mechanism and responsibility". In T. Honderich (Ed.), Essays on freedom of action. London: Routledge.</ref>
+Some Sphex wasps drop a paralyzed insect near the opening of the nest. Before taking provisions into the nest, the Sphex first inspects the nest, leaving the prey outside. During the inspection, an experimenter can move the prey a few inches away from the opening. When the Sphex emerges from the nest ready to drag in the prey, it finds the prey missing. The Sphex quickly locates the moved prey, but now its behavioral "program" has been reset. After dragging the prey back to the opening of the nest, once again the Sphex is compelled to inspect the nest, so the prey is again dropped and left outside during another stereotypical inspection of the nest. This iteration can be repeated several times without the Sphex changing its sequence; by some accounts, endlessly. Dennett's argument quotes an account of Sphex behavior from Dean Wooldridge's Machinery of the Brain (1963).<ref>Dean Wooldridge (1963). The Machinery of the Brain. McGraw-Hill</ref> Douglas Hofstadter<ref>Hofstadter, Douglas (1985). "On the seeming paradox of mechanizing creativity". In Metamagical themas. Penguin. pp. 526–546.</ref> and Daniel Dennett<ref>Dennett, Daniel (1973). "Mechanism and responsibility". In T. Honderich (Ed.), Essays on freedom of action. London: Routledge.</ref> have used this mechanistic behavior as an example of how seemingly thoughtful behavior can actually be quite mindless, the opposite of free will (or, as Hofstadter described it, sphexishness).
+Philosopher Fred Keijzer challenges this use of Sphex, citing experiments in which behavioral adaptations are observed after many iterations. Keijzer sees the persistence of the Sphex example in cognitive theory as an indication of its rhetorical usefulness, not its factual accuracy.<ref></ref> Of course, the repeated inspection of a disturbed nest may very well be an adaptive behavior, thus diminishing the aptness of Hofstadter's metaphor. As he concludes, "There is no reason for humans to remain stuck in an endless behavioral loop when wasps don’t." <ref>ibid.</ref>
+==Species==
+The genus Sphex contains over 100 species:<ref></ref>
+*Sphex abyssinicus <small>(Arnold, 1928)</small>
+*Sphex ahasverus <small>Kohl, 1890</small>
+*Sphex alacer <small>Kohl, 1895</small>
+*Sphex antennatus <small>F. Smith, 1856</small>
+*Sphex argentatus <small>Fabricius, 1787</small>
+*Sphex argentinus <small>Taschenberg, 1869</small>
+*Sphex ashmeadi <small>(Fernald, 1906)</small>
+*Sphex atropilosus <small>Kohl, 1885</small>
+*Sphex basilicus <small>(R. Turner, 1915)</small>
+*Sphex bilobatus <small>Kohl, 1895</small>
+*Sphex bohemanni <small>Dahlbom, 1845</small>
+*Sphex brachystomus <small>Kohl, 1890</small>
+*Sphex brasilianus <small>Saussure, 1867</small>
+*Sphex caeruleanus <small>Drury, 1773</small>
+*Sphex caliginosus <small>Erichson, 1849</small>
+*Sphex camposi <small>Campos, 1922</small>
+*Sphex carbonicolor <small>Van der Vecht, 1973</small>
+*Sphex castaneipes <small>Dahlbom, 1843</small>
+*Sphex cinerascens <small>Dahlbom, 1843</small>
+*Sphex cognatus <small>F. Smith, 1856</small>
+*Sphex confrater <small>Kohl, 1890</small>
+*Sphex cristi <small>Genaro in Genaro & Juarrero, 2000</small>
+*Sphex cubensis <small>(Fernald, 1906)</small>
+*Sphex darwinensis <small>R. Turner, 1912</small>
+*Sphex decipiens <small>Kohl, 1895</small>
+*Sphex decoratus <small>F. Smith, 1873</small>
+*Sphex deplanatus <small>Kohl, 1895</small>
+*Sphex diabolicus <small>F. Smith, 1858</small>
+*Sphex dorsalis <small>Lepeletier de Saint Fargeau, 1845</small>
+*Sphex dorycus <small>Guérin-Méneville, 1838</small>
+*Sphex ephippium <small>F. Smith, 1856</small>
+*Sphex ermineus <small>Kohl, 1890</small>
+*Sphex erythrinus <small>(Guiglia, 1939)</small>
+*Sphex ferrugineipes <small>W. Fox, 1897</small>
+*Sphex finschii <small>Kohl, 1890</small>
+*Sphex flavipennis <small>Fabricius, 1793</small>
+*Sphex flavovestitus <small>F. Smith, 1856</small>
+*Sphex formosellus <small>Van der Vecht, 1957</small>
+*Sphex fumicatus <small>Christ, 1791</small>
+*Sphex fumipennis <small>F. Smith, 1856</small>
+*Sphex funerarius <small>Gussakovskij, 1934</small> – Golden Digger Wasp
+*Sphex gaullei <small>Berland, 1927</small>
+*Sphex gilberti <small>R. Turner, 1908</small>
+*Sphex gisteli <small>Strand, 1916</small>
+*Sphex guatemalensis <small>Cameron, 1888</small>
+*Sphex habenus <small>Say, 1832</small>
+*Sphex haemorrhoidalis <small>Fabricius, 1781</small>
+*Sphex hirtipes <small>Fabricius, 1793</small>
+*Sphex ichneumoneus <small>(Linnaeus, 1758)</small> – Great Golden Digger Wasp
+*Sphex incomptus <small>Gerstaecker, 1871</small>
+*Sphex ingens <small>F. Smith, 1856</small>
+*Sphex inusitatus <small>Yasumatsu, 1935</small>
+*Sphex jamaicensis <small>(Drury, 1773)</small>
+*Sphex jansei <small>Cameron, 1910</small>
+*Sphex kolthoffi <small>Gussakovskij, 1938</small>
+*Sphex lanatus <small>Mocsáry, 1883</small>
+*Sphex latreillei <small>Lepeletier de Saint Fargeau, 1831</small>
+*Sphex latro <small>Erichson, 1849</small>
+*Sphex leuconotus <small>Brullé, 1833</small>
+*Sphex libycus <small>Beaumont, 1956</small>
+*Sphex lucae <small>Saussure, 1867</small>
+*Sphex luctuosus <small>F. Smith, 1856</small>
+*Sphex madasummae <small>Van der Vecht, 1973</small>
+*Sphex malagassus <small>Saussure, 1890</small>
+*Sphex mandibularis <small>Cresson, 1869</small>
+*Sphex maximiliani <small>Kohl, 1890</small>
+*Sphex melanocnemis <small>Kohl, 1885</small>
+*Sphex melanopus <small>Dahlbom, 1843</small>
+*Sphex melas <small>Gussakovskij, 1930</small>
+*Sphex mendozanus <small>Brèthes, 1909</small>
+*Sphex mimulus <small>R. Turner, 1910</small>
+*Sphex mochii <small>Giordani Soika, 1942</small>
+*Sphex modestus <small>F. Smith, 1856</small>
+*Sphex muticus <small>Kohl, 1885</small>
+*Sphex neavei <small>(Arnold, 1928)</small>
+*Sphex neoumbrosus <small>Jha & Farooqui, 1996</small>
+*Sphex nigrohirtus <small>Kohl, 1895</small>
+*Sphex nitidiventris <small>Spinola, 1851</small>
+*Sphex nudus <small>Fernald, 1903</small> – Katydid Wasp
+*Sphex observabilis <small>(R. Turner, 1918)</small>
+*Sphex opacus <small>Dahlbom, 1845</small>
+*Sphex optimus <small>F. Smith, 1856</small>
+*Sphex oxianus <small>Gussakovskij, 1928</small>
+*Sphex paulinierii <small>Guérin-Méneville, 1843</small>
+*Sphex pensylvanicus <small>Linnaeus, 1763</small> – Great Black Wasp
+*Sphex permagnus <small>(Willink, 1951)</small>
+*Sphex peruanus <small>Kohl, 1890</small>
+*Sphex praedator <small>F. Smith, 1858</small>
+*Sphex prosper <small>Kohl, 1890</small>
+*Sphex pruinosus <small>Germar, 1817</small>
+*Sphex resinipes <small>(Fernald, 1906)</small>
+*Sphex resplendens <small>Kohl, 1885</small>
+*Sphex rex <small>Hensen, 1991</small>
+*Sphex rhodosoma <small>(R. Turner, 1915)</small>
+*Sphex rufinervis <small>Pérez, 1985</small>
+*Sphex rufiscutis <small>(R. Turner, 1918)</small>
+*Sphex rugifer <small>Kohl, 1890</small>
+*Sphex satanas <small>Kohl, 1898</small>
+*Sphex schoutedeni <small>Kohl, 1913</small>
+*Sphex schrottkyi <small>(Bertoni, 1918)</small>
+*Sphex semifossulatus <small>Van der Vecht, 1973</small>
+*Sphex sericeus <small>(Fabricius, 1804)</small>
+*Sphex servillei <small>Lepeletier de Saint Fargeau, 1845</small>
+*Sphex solomon <small>Hensen, 1991</small>
+*Sphex stadelmanni <small>Kohl, 1895</small>
+*Sphex staudingeri <small>Gribodo, 1894</small>
+*Sphex subhyalinus <small>W. Fox, 1899</small>
+*Sphex subtruncatus <small>Dahlbom, 1843</small>
+*Sphex tanoi <small>Tsuneki, 1974</small>
+*Sphex taschenbergi <small>Magretti, 1884</small>
+*Sphex tepanecus <small>Saussure, 1867</small>
+*Sphex texanus <small>Cresson, 1873</small>
+*Sphex tinctipennis <small>Cameron, 1888</small>
+*Sphex tomentosus <small>Fabricius, 1787</small>
+*Sphex torridus <small>F. Smith, 1873</small>
+*Sphex vestitus <small>F. Smith, 1856</small>
+*Sphex walshae <small>Hensen, 1991</small>
+*Sphex wilsoni <small>Hensen, 1991</small>
+*Sphex zubaidiyacus <small>Augul, 2013</small><ref>Pulawski, Wojciech J. (30 December 2015). Bibliograph of Sphecidae sensu lato (= Apoidea excluding Apidae sensu lato)(= Heterogynaidae, Ampulicidae, Sphecidae, and Crabronidae).</ref>
+==References==
+==External links==
+* urltoken Great golden digger wasp Sphex ichneumoneus - large format diagnostic photographs, wasp with katydid prey
+* urltoken Online Identification Guide to eastern North American Sphex
+
+Wasps of the genus Sphex (commonly known as digger wasps) are cosmopolitan predators that sting and paralyze prey insects. Sphex is one of many genera in the old digger wasp family Sphecidae (sensu lato), though most apart from the Sphecinae have now been moved to the family Crabronidae.<ref name=Pulawski></ref> There are over 130 known Sphex species.

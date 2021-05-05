@@ -1,0 +1,72 @@
+Wikipedia:Who, Why?
+
+==Wikipedians on the couch==
+In their posts to user talk and discussion pages, especially during conflicts, Wikipedians speculate about the motives of fellow Wikipedians. Though the Facial Expression Markup Language can clarify mood or intent in written communication, it's hardly perfect, and no Wikipedian uses it in every phrase they write. Wikipedians' analysis and interpretation of others takes place often in spirited I'm-right-and-you're-wrong exchanges. While some accuse each other of hidden agendas or even of being sleeping partners, others sit back and analyze the accusers.
+Essentially there's no limit to how long such analyses and interpretations can go on, or how many people can participate. The way the Wikipedia software works, once a user posts a comment or any other piece of text, it becomes a fixture of the system that will always be associated with that user's name. Another factor that fosters or necessitates speculation is that Wikipedia happens over the Internet. Most users are anonymous, many go by pseudonyms, some probably aren't who they say they are, and almost no one has met anyone else in person (but see WikiMeet).
+Psychologizing strangers, of course, is an imperfect art. An almost certain pitfall is the phenomenon Freud called projection -- the ascription of the interpreter's own motives or desires to the person or people being interpreted. Projection can cause aggrieved individuals to perceive others as aggressors ("That person doesn't think their change makes the article read better, they're just subtly trying to neutralize my idea!").
+In any event, because projections tend to accurately reflect the true motives of the projector, therefore these theories of behavior are true of at least some Wikipedians. Every Wikipedian can speak with some authority about who participates in Wikipedia and why.
+A complication is, we do sometimes criticize other people without having the same faults ourselves. Psychology is involved and sometimes difficult.
+==Secondary motives or attractions==
+A Wikipedian who is dissatisfied with the skill they are able to show or exercise at work or elsewhere in the brick-and-mortar universe nevertheless may stand out in the Wikipedia universe, which others with their expertise may not yet have discovered. For such people, this aspect of Wikipedia participation is probably an emotional reward that contributes to their enthusiasm and motivation to participate. As to why they do, their unconsciousness might explain:
+"I get to be a big fish in a small pond"
+or
+"I get to show how wide my knowledge is"
+or
+"I get to show what esoteric stuff I know"
+Participation may reflect the desire to merely exercise one's skills, but inherently it is also a chance to exhibit them. In an important sense this remains true even when a Wikipedian contributes under a pseudonym, as many do.
+* "Through my contributions I get to be valued/my worth is validated."
+* "I get a piece of the social cachet or coolness associated with these open-source Internet-community doohickies."
+* "I get a piece of cachet or status that comes with teaching others."
+* "I get to correct mistakes and bad behavior, to enforce morality and to preach."
+* "I get to make my mark/publish."
+* "I get to people-watch, to observe/arbitrate/form opinions on conflicts."
+* "I get to be a peace maker."
+* "I get to make people steam."
+* "When the Wikipedia becomes sentient, and takes over the world, I want to be on its good side."
+* "I enjoy copyediting work."
+* "I get a buzz from writing great new articles."
+* "I get a buzz from seeing stubs develop into great new articles."
+* "I enjoy learning about new things as I scour Recent Changes for vandalism."
+* "I like clicking Random Page and seeing a steadily diminishing number of small-town stubs."
+* "I have time to waste and want to idle away hours on something that may be worthwhile rather than yet another game of Freecell."
+* "Working here hones my writing skills."
+* "I'm convinced Wikipedia will be THE source of knowledge for the next century (or at least the base upon which that source will grow), and I am excited that if I write/collaborate well enough, my contributions will outlast my own lifetime."
+* "If someone's going to have the opportunity to write about my work/skill/hobby/passion, I'd rather it were me!"
+* "I feel like Wikipedia's milestones are my milestones."
+* "I enjoy doing tedious, repetitive, minor edits, thousands at a time."
+==Personalities==
+*Cowboys
+* Trolls
+* Pedants
+* Pontificators
+* Happy-just-to-proof-readers
+==Styles==
+* Revert first, ask questions later
+* Shoot-from-the-hip
+* Compose-carefully-as-a-work-of-art
+* Random
+* Organized
+==Good social dynamics==
+* I go to an article, say on Lord Voldemort. I didn't know about the many translations of his name in order to preserve the climax at the end of the second book. I add some trivia to the page, say about the prophecy mentioned in the fifth book, and put it onto my watchlist. A few weeks later, someone else puts another interesting fact on, which I notice immediately and read. The succession of trivia grows until someone sits down, collates everything, edits the article, and bingo—a new article!
+==Bad social dynamics==
+*Expert insensitivity: "Because the wikipedia is open to all comers, experts are not really welcome except by the few who are both open to constructive criticism and secure in their own abilities." — Wikipedian, self-described as disillusioned 
+*Flag-wrapping: "I have observed that during conflicts it is quite common for one party, or more often both, to wrap themselves in the 'Wikipedia flag,' as if a personal attack on one user were somehow an attack on the entire community. A related maneuver is to declare that the future of Wikipedia is at stake. These 'escalation tactics' are rather tired ploys."
+*Burnout
+==Dynamical theories==
+For a person who values position or view x to work on the Wikipedia page describing x successfully takes a certain kind of character. Bad faith and bad skepticism, which seek to assert or debunk x with more bravado than fact or self-confidence, need not apply. True faith or true doubt make for better articles. A person with true faith can honestly represent view x and describe their claims as those of a true believer, with neither misrepresentation nor shame. A true skeptic, invested neither in x nor in not-x, can honestly describe the statements that partisans of x and not-x make, and ascribe them correctly as the views of believers.
+==Who finds the time==
+The stereotypes:
+* unemployed
+* insomniac
+* underutilized cubicle worker
+* lackadaisical student
+* tenured professor
+* retiree
+* hermit
+* trivia<nowiki/>holic
+* unsupervised home-office overachiever
+* bored adolescent
+* People with high-functioning autism and/or Asperger syndrome
+* People with obsessive–compulsive disorder
+
+Who participates in Wikipedia and why? There are plenty of good ostensible reasons, which are at least part of the story for most participants. These include an attraction to spreading knowledge, helping others and participating in a community. To learn what specific opportunities Wikipedia offers in these regards, see Wikipedia:About. But to learn more about the individual psychology of Wikipedia participation, read on.

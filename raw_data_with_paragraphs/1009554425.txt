@@ -1,0 +1,241 @@
+Coroutine
+
+==Comparison with subroutines==
+Subroutines are special cases of coroutines.<ref name="KnuthVol1_1_4_2"/> When subroutines are invoked, execution begins at the start, and once a subroutine exits, it is finished; an instance of a subroutine only returns once, and does not hold state between invocations. By contrast, coroutines can exit by calling other coroutines, which may later return to the point where they were invoked in the original coroutine; from the coroutine's point of view, it is not exiting but calling another coroutine.<ref name="KnuthVol1_1_4_2"/> Thus, a coroutine instance holds state, and varies between invocations; there can be multiple instances of a given coroutine at once. The difference between calling another coroutine by means of "yielding" to it and simply calling another routine (which then, also, would return to the original point), is that the relationship between two coroutines which yield to each other is not that of caller-callee, but instead symmetric.
+Any subroutine can be translated to a coroutine which does not call yield.<ref name="Perlis1982_6"/>
+Here is a simple example of how coroutines can be useful. Suppose you have a consumer-producer relationship where one routine creates items and adds them to a queue and another removes items from the queue and uses them. For reasons of efficiency, you want to add and remove several items at once. The code might look like this:
+ var q := new queue
+ 
+ coroutine produce
+ loop
+ while q is not full
+ create some new items
+ add the items to q
+ yield to consume
+ 
+ coroutine consume
+ loop
+ while q is not empty
+ remove some items from q
+ use the items
+ yield to produce
+ 
+ call produce
+The queue is then completely filled or emptied before yielding control to the other coroutine using the yield command. The further coroutines calls are starting right after the yield, in the outer coroutine loop.
+Although this example is often used as an introduction to multithreading, two threads are not needed for this: the yield statement can be implemented by a jump directly from one routine into the other.
+==Comparison with threads==
+Coroutines are very similar to threads. However, coroutines are cooperatively multitasked, whereas threads are typically preemptively multitasked. This means that coroutines provide concurrency but not parallelism. The advantages of coroutines over threads are that they may be used in a hard realtime context (switching between coroutines need not involve any system calls or any blocking calls whatsoever), there is no need for synchronisation primitives such as mutexes, semaphores, etc. in order to guard critical sections, and there is no need for support from the operating system.
+It is possible to implement coroutines using preemptively-scheduled threads, in a way that will be transparent to the calling code, but some of the advantages (particularly the suitability for hard-realtime operation and relative cheapness of switching between them) will be lost.
+==Comparison with generators==
+Generators, also known as semicoroutines,<ref name="Ralston2000"></ref> are a subset of coroutines. Specifically, while both can yield multiple times, suspending their execution and allowing re-entry at multiple entry points, they differ in coroutines' ability to control where execution continues immediately after they yield, while generators cannot, instead transferring control back to the generator's caller.<ref>See for example urltoken The Python Language Reference
+" urltoken 5.2.10. Yield expressions]":<br />
+"All of this makes generator functions quite similar to coroutines; they yield multiple times, they have more than one entry point and their execution can be suspended. The only difference is that a generator function cannot control where should the execution continue after it yields; the control is always transferred to the generator's caller."</ref> That is, since generators are primarily used to simplify the writing of iterators, the <code>yield</code> statement in a generator does not specify a coroutine to jump to, but rather passes a value back to a parent routine.
+However, it is still possible to implement coroutines on top of a generator facility, with the aid of a top-level dispatcher routine (a trampoline, essentially) that passes control explicitly to child generators identified by tokens passed back from the generators:
+ var q := new queue
+ 
+ generator produce
+ loop
+ while q is not full
+ create some new items
+ add the items to q
+ yield consume
+ 
+ generator consume
+ loop
+ while q is not empty
+ remove some items from q
+ use the items
+ yield produce
+ 
+ subroutine dispatcher
+ var d := new dictionary(generator → iterator)
+ dproduce := start produce
+ dconsume := start consume
+ var current := produce
+ loop
+ current := next dcurrent
+ 
+ call dispatcher
+A number of implementations of coroutines for languages with generator support but no native coroutines (e.g. Python<ref name="MertzIBM"/> before 2.5) use this or a similar model.
+==Comparison with mutual recursion==
+Using coroutines for state machines or concurrency is similar to using mutual recursion with tail calls, as in both cases the control changes to a different one of a set of routines. However, coroutines are more flexible and generally more efficient. Since coroutines yield rather than return, and then resume execution rather than restarting from the beginning, they are able to hold state, both variables (as in a closure) and execution point, and yields are not limited to being in tail position; mutually recursive subroutines must either use shared variables or pass state as parameters. Further, each mutually recursive call of a subroutine requires a new stack frame (unless tail call elimination is implemented), while passing control between coroutines uses the existing contexts and can be implemented simply by a jump.
+==Common uses==
+Coroutines are useful to implement the following:
+* State machines within a single subroutine, where the state is determined by the current entry/exit point of the procedure; this can result in more readable code compared to use of goto, and may also be implemented via mutual recursion with tail calls.
+* Actor model of concurrency, for instance in video games. Each actor has its own procedures (this again logically separates the code), but they voluntarily give up control to central scheduler, which executes them sequentially (this is a form of cooperative multitasking).
+* Generators, and these are useful for streamsparticularly input/outputand for generic traversal of data structures.
+* Communicating sequential processes where each sub-process is a coroutine. Channel inputs/outputs and blocking operations yield coroutines and a scheduler unblocks them on completion events. Alternatively, each sub-process may be the parent of the one following it in the data pipeline (or preceding it, in which case the pattern can be expressed as nested generators).
+* Reverse communication, commonly used in mathematical software, wherein a procedure such as a solver, integral evaluator, . needs the using process to make a computation, such as evaluating an equation or integrand.
+==Programming languages with native support==
+Coroutines originated as an assembly language method, but are supported in some high-level programming languages. Early examples include Simula,<ref name="Dahl1972"></ref> Smalltalk, and Modula-2. More recent examples are Ruby, Lua, Julia, and Go.
+* Aikido
+* AngelScript
+* Ballerina
+* BCPL
+* Pascal (Borland Turbo Pascal 7.0 with uThreads module)
+* BETA
+* BLISS
+* C++ (Since C++20)
+* C# (Since 2.0)
+* ChucK
+* CLU
+* D
+* Dynamic C
+* Erlang
+* F#
+* Factor
+* GameMonkey Script
+* GDScript (Godot's scripting language)
+* Go
+* Haskell<ref></ref><ref></ref>
+* High Level Assembly<ref></ref>
+* Icon
+* Io
+* JavaScript (since 1.7, standardized in ECMAScript 6)<ref></ref> ECMAScript 2017 also includes await support.
+* Julia<ref></ref>
+* Kotlin (since 1.1)<ref></ref>
+* Limbo
+* Lua<ref></ref>
+* Lucid
+* µC++
+* Modula-2
+* Nemerle
+* Perl 5 (using the urltoken Coro module)
+* PHP (with urltoken HipHop, native since PHP 5.5)
+* Picolisp
+* Prolog
+* Python (since 2.5,<ref></ref> with improved support since 3.3 and with explicit syntax since 3.5<ref></ref>)
+* Raku<ref></ref>
+* Ruby
+* Rust (since 1.39)
+* Sather
+* Scheme
+* Self
+* Simula 67
+* Smalltalk
+* Squirrel
+* Stackless Python
+* SuperCollider<ref>McCartney, J. urltoken "Rethinking the Computer Music Programming Language: SuperCollider". Computer Music Journal, 26(4):61-68. MIT Press, 2002.</ref>
+* Tcl (since 8.6)
+* urbiscript
+<!-- Coroutines can be implemented in any language, so please limit this list to languages with native support.
+Specifically, don't re-add the following entries without consideration:
+* C#
+* Perl
+* Smalltalk
+-->
+Since continuations can be used to implement coroutines, programming languages that support them can also quite easily support coroutines.
+==Implementations==
+, many of the most popular programming languages, including C and its derivatives, do not have direct support for coroutines within the language or their standard libraries. This is, in large part, due to the limitations of call stack subroutine implementation. An exception is the C++ library urltoken Boost.Context, part of urltoken boost libraries, which supports context swapping on ARM, MIPS, PowerPC, SPARC and x86 on POSIX, Mac OS X and Windows. Coroutines can be built upon Boost.Context.
+In situations where a coroutine would be the natural implementation of a mechanism, but is not available, the typical response is to use a closurea subroutine with state variables (static variables, often boolean flags) to maintain an internal state between calls, and to transfer control to the correct point. Conditionals within the code result in the execution of different code paths on successive calls, based on the values of the state variables. Another typical response is to implement an explicit state machine in the form of a large and complex switch statement or via a goto statement, particularly a computed goto. Such implementations are considered difficult to understand and maintain, and a motivation for coroutine support.
+Threads, and to a lesser extent fibers, are an alternative to coroutines in mainstream programming environments today. Threads provide facilities for managing the realtime cooperative interaction of simultaneously executing pieces of code. Threads are widely available in environments that support C (and are supported natively in many other modern languages), are familiar to many programmers, and are usually well-implemented, well-documented and well-supported. However, as they solve a large and difficult problem they include many powerful and complex facilities and have a correspondingly difficult learning curve. As such, when a coroutine is all that is needed, using a thread can be overkill.
+One important difference between threads and coroutines is that threads are typically preemptively scheduled while coroutines are not. Because threads can be rescheduled at any instant and can execute concurrently, programs using threads must be careful about locking. In contrast, because coroutines can only be rescheduled at specific points in the program and do not execute concurrently, programs using coroutines can often avoid locking entirely. This property is also cited as a benefit of event-driven or asynchronous programming.
+Since fibers are cooperatively scheduled, they provide an ideal base for implementing coroutines above.<ref name="msdn-wrap"> urltoken Implementing Coroutines for .NET by Wrapping the Unmanaged Fiber API , Ajai Shankar, MSDN Magazine</ref> However, system support for fibers is often lacking compared to that for threads.
+===Implementations for C===
+In order to implement general-purpose coroutines, a second call stack must be obtained, which is a feature not directly supported by the C language. A reliable (albeit platform-specific) way to achieve this is to use a small amount of inline assembly to explicitly manipulate the stack pointer during initial creation of the coroutine. This is the approach recommended by Tom Duff in a discussion on its relative merits vs. the method used by Protothreads.<ref name="duff"></ref> On platforms which provide the POSIX sigaltstack system call, a second call stack can be obtained by calling a springboard function from within a signal handler<ref name="rse-pmt"> urltoken name="libco"></ref> to achieve the same goal in portable C, at the cost of some extra complexity. C libraries complying to POSIX or the Single Unix Specification (SUSv3) provided such routines as setcontext, but these functions were declared obsolete in POSIX 1.2008.<ref></ref>
+Once a second call stack has been obtained with one of the methods listed above, the setjmp/longjmp functions in the standard C library can then be used to implement the switches between coroutines. These functions save and restore, respectively, the stack pointer, program counter, callee-saved registers, and any other internal state as required by the ABI, such that returning to a coroutine after having yielded restores all the state that would be restored upon returning from a function call. Minimalist implementations, which do not piggyback off the setjmp and longjmp functions, may achieve the same result via a small block of inline assembly which swaps merely the stack pointer and program counter, and clobbers all other registers. This can be significantly faster, as setjmp and longjmp must conservatively store all registers which may be in use according to the ABI, whereas the clobber method allows the compiler to store (by spilling to the stack) only what it knows is actually in use.
+Due to the lack of direct language support, many authors have written their own libraries for coroutines which hide the above details. Russ Cox's libtask library<ref name="libtask"> urltoken - Russ Cox's libtask coroutine library for FreeBSD, Linux, Mac OS X, and SunOS</ref> is a good example of this genre. It uses the context functions if they are provided by the native C library; otherwise it provides its own implementations for ARM, PowerPC, Sparc, and x86. Other notable implementations include libpcl,<ref> urltoken Portable Coroutine Library - C library using POSIX/SUSv3 facilities</ref> coro,<ref> urltoken - Edgar Toernig's coro library for x86, Linux & FreeBSD</ref> lthread,<ref> urltoken - lthread is a multicore/multithread coroutine library written in C</ref> libCoroutine,<ref> for FreeBSD, Linux, OS X PPC and x86, SunOS, Symbian and others</ref> libconcurrency,<ref> a simple C library for portable stack-switching coroutines</ref> libcoro,<ref> used as the basis for the Coro perl module.</ref> ribs2,<ref></ref> libdill.,<ref></ref> libaco,<ref></ref> and libco.<ref name="libco" />
+In addition to the general approach above, several attempts have been made to approximate coroutines in C with combinations of subroutines and macros. Simon Tatham's contribution,<ref name="tatham"></ref> based on Duff's device, is a notable example of the genre, and is the basis for Protothreads and similar implementations.<ref></ref> In addition to Duff's objections,<ref name="duff" /> Tatham's own comments provide a frank evaluation of the limitations of this approach: "As far as I know, this is the worst piece of C hackery ever seen in serious production code."<ref name="tatham" /> The main shortcomings of this approximation are that, in not maintaining a separate stack frame for each coroutine, local variables are not preserved across yields from the function, it is not possible to have multiple entries to the function, and control can only be yielded from the top-level routine.<ref name="duff" />
+===Implementations for C++===
+* C++ coroutines TS (Technical Specification), a standard for C++ language extensions for a stackless subset of coroutine-like behaviour, is under development. Visual C++ and Clang already support major portions in the std::experimental namespace. urltoken coroutines Technical Specification
+* urltoken Boost.Coroutine - created by Oliver Kowalke, is the official released portable coroutine library of urltoken boost since version 1.53. The library relies on urltoken Boost.Context and supports ARM, MIPS, PowerPC, SPARC and X86 on POSIX, Mac OS X and Windows.
+* urltoken Boost.Coroutine2 - also created by Oliver Kowalke, is a modernized portable coroutine library since boost version 1.59. It takes advantage of C++11 features, but removes the support for symmetric coroutines.
+* urltoken Mordor - In 2010, Mozy open sourced a C++ library implementing coroutines, with an emphasis on using them to abstract asynchronous I/O into a more familiar sequential model.<ref> urltoken - Open Source and Mozy: The Debut of Mozy Code</ref>
+* urltoken CO2 - stackless coroutine based on C++ preprocessor tricks, providing await/yield emulation.
+* urltoken ScummVM - The ScummVM project implements a light-weight version of stackless coroutines based on urltoken Simon Tatham's article.
+* urltoken tonbit::coroutine - C++11 single .h asymmetric coroutine implementation via ucontext / fiber
+* Coroutines landed in Clang in May 2017, with libc++ implementation ongoing.<ref> urltoken - EricWF: Coroutines are now in Clang Trunk! Working on the Libc++ implementation now.</ref>
+* urltoken elle by Docker
+* urltoken oatpp-coroutines - stackless coroutines with scheduling designed for high-concurrency level I/O operations. Used in the urltoken 5-million WebSocket connections experiment by Oat++. Part of the urltoken Oat++ web framework.
+===Implementations for C#===
+* urltoken MindTouch Dream - The MindTouch Dream REST framework provides an implementation of coroutines based on the C# 2.0 iterator pattern
+* urltoken Caliburn - The Caliburn screen patterns framework for WPF uses C# 2.0 iterators to ease UI programming, particularly in asynchronous scenarios.
+* urltoken Power Threading Library - The Power Threading Library by Jeffrey Richter implements an AsyncEnumerator that provides simplified Asynchronous Programming Model using iterator-based coroutines.
+*The Unity game engine implements coroutines.
+* urltoken Servelat Pieces - The Servelat Pieces project by Yevhen Bobrov provides transparent asynchrony for Silverlight WCF services and ability to asynchronously call any synchronous method. The implementation is based on Caliburn's Coroutines iterator and C# iterator blocks.
+* urltoken - The .NET 2.0+ Framework now provides semi-coroutine (generator) functionality through the iterator pattern and yield keyword.
+C# 5.0 includes await syntax support.
+===Implementations for Clojure===
+ urltoken Cloroutine is a third-party library providing support for stackless coroutines in Clojure. It's implemented as a macro, statically splitting an arbitrary code block on arbitrary var calls and emitting the coroutine as a stateful function.
+===Implementations for D===
+D implements coroutines as its standard library class urltoken Fiber A generator makes it trivial to expose a fiber function as an input range, making any fiber compatible with existing range algorithms.
+===Implementations for Java===
+There are several implementations for coroutines in Java. Despite the constraints imposed by Java's abstractions, the JVM does not preclude the possibility.<ref name="jvmsummit"></ref> There are four general methods used, but two break bytecode portability among standards-compliant JVMs.
+* Modified JVMs. It is possible to build a patched JVM to support coroutines more natively. The urltoken Da Vinci JVM has had patches created.<ref name="javanet-forax"></ref>
+* Modified bytecode. Coroutine functionality is possible by rewriting regular Java bytecode, either on the fly or at compile time. Toolkits include urltoken Javaflow, urltoken Java Coroutines, and urltoken Coroutines.
+* Platform-specific JNI mechanisms. These use JNI methods implemented in the OS or C libraries to provide the functionality to the JVM.
+* Thread abstractions. Coroutine libraries which are implemented using threads may be heavyweight, though performance will vary based on the JVM's thread implementation.
+=== Implementations in JavaScript ===
+* urltoken node-fibers
+** urltoken Fibjs - fibjs is a JavaScript runtime built on Chrome's V8 JavaScript engine. fibjs uses fibers-switch, sync style, and non-blocking I/O model to build scalable systems.
+* Since urltoken ECMAScript 2015, stackless coroutine functionality through "generators" and yield expressions is provided.
+=== Implementations for Kotlin ===
+ urltoken Kotlin implements coroutines as part of a urltoken first-party library.
+=== Implementations for Modula-2 ===
+Modula-2 as defined by Wirth implements coroutines as part of the standard SYSTEM library.
+The procedure NEWPROCESS() fills in a context given a code block and space for a stack as parameters, and the procedure TRANSFER() transfers control to a coroutine given the coroutine's context as its parameter.
+===Implementation in Mono===
+The Mono Common Language Runtime has support for continuations,<ref name="monoco"> urltoken Mono Continuations</ref> from which coroutines can be built.
+===Implementation in the .NET Framework as fibers===
+During the development of the .NET Framework 2.0, Microsoft extended the design of the Common Language Runtime (CLR) hosting APIs to handle fiber-based scheduling with an eye towards its use in fiber-mode for SQL server.<ref name="cbrumme-fibermode"> urltoken Chris Brumme, urltoken cbrumme's WebLog</ref> Before release, support for the task switching hook ICLRTask::SwitchOut was removed due to time constraints.<ref name="dino-fibermodegone"> urltoken Dino Viehland, urltoken Dino's Blog</ref>
+Consequently, the use of the fiber API to switch tasks is currently not a viable option in the .NET Framework.
+===Implementations for Perl===
+* urltoken Coro
+Coroutines are natively implemented in all Raku backends.<ref></ref>
+===Implementations for PHP===
+* urltoken Amphp
+* urltoken Coroutine implemented in a way that resembles Python functions, and some Go, many urltoken examples showing there code converted with same number of lines and behavior.
+===Implementations for Python===
+*Python 2.5 implements better support for coroutine-like functionality, based on extended generators ( urltoken PEP 342)
+*Python 3.3 improves this ability, by supporting delegating to a subgenerator ( urltoken PEP 380)
+*Python 3.4 introduces a comprehensive asynchronous I/O framework as standardized in urltoken PEP 3156, which includes coroutines that leverage subgenerator delegation 
+*Python 3.5 introduces explicit support for coroutines with async/await syntax ( urltoken PEP 0492).
+*Since Python 3.7 async/await became reserved keywords urltoken 
+* urltoken Eventlet
+* urltoken Greenlet
+* urltoken gevent
+* urltoken stackless python
+* Abandoned
+** urltoken Shrapnel (last release 2015)
+** urltoken Kamaelia (last release 2010)
+** urltoken cogen (last release 2009)
+** urltoken multitask (last release 2007)
+** urltoken chiral
+===Implementations for Ruby===
+* Ruby 1.9 supports coroutines natively which are implemented as urltoken fibers, which are semi-coroutines.<ref></ref>
+* urltoken An implementation by Marc De Scheemaecker
+* Ruby 2.5 and higher supports coroutines natively which are implemented as urltoken fibers
+* urltoken An implementation by Thomas W Branson
+===Implementations for Rust===
+Rust support coroutines since version 1.39 .<ref></ref>
+There is also an alternative asynchronous runtime (older project than the standard runtime of rust) : urltoken tokio
+===Implementations for Scala===
+Scala Coroutines<ref></ref> is a coroutine implementation for Scala. This implementation is a library-level extension that relies on the Scala macro system to statically transform sections of the program into coroutine objects. As such, this implementation does not require modifications in the JVM, so it is fully portable between different JVMs and works with alternative Scala backends, such as Scala.js, which compiles to JavaScript.<ref> urltoken Scala Coroutines FAQ</ref>
+Scala Coroutines rely on the <code>coroutine</code> macro that transforms a normal block of code into a coroutine definition. Such a coroutine definition can be invoked with the <code>call</code> operation, which instantiates a coroutine frame. A coroutine frame can be resumed with the <code>resume</code> method, which resumes the execution of the coroutine's body, until reaching a <code>yieldval</code> keyword, which suspends the coroutine frame. Scala Coroutines also expose a <code>snapshot</code> method, which effectively duplicates the coroutine.<ref name="scala-coroutine-snapshots"> urltoken Scala Coroutine Snapshots</ref> A detailed descriptions of Scala coroutines with snapshots appeared at urltoken ECOOP 2018, along with their urltoken formal model.
+===Implementations for Scheme===
+Since Scheme provides full support for continuations, implementing coroutines is nearly trivial, requiring only that a queue of continuations be maintained.
+===Implementations for Smalltalk===
+Since, in most Smalltalk environments, the execution stack is a first-class citizen, coroutines can be implemented without additional library or VM support.
+===Implementations for Swift===
+* urltoken SwiftCoroutine - Swift coroutines library for iOS, macOS and Linux.
+===Implementation for Tool Command Language (Tcl)===
+Since version 8.6, the Tool Command Language supports coroutines in the core language.
+<ref></ref>
+===Implementations for Vala===
+Vala implements native support for coroutines. They are designed to be used with a Gtk Main Loop, but can be used alone if care is taken to ensure that the end callback will never have to be called before doing, at least, one yield.
+===Implementations in assembly languages===
+Machine-dependent assembly languages often provide direct methods for coroutine execution. For example, in MACRO-11, the assembly language of the PDP-11 family of minicomputers, the “classic” coroutine switch is effected by the instruction "JSR PC,@(SP)+", which jumps to the address popped from the stack and pushes the current (i.e that of the next) instruction address onto the stack. On VAXen (in Macro-32) the comparable instruction is "JSB @(SP)+". Even on a Motorola 6809 there is the instruction "JSR ,S++"; note the "++", as 2 bytes (of address) are popped from the stack. This instruction is much used in the (standard) 'monitor' Assist 09.
+==See also==
+* Async/await
+* Generator (computer programming)
+* Pipeline (Unix), a kind of coroutine used for communicating between programs<ref name="EvolutionUnix"/>
+* Protothreads, a stackless lightweight thread implementation using a coroutine like mechanism
+==References==
+==Further reading==
+* 
+==External links==
+* Simon Tatham's C oriented urltoken comprehensive introduction to coroutines
+* urltoken Softpanorama coroutine pagecontains extensive assembler coroutines links
+
+Coroutines are computer program components that generalize subroutines for non-preemptive multitasking, by allowing execution to be suspended and resumed. Coroutines are well-suited for implementing familiar program components such as cooperative tasks, exceptions, event loops, iterators, infinite lists and pipes.
+According to Donald Knuth, Melvin Conway coined the term coroutine in 1958 when he applied it to the construction of an assembly program.<ref name="KnuthVol1_1_4_5" /> The first published explanation of the coroutine appeared later, in 1963.<ref name="Conway1963"/>

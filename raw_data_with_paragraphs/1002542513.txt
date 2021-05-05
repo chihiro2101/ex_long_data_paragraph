@@ -1,0 +1,99 @@
+Hamburger Flugzeugbau
+
+==History==
+In 1933 the Blohm & Voss shipbuilding company in Hamburg was suffering a financial crisis from lack of work. Its owners, brothers Rudolf and Walther Blohm, decided to diversify into aircraft manufacture, believing that there would soon be a market for all-metal, long-range flying boats, especially with the German state airline Deutsche Luft Hansa. They also felt that their experience with all-metal marine construction would prove an advantage. It was at that time commonly believed that transatlantic air transport would soon take over the role filled by the luxury liners of that time. It was also thought that those planes would be seaplanes and flying boats as they could use the infrastructure and capacity of the seaports already in place, while land facilities at that time were unsuited to such large aeroplanes.<ref name="amtmann1998-1">Amtmann, "Remembered" (1998) Pt.1.</ref><ref name="Pohlmann">Pohlmann (1979).</ref>
+===Early years===
+In June 1933 the Blohm brothers appointed their brother-in-law and fellow B&V director Dipl-Ing Max Andreae and experienced aviator Robert Schröck to the board. Schröck recruited designer Reinhold Mewes away from Heinkel, and with four other designers, on 1 July they began work.<ref>Pohlmann (1979), 1982 edition, pages 8-11.</ref> The Hamburger Flugzeugbau GmBH officially came into being on 4 July.<ref name="gunston">Bill Gunston; World Encyclopedia of Aero manufacturers, 2nd Edition, Sutton, 2005.</ref>
+The company offices at first occupied the top floor of the B&V administrative headquarters in the Steinwerder quarter of Hamburg, with manufacturing carried out in the under-utilised shipbuilding works.<ref name="amtmann1998-1"/> Meanwhile an inland airfield and final assembly building for landplanes were begun a few miles away at Wenzendorf Aircraft Factory, opened in 1935.<ref>Hans Walden; Wie Geschmiert: Rüstungsproduktion und Waffenhandel im Raum Hamburg ("Well Oiled: Armament Production and Arms Trading in the Hamburg Area"), Loeper, 1997. urltoken B+V Geschichte v. 1933-1938 (retrieved 1 May 2017)</ref>
+During this period Nazi Germany was massively increasing the interwar German re-armament program which included the complete overhaul of the aircraft industry. In particular, the Nazis wanted the technical capacities to quickly build large numbers of warplanes for the new Luftwaffe. As a result, the company took on subcontract manufacture of Junkers Ju 52 subassemblies, thus gaining valuable experience in the manufacture of all-metal aircraft. The bulk of the company's output would eventually turn out to be contract manufacturing of this kind, including many thousands of aircraft each for Dornier, Focke-Wulf, Heinkel, Junkers, and Messerschmitt.<ref name="Pohlmann"/>
+The company's own designs were designated with the official RLM company code "Ha". The first to be built was the Ha 135. Mewes was unfamiliar with advanced techniques such as all-metal construction and designed a conventional biplane with fabric covering. The Blohm Brothers had wanted a more radically advanced approach and, unhappy with Mewes, sought the advice of the RLM. On their recommendation the company offered the job of Chief Designer to Richard Vogt, who was then occupying that same position at Kawasaki in Japan and was experienced in all-metal construction. Vogt accepted and arrived during late autumn, while the Ha 135 was still under construction. For a while the company maintained two design teams in separate offices.<ref name="amtmann1988-vp">Amtmann, Paperclips (1988)</ref><ref name="Pohlmann"/>
+The Ha 135 took off on its first fight on 28 April 1934. However it failed to attract any orders and Mewes and his team soon left the company.
+Vogt proved highly innovative and many of his designs would have unusual features, from the very first incorporating a tubular steel wing main spar which also doubled as the fuel tank. He oversaw all the remaining types, until the company's closure in 1945.<ref name="Pohlmann"/>
+In May 1934 Vogt's team was joined by Hans Amtmann, coming like Mewes from Heinkel and bringing to the team his experience of large flying boats. Amtmann made a good impression and was soon appointed Head of Preliminary Design.<ref name="amtmann1988-vp"/> Other members included Richard Schubert as Head of Aerodynamics and George Haag as head of wing design.
+The only type to enter service during this period was the Ha 139 long-range seaplane mail carrier. Despite its size, with four engines, it was designed to be launched from a shipborne catapult to help extend its range, and was successfully operated in small numbers by Deutsche Luft Hansa. A landplane variant, the Ha 142, was also built for the airline.
+===Blohm & Voss adoption===
+The aircraft produced by Hamburger Flugzeugbau were still commonly associated with Blohm & Voss and this was causing confusion, so in September 1937 Hamburger Flugzeugbau was renamed Abteilung Flugzeugbau der Schiffswerft Blohm & Voss ("Aircraft Manufacturing Division of Blohm & Voss Shipbuilder"). The RLM changed the official aircraft type designation code to "BV". Some designs already under development as Ha types were reassigned a BV designation, for example the Ha 138 became the BV 138.
+In 1939, with the shipbuilding work revived and production capacity fully utilised again, B&V moved its aircraft subsidiary, including both offices and seaplane manufacturing, to a purpose-built site on the shores of the river Elbe, at Finkenwerder.<ref>Amtmann (1998) Paperclips, Page 67.</ref>
+The most significant types to be produced were flying boats, mainly used by the Luftwaffe for maritime patrol and reconnaissance. Most numerous was the BV 138 Seedrache (initiated as the Ha 138), a twin-boom trimotor, while the BV 222 Wiking was much larger. Largest of all was the BV 238 prototype, the largest aircraft built by any of the Axis forces. Other notable types include the asymmetric BV 141; 20 were built, but the type did not enter full production.
+The intention at Finkenwerder was to manufacture B&V's own products there, but subcontract manufacture quickly ate up most of the space and much of the company's own production, such as the BV 138, was in turn subcontracted out to Weser Flugzeugbau. Remarkably, the Finkenwerder site would survive the Bombing of Hamburg in World War II and would remain with the company.
+During the war, Vogt's workload increased so much that Hermann Pohlmann, designer of the Junkers Ju 87, was recruited to be his deputy. Other notable projects of the later part of the war included a variety of highly original bomber and fighter designs, including a series of tailless swept-wing fighters which culminated in an order for three prototypes of the jet-powered P 215 night fighter, just weeks before the war ended.<ref name="Pohlmann"/>
+===Postwar revival===
+At the end of the war, all aircraft production in Germany was shut down. Vogt and Amtmann were swept up by the American Operation Paperclip and made new careers over there. Pohlmann remained in Germany.
+In 1955 Germany was allowed to build civil aircraft once again. The main works at Finkenwerder was still there and Hamburger Flugzeugbau GmBH (HFB) re-emerged in 1956, still under the ownership of Walther Blohm but no longer connected to B+V. Blohm tried to tempt Vogt back from the US, but without success and Pohlmann returned to the company to become the new chief designer.<ref>Pohlmann (1979), 1982 edition, Page 242.</ref> Another significant recruit was Hans Wocke, who headed up the engineering team.<ref></ref>
+As ever, the company's main work would turn out to be as subcontractor for various German – and increasingly European – aircraft projects, and to this end it would participate in a number of consortia. Its first contract was for fuselage manufacture and final assembly of the Nord Noratlas. Other significant work would be undertaken for the Luftwaffe's Lockheed F-104G Starfighter and as a partner in the Transall C-160 military transport.<ref name="flight1961-1">"The German Industry", section on Hamburger Flugzeugbau, Flight, 19 October 1961, Pages urltoken 619- urltoken 670.</ref>
+In 1958 HFB proposed two civil transport projects. The HFB 209 was a twin-turpoprop capable of carrying 48 passengers, while the HFB 314 was a short-haul twin-jet. But the anticipated funding from the German government was not made available and the projects were cancelled in the early 1960s.<ref name="flight1961-1"/>
+In 1961, HFB and Focke-Wulf/Weserflug (VFW) jointly formed the Entwicklungsring Nord (ERNO) to develop air and space products. Work would be carried out for the Dornier Do 31 V/STOL transport and, later, in direct collaboration on the Fokker F28 Fellowship.<ref name="gunston"/>
+The only aircraft type to be both designed and built by the new HFB was the HFB 320 Hansa Jet, a business jet with forward-swept wings, which first flew in 1964 and was made in moderate numbers.
+In May 1969, HFB merged with Messerschmitt-Bölkow to form Messerschmitt-Bölkow-Blohm (MBB), which in turn was taken over by Deutsche Aerospace (DASA) in September 1989.<ref name="gunston"/> DASA has since been absorbed into the pan-European Airbus corporation. Airbus has since built a significant presence around the original HFB team and operates the airfield privately as Hamburg Finkenwerder Airport.<ref name="Pohlmann"/>
+==Aircraft and related products==
+===Hamburger Flugzeugbau (prewar)===
+Some of these types were still under construction when the company name was changed to B&V and flew only under the new name. But only those whose design and development continued under B&V were redesignated.
+* Ha 135. Conventional biplane trainer prototype, designed by Reinhold Mewes.
+* Ha 136. All-metal monoplane trainer prototype. First to incorporate Vogt's trademark cylindrical main spar with integral fuel tank.<ref name="amtmann1988-vp"/>
+* Ha 137. Dive bomber prototype.
+* Ha 138. Twin-boom flying boat prototype. Entered production as the BV 138 (see below).
+* Ha 139. Long-range seaplane mail carrier, operated in small numbers by Deutsche Luft Hansa. Later redesignated the BV 139.
+* Ha 140 Torpedo bomber seaplane prototype. Later redesignated the BV 140.
+* Ha 141 Asymmetric reconnaissance prototype. Further developed as the BV 141 (see below).
+* Ha 142. Landplane derivative of the Ha 139. The prototypes were later pressed into service as the BV 142.
+* Ha 222. Design proposal, would later be built as the BV 222.<ref name="Green"/>
+===Blohm & Voss===
+====Aircraft designed and flown====
+* BV 138 Seedrache (sea-dragon), originally designated Ha 138. Trimotor maritime patrol flying-boat. Only type to enter both series production and operational service, some were even built under subcontract by Weserflug.<ref name="Pohlmann"/>
+* BV 141, originally designated Ha 141. Asymmetric reconnaissance prototypes. Some 20 pre-production examples delivered but none saw operational service.<ref name="Pohlmann"/><ref name="Green"/>
+* BV 144. Airliner with variable-pitch wing. Two built in France by Breguet.
+* BV 155. High-altitude interceptor prototype, derived from the Messerschmitt Me 155 project.
+* BV 222. Wiking (Viking). Six-engine transport flying-boat. Some twelve pre-production examples saw operational service.
+* BV 238. Flying-boat prototype, the largest Axis aircraft design of the war years to fly.
+* BV 40. Glider interceptor prototype. Several examples flown but not yet operational by the end of hostilities. 
+Of these aircraft, few entered operational service and only one, the BV 138 "Fliegende Holzschuh" (flying clog), attained serial production. All other aircraft either remained prototypes or were limited to a small number of pre-series/purpose build machines. Nevertheless, work was sufficient to require a second manufacturing plant at Finkenwerder.
+The largest aircraft ever designed and built by any of the Axis powers of World War II, the BV 238, resembled an enlarged BV 222, with only one prototype aircraft built and flown.
+====Munitions developed====
+Besides aircraft, during World War II B&V also developed a number of air-launched munitions such as glide bombs and torpedoes. Although the company built thousands of examples during development, none entered operational service.<ref name="Pohlmann"/> These were:
+* BV 143. Glide bomb prototype.
+* BV 246 Hagelkorn (Hailstone), originally designated BV 226. Long-range radar-homing glide bomb prototype.<ref name = "WM B+V"></ref>
+* BV 950 Gliding torpedo prototype, built in two variants:<ref>Pohlmann (1979), 1982 edition, Pages 195-198.</ref><ref name="Green">William Green; Warplanes of the Third Reich, Macdonald and Jane's, 4th Impression, 1979.</ref>
+** L 10 Friedensengel. Torpedo with glider attachment.
+** L 11 Schneewittchen. Later and more advanced derivative.
+====Design projects====
+Vogt proved a highly innovative designer and many of his projects gained interest within the German aero community.<ref name="Pohlmann"/> B&V explored several main themes of interest, each through a series of design projects and proposals. These included; large maritime aircraft "stuka" dive bomber / ground attack replacements for the Junkers Ju 87, fast bombers and advanced fighters.<ref>Cowin, Hugh W.; “Blohm und Voss Projects of World War II”, Air Pictorial, Part I October 1963 pp. 312-316, Part II November 1963 pp. 368-370, Part III December 1963 pp. 404-406.</ref> Many studies had unusual configurations such as asymmetry, novel multi-engine layouts and crew locations, wings swept forwards or back (or both) and sometimes tailless. All these lines of study followed through into the jet age, some with piston+jet mixed-power engine combinations.
+Significant internal projects of the World War II era included:
+Transports:
+* P 200. Long-range passenger flying boat.
+* BV 250. Landplane variant of the BV 238.
+Bombers:
+* BV 237. Single-seat dive bomber and ground attack development of the asymmetric Bv 141. Personally ordered by Hitler as a replacement for the ageing Ju 87 Stuka but later cancelled.<ref name="amtmann1998-2">Amtmann, "Remembered" (1998) Pt.2.</ref>
+* P 163. Fast bomber with twin engines coupled to a central contra-prop, and manned wingtip nacelles.
+* P 170. Fast bomber with three engines, one central and two on unmanned wingtip nacelles.
+* P 188. W-wing jet bomber.
+Fighters:
+* P 202. Slewed wing variable-geometry jet fighter.
+* P 203. Multi-role attack aircraft, mixed piston & jet power.
+* P 208. Tailless swept piston-engined pusher fighter project.
+* P 211. Jet fighter for the Volksjäger Emergency Fighter Program competition.
+* P 212. Single engined jet fighter.
+* P 213. Pulsejet powered miniature fighter for the Miniaturjäger design competition of the Emergency Fighter Program.
+* P 215. Tailless swept-wing twinjet, developed from the P 208 and P 212 design studies. An order for three prototypes was received just weeks before the end of the war.<ref>Pohlmann (1979), 1982 edition, Page 193.</ref>
+===Hamburger Flugzeugbau (postwar)===
+* HFB 209. Twin-turpoprop airliner project.
+* HFB 314. Short-haul twin-jet project.
+* HFB 320 Hansa Jet. Business jet with forward-swept wings.
+* Transall C-160. Military transport (major partner).
+* Airbus consortium (significant contribution to design and manufacture).
+==See also==
+*List of Blohm & Voss aircraft
+*List of aircraft § Blohm & Voss
+*List of aircraft § Hamburger Flugzeugbau
+*List of aircraft § HFB
+*List of German aircraft projects, 1939–45#Blohm .26 Voss
+==References==
+===Notes===
+===Bibliography===
+* Hans Amtmann; "Blohm und Voss Remembered", Aeroplane Monthly, February 1998 pp.&nbsp;22–27 (Part 1) and March 1998 pp.&nbsp;12–15 (Part 2).
+* Hans Amtmann; The Vanishing Paperclips, Monogram, 1988.
+* Pohlmann, Hermann. Chronik Eines Flugzeugwerkes 1932-1945. B&V - Blohm & Voss Hamburg - HFB Hamburger Flugzeugbau (in German). Motor Buch Verlag, 1979 .
+==External links==
+*Luft '46: urltoken Blohm Und Voss
+*Wehrmacht History: urltoken Blohm & Voss
+
+Hamburger Flugzeugbau (HFB) was an aircraft manufacturer, located primarily in the Finkenwerder quarter of Hamburg, Germany. Established in 1933 as an offshoot of Blohm+Voss shipbuilders, it later became an operating division within its parent company and was known as Abteilung Flugzeugbau der Schiffswerft Blohm & Voss from 1937 until it ceased operation at the end of World War II. In the postwar period it was revived as an independent company under its original name and subsequently joined several consortia before being merged to form MBB. It participates in the present day Airbus and European aerospace programs.

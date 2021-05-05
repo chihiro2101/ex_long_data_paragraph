@@ -1,0 +1,76 @@
+Logistics engineering
+
+==Overview==
+Logistics is generally concerned with cost centre service activities, but provides value via improved efficiency and customer satisfaction. It can quickly lose that value if the customer becomes dissatisfied. The end customer can include another process or work center inside of the manufacturing facility, a warehouse where items are stocked or the final customer who will use the product. Another approach which has appeared in recent years is the supply chain management. The supply chain also looks at an efficient chaining of the supply / purchase and distribution sides of an organization. While logistics looks at single echelons with the immediate supply and distribution linked up, supply chain looks at multiple echelons/stages, right from procurement of the raw materials to the final distribution of finished goods up to the customer. It is based on the basic premise that the supply and distribution activities if integrated with the manufacturing / logistic activities, can result in better profitability for the organization. The local minimum of total cost of the manufacturing operation is getting replaced by the global minimum of total cost of the whole chain, resulting in better profitability for the chain members and hence lower costs for the products.
+Logistics engineering as a discipline is a very important aspect of systems engineering that also includes reliability engineering. It is the science and process whereby reliability, maintainability, and availability are designed into products or systems. It includes the supply and physical distribution considerations above as well as more fundamental engineering considerations. Logistics engineers work with complex mathematical models that consider elements such as mean time between failures (MTBF), mean time to failure (MTTF), mean time to repair (MTTR), failure mode and effects analysis (FMEA), statistical distributions, queueing theory, and a host of other considerations. For example, if we want to produce a system that is 95% reliable (or improve a system to achieve 95% reliability), a logistics engineer understands that total system reliability can be no greater than the least reliable subsystem or component. Therefore our logistics engineer must consider the reliability of all subcomponents or subsystems and modify system design accordingly. If a subsystem is only 50% reliable, one can concentrate on improving the reliability of that subsystem, design in multiple subsystems in parallel (5 in this case would achieve approximately 97% reliability of that subsystem), purchase and store spare subsystems for rapid change out, establish repair capability that would get a failed subsystem back in operation in the required amount of time, and/or choose any combination of those approaches to achieve the optimal cost vs. reliability solution. Then the engineer moves onto the next subsystem.
+===Terminology===
+There are few differences between the terms business logistics and logistics engineering. Logistics engineering is more focused on the mathematical or scientific application of logistics.<ref>G. Don Taylor, Logistics Engineering Handbook, CRC Press 2007</ref>
+===Fields and topics===
+The various fields and topics that logistics engineers are involved with include:
+*Customer service: provision of services to customers before, during and after a purchase
+*Purchasing: acquiring goods or services to accomplish its goals
+*Sourcing: procurement practices, aimed at finding, evaluating and engaging suppliers for acquiring goods and services
+*Demand forecasting: the art and science of forecasting customer demand to drive holistic execution of such demand by corporate supply chain and business management
+*Facility location: the optimal placement of facilities to minimize transportation costs while considering factors like avoiding placing hazardous materials near housing, and competitors' facilities
+*Layout Design
+*Inventory control: the activity of checking a shop’s stock
+*Material handling: short-distance movement within the confines of a building or between a building and a transportation vehicle
+*Warehousing
+*Distribution system design
+*Reliability engineering: sub-discipline of systems engineering that emphasizes dependability in the lifecycle management of a product
+*Reverse logistics: the process of moving goods from their typical final destination for the purpose of capturing value, or proper disposal
+*Green logistics: attempts to measure and minimize the ecological impact of logistics activities
+*Intermodal transport
+*Supportability analysis
+===Performance metrics===
+Different performance metrics (measures of performance) are used to examine the efficiency of an organization's logistics. The most popular and widely used performance metric is the landed cost. The landed cost is the total cost of purchasing, transporting, warehousing and distributing raw materials, semi-finished and finished goods.
+Another performance metric equally important is the end customer fill rate. It is the percentage of customer demand which is satisfied immediately off-the-shelf (from on-site inventory). An alternative to fill rate, is system availability.
+In recent years, the United States Department of Defense (DoD) has advocated the use of performance-based logistics (PBL) contracts to manage costs for support of weapon systems.
+==Education==
+Many top universities offer Logistics engineering programs at undergraduate and graduate levels. These programs generally combine strategy, operations, facility design, technology and management. The following institutions provide Logistics engineering programs around the world:
+*Florida International University - Master of Science in Logistics Engineering <ref> urltoken 
+*Aston University – BSc Logistics with Supply Chain Management <ref> urltoken Aston BSc Logistics with Supply Chain Management</ref>
+*Breda University of Applied Sciences – Bachelor of Science in International Logistics Engineering
+*Beijing Jiaotong University – Bachelor of Engineering in Logistic Engineering
+*Ohio State University – Master of Business Logistics Engineering <ref> urltoken Fisher College of Business MBLE Program</ref>
+*University of Hong Kong – Bachelor of Engineering in Logistics Engineering and Supply Chain Management<ref> urltoken Hong Kong Logistics Programs</ref>
+*Hong Kong Polytechnic University – Bachelor of Science in Logistics Engineering and Management
+*University of Science and Technology Beijing – Bachelors, Masters and Ph.D Programs in Logistics Engineering
+*Dalian Maritime University – Masters Program in Logistics Engineering & Management
+*Shanghai Maritime University – Bachelors & Doctoral Programs in Logistics Engineering
+*South China University of Technology – Masters and Ph.D. Programs in Logistics Engineering and Management
+*Hong Kong University of Science and Technology – Bachelor of Engineering in Logistics Management and Engineering
+*Korea Aerospace University - Bachelor of Science, Masters & Ph.D programs in Logistics
+*Széchenyi István University – Masters and Ph.D. Programs in Logistics Engineering and Management
+*JAMK University of Applied Sciences – Bachelor of Engineering in Logistics Engineering<ref> urltoken Logistics Engineering – JAMK</ref>
+*Taiyuan University of Science and Technology – Bachelor of Engineering in Logistics Engineering
+*University of East Sarajevo – Faculty of Transport and Traffic Engineering Doboj - Bachelor of Engineering in Transport and Traffic - 240 ECTS - Logistics
+*Columbus State Community College – Associates in Logistics Engineering Technology
+*Universitas Internasional Semen Indonesia - Bachelor of Logistics Engineering
+*Universidad de las Américas Puebla – Offers Logistics Engineering
+*Pertamina University – Faculty of Industrial Technology - Logistics Engineering
+*University of Duisburg-Essen – Master of Science in Logistics Engineering
+*University of Belgrade-Faculty of Transport and Traffic Engineering-Logistics Engineering
+*Telkom University – Faculty of Industrial and Systems Engineering - Logistics Engineering
+==See also==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+;Associations
+* 
+==References==
+==Further reading==
+*G. Don Taylor (2008), Logistics Engineering Handbook, CRC Press
+*Benjamin S. Blanchard (2014), Logistics Engineering and Management, Pearson New International Edition
+==External links==
+* urltoken The Council of Logistics Engineering Professionals
+* urltoken SOLE &ndash; International Society of Logistics
+* urltoken Definition of Landed Cost by 3CE
+
+Logistics engineering is a field of engineering dedicated to the scientific organization of the purchase, transport, storage, distribution, and warehousing of materials and finished goods. Logistics engineering is a complex science that considers trade-offs in component/system design, repair capability, training, spares inventory, demand history, storage and distribution points, transportation methods, etc., to ensure the "thing" is where it's needed, when it's needed, and operating the way it's needed all at an acceptable cost.

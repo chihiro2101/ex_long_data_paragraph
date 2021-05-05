@@ -1,0 +1,73 @@
+Crime against peace
+
+==Kellogg–Briand Pact==
+In 1928, the Kellogg–Briand Pact, known as the General Treaty for the Renunciation of War, said:
+<blockquote>
+ARTICLE I
+:The High Contracting Parties solemnly declare in the names of their respective peoples that they condemn recourse to war for the solution of international controversies, and renounce it, as an instrument of national policy in their relations with one another.
+ARTICLE II
+:The High Contracting Parties agree that the settlement or solution of all disputes or conflicts of whatever nature or of whatever origin they may be, which may arise among them, shall never be sought except by pacific means. 
+</blockquote>
+If a nation does not register with the UN as recognizing the Kellogg–Briand Pact, even if the nation had signed it, the UN cannot hold a claimed violation of the Kellogg–Briand Pact to be a violation of international law (according to its own Charter, Article 102). The interpretation of Article 102 is reserved to the Security Council, so it is possible that a "crime against peace" might be found by the Security Council, regardless.
+==Nuremberg Principles==
+In 1945, the London Charter of the International Military Tribunal defined three categories of crimes, including crimes against peace. This definition was first used in Finland to prosecute the political leadership in the War-responsibility trials in Finland. The principles were later known as the Nuremberg Principles.
+In 1950, the Nuremberg Trials defined Crimes against Peace (in Principle VI.a, submitted to the United Nations General Assembly) as
+<blockquote>
+(i) Planning, preparation, initiation or waging of a war of aggression or a war in violation of international treaties, agreements or assurances; 
+(ii) Participation in a common plan or conspiracy for the accomplishment of any of the acts mentioned under (i).
+</blockquote>
+"The legal basis for the jurisdiction of the court was that defined by the Instrument of Surrender of Germany, political authority for Germany had been transferred to the Allied Control Council, which having sovereign power over Germany could choose to punish violations of international law and the laws of war. Because the court was limited to violations of the laws of war, it did not have jurisdiction over crimes that took place before the outbreak of war on September 1, 1939"
+For committing this crime, the Nuremberg Tribunal sentenced a number of persons responsible for starting World War II. One consequence of this is that nations who are starting an armed conflict must now argue that they are either exercising the right of self-defense, the right of collective defense, or - it seems - the enforcement of the criminal law of jus cogens. It has made formal declaration of war uncommon after 1945.
+During the trial, the chief American prosecutor, Robert H. Jackson, stated:
+<blockquote>
+To initiate a war of aggression, therefore, is not only an international crime; it is the supreme international crime differing only from other war crimes in that it contains within itself the accumulated evil of the whole.
+</blockquote>
+Associate Supreme Court Justice William O. Douglas charged that the Allies were guilty of "substituting power for principle" at Nuremberg. "I thought at the time and still think that the Nuremberg trials were unprincipled.", he wrote. "Law was created ex post facto to suit the passion and clamor of the time."<ref></ref>
+==United Nations Charter==
+The first article of the United Nations Charter says:
+<blockquote>
+The Purposes of the United Nations are:
+#To maintain international peace and security, and to that end: to take effective collective measures for the prevention and removal of threats to the peace, and for the suppression of acts of aggression or other breaches of the peace, and to bring about by peaceful means, and in conformity with the principles of justice and international law, adjustment or settlement of international disputes or situations which might lead to a breach of the peace;
+#To develop friendly relations among nations based on respect for the principle of Civil rights and self-determination of peoples, and to take other appropriate measures to strengthen universal peace;
+</blockquote>
+The interdiction of aggressive war was confirmed and broadened by the United Nations' Charter, which states in article 2, paragraph 4 that
+<blockquote>
+All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations. 
+</blockquote>
+===Article 33===
+<blockquote>
+The parties to any dispute, the continuance of which is likely to endanger the maintenance of international peace and security, shall, first of all, seek a solution by negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements, or other peaceful means of their own choice.
+The Security Council shall, when it deems necessary, call upon the parties to settle their dispute by such means. 
+</blockquote>
+===Article 39===
+<blockquote>The Security Council shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken in accordance with Articles 41 and 42, to maintain or restore international peace and security.
+</blockquote>
+===Article 51===
+<blockquote>
+Nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken measures necessary to maintain international peace and security. Measures taken by Members in the exercise of this right of self-defence shall be immediately reported to the Security Council and shall not in any way affect the authority and responsibility of the Security Council under the present Charter to take at any time such action as it deems necessary in order to maintain or restore international peace and security.
+</blockquote>
+==U.S. laws of war==
+The U.S. Army's Law of Land Warfare (Field Manual 27-10) states:
+<blockquote>
+498. Crimes Under International Law
+Any person, whether a member of the armed forces or a civilian, who commits an act which constitutes a crime under international law is responsible therefore and liable to punishment. Such offenses in connection with war comprise:
+:a. Crimes against peace.
+:b. Crimes against humanity.
+:c. War crimes.
+Although this manual recognizes the criminal responsibility of individuals for those offenses which may comprise any of the foregoing types of crimes, members of the armed forces will normally be concerned, only with those offenses constituting "war crimes."<ref> urltoken FM 27-10 Chptr 8 Remedies for Violation of International Law; War Crimes</ref> (emphasis added)
+</blockquote>
+==Vietnam's Criminal Code==
+Vietnam's Criminal Code calls this crime as the crime of "Undermining peace, provoking aggressive wars".
+<blockquote>
+Chapter XXIV: CRIMES OF UNDERMINING PEACE, AGAINST HUMANITY AND WAR CRIMES
+</blockquote>
+==See also==
+*Command responsibility
+*International Criminal Court
+*Second World War
+*War of aggression
+==References==
+
+A crime against peace, in international law, is "planning, preparation, initiation, or waging of War of aggression, or a war in violation of international treaties, agreements or assurances, or participation in a common plan or conspiracy for the accomplishment of any of the foregoing".<ref name="black book">Nicolas Werth, Karel Bartošek, Jean-Louis Panné, Jean-Louis Margolin, Andrzej Paczkowski, Stéphane Courtois, The Black Book of Communism: Crimes, Terror, Repression, Harvard University Press, 1999, hardcover, 858 pages, , page 5.</ref> This definition of crimes against peace was first incorporated into the Nuremberg Principles and later included in the United Nations Charter. This definition would play a part in defining Aggression (war crime). It can also refer to the core international crimes set out in Rome Statute of the International Criminal Court (genocide, crimes against humanity, war crimes, and the crime of aggression), which adopted crimes negotiated previously in the Draft code of crimes against the peace and security of mankind.
+An important exception to the foregoing are defensive military actions taken under Article 51 of the UN Charter. Such defensive actions are subject to immediate Security Council review, but do not require UN permission to be legal within international law. "Nothing in the present Charter shall impair the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations." (UN Charter, Article 51) The Security Council will determine if the action is legally the "right of individual or collective self-defence", or it may appoint another UN organ to do this.
+Examples of crimes against peace include Second Italo-Ethiopian War in 1935,<ref></ref> Second Sino-Japanese War in 1937, Molotov–Ribbentrop Pact between Stalin and Hitler on the partition of Poland and annexation of Baltic States, Winter War in 1939, German-occupied Europe during World War II, the invasion of South Korea by North Korea in 1950, and the invasion of Kuwait by Iraq in 1990.<ref name="black book"/>

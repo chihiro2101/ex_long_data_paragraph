@@ -1,0 +1,54 @@
+Macrobius
+
+==Name==
+The correct order of his names is "Macrobius Ambrosius Theodosius", which is how it appears in the earliest manuscripts of the Saturnalia, and how he is addressed in the excerpts from his lost De differentiis. Only in later manuscripts were his names reversed as "Ambrosius Theodosius Macrobius", which James Willis then adopted for his edition of the Commentary. Alan Cameron notes that Cassiodorus and Boethius both refer to him as "Macrobius Theodosius", while he was known during his lifetime as "Theodosius": the dedication to the De differentiis is addressed Theodosius Symmacho suo ("Theodosius to his Symmachus"), and by the dedicatory epistle to Avianus's Fables, where he is addressed as Theodosi optime.<ref>See Cameron, urltoken "The Date and Identity of Macrobius", Journal of Roman Studies, 56 (1966), p. 27 and notes.</ref>
+==Life==
+Little is known for certain about Macrobius, but there are many theories and speculations about him. He states at the beginning of his Saturnalia that he was "born under a foreign sky" (sub alio ortus caelo), and both of his major works are dedicated to his son, Eustachius. His major works have led experts to assume that he was a pagan.
+Which "foreign sky" Macrobius was born under has been the subject of much speculation. Terrot Glover considers Macrobius either an ethnic Greek, or born in one of the Greek-speaking parts of the Roman Empire, such as Egypt, due to his intimate knowledge of Greek literature. J. E. Sandys went further and argued that Macrobius was born in one of the Greek provinces. However other experts, beginning with Ludwig van Jan, point out that despite his familiarity with Greek literature Macrobius was far more familiar with Latin than Greek—as evidenced by his enthusiasm for Vergil and Cicero—and favor North Africa, which was part of the Latin-speaking portion of the Roman Empire.<ref>William Harris Stahl, Macrobius: Commentary on the Dream of Scipio (New York: Columbia University, 1952), pp. 4f</ref>
+Scholars have attempted to identify him with a Macrobius who is mentioned in the Codex Theodosianus as a praetorian prefect of Spain (399–400), and a proconsul of Africa (410).<ref>Codex Theodosianus XIV.10.15, VIII.5.61, XI.28.6</ref> The Codex Theodosianus also records a praepositus (or lord chamberlain) named Macrobius in 422.<ref>Codex Theodosianus VI.8.1</ref> A number of older authorities go so far as to identify Macrobius the author with the first, and date his floruit to 399–410. There are objections to either identification: as Alan Cameron notes, the complete name of the first candidate is attested in an inscription to be "Flavius Macrobius Maximianus", while the second is excluded because "A praepositus must at this period have been a eunuch."<ref>Cameron, "Date and Identity", pp. 25f</ref>
+However, since Macrobius is frequently referred to as vir clarissimus et inlustris, a title which was achieved by holding public office, we can reasonably expect his name to appear in the Codex Theodosianus. Further, Cameron points out that during his lifetime Macrobius was referred to as "Theodosius", and looking for that name Cameron found a Theodosius who was praetorian prefect of Italy in 430. "It is significant that the only surviving law addressed to this Theodosius sanctions a privilege for Africa Proconsularis on the basis of information received concerning Byzacena," Cameron notes.<ref>Cameron, "Date and Identity", pp. 26f</ref>
+==Works==
+===Commentary on the "Dream of Scipio"===
+Macrobius's most influential book and one of the most widely cited books of the Middle Ages was a commentary on the book Dream of Scipio narrated by Cicero at the end of his Republic. The nature of the dream, in which the elder Scipio appears to his (adopted) grandson and describes the life of the good after death and the constitution of the universe from a Stoic and Neo-Platonic point of view, gave occasion for Macrobius to discourse upon the nature of the cosmos, transmitting much classical philosophy to the later Middle Ages.<ref name="EB1911"></ref> In astronomy, this work is noted for giving the diameter of the Sun as twice the diameter of the Earth.<ref></ref> Of a third work On the Differences and Similarities of the Greek and Latin Verb, we only possess an abstract by a certain Johannes, doubtfully identified with Johannes Scotus Eriugena (9th century).<ref name="EB1911"/>
+See editions by Ludwig von Jan (1848–1852, with a bibliography of previous editions, and commentary), Franz Eyssenhardt (1893, Teubner text), James Willis (1994, new Teubner), and R. A. Kaster (OCT and Loeb, 2011); on the sources of the Saturnalia see H. Linke (1880) and Georg Wissowa (1880). The grammatical treatise will be found in Jan's edition and Heinrich Keil's Grammatici latini; see also Georg Friedrich Schömann, Commentatio macrobiana (1871).
+===Saturnalia===
+thumb
+Macrobius's Saturnalia , "Seven Books of the Saturnalia") consists of an account of the discussions held at the house of Vettius Agorius Praetextatus during the holiday of the Saturnalia. It contains a great variety of curious historical, mythological, critical, antiquarian and grammatical discussions. "The work takes the form of a series of dialogues among learned men at a fictional banquet."<ref></ref>
+===Editions and translations===
+* Robert A. Kaster (ed.), Macrobius: Saturnalia. Loeb classical library 510-512. Cambridge, MA/ London: Harvard University Press, 2011. 3 volumes.
+* Percival Vaughan Davies (trans.), Macrobius: The Saturnalia. New York: Columbia University Press, 1969.
+* William Harris Stahl (trans.), Macrobius: Commentary on the Dream of Scipio. New York: Columbia University Press, 1952. (Second printing, with revisions, 1966)
+*
+==Legacy==
+A prominent lunar crater is named after Macrobius.<ref></ref>
+Macrobius Cove in Antarctica is named after Macrobius.
+== Gallery ==
+Cicero's Dream of Scipio described the Earth as a globe of insignificant size in comparison to the remainder of the cosmos.<ref>Macrobius, Commentary on the Dream of Scipio, transl. W. H. Stahl, (New York: Columbia Univ. Pr., 1952), chaps. v-vii, (pp. 200-212).</ref> Many early medieval manuscripts of Macrobius include maps of the Earth, including the antipodes, zonal maps showing the Clime#Ptolemys derived from the concept of a spherical Earth and a diagram showing the Earth (labeled as globus terrae, the sphere of the Earth) at the center of the hierarchically ordered planetary spheres.<ref>B. Eastwood and G. Graßhoff, Planetary Diagrams for Roman Astronomy in Medieval Europe, ca. 800-1500, Transactions of the American Philosophical Society, 94, 3 (Philadelphia, 2004), pp. 49-50.</ref> (See also: flat Earth).
+Images from a 12th-century manuscript of Macrobius's Commentarii in Somnium Scipionis (Parchment, 50&nbsp;ff.; 23.9&nbsp;×&nbsp;14&nbsp;cm; Southern France). Date: ca.&nbsp;1150. Source: Copenhagen, Det Kongelige Bibliotek, ms. NKS 218&nbsp;4°.
+<gallery>
+File:Macrobius.jpg|Initial E shaped in the form of a writing man, probably representing Macrobius himself.
+File:Macrobius, universe with the earth in the centre.jpg|The Universe, the Earth in the centre, surrounded by the five planets, the sun and the moon, within the zodiacal signs.
+File:Macrobius, climatic zones.jpg|The five climes of the Earth. Frozen climes in yellow; Temperate climes in blue; Torrid clime in red.
+File:Macrobius, mappa mundi.jpg|Sketch map showing the inhabited northern region separated from the antipodes by an imagined ocean at the equator.
+File:Macrobius, lunar eclipse.jpg|Diagram showing a lunar eclipse.
+File:Macrobius, solar eclipse.jpg|Diagram showing a solar eclipse.
+</gallery>
+==See also==
+*Allegory in the Middle Ages
+==Notes==
+==References==
+===Citations===
+===Bibliography===
+* Brigitte Englisch: Die Artes liberales im frühen Mittelalter (5.–9. Jahrhundert). Das Quadrivium und der Komputus als Indikatoren für Kontinuität und Erneuerung der exakten Wissenschaften zwischen Antike und Mittelalter. Steiner, Stuttgart 1994, 
+* Frateantonio, C., "Praetextatus – Verteidiger des römischen Glaubens? Zur gesellschaftlichen (Neu-)Inszenierung römischer Religion in Macrobius' Saturnalien," Zeitschrift für Antikes Christentum, 11,2 (2007), 360–377.
+* Kaster, R. (ed), Studies on the Text of Macrobius’s ‘Saturnalia’ (New York, 2010) (American Philological Association. American Classical Studies, 55).
+* Cameron, A., The Last Pagans of Rome (Oxford, 2011).
+==External links==
+* 
+* urltoken Macrobius: The Saturnalia, the Latin text of the critical edition edited by Ludwig von Jan (Gottfried Bass; Quedlinburg and Leipzig, 1852), web edition by Bill Thayer.
+* Opera quae supersunt, 2 voll., Quedlinburgi et Lipsiae, typis et sumptibus Godofredi Bassii, 1848-52: urltoken vol. 1, urltoken vol. 2.
+* urltoken Iohannis (Scoti) defloratio de Macrobio, a paraphrase of Macrobius' De uerborum Graeci et Latini differentiis uel societatibus. Also as Excerpta parisina in Grammatici latini, vol. 5, Lipsiae, in aedibus B. G. Teubneri, 1923, urltoken pagg. 599-629.
+* urltoken Macrobii excerpta Bobiensa, some extracts from Macrobius' De uerborum Graeci et Latini differentiis uel societatibus. Also as Excerpta bobiensa in Grammatici latini, vol. 5, cit., urltoken pagg. 631-55.
+* urltoken Bibliography on Macrobius' grammatical work
+
+Macrobius, fully Macrobius Ambrosius Theodosius, also known as Theodosius (fl. 400 AD), was a Roman provincial who lived during the early fifth century, during Late Antiquity, the period of time corresponding to the late Roman Empire to the early Middle Ages, and when Latin was as widespread as Greek among the elite. He is primarily known for his writings, which include the widely copied and read Commentarii in Somnium Scipionis ("Commentary on the Dream of Scipio") about Somnium Scipionis , which was one of the most important sources for Neoplatonism in the Latin West during the Middle Ages; the Saturnalia, a compendium of ancient Roman religious and antiquarian lore; and De differentiis et societatibus graeci latinique verbi ("On the Differences and Similarities of the Greek and Latin Verb"), which is now lost.

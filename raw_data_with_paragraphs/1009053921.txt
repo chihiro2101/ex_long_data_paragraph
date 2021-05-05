@@ -1,0 +1,711 @@
+List of missiles
+
+==Other missile lists==
+Types of missiles:
+* Conventional guided missiles
+** Air-to-air missile
+** Air-to-surface missile
+** Anti-radiation missile
+** Anti-ballistic missile
+** Anti-satellite weapon
+** Anti-ship missile(list)
+** Anti-submarine missile
+** Anti-tank guided missile(list)
+** Land-attack missile
+** Shoulder-launched missiles
+** Surface-to-air missile (list)
+** Surface-to-surface missile
+** Wire-guided missile
+* Cruise missiles
+** Air-launched cruise missile
+** Ground-launched cruise missile
+** Submarine-launched cruise missile
+* Ballistic missiles
+** Tactical ballistic missile
+** Short-range ballistic missile
+** Theatre ballistic missile
+** Medium-range ballistic missile
+** Intermediate-range ballistic missile
+** Intercontinental ballistic missile (List of ICBMs/Comparison of ICBMs)
+** Submarine-launched ballistic missile
+** Air-launched ballistic missile
+== Missiles by name ==
+===A===
+*A3SM (Mistral missile) submarine mast VSHORAD system
+*A3SM (MICA missile) SLAM
+*A-3
+*V-2
+*A-9
+*AA-1 Alkali (NATO reporting name for the Kaliningrad K-5)
+*AA-2 Atoll (NATO reporting name for the Vympel K-13)
+*AA-3 Anab (NATO reporting name for the Kaliningrad K-8)
+*AA-4 Awl (NATO reporting name for the Raduga K-9)
+*AA-5 Ash (NATO reporting name for the Raduga K-80)
+*AA-6 Acrid (NATO reporting name for the Bisnovat R-40)
+*AA-7 Apex (NATO reporting name for the Vympel R-23)
+*AA-8 Aphid (NATO reporting name for the Molniya R-60)
+*AA-9 Amos (NATO reporting name for the Vympel R-33)
+*AA-10 Alamo (NATO reporting name for the Vympel R-27)
+*AA-11 Archer (NATO reporting name for the Vympel R-73)
+*AA-12 Adder (NATO reporting name for the Vympel R-77)
+*AA-13 Arrow (NATO reporting name for the Vympel R-37)
+*AAM-3 (Japanese Type 90 air-to-air missile)
+*AAM-4 (Japanese Type 99 air-to-air missile)
+*AAM-5 (Japanese Type 04 air-to-air missile)
+*AAM-N-4 Oriole
+*AASM
+*Abdali-I (Pakistani surface-to-surface Short-range ballistic missile)
+*ABM-1 Galosh (NATO reporting name for the Russian/USSR, Vympel A-350 surface-to-air Anti-Ballistic Missile)
+*53T6 (NATO reporting name for the Russian/USSR A-135 surface-to-air Anti-Ballistic Missile)
+*A-Darter
+*ADATS (Swiss-American)
+*ADM-20 Quail
+*ADM-141 TALD
+*ADM-144
+*ADM-160 MALD
+*AGM-12 Bullpup
+*AGM-22
+*AGM-28 Hound Dog
+*AGM-45 Shrike
+*AGM-48 Skybolt
+*AGM-53 Condor
+*AGM-62 Walleye
+*AGM-63
+*AGM-64 Hornet
+*AGM-65 Maverick
+*AGM-69 SRAM
+*AGM-76 Falcon
+*AGM-78 Standard ARM
+*AGM-79 Blue Eye
+*AGM-80 Viper
+*AGM-83 Bulldog
+*AGM-84 Harpoon
+*AGM-84E SLAM
+*AGM-84H/K SLAM-ER
+*AGM-86 ALCM
+*AGM-87 Focus
+*AGM-88 HARM
+*AGM-112
+*AGM-114 Hellfire
+*AGM-119 Penguin (Norwegian-made; only non-US-made missile in US arsenal)
+*AGM-122 Sidearm
+*AGM-123 Skipper
+*AGM-124 Wasp
+*AGM-129 ACM
+*AGM-130
+*AGM-131 SRAM II
+*AGM-136 Tacit Rainbow
+*AGM-137 TSSAM
+*AGM-142 Have Nap US codename for imported Popeye missiles
+*AGM-153
+*AGM-154 JSOW
+*AGM-158 JASSM
+*AGM-159 JASSM
+*AGM-169 Joint Common Missile
+*AGM-179 JAGM
+*AGM-183A ARRW<ref> urltoken 
+*Agni I (India)
+*Agni II (India)
+*Agni III (India)
+*Agni IV (India)
+*Agni V (India)
+*Agni VI (India)
+*AIM-4 Falcon
+*AIM-7 Sparrow
+*AIM-9 Sidewinder
+*AIM-26 Falcon
+*AIM-47 Falcon
+*AIM-54 Phoenix
+*AIM-68 Big Q
+*AIM-82
+*AIM-97 Seekbat
+*AIM-95 Agile
+*AIM-120 AMRAAM
+*AIM-132 ASRAAM
+*AIM-152 AAAM
+*AIR-2 Genie
+*Air-Sol Moyenne Portée (ASMP)
+*Akash (India)
+*Akash-NG
+*Alacrán (Spanish for "Scorpion")
+*ALARM
+*ALAS
+*Al-Hussein
+*Al-Samoud 2
+*ANL (Franco-British)
+*Anza
+*Apache
+*Arrow (Israeli missile) (Anti-ballistic)
+*AS-25K (anti-ship)
+*AS-20
+*AS-30
+*AS.34 Kormoran
+*ASM-1 (Japanese Type 80 air-to-ship missile)
+*ASM-2 (Japanese Type 93 air-to-ship missile)
+*ASM-135 ASAT
+*ASMP
+*Aspide
+*ASRAAM (project name for the AIM-132 ASRAAM)
+*ASGLA (Igla missile) (Germano-Ukrainian) land-based VSHORAD system
+*ASRAD (Stinger, RBS-70 mk2, Igla, Mistral, Starburst missiles) land-based VSHORAD system
+*ASRAD-2 land-based VSHORAD system
+*ASRAD-R (Bolide missile) (Germano-Swedish) land-based VSHORAD system
+*ASRAD-R Naval (Bolide missile) (Germano-Swedish) shipboard VSHORAD system
+*Aster
+*Astra
+*ATAKA 9M120 (Russian anti-tank missile)
+*ATILGAN PMSS naval/land-based VSHORAD system
+*ATM-1 (Japanese Type 64 Anti-Tank Missile)
+*ATM-2 (Japanese Type 79 Anti-Landing craft and Anti-Tank Missile)
+*ATM-3 (Japanese Type 87 Anti-Tank Missile)
+*ATM-4 (Japanese Type 96 Multi-Purpose Missile System)
+*ATM-5 (Japanese Type 01 Light Anti-Tank Missile)
+*AUM-N-2 Petrel
+===B===
+*Babur (Pakistani Cruise Missile)
+*BAC Vigilant
+*Bantam
+*Barak 1 naval point defense surface-to-air missile (Israel)
+*Barak 8 naval area defense surface-to-air missile (Israel)
+*BGM-34 Firebee
+*BGM-71 TOW
+*BGM-75 AICBM
+*BGM-109 Tomahawk
+*BGM-110
+*Baktar-Shikan (Pakistani Anti-tank Guided Missile)
+*Black Arrow (United Kingdom)
+*Bloodhound UK Surface-to-air
+*Blowfish submarine mast VSHORAD system
+*Blowpipe UK Man portable Surface-to-air
+*Blue Steel nuclear stand off missile (United Kingdom)
+*Blue Streak (United Kingdom)
+*Bofors Bantam
+*Bölkow Bö 810 Cobra
+*BrahMos (India-Russia; World's fastest cruise missile)
+*Brakemine UK WWII project
+*Brimstone (United Kingdom)
+===C===
+*C-602
+*C-701
+*C-802
+*CA-94
+*CA-95
+*CGM-16 Atlas
+*CGM-121B Seek Spinner
+*CIM-10 Bomarc
+*Roketsan Cirit(Turkey)
+*Cobra
+*Cobra (Germano-Swiss)
+*Cobra 2000 (Germano-Swiss)
+*Condor (Argentina)
+*Crotale (France)
+===D===
+*Desna (popular name for the R-9 Desna intercontinental ballistic missile)
+*Dnipro
+*Dongfeng 1 (SS-2) (DF-1)
+*Dongfeng 2 (CSS-1) (DF-2)
+*Dongfeng 3 (CSS-2) (DF-3)
+*Dongfeng 4 (CSS-3) (DF-4)
+*Dongfeng 5 (CSS-4) (DF-5)
+*Dongfeng 11 (CSS-7) (DF-11)
+*Dongfeng 12 (CSS-X-15)(DF-12) 
+*Dongfeng 15 (CSS-6) (DF-15)
+*Dongfeng 16 (DF-16)
+*Dongfeng 21 (CSS-5) (DF-21)
+*Dongfeng 25 (DF-25)
+*Dongfeng 31 (CSS-10) (DF-31)
+*Dongfeng 41 (CSS-X-10) (DF-41)
+*Dvina (popular name for the R-12 Dvina theatre ballistic missile)
+===E===
+*EGBU-15
+*Scud (popular name for the Scud, a Scud variant)
+*Emad
+*Enforcer
+*ENTAC (France)
+*Enzian
+*ERYX (France)
+*Euromissile HOT anti-armour missile
+*EuroSpike (Germano-Israeli)
+*Exocet (popular name for the MBDA Exocet)
+===F===
+*Fateh-110
+*Fireflash
+*Firestreak
+*FGM-148 Javelin
+*Fieseler Fi 103, the V-1
+*FIM-43 Redeye
+*FIM-92 Stinger
+*FROG-7
+===G===
+*Gabriel (Ship-to-ship and air-to-ship variant
+*GAF Malkara
+*Ghauri-I (Pakistani)
+*Ghauri-II (Pakistani)
+*Ghauri-III 
+*Global Rocket 1 fractional orbital bombardment system missile (Russia; Cold War) (NATO reporting name SS-X-10 Scrag)
+*Gorodomlya G-1 - Developed by a German team at Gorodomlya island (57°12'0.06"N, 33° 4'0.02"E) in 1948, based on the V-2 with detachable warhead and integral propellant tanks. (a.k.a. R-10).
+*Gorodomlya G-1M - The G-1 with a more powerful engine proposed in 1949.
+*Gorodomlya G-2 - (a.k.a. R-12) Developed as far as preliminary design the G-2 first stage was to have been powered by a cluster of three engines from the G-1 with a thrust of approx 100tons, the second stage being capable of delivering the warhead 2,000 to 2,500 kilometres. Insurmountable problems with control of the second stage forced abandonment.
+*Gorodomlya G-3 - The G-3 project was to have been a two-stage, G-1 derived rocket, with a winged upper stage similar to the A9 developed by Wernher Von Braun's team at Peenemünde, for a projected range of 8,000 to 10,000 kilometres
+*Gorodomlya G-4 - In April 1949 the Gorodomlya group were given the same requirements as the team at NII-88 (which produced the R-3). The German group designed a 24m (78&nbsp;ft 9in) tall cone shaped rocket with an empty weight (including a three-ton warhead) of seven tons and a launch weight of 70.85 tons, (a.k.a. R-14).
+*Gorodomlya G-5 - Designed in parallel with the G-4, (a.k.a. R-15), another group at Gorodomlya proposed a ramjet powered unmanned bomber boosted by a G-1 or A4 rocket, cruising at altitude for a range of 3,000 kilometres.
+*Green Cheese (missile)
+*Green Flash (missile)
+*AGM-176 Griffin
+*Grom
+===H===
+*Hadès
+*Harpoon
+*Hatf-I
+*Hatf-IA
+*Hatf-IB
+*Hatf-VA
+*Hatf-VIII
+*Hatf-VIII (Ra'ad)
+*HGM-16 Atlas
+*Hongqi-1 SAM
+*Hongqi-2 SAM
+*HN-5 SAM
+*Hongqi-7 SAM
+*Hongqi-9 SAM
+*Hongqi-10 SAM
+*Hongqi-15 SAM
+*Hongqi-17 SAM
+*Hongqi-18 SAM
+*Hongqi-61 SAM
+*HOT (popular name for the Euromissile HOT anti-armour missile)
+*Hrim-2
+*Hsiung Feng I (ship-to-ship)
+*Hsiung Feng II (guided multiplatform antiship)
+*Hsiung Feng IIE (land attack cruise missile variant of HF-2)
+*Hsiung Feng III (anti-ship cruise missile)
+*Hyunmoo
+===I===
+*IDAS
+*Ingwe
+*IRIS-T
+===J===
+*J-Missile
+*Javelin Surface-to-air
+*Jericho missile (Ground-to-ground ballistic)
+*JL-1
+*JL-2
+===K===
+*K-4 (SLBM) (India)
+*K-5 (SLBM) (India)
+*K-15 (SLBM) (India)
+*Kaliningrad K-5 (AA-1 Alkali)
+*Kaliningrad K-8 (AA-3 Anab)
+*KAN Little Joe
+*Raduga K-9 (AA-4 Awl)
+*Vympel K-13 (AA-2 Atoll)
+*Kaishan-1 SAM
+*Khalij Fars ASBM
+*KN-08
+*KN-11
+===L===
+*LAM (Loitering Attack Missile)
+*LEM-70 Minuteman ERCS
+*LFK NG
+*Titan I
+*LGM-30 Minuteman
+**Minuteman I
+**Minuteman II
+**Minuteman III
+*Peacekeeper missile
+*Lieying-60 SAM
+*LIM-49A
+*LIM-99
+*LIM-100
+*Little Joe (shipborne surface-to-air)
+*Long March cruise missile
+===M===
+*M1 SLBM (France) submarine-launched ballistic missile
+*M2 SLBM (France)
+*M4 SLBM (France)
+*M5 SLBM (France)
+*M20 SLBM (France)
+*M45 SLBM (France)
+*M51 SLBM (France)
+*Magic (popular name for the R550 Magic)
+*Mectron MAA-1 Piranha (short-range air-air infrared homing missile)
+*Malkara (joint Australian/British)
+*Mamba (Germano-Swiss)
+*MAN-1 (anti-ship missile by Mectron, not in service yet)
+*Martin Pescador MP-1000 anti-ship ASM (Argentina)
+*MAR-1 (anti-radiation missile by Mectron, in tests)
+*Mathogo anti-tank, wire-guided (Argentina)
+*MBB Cobra
+*MBDA Apache
+*MBDA AS-30
+*MBDA Aster
+*MBDA Exocet
+*MBDA Meteor
+*Storm Shadow
+*MGM-1 Matador
+*MGM-5 Corporal
+*MGM-13 Mace
+*MGM-18 Lacrosse
+*MGM-21
+*MGM-29 Sergeant
+*MGM-31 Pershing
+*ENTAC
+*MGM-51 Shillelagh
+*MGM-52 Lance
+*MGM-140 ATACMS
+*Midgetman missile
+*MGM-157 EFOGM
+*MGM-164 ATACMS II
+*MGM-166 LOSAT
+*MGM-140 ATACMS
+*MGR-1 Honest John
+* MHT/MLP
+*MICA (project name for the MBDA MICA)
+*MILAN
+*Project Nike
+*Project Nike
+*MIM-23 Hawk
+*MIM-46 Mauler
+*MIM-72 Chaparral
+*MIM-104 Patriot
+*MIM-115 Roland
+*MIM-146 ADATS
+*Miniature Hit-to-Kill Missile
+*MISTRAL
+*MMP (anti-tank)
+*MMP/SEA LAUNCHED (ship-to-ship/shore)
+*Mokopa
+*Molodets (popular name for the RT-23 Molodets)
+*Mosquito (Germano-Swiss)
+*MR-UR-100 Sotka intercontinental ballistic missile (Russia; Cold War) (NATO reporting name SS-17 Spanker)
+* MX: See LGM-118 Peacekeeper
+===N===
+*Nag (Indian Anti-Tank Guided Missile)
+*Nirbhay (India)
+*Naval Strike Missile (NSM)
+*Neptune
+*Nike
+*Nodong-1
+*Nord 5203 surface-to-surface missile (SS.10) (France)
+*Nord 5210 surface-to-surface / air-to-surface missile (SS.11) (France)
+*Nord SS.10 surface-to-surface missile (France)
+*Nord SS.11 surface-to-surface / air-to-surface missile (France)
+*Nord SS.12 surface-to-surface missile (France)
+===O===
+* Oka (popular name for the R-400 Oka)
+* Otomat
+===P===
+*P-1 (SS-N-1 Scrubber)
+*P-700 Granit (SS-N-19 Shipwreck)
+*Sea Viper (Franco-British-Italian) shipboard SHORAD/MRAD system
+*PAD
+*Trigat
+*Penguin (U.S. designation: AGM-119)
+*Pershing II Weapon System
+*PL-9 SAM (PenLung)
+*PL-10 (PenLung)
+*Polyphem
+*PGM-11 Redstone
+*PGM-17 Thor
+*PGM-19 Jupiter
+*RT-21M Pioner (popular name for the RT-21M Pioner)
+*Pluton
+*PMADS naval/land-based VSHORAD system
+*Popeye (Standoff. U.S. designation AGM-142 Have Nap. A cruise missile variant purportedly exists as well)
+*Prahaar
+*Prithvi (India)
+*Prithvi II (India)
+*Prithvi III (India)
+*Pye Python
+*Python 5 (popular name for Rafael Python 5)
+===Q===
+*Qassam rocket
+*Qiam 1 Iranian surface-to-surface missile.
+*QW-1 SAM
+*QW-2 SAM
+===R===
+* R-1 theatre ballistic missile (SS-1 Scunner)
+* R-2 theatre ballistic missile (SS-2 Sibling)
+*R-4 missile (AA-5 Ash)
+* R-5 theatre ballistic missile (SS-3 Shyster)
+* R-7 Semyorka intercontinental ballistic missile (USSR/Russia; Cold War) (NATO name SS-6 Sapwood)
+* R-9 Desna intercontinental ballistic missile (USSR/Russia; Cold War) (NATO name SS-8 Sasin)
+* R-11 Zemlya tactical ballistic missile (USSR; Cold War) (NATO name SS-1b Scud)
+* R-12 Dvina theatre ballistic missile (USSR; Cold War) (NATO name SS-4 Sandal)
+* R-13 submarine-launched ballistic missile (USSR; Cold War) (SS-N-4 Sark)
+* R-14 Chusovaya theatre ballistic missile (USSR; Cold War) (NATO name SS-5 Skean)
+* R-15 submarine ballistic missile (USSR; Cold War)
+* R-16 intercontinental ballistic missile (USSR; Cold War) (NATO name SS-7 Saddler)
+* R-17E, variant of Russian Scud B
+* R-21 submarine-launched ballistic missile (USSR; Cold War) (SS-N-5 Serb)
+*R-23 (AA-7 Apex)
+* R-26 intercontinental ballistic missile (USSR; Cold War) (mistakenly applied NATO name SS-8 Sasin)
+* R-27 submarine-launched ballistic missile (USSR; Cold War) (SS-N-6 Serb)
+*R-27 (AA-10 Alamo)
+*R-33 (AA-9 Amos)
+* R-36 intercontinental ballistic missile (USSR/Ukraine) (NATO name SS-9 Scarp and SS-18 Satan)
+*R-39 missile (SS-N-20 Sturgeon)
+*R-40 (AA-6 Acrid)
+* R-46 orbital launcher and intercontinental ballistic missile (Russia; Cold War)
+*R-60 (AA-8 Aphid)
+*R-73 (AA-11 Archer)
+*R-77 (AA-12 Adder)
+* R-300 Elbrus theatre ballistic missile (USSR; Cold War) (NATO name SS-1c Scud)
+* R-400 Oka theatre ballistic missile (USSR; Cold War) (NATO name SS-23 Spider)
+*R550 Magic
+*Ra'ad Hataf VIII (Pakistani Cruise Missile)
+*Rapier Surface-to-air
+*Rafael Python 5 (Air-to-air)
+*RBS-15
+*RBS-23
+*RBS-70
+*RBS-77
+*RBS-90
+*Red Top Air-to-air
+*RGM-6 Regulus
+*RGM-15 Regulus II
+*RGM-59 Taurus
+*RGM-165 LASM
+*RIM-2 Terrier
+*RIM-7 Sea Sparrow
+*RIM-8 Talos
+*RIM-24 Tartar
+*RIM-50 Typhon
+*RIM-55 Typhon MR
+*RIM-66 Standard
+*RIM-66 Standard
+*RIM-67 Standard
+*RIM-67 Standard
+*RIM-85
+*RIM-101
+*RIM-113
+*RIM-116 Rolling Airframe Missile
+*RIM-156 SM-2ER Block IV
+*RIM-161 Standard missile 3
+*RIM-162 ESSM
+*ROLAND air defence missile
+* RS-24 intercontinental ballistic missile (Russia; Modern)<ref></ref>
+*RSA
+*RSA-1 mobile missile
+*RSA-2 IRBM
+*RSA-3 IRBM & SLV
+*RSA-4 ICBM & SLV
+*RSC-54
+*RSC-56
+*RSC-57
+*RSD 58
+*RSE Kriens
+*RT-1 theatre ballistic missile (USSR; Cold War)
+*RT-2 intercontinental ballistic missile (Russia; Cold War) (SS-13 Savage)
+*RT-2PM Topol intercontinental ballistic missile (Russia; Modern)(SS-25 Sickle)
+*RT-2UTTH Topol M intercontinental ballistic missile (Russia; Modern) (SS-27)
+*RT-15 mobile land launched theatre ballistic missile (USSR; Cold War) (SS-14 Scamp)
+*RT-20 intercontinental ballistic missile (USSR; Cold War) (SS-15 Scrooge)
+*RT-21 Temp 2S intercontinental ballistic missile (USSR; Cold War) (SS-16 Sinner)
+*RT-21M Pioner theatre ballistic missile (USSR; Cold War) (SS-20 Saber)
+*RT-23 Molodets intercontinental ballistic missile (Russia; Modern) (SS-24 Scalpel)
+*RT-25 theatre ballistic missile (USSR; Cold War)
+*Rudram-1 Indian Air launched Anti-radiation missile also known as NGARM
+*RUM-139 VL-Asroc
+*Asroc
+===S===
+*S1 SSBS
+*S2 SSBS
+*S3 SSBS
+*SA-2 Guideline
+*SA-3 Goa
+*SA-4 Ganef
+*SA-5 Gammon
+*SA-6 Gainful
+*SA-7 Grail
+*SA-8 Gecko
+*SA-9 Gaskin
+*SA-10 Grumble
+*SA-11 Gadfly
+*SA-12 Gladiator/Giant
+*SA-13 Gopher
+*SA-14 Gremlin
+*SA-15 Gauntlet
+*SA-16 Gimlet
+*SA-17 Grizzly
+*SA-18 Grouse
+*SA-19 Grisom
+*SA-20 Gargoyle
+*SA-X-21 Growler
+*SA-N-3 Goblet
+*SA-N-5 Grail
+*SS-20 (SS-20) (NATO reporting name for the RT-21M Pioner)
+*Saddler (SS-7) (NATO reporting name for the R-16 rocket)
+*Samid
+*Saegheh
+*Sagarika (SLBM) (Indian ballistic missile)
+*SAMP/T (MBDA Aster missile) (Franco-Italian) land-based SHORAD/MRAD system
+*Sejjil (MRBM) (Iranian ballistic missile)
+*Sandal (SS-4) (NATO reporting name for the R-12 Dvina)
+*Sapsan
+*Sapwood (SS-6) (NATO reporting name for the R-7 Semyorka)
+*Sark (SS-N-4) (NATO reporting name for the R-13)
+*Sasin (SS-8) (NATO reporting name for the R-9 Desna, also mistakenly applied to the R-26)
+*SS-18 (SS-18) (NATO reporting name for the R-36M)
+*Savage (SS-13) (NATO reporting name for the RT-2)
+*Scaleboard (SS-12 / SS-22) (NATO reporting name for the TR-1 Temp)
+*SCALP EG (Franco-British)
+*Scalpel (SS-24) (NATO reporting name for the RT-23 Molodets)
+*RT-15 (NATO reporting name for the RT-15)
+*Scapegoat (SS-14) (alternate NATO reporting name for the RT-15)
+*SS-9 Scarp (NATO reporting name for the R-36)
+*Scrag (SS-X-10) (NATO reporting name for the Global Rocket 1 and UR-200)
+*Scrooge (SS-15) (NATO reporting name for the RT-20)
+*Scud (SS-1b/SS-1c) (NATO reporting name for the R-11 Zemlya and R-300 Elbrus family)
+*Scunner (SS-1) (NATO reporting name for the R-1)
+*SD-10 (Pakistani beyond visual range air-to-air missile)
+*Sea Cat
+*Sea Dart
+*Sea Eagle
+*Sea Skua
+*Sea Slug Surface-to-air
+*Sea Venom (Franco-British)
+*Sea Viper (Franco-British-Italian) shipboard SHORAD/MRAD system
+*Sea Wolf Surface-to-air
+*Sego (SS-11) (NATO reporting name for the UR-100)
+*Semyorka (popular name for the R-7 Semyorka)
+*Serb (SS-N-5) (NATO reporting name for the R-21)
+*Serb (SS-N-6) (NATO reporting name for the R-27)
+*Shahab-1
+*Shahab-2
+*Shahab-3
+*Shahab-3D
+*Shahab-4
+*Shahab-5
+*Shahab-6
+*Shaheen-I (Pakistani MRBM)
+*Shaheen-II (Pakistani IRBM)
+*Shaheen-III (Pakistani IRBM)
+*Shavit (Space launcher)
+*Shkval (Shkval)
+*Shaurya (India)
+*SS-3 Shyster (NATO reporting name for the R-5)
+*Sibling (SS-2) (NATO reporting name for the R-2)
+*SS-25 (SS-25) (NATO reporting name for the RT-2PM Topol)
+*Silkworm subsonic cruise missile
+*Sinner (SS-16) (NATO reporting name for the RT-21 Temp 2S)
+*Skean (SS-5) (NATO reporting name for the R-14 Chusovaya)
+*Sky Bow I (SAM)
+*Sky Bow II (SAM)
+*Sky Bow III (SAM)
+*Sky Spear (Short range SSBM)
+*Sky Sword I (air-to-air)
+*Sky Sword II (air-to-air)
+*Skybolt ALBM
+*SLAM
+*SLAM-ER
+*SM-62 Snark
+*SM-73 Goose (decoy cruise missile)
+*SM-74 (proposed decoy cruise missile)
+*Sotka (popular name for the MR-UR-100 Sotka)
+*Spanker (SS-17) (NATO reporting name for the MR-UR-100 Sotka)
+*Spartan LIM-49A ABM
+*Spider (SS-23) (NATO reporting name for the R-400 Oka)
+*Spike/Gil (Anti-tank)
+*Sprint ABM
+*SS-1 Scunner (NATO reporting name for the R-1)
+*SS-1b Scud (NATO reporting name for the R-11 Zemlya)
+*SS-1c Scud (NATO reporting name for the R-300 Elbrus)
+*SS-2 Sibling (NATO reporting name for the R-2)
+*SS-3 Shyster (NATO reporting name for the R-5)
+*SS-4 Sandal (NATO reporting name for the R-12 Dvina)
+*SS-5 Skean (NATO reporting name for the R-14 Chusovaya)
+*SS-6 Sapwood (NATO reporting name for the R-7 Semyorka)
+*SS-7 Saddler (NATO reporting name for the R-16 rocket)
+*SS-8 Sasin (NATO reporting name for the R-9 Desna, also mistakenly applied to the R-26)
+*SS-9 Scarp (NATO reporting name for the R-36)
+*SS.10 surface-to-surface missile (France)
+*SS.11 surface-to-surface / air-to-surface missile (France)
+*SS.12 surface-to-surface missile (France)
+*SS-11 Sego (NATO reporting name for the UR-100)
+*SS-12 surface-to-surface missile (France)
+*SS-12 Scaleboard (NATO reporting name for the TR-1 Temp)
+*SS-13 Savage (NATO reporting name for the RT-2)
+*SS-14 Scamp (NATO reporting name for the RT-15)
+*SS-15 Scrooge (NATO reporting name for the RT-20)
+*SS-16 Sinner (NATO reporting name for the RT-21 Temp 2S)
+*SS-17 Spanker (NATO reporting name for the MR-UR-100)
+*SS-18 Satan (NATO reporting name for the R-36M)
+*SS-19 Stiletto (NATO reporting name for the UR-100N)
+*SS-20 Saber (NATO reporting name for the RT-21M)
+*SS-21 Scarab (NATO reporting name for the OTR-21)
+*SS-22 Scaleboard (NATO reporting name for the TR-1 Temp modified versions)
+*SS-23 Spider (NATO reporting name for the R-400 Oka)
+*SS-24 Scalpel (NATO reporting name for the RT-23 Molodets)
+*SS-25 Sickle (NATO reporting name for the RT-2PM Topol)
+*SS-27 (NATO reporting name for the RT-2UTTH Topol M)
+*SS-1000 (Brazil, retired)
+*SSM-N-2 Triton (never built)
+*SS-N-2 Styx
+*SS-N-4 Sark (NATO reporting name for the R-13)
+*SS-N-5 Serb (NATO reporting name for the R-21)
+*SS-N-6 Serb (NATO reporting name for the R-27)
+*SS-N-12
+*SS-N-15 Starfish
+*SS-N-16 Stallion
+*SS-N-17
+*SS-N-19 Shipwreck
+*SS-N-20
+*SS-N-22 Sunburn
+*SS-N-27 Sizzler (NATO reporting name for the 3M-54 Klub)
+*SS-X-10 Scrag (NATO reporting name for the Global Rocket 1 and UR-200)
+*SSM-A-23 Dart
+*Standoff Land Attack Missile
+*Starstreak
+*Storm Shadow
+*Strela-1 (SA-9 Gaskin)
+*Strela-2 (SA-7/SA-N-5 Grail)
+*Super 530 Air-Air
+*Super Duper
+*Swingfire Ground to ground, anti-tank
+===T===
+*Taimur (Pakistani ICBM)
+*Taurus
+*THAAD
+*Terne ASW
+*Temp (popular name for the TR-1 Temp)
+*Temp 2S (popular name for the RT-21 Temp 2S)
+*Thunderbird (surface-to-air missile for British Army use, built by English Electric)
+*Tippu (Pakistani IRBM)
+*TLVS (PAC-3 MSE, IRIS-T SL missiles) (Germano-American) land-based SHORAD/MRAD system
+*Topol (popular name for the RT-2PM Topol and RT-2UTTH Topol M)
+*TOROS
+*TR-1 Temp theatre ballistic missile (Russia; Cold War) (SS-12 / SS-22 Scaleboard)
+*Trigat
+*Trishul (Indian Surface-to-Air Missile)
+===U===
+*UGM-27 Polaris
+*UGM-73 Poseidon
+*UGM-89 Perseus
+*UGM-96 Trident I
+*UGM-133 Trident II
+*Umkhonto
+*UMTAS
+* UR-100 intercontinental ballistic missile (Russia; Cold War) (NATO reporting name SS-11 Sego)
+* UR-100MR (common alternate designation for the MR-UR-100 Sotka)
+* UR-100N intercontinental ballistic missile (Russia; Cold War) (NATO reporting name SS-19 Stiletto)
+* UR-200 intercontinental ballistic missile (Russia; Cold War) (NATO reporting name SS-X-10 Scrag)
+* Chusovaya (popular name for the R-14 Chusovaya)
+*UUM-44 Subroc
+*UUM-125 Sea Lance
+===V===
+*V-1
+*V-2
+*Vilkha
+*Voivode (popular name for the R-36M2)
+*VL-SRSAM (Indian naval surface-to-air missile derived from Astra
+===W===
+*Wasserfall
+===X===
+*X-4
+===Y===
+*Yun Feng
+===Z===
+* Zircon
+
+Below is a list of missiles, sorted alphabetically by name.

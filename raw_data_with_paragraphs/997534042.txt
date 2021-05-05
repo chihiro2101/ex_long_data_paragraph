@@ -1,0 +1,56 @@
+Digital subscriber line access multiplexer
+
+==Path taken by data to DSLAM==
+# Customer premises: DSL modem terminating the ADSL, SHDSL or VDSL circuit and providing a LAN or interface to a single computer or LAN segment.
+# Local loop: the telephone company wires from a customer to the telephone exchange or to a serving area interface, often called the "last mile" (LM).
+# Telephone exchange:
+#* Main distribution frame (MDF): a wiring rack that connects outside subscriber lines with internal lines. It is used to connect public or private lines coming into the building to internal networks. At the telco, the MDF is generally in proximity to the cable vault and not far from the telephone switch.
+#* DSL filter: DSL filters are used in the telephone exchange to split voice from data signals. The voice signal can be routed to a plain old telephone service (POTS) provider or left unused whilst the data signal is routed to the ISP DSLAM via the HDF (see next entry).
+#* Handover distribution frame (HDF): a distribution frame that connects the last mile provider with the service provider's DSLAM
+#* DSLAM: a device for DSL service. The DSLAM port where the subscriber local loop is connected converts analog electrical signals to data traffic (upstream traffic for data upload) and data traffic to analog electrical signals (downstream for data download).
+==Role of the DSLAM==
+The DSLAM equipment collects the data from its many modem ports and aggregates their voice and data traffic into one complex composite "signal" via multiplexing. Depending on its device architecture and setup, a DSLAM aggregates the DSL lines over its Asynchronous Transfer Mode (ATM), frame relay, and/or Internet Protocol network, i.e., an IP-DSLAM using Packet Transfer Mode - Transmission Convergence (PTM-TC) protocol(s) stack.
+The aggregated traffic is then directed to a telco's backbone switch, via an access network (AN), also called a Network service provider (NSP), at up to 10 Gbit/s data rates.
+The DSLAM acts like a network switch since its functionality is at Layer 2 of the OSI model. Therefore, it cannot re-route traffic between multiple IP networks, only between ISP devices and end-user connection points. The DSLAM traffic is switched to a Broadband Remote Access Server where the end-user traffic is then routed across the ISP network to the Internet. Customer-premises equipment that interfaces well with the DSLAM to which it is connected may take advantage of enhanced telephone voice and data line signaling features and the bandwidth monitoring and compensation capabilities it supports.
+A DSLAM may or may not be located in the telephone exchange, and may also serve multiple data and voice customers within a neighborhood serving area interface, sometimes in conjunction with a digital loop carrier. DSLAMs are also used by hotels, lodges, residential neighborhoods, and other businesses operating their own private telephone exchange.
+In addition to being a data switch and multiplexer, a DSLAM is also a large collection of modems. Each modem on the aggregation card communicates with a single subscriber's DSL modem. This modem functionality is integrated into the DSLAM itself instead of being done via an external device like a 20th-century voiceband modem.
+Like traditional voice-band modems, a DSLAM's integrated DSL modems are usually able to probe the line and to adjust themselves to electronically or digitally compensate for forward echoes and other bandwidth-limiting factors in order to move data at the maximum possible connection rate.
+This compensation capability also takes advantage of the better performance of "balanced line" DSL connections, providing capabilities for LAN segments longer than physically similar unshielded twisted pair (UTP) Ethernet connections, since the balanced line type is generally required for its hardware to function correctly. This is due to the nominal line impedance (measured in Ohms but comprising both resistance and inductance) of balanced lines being somewhat lower than that of UTP, thus supporting 'weaker' signals (however the solid-state electronics required to construct such digital interfaces are more costly).
+==Bandwidth versus distance==
+Balanced pair cable has higher attenuation at higher frequencies. Therefore, the longer the wire between DSLAM and subscriber, the slower the maximum possible data rate due to the lower frequencies being used to limit the total attenuation (or due to the higher number of errors at higher frequencies, effectively lowering the overall frequency/data rate). The following is a rough guide to the relation between wire distance (based on 0.40&nbsp;mm copper and ADSL2+ technology) and maximum data rate. Local conditions may vary, especially beyond 2&nbsp;km, often necessitating a closer DSLAM to bring acceptable bandwidths:
+* 25 Mbit/s at 1,000 feet (~300 m)
+* 24 Mbit/s at 2,000 feet (~600 m)
+* 23 Mbit/s at 3,000 feet (~900 m)
+* 22 Mbit/s at 4,000 feet (~1.2&nbsp;km)
+* 21 Mbit/s at 5,000 feet (~1.5&nbsp;km)
+* 19 Mbit/s at 6,000 feet (~1.8&nbsp;km)
+* 16 Mbit/s at 7,000 feet (~2.1&nbsp;km)
+* 8 Mbit/s at 10,000 feet (~3&nbsp;km)
+* 3 Mbit/s at 15,000 feet (4.5&nbsp;km)
+* 1.5 Mbit/s at 17,000 feet (~5.2&nbsp;km)
+==Hardware details==
+Customers connect to the DSLAM through ADSL modems or DSL routers, which are connected to the PSTN network via typical unshielded twisted pair telephone lines. Each DSLAM has multiple aggregation cards, and each such card can have multiple ports to which the customers' lines are connected. Typically a single DSLAM aggregation card has 24 ports, but this number can vary with each manufacturer.
+The most common DSLAMs are housed in a telco-grade chassis, which are supplied with (nominal) 48 volts DC. Hence a typical DSLAM setup may contain power converters, DSLAM chassis, aggregation cards, cabling, and upstream links.
+On the upstream trunk (ISP) side many early DSLAMs used ATM—and this approach was standardized by the DSL Forum—with Gigabit Ethernet support appearing sometime later.<ref name="HellbergBoyes2007"></ref> Today, the most common upstream links in these DSLAMs use Gigabit Ethernet or multi-gigabit fiber optic links.
+==IP-DSLAM==
+IP-DSLAM stands for Internet Protocol Digital Subscriber Line Access Multiplexer. User traffic is mostly IP based.
+Traditional 20th century DSLAMs used Asynchronous Transfer Mode (ATM) technology to connect to upstream ATM routers/switches. These devices then extract the IP traffic and pass it on to an IP router in an IP network. This division of work was thought to be sensible because DSL itself is based on ATM, and could theoretically carry data other than IP in that ATM stream. In contrast, an IP-DSLAM extracts the IP traffic in the DSLAM itself and passes it on to an IP router. The advantages of IP-DSLAM over a traditional ATM DSLAM are that the merged equipment is less expensive to make and operate and can offer a richer set of features.
+==See also==
+* Asymmetric digital subscriber line (ADSL)
+* Broadband Internet access
+* Broadband Remote Access Server (BRAS)
+* Cable modem termination system analogous device for CATV
+* ISDN digital subscriber line (IDSL)
+* Multi-service access node (MSAN)
+* Symmetric digital subscriber line (SDSL)
+* Symmetric high-speed digital subscriber line (SHDSL)
+* Triple play (telecommunications)
+* Very-high-bit-rate digital subscriber line (VDSL)
+* Very-high-bit-rate digital subscriber line 2 (VDSL2)
+==References==
+==External links==
+* urltoken What Is DSLAM? Complete guide to understanding DSLAM
+* urltoken Technical whitepaper on merging fiber with DSLAM
+* urltoken Cisco PPPoA Baseline Architecture (with diagrams)
+
+A digital subscriber line access multiplexer (DSLAM, often pronounced DEE-slam) is a network device, often located in telephone exchanges, that connects multiple customer digital subscriber line (DSL) interfaces to a high-speed digital communications channel using multiplexing techniques.<ref></ref>

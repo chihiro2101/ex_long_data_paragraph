@@ -1,0 +1,39 @@
+Newline
+
+== History ==
+In the mid-1800s, long before the advent of teleprinters and teletype machines, Morse code operators or telegraphists invented and used Morse code prosigns to encode white space text formatting in formal written text messages. In particular the Morse prosign represented by the concatenation of two literal textual Morse code "A" characters sent without the normal inter-character spacing is used in Morse code to encode and indicate a new line in a formal text message.
+Later in the age of modern teleprinters standardized character set control codes were developed to aid in white space text formatting. ASCII was developed simultaneously by the International Organization for Standardization (ISO) and the American Standards Association (ASA), the latter being the predecessor organization to American National Standards Institute (ANSI). During the period of 1963 to 1968, the ISO draft standards supported the use of either + or alone as a newline, while the ASA drafts supported only +.
+The sequence + was commonly used on many early computer systems that had adopted Teletype machines—typically a Teletype Model 33 ASR—as a console device, because this sequence was required to position those printers at the start of a new line. The separation of newline into two functions concealed the fact that the print head could not return from the far right to the beginning of the next line in time to print the next character. Any character printed after a CR would often print as a smudge in the middle of the page while the print head was still moving the carriage back to the first position. "The solution was to make the newline two characters: CR to move the carriage to column one, and LF to move the paper up."<ref></ref> In fact, it was often necessary to send extra characters—extraneous CRs or NULs—which are ignored but give the print head time to move to the left margin. Many early video displays also required multiple character times to scroll the display.
+On such systems, applications had to talk directly to the Teletype machine and follow its conventions since the concept of device drivers hiding such hardware details from the application was not yet well developed. Therefore, text was routinely composed to satisfy the needs of Teletype machines. Most minicomputer systems from DEC used this convention. CP/M also used it in order to print on the same terminals that minicomputers used. From there MS-DOS (1981) adopted CP/M's + in order to be compatible, and this convention was inherited by Microsoft's later Windows operating system.
+The Multics operating system began development in 1964 and used alone as its newline. Multics used a device driver to translate this character to whatever sequence a printer needed (including extra padding characters), and the single byte was more convenient for programming. What seems like a more obvious' inputfile > outputfile # DOS to UNIX (removing CRs on Linux and BSD based OS that haven't GNU extensions)
+$ sed -e 's/$/\r/' inputfile > outputfile # UNIX to DOS (adding CRs on Linux based OS that use GNU extensions)
+$ sed -e 's/\r$//' inputfile > outputfile # DOS to UNIX (removing CRs on Linux based OS that use GNU extensions)
+$ perl -pe 's/\r?\n|\r/\r\n/g' inputfile > outputfile # Convert to DOS
+$ perl -pe 's/\r?\n|\r/\n/g' inputfile > outputfile # Convert to UNIX
+$ perl -pe 's/\r?\n|\r/\r/g' inputfile > outputfile # Convert to old Mac
+</syntaxhighlight>
+The command can identify the type of line endings:
+<syntaxhighlight lang="console">
+ $ file myfile.txt
+ myfile.txt: ASCII English text, with CRLF line terminators
+</syntaxhighlight>
+The Unix egrep (extended grep) command can be used to print filenames of Unix or DOS files (assuming Unix and DOS-style files only, no Mac OS):
+<syntaxhighlight lang="console">
+$ egrep -L '\r\n' myfile.txt # show UNIX style file (LF terminated)
+$ egrep -l '\r\n' myfile.txt # show DOS style file (CRLF terminated)
+</syntaxhighlight>
+Other tools permit the user to visualise the EOL characters:
+<syntaxhighlight lang="console">
+$ od -a myfile.txt
+$ cat -e myfile.txt
+$ hexdump -c myfile.txt
+</syntaxhighlight>
+== Interpretation ==
+Two ways to view newlines, both of which are self-consistent, are that newlines either separate lines or that they terminate lines. If a newline is considered a separator, there will be no newline after the last line of a file. Some programs have problems processing the last line of a file if it is not terminated by a newline. On the other hand, programs that expect newline to be used as a separator will interpret a final newline as starting a new (empty) line. Conversely, if a newline is considered a terminator, all text lines including the last are expected to be terminated by a newline. If the final character sequence in a text file is not a newline, the final line of the file may be considered to be an improper or incomplete text line, or the file may be considered to be improperly truncated.
+In text intended primarily to be read by humans using software which implements the word wrap feature, a newline character typically only needs to be stored if a line break is required independent of whether the next word would fit on the same line, such as between paragraphs and in vertical lists. Therefore, in the logic of word processor and most text editors, newline is used as a paragraph break and is known as a "hard return", in contrast to "soft returns" which are dynamically created to implement word wrapping and are changeable with each display instance. In many applications a separate control character called "manual line break" exists for forcing line breaks inside a single paragraph. The glyph for the control character for a hard return is usually a pilcrow (¶), and for the manual line break is usually a carriage return arrow (↵).
+== Reverse and partial line feeds ==
+, (U+008D REVERSE LINE FEED,<ref></ref> ISO/IEC 6429 8D, decimal 141) is used to move the printing position back one line (by reverse feeding the paper, or by moving a display cursor up one line) so that other characters may be printed over existing text. This may be done to make them bolder, or to add underlines, strike-throughs or other characters such as diacritics.
+Similarly, (U+008B PARTIAL LINE FORWARD, decimal 139) and (U+008C PARTIAL LINE BACKWARD, decimal 140) can be used to advance or reverse the text printing position by some fraction of the vertical line spacing (typically, half). These can be used in combination for subscripts (by advancing and then reversing) and superscripts (by reversing and then advancing), and may also be useful for printing diacritics.
+
+Newline (frequently called line ending, end of line (EOL), line feed, or line break) is a control character or sequence of control characters in a character encoding specification (e.g. ASCII or EBCDIC) that is used to signify the end of a line of text and the start of a new one. Some text editors set this special character when pressing the key.
+When displaying (or printing) a text file, this control character causes the text editor to show the following characters in a new line.

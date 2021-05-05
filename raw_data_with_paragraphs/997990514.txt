@@ -1,0 +1,50 @@
+Help:Text editor support
+
+==How to open articles in your text editor==
+===Manual method===
+A "manual" way of editing in an external GUI text editor is to use copy and paste. Some text editors do not support, or may not be set up to support, various special characters—Chinese characters, non-Latin letters, mathematical symbols, and so on—they are typically replaced with a character that renders as a square. Check in a preview that your editor has not mangled any special characters before saving the edited page. A word processor may also be used, and may be less likely to mishandle special characters.
+# Open the Wikipedia edit window for the article or section as normally in browser (click the Edit tab of a page or section, or use the keyboard shortcut 
+# Select the entire content of the browser text area (as with or , copy it (to the clipboard; , then paste it into an external editor window
+# Perform the editing and copy the text editor contents
+# Select the browser text area contents so that they are overwritten, then paste the edited text back
+# Preview and check the edited page before saving it.
+For some browser/editor software combinations, there are more efficient methods:
+====Chrome and Firefox====
+* GhostText ( urltoken at this Web site or, for Firefox, added via Tools > Add-ons) opens the text box from your Chrome or Firefox Wikipedia window in a supported external editor (trialware Sublime Text, or open source Atom, VS code, or Vim only), and keeps the browser and external text in sync during editing.
+====Mozilla and Mozilla Firefox====
+If you are using the Mozilla web browser, it is possible to configure an external editor for editing text areas, including the Wikipedia edit area. This then avoids the need to copy and paste the article text between browser and editor. Several solutions exist:
+* urltoken It's All Text!, supports nonblocking editing and UTF-8 encoding. Note: If you also want syntax highlighting in your edit box, this addon may be incompatible with the highlighting in , but works with the highlighting in . (See below for highlighting within Vim.) Note: Stopped working on Firefox 57+.
+* urltoken Vimperator and urltoken Pentadactyl have a shortcut in Insert mode that allows external text editing (the default is Ctrl+i). Note: Stopped working on Firefox 57+.
+* urltoken GhostText. An extension for both Chrome and Firefox (including Quantum) where everything that you type in your editor appears instantly in the web-browser. Requires separate installation of an editor plugin.
+* urltoken textern Another Firefox-Quantum-compatible replacement for It's all Text. In addition to the urltoken addon, it requires a separate installation of a server. Only supports Linux.
+*MozEx. The urltoken official package does not support editing UTF-8-encoded documents and does not install properly on Mozilla Firefox. However, the urltoken development version does not have these problems. A quick MozEx tutorial is available.
+* urltoken ViewSourceWith provides similar functionality vis-a-vis the text editing.
+* urltoken TextArea Sputnik, supports nonblocking editing and different encodings in an external editor. (You may see question marks in an edit textbox unrelated to the edits you are making (for example, the Unicode grapheme and other glyphs at the bottom), but your edits won't destroy the characters.)
+* urltoken withExEditor supports nonblocking editing in an external editor. As of this writing, it is common for other external editor plugins (It's All Text, ViewSourceWith) to not support multi-process (aka e10s) Firefox, whereas withExEditor does.
+With all these solutions, once you are done editing, you need to save in your editor, then click into the browser's text area and it is updated. You can then hit Preview. If you want to continue editing after the preview, hit Back in your browser, then work in your editor. Alternatively, you can hit Preview before you start editing for the first time, then work in your editor, save, preview, edit some more, save, preview etc., without the need for hitting Back in between.
+Certain Firefox forks such as Pale Moon and Waterfox support legacy add-ons. Starting with Firefox 57, all add-ons must be based on the WebExtensions API in order to run.
+====Use It's All Text! to invoke an external editor====
+When the It's All Text! Firefox extension has been installed, a little blue edit button appears at the bottom right corner of the text area. Just click the button to open the contents of the text area in your editor.
+However, before you can use It's All Text!, you need to specify the path to your editor in the Preferences dialog box. The Preferences dialog opens automatically when you use It's All Text! for the first time, but you can open it manually as follows: Right click in the text area to open context menu; select "It's All Text" &rarr; "Preferences".
+If your editor requires some other command line options in addition to the filename, use a shell script (.sh file in Linux and macOS, or .bat in Windows) to call your editor, and specify path to that script instead of calling your editor directly. In addition, you can add filename extension for wiki file type in Preferences dialog, in case your editor uses file type specific configuration.
+Once the above is done, you can edit any text area in your editor by clicking at the Edit button at the lower-right corner of the text area. Alternately, you can right-click on the text area. From the "It's All Text" menu, you can choose which filename extension to use for editing.
+Next time you use the blue edit button, the extension is the one you used last time.
+After editing, just save the file from your editor. The contents are automatically copied to the text area in Firefox. To indicate this, the text area turns yellow briefly.
+A temporary file is created for editing and it is removed at the end. So if you want to preserve a text file for later editing, you can change the file name and/or save the file to another directory.
+=====Using Vim or another console editor=====
+Some macros may work under Vim, but not under gVim for some reason (e.g., the macro to format text paragraphs). Or you just want to use Vim within an X terminal as you used to do, instead of using gVim. To invoke Vim within an X terminal window, you can write a shell script (see below) to invoke an X terminal and to run the <code>vim</code> command within that X terminal, or generally your preferred editor. Assume that the filename of this script is <code>wiki.edit.vim</code>, and that you put the script in the directory <code>/home_dir/bin/</code> so that the path of the script would be
+<code>/home_dir/bin/wiki.edit.vim</code>
+Put the above path in the Preferences box (instead of <code>/usr/bin/gvim</code>) of It's All Text. It should work. Note that <code>/home_dir/</code> is the complete path to your home directory from the root (<code>/</code>) directory; don't use <code>~/</code> (tilde) instead of <code>/home_dir/</code>; it won't work.
+The listing of the script <code>wiki.edit.vim</code> is given below:
+<syntaxhighlight lang="bash">
+#!/bin/sh
+: $
+==See also==
+* Wikipedia:Tools
+**VisualEditor
+**Wikipedia:Tools/Editing tools
+* AutoWikiBrowser
+** MWiki-Browser. A fork of AutoWikiBrowser (last release in July 2007).
+
+It is often convenient to edit Wikipedia articles using a full-fledged text editor, instead of the standard text area of a web browser. Text editors provide facilities that are very useful for writing and editing articles (especially long articles), such as spell checker, search and replace, macros, syntax highlighting, and alphabetic sorting. They also provide a quick and easy way of saving a local backup copy of an article, possibly for future offline editing. wikEd for Wikipedia (Preferences > Gadgets > Editing) supports some of these features, and some browsers support spell-checking. In any case, you can select Wikipedia VisualEditor for a visual editing, wikipedia:VisualEditor.
+This page contains pointers for adapting several external and in-browser text editors to editing Wikipedia articles.

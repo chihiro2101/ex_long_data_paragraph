@@ -1,0 +1,67 @@
+Generally Accepted Accounting Principles (United States)
+
+==History==
+Auditors took the leading role in developing GAAP for business enterprises.<ref></ref>
+Accounting standards have historically been set by the American Institute of Certified Public Accountants (AICPA) subject to U.S. Securities and Exchange Commission (SEC) regulations.<ref> urltoken Financial Accounting Standards. QuickMBA.</ref> The AICPA first created the Committee on Accounting Procedure in 1939 and replaced that with the Accounting Principles Board in 1959. In 1973, the Accounting Principles Board was replaced by the Financial Accounting Standards Board (FASB) under the supervision of the Financial Accounting Foundation with the Financial Accounting Standards Advisory Council serving to advise and provide input on the accounting standards.<ref> urltoken Financial Accounting Standards Advisory Council (FASAC). FASB FASAC.</ref> Other organizations involved in determining United States accounting standards include the Governmental Accounting Standards Board (GASB), formed in 1984; and the Federal Accounting Standards Advisory Board (FASAB), formed in 1990.<ref></ref>
+Circa 2008, the FASB issued the FASB Accounting Standards Codification, which reorganized the thousands of U.S. GAAP pronouncements into roughly 90 accounting topics.<ref></ref>
+In 2008, the Securities and Exchange Commission issued a preliminary "roadmap" that may lead the United States to abandon Generally Accepted Accounting Principles in the future, and to join more than 100 countries around the world instead in using the London-based International Financial Reporting Standards.<ref name=nomoregaap></ref> As of 2010, the convergence project was underway with the FASB meeting routinely with the IASB.<ref> urltoken Progress Report on Commitment to Convergence of Accounting Standards—June 24, 2010. FASB.</ref> The SEC expressed their aim to fully adopt International Financial Reporting Standards in the U.S. by 2014.<ref></ref> With the convergence of the U.S. GAAP and the international IFRS accounting systems, as the highest authority over International Financial Reporting Standards, the International Accounting Standards Board is becoming more important in the United States.
+==Basic characteristic==
+Financial reporting should provide information that is:
+* Useful to present to potential investors and creditors and other users in making rational investment, credit, and other financial decisions 
+* Helpful to present to potential investors and creditors and other users in assessing the amounts, timing, and uncertainty of prospective cash receipts about economic resources, the claims to those resources, and the changes in them
+* Helpful for making financial decisions
+* Helpful in making long-term decisions
+* Helpful in improving the performance of the business
+* Useful in maintaining records
+==Required departures from GAAP==
+Under the AICPA's Code of Professional Ethics under Rule 203 – Accounting Principles, a member must depart from GAAP if following it would lead to a material misstatement on the financial statements, or otherwise be misleading. In the departure, the member must disclose, if practical, the reasons why compliance with the accounting principle would result in a misleading financial statement. Under Rule 203-1-Departures from Established Accounting Principles, the departures are rare, and usually take place when there is new legislation, the evolution of new forms of business transactions, an unusual degree of materiality, or the existence of conflicting industry practices.<ref></ref>
+==Involved in development==
+These organizations influence the development of GAAP in the United States.
+* United States Securities and Exchange Commission (SEC)
+*: The SEC was created as a result of the Great Depression. At that time there was no structure setting accounting standards. The SEC encouraged the establishment of private standard-setting bodies through the AICPA and later the FASB, believing that the private sector had the proper knowledge, resources, and talents. The SEC works closely with various private organizations setting GAAP, but does not set GAAP itself.
+* American Institute of Certified Public Accountants (AICPA)
+*: In 1939, urged by the SEC, the AICPA appointed the Committee on Accounting Procedure (CAP). During the years 1939 to 1959 CAP issued 51 Accounting Research Bulletins that dealt with a variety of timely accounting problems. However, this problem-by-problem approach failed to develop the much needed structured body of accounting principles. Thus, in 1959, the AICPA created the Accounting Principles Board (APB), whose mission it was to develop an overall conceptual framework. It issued 31 opinions and was dissolved in 1973 for lack of productivity and failure to act promptly. After the creation of the FASB, the AICPA established the Accounting Standards Executive Committee (AcSEC). It publishes:
+*:# Audit and Accounting Guidelines, which summarizes the accounting practices of specific industries (e.g. casinos, colleges, airlines, etc.) and provides specific guidance on matters not addressed by FASB or GASB. U.S. GAAP does not take into account ethics in deciding it's guidelines. This allows room for the perpetuation of wage inequality
+*:# Statements of Position, which provides guidance on financial reporting topics until the FASB or GASB sets standards on the issue.
+*:# Practice Bulletins, which indicate the AcSEC's views on narrow financial reporting issues not considered by the FASB or the GASB.
+* Financial Accounting Standards Board (FASB)
+*: Realizing the need to reform the APB, leaders in the accounting profession appointed a Study Group on the Establishment of Accounting Principles (commonly known as the Wheat Committee for its chair Francis Wheat). This group determined that the APB must be dissolved and a new standard-setting structure is created. This structure is composed of three organizations: the Financial Accounting Foundation (FAF, it selects members of the FASB, funds and oversees their activities), the Financial Accounting Standards Advisory Council (FASAC), and the major operating organization in this structure the Financial Accounting Standards Board (FASB). FASB previously had 4 major types of publications:
+*:# Statements of Financial Accounting Standards – the most authoritative GAAP setting publications. 168 standard has been issued before the New codification.
+*:# Statements of Financial Accounting Concepts – first issued in 1978. They are part of the FASB's conceptual framework project and set forth fundamental objectives and concepts that the FASB use in developing future standards. However, they are not a part of GAAP. There have been 7 concepts published to date.
+*:# Interpretations – modify or extend existing standards. There have been around List of FASB Interpretations.
+*:# Technical Bulletins or Staff Positions – guidelines on applying standards, interpretations, and opinions. Usually solves some very specific accounting issue that will not have a significant, lasting effect.
+*: In 1984 the FASB created the Emerging Issues Task Force (EITF) which deals with new and unusual financial transactions that have the potential to become common (e.g. accounting for Internet-based companies). It acts more like a problem filter for the FASB – the EITF deals with short-term, quickly resolvable issues, leaving long-term, more pervasive problems for the FASB.
+*:However, now all GAAP resides in the ASC (Accounting Standards Codification) so the FASB and EITF do not issue new standards but rather updates to the Codification. The Concepts statements still exist outside of the ASC but are not authoritative.
+* Governmental Accounting Standards Board (GASB)
+*: Created in 1984, the GASB addresses state and local government reporting issues. Its structure is similar to that of the FASB's, and the FASB and GASB are located together and share resources.
+* Other influential organizations: The Government Finance Officer's Association (GFOA) also influences financial policies for governments (disagreements between the GFOA and GASB are rare, but can continue for many years); American Accounting Association, Institute of Management Accountants, Financial Executives Institute.
+==Precedence of GAAP-setting authorities==
+In the United States, GAAP derives, in order of importance, from:
+# issuances from an authoritative body designated by the American Institute of Certified Public Accountants(AICPA) Council (for example, the Financial Accounting Standards Board Statements, AICPA Accounting Principles Board Opinions, and AICPA Accounting Research Bulletins);
+# other AICPA issuances such as AICPA Industry Guides; 
+# industry practice; and 
+# into para-accounting literature in the form of books and articles.
+==Codification in Accounting – FASB Accounting Standards Codification==
+The Codification is effective for interim and annual periods ending after September 15, 2009. All existing accounting standards documents are superseded as described in FASB Statement No. 168, The FASB Accounting Standards Codification and the Hierarchy of Generally Accepted Accounting Principles. All other accounting literature not included in the Codification is non-authoritative.
+The Codification reorganizes the thousands of U.S. GAAP pronouncements into roughly 90 accounting topics and displays all topics using a consistent structure. It also includes relevant Securities and Exchange Commission (SEC), guidance that follows the same topical structure in separate sections in the Codification.
+To prepare users for the change, the AICPA<ref></ref> has provided a number of tools and training resources.
+While the Codification does not change GAAP, it introduces a new structure—one that is organized in an easily accessible, user-friendly online research system. The FASB expects that the new system will reduce the amount of time and effort required to research an accounting issue, mitigate the risk of noncompliance with standards through improved usability of the literature, provide accurate information with real-time updates as new standards are released, and assist the FASB with the research efforts required during the standard-setting process.
+==See also==
+*Accounting standard
+*International Financial Reporting Standards
+*Other comprehensive basis of accounting
+*Philosophy of accounting
+*Statutory accounting principles for US insurance companies
+==Notes==
+==External links==
+* urltoken SEC Accounting Bulletins – United States
+* urltoken SEC Division of Corporate Finance – United States
+* urltoken Financial Accounting Standards Board Website (FASB) – United States
+* urltoken Government Accounting Standards Board Website (GASB) – United States
+* urltoken US GAAP XBRL Taxonomy – United States
+es:Principios de Contabilidad Generalmente Aceptados
+he:עקרונות חשבונאיים מקובלים
+
+Generally Accepted Accounting Principles (GAAP or U.S. GAAP) is the accounting standard adopted by the U.S. Securities and Exchange Commission (SEC).<ref></ref> While the SEC previously stated that it intends to move from U.S. GAAP to the International Financial Reporting Standards (IFRS), the latter differ considerably from GAAP and progress has been slow and uncertain.<ref name=pwc> urltoken "IFRS: Current situation and next steps", pwc.com</ref><ref> urltoken "New mechanisms eyed by FASB, IASB in long march toward global comparability", Ken Tysiac
+January 10, 2013, journalofaccountancy.com</ref> More recently, the SEC has acknowledged that there is no longer a push to move more U.S companies to IFRS so the two sets of standards will "continue to coexist" for the foreseeable future.<ref name=sec> urltoken "A U.S. Imperative: High-Quality, Globally Accepted Accounting Standards", SEC January 5, 2017, sec.gov</ref>
+The Financial Accounting Standards Board (FASB) published U.S. GAAP in Extensible Business Reporting Language (XBRL) beginning in 2008.

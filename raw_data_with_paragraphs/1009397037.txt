@@ -1,0 +1,108 @@
+Rayon
+
+==Rayon and its variants==
+Rayon is produced by dissolving cellulose followed by the conversion of this solution back to insoluble fibrous cellulose. Various processes have been developed for this regeneration. Principally, the methods are the Cuprammonium method, Viscose method, and the Lyocell Process. Especially the former two methods have been practiced for more than a century.
+===Cuprammonium method===
+Swiss chemist Matthias Eduard Schweizer (1818–1860) discovered that cellulose dissolves in Schweizer's reagent. Max Fremery and Johann Urban developed a method to produce carbon fibers for use in light bulbs in 1897.<ref> urltoken Over 100 years old and still going strong From Glanzstoff (artificial silk) factory to industry park. industriepark-oberbruch.de</ref> Production of cuprammonium rayon for textiles started in 1899 in the Vereinigte Glanzstoff Fabriken AG in Oberbruch near Aachen.<ref>Verinigte Glanstoff Fabriken merged with the Nederlandse Kunstzijdefabrieken in 1929 to form the Algemene Kunstzijde Unie, AkzoNobel's predecessor.</ref> Improvement by J. P. Bemberg AG in 1904 made the artificial silk a product comparable to silk.<ref name=UllCell/><ref name=r7>J. P. Bemberg AG was one of the Vereinigte Glanzstoff-Fabriken which merged into the Dutch based Algemene Kunstzijde Unie (AKU)--AkzoNobel today.</ref>
+Cuprammonium rayon has properties similar to viscose; however, during its production, the cellulose is combined with copper and ammonia (Schweizer's reagent). Due to the detrimental environmental effects of this production method, cuprammonium rayon is no longer produced in the United States.<ref name="Ohio"/>
+===Viscose method===
+English chemist Charles Frederick Cross and his collaborators, Edward John Bevan and Clayton Beadle, patented their artificial silk in 1894. They named their material "viscose" because its production involved the intermediacy of a highly viscous solution. The process built on the reaction of cellulose with a strong base, followed by treatment of that solution with carbon disulfide to give a xanthate derivative. The xanthate is then converted back to a cellulose fiber in a subsequent step.
+The first commercial viscose rayon was produced by the UK company Courtaulds in November 1905.<ref> urltoken Courtaulds formed an American division, American Viscose (later known as Avtex Fibers), to produce their formulation in the United States in 1910.<ref name="Owen2010"></ref> The name "rayon" was adopted in 1924, with "viscose" being used for the viscous organic liquid used to make both rayon and cellophane. In Europe, though, the fabric itself became known as "viscose", which has been ruled an acceptable alternative term for rayon by the US Federal Trade Commission (FTC).
+The viscose method can use wood as a source of cellulose, whereas other routes to rayon require lignin-free cellulose as a starting material. The use of woody sources of cellulose makes viscose cheaper, so it was traditionally used on a larger scale than the other methods. On the other hand, the original viscose process generates large amounts of contaminated wastewater. Newer technologies use less water and have improved the quality of the wastewater. Rayon was produced only as a filament fiber until the 1930s when methods were developed to utilize "broken waste rayon" as staple fiber.
+The physical properties of rayon remained unchanged until the development of high-tenacity rayon in the 1940s. Further research and development led to high-wet-modulus rayon (HWM rayon) in the 1950s.<ref name="Kadolph"></ref> Research in the UK was centred on the government-funded British Rayon Research Association.
+Industrial applications of rayon emerged around 1935. Substituting cotton fiber in tires and belts, industrial types of rayon developed a totally different set of properties, amongst which tensile strength and elastic modulus were paramount.
+====Modal ====
+Modal is a type of rayon but made from particularly high-quality cellulose. Two forms are available: "polynosics" and "high wet modulus" (MWM). Modal is used alone or with other fibers (often cotton or spandex) in clothing and household items like pajamas, underwear, bathrobes, towels, and bedsheets. Modal can be tumble dried without damage due to its increased molecular alignment.<ref></ref> The fabric has been known to pill less than cotton due to fiber properties and lower surface friction.<ref></ref>
+High wet modulus rayon (HWM) is a modified version of viscose that is stronger when wet. It also has the ability to be mercerized like cotton. HWM rayons are also known as "polynosic." Polynosic fibers are dimensionally stable and do not shrink or get pulled out of shape when wet like many rayons. They are also wearing resistant and strong while maintaining a soft, silky feel. They are sometimes identified by the trade name Modal.<ref name="Ohio">Joyce A. Smith. urltoken Rayon – The Multi-Faceted Fiber. Ohio State University Rayon Fact Sheet</ref>
+High-tenacity rayon is another modified version of viscose that has almost twice the strength of HWM. This type of rayon is typically used for industrial purposes such as tire cord.<ref name="Ohio"/>
+===Lyocell===
+The Lyocell process relies on dissolution of cellulose products in a solvent, N-Methylmorpholine N-oxide. The lyocell process is not widely used, because it is relatively expensive.
+The process starts with cellulose and involves dry jet-wet spinning. It was developed at the now defunct American Enka and Courtaulds Fibres. Lenzing's Tencel is an example of a lyocell fiber.<ref name=UllCell></ref> Unlike the vicose process, the lycocell process does not use highly-toxic carbon sulfide.<ref name=brief/><ref name=thesis/> "Lyocell" has become a genericized trademark, used to refer to the lyocell process for making cellulose fibers.<ref name=thesis/>
+===Related materials===
+Related materials are not regenerated cellulose, but esters of cellulose.<ref name=ester></ref><ref></ref>
+====Nitrocellulose====
+Nitrocellulose is a derivative of cellulose that is soluble in organic solvents. It is mainly used as an explosive or as a lacquer. Many early plastics, including celluloid, were made from nitrocellulose.
+==== Acetate ====
+Cellulose acetate shares many similarities with viscose rayon, and was formerly considered as the same textile. However, rayon resists heat while acetate is prone to melting. Acetate must be laundered with care either by hand-washing or dry cleaning, and acetate garments disintegrate when heated in a Tumble-dryer.<ref name=":1"></ref><ref></ref> The two fabrics are now required to be listed distinctly on garment labels.<ref></ref>
+==Major fiber properties==
+Rayon is a versatile fiber and is widely claimed to have the same comfort properties as natural fibers, although the drape and slipperiness of rayon textiles are often more like nylon. It can imitate the feel and texture of silk, wool, cotton and linen. The fibers are easily dyed in a wide range of colors. Rayon fabrics are soft, smooth, cool, comfortable, and highly absorbent, but they do not always insulate body heat, making them ideal for use in hot and humid climates, although also making their "hand" (feel) cool and sometimes almost slimy to the touch.<ref name="LaBat"></ref>
+The durability and appearance retention of regular viscose rayons are low, especially when wet; also, rayon has the lowest elastic recovery of any fiber. However, HWM rayon (high-wet-modulus rayon) is much stronger and exhibits higher durability and appearance retention. Recommended care for regular viscose rayon is dry-cleaning only. HWM rayon can be machine-washed.<ref name="Kadolph"/>
+<gallery caption="Gallery of rayon textures" widths="220px" heights="170px">
+Image:Rayon_closeup_1.jpg|A sample of rayon from a skirt photographed with a macro lens.
+Image:Rayon_closeup_2.jpg|Another skirt with a different texture.
+Image:Rayon_closeup_3.jpg|A blouse with a texture similar to the second.
+</gallery>
+Regular rayon has lengthwise lines called striations and its cross-section is an indented circular shape. The cross-sections of HWM and cupra rayon are rounder. Filament rayon yarns vary from 80 to 980 filaments per yarn and vary in size from 40 to 5000 denier. Staple fibers range from 1.5 to 15 denier and are mechanically or chemically crimped. Rayon fibers are naturally very bright, but the addition of delustering pigments cuts down on this natural brightness.<ref name="Kadolph"/>
+== Manufacture ==
+The raw material for viscose is primarily wood pulp, which is chemically converted into a soluble compound. It is then dissolved and forced through a spinneret to produce filaments which are chemically solidified, resulting in fibers of nearly pure cellulose.<ref name="fibersource"></ref> Unless the chemicals are handled carefully, workers can be seriously harmed by the carbon disulfide used to manufacture most rayon.<ref name=blancbook></ref><ref name="Monosson"/>
+To prepare viscose, pulp is treated with aqueous sodium hydroxide (typically 16-19% w/w) to form "alkali cellulose", which has the approximate formula C<sub>6</sub>H<sub>9</sub>O<sub>4</sub>-ONa<sub></sub>. This material is allowed to depolymerize to an extent. The rate of depolymerization (ripening or maturing) depends on temperature and is affected by the presence of various inorganic additives, such as metal oxides and hydroxides. Air also affects the ripening process since oxygen causes depolymerization. The alkali cellulose is then treated with carbon disulfide to form sodium cellulose xanthate.<ref name=Ull/>
+:C<sub>6</sub>H<sub>5</sub>(OH)<sub>4</sub>-ONa<sub></sub> + CS<sub>2</sub> &nbsp;→&nbsp; C<sub>6</sub>H<sub>5</sub>(OH)<sub>4</sub>-OCS<sub>2</sub>Na<sub></sub>
+Rayon fiber is produced from the ripened solutions by treatment with a mineral acid, such as sulfuric acid. In this step, the xanthate groups are hydrolyzed to regenerate cellulose and carbon disulfide.
+:C<sub>6</sub>H<sub>5</sub>(OH)<sub>4</sub>-OCS<sub>2</sub>Na<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> &nbsp;→&nbsp; C<sub>6</sub>H<sub>5</sub>(OH)<sub>4</sub>-OH<sub>2</sub> +2CS<sub>2</sub> + Na<sub>2</sub>SO<sub>4</sub>
+Aside from regenerated cellulose, acidification gives hydrogen sulfide (H<sub>2</sub>S), sulfur, and carbon disulfide. The thread made from the regenerated cellulose is washed to remove residual acid. The sulfur is then removed by the addition of sodium sulfide solution and impurities are oxidized by bleaching with sodium hypochlorite solution or hydrogen peroxide solution.<ref name="Wheeler 1928" />
+Production begins with processed cellulose obtained from wood pulp and plant fibers. The cellulose content in the pulp should be around 87-97%.
+The steps:<ref name="fibersource"/>
+#Immersion: The cellulose is treated with caustic soda.
+#Pressing. The treated cellulose is then pressed between rollers to remove excess liquid. 
+#The pressed sheets are crumbled or shredded to produce what is known as "white crumb."
+#The "white crumb" is aged through exposure to oxygen. This is a depolymerization step and is avoided in the case of polynosics.
+#The aged "white crumb" is mixed in vats with carbon disulfide to form the xanthate (see chemical equation above). This step produces"Orange-Yellow Crumb."
+#The "yellow crumb" is dissolved in a caustic solution to form viscose. The viscose is set to stand for a period of time, allowing it to "ripen". During this stage the molecular weight of the polymer changes.
+#After ripening, the viscose is filtered, degassed, and then extruded through a spinneret into in a bath of sulfuric acid, resulting in the formation of rayon filaments. The acid is used as a regenerating agent. It converts cellulose xanthate back to cellulose. The regeneration step is rapid which doesn't allow proper orientation of cellulose molecules. So to delay the process of regeneration, zinc sulfate is used in the bath which converts cellulose xanthate to zinc cellulose xanthate thus providing time for proper orientation to take place before regeneration.
+#Spinning. The spinning of viscose rayon fiber is done using a wet-spinning process. The filaments are allowed to pass through a coagulation bath after extrusion from the spinneret holes. The two-way mass transfer takes place.
+#Drawing. The rayon filaments are stretched, in a procedure known as drawing, to straighten out the fibers.
+#Washing. The fibers are then washed to remove any residual chemicals from them.
+#Cutting. If filament fibers are desired, then the process ends here. The filaments are cut down when producing staple fibers.
+== History ==
+French scientist and industrialist Hilaire de Chardonnet (1838–1924), inventor of the first artificial textile fiber, artificial silk, created viscose.<ref name="crw-bhrcf" /> British scientists Charles Frederick Cross and Edward John Bevan took out British Patent No. 8,700, "Improvements in Dissolving Cellulose and Allied Compounds" in May, 1892.<ref name=bdht></ref> In 1893, they formed the Viscose Syndicate to grant licences and, in 1896, formed the British Viscoid Co. Ltd. to exploit the process.<ref name=crw-bhrcf></ref><ref name="Wheeler 1928"></ref>
+==Producers==
+In 2018, viscose fiber production in the world was approximately 5.8 million tons, and China was the largest producer with about 65% of total global production.<ref></ref>
+Trade names are used within the rayon industry to label the type of rayon in the product. Viscose Rayon was first produced in Coventry England in 1905 by Courtaulds.
+Bemberg is a trade name for cupramonium rayon developed by Bemberg. Bemberg performs much like viscose but has a smaller diameter and comes closest to silk in feel. Bemberg is now only produced in Japan.<ref></ref> The fibers are finer than viscose rayon.<ref name=r7/>
+Modal and Tencel are widely used forms of rayon produced by Lenzing AG. Tencel, generic name lyocell, is made by a slightly different solvent recovery process, and is considered a different fiber by the US FTC. Tencel lyocell was first produced commercially by Courtaulds, Grimsby in England. The process, which dissolves cellulose without a chemical reaction, was developed by Courtaulds Research.
+Accordis was a major manufacturer of cellulose-based fibers and yarns. Production facilities can be found throughout Europe, the U.S. and Brazil.<ref> urltoken Colbond History. colbond.us. Acordis was a spinoff by AkzoNobel in 2000 after it had acquired Courtaulds. It was through AkzoNobel's original parent company's, the Nederlandse Kunstzijdefabriek (ENKA), a joint venture with Rento Hofstede Crull 's De Vijf, named De Internationale Spinpot Exploitatie Maatschappij (ISEM) that the commercial production of rayon was made viable. Hofstede Crull had supplied the solution for the problem of manufacturing rayon with his Driving Device For A Centrifugal Spinning Machine in 1925 (1931 . The ISEM was fully integrated with the Algemene Kunstzijde Unie, the Nederlandse Kunstzijdefabriek's successor, with the death of Hofstede Crull in 1938. (See AkzoNobel, American Enka Company, and also Rento Hofstede Crull.)</ref>
+Visil rayon and HOPE FR are flame retardant forms of viscose that have silica embedded in the fiber during manufacturing.
+North American Rayon Corporation of Tennessee produced viscose rayon until its closure in the year 2000.<ref name="Tennessee encyclopedia">" urltoken North American Rayon Corporation and American Bemberg Corporation" in the Tennessee Encyclopedia</ref><ref>North American Rayon Corporation of Tennessee was an American subsidiary of J. P. Bemburg A.G. which was part of the Vereinigte Glanstoff Fabriken that were absorbed into the Dutch AKU, AkzoNobel today</ref>
+Indonesia is one of the largest producers of rayon in the world, and Asia Pacific Rayon (APR) of the country has an annual production capacity of 0.24 million tons.<ref></ref>
+==Environment and sustainability ==
+===Carbon disulfide toxicity===
+Much attention has been paid to the toxicity of carbon disulfide use in the viscose process.
+<ref name=Blanc></ref><ref name="scientificamerican.com"/> In some cases, 25-30% of the carbon disulfide is lost during the process.<ref name=brief/> 
+Highly toxic carbon disulfide is used in the production of viscose, leading to many incidents and legal cases<ref name=court>Supreme Court of Alabama. urltoken COURTAULDS FIBERS, INC. v. Horace L. LONG, Jr., et al.<br> Horace L. Long, Jr., et al. v. Courtaulds Fibers, Inc.
+1971996 and 1972028.<br>Decided: September 15, 2000</ref> in the early years of viscose technology development. However, the volatile carbon disulfide is lost before the rayon gets to the consumer; the rayon itself is basically pure cellulose.<ref name=blancbook/> Studies from the 1930s show that 30% of American rayon workers suffered severe effects. During the Second World War, political prisoners in Nazi Germany were made to work in appalling conditions at the Phrix rayon factory in Krefeld.
+Because carbon disulfide is highly toxic, its use on a large scale demands care. Historically, however, several incidents have resulted in many poisonings. With production facilities often located in developing countries, concerns for worker safety continue.<ref name="FakeSilk"></ref> Newer control technologies have enabled improved collection of carbon disulfide and reuse of it, resulting in a lower emissions of carbon disulfide.<ref name=Ull/>
+Rates of disability in modern factories (mainly in China, Indonesia, and India) are unknown.<ref name="Monosson"></ref><ref name="scientificamerican.com"></ref>
+===Disposal and biodegradability===
+The biodegradation of various fibers in soil burial and sewage sludge was evaluated by Korean researchers. Rayon was found to be more biodegradable than cotton, and cotton more than acetate. The more water-repellent the rayon-based fabric, the more slowly it will decompose.<ref name="biodegrade1"></ref> Silverfish like the firebrat can eat rayon, but damage was found to be minor, potentially due to the heavy, slick texture of the tested rayon.<ref name=Austin-Richardson-1941></ref> Another study states that "artificial silk . was readily eaten" by Ctenolepisma longicaudata.<ref name=Lindsay-1940></ref> 
+A 2014 ocean survey found that rayon contributed to 56.9% of the total fibers found in deep sea areas, the rest being polyester, polyamides, acetate and acrylic.<ref name="biodegrade2"> urltoken Abundance of microplastics in the world's deep seas (2014-12-16). Retrieved on 2014-12-17.</ref> A 2016 study found a discrepancy in the ability to identify natural fibers in a marine environment via Fourier transform infrared spectroscopy.<ref></ref>
+==See also==
+* Nitrocellulose, another form of modified cellulose
+* Cellophane (sheet-extruded viscose rayon)
+* Hilaire de Chardonnet
+* Ray P. Dinsmore - pioneered use of Rayon in tires
+== Products made from viscose ==
+* Art silk
+* Cellophane
+* Sausage casings
+* Velvet
+==Further reading==
+*
+*Gupta, VB; Kothari, VK and Sengupta, AK eds. (1997) Manufactured Fibre Technology. Chapman & Hall, London. .
+* For a review of all rayon production methods and markets see urltoken "Regenerated Cellulose Fibres" (book – Edited by C R Woodings) Hardback 2001, , Woodhead Publishing Ltd. 
+* For a description of the production method at a factory in Germany in World War II, see Agnès Humbert (tr. Barbara Mellor) Résistance: Memoirs of Occupied France, London, Bloomsbury Publishing PLC, 2008 (American title: Resistance: A Frenchwoman's Journal of the War, Bloomsbury, USA, 2008) pp.&nbsp;152–155
+* For a complete set of photographs of the process see urltoken "The Story of Rayon" published by Courtaulds Ltd (1948)
+* Arnold Hard, the textile journalist, produced two books documenting the experiences of some of the pioneers in the early British rayon industry the Hard, Arnold. H. (1933). The Romance of Rayon. Whittaker & Robinson, Manchester and Hard, Arnold (1944) The Story of Rayon, United Trade Press Ltd, London
+==References==
+== External links ==
+* 
+* urltoken What Is Viscose? from Barnhardt Natural Fibers
+* urltoken viscose fibre
+* 
+*
+
+Rayon is a regenerated cellulose fiber that is made from natural sources of cellulose, such as wood and related agricultural products.<ref></ref> It has the same molecular structure as cellulose. Viscose can mean:<ref name="Swicofil"></ref>
+* A viscous solution of cellulose
+* A synonym of rayon
+* A specific term for viscose rayon&nbsp;— rayon made using the viscose process
+Many types and grades of viscose fibers and films exist. Some imitate the feel and texture of natural fibers such as silk, wool, cotton, and linen. The types that resemble silk are often called Art silk. The fibre is used to make textiles for clothing and other purposes.<ref name=Ull/>
+Rayon production involves solubilizing cellulose. One popular method involves use of alkali and carbon sulfide.<ref name="scientificamerican.com"/><ref name=Blanc/> Another method involves using ammoniacal solutions of copper salts. Yet another route, the lyocell process, relies on a special solvent.<ref name=brief></ref><ref name=thesis></ref>

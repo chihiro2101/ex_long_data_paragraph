@@ -1,0 +1,114 @@
+Focke-Wulf
+
+==History==
+The company was founded in Bremen on 24 October 1923 as Bremer Flugzeugbau AG by Prof. Henrich Focke, Georg Wulf and Dr. rer. pol. Werner Naumann. Almost immediately, they renamed the company Focke-Wulf Flugzeugbau AG (later Focke-Wulf Flugzeugbau GmbH).<ref>
+Initially, it produced several commercial aircraft, typically with thick wings mounted high over bulky fuselages.</ref>
+Focke-Wulf merged, under government pressure, with Albatros-Flugzeugwerke of Berlin in 1931. The Albatros-Flugzeugwerke engineer and test pilot Kurt Tank became head of the technical department and started work on the Fw 44 Stieglitz (Goldfinch).
+Dr Ludwig Roselius became Chairman in 1925 and handed over to his brother Friedrich in early 1933. In 1938 Roselius' HAG combine increased its shareholding to 46% and C. Lorenz AG secured 28%. The company was reconstituted as Focke-Wulf Flugzeugbau GmbH and no longer had to publish its accounts. A substantial capital injection occurred at this time.<ref>Dieter Pfliegensdörfer; Volker Bergmann; Willi Elmers; Manfred Fittkau; Michael Jung; Michael Wolf; Wolfgang Günther. Wellblech & Windkanal. Arbeit und Geschäfte im Bremer Flugzeugbau von den Anfängen 1909 bis heute. Steintor, 1989, </ref>
+In August 1933 Hans Holle and Rudolf Schubert were given power of attorney over the Berlin branch of Focke-Wulf. Then in October 1933, Focke-Wulf Flugzeugbau A.G. Albatros Berlin was officially registered with the Department of Trade.<ref>Thiel, Reinhold. Focke-Wulf Flugzeugbau. Bremen, Verlag H.M. Hauschild GmbH, 2011. </ref>
+Dr Roselius always remained the driving force of Focke-Wulf. He and his closest collaborator, Barbara Goette, often met with technical director Professor Kurt Tank. When Roselius died in May 1943, Heinrich Puvogel continued handling the financial affairs of Focke-Wulf as chief of Seehandel A.G.<ref>Leidig, Ludwig. Bombshell. sbpra 2013. </ref>
+Hanna Reitsch demonstrated the Focke-Wulf Fw 61, the first fully controllable helicopter (as opposed to autogyro), in Berlin in 1938.<ref>Hanna Reitsch “Fliegen, mein Leben” on p. 180–198. Deutsche Verlags-Anstalt Stuttgart 1952</ref> The four-engined Fw 200 airliner flew nonstop between Berlin and New York City on August 10, 1938, making the journey in 24 hours and 56 minutes. It was the first aircraft to fly that route without stopping. The return trip on August 13, 1938 took 19 hours and 47 minutes. These flights are commemorated with a plaque in the Böttcherstraße street of Bremen.
+The Fw 190 Würger (Shrike/butcher-bird), designed from 1938 on, and produced in quantity from early 1941–1945, was a mainstay single-seat fighter for the Luftwaffe during World War II.
+Repeated bombing of Bremen in World War II resulted in the mass-production plants being moved to eastern Germany and General Government, with AGO Flugzeugwerke of Oschersleben as a major subcontractor for the Fw 190. Those plants used many foreign and forced labourers, and from 1944 also prisoners of war. Focke-Wulf's plant at Malbork produced approximately half of all Fw 190s and was bombed by the Eighth Air Force on October 9, 1943.<ref name=Gurney></ref>
+Many Focke-Wulf workers, including Kurt Tank, worked at the Morteros#Amenities in Córdoba, Argentina between 1947 and 1955. Others, like Henrich Focke, went to Brazil's Department of Aerospace Science and Technology, helping Brazil's effort to build Embraer.<ref></ref> Focke-Wulf began to make gliders in 1951, and in 1955, motorised planes. Focke-Wulf, Weserflug and Hamburger Flugzeugbau joined forces in 1961 to form the Entwicklungsring Nord (ERNO) to develop rockets.
+ 
+ITT Corporation, which had acquired a 25% stake in the company prior to the war, won $27 million in compensation in the 1960s for the damage that was inflicted on its share of the Focke-Wulf plant by WWII Allied bombing.<ref>Sampson, Anthony: The Sovereign State, Hodder and Stoughton, 1973, </ref> Colonel Sosthenes Behn, Ludwig Roselius and Barbara Goette outfoxed Hitler in 1936 when he tried to have Roselius removed as a major stakeholder from Focke-Wulf A.G. and reconstitution followed resulting in the privatized company Focke-Wulf Flugzeugbau GmbH.<ref>The Office of Military Government US Zone in Post-war Germany 1946-1949, declassified per Executive Order 12958, Section 3.5 NND Project Number: NND 775057 by: NND Date: 1977</ref> Focke-Wulf formally merged with Weserflug in 1964, becoming Vereinigte Flugtechnische Werke (VFW), which after several further mergers became the EADS. EADS was later reorganised as Airbus.
+==Aircraft==
+===Company designations===
+In alphabetical order:
+* Focke-Wulf A 3
+* Focke-Wulf A 4
+* Focke-Wulf A 5
+* Focke-Wulf A 6
+* Focke-Wulf A 7
+* Focke-Wulf A 16 – light transport aircraft, 1924. First design built by Focke-Wulf.
+* Focke-Wulf A 17 Möwe (Gull) – 8-passenger airliner, 1927.
+* Focke-Wulf A 20 Habicht (Hawk) – 4-passenger airliner, 1927.
+* Focke-Wulf A 17 Photomöwe – aerial photography version of A 17, 1929.
+* Focke-Wulf A 17 – engine testbed
+* Focke-Wulf A 20 – re-engined A 20
+* Focke-Wulf A 17 – production version of A 17, 1929.
+* Focke-Wulf A 32 Bussard (Buzzard) – airliner, 1930.
+* Focke-Wulf A 33 Sperber (Sparrowhawk) – 3-passenger airliner, 1930.
+* Focke-Wulf A 36 – mail plane, 1931.
+* Focke-Wulf A 38 Möwe (Gull) – 10-passenger airliner, 1931.
+* Focke-Wulf F 19 Ente (Duck) – experimental civil utility aircraft, 1927.
+* Focke-Wulf GL 18 – light transport aircraft developed from the A 16, 1926.
+* Focke-Wulf GL 18 – revised GL 18, 1927.
+* Focke-Wulf K 23 – two-seat reconnaissance aircraft, 1928.
+* Focke-Wulf L 101 D Albatros
+* Focke-Wulf S 1 – trainer, 1925.
+* Focke-Wulf S 2 – two-seat trainer, 1928.
+* Focke-Wulf S 24 Kiebitz (Lapwing) – sport aircraft, 1928.
+* Focke-Wulf S 39
+* Focke-Wulf S 48
+* Focke-Wulf W 4 – reconnaissance floatplane, 1927.
+* Focke-Wulf W 7 – maritime patrol biplane, 1932.
+===RLM designations===
+* Focke-Wulf Fw 40
+* Focke-Wulf Fw 43 Falke (Falcon) – utility aircraft
+* Focke-Wulf Fw 44 Stieglitz (Goldfinch) – trainer (biplane), 1932.
+* Focke-Wulf Fw 47 Höhengeier (Vulture) – weather aircraft
+* Albatros L102 – biplane floatplane
+* Focke-Wulf Fw 56 Stösser (Goshawk) – trainer (parasol monoplane), 1933
+* Focke-Wulf Fw 57 – twin-engined heavy fighter-bomber (prototype), 1935.
+* Focke-Wulf Fw 58 Weihe (Kite) – transport/photo reconnaissance/weather research aircraft, 1937.
+* Focke-Wulf Fw 61 – helicopter (prototype), 1936.
+* Focke-Wulf Fw 62 – ship-borne reconnaissance (biplane seaplane), 1937.
+* Focke-Wulf Ta 152 – interceptor/fighter (derived from Fw 190), 1944.
+* Focke-Wulf Ta 154 Moskito (Mosquito) – night-fighter with wood structure de Havilland Mosquito, 1943.
+* Focke-Wulf Fw 159 – fighter (prototype only), 1935.
+* Focke-Wulf Fw 186 – autogiro reconnaissance aircraft (prototype), 1937.
+* Focke-Wulf Fw 187 Falke (Falcon) – twin-engined two-seat heavy day fighter ("Zerstörer"), 1936.
+* Focke-Wulf Fw 188 – reconnaissance aircraft (prototype), 1939.
+* Focke-Wulf Fw 189 Uhu (Eagle Owl) – twin-engined, three-seat army cooperation/tactical reconnaissance, 1938.
+* Focke-Wulf Fw 190 Würger (Shrike/butcher-bird) – single-seat fighter/interceptor, 1939
+* Focke-Wulf Fw 191 – twin-engined Bomber B design competitor (prototype), 1942.
+* Focke-Wulf Fw 200 Condor – multi-engined airliner and maritime patrol-bomber, 1937.
+===Built under license===
+* Cierva C.19 – license-built (autogyro)
+* Cierva C.30 Heuschrecke (Grasshopper) – license-built (autogyro)
+* Piaggio P.149 – license-built Piaggio P.149
+===Planned/unfinished designs===
+* Focke-Wulf Fw 42 – twin-engined medium bomber project developed from the F 19, 1929.
+* Focke-Wulf Fw 160 – A design for a four-engined bomber with a twin-boom, unconnected tail.
+* Focke-Wulf Ta 183 Huckebein – design for a jet-engined fighter
+* Focke-Wulf Fw 206 – planned commercial aircraft
+* Focke-Wulf Ta 254 – proposed version of the Ta 154 fighter.
+* Focke-Wulf Fw 259 Frontjäger (concept)
+* Focke-Wulf Fw 300 – proposed long-range version of Fw 200, 1942.
+* Focke-Wulf Ta 400 – Amerikabomber design competitor, never built, 1943.
+* Focke-Wulf Fw P.03.10206 – series of long-range strategic bomber projects, 1944.
+* Focke-Wulf Fw P.03.10221-15 – large capacity strategic transport, 1941.
+* Focke-Wulf Fw P.0310.025 – A 1944 design with a swept wing, a forward-swept V-tail, and two pusher propellers at the rear.
+* Focke-Wulf Fw P.0310.251 – series of jet- and mixed power night and bad weather fighters 
+* Focke-Wulf Fighter Project w/BMW803 – A 1941 design with a connected twin boom tail, slightly swept back wings, and two pusher propellers at the rear.
+===Projects===
+* Focke-Wulf Fw 238 – long-range bomber project, 1941
+* Focke-Wulf Project 195 – large transport aircraft project; drawing Nr. 249.
+* Focke-Wulf Nr. 261 – four-engine bomber/reconnaissance/U-Boat support aircraft project
+* Focke-Wulf Ta 283 – ramjet fighter project, drawing Nr. 283 (source of fictitious designation "Ta 283")
+* Focke-Wulf Fw P.0310.252-102 – twin-engine jet fighter project, November 1944
+* Focke-Wulf Mittelhuber – single engine jet fighter, also called Entwurf III
+* Focke-Wulf 1000x1000x1000 – series of bomber designs, 1944.
+* Focke-Wulf Project I – single-seat jet fighter, 1943.
+* Focke-Wulf Project II
+* Focke-Wulf Project III
+* Focke-Wulf Flitzer – fighter project, 1944.
+* Focke-Wulf Project VIII – turboprop powered fighter-bomber project, drawing Nr. 281 (source of fictitious designation "Fw 281")
+* Focke Rochen – 1950s VTOL fighter project
+* Focke-Wulf Super Lorin – Ramjet-rocket combo powered fighter
+* Focke-Wulf Triebflügel – tail-sitter VTOL interceptor design
+* Focke-Wulf TO Project
+* Focke-Wulf Volksjäger – rocket-powered interceptor fighter project
+* Focke-Wulf VTOL Project
+* Focke-Wulf Fw 260 – 1960s VTOL airliner proposal
+==See also==
+* Focke-Achgelis
+==Notes==
+==References==
+==External links==
+* urltoken List of Focke-Wulf aircraft
+*
+
+Focke-Wulf Flugzeugbau AG was a German manufacturer of civil and military aircraft before and during World War II.<ref>.</ref> Many of the company's successful fighter aircraft designs were slight modifications of the Focke-Wulf Fw 190. It is one of the predecessor companies of today's Airbus.

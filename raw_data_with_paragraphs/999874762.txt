@@ -1,0 +1,50 @@
+Gore-Tex
+
+==History ==
+Gore-Tex was co-invented by Bill Gore and Gore's son, Robert W. Gore.<ref name=RobertGore></ref> In 1969, Bob Gore stretched heated rods of polytetrafluoroethylene (PTFE) and created expanded polytetrafluoroethylene (ePTFE). His discovery of the right conditions for stretching PTFE was a happy accident, born partly of frustration. Instead of slowly stretching the heated material, he applied a sudden, accelerating yank. The solid PTFE unexpectedly stretched about 800%, forming a microporous structure that was about 70% air.<ref name=RobertGore /> It was introduced to the public under the trademark Gore-Tex.<ref></ref>
+Gore promptly applied for and obtained the following patents:
+* , issued April 27, 1976, for a porous form of polytetrafluoroethylene with a micro-structure characterized by nodes interconnected by fibrils
+* , issued February 5, 1980
+* on March 18, 1980 for a "waterproof laminate", together with Samuel Allen
+Another form of stretched PTFE tape was produced prior to Gore-Tex in 1966, by John W. Cropper of New Zealand. Cropper had developed and constructed a machine for this use. However, Cropper chose to keep the process of creating expanded PTFE as a closely held trade secret and as such, it had remained unpublished.<ref name=GoreGarlock>
+ 
+</ref><ref name=Schechter >
+</ref>
+In the 1970s Garlock, Inc. allegedly infringed Gore's patents by using Cropper's machine and was sued by Gore in the Federal District Court of Ohio. The District Court held Gore's product and process patents to be invalid after a "bitterly contested case" that "involved over two years of discovery, five weeks of trial, the testimony of 35 witnesses (19 live, 16 by deposition), and over 300 exhibits" (quoting the Federal Circuit). On appeal, however, the Federal Circuit disagreed in the famous case of Gore v. Garlock, reversing the lower court's decision on the ground, as well as others, that Cropper forfeited any superior claim to the invention by virtue of having concealed the process for making ePTFE from the public. As a public patent had not been filed, the new form of the material could not be legally recognised. Gore was thereby established as the legal inventor of ePTFE.<ref name=GoreGarlock /><ref></ref>
+Following the Gore v. Garlock decision, Gore sued C. R. Bard for allegedly infringing its patent by making ePTFE vascular grafts. Bard promptly settled and agreed to exit the market. Gore next sued IMPRA, Inc., a smaller maker of ePTFE vascular grafts, in the federal district court in Arizona. IMPRA had a competing patent application for the ePTFE vascular graft. In a nearly decade-long patent/antitrust battle (1984–1993), IMPRA proved that Gore-Tex was identical to prior art disclosed in a Japanese process patent by duplicating the prior art process and through statistical analysis, and also proved that Gore had withheld the best mode for using its patent, and the main claim of Gore's product patent was declared invalid in 1990.<ref name="FedCirc"></ref> In 1996, IMPRA was purchased by Bard and Bard was thereby able to reenter the market. After IMPRA's vascular graft patent was issued, Bard sued Gore for infringing it.
+Gore-Tex is used in products manufactured by many different companies.
+Other products have come to market exploiting similar technologies following the expiry of the main Gore-Tex patent.<ref>Logue, Victoria. (2005). urltoken Hiking and Backpacking. Menasha Ridge Press. p. 74. .</ref>
+For his invention, Robert W. Gore was inducted into the U.S. National Inventors Hall of Fame in 2006.<ref></ref>
+In 2015, Gore was ordered by the Federal Circuit Court of Appeals to pay Bard $1 billion in damages.<ref name="FedCirc"/> The U.S. Supreme Court declined to review the Federal Circuit's decision.<ref name="GoreBard_SC"></ref><ref name="Gore_Bard_SC"></ref>
+==Manufacture==
+thumb
+PTFE is made using an emulsion polymerization process that utilizes the fluorosurfactant PFOA,<ref name=Leh></ref><ref name=Lau2007></ref> a persistent environmental contaminant. In 2013, Gore eliminated the use of PFOAs in the manufacture of its weatherproof functional fabrics.<ref></ref>
+==Design==
+Gore-Tex materials are typically based on thermo-mechanically expanded PTFE and other fluoropolymer products. They are used in a wide variety of applications such as high-performance fabrics, medical implants, filter media, insulation for wires and cables, gaskets, and sealants. However, Gore-Tex fabric is best known for its use in protective, yet breathable, rainwear.
+The simplest sort of rain wear is a two layer sandwich. The outer layer is typically woven nylon or polyester and provides strength. The inner one is polyurethane (abbreviated: PU), and provides water resistance, at the cost of breathability.
+Early Gore-Tex fabric replaced the inner layer of PU with a thin, porous fluoropolymer membrane (Teflon) coating that is bonded to a fabric. This membrane had about 9 billion porosity (around 1.4 billion pores per square centimeter). Each pore is approximately the size of a water droplet, making it impenetrable to liquid water while still allowing the more volatile water vapour molecules to pass through.
+The outer layer of Gore-Tex fabric is coated on the outside with a Durable Water Repellent (DWR) treatment. The DWR prevents the main outer layer from becoming wet, which would reduce the breathability of the whole fabric. However, the DWR is not responsible for the jacket being waterproof. Without the DWR, the outer layer would become soaked, there would be no breathability, and the wearer's sweat being produced on the inside would fail to evaporate, leading to dampness there. This might give the appearance that the fabric is leaking, but it is not.
+Wear and cleaning will reduce the performance of Gore-Tex fabric by wearing away this Durable Water Repellent (DWR) treatment. The DWR can be reinvigorated by tumble drying the garment or ironing on a low setting.<ref name="gore-tex1"></ref>
+Gore requires that all garments made from their material have taping over the seams, to eliminate leaks. Gore's sister product, Windstopper, is similar to Gore-Tex in being windproof and breathable and it can stretch but it is not waterproof. 
+The Gore naming system does not imply specific technology or material but instead specific set of performance characteristics.<ref></ref>
+==Clothing technology==
+Expanded polytetrafluoroethylene is used in clothing due to its breathability and water protection capabilities. It is used in rain jackets, and ePTFE can now be found in space suits and heart patches.<ref></ref>
+==Other uses==
+Gore-Tex is also used internally in medical applications, because it is nearly inert inside the body. Specifically, expanded polytetrafluoroethylene (E-PTFE) can undergo the form of a fabric-like mesh. Implementing and applying the mesh form in the medical field is a promising type of technological material feature.<ref></ref> In addition, the porosity of Gore-Tex permits the body's own tissue to grow through the material, integrating grafted material into the circulation system.<ref name=Cyborg></ref> Gore-Tex is used in a wide variety of medical applications, including sutures, vascular grafts, heart patches, and synthetic knee ligaments, which have saved thousands of lives.<ref name=Plastics></ref> In the form of expanded polytetrafluoroethylene (E-PTFE), Gore-Tex has been shown to be a reliable synthetic, medical material in treating patients with nasal dorsal interruptions.<ref></ref> In more recent observations, expanded polytetrafluoroethylene (E-PTFE) has recently been used as membrane implants for trabeculectomy.<ref name=wang></ref>
+Gore-Tex has been used for many years in the conservation of illuminated manuscripts.<ref></ref>
+Explosive sensors have been printed on Gore-Tex clothing leading to the sensitive voltametric detection of nitroaromatic compounds.<ref></ref>
+The "Gore-Tex" brand name was formerly used for industrial and medical products.<ref></ref><ref></ref>
+<gallery widths="200px" heights="140px">
+File:Goretex photo.png|Gore-Tex membrane under an electron microscope
+File:Gore 1.jpg|Gore-Tex Medical Devices Sample Kit, Science History Institute
+</gallery>
+==See also==
+* Extended Cold Weather Clothing System
+* Hipora
+* SympaTex
+==References==
+== External links ==
+* 
+* urltoken Gore website
+
+Gore-Tex is a waterproof fabric membrane and registered trademark of W. L. Gore & Associates. Invented in 1969, Gore-Tex can repel liquid water while allowing water vapor to pass through and is designed to be a lightweight, waterproof fabric for all-weather use. It is composed of stretched polytetrafluoroethylene (PTFE), which is more commonly known by the generic trademark Teflon. The material is formally known as the generic term expanded PTFE (ePTFE).

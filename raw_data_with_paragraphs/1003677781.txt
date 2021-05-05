@@ -1,0 +1,81 @@
+Cut, copy, and paste
+
+==History==
+===Origins===
+The term "cut and paste" comes from the traditional practice in manuscript-editings whereby people would cut paragraphs from a page with scissors and paste them onto another page. This practice remained standard into the 1980s. Stationery stores formerly sold "editing scissors" with blades long enough to cut an 8½"-wide page. The advent of photocopiers made the practice easier and more flexible.
+The act of copying/transferring text from one part of a computer-based document ("buffer") to a different location within the same or different computer-based document was a part of the earliest on-line computer editors. As soon as computer data entry moved from punch-cards to online files (in the mid/late 1960s) there were "commands" for accomplishing this operation. This mechanism was often used to transfer frequently-used commands or text snippets from additional buffers into the document, as was the case with the QED text editor.<ref name="communications1967">, p. 793.</ref>
+===Early methods===
+The earliest editors (designed for teleprinter terminals) provided keyboard commands to delineate a contiguous region of text, then delete or move it. Since moving a region of text requires first removing it from its initial location and then inserting it into its new location, various schemes had to be invented to allow for this multi-step process to be specified by the user. Often this was done with a "move" command, but some text editors required that the text be first put into some temporary location for later retrieval/placement. In 1983, the Apple Lisa became the first text editing system to call that temporary location "the clipboard".
+Earlier control schemes such as NLS used a word order command structure, where the command name was provided first and the object to be copied or moved was second. The inversion from verb—object to object—verb on which copy and paste are based, where the user selects the object to be operated before initiating the operation, was an innovation crucial for the success of the desktop metaphor as it allowed copy and move operations based on direct manipulation.<ref></ref>
+Many command line text editors, which predate their more popular GUI equivalents, including: ed, emacs, sed, and vi, have copy-paste features.
+===Popularization===
+Inspired by early line and character editors that broke a move or copy operation into two steps—between which the user could invoke a preparatory action such as navigation—Larry Tesler proposed the names "cut" and "copy" for the first step and "paste" for the second step. Beginning in 1974, he and colleagues at Xerox PARC implemented several text editors that used cut/copy-and-paste commands to move/copy text.<ref></ref> 
+Apple Computer widely popularized the computer-based cut/copy-and-paste paradigm through the Lisa (1983) and Macintosh (1984) operating systems and applications. Apple mapped the functionalities to key combinations consisting of the Command key (a special modifier key) held down while typing the letters X (for cut), C (for copy), and V (for paste), choosing a handful of keyboard shortcuts to control basic editing operations. The keys involved all cluster together at the left end of the bottom row of the standard QWERTY keyboard, and each key is combined with a special modifier key to perform the desired operation:
+* Z to undo
+* X to cut
+* C to copy
+* V to paste
+The IBM Common User Access (CUA) standard also uses combinations of the Insert, Del, Shift and Control keys. Early versions of Windows used the IBM standard. Microsoft later also adopted the Apple key combinations with the introduction of Windows, using the control key as modifier key. For users migrating to Windows from MS-DOS this was a big change as MS-DOS users used the "copy" and "move" commands.
+Similar patterns of key combinations, later borrowed by others, remain widely available in most GUI text editors, word processors, and file system browsers.
+The original copy/cut/paste workflow, as implemented at PARC, utilized a unique workflow: With two windows
+on the same screen, the user could use the mouse to pick a point at which to make an insertion in one
+window (or a segment of text to replace). Then, by holding shift and selecting the copy source elsewhere on
+the same screen, the copy would be made as soon as the shift was released. Similarly, holding shift and control would copy and cut (delete) the source. This workflow requires many fewer keystrokes/mouse clicks than the current multi-step workflows, and did not require an explicit copy buffer. It was dropped, one presumes, because the original Apple and IBM GUIs were not high enough density to permit multiple windows, as were the PARC machines, and so multiple simultaneous windows were rarely used.
+== Cut and paste ==
+Computer-based editing can involve very frequent use of cut-and-paste operations. Most software-suppliers provide several methods for performing such tasks, and this can involve (for example) key combinations, pulldown menus, pop-up menus, or toolbar buttons.
+# The user selects or "highlights" the text or file for moving by some method, typically by dragging over the text or file name with the pointing-device or holding down the Shift key while using the arrow keys to move the text cursor.
+# The user performs a "cut" operation via key combination for Macintosh users), menu, or other means.
+# Visibly, "cut" text immediately disappears from its location. "Cut" files typically change color to indicate that they will be moved.
+# Conceptually, the text has now moved to a location often called the clipboard. The clipboard typically remains invisible. On most systems only one clipboard location exists, hence another cut or copy operation overwrites the previously stored information. Many Unix text-editors provide multiple clipboard entries, as do some Macintosh programs such as Clipboard Master,<ref></ref> and Windows clipboard manager programs such as the one in Microsoft Office.
+# The user selects a location for insertion by some method, typically by clicking at the desired insertion point.
+# A paste operation takes place which visibly inserts the clipboard text at the insertion point. (The paste operation does not typically destroy the clipboard text: it remains available in the clipboard and the user can insert additional copies at other points).
+Whereas cut-and-paste often takes place with a mouse-equivalent in Windows-like GUI environments, it may also occur entirely from the keyboard, especially in Unix text editors, such as Pico or vi. Cutting and pasting without a mouse can involve a selection (for which is pressed in most graphical systems) or the entire current line, but it may also involve text after the cursor until the end of the line and other more sophisticated operations.
+When a software environment provides cut and paste functionality, a nondestructive operation called copy usually accompanies them; copy places a copy of the selected text in the clipboard without removing it from its original location.
+The clipboard usually stays invisible, because the operations of cutting and pasting, while actually independent, usually take place in quick succession, and the user (usually) needs no assistance in understanding the operation or maintaining mental context. Some application programs provide a means of viewing, or sometimes even editing, the data on the clipboard.
+== Copy and paste ==
+The term "copy-and-paste" refers to the popular, simple method of reproducing text or other data from a source to a destination. It differs from cut and paste in that the original source text or data does not get deleted or removed. The popularity of this method stems from its simplicity and the ease with which users can move data between various applications visually – without resorting to Disk storage.
+Once one has copied data into the clipboard, one may paste the contents of the clipboard into a destination document.
+The X Window System maintains an additional clipboard containing the most recently selected text; middle-clicking pastes the content of this "selection" clipboard into whatever the pointer is on at that time.
+Most terminal emulators and some other applications support the key combinations Ctrl-Insert to copy and Shift-Insert to paste. This is in accordance with the IBM Common User Access (CUA) standard. For similar functionality in historical text-mode terminals in Unix systems such as Linux and FreeBSD, see GPM or moused.
+== Find and go ==
+The NeXTStep operating system extended the concept of having a single copy buffer by adding a second system-wide used for searching. The find buffer is also available in macOS.
+Text can be placed in the find buffer by either using the Find panel or by selecting text and hitting .
+The text can then be searched with find next and find previous .
+The functionality comes in handy when for example editing source code. To find the occurrence of a variable or function name elsewhere in the file, simply select the name by double clicking, hit and then jump to the next or previous occurrence with / .
+Note that this does not destroy your copy buffer as with other UIs like Windows or the X Window System.
+Together with copy and paste this can be used for quick and easy replacement of repeated text:
+* select the text that you want to replace (i.e. by double clicking)
+* put the text in the Find buffer with 
+* overwrite the selected text with your replacement text
+* select the replacement text (try to avoid lifting your hands from the keyboard)
+* copy the replacement text 
+* find the next or previous occurrence / 
+* paste the replacement text 
+* repeat the last two steps as often as needed
+or in short:
+* select , replstr, , , , , , .
+While this might sound a bit complicated at first, it is often much faster than using the find panel, especial when only a few occurrences shall be replaced or when only some of the occurrences shall be replaced. When a text shall not be replaced, simply hit again to skip to the next occurrence.
+The find buffer is system wide. That is, if you enter a text in the find panel (or with in one application and then switch to another application you can immediately start searching without having to enter the search text again.
+== Common keyboard shortcuts ==
+== Copy and paste automation ==
+Copying data one by one from one application to another, such as from Excel to a web form, might involve a lot of manual work. Copy and paste can be automated with the help of a program that would iterate through the values list and paste them to the active Window (computing). Such programs might come in the form of macros or dedicated programs which involve more or less scripting. Alternatively, applications supporting simultaneous editing may be used to copy or move collections of items.
+== Additional differences between moving and copying ==
+In a spreadsheet, moving (cut and paste) need not equate to copying (copy and paste) and then deleting the original: when moving, references to the moved cells may move accordingly.
+Windows Explorer also differentiates moving from merely copy-and-delete: a "cut" file will not actually disappear until pasted elsewhere and cannot be pasted more than once. The icon fades to show the transient "cut" state until it is pasted somewhere. Cutting a second file while the first one is cut will release the first from the "cut" state and leave it unchanged. Shift+Delete cannot be used to cut files; instead it deletes them without using the Recycle bin.
+== Multiple clipboards ==
+Several editors allow copying text into or pasting text from specific clipboards, typically using a special keystroke-sequence to specify a particular clipboard-number.
+Clipboard managers can be very convenient productivity-enhancers by providing many more features than system-native clipboards. Thousands of clips from the clip history are available for future pasting, and can be searched, edited, or deleted. Favorite clips that a user frequently pastes (for example, the current date, or the various fields of a user's contact info) can be kept standing ready to be pasted with a few clicks or keystrokes.
+Similarly, a kill ring provides a LIFO stack used for cut-and-paste operations as a type of clipboard capable of storing multiple pieces of data.<ref></ref> For example, the GNU Emacs text editor provides a kill ring.<ref></ref> Each time a user performs a cut or copy operation, the system adds the affected text to the ring. The user can then access the contents of a specific (relatively numbered) buffer in the ring when performing a subsequent paste-operation. One can also give kill-buffers individual names, thus providing another form of multiple-clipboard functionality.
+==Pejorative use of expression==
+An action can be described as "cut/copy-and-paste" in a pejorative sense, to mean that a person creating some item has, in fact, merely copied from a previously existing item. Examples may include film screenplays, books, and other creative endeavors that appear to "lift" their content substantially from existing sources, and papers submitted for examinations which are directly copied from other reference sources.
+==Use in healthcare==
+Concerns exist over the use of copy and paste functions in healthcare documentation and electronic health records. There is potential for the introduction of errors, information overload, and fraud.<ref name="Laubach" /><ref></ref>
+==Use in software development==
+Copy and paste programming is an anti-pattern arising from the careless pasting of pre-existing code into another source code file. Shared interfaces ("abstract classes") with the same named methods should be exposed, and each module should subclass the interface to provide needed differences in functionality.
+==Use on websites==
+Web users copy on Website different things for different reasons, including words and phrases to look up elsewhere, key sentences for use in citations and text summaries, and programming code fragments for use in software development.<ref></ref> Tracking and recording copy operations of users and using that data as implicit user feedback on the website content can be beneficial in a wide range of applications and uses, including in Automatic summarization,<ref></ref> and in text simplification.<ref></ref>
+
+In human–computer interaction and user interface design, cut, copy, and paste are related commands that offer an interprocess communication technique for transferring data through a computer's user interface. The cut command removes the selected data from its original position, while the copy command creates a duplicate; in both cases the selected data is kept in temporary storage (the clipboard). The data from the clipboard is later inserted wherever a paste command is issued. The data remains available to any application supporting the feature, thus allowing easy data transfer between applications.
+The command names are an interface metaphor based on the physical procedure used in manuscript editing to create a page layout.
+This interaction technique has close associations with related techniques in graphical user interfaces (GUIs) that use pointing devices such as a computer mouse (by drag and drop, for example). Typically, clipboard support is provided by an operating system as part of its GUI and widget toolkit.
+The capability to replicate information with ease, changing it between contexts and applications, involves privacy concerns because of the risks of disclosure when handling sensitive information. Terms like cloning, copy forward, carry forward, or re-use refer to the dissemination of such information through documents, and may be subject to regulation by administrative body.<ref name="Laubach"></ref>

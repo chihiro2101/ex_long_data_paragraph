@@ -1,0 +1,60 @@
+Potassium hydroxide
+
+==Properties and structure==
+Potassium hydroxide is usually sold as translucent pellets, which become tacky in air because KOH is hygroscopic. Consequently, KOH typically contains varying amounts of water (as well as carbonates - see below). Its solvation in water is strongly exothermic. Concentrated aqueous solutions are sometimes called potassium lyes. Even at high temperatures, solid KOH does not dehydrate readily.<ref></ref>
+===Structure===
+At higher temperatures, solid KOH crystallizes in the NaCl crystal structure. The OH group is either rapidly or randomly disordered so that the group is effectively a spherical anion of radius 1.53 Å (between and in size). At room temperature, the groups are ordered and the environment about the centers is distorted, with distances ranging from 2.69 to 3.15 Å, depending on the orientation of the OH group. KOH forms a series of crystalline hydrates, namely the monohydrate KOH, the dihydrate KOH and the tetrahydrate KOH.<ref></ref>
+===Thermal stability===
+Like NaOH, KOH exhibits high thermal stability. The gaseous species is dimeric. Because of its high stability and relatively low melting point, it is often melt-cast as pellets or rods, forms that have low surface area and convenient handling properties.
+==Reactions==
+===Basicity, solubility and desiccating properties===
+About 121 g of KOH dissolve in 100 mL water at room temperature, which contrasts with 100 g/100 mL for NaOH. Thus on a molar basis, NaOH is slightly more soluble than KOH. Lower molecular-weight ethanols such as methanol, ethanol, and propanols are also excellent solvents. They participate in an acid-base equilibrium. In the case of methanol the potassium methoxide (methylate) forms:
+<ref></ref>
+: KOH + CH<sub>3</sub>OH CH<sub>3</sub>OK + 
+Because of its high affinity for water, KOH serves as a desiccant in the laboratory. It is often used to dry basic solvents, especially amines and pyridines.
+===As a nucleophile in organic chemistry===
+KOH, like NaOH, serves as a source of , a highly nucleophilic anion that attacks polar bonds in both inorganic and organic materials. Aqueous KOH saponifies esters:
+: KOH + RCOOR' → RCOOK + R'OH
+When R is a long chain, the product is called a potassium soap. This reaction is manifested by the "greasy" feel that KOH gives when touched — fats on the skin are rapidly converted to soap and glycerol.
+Molten KOH is used to displace halides and other leaving groups. The reaction is especially useful for aromatic reagents to give the corresponding phenols.<ref></ref>
+===Reactions with inorganic compounds===
+Complementary to its reactivity toward acids, KOH attacks oxides. Thus, SiO<sub>2</sub> is attacked by KOH to give soluble potassium silicates. KOH reacts with carbon dioxide to give bicarbonate:
+:KOH + CO<sub>2</sub> → KHCO<sub>3</sub>
+==Manufacture==
+Historically, KOH was made by adding potassium carbonate to a strong solution of calcium hydroxide (slaked lime) The salt metathesis reaction results in precipitation of solid calcium carbonate, leaving potassium hydroxide in solution:
+:Ca(OH)<sub>2</sub> + K<sub>2</sub>CO<sub>3</sub> → CaCO<sub>3</sub> + 2 KOH
+Filtering off the precipitated calcium carbonate and boiling down the solution gives potassium hydroxide ("calcinated or caustic potash"). This method of producing potassium hydroxide remained dominant until the late 19th century, when it was largely replaced by the current method of electrolysis of potassium chloride solutions.<ref name=Ullmann/> The method is analogous to the manufacture of sodium hydroxide (see chloralkali process):
+:2 KCl + 2 H<sub>2</sub>O → 2 KOH + Cl<sub>2</sub> + H<sub>2</sub>
+Hydrogen gas forms as a byproduct on the cathode; concurrently, an anodic oxidation of the chloride ion takes place, forming chlorine gas as a byproduct. Separation of the anodic and cathodic spaces in the electrolysis cell is essential for this process.<ref name="auto">Römpp Chemie-Lexikon, 9th Ed. (in German)</ref>
+==Uses==
+KOH and NaOH can be used interchangeably for a number of applications, although in industry, NaOH is preferred because of its lower cost.
+===Precursor to other potassium compounds===
+Many potassium salts are prepared by neutralization reactions involving KOH. The potassium salts of carbonate, cyanide, permanganate, phosphate, and various silicates are prepared by treating either the oxides or the acids with KOH.<ref name=Ullmann/> The high solubility of potassium phosphate is desirable in fertilizers.
+===Manufacture of soft soaps===
+The saponification of fats with KOH is used to prepare the corresponding "potassium soaps", which are softer than the more common sodium hydroxide-derived soaps. Because of their softness and greater solubility, potassium soaps require less water to liquefy, and can thus contain more cleaning agent than liquefied sodium soaps.<ref></ref>
+===As an electrolyte===
+Aqueous potassium hydroxide is employed as the electrolyte in Alkaline battery based on nickel-cadmium, nickel-hydrogen, and manganese dioxide-zinc. Potassium hydroxide is preferred over sodium hydroxide because its solutions are more conductive.<ref></ref> The nickel–metal hydride battery in the Toyota Prius use a mixture of potassium hydroxide and sodium hydroxide.<ref></ref> Nickel–iron battery also use potassium hydroxide electrolyte.
+===Food industry===
+In food products, potassium hydroxide acts as a food thickener, pH control agent and food stabilizer. The FDA considers it (as a direct human food ingredient) as generally safe when combined with "good" manufacturing practice conditions of use.<ref></ref> It is known in the E number system as E525.
+===Niche applications===
+Like sodium hydroxide, potassium hydroxide attracts numerous specialized applications, virtually all of which rely on its properties as a strong chemical base with its consequent ability to degrade many materials. For example, in a process commonly referred to as "chemical cremation" or "resomation", potassium hydroxide hastens the decomposition of soft tissues, both animal and human, to leave behind only the bones and other hard tissues.<ref></ref> Entomologists wishing to study the fine structure of insect anatomy may use a 10% aqueous solution of KOH to apply this process.<ref></ref>
+In chemical synthesis, the choice between the use of KOH and the use of NaOH is guided by the solubility or keeping quality of the resulting salt.
+The corrosive properties of potassium hydroxide make it a useful ingredient in agents and preparations that clean and disinfect surfaces and materials that can themselves resist corrosion by KOH.<ref name="auto"/>
+KOH is also used for semiconductor chip fabrication. See also: anisotropic wet etching.
+Potassium hydroxide is often the main active ingredient in chemical "cuticle removers" used in manicure treatments.
+Because aggressive bases like KOH damage the cuticle of the hair shaft, potassium hydroxide is used to chemically assist the removal of hair from animal hides. The hides are soaked for several hours in a solution of KOH and water to prepare them for the unhairing stage of the tanning process. This same effect is also used to weaken human hair in preparation for shaving. Preshave products and some shave creams contain potassium hydroxide to force open the hair cuticle and to act as a hygroscopic agent to attract and force water into the hair shaft, causing further damage to the hair. In this weakened state, the hair is more easily cut by a razor blade.
+Potassium hydroxide is used to identify some species of fungi. A 3–5% aqueous solution of KOH is applied to the flesh of a mushroom and the researcher notes whether or not the color of the flesh changes. Certain species of gilled mushrooms, boletes, polypores, and lichens<ref></ref> are identifiable based on this color-change reaction.<ref> urltoken Testing Chemical Reactions at MushroomExpert.com</ref>
+==Safety==
+Potassium hydroxide and its solutions are severe irritants to skin and other tissue.<ref> urltoken Potassium hydroxide, SIDS Initial Assessment Report For SIAM 13. Bern, Switzerland, 6-9 November 2001. By Dr. Thaly LAKHANISKY. Date of last Update: February 2002</ref>
+==See also==
+* Potash
+* Soda lime
+* Saltwater soap – sailors' soap
+==References==
+==External links==
+* urltoken Newscientist article dn10104
+* urltoken MSDS from JTBaker
+* urltoken CDC - NIOSH Pocket Guide to Chemical Hazards
+
+Potassium hydroxide is an inorganic compound with the formula KOH, and is commonly called caustic potash.
+Along with sodium hydroxide (NaOH), this colorless solid is a prototypical strong base. It has many industrial and niche applications, most of which exploit its caustic nature and its reactivity toward acids. An estimated 700,000 to 800,000 tonnes were produced in 2005. KOH is noteworthy as the precursor to most soft and liquid soaps, as well as numerous potassium-containing chemicals. It is a white solid that is dangerously corrosive. Most commercial samples are ca. 90% pure, the remainder being water and carbonates.<ref name=Ullmann></ref>

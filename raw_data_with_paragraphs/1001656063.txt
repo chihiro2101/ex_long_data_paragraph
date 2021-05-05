@@ -1,0 +1,55 @@
+Robert Sedgewick (computer scientist)
+
+== Early life ==
+Sedgewick was born on December 20, 1946 in Willimantic, Connecticut. During his childhood he lived in Storrs, Connecticut, where his parents Charles Hill Wallace Sedgewick and Rose Whelan Sedgewick were professors at the University of Connecticut.<ref> urltoken Pioneering Women in American Mathematics: The Pre-1940 PhD's</ref>
+In 1958, he moved with his parents to Wheaton, Maryland, a suburb of Washington, D.C., where he attended Wheaton High School, graduating in 1964.
+== Education ==
+Sedgewick earned his Bachelor of Science (1968) and Master of Science (1969) degrees in Applied Mathematics from Brown University, where he was a student of Andries van Dam. He went on to graduate work at Stanford University where he was an advisee of Donald E. Knuth, receiving his Ph.D. in 1975.<ref> urltoken Robert Sedgewick at the urltoken Mathematics Genealogy Project</ref> His thesis was entitled Quicksort and was named an outstanding dissertation in computer science.<ref> urltoken Outstanding dissertations in computer science, vol 18 (Garland)</ref>
+== Work and academic career ==
+Sedgewick returned to Brown to start his academic career as an assistant professor in 1975, with promotion to associate professor in 1980 and full professor in 1983. At Brown, he participated in the founding of the computer science department, in 1979.<ref> urltoken A Brief History of the CS Department (Brown University)</ref>
+In 1985, Sedgewick joined the faculty at Princeton University as founding chair of the Department of Computer Science<ref> urltoken Computer Science building opens (Princeton Weekly Bulletin)</ref> where he is now the William O. Baker *39 Professor of Computer Science.<ref> urltoken 30 years of Computer Science at Princeton</ref> The first-year courses in computer science that he developed at Princeton are among the most popular courses ever offered at the university.<ref> urltoken The New 'Rithmetic: Computer Science (US1 Princeton)</ref> He also pioneered the practice of replacing large live lectures with on-demand online videos.<ref> urltoken Computer Science for All, Really (Princeton CS Department)</ref>
+Throughout his career, he has worked at research institutions outside of academia during summers and sabbatical leaves:
+*The Communications Research Division of the Institute for Defense Analyses in Princeton, New Jersey, an opportunity to work with the CRAY-1 supercomputer.
+*Xerox Palo Alto Research Center (PARC), an opportunity to see the personal computer come into existence.
+*The Institut National de Recherche en Informatique et en Automatique (INRIA) in France, a long and fruitful collaboration with Philippe Flajolet.
+== Research ==
+Sedgewick developed red-black trees (with Leonidas J. Guibas),<ref>A Dichromatic Framework for Balanced Trees. 19th Annual Symposium on Foundations of Computer Science, 1980.</ref> ternary search trees (with Jon Bentley),<ref>Ternary Search Trees. Dr. Dobbs Journal, March, 1998.</ref> and pairing heaps (with R. E. Tarjan and Michael Fredman).<ref>Pairing Heaps: A New Form of Self-Adjusting Heap. Algorithmica 1, 1, 1986.</ref> He solved open problems left by Donald Knuth in the analysis of quicksort,<ref>The Analysis of Quicksort Programs. Acta Informatica 7, 1977.</ref> shellsort,<ref>A New Upper Bound for Shellsort. Journal of Algorithms 7, 1986.</ref> heapsort (with R. Schaffer),<ref>The Analysis of Heapsort. J. of Algorithms, 1993.</ref> and Batcher's sort.<ref>Data Movement in Odd-Even Merging. SIAM Journal on Computing 7, 2, 1978.</ref> His books on algorithms<ref>Algorithms, 4th edition. Addison-Wesley, Reading, MA, 2011, .</ref> are replete with novel implementations of classic algorithms and scientific studies comparing them, in Pascal (programming language), C (programming language), C++, Modula-3, and Java (programming language) (See Bibliography). He is known for emphasizing a scientific approach to the analysis of algorithms, based on validating mathematical models with experimental work using realistic data.<ref> urltoken Putting the "Science" back into Computer Science</ref> With Philippe Flajolet, he developed the field of mathematics known as analytic combinatorics.
+He has organized research meetings and conferences on data structures, algorithm science, and analytic combinatorics around the world, including Dagstuhl seminars on analysis of algorithms and data structures,<ref> urltoken Schloss Dagstuhl</ref> annual International Meetings on Probabilistic, Combinatorial, and Asymptotic Methods in the Analysis of Algorithms (AofA)<ref> urltoken Analysis of Algorithms</ref> and SIAM Meetings on Analytic Algorithmics and Combinatorics (ANALCO).<ref> urltoken ANALCO</ref>
+== Publishing ==
+Sedgewick is the author of twenty books. He is best known for Algorithms,<ref>Algorithms, 4th edition. Addison-Wesley, Reading, MA, 2011, .</ref> originally published in 1983 and now in its fourth edition. His 2008 book with Philippe Flajolet, Analytic Combinatorics,<ref>Analytic Combinatorics. Cambridge University Press, 2009, .</ref> was awarded the Leroy P. Steele Prize for mathematical exposition by the American Mathematical Society.<ref> urltoken (American Mathematical Society)</ref> His most recent book, co-authored with Kevin Wayne, is Computer Science: An Interdisciplinary Approach.<ref>Computer Science: An Interdisciplinary Approach. Addison-Wesley, Reading, MA, 2016, .</ref>
+== Online Learning ==
+Sedgewick is a pioneer in the development of massive open online courses, currently offering six MOOCs.<ref> urltoken Professors Behind the MOOC Hype (Chronicle of Higher Education)</ref><ref> urltoken Coursera</ref><ref> urltoken cuvids</ref> With Kevin Wayne, he developed a scalable model that integrates the textbook, studio-produced online lectures, and extensive online content.<ref> urltoken A 21st Century Model for Disseminating Knowledge (MIT)</ref> Their two MOOCs and online content on algorithms are among the most popular on the web<ref> urltoken The 50 Most Popular MOOCs of All Time (Online Course Report)</ref> and have provided the opportunity for over one million registrants<ref> urltoken Coursera</ref> to learn from them at no cost.
+He is an active advocate for expanding the reach of computer science, and is featured in articles in the Chronicle of Higher Education,<ref> urltoken The Discipline that is Transforming Higher Ed (Chronicle of Higher Education)</ref> the American Enterprise Institute,<ref> urltoken Higher Education’s Internet Revolution (American Enterprise Institute)</ref> and the Washington Post,<ref> urltoken President Obama talks about teaching everyone to code. This professor does it. (Washington Post).</ref> with essays published in the Wall Street Journal<ref> urltoken Should All Children Learn to Code by the End of High School? (Wall Street Journal)</ref> and Inside Higher Ed.<ref> urltoken Why Every Student Should Study Computer Science (Inside Higher Ed)</ref>
+== Awards ==
+* Flajolet Lecture Prize. AofA (Analysis of Algorithms) Conference, 2016.<ref> urltoken Flajolet Lecture Prize (Analysis of Algorithms)</ref>
+* Leroy P. Steele Prize for Mathematical Exposition. American Mathematical Society, 2019.<ref> urltoken (American Mathematical Society)</ref>
+* Karl V. Karlstrom Outstanding Educator Award. Association for Computing Machinery, 2019.<ref> urltoken Karl V. Karlstrom Award (Association for Computing Machinery)</ref>
+== Recent books and online content ==
+* Computer Science: An Interdisciplinary Approach (with K. Wayne). Addison-Wesley, Reading, MA, 2016, 1131 pp. Associated online content: urltoken Booksite, curated lectures urltoken Part 1 and urltoken Part 2, and MOOCs urltoken Part 1 and urltoken Part 2. 
+* Algorithms, Fourth Edition (with K. Wayne). Addison-Wesley, Reading, MA, 2011, 955 pp. Earlier editions: 11 books, using 5 programming languages, translated into many foreign languages, 1983–2003. Associated online content: urltoken Booksite, urltoken curated lectures, and MOOCs urltoken Part 1 and urltoken Part 2.
+* An Introduction to the Analysis of Algorithms, Second Edition (with P. Flajolet). Addison-Wesley, Reading, MA, 2013, 572 pp. First edition, 1996. Associated online content: urltoken Booksite, urltoken curated lectures, and urltoken MOOC.
+* Analytic Combinatorics (with P. Flajolet). Cambridge University Press, 2009, 824pp. Associated online content: urltoken Booksite, urltoken curated lectures, and urltoken MOOC.
+== Personal life ==
+Sedgewick lives in Princeton, New Jersey and spends summers in Jamestown, Rhode Island with his wife Linda (née Migneault), married in 1971. They have four children and six grandchildren.
+== Bibliography ==
+* 
+*
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+*
+
+Robert Sedgewick (born December 20, 1946) is the founding chair and the William O. Baker Professor in Computer Science at Princeton University<ref> urltoken Robert Sedgewick's homepage at Princeton</ref> and was a member of the board of directors of Adobe Systems (1990-2016).<ref> urltoken Forbes profile</ref> He previously served on the faculty at Brown University and has held visiting research positions at Xerox PARC, Institute for Defense Analyses, and INRIA.<ref> urltoken Informit - Robert Sedgewick</ref> His research expertise is in algorithm science, data structures, and analytic combinatorics. He is also active in developing the college curriculum in computer science and in harnessing technology to make that curriculum available to anyone seeking the opportunity to learn from it.<ref> urltoken People of ACM - Robert Sedgewick</ref>

@@ -1,0 +1,76 @@
+Ferguson Big Board
+
+==Hardware==
+The Big Board was sold as an unpopulated printed circuit board with sockets for integrated circuits, with documentation and options to purchase additional components<ref>Advertisement for Digital Research Computers: "The Big Board", 'Byte', pg. 485, Oct. 1982.</ref>
+.
+The Big Board design was simple enough to build a system around that many people with no prior electronics experience were able to build and bring up a capable computer system of their own at a cost far less than that of a fully assembled system of the time. In this way, the Big Boards anticipated the DIY PC clones that became popular later. In its most popular form, the fully assembled and tested Big Board need only be connected to a power supply, one or two eight inch floppy disk drives, a composite monitor, and an ASCII encoded keyboard in order to provide a fully functioning system. A serial terminal could be used in place of the monitor and keyboard, further simplifying assembly. The only tool required for basic assembly was a screwdriver for the screw terminal power connections.<ref>Digital Research Computers: "Assembly Instructions", Big Board Documentation, 1980.</ref>
+The design was also simple to modify for the sake of system expansion and enhancement. Many different modifications to increase the clock signal speed were possible, including some that required nothing more than jumpers (e.g. the 3.5&nbsp;MHz speed upgrade obtained by jumpering the clock divider, with no software modifications or changes to the ICs on the board.)<ref>Gary Hvizdak: "3.5MHz (Easiest Mod of All)", 'Micro Cornucopia', No. 4, pg. 9, February, 1982.</ref> There was also a minor industry in user-installable system upgrades such as real time clocks, 4&nbsp;MHz upgrades, double density floppy upgrades, character enhancements for the display (reverse video, blinking, etc.), and the addition of hard disk interfaces such as SASI and SCSI. Most of these upgrades were accomplished through the use of daughterboard that plugged into existing IC sockets on the board, with the original IC either replaced by a more capable IC or placed into a socket on the daughter board.
+It was possible to upgrade the memory to 256 KB, which was extremely large for the time.<ref>Art Boehm: "256K in Detail-Part I", 'Micro Cornucopia', No. 12, pg. 4, June, 1983.</ref> While not directly supported by CP/M, the extra memory could be used to implement a ram disk, caching of the operating system image (to greatly improve booting time), or a spooling.
+The Big Board II (1982) incorporated many of the most popular upgrades for the original Big Board into its design. It also featured a small breadboard area that allowed for many simple upgrades to be performed without the addition of daughter boards.<ref>J.B. Ferguson: Big Board II Assembly Manual, Cal-Tex Computers, 1982.</ref>
+==Software==
+The Big Board was designed primarily to run the CP/M operating system, version 2.2.<ref>J.B. Ferguson: The Bigboard: An Overview, 1980.</ref> It came with a monitor program in ROM called PFM-80 which was the "software front panel" of the system. The source code listing of PFM was a feature of the first and second issues of Micro Cornucopia.<ref>Don Retzlaff: "PFM-80 Monitor", 'Micro Cornucopia', No. 1, pg. 9, July, 1981.</ref> PFM featured many well-documented routines that could be employed in user code.<ref>Russel Smith: PFM-80 Users Manual, 1980.</ref>
+The board featured 3 spare 2K ROM sockets that allowed for the addition of additional firmware. Popular additions were Tiny BASIC, FORTH,<ref>Rob DeVoe: "A Self-Loading ROM", 'Micro Cornucopia', No. 6, pg. 10, June, 1982.</ref> and enhanced versions of PFM.
+==Documentation==
+The Big Board came with a full set of schematics, a document titled "Theory of Operation", the PFM-80 User's Manual, instructions for assembly and testing of the Big Board, a parts list, and addenda to these. The Theory of Operation described the details of the operation of the system, including the CRT controller, floppy disk controller, serial communications, memory bank switching, and connector pinouts.
+==Specifications==
+Big Board I
+* Z80 CPU at 2.5&nbsp;MHz.
+* 64 KB dynamic RAM in 32 4116s or equivalent.
+* An ASCII keyboard interface.
+* A TTL / composite video CRT interface allowing a display of 24 lines by 80 characters.
+* A SS/SD floppy disk interface allowing addition of up to four 8" Shugart Associates SA800 compatible 8" floppy disk drives.
+* Two (optional) RS-232 serial ports.
+* A parallel Centronics compatible printer port.
+* An optional real time clock.
+* Board dimensions 8.5" (215 mm) by 13.75" (349.3 mm). (Compare to SA-800 disk drive: 9.5" x 14.5".)
+Big Board II
+* Z80 CPU at 4&nbsp;MHz.
+* 64 KB dynamic RAM in 8 4164s or equivalent.
+* SASI/SCSI hard disk interface, also usable as a general purpose I/O or for control of other SCSI devices.
+* An ASCII keyboard interface.
+* A TTL / composite video CRT interface allowing a display of 24 lines by 80 characters.
+* A DS/DD floppy disk interface allowing addition of up to four 8" or 5.25" floppy disk drives.
+* Two RS-232 serial ports via a Z80 SIO.
+* A parallel Centronics compatible printer port via a Z80 PIO.
+* An optional real time clock.
+* Board dimensions 8.875" (225.4 mm) x 14.5" (368.3 mm)
+* 6 ROM/EPROM sockets, including ability to program EPROMs in place.
+==Big Board Community==
+The success of the Big Board spawned Micro Cornucopia magazine.<ref>David Thompson: "Spare a Dime?", 'Micro Cornucopia' No.6, pg. 2, June, 1982.</ref> Many Big Board kits included a subscription flyer for the magazine.
+The magazine regularly featured user reports, hardware upgrade articles, and reviews of third party products. The magazine's publisher hosted the SOG (Semi Official Get-together) annually, where the magazine's readers would join staff and writers for white water rafting, potluck feasts, and technical discussions.<ref>J.D. Thompson: "All Wet!", 'Micro Cornucopia', No. 12, Pg 2, June 1983.</ref>
+== Third Party Products==
+The Xerox 820 computer was based on the Big Board; InfoWorld stated that its "considerable virtues . lie mostly in its use of the Big Board's design".<ref name="meyer19820614"></ref> Shugart Associates was a common source of floppy disk drives, as was Tandon Corporation.
+Taylor Electric Company provided the "Better Board", including floppy disk drive interface enhancements, enhancements to PFM, and corrections to the original assembly and testing instructions bundled with the Big Board.
+SWP Microcomputer Products of Arlington, TX (formerly Software Publishers) provided the Bigboard Dual Density upgrade, which provided both hardware and software to allow the Big Board I to use dual density formats on its drives.
+Micro Cornucopia provided many products to enhance the Big Board computers, including speed upgrades, utility software and development tools both on ROM and on disk, and I/O enhancements.
+AB Computer Products sold enclosures, monitors, and pre-punched I/O panels targeted at Big Board users.
+D&W Associates of Rome, NY sold monitors, ASCII-encoded keyboards, and power supplies targeted to the Big Board market.
+Paradise Valley Electronics of Moscow, ID sold a version of FORTH, as well as graphics upgrades and utility software for the Big Board.
+Several manufacturers, including JBW and Andy Bakkers sold SASI interface kits.
+Kuzara Enterprises of San Diego, CA (formerly Design Technology) sold printer interfaces that allowed the Big Board to use the full feature sets of the Xerox Diablo printers.
+Several manufacturers provided real time clock upgrades as a CPU daughter board.
+Andy Bakkers sold a 1 MB RAM Disk daughter board for Big Board II.
+Kenmore Computer Technologies (from Buffalo, NY) offered the Ztime-I calendar/clock board kit and software. Calendar/clock circuits enabled early computers to time-stamp data and perform time-sensitive tasks with accuracy.
+==References==
+<references />
+==External links==
+* urltoken Bigboard
+* urltoken Big Board II Documentation at Bitsavers
+* urltoken Oscar's Vintage Computer Collection
+* urltoken Dave's Old Computers: Big Board
+* urltoken Dave's Old Computers: Big Board Ad from Byte (150K JPG.)
+* urltoken BigBoard I Ad Italy 1983
+* urltoken Bigboard Formatter Program (assembly source)
+* urltoken BigBoard I Italian Page
+<!-- How do you put this on a separate page with a "BigBoard" title?
+BigBoard is also a fictional computer program used by Hiro Protagonist to keep track of avatars visiting the Black Sun, a night club in the book Snow Crash by Neal Stephenson. -->
+<!-- dead links, so hidden by comment for the time being. --Wernher
+==External links==
+* urltoken History Of The Bigboard Computer
+* urltoken 
+-->
+
+thumb
+thumb
+The Big Board (1980) and Big Board II (1982) were Z80 based Single board computer designed by Jim Ferguson. They provided a complete CP/M compatible computer system on a single printed circuit board, including CPU, memory, disk drive interface, keyboard and video monitor interface.<ref>J.B. Ferguson: The Bigboard: An Overview, 1980.</ref> The printed circuit board was sized to match the Shugart 801 or 851 floppy drive. This allowed attachment to up to two 8&nbsp;inch or 5 1/4&nbsp;inch floppy disk drives . The Big Board II added a SASI interface which could be used to drive hard drives, enhancements to system speed (4&nbsp;MHz vs. 2.5&nbsp;MHz) and enhancements to the terminal interface.<ref>J.B. Ferguson: The Big Board II Assembly Manual, Cal-Tex Computers, 1982.</ref>
+One version of the Big Board was used in the Xerox 820.

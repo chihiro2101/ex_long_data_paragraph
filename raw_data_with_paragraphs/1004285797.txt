@@ -1,0 +1,84 @@
+MPEG-7
+
+==Introduction==
+MPEG-7 is intended to provide complementary functionality to the previous MPEG standards, representing information about the content, not the content itself ("the bits about the bits"). This functionality is the standardization of multimedia content descriptions. MPEG-7 can be used independently of the other MPEG standards - the description might even be attached to an analog movie. The representation that is defined within MPEG-4, i.e. the representation of audio-visual data in terms of objects, is however very well suited to what will be built on the MPEG-7 standard. This representation is basic to the process of categorization. In addition, MPEG-7 descriptions could be used to improve the functionality of previous MPEG standards.With these tools, we can build an MPEG-7
+Description and deploy it. According to the
+requirements document,1 “a Description consists
+of a Description Scheme (structure) and the
+set of Descriptor Values (instantiations) that
+describe the Data.” A Descriptor Value is “an
+instantiation of a Descriptor for a given data set
+(or subset thereof).”
+The Descriptor is the syntatic and semantic definition of the content.
+Extraction algorithms are
+inside the scope of the
+standard because their
+standardization isn’t required
+to allow interoperability.
+==Parts==
+The MPEG-7 (ISO/IEC 15938) consists of different Parts. Each part covers a certain aspect of the whole specification.
+==Relation between description and content==
+An MPEG-7 architecture requirement is that description must be separate from the audiovisual content.
+On the other hand, there must be a relation between the content and description. Thus the description is multiplexed with the content itself.
+On the right side you can see this relation between description and content.
+==MPEG-7 tools==
+MPEG-7 uses the following tools:
+* Descriptor (D): It is a representation of a feature defined syntactically and semantically. It could be that a unique object was described by several descriptors.
+* Description Schemes (DS): Specify the structure and semantics of the relations between its components, these components can be descriptors (D) or description schemes (DS).
+* Description Definition Language (DDL): It is based on XML language used to define the structural relations between descriptors. It allows the creation and modification of description schemes and also the creation of new descriptors (D).
+* System tools: These tools deal with binarization, synchronization, transport and storage of descriptors. It also deals with Intellectual Property protection.
+On the right side you can see the relation between MPEG-7 tools.
+==MPEG-7 applications==
+There are many applications and application domains which will benefit from the MPEG-7 standard. A few application examples are:
+* Digital library: Image/video catalogue, musical dictionary. 
+* Multimedia directory services: e.g. yellow pages. 
+* Broadcast media selection: Radio channel, TV channel. 
+* Multimedia editing: Personalized electronic news service, media authoring.
+* Security services: Traffic control, production chains.
+* E-business: Searching process of products.
+* Cultural services: Art-galleries, museums.
+* Educational applications.
+* Biomedical applications.
+* Artificial_intelligence that leverage low-level multimedia semantics via Knowledge representation and reasoning.<ref>
+</ref>
+==Software and demonstrators for MPEG-7==
+* urltoken Caliph & Emir: Annotation and retrieval of images based on MPEG-7 (GPL). Creates MPEG-7 XML files.<ref>Lux, Mathias. "Caliph & Emir: MPEG-7 photo annotation and retrieval." Proceedings of the 17th ACM international conference on Multimedia. ACM, 2009.</ref>
+* urltoken C# Implementation: Open Source implementation of the MPEG-7 descriptors in C#.
+* urltoken Frameline 47 Video Notation: Frameline 47 from Versatile Delivery Systems. The first commercial MPEG-7 application, Frameline 47 uses an advanced content schema based on MPEG-7 so as to be able to notate entire video files, or segments and groups of segments from within that video file according to the MPEG-7 convention (commercial tool) 
+* urltoken Eptascape ADS200 uses a real-time MPEG 7 encoder on an analog camera video signal to identify interesting events, especially in surveillance applications, check the urltoken demos to see MPEG-7 in action (commercial tool)
+* urltoken IBM VideoAnnEx Annotation Tool: Creating MPEG-7 documents for video streams describing structure and giving keywords from a controlled vocabulary (binary release, restrictive license)
+* urltoken iFinder Medienanalyse- und Retrievalsystem: Metadata extraction and search engine based on MPEG-7 (commercial tool)
+* urltoken MPEG-7 Audio Encoder: Creating MPEG-7 documents for audio documents describing low level audio characteristics (binary & source release, Java, GPL)
+* urltoken MPEG-7 Visual Descriptor Extraction: Software to extract MPEG-7 visual descriptors from images and image regions.
+* urltoken XM Feature Extraction Web Service: The functionalities of the eXperimentation Model(XM) are made available via web service interface to enable automatic MPEG-7 low-level visual description characterization of images.
+* urltoken TU Berlin MPEG-7 Audio Analyzer (Web-Demo): Creating MPEG-7 documents (XML) for audio documents (WAV, MP3). All 17 MPEG-7 low level audio descriptors are implemented (commercial)
+* urltoken TU Berlin MPEG-7 Spoken Content Demonstrator (Web-Demo): Creating MPEG-7 documents (XML) with SpokenContent description from an input speech signal (WAV, MP3) (commercial)
+* urltoken MP7JRS C++ Library Complete MPEG-7 implementation of part 3, 4 and 5 (visual, audio and MDS) by Joanneum Research Institute for Information and Communication Technologies - Audiovisual Media Group.
+* urltoken BilVideo-7: MPEG-7 compatible, distributed video indexing and retrieval system, supporting complex, multimodal, composite queries; developed by Bilkent University Multimedia Database Group ( urltoken BILMDG).
+* urltoken UniSay: Sophisticated Post-production file analysis and audio processing based on MPEG-7.
+==See also==
+* Exif
+* ID3
+* Metadata standards
+* MPEG-4 Part 11 – Scene description and application engine
+* Multimedia information retrieval
+* Query by humming
+==Limitations==
+The MPEG-7 standard was originally written in XML Schema (XSD), which constitutes semi-structured data. For example, the running time of a movie annotated using MPEG-7 in XML is machine-readable data, so software agents will know that the number expressing the running time is a positive integer, but such data is not machine-interpretable (cannot be understood by agents), because it does not convey semantics (meaning), known as the “Semantic gap.” To address this issue, there were many attempts to map the MPEG-7 XML Schema to the Web Ontology Language (OWL), which is a structured data equivalent of the terms of the MPEG-7 standard (MPEG-7Ontos, COMM, SWIntO, etc.). However, these mappings did not really bridge the “Semantic gap,” because low-level video features alone are inadequate for representing video semantics.<ref name="SikosPowers2015"></ref> In other words, annotating an automatically extracted video feature, such as color distribution, does not provide the meaning of the actual visual content.<ref name="BollKlasSheth1998"></ref>
+==Compare==
+* Material Exchange Format (MXF), a container format for professional digital video and audio media defined by SMPTE.
+==References==
+* B.S. Manjunath (Editor), Philippe Salembier (Editor), and Thomas Sikora (Editor): Introduction to MPEG-7: Multimedia Content Description Interface. Wiley & Sons, April 2002 - 
+* Harald Kosch: Distributed Multimedia Database Technologies Supported by MPEG-7 and MPEG-21. CRC Press, January 2004 - 
+* Giorgos Stamou (Editor) and Stefanos Kollias (Editor): Multimedia Content and the Semantic Web: Standards, Methods and Tools. Wiley & Sons, May 2005 - 
+* Hyoung-Gook Kim, Nicolas Moreau, and Thomas Sikora: MPEG-7 Audio and Beyond: Audio Content Indexing and Retrieval. Wiley & Sons, October 2005 - 
+==External links==
+* urltoken MPEG-7 Overview
+* urltoken MPEG-7/-21 Community Portal
+
+MPEG-7 is a multimedia content description standard. It was standardized in ISO/IEC 15938 (Multimedia content description interface).<ref></ref><ref></ref><ref></ref><ref name="mpeg-standards"></ref> This description will be associated with the content itself, to allow fast and efficient searching for material that is of interest to the user. MPEG-7 is formally called Multimedia Content Description Interface. Thus, it is not a standard which deals with the actual encoding of moving pictures and audio, like MPEG-1, MPEG-2 and MPEG-4. It uses XML to store metadata, and can be attached to timecode in order to tag particular events, or synchronise lyrics to a song, for example.
+It was designed to standardize:
+* a set of Description Schemes ("DS") and Descriptors ("D")
+* a language to specify these schemes, called the Description Definition Language ("DDL")
+* a scheme for coding the description
+The combination of MPEG-4 and MPEG-7 has been sometimes referred to as MPEG-47.<ref></ref>

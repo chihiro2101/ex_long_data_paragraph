@@ -1,0 +1,128 @@
+Social movement
+
+==Social movement theories==
+Sociologists have developed several theories related to social movements Kendall, 2005. Some of the better-known approaches are outlined below. Chronologically they include:
+* marxist theory (1880s)
+* collective behavior/collective action theories (1950s)
+* relative deprivation theory (1960s)
+* value-added theory (1960s)
+* resource mobilization (1970s)
+* political process theory (1980s)
+* framing theory (1980s) (closely related to social constructionist theory)
+* new social movement theory (1980s)
+===Deprivation theory===
+Deprivation theory argues that social movements have their foundations among people who feel deprived of some good(s) or resource(s). According to this approach, individuals who are lacking some good, service, or comfort are more likely to organize a social movement to improve (or defend) their conditions.<ref>Morrison 1978</ref>
+There are two significant problems with this theory. First, since most people feel deprived at one level or another almost all the time, the theory has a hard time explaining why the groups that form social movements do when other people are also deprived. Second, the reasoning behind this theory is circular – often the only evidence for deprivation is the social movement. If deprivation is claimed to be the cause but the only evidence for such is the movement, the reasoning is circular.<ref>Jenkins and Perrow 1977</ref>
+===Mass society theory===
+Mass society theory argues that social movements are made up of individuals in large societies who feel insignificant or socially detached. Social movements, according to this theory, provide a sense of empowerment and belonging that the movement members would otherwise not have.<ref>Kornhauser 1959</ref>
+Very little support has been found for this theory. Aho (1990), in his study of Idaho Christian Patriotism, did not find that members of that movement were more likely to have been socially detached. In fact, the key to joining the movement was having a friend or associate who was a member of the movement.
+===Structural strain theory===
+Social strain theory, also known as value-added theory, proposes six factors that encourage social movement development:<ref>Smelser 1962</ref>
+# structural conduciveness - people come to believe their society has problems
+# structural strain - people experience deprivation
+# growth and spread of a solution - a solution to the problems people are experiencing is proposed and spreads
+# precipitating factors - discontent usually requires a catalyst (often a specific event) to turn it into a social movement
+# lack of social control - the entity that is to be changed must be at least somewhat open to the change; if the social movement is quickly and powerfully repressed, it may never materialize
+# mobilization - this is the actual organizing and active component of the movement; people do what needs to be done
+This theory is also subject to circular reasoning as it incorporates, at least in part, deprivation theory and relies upon it, and social/structural strain for the underlying motivation of social movement activism. However, social movement activism is, like in the case of deprivation theory, often the only indication that there was strain or deprivation.
+===Resource mobilization theory===
+Resource mobilization theory emphasizes the importance of resources in social movement development and success. Resources are understood here to include: knowledge, money, media, labor, solidarity, legitimacy, and internal and external support from power elite. The theory argues that social movements develop when individuals with grievances are able to mobilize sufficient resources to take action.The emphasis on resources offers an explanation why some discontented/deprived individuals are able to organize while others are not.<ref name=mccarthyzald></ref>
+In contrast to earlier collective behavior perspectives on social movements—which emphasized the role of exceptional levels of deprivation, grievance, or social strain in motivating mass protest—Resource Mobilization perspectives hold "that there is always enough discontent in any society to supply the grass-roots support for a movement if the movement is effectively organized and has at its disposal the power and resources of some established elite group"<ref name=TurnerKillian></ref> Movement emergence is contingent upon the aggregation of resources by social movement entrepreneurs and movement organizations, who use these resources to turn collective dissent in to political pressure.<ref name=mccarthyzald/> Members are recruited through networks; commitment is maintained by building a collective identity, and through interpersonal relationships. 
+Resource Mobilization Theory views social movement activity as "politics by other means": a rational and strategic effort by ordinary people to change society or politics.<ref name=gamson></ref> The form of the resources shapes the activities of the movement (e.g., access to a TV station will result in the extensive use TV media). Movements develop in contingent opportunity structures that influence their efforts to mobilize; and each movement's response to the opportunity structures depends on the movement's organization and resources 
+Critics of this theory argue that there is too much of an emphasis on resources, especially financial resources. Some movements are effective without an influx of money and are more dependent upon the movement members for time and labor (e.g., the civil rights movement in the U.S.).<ref></ref>
+===Political process theory===
+Political process theory is similar to resource mobilization in many regards, but tends to emphasize a different component of social structure that is important for social movement development: political opportunities. Political process theory argues that there are three vital components for movement formation: insurgent consciousness, organizational strength, and political opportunities.
+Insurgent consciousness refers back to the ideas of deprivation and grievances. The idea is that certain members of society feel like they are being mistreated or that somehow the system is unjust. The insurgent consciousness is the collective sense of injustice that movement members (or potential movement members) feel and serves as the motivation for movement organization.
+left
+Organizational strength falls inline with resource-mobilization theory, arguing that in order for a social movement to organize it must have strong leadership and sufficient resources.
+Political opportunity refers to the receptivity or vulnerability of the existing political system to challenge. This vulnerability can be the result of any of the following (or a combination thereof):
+* growth of political pluralism
+* decline in effectiveness of repression
+* elite disunity; the leading factions are internally fragmented
+* a broadening of access to institutional participation in political processes
+* support of organized opposition by elites
+One of the advantages of the political process theory is that it addresses the issue of timing or emergence of social movements. Some groups may have the insurgent consciousness and resources to mobilize, but because political opportunities are closed, they will not have any success. The theory, then, argues that all three of these components are important.
+Critics of the political process theory and resource-mobilization theory point out that neither theory discusses movement culture to any great degree. This has presented culture theorists an opportunity to expound on the importance of culture.
+One advance on the political process theory is the political mediation model, which outlines the way in which the political context facing movement actors intersects with the strategic choices that movements make. An additional strength of this model is that it can look at the outcomes of social movements not only in terms of success or failure but also in terms of consequences (whether intentional or unintentional, positive or negative) and in terms of collective benefits.
+===Framing perspective===
+Reflecting the cultural turn in the social sciences and humanities more broadly, recent strains of social movement theory and research add to the largely structural concerns seen in the resource mobilization and political process theories by emphasizing the cultural and psychological aspects of social movement processes, such as collectively shared interpretations and beliefs, ideologies, values and other meanings about the world. In doing so, this general cultural approach also attempts to address the Free rider problem. One particularly successful take on some such cultural dimensions is manifested in the framing perspective on social movements.
+While both resource mobilization theory and political process theory include, or at least accept, the idea that certain shared understandings of, for example, perceived unjust societal conditions must exist for mobilization to occur at all, this is not explicitly problematized within those approaches. The framing perspective has brought such shared understandings to the forefront of the attempt to understand movement creation and existence by, e.g., arguing that, in order for social movements to successfully mobilize individuals, they must develop an injustice frame. An injustice frame is a collection of ideas and symbols that illustrate both how significant the problem is as well as what the movement can do to alleviate it,
+:"Like a picture frame, an issue frame marks off some part of the world. Like a building frame, it holds things together. It provides coherence to an array of symbols, images, and arguments, linking them through an underlying organizing idea that suggests what is essential - what consequences and values are at stake. We do not see the frame directly, but infer its presence by its characteristic expressions and language. Each frame gives the advantage to certain ways of talking and thinking, while it places others out of the picture."<ref>Ryan and Gamson 2006, p.14</ref>
+Important characteristics of the injustice frames include:<ref>Ryan and Gamson 2006</ref>
+* Facts take on their meaning by being embedded in frames, which render them relevant and significant or irrelevant and trivial.
+* People carry around multiple frames in their heads.
+* Successful reframing involves the ability to enter into the worldview of our adversaries.
+* All frames contain implicit or explicit appeals to moral principles.
+In emphasizing the injustice frame, culture theory also addresses the free-rider problem. The free-rider problem refers to the idea that people will not be motivated to participate in a social movement that will use up their personal resources (e.g., time, money, etc.) if they can still receive the benefits without participating. In other words, if person X knows that movement Y is working to improve environmental conditions in his neighborhood, he is presented with a choice: join or not join the movement. If he believes the movement will succeed without him, he can avoid participation in the movement, save his resources, and still reap the benefits - this is free-riding. A significant problem for social movement theory has been to explain why people join movements if they believe the movement can/will succeed without their contribution. Culture theory argues that, in conjunction with social networks being an important contact tool, the injustice frame will provide the motivation for people to contribute to the movement.
+Framing processes includes three separate components:
+* Diagnostic frame: the movement organization frames what is the problem or what they are critiquing
+* Prognostic frame: the movement organization frames what is the desirable solution to the problem
+* Motivational frame: the movement organization frames a "call to arms" by suggesting and encouraging that people take action to solve the problem
+==Social movement and social networking==
+For more than ten years, social movement groups have been using the Internet to accomplish organizational goals. It has been argued that the Internet helps to increase the speed, reach and effectiveness of social movement-related communication as well as mobilization efforts, and as a result, it has been suggested that the Internet has had a positive impact on the social movements in general.<ref name="Obar"/><ref></ref><ref></ref><ref></ref> The systematic literature review of Buettner & Buettner analyzed the role of Twitter during a wide range of social movements (2007 WikiLeaks, 2009 Moldova, 2009 Austria student protest, 2009 Israel-Gaza, 2009 Iran green revolution, 2009 Toronto G20, 2010 Venezuela, 2010 Stuttgart 21, 2011 Egypt, 2011 England, 2011 US Occupy movement, 2011 Spain Indignados, 2011 Greece Aganaktismenoi movements, 2011 Italy, 2011 2011 Wisconsin protests, 2012 Israel Hamas, 2013 Brazil Vinegar, 2013 Turkey).<ref name="Buettner2016a" />
+Many discussions have been generated recently on the topic of social networking and the effect it may play on the formation and mobilization of social movement.<ref>Clay Shirky. Here Comes Everybody: The Power of Organizing Without Organizations. Penguin Press HC, The, 2008. Print.</ref> For example, the emergence of the Coffee Party first appeared on the social networking site, Facebook. The party has continued to gather membership and support through that site and file sharing sites, such as Flickr. The 2009–2010 Iranian election protests also demonstrated how social networking sites are making the mobilization of large numbers of people quicker and easier. Iranians were able to organize and speak out against the election of Mahmoud Ahmadinejad by using sites such as Twitter and Facebook. This in turn prompted widespread government censorship of the web and social networking sites.
+The sociological study of social movements is quite new. The traditional view of movements often perceived them as chaotic and disorganized, treating activism as a threat to the social order. The activism experienced in the 1960s and 1970s shuffled in a new world opinion about the subject. Models were now introduced to understand the organizational and structural powers embedded in social movements.
+==See also==
+* List of social movements
+* Civil resistance
+* Counterculture of the 1960s
+* Countermovement
+* Moral shock
+* New social movements
+* Nonviolent resistance
+* Political movement
+* Reform movement
+* Revolutionary movement
+* Social defence
+* Social equality
+* Teaching for social justice
+* Union organizer
+* Online social movements
+==References==
+==Further reading==
+* David F. Aberle. 1966. The Peyote Religion among the Navaho. Chicago: Aldine. 
+* James Alfred Aho. 1990. Politics of Righteousness: Idaho Christian Patriotism. Washington: University of Washington Press. 
+* Paul Almeida. 2019. Social Movements: The Structure of Collective Mobilization. Berkeley: University of California Press. 
+* Herbert G. Blumer 1969. "Collective Behavior." In Alfred McClung Lee, ed., Principles of Sociology. Third Edition. New York: Barnes & Noble Books, pp.&nbsp;65–121.
+* Mark Chaves. 1997. Ordaining Women: Culture and Conflict in Religious Organizations. Cambridge: Harvard University Press. 
+* 
+* Graeme Chesters and Ian Welsh. Complexity and Social Movements: Multitudes at the Edge of Chaos Routledge 2006. 
+* Mario Diani and Doug McAdam, Social movements and networks, Oxford University Press, 2003.
+* Susan Eckstei, ed. Power and Popular Protest: Latin American Social Movements, Updated Edition, University of California Press 2001. 
+* Anthony Giddens. 1985. The Nation-State and Violence. Cambridge, England: Polity Press. 
+*Jeff Goodwin and James M. Jasper. 2009. The Social Movements Reader. Malden, Massachusetts: Wiley-Blackwell. 
+* Angelique Haugerud, No Billionaire Left Behind: Satirical Activism in America, Stanford University Press, 2013. 
+* 
+* James M. Jasper. 1997. The Art of Moral Protest: Culture, Biography, and Creativity in Social Movements. Chicago: University of Chicago Press. 
+* James M. Jasper. 2014. Protest: A Cultural Introduction to Social Movements. Polity Press.
+* 
+* Diana Kendall, Sociology In Our Times, Thomson Wadsworth, 2005. 
+* William Kornhauser. 1959. The Politics of Mass Society. New York: Free Press. 
+* Donna Maurer. 2002. Vegetarianism: Movement or Moment? Philadelphia: Temple University Press. 
+* Armand L. Mauss. 1975. Social Problems of Social Movements. Philadelphia: Lippincott.
+* Denton E. Morrison. 1978. "Some Notes toward Theory on Relative Deprivation, Social Movements, and Social Change." In Louis E. Genevie, ed., Collective Behavior and Social Movements. Itasca, Ill.: Peacock. pp.&nbsp;202–209.
+* 
+* Immanuel Ness, ed. Encyclopedia of American Social Movements, 2004. .
+* urltoken Jeff Pugh. 2008. "Vectors of Contestation: Social Movements and Party Systems in Ecuador and Colombia." Latin American Essays XXI: 46-65.
+* Adam Roberts and Timothy Garton Ash (eds.), Civil Resistance and Power Politics: The Experience of Non-violent Action from Gandhi to the Present, Oxford: Oxford University Press, 2009. . urltoken 
+* 
+* Neil J. Smelser. 1962. Theory of Collective Behavior. New York: Free Press. 
+* David Snow, Sarah A. Soule and Hanspeter Kriesi, ed. Blackwell Companion to Social Movements, Blackwell, 2004.
+* Suzanne Staggenborg, Social Movements, Oxford University Press, 2008. 
+* Sidney Tarrow, Power in Movement: Collective Action, Social Movements and Politics, Cambridge University Press, 1994. 
+* 
+* Charles Tilly, 1978. From Mobilization to Revolution. Reading, Massachusetts: Addison-Wesley, 1978.
+* Charles Tilly, Social Movements, 1768–2004, Boulder, CO, Paradigm Publishers, 2004 262 pp.&nbsp; (hardback) / (paperback)
+* Leonard Weinberg, 2013. Democracy and Terrorism. New York: Routledge, 2013.
+* Quintan Wiktorowicz, Islamic Activism: A Social Movement Theory Approach, Bloomington: Indiana University Press, 2004.
+* Marco G. Giugni, How Social Movements Matter, University of Minnesota Press, 1999, 
+* Rod Bantjes, Social Movements in a Global Context, CSPI, 2007, 
+* Michael Barker, Conform or Reform? Social Movements and the Mass Media, Fifth-Estate-Online - International Journal of Radical Mass Media Criticism. February 2007. urltoken Fifth-estate-online.co.uk
+* Dennis Chong, "Collective Action and the Civil Rights Movement", University of Chicago Press, 1991, 
+==External links==
+* urltoken Mobilization - journal
+* urltoken Interface: a Journal For and About Social Movements
+
+A social movement is a loosely organized effort by a large group of people to achieve a particular goal, typically a social or political one.<ref></ref><ref></ref> had proposed to the students of the student movement to start their own organization. This becomes known as the SNCC, the student nonviolent coordinating committee (1960s). The students could have join forces with the SCLC,<ref></ref> an already existing organization, but that would have been a poor bureaucratizing decision, as they would succumb to old ideologies. New and progressive ideas that challenge prior authority are crucial to social change.
+The declining of a social movement does not necessarily mean failure. There are multiple routes in which a movement may take before proceeding into decline. Success of a movement would result in permanent changes within the society and/or government that would result in a loss of need for protest. Failure is often the result of the incapability to keep a common focus, and work towards the goal in mind. "Failure of social movements due to organizational or strategic failings is common for many organizations.<ref></ref>" Such a route would result in the gradual breaking up of an organization, and out of the stages of movement. Co-optation results when people or groups are integrated and shift away from the social movement's initial concerns and values. Repression is another example, when the movement is slowly wiped away from the public platform through means of an outside force, usually being the government. The last route into declining is going mainstream, which is generally perceived as an overall success. This is when goals of the movement are taken into society as a part of daily life, making it a 'social norm.' For example, birth control is still a greatly debated topic on a government level, but it has been accepted into social life as a common thing that exists.
+It is important to recognize that though movements may disintegrate and cease to be active, the impact that they have in the social realm is success in its own way. It sparks the notion in new generations that the possibility to organize and make change is there.

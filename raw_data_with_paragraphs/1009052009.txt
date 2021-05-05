@@ -1,0 +1,147 @@
+Londonderry Air
+
+==History==
+The title of the air came from the name of County Londonderry, and was collected by Jane Ross of Limavady in the county.
+Ross submitted the tune to music collector George Petrie, and it was then published by the Society for the Preservation and Publication of the Melodies of Ireland in the 1855 book The Ancient Music of Ireland, which Petrie edited.<ref name=Robinson></ref> The tune was listed as an anonymous air, with a note attributing its collection to Jane Ross of Limavady.
+<blockquote>For the following beautiful air I have to express my very grateful acknowledgement to Miss J. Ross, of New Town, Limavady, in the County of Londonderry—a lady who has made a large collection of the popular unpublished melodies of the county, which she has very kindly placed at my disposal, and which has added very considerably to the stock of tunes which I had previously acquired from that still very Irish county. I say still very Irish, for though it has been planted for more than two centuries by English and Scottish settlers, the old Irish race still forms the great majority of its peasant inhabitants; and there are few, if any counties in which, with less foreign admixture, the ancient melodies of the country have been so extensively preserved. The name of the tune unfortunately was not ascertained by Miss Ross, who sent it to me with the simple remark that it was 'very old', in the correctness of which statement I have no hesitation in expressing my perfect concurrence.<ref></ref></blockquote>
+This led to the descriptive title "Londonderry Air" being used for the piece.
+The origin of the tune was for a long time somewhat mysterious, as no other collector of folk tunes encountered it, and all known examples are descended from Ross's submission to Petrie's collection. In a 1934 article, Anne Geddes Gilchrist suggested that the performer whose tune Ross heard, played the song with extreme rubato, causing Ross to mistake the time signature of the piece for common time (4/4) rather than 3/4. Gilchrist asserted that adjusting the rhythm of the piece as she proposed produced a tune more typical of Irish folk music.<ref></ref>
+In 1974, Hugh Shields found a long-forgotten traditional song which was very similar to Gilchrist's modified version of the melody.<ref></ref> The song, "Aislean an Oigfear" (recte "Aisling an Óigfhir", "The Young Man's Dream"), had been transcribed by Edward Bunting in 1792 based on a performance by harper Donnchadh Ó Hámsaigh (Denis Hempson) at the Belfast Harp Festival, and the tune would later become well known far outside of Ireland as The Last Rose of Summer. Bunting published it in 1796.<ref></ref> Ó Hámsaigh lived in Magilligan, not far from Ross's home in Limavady. Hempson died in 1807.<ref name=Robinson/> In 2000, Brian Audley published his authoritative research on the tune's origins. He showed how the distinctive high section of the tune had derived from a refrain in "The Young Man's Dream" which, over time, crept into the body of the music. He also discovered the original words to the tune as we now know it, which were written by Edward Fitzsimmons and published in 1814; his song is "The Confession of Devorgilla", otherwise known by its first line "Oh Shrive Me Father".<ref name="audley"></ref>
+The descendants of blind fiddler Jimmy McCurry assert that he is the musician from whom Miss Ross transcribed the tune but there is no historical evidence to support this speculation. A similar claim has been made regarding the tune's 'coming' to the blind itinerant harpist Rory Dall O'Cahan in a dream. A documentary detailing this version was broadcast on Maryland Public Television in the United States in March 2000;<ref name="maryland"> urltoken Maryland Public Television-5 March 2000 </ref> reference to this was also made by historian John Hamilton in Michael Portillo's TV programme "Great British Railway Journeys Goes to Ireland" in February 2012.<ref>"Great British Railway Journeys Goes to Ireland – Ballymoney to Londonderry", Series 3, Episode 25, 3 February 2012, BBC Two</ref>
+== Music score ==
+<score lang="lilypond">\new Staff \relative d'</score>
+==Lyrical settings==
+===Danny Boy===
+The most popular lyrics for the tune are "Danny Boy" ("Oh Danny Boy, the pipes, the pipes are calling"), written by English lawyer Frederic Weatherly in 1910, and set to the tune in 1913.
+===The Confession of Devorgilla===
+The first lyrics to be sung to the music were, "The Confession of Devorgilla", otherwise known as "Oh! shrive me, father".
+:'Oh! shrive me, father – haste, haste, and shrive me,
+:'Ere sets yon dread and flaring sun;
+:'Its beams of peace, – nay, of sense, deprive me,
+:'Since yet the holy work's undone.'
+:The sage, the wand'rer's anguish balming,
+:Soothed her heart to rest once more;
+:And pardon's promise torture calming,
+:The Pilgrim told her sorrows o'er.
+:
+The first writer, after Petrie's publication, to set verses to the tune was Alfred Perceval Graves, in the late 1870s. His song was entitled "Would I Were Erin's Apple Blossom o'er You". Graves later stated "that setting was, to my mind, too much in the style of church music, and was not, I believe, a success in consequence."<ref name="audley"/>
+:Would I were Erin's apple-blossom o'er you,
+:Or Erin's rose, in all its beauty blown,
+:To drop my richest petals down before you,
+:Within the garden where you walk alone;
+:In hope you'd turn and pluck a little posy,
+:With loving fingers through my foliage pressed,
+:And kiss it close and set it blushing rosy
+:To sigh out all its sweetness on your breast.
+===Irish Love Song===
+The tune was first called "Londonderry Air" in 1894 when Katherine Tynan Hinkson set the words of her "Irish Love Song" to it:
+:Would God I were the tender apple blossom
+:That floats and falls from off the twisted bough
+:To lie and faint within your silken bosom
+:Within your silken bosom as that does now.
+:Or would I were a little burnish'd apple
+:For you to pluck me, gliding by so cold,
+:While sun and shade your robe of lawn will dapple,
+:Your robe of lawn and your hair of spun gold.
+===Hymns===
+As with a good many folk music, Londonderry Air is also used as a hymn tune; most notably for "I cannot tell" by William Young Fullerton.<ref></ref>
+:I cannot tell why He Whom angels worship,
+:Should set His love upon the sons of men,
+:Or why, as Shepherd, He should seek the wanderers,
+:To bring them back, they know not how or when.
+:But this I know, that He was born of Mary
+:When Bethlehem’s manger was His only home,
+:And that He lived at Nazareth and laboured,
+:And so the Saviour, Saviour of the world is come.
+It was also used as a setting for "I would be true" by Howard Arnold Walter at the funeral of Diana, Princess of Wales:
+:I would be true, for there are those that trust me.
+:I would be pure, for there are those that care.
+:I would be strong, for there is much to suffer.
+:I would be brave, for there is much to dare.
+:I would be friend of all, the foe, the friendless.
+:I would be giving, and forget the gift,
+:I would be humble, for I know my weakness,
+:I would look up, and laugh, and love and live.
+"Londonderry Air" was also used as the tune for the southern gospel hit "He Looked Beyond My Fault", written by Dottie Rambo and first recorded by her group, The Rambos, in 1968.<ref></ref>
+Other hymns sung to this are:
+*"O Christ the same through all our story’s pages" – Timothy Dudley-Smith
+*"O Dreamer Leave Thy Dreams For Joyful Waking"
+*"I Love Thee So"
+*"My Own Dear Land"
+*"We Shall Go Out With Hope of Resurrection"
+*"Above the Hills of Time the Cross Is Gleaming"
+*"Lord of the Church, We Pray for our Renewing" – Timothy Dudley-Smith
+*"Above the Voices of the World Around Me"
+*"What Grace is Mine" – Kristyn Getty
+*"O Son of Man our hero strong and tender"
+*"Since Long Ago" – Watchman Nee
+*"O Loving God" – Paulette M. McCoy
+===In Derry Vale===
+W. G. Rothery, a British lyricist (1858-1930) who wrote the English lyrics for songs such as Handel's "Art Thou Troubled", wrote the following lyrics to the tune of "The Londonderry Air":
+:In Derry Vale, beside the singing river,
+:so oft' I strayed, ah, many years ago,
+:and culled at morn the golden daffodillies
+:that came with spring to set the world aglow.
+:Oh, Derry Vale, my thoughts are ever turning
+:to your broad stream and fairy-circled lee.
+:For your green isles my exiled heart is yearning,
+:so far away across the sea.
+:In Derry Vale, amid the Foyle's dark waters,
+:the salmon leap, beside the surging weir.
+:The seabirds call, I still can hear them calling
+:in night's long dreams of those so dear.
+:Oh, tarrying years, fly faster, ever faster,
+:I long to see that vale belov'd so well,
+:I long to know that I am not forgotten,
+:And there in home in peace to dwell.
+===Far Away===
+George Sigerson wrote a poem that T. R. G. Jozé set to this tune in 1901. This setting was popularized in the early 20th century by the Glasgow Orpheus Choir under Sir Hugh S. Roberton.
+:As chimes that flow o'er shining seas
+:When morn alights on meads of May,
+:Faint voices fill the western breeze,
+:With whisp'ring song from far away.
+:O dear the dells of Dunavore
+:A home in od'rous Ossory,
+:But sweet as honey running o'er,
+:The golden shore of Far Away.
+:There sings the voice whose wondrous tune
+:Falls like a diamond shower above,
+:That in the radiant dawn of June,
+:Renew a world of youth and love.
+:Oh fair the founts of Farranfore
+:And bright is billowy Ballintrae,
+:But sweet as honey running o'er,
+:The golden shore of Far Away.
+===Other===
+* The tune is used by Alfred Perceval Graves for Emer's Farewell to Cuchullain.
+* The melody is given by Julian May as the anthem of the Tanu and Firvulag in her Saga of Pliocene Exile science fiction series.
+* The song has been adapted into "You Raise Me Up" by Secret Garden, and also Ne Viens Pas by Roch Voisine.
+* The melody was used to words in Irish and sung by the Bunratty Castle chorus during the 1970s. The title used was "Maidín i mBéara". The words are from a poem of the same title by Irish poet and scholar Osborn Bergin (ó hAimheirgin)(1872–1950).
+* A 1938 film, The Londonderry Air, features the song.
+* A. P. Herbert's poem "Let Us Be Glad", written for the conclusion of the 1948 Summer Olympics, and sung at the end of the event, used the melody.<ref>Hampton, Janie (2008). The Austerity Olympics. Aurum Press.</ref>
+* The 2007 computer game BioShock features the song "Danny Boy", in a 1950s recording by Mario Lanza.
+* An arrangement of the song has also been used in the anime short Cross Road by Akifumi Tada with lyrics in Japanese by Makoto Shinkai and Nagi Yanagi as the singer.<ref></ref>
+* Belgian singer Helmut Lotti featured the song on his 1998 album Helmut Lotti goes classic, Final Edition under the title "Air from County Derry" to his own lyrics.
+* The song was arranged by a Japanese composer Satoshi Takebe with lyrics in Japanese by a Japanese female singer Minami Kizuki in 2009. The title of the arrnged song is ""紅(Kurenai)" and sung by Minami Kizuki. Minami Kizuki is attracted by music of Ireland.She wrote a university graduation thesis on the similarities between music of Ireland and Amami Islands.<ref></ref>Amami Islands is located in the southwestpart of Japan, where she was born and raised.
+* The melody was arranged for the Chinese movie "The Eight Hundred" in 2020, with new lyrics written and titled "Suzhou River."
+==Instrumental settings==
+* Frank Bridge used the melody as basis for his An Irish Melody, H.86 for string quartet (1908) or string orchestra (1938).<ref></ref>
+* American composer Frank Duarte used the air in the trio of his march, The Valiant Green Company for military band.<ref></ref>
+* Australian composer Percy Grainger wrote numerous settings, which he called "Irish Tune from County Derry", in his British Folk-Music Settings.<ref></ref>
+* Charles Villiers Stanford included the melody in his Irish Rhapsody No. 1 for orchestra.
+* Lionel Tertis arranged the tune for viola or violin and piano as Londonderry Air "Farewell to Cucullain".
+* Ernest Walker arranged the tune for violin and piano (Op. 59) in 1935.
+* Ben Johnston (composer) used the melody in the 4th movement ("Sprightly, not too fast") of his String Quartet No. 10
+* Don Byas recorded an arrangement of the tune, retitled "London-Donnie", originally featured on the album 'Free And Easy' (Savoy Records MG 6044)
+==See also==
+* O'Cahan
+* Radio 4 UK Theme
+==References==
+==External links==
+* urltoken The Londonderry Air: facts and fiction – by Brian Audley
+* urltoken The melody as a MIDI file
+===Audio clips===
+* urltoken Arrangement with comical lyrics for orchestra and solo baritone, performed by Kieran of the Potato Hermits, 2010
+*Aislean an oigfear
+
+The "Londonderry Air" is an Irish air that originated in County Londonderry, Ireland. It is popular among the American Irish diaspora and is well known throughout the world. The tune is played as the victory sporting anthem of Northern Ireland at the Commonwealth Games. The song "Danny Boy" uses the tune, with a set of lyrics written in the early 20th century.

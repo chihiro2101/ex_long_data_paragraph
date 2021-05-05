@@ -1,0 +1,53 @@
+Caesura
+
+==Poetry==
+In classical Greek and Latin poetry a caesura is the juncture where one word ends and the following word begins within a foot. In contrast, a word juncture at the end of a foot is called a diaeresis. Some caesurae are expected and represent a point of articulation between two phrases or clauses. All other caesurae are only potentially places of articulation. The opposite of an obligatory caesura is a bridge where word juncture is not permitted.
+In modern European poetry, a caesura is defined as a natural phrase end, especially when occurring in the middle of a line. A follows a stressed syllable while a follows an unstressed syllable. A caesura is also described by its position in a line of poetry: a caesura close to the beginning of a line is called an initial caesura, one in the middle of a line is medial, and one near the end of a line is terminal. Initial and terminal caesurae are rare in formal, Romance, and Neoclassical verse, which prefer medial caesurae.
+===Mark===
+In verse scansion, the modern caesura mark is a double vertical bar ⟨⟩ or ⟨<math>\|</math>⟩, a variant of the single-bar ("twig") used as a caesura mark in medieval manuscripts.<ref name=verg>.</ref> The same mark separately developed as the virgule, the single slash used to mark line breaks in poetry.<ref name=verg/>
+===Examples===
+====Homer====
+Caesurae were widely used in Greek poetry. For example, in the opening line of the Iliad:
+:μῆνιν ἄειδε θεὰ || Πηληϊάδεω Ἀχιλῆος
+:("Sing, o goddess || the rage of Achilles, the son of Peleus.")
+This line includes a masculine caesura after θεὰ, a natural break that separates the line into two logical parts. Unlike the tragedians in their hexameters, Homeric lines more commonly employ feminine caesurae; this preference is observed to an even higher degree among the Alexandrian poets.<ref></ref>
+====Latin====
+Caesurae were widely used in Latin poetry, for example, in the opening line of Virgil's Aeneid:
+:Arma virumque cano || Troiae qui primus ab oris
+:(Of arms and the man, I sing. || Who first from the shores of Troy.)
+This line uses caesura in the medial position. In dactylic hexameter, a caesura occurs any time the ending of a word does not coincide with the beginning or the end of a metrical foot; in modern prosody, however, it is only called one when the ending also coincides with an audible pause in the line.
+The ancient elegiac couplet form of the Greeks and Romans contained a line of dactylic hexameter followed by a line of pentameter. The pentameter often displayed a clearer caesura, as in this example from Propertius:
+:Cynthia prima fuit; || Cynthia finis erit.
+:(Cynthia was the first; Cynthia will be the last)
+====Old English====
+In Old English, the caesura has come to represent a pronounced pause in order to emphasize lines in Old English poetry that would otherwise be considered to be a droning, monotonous line.<ref>Bergman, Bennet. "Caesura." LitCharts LLC, May 5, 2017. Retrieved May 17, 2018. urltoken This makes the caesura arguably more important to the Old English verse than it was to Latin or Greek poetry. In Latin or Greek poetry, the caesura could be suppressed for effect in any line. In the alliterative verse that is shared by most of the oldest Germanic languages, the caesura is an ever-present and necessary part of the verse form itself. The opening line of Beowulf reads:
+:Hwæt! We Gardena || in gear-dagum,
+:þeodcyninga, || þrym gefrunon,
+:hu ða æþelingas || ellen fremedon.
+:(Behold! The Spear-Danes in days gone by,)
+:(and the kings who ruled them had courage and greatness,)
+:(We have heard of these princes' heroic campaigns.)
+The basic form is accentual verse, with four stresses per line separated by a caesura. Old English poetry added alliteration and other devices to this basic pattern.
+====Middle English====
+William Langland's Piers Ploughman:
+:I loked on my left half || as þe lady me taughte
+:And was war of a woman || worþeli ycloþed.
+:(I looked on my left half / as the lady me taught)
+:(and was aware of a woman / worthily clothed.)
+==== Kabir (Sant Kabir Das) ====
+One of the widely used examples of caesurae in Indian poetry was in the 'dohas' or couplet poems of Kabir, a 15th-century poet who was central to the Bhakti movement in Hinduism.<ref></ref> An example of his doha or couplet:
+====Other examples====
+Caesurae can occur in later forms of verse, where they are usually optional. The so-called ballad meter, or the common meter of the hymnodists (see also hymn), is usually thought of as a line of iambic tetrameter followed by a line of trimeter, but it can also be considered a line of heptameter with a fixed caesura at the fourth foot.
+Considering the break as a caesura in these verse forms, rather than a beginning of a new line, explains how sometimes multiple caesurae can be found in this verse form (from the ballad, Tom o' Bedlam):
+:From the hag and hungry goblin || that into rags would rend ye,
+:And the spirits that stand || by the naked man || in the Book of Moons, defend ye!
+In later and freer verse forms, the caesura is optional. It can, however, be used for rhetorical effect, as in Alexander Pope's line:
+:To err is human; || to forgive, divine.
+====Polish====
+Caesura is very important in Polish syllabic verse (as in French alexandrine).<ref>See Summary in: Lucylla Pszczołowska, Wiersz polski. Zarys historyczny, Wrocław 1997, p. 398.</ref> Every line longer than eight syllables is divided into two half-lines.<ref>Wiktor Jarosław Darasz, Mały przewodnik po wierszu polskim, Kraków 2003, p. 14 (In Polish).</ref> Lines composed of the same number of syllables with division in different place are considered to be completely different metrical patterns. For example, Polish alexandrine (13) is almost always divided 7+6. It has been very common in Polish poetry for last five centuries. But the metre 13(8+5) occurs only rarely and 13(6+7) can be hardly found. In Polish accentual-syllabic verse caesura is not so important but iambic tetrametre (very popular today) is usually 9(5+4).<ref>Lucylla Pszczołowska, o.c., p. 401.</ref> Caesura in Polish syllabic verse is almost always feminine, while in accentual-syllabic (especially iambic) verse it is often masculine: sSsSsSsS//sSsSsSsSs. There are also metrical patterns with two or three caesuras, for example 189(5+4)+9(5+4).<ref>Wiktor Jarosław Darasz, o.c., p. 73-74.</ref>
+== Music ==
+In music, a caesura denotes a brief, rest (music), during which meter (music) is not counted. Similar to a silent fermata, caesurae are located between notes or measures (before or over bar lines), rather than on notes or rests (as with a fermata). A fermata may be placed over a caesura to indicate a longer pause.
+In musical notation, a caesura is marked by double oblique lines, similar to a pair of slashes . The symbol is popularly called "tram-lines" in the UK and "railroad tracks" or "train tracks" in the US.
+
+thumb
+A caesura , . caesuras or caesurae; Latin for "cutting"), also written cæsura and cesura, is a metrical pause or break in a verse where one phrase ends and another phrase begins. It may be expressed by a comma (,), a tick (✓), or two lines, either slashed (//) or upright (||). In time value, this break may vary between the slightest perception of silence all the way up to a full Pausa.<ref>Spreadbury, Daniel; Eastwood, Michael; Finn, Ben; and Finn, Jonathan (March 2008). "Sibelius 5 Reference", p.150. Edition 5.2. "The comma also indicates a short silence on instruments like the piano, which can't literally breath."</ref> The length of a caesura where notated is at the discretion of the conductor.

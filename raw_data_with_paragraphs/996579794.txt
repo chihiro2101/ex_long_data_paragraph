@@ -1,0 +1,53 @@
+William Hyde Wollaston
+
+==Life==
+He was born in East Dereham in Norfolk, the son of the Francis Wollaston (1737–1815), a noted amateur astronomer, and his wife Althea Hyde. He was one of 17 children, but the family was financially well-off and he enjoyed an intellectually stimulating environment. He was educated privately (and remotely) at Charterhouse School from 1774 to 1778 then studied Sciences at Gonville and Caius College, Cambridge. In 1793 he obtained his doctorate (MD) in medicine from Cambridge University, and was a Fellow of his college from 1787 to 1828.<ref name="eb"/>
+He worked as a physician in Huntingdon from 1789 then moved to Bury St Edmunds<ref></ref> before moving to London in 1797.<ref name="eb"/> During his studies, Wollaston had become interested in chemistry, crystallography, metallurgy and physics. In 1800, after he had received a large sum of money from one of his older brothers, he left medicine. He concentrated on pursuing his interests in chemistry and other subjects outside his trained vocation.
+He was elected a Fellow of the Royal Society in 1793, where he became an influential member. He served as its president in 1820.<ref name="eb"/> In 1822 he was elected a Foreign Honorary Member of the American Academy of Arts and Sciences.<ref name=AAAS></ref>
+Wollaston never married. He died in London in 1828 and was buried with his father<ref> urltoken in St Nicholas's Churchyard in Chislehurst, England.<ref name="eb"/><ref name="DNB"/>
+==Work==
+After having established a partnership with Smithson Tennant in 1800 in order to produce and sell chemical products, Wollaston became wealthy by developing the first physico-chemical method for processing platinum ore in practical quantities. He held the details of the process secret until near his death and made huge profits for about 20 years by being the only supplier in England of the product which had many of the same qualities as gold, but was much cheaper.<ref name="eb"/>
+Chemical analysis related to the process of purifying platinum led Wollaston to discover the elements palladium (symbol Pd) in 1802 and rhodium (symbol Rh) in 1804.<ref name="eb"/>
+Anders Gustav Ekeberg discovered tantalum in 1802; however, Wollaston declared it was identical with niobium (then known as columbium). Later Heinrich Rose proved in 1846 that columbium and tantalum were indeed different elements and he renamed columbium "niobium". (Niobium and tantalum, being in the same periodic group, are chemically similar.)
+The mineral wollastonite was later named after Wollaston for his contributions to crystallography and mineral analysis.<ref name="eb"/>
+Wollaston also performed important work in electricity. In 1801, he performed an experiment showing that the electricity from friction was identical to that produced by voltaic piles.<ref>From "Telegraphic journal: a weekly record of electrical and scientific progress" (1864, Truscott, Son & Simmons): Dr. Wollaston, in 1801, used ordinary friction electricity to decompose water by means of his guarded poles. . he was thus able to transmit the power of the electrical machine as a continuous current.</ref> During the last years of his life he performed electrical experiments, which resulted in his accidental discovery of electromagnetic induction 10 years prior to Michael Faraday, preceding the eventual design of the electric motor: Faraday constructed the first working electric motor and published his results without acknowledging Wollaston's previous work. Wollaston's demonstration of a motor to the Royal Society had failed, however, but nonetheless his prior work was acknowledged by Humphry Davy in the same paper which lauded Faraday's "ingenious" experiments.<ref></ref> Wollaston also invented a battery that allowed the zinc plates in the battery to be raised out of the acid, so that the zinc would not be dissolved as quickly as it would if it were in the battery all the time.
+His optical work was important as well, where he is remembered for his observations of dark gaps in the solar spectrum (1802),<ref>William Hyde Wollaston (1802) urltoken "A method of examining refractive and dispersive powers, by prismatic reflection," Philosophical Transactions of the Royal Society, 92: 365–380; see especially p. 378.</ref><ref name="OpenStaxAstronomy-5.3"> OpenStax Astronomy, "Spectroscopy in Astronomy". OpenStax CNX. Sep 29, 2016 urltoken a key event in the history of spectroscopy. He invented the camera lucida (1807) which contained the Wollaston prism (the four-sided optics of which were first described basically by Kepler)<ref></ref> and the reflecting goniometer (1809). He also developed the first lens specifically for camera lens, called the meniscus lens, in 1812. The lens was designed to improve the image projected by the camera obscura. By changing the shape of the lens, Wollaston was able to project a flatter image, eliminating much of the distortion that was a problem with many of that day's biconvex lenses.
+Wollaston also devised a cryophorus, "a glass container containing liquid water and water vapor. It is used in physics courses to demonstrate rapid freezing by evaporation."<ref></ref> He used his Bakerian lecture in 1805, On the Force of Percussion, to defend Gottfried Leibniz's principle of vis viva, an early formulation of the conservation of energy.
+Wollaston's attempt to demonstrate the presence of glucose in the blood serum of diabetics was unsuccessful due to the limited means of detection available to him. His 1811 paper "On the non-existence of sugar in the blood of persons labouring under diabetes mellitus"<ref></ref> concluded that sugar must travel via lymphatic channels from the stomach directly to the kidneys, without entering the bloodstream. Wollaston supported this theory by referring to the thesis of a young medical student at Edinburgh, named Charles Darwin, titled, "Experiments establishing a criterion between mucaginous and purulent matter. And an account of the retrograde motions of the absorbent vessels of animal bodies in some diseases."<ref></ref> The medical student was the uncle of the more famous Charles Robert Darwin.
+Wollaston prophetically foretold that if once an accurate knowledge were gained of the relative weights of elementary atoms, philosophers would not rest satisfied with the determination of mere numbers, but would have to gain a geometrical conception of how the elementary particles were placed in space. Jacobus Henricus van 't Hoff's La Chimie dans l'Espace was the first practical realisation of this prophecy.<ref>John Theodore Merz, A History of European Thought in the Nineteenth Century (1903) Vol. 1</ref>
+Wollaston was part of a royal commission that recommended adoption of the imperial gallon in 1814. He served on the government's Board of Longitude between 1818 and 1828<ref name="eb"/> and was part of royal commission that opposed adoption of the metric system (1819).<ref></ref>
+Wollaston was too ill to deliver his final Bakerian lecture in 1828 and dictated it to Henry Warburton who read it on 20 November.
+==Honours and awards==
+;Honours and awards
+* Fellow of the Royal Society, 1793.
+** Secretary, 1804–1816.
+** President, briefly in 1820.
+** Vice-president, 1820–1828
+** Copley Medal, 1802
+** Royal Medal, 1828.
+** Croonian lecture, 1809
+** Bakerian Lecture, 1802, 1805, 1812, 1828
+* Member of the Royal Swedish Academy of Sciences, 1813.
+==Legacy==
+The following have been named in his honour:
+* Wollaston Medal<ref name="DNB"></ref>
+** List of Wollaston Medal recipients
+* Wollaston, a lunar impact crater<ref></ref>
+* Wollaston Lake, Saskatchewan, Canada a 2,681 square kilometre (1,035 sq mi) freshwater lake<ref></ref>
+* Wollaston Islands, Chile are named for him<ref></ref>
+* Wollaston Foreland, NE Greenland.<ref name="cat"></ref>
+* Wollaston Peninsula, Canada.<ref name="bartleby"></ref>
+* Wollastonite, a chain silicate mineral<ref></ref>
+* Wollaston wire, extremely fine platinum wire<ref></ref>
+It has been mentioned that Wollaston has not received the renown which should complement his historical standing in world of science: his contemporaries Thomas Young, Humphry Davy and John Dalton have become far better-known. 
+Different reasons for this have been suggested, including that Wollaston himself was not systematic or conventional in presenting his discoveries, even publishing anonymously (initially) in the case of Palladium. Also, and perhaps more importantly for his modern legacy, privately held papers of his were inaccessible, and that his notebooks went missing shortly after his death and remained so for over a century; these were finally collated in the late 1960s at Cambridge University and the first comprehensive biography was completed by Melvyn Usselman in 2015, after over 30 years' research.<ref></ref><ref></ref>
+== Publications ==
+* urltoken On the force of percussion, 1805
+* 
+==See also==
+* Coddington magnifier
+* Fraunhofer lines
+* Pyrognomic
+* History of electrochemistry
+
+William Hyde Wollaston ; 6 August 1766 – 22 December 1828) was an English chemist and physicist who is famous for discovering the chemical elements palladium and rhodium. He also developed a way to process platinum ore into malleable ingots.<ref name="eb">Melvyn C. Usselman: urltoken William Hyde Wollaston Encyclopædia Britannica, retrieved 31 March 2013</ref>

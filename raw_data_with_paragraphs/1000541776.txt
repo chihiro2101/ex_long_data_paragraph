@@ -1,0 +1,52 @@
+Gibbs free energy
+
+==Overview==
+ 
+According to the second law of thermodynamics, for systems reacting at standard conditions for temperature and pressure (or any other fixed temperature and pressure), there is a general natural tendency to achieve a minimum of the Gibbs free energy.
+A quantitative measure of the favorability of a given reaction at constant temperature and pressure is the change ΔG (sometimes written "delta G" or "dG") in Gibbs free energy that is (or would be) caused by the reaction. As a necessary condition for the reaction to occur at constant temperature and pressure, ΔG must be smaller than the non-pressure-volume (non-PV, e.g. electrical) work, which is often equal to zero (hence ΔG must be negative). ΔG equals the maximum amount of non-PV work that can be performed as a result of the chemical reaction for the case of reversible process. If analysis indicates a positive ΔG for a reaction, then energy — in the form of electrical or other non-PV work — would have to be added to the reacting system for ΔG to be smaller than the non-PV work and make it possible for the reaction to occur.<ref name="AtkinsJones2007"></ref>
+One can think of ∆G as the amount of "free" or "useful" energy available to do work. The equation can be also seen from the perspective of the system taken together with its surroundings (the rest of the universe). First, one assumes that the given reaction at constant temperature and pressure is the only one that is occurring. Then the entropy released or absorbed by the system equals the entropy that the environment must absorb or release, respectively. The reaction will only be allowed if the total entropy change of the universe is zero or positive. This is reflected in a negative ΔG, and the reaction is called an exergonic process.
+If two chemical reactions are coupled, then an otherwise endergonic reaction (one with positive ΔG) can be made to happen. The input of heat into an inherently endergonic reaction, such as the elimination of cyclohexanol to cyclohexene, can be seen as coupling an unfavourable reaction (elimination) to a favourable one (burning of coal or other provision of heat) such that the total entropy change of the universe is greater than or equal to zero, making the total Gibbs free energy difference of the coupled reactions negative.
+In traditional use, the term "free" was included in "Gibbs free energy" to mean "available in the form of useful work".<ref name="Perrot" /> The characterization becomes more precise if we add the qualification that it is the energy available for non-pressure-volume work.<ref></ref> (An analogous, but slightly different, meaning of "free" applies in conjunction with the Helmholtz free energy, for systems at constant temperature). However, an increasing number of books and journal articles do not include the attachment "free", referring to G as simply "Gibbs energy". This is the result of a 1988 IUPAC meeting to set unified terminologies for the international scientific community, in which the removal of the adjective "free" was recommended.<ref></ref><ref></ref><ref></ref> This standard, however, has not yet been universally adopted.
+==History==
+The quantity called "free energy" is a more advanced and accurate replacement for the outdated term affinity, which was used by chemists in the earlier years of physical chemistry to describe the force that caused chemical reactions.
+In 1873, Josiah Willard Gibbs published A Method of Geometrical Representation of the Thermodynamic Properties of Substances by Means of Surfaces, in which he sketched the principles of his new equation that was able to predict or estimate the tendencies of various natural processes to ensue when bodies or systems are brought into contact. By studying the interactions of homogeneous substances in contact, i.e., bodies composed of part solid, part liquid, and part vapor, and by using a three-dimensional volume-entropy-internal energy graph, Gibbs was able to determine three states of equilibrium, i.e., "necessarily stable", "neutral", and "unstable", and whether or not changes would ensue. Further, Gibbs stated:<ref name=Gibbs1873></ref>
+The standard Gibbs free energy of formation of a compound is the change of Gibbs free energy that accompanies the formation of 1 mole of that substance from its component elements, at their standard states (the most stable form of the element at 25&nbsp;°C and 100&nbsp;kPa). Its symbol is Δ<sub>f</sub>G˚.
+All elements in their standard states (diatomic oxygen gas, graphite, etc.) have standard Gibbs free energy change of formation equal to zero, as there is no change involved.
+: Δ<sub>f</sub>G = Δ<sub>f</sub>G˚ + RT ln Q<sub>f</sub>,
+where Q<sub>f</sub> is the reaction quotient.
+At equilibrium, Δ<sub>f</sub>G = 0, and Q<sub>f</sub> = K, so the equation becomes
+: Δ<sub>f</sub>G˚ = −RT ln K,
+where K is the equilibrium constant.
+==Graphical interpretation by Gibbs==
+Gibbs free energy was originally defined graphically. In 1873, American scientist Willard Gibbs published his first thermodynamics paper, "Graphical Methods in the Thermodynamics of Fluids", in which Gibbs used the two coordinates of the entropy and volume to represent the state of the body. In his second follow-up paper, "A Method of Geometrical Representation of the Thermodynamic Properties of Substances by Means of Surfaces", published later that year, Gibbs added in the third coordinate of the energy of the body, defined on three figures. In 1874, Scottish physicist James Clerk Maxwell used Gibbs' figures to make a 3D energy-entropy-volume thermodynamic surface of a fictitious water-like substance.<ref>James Clerk Maxwell, Elizabeth Garber, Stephen G. Brush, and C. W. Francis Everitt (1995), urltoken Maxwell on heat and statistical mechanics: on "avoiding all personal enquiries" of molecules, Lehigh University Press, , p. 248.</ref> Thus, in order to understand the concept of Gibbs free energy, it may help to understand its interpretation by Gibbs as section AB on his figure 3, and as Maxwell sculpted that section on his 3D surface figure.
+==See also==
+* Bioenergetics
+* Calphad (CALculation of PHAse Diagrams)
+* Critical point (thermodynamics)
+* Electron equivalent
+* Enthalpy-entropy compensation
+* Free entropy
+* Gibbs–Helmholtz equation
+* Grand potential
+* Non-random two-liquid model (NRTL model) – Gibbs energy of excess and mixing calculation and activity coeffients
+* Spinodal – Spinodal Curves (Hessian matrix)
+* Standard molar entropy 
+* Thermodynamic free energy
+* UNIQUAC model – Gibbs energy of excess and mixing calculation and activity coeffients
+==Notes and references==
+==External links==
+* urltoken IUPAC definition (Gibbs energy)
+* urltoken Gibbs free energy calculator
+* urltoken Gibbs energy – Florida State University
+* urltoken Gibbs Free Energy – Eric Weissteins World of Physics
+* urltoken Entropy and Gibbs Free Energy – www.2ndlaw.oxy.edu
+* urltoken Gibbs Free Energy – Georgia State University
+* urltoken Gibbs Free Energy Java Applet – University of California, Berkeley
+* urltoken Using Gibbs Free Energy for prediction of chemical driven material ageing
+* urltoken Topological Analysis of the Gibbs Energy Function (Liquid-Liquid Equilibrium Correlation Data). Including a Thermodinamic Review and a Graphical User Interface (GUI) for Surfaces/Tie-lines/Hessian matrix analysis – University of Alicante (Reyes-Labarta et al. 2015–18)
+
+In thermodynamics, the Gibbs free energy (or Gibbs energy) is a thermodynamic potential that can be used to calculate the maximum reversible work that may be performed by a thermodynamic system at a constant temperature and pressure. The Gibbs free energy measured in joules in SI) is the maximum amount of non-expansion work that can be extracted from a closed system (can exchange heat and work with its surroundings, but not matter). This maximum can be attained only in a completely reversible process. When a system transforms reversibly from an initial state to a final state, the decrease in Gibbs free energy equals the work done by the system to its surroundings, minus the work of the pressure forces.<ref name="Perrot" ></ref>
+The Gibbs energy (symbol <math>G</math>) is also the thermodynamic potential that is minimized when a system reaches chemical equilibrium at constant pressure and temperature. Its derivative with respect to the reaction coordinate of the system vanishes at the equilibrium point. As such, a reduction in <math>G</math> is necessary for a reaction to be spontaneous at constant pressure and temperature.
+The Gibbs free energy was originally called available energy, was developed in the 1870s by the American scientist Josiah Willard Gibbs. In 1873, Gibbs described this "available energy" as<ref name=Gibbs1873/>
+The initial state of the body, according to Gibbs, is supposed to be such that "the body can be made to pass from it to states of dissipated energy by reversible processes". In his 1876 Masterpiece On the Equilibrium of Heterogeneous Substances, a graphical analysis of multi-phase chemical systems, he engaged his thoughts on chemical-free energy in full.
+If the reactants and products are all in their thermodynamic standard states, then the defining equation is written as .

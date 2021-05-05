@@ -1,0 +1,171 @@
+Saturnian (poetry)
+
+==The Saturnian as quantitative==
+Most—but not all—Saturnians can be captured by the following scheme:
+Image:Qtv Saturnian.png
+* ∪ = light syllable
+* – = heavy syllable
+* ∪∪ = two light syllables that occupy the space of one heavy
+* || = caesura
+* ∪ over – (x at verse-end) = position can be occupied by either light or heavy syllable
+* ∪∪ over – over ∪ = position can be occupied by any of the three
+===Examples===
+Numeration of literary fragments is according to Warmington's edition; translations are also by Warmington (see bibliography infra). 
+(1) Livius Andronicus, Odissia fragment 1
+::Virum mihī Camēna īnsece versūtum
+:::∪ – ∪ – || ∪ – ∪ || – ∪ ∪ – – x
+:::'Tell me, O Goddess of song, of the clever man'
+(2) Naevius, Bellum Poenicum fragments 2–4
+::Postquam avem aspexit in templō Anchīsa
+::sacr(ā) in mēnsā Penātium ordine pōnuntur
+::immolābat auream victimam pulchram
+:::– ∪ ∪ ∪ || – – ∪ || – – – – – x
+:::∪ – – – || ∪ – (∪) – || – ∪ – – – x
+:::– ∪ – – || – ∪ – || – ∪ – – x
+:::'After Anchises had seen a bird within the range of view,
+:::hallowed offerings were set in a row on the table of the Household Gods;
+:::and he busied himself in sacrificing a beautiful golden victim.'
+(3) Epitaph for Lucius Cornelius Scipio Barbatus (c. 270–150 BC)
+::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GNAIVOD•PATRE
+::PROGNATVS•FORTIS•VIR•SAPIENSQVE—QVOIVS•FORMA•VIRTVTEI•PARISVMA
+::FVIT—CONSOL CENSOR•AIDILIS•QVEI•FVIT•APVD•VOS—TAVRASIA•CISAVNA
+::SAMNIO•CEPIT—SVBIGIT•OMNE•LOVCANA•OPSIDESQVE•ABDOVCIT
+:::In regularized orthography (note the punctuation on the stone, viz. — = verse-end):
+::::Gnaevō patre / prōgnātus, fortis vir sapiēnsque
+::::cuius fōrma virtūtī parissuma / fuit
+::::cōnsul, cēnsor, aedīlis quī fuit apud vōs
+::::Taurāsiam, Cisaunam, / Samnium cēpit
+::::subigit omnem Lūcānam, opsidēsque abdūcit.
+:::– – ∪ ∪ || – – – || – – – || ∪ ∪ – x
+:::– ∪* – ∪ || – – – || ∪ – ∪ ∪ ∪ x
+:::– – – ∪† || – – ∪* || – ∪ ∪† ∪ –** x
+:::– – ∪ – || ∪ – – || – ∪ – – x
+:::∪∪ ∪ – – || – – ∪ || – ∪ – ∪ || – – x
+::::<nowiki>*</nowiki> As in early Latin poetry, if not – as in later.
+::::<nowiki>**</nowiki> Some early Latin poetry treats this as ∪.
+::::† This syllable is historically –.
+:::'Sprung from Gnaeus his father, a man strong and wise,
+:::whose appearance was most in keeping with his virtue,
+:::who was consul, censor, and aedile among you,
+:::he captured Taurasia, Cisauna, Samnium,
+:::he subdued all Lucania and led off hostages.'
+==The Saturnian as accentual==
+W.M. Lindsay formalizes the accentual scheme of the Saturnian as follows:
+Image:Acct Saturnian.png
+* ´ = accented syllable
+* ∪ = unaccented
+Handbooks otherwise schematize the verse as 3+ || 2+ stresses. This theory assumes Classical Latin accentuation. However, there is reason to believe that the Old Latin accent may have played a role in the verse. Afterwards, Lindsay himself abandoned his theory.
+===Examples===
+Here are the same texts from above, scanned accentually.
+(4) Livius Andronicus, Odissia fragment 1
+::Virum mihī Camēna īnsece versūtum
+::´ ∪ ´ ∪ || ´ ∪ ∪ || ´ ∪ ∪ ´ ∪ ∪ (Old Latin)
+::´ ∪ ´ ∪ || ∪ ´ ∪ || ´ ∪ ∪ ∪ ´ ∪ (Classical Latin)
+(5) Naevius, Bellum Poenicum fragments 2–4
+::Postquam avem aspexit in templō Anchīsa
+::sacr(ā) in mēnsā Penātium ordine pōnuntur
+::immolābat auream victimam pulchram
+::(Old Latin)
+:::´ ∪ ´ ∪ || ´ ∪ ∪ || ∪ ´ ∪ ´ ∪ ∪
+:::´ ∪ ´ ∪ || ´ ∪ (∪) ∪ || ´ ∪ ∪ ´ ∪ ∪
+:::´ ∪ ` ∪ || ´ ∪ ∪ || ´ ∪ ∪ ´ ∪
+::(Classical Latin)
+:::´ ∪ ´ ∪ || ∪ ´ ∪ || ∪ ´ ∪ ∪ ´ ∪
+:::´ ∪ ´ ∪ || ∪ ´ (∪) ∪ || ´ ∪ ∪ ∪ ´ ∪
+:::` ∪ ´ ∪ || ´ ∪ ∪ || ´ ∪ ∪ ´ ∪
+(6) Epitaph of Lucius Cornelius Scipio Barbatus
+::::Gnaevō patre / prōgnātus, fortis vir sapiēnsque
+::::cuius fōrma virtūtī parissuma / fuit
+::::cōnsul, cēnsor, aedīlis quī fuit apud vōs
+::::Taurāsiam, Cisaunam, / Samnium cēpit
+::::subigit omnem Lūcānam, opsidēsque abdūcit.
+::(Old Latin)
+:::´ ∪ ´ ∪ || ´ ∪ ∪ || ´ ∪ ´ || ´ ∪ ` ∪
+:::´ ∪ ´ ∪ || ´ ∪ ∪ || ´ ∪ ∪ ∪ ´ ∪
+:::´ ∪ ´ ∪ || ´ ∪ ∪ || ´ ´ ∪ ´ ∪ ´
+:::´ ∪ ∪ ∪ || ´ ∪ ∪ || ´ ∪ ∪ ´ ∪
+::: ´ ∪ ∪ ´ ∪ || ´ ∪ ∪ || ´ ∪ ` ∪ || ´ ∪ ∪
+::(Classical Latin)
+:::´ ∪ ´ ∪ || ∪ ´ ∪ || ´ ∪ ´ || ` ∪ ´ ∪
+:::´ ∪ ´ ∪ || ∪ ´ ∪ || ∪ ´ ∪ ∪ ´ ∪
+:::´ ∪ ´ ∪ || ∪ ´ ∪ || ´ ´ ∪ ∪ ´ ∪
+:::∪ ´ ∪ ∪ || ∪ ´ ∪ || ´ ∪ ∪ ´ ∪
+:::´ ∪ ∪ ´ ∪ || ∪ ´ ∪ || ` ∪ ´ ∪ || ∪ ´ ∪
+==The Saturnian in non-Latin Italic==
+Despite the obscurity of the principles of Saturnian versification in Latin, scholars have nonetheless attempted to extend analysis to Italic languages related to Latin.
+(7) Faliscan (two nearly identical inscriptions on cups from Civita Castellana, 4th century BC)
+::FOIED•VINO•(PI)PAFO•CRA•CAREFO
+:::In Latin alphabet:
+::::foiēd vīnom (pi)pafō. crā(s) carēfō.
+:::– – – – (||) ∪ (∪) – || – ∪ – x (Quantitative)
+:::´ ∪ ´ ∪ (||) ´ (∪) ∪ || ´ ∪ ´ ∪ (Accentual)
+:::'Today, I shall drink wine. Tomorrow, I shall go without.'
+(8) Oscan (one of several similar inscriptions in Etruscoid script on vessels from Teano, 3rd century BC)
+::minis:beriis:anei:upsatuh:sent:tiianei*
+::::<nowiki>*</nowiki> Sabellian inscriptional texts in native orthography are conventionally transcribed in bold-face minuscule, and those in the Latin script italicized.
+:::In Latin orthography:
+::::Minis Beris ā(n)nei opsātō sent Teānei.
+:::(scansion of first three words uncertain) || – – – – || ∪ – x (Quantitative)
+:::´ ∪ ´ ∪ ´ ∪ || ∪ – ∪ – || ∪ – ∪ (Accentual)
+:::' (these) were made at Teanum in Minius Berius' (workshop?).' (meaning of anei uncertain)
+(9) Umbrian (inscription on a bronze plate from Plestia, 4th century BC)
+::cupras matres pletinas sacrụ esu**
+::::<nowiki>**</nowiki> In epigraphy, graphemes transcribed with an underdot are of uncertain reading, and restorations are enclosed in square brackets.
+:::In Latin orthography:
+::::Cuprās Mātris Plestīnās sacrum esum.
+:::∪ – – – || – – – || ∪ ∪ ∪ x (Quantitative)
+:::´ ∪ ´ ∪ || ∪ ´ ∪ || ´ ∪ ´ ∪ (Accentual)
+:::'I am a sacred object of Mother Cupra from Plestia.' (Cupra was a Sabine goddess)
+(10) Paelignian (final verse in an inscription on a stone from Corfinium, 1st century BC)
+::lifar dida vus deti hanustu herentas
+:::In Latin orthography:
+::::Līfar dida(t) vūs deti hanustō herentās.
+:::– – ∪ – || – (scansion of deti uncertain) || ∪ – – ∪ – x (Quantitative)
+:::´ ∪ ´ ∪ || ´ ´ ∪ || ∪ ´ ∪ ∪ ´ ∪ (Accentual)
+:::'May Liber grant you . (good?) will .' (meanings of deti and hanustu unknown)
+==Prehistory of the Saturnian==
+A large number of the verses have a 4 || 3 || 3 || 3 syllable count and division, which scholars have been inclined to take as underlying or ideal. This has permitted comparison with meters from related Indo-European poetic traditions outside Italic, such as Celtic, and a few scholars have tried to trace the verse back to Proto-Indo-European. John Vigorita derived the 4 || 3 || 5-6 syllable Saturnian from:
+Image:Vigorita PIE-Saturnian.png
+a Proto-Indo-European 7- or 8-syllable line combined with a shorter 5- or 6-syllable line, which is itself derivable from the octosyllable by undoing truncations (noted in metrical schemes by one or more ^'s, wherever in the meter the truncation has occurred).
+M.L. West schematized this subset of verses as:
+Image:West Saturnian.png
+which he then traces to two Proto-Indo-European octosyllables:
+Image:West PIE-Saturnian.png
+one giving the Saturnian's heptasyllabic half-line by acephaly (truncation of line-beginning), the other yielding the hexasyllabic colon both by acephaly and catalexis (truncation of line-end). Ultimately, owing to the difficulties of describing and analyzing the Saturnian without taking its history into account, attempts at reconstruction have not won acceptance.
+==References==
+In English, two collections of the texts are available. Warmington's Loeb contains Livius Andronicus and Naevius' Saturnians, among other poetry and poets, and Courtney's anthology with commentary includes the Scipionic epitaphs and other inscriptions. Regarding the meter, the standard quantitative treatment is still Cole. The details of the accentual approach are set out in Lindsay. A new proposal that draws from generative linguistics has recently been put forward by Parsons (currently under follow-up investigation by Angelo Mercado, whose analysis is available urltoken on line). No recent treatment of non-Latin Italic material is available in English; see Costa, Morelli, and Poccetti. Vigorita and West discuss the Saturnian and its prehistory in connection with the reconstruction of Proto-Indo-European meter. Goldberg's book is an excellent treatment of the development of Roman epic from Livius Andronicus to Ennius to Virgil. The standard edition of Ennius' Annales is that of Skutsch. See also Whitman for a comparative study of Old Latin and Old English meter (he argues for alliteration and accent as definitive for both).
+* Cole, Thomas. "The Saturnian Verse." Yale Classical Studies 21 (1969): 3–73.
+* Costa, Gabriele. Sulla preistoria della tradizione poetica italica On the Prehistory of the Italic Poetic Tradition. Florence: Olschki, 1998.
+* Courtney, Edward. MUSA LAPIDARIA: A Selection of Latin Verse Inscriptions. Atlanta, Georgia: Scholars Press, 1995.
+* Goldberg, Sander. Epic in Republican Rome. New York/Oxford: Oxford University Press, 1995.
+* Lindsay, W.M. urltoken "The Saturnian Metre. First Paper." American Journal of Philology 14.2 (1893): 139-170.
+* Lindsay, W.M. urltoken "The Saturnian Metre. Second Paper." American Journal of Philology 14.3 (1893): 305–334.
+* Morelli, Giuseppe. "Un antico saturnio popolare falisco" "An Ancient Popular Faliscan Saturnian". Archeologia Classica 25–26 (1973–74): 440–52.
+* Parsons, Jed. "A New Approach to the Saturnian Verse and Its Relation to Latin Prosody." Transactions of the American Philological Association 129 (1999): 117–137.
+* Poccetti, Paolo. "Elementi culturali negli epitafi poetici peligni. III: La struttura metrica" "Cultural Elements in the Paelignian Poetic Epitaphs. III: Metrical Structure". ΑΙΩΝ AIŌN 4 (1982): 213–36.
+* Poccetti, Paolo. "Eine Spur des saturnisches Verses im Oskischen" "A Trace of the Saturnian Verse in Oscan". Glotta 61 (1983): 207–17.
+* Skutsch, Otto, ed. The Annals of Quintus Ennius. Oxford: Clarendon Press, 1985.
+* Vigorita, John. Indo-European Comparative Metrics. Ph.D. Dissertation. University of California, Los Angeles, 1973.
+* Viredaz, Antoine. Fragmenta Saturnia Heroica - Édition critique, traduction et commentaire des fragments de l’Odyssée latine de Livius Andronicus et de la Guerre punique de Cn. Naevius. Basel: Schwabe Verlag, 2020. 
+* Warmington, E.H. Remains of Old Latin. Volume 2. Loeb Classical Library 314. Cambridge, Massachusetts: Harvard University Press, 1936.
+* West, M.L. "Indo-European Metre." Glotta 51 (1973): 161–187.
+* Whitman, F.H. A Comparative Study of Old English Metre (University of Toronto Press: Toronto, 1993).
+
+Image:Scipio-tomb.jpg|thumb|320px|The tomb of Lucius Cornelius Scipio Barbatus, erected around 150 BC, contains an Old Latin inscription in Saturnian meter.
+Saturnian meter or verse is an old Latin and Italic poetry form, of which the principles of versification have become obscure. Only 132 complete uncontroversial verses survive. 95 literary verses and partial fragments have been preserved as quotations in later grammatical writings, as well as 37 verses in funerary or dedicatory inscriptions. The majority of literary Saturnians come from the Odysseia (more commonly known as the Odissia or Odyssia), a translation/paraphrase of Homer's Odyssey by Livius Andronicus (c. 3rd century BC), and the Bellum Poenicum, an epic on the First Punic War by Gnaeus Naevius (c. 3rd century BC).
+The meter was moribund by the time of the literary verses and forgotten altogether by classical times, falling out of use with the adoption of the hexameter and other Greek verse forms. Quintus Ennius is the poet who is generally credited with introducing the Greek hexameter in Latin, and dramatic meters seem to have been well on their way to domestic adoption in the works of his approximate contemporary Plautus. These Greek verse forms were considered more sophisticated than the native tradition; Horace called the Saturnian horridus. Consequently, the poetry in this meter was not preserved. Cicero regretted the loss in his Brutus:
+:Atque utinam exstārent illa carmina, quae multīs saeclīs ante suam aetātem in epulīs esse cantitāta ā singulīs conuīuīs dē clārōrum uirōrum laudibus in Orīginibus scrīptum relīquit Catō.
+::'I heartily wish those venerable Odes were still extant, which Cato informs us in his Antiquities, used to be sung by every guest in his turn at the homely feasts of our ancestors, many ages before, to commemorate the feats of their heroes.'
+However, it has been noted that later poets like Ennius (by extension Virgil, who follows him in both time and technique) preserve something of the Saturnian aesthetic in hexameter verse. Ennius explicitly acknowledges Naevius' poem and skill (lines 206–7 and 208–9 in the edition of Skutsch, with translations by Goldberg):
+:. scrīpsēre aliī rem
+:vorsibus quōs ōlim Faunei vātesque canēbant
+::'. Others have given an account
+::in rhythms which the Fauns and seers sang.'
+:nam neque Mūsārum scopulōs ēscendit ad altōs
+:nec dictī studiōsus fuit Rōmānus homō ante hunc.
+::'For no Roman scaled the Muses' lofty crags
+::or was careful with his speech before this man.'
+Ancient grammarians sought to derive the verse from a Greek model, in which syllable weight or the arrangement of light and heavy syllables was the governing principle. Scholars today remain divided between two approaches:
+# The meter was quantitative (but not borrowed from Greek).
+# The meter was accentual or based on accented and unaccented syllables.
+Despite the division, there is some consensus regarding aspects of the verse's structure. A Saturnian line can be divided into two cola or half-lines, separated by a central caesura. The second colon is shorter than or as long as the first. Furthermore, in any half-line with seven or more syllables, the last three or four are preceded by word-end. This is known as Korsch's caesura or the caesura Korschiana, after its discoverer.

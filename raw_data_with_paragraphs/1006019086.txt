@@ -1,0 +1,215 @@
+Handley Page
+
+==History==
+Frederick Handley Page first experimented with and built several biplanes and monoplanes at premises in Woolwich, Fambridge and Barking Creek. His company, founded on 17 June 1909, became the first British public company to build aircraft.
+In 1912, Handley Page established an aircraft factory at Cricklewood after moving from Barking. Aircraft were built there, and flown from the company's adjacent airfield known as Cricklewood Aerodrome, which was later used by Handley Page Transport. The factory was later sold off to Oswald Stoll and converted into Britain's largest film studios, Cricklewood Studios.
+===World War I===
+During the First World War, Handley Page produced a series of heavy bombers for the Royal Navy to bomb the German Zeppelin yards, with the ultimate intent of bombing Berlin in revenge for the Zeppelin attacks on London. Handley Page had been asked by the Admiralty to produce a "bloody paralyser of an aeroplane". These aircraft included the O/100 of 1915, the O/400 of 1918 and the four-engined V/1500 with the range to reach Berlin. The V/1500 had only just entered operational service as the war ended in 1918.
+The Handley Page factory at Radlett Aerodrome employed women as part of the war effort, and was visited by royalty.<ref></ref>
+===Interwar period===
+In early 1919, a Handley Page V/1500 aircraft, dubbed Atlantic, was shipped to Newfoundland to attempt the world's first non-stop Transatlantic flight;<ref> urltoken Kaiser's Bunker</ref> only to be beaten by a Vickers Vimy piloted by Alcock and Brown in June of that year. The Atlantic flew into New York City via Canada on 9 October 1919, carrying the first airmail from Canada to the United States.<ref></ref>
+In the immediate postwar years, Handley Page modified a number of O/400's to passenger use, which they flew on the London-Paris route as Handley Page Transport. The V/1500 was considered too large to be practical at the time, but a number of design features of the V/1500 were later incorporated into an O/400 airframe to produce their first dedicated passenger design, the W.8 that led to a series of similar airliners, fitted with two or three engines, which, aside from being used by Handley Page Transport, were also exported to Belgium.
+In 1924 Handley Page Transport merged with two other airlines to create Imperial Airways, as the UK's national airline service, which continued to use a number of the W.8, W.9 and W.10 series of airliners. Handley Page continued to develop large biplane airliners, including the luxurious Handley Page H.P.42, for use on Imperial routes to Africa and India.
+Handley Page developed the Handley Page Slat (or slot), an auxiliary airfoil mounted ahead and above the wing, which formed a narrow gap which improved airflow at high angle of attack and improved low speed handling.<ref>F. Handley Page urltoken "Developments In Aircraft Design By The Use Of Slotted Wings" FLIGHT, 22 December 1921, page 844 and page 845</ref> The leading edge slat was simultaneously designed by the German aerodynamicist Gustav Lachmann, who was later employed by Handley Page. The design was so successful that licensing fees to other companies was their main source of income in the early 1920s.
+In 1929, Cricklewood Aerodrome was closed and Handley Page moved aircraft final assembly to Radlett Aerodrome. Cricklewood Aerodrome was taken over by Cricklewood Studios, the largest film studio in the UK at that time. Manufacture of aircraft parts and sub-assemblies continued until 1964 at Cricklewood when the remainder of the site was sold off and a Wickes home renovation store currently occupies the site.
+===World War II===
+With the Second World War looming, Handley Page designed and produced the HP.52 Hampden bomber, which took part in the first British raid on Berlin.
+In response to a 1936 government request for heavier, longer ranged aircraft, Handley Page tendered the HP.56 design powered by twin Rolls-Royce Vultures and this was ordered, along with what became the Avro Manchester. However the Vulture proved so troublesome that – years before the engine was abandoned by Rolls-Royce in 1940 – the Air Staff decided that the HP.56 should be fitted with four engines instead. Therefore, before reaching prototype stage, the HP.56 design was reworked into the four-engined HP.57 Halifax.<ref>Buttler p102-104</ref> The Halifax became the second most-prolific British heavy bomber of the war after the Avro Lancaster (itself essentially a four-engine development of the Manchester). Although in some respects (such as crew survivability) better than the Lancaster, the Halifax suffered in terms of altitude performance<ref>Buttler p129</ref> and was redeployed toward the end of the war as a heavy transport and glider tug, with several variants being specifically built as such, including the HP.70 Halton.
+===Postwar===
+After the war, the British Government sought tenders for jet bombers to carry the nation's nuclear deterrent. The three types produced were known as the V bombers, and Handley Page's contribution was the HP.80 Victor, a four-engined, crescent-winged design. This aircraft remained in service (as a tanker aircraft) well beyond the demise of the company which created it.
+In 1947 Handley Page bought some of the assets of the bankrupt Miles Aircraft company. These assets include existing designs, tools and jigs, most notably for the Miles M.52 supersonic research aircraft, and the Miles site at Woodley, near Reading. The operation was named Handley Page (Reading) Ltd, a company constituted to buy and operate the assets formed out of the inactive Handley Page Transport Ltd. The most significant of the inherited designs became the Herald airliner. Designs from the Reading site used the initials HPR ("Handley Page (Reading)").
+===Demise===
+Unlike other large British aircraft manufacturers, Handley Page resisted the government's pressure to merge into larger entities. By the late 1960s, the British aviation industry was dominated by two companies: Hawker Siddeley and the British Aircraft Corporation.
+Unable to compete for government orders or build large commercial aircraft, Handley Page produced its final notable Handley Page design, the Jetstream. This was a small turboprop-powered commuter aircraft, with a pressurised cabin and a passenger capacity of 12 to 18. It was designed primarily for the United States "feederliner" market.
+Although successful, the Jetstream was too late to save Handley Page, and the company went into voluntary liquidation in March 1970 and was wound up after 61 years trading under the same name. The Jetstream lived on, the design being purchased and produced by Scottish Aviation at Prestwick, continuing after the company was bought by British Aerospace in 1977.
+==Sites==
+Radlett Aerodrome was opened in 1929 as a grass aerodrome for Handley Page Civil Aircraft. Its runway was extended in 1939 to enable production of Halifax bombers. By the time of its closure the airfield had two runways:
+* 03/21 approximately 
+* 15/33 approximately 
+Most of the towers, hangars and runways were demolished in the 1970s after the Company was terminated. The M25 Motorway now runs on the south side of the site, with Lafarge (company) now owning the remainder. The runway surface was removed and replaced with grass, but a shadow remains when viewed from the air.
+==Products==
+===Designations===
+Handley Page originally used a letter sequence to designate types (i.e. A, B, C etc.). Beginning with the model E, the letter was used in combination with a slash and a number that referred to the installed horsepower, at least initially. However the 100 in O/100 indicated the type's 100-foot wingspan, while other designs it may or may not have been meaningful other than as a design sequence. By 1923, the company had come to the end of the alphabet and had begun reusing earlier letters, but this would have become confusing, so from 1924 they assigned the letters HP and a sequential number to indicate the model, with previous aircraft being retroactively assigned numbers in the new sequence, starting with the Type A as the HP.1. Thus the O/400 became the HP.16 and the W.8 the HP.18. Unbuilt projects were skipped from this sequence.
+When the assets of Miles Aircraft were taken over, the latter's Reading design office used HPR for Handley Page Reading, followed by a number as with the HPR.1 Marathon.
+===Designs===
+====First Letter Designation Sequence (used to 1923)====
+*Type A – 1909 Bluebird monoplane
+*Type B – 1909 biplane
+*Type C – 1910 monoplane, did not fly, rebuilt from Type A
+*Type D – 1911 Antiseptic monoplane
+*Type E/50 – 1911 Antiseptic monoplane
+*Type F/70 – 1912 military monoplane with side by side seating
+*Type G/100 – 1913 biplane
+*Type H – 1913 monoplane projects, developments of type E & F
+*Type I & J – skipped
+*Type K/35 – 1913 biplane project, scaled down type G
+*Type L/200 – 1914 transatlantic biplane – never flew
+* Type M/200 – 1914 biplane project
+* Type MS/200 – 1914 seaplane biplane project
+* Type N/80 – 1914 biplane project
+*Type O – twin-engined O/100 & O/400 bombers, and O/7, O/10 & O/11 airliners
+* Type P/320 – 1916 HP.13 triplane project
+*Type Q – skipped
+*Type R/200 – HP.14 biplane/triplane for specification N.2B.
+*Type S/400 – O/400 floatplane project
+*Type T/400 – 1917 flying boat project
+*Type U – skipped
+*Type V/1500 four engine heavy bomber
+*Type W/400, W.4, W.8, W.9 & W.10 airliners
+*Type X/4B – Airco DH.9A fitted with slotted monoplane wing
+====Second Letter Designation Sequence (1923-1924)====
+*Type C/7 Handcross – 1924 biplane day bomber, letter reused
+*Type D/4 – HP.29 transport projects
+*Type D – HP.32 Hamlet
+*Type E – HP.31 Harrow
+*Type F – HP.37 O.22/26 shipboard fighter project
+*Type H – HP.34 Hare
+*Type M – HP.36 Hinaidi II
+*Type S – HP.21 monoplane fighter
+*Type T – HP.19 Hanley
+*Type Ta – HP.25 Hendon
+====Numerical Designations (1924-1970)====
+*HP.1 – Type A monoplane
+*HP.2 – Type B biplane
+*HP.3 – Type C monoplane, never flew
+*HP.4 – Type D monoplane
+*HP.5 – Type E monoplane
+*HP.6 – Type F monoplane
+*HP.7 – Type G biplane
+*HP.8 – Type L biplane, never flew
+*HP.9 – biplane project
+*HP.10 – scout project
+*HP.11 – O/100 twin-engined bomber
+*HP.12 – O/400 twin-engined bomber
+*HP.13 – triplane project
+*HP.14 – prototype naval reconnaissance
+*HP.15 – V/1500 four-engined bomber
+*HP.16 – W400 airliner
+*HP.17 – Airco DH.9 fitted with wing slots
+*HP.18 Hamilton – W8 airliner
+*HP.19 Hanley – torpedo bomber
+*HP.20 – Airco DH.9A fitted with slotted monoplane wing
+*HP.21 – monoplane fighter for US Navy
+*HP.22 – single-seat sport monoplane for Lympne light aircraft trials
+*HP.23 – single-seat sport monoplane for Lympne light aircraft trials
+*HP.24 Hyderabad – biplane heavy bomber 
+*HP.25 Hendon – torpedo bomber 
+*HP.26 Hamilton – W8 airliner
+*HP.27 Hampstead – W9 airliner
+*HP.28 Handcross – biplane day bomber
+*HP.29 – transport project
+*HP.30 – W.10 airliner
+*HP.31 Harrow – carrier-based torpedo bomber and reconnaissance aircraft
+*HP.32 Hamlet – six-passenger monoplane airliner
+*Handley Page Hinaidi – heavy bomber & transport
+*HP.34 Hare – high-altitude day bomber
+*HP.35 Clive II – heavy bomber
+*HP.36 Hinaidi II – twin-engine bomber
+*HP.37 – O.22/26 shipboard fighter project
+*HP.38 Heyford I – prototype biplane heavy night bomber
+*HP.39 Gugnunc – experimental STOL/safety biplane
+*HP.40 – biplane seaplane project for Japan for 3MR4 design
+*HP.41 – M.5/28 torpedo biplane project
+*HP.42 – eastern biplane airliner
+*HP.43 – three-engined biplane bomber transport
+*HP.44 Hinaidi III – twin-engine bomber
+*HP.45 – western biplane airliner
+*HP.46 – M.1/30 torpedo bomber
+*HP.47 – G.4/31 bomber & torpedo bomber
+*HP.48 & 49 – skipped 
+*HP.50 Heyford – production variant, biplane heavy night bomber
+*HP.51 – prototype bomber transport for C.26/31
+*HP.52 Hampden I – medium bomber
+*HP.53 – bomber project for Sweden, led to the HP.52 Hereford
+*HP.54 Harrow – monoplane heavy bomber
+*HP.55 – twin-engine heavy bomber design for B.1/35
+*HP.56 – twin-engine heavy bomber design for B.13/36
+*HP.57 Halifax Mk.I – four-engined heavy bomber
+*HP.58 Halifax Mk.II – four-engined heavy bomber
+*HP.59 Halifax Mk.II – four-engined heavy bomber
+*HP.60 – heavy bomber project for B.1/39
+*Handley Page Halifax – four-engined heavy bomber
+*HP.62 Hampden Mk.II – medium bomber
+*Handley Page Halifax – four-engined heavy bomber
+*Handley Page Halifax – project
+*HP.65 Halifax – project with low drag wing, turbo supercharged Hercules engines.<ref>Buttler p131</ref>
+*HP.66 Hastings B.I – Halifax project for spec. B.27/43, provisional name, abandoned at end of war.
+*HP.67 Hastings C.I – military transport
+*HP.68 Hermes I – airliner
+*Handley Page Halifax – Halifax project with turbo-blower exhaust Hercules 100, provisional name. Order cancelled 1944<ref>Buttler p132</ref>
+*Handley Page Halifax – transport & airliner
+*HP.71 Halifax Mk.IX – four-engined heavy bomber
+*HP.72 – military transport project to specification C.15/45
+*HP.73 Hastings C.III – transport project
+*HP.74 Hermes II – airliner
+*HP.75 Manx – tailless research aircraft
+*HP.76 – civil transport project
+*HP.77 – civil transport project
+*HP.78 – civil transport project
+*HP.79 Hermes III – project airliner
+*HP.80 Victor – four-engined bomber
+*HP.81 Hermes IV – airliner
+*HP.82 Hermes V – airliner
+*HP.83 – civil transport project
+*HP.84 – civil transport project
+*HP.85 – civil transport project
+*HP.86 – civil transport project
+*HP.87 – 1/3 scale Victor project
+*HP.88 – Victor research aircraft, wings and tail on Supermarine Attacker
+*HP.89 Hastings C.VI – transport project
+*HP.90 Hermes IA – project civil freighter
+*HP.91 – lightened Hermes project
+*HP.92 – lightened Hermes project
+*HP.93 – Dufaylite wing for Miles Messenger
+*HP.94 Hastings C.4 – VIP transport project
+*HP.95 Hastings C.3 – transport project for RNZAF
+*HP.96 – Victor military transport project
+*HP.97 – Victor civil airliner project
+*HP.98 – Victor target marker project
+*HP.99 – bomber project
+*HP.100 – reconnaissance bomber to OR.330
+*HP.101 – Victor military transport project
+*HP.102 – airliner project
+*HP.103 – conversion of Jet Provost
+*HP.104 – Victor bomber phase 3 project
+*HP.105 – transport project
+*HP.106 – missile projects
+*HP.107 – bomber project
+*HP.108 – transport project
+*HP.109 – transport project
+*HP.110 – transport project
+*HP.112 – flying jeep project
+*HP.113 – transport project
+*HP.114 – Victor bomber phase 6 project
+*HP.115 – low speed delta wing research aircraft
+*HP.116 – freighter project
+*HP.117 – airliner project
+*HP.118 – VTOL jeep project
+*HP.119 – VTOL jeep project
+*HP.120 – VTOL jeep project
+*HP.122 – OR.351 VTOL transport project
+*HP.123 – OR.351 Victor transport aircraft project
+*HP.124 – military Herald project 
+*HP.125 – military VTOL Herald NMBR-4 project 
+*HP.126 Aerobus – airliner project
+*HP.127 – jet Herald project 
+*HP.128 – supersonic transport project
+*HP.129 – scaled-down Herald project
+*HP.130 – HS.125 project
+*HP.131 – military Herald project for Belgium
+*HP.132 – military STOL Herald project
+*HP.133 – military STOL Herald project
+*HP.134 – Ogee Aerobus project
+*HP.135 – global transport project
+*HP.137 Jetstream – twin-turboprop feederliner
+====Handley Page (Reading) designs====
+*HPR.1 Marathon – airliner
+*HPR.2 Basic Trainer – basic trainer
+*HPR.3 Herald – airliner
+*HPR.4 Herald – turbine Herald project 
+*HPR.5 Marathon – engine testbed
+*HPR.6 – transport project
+*HPR.7 Dart Herald – airliner
+*HPR.8 – car ferry transport project
+
+Handley Page Limited was a British aerospace manufacturer. Founded by Frederick Handley Page (later Sir Frederick) in 1909, it was the United Kingdom's first publicly traded aircraft manufacturing company. It went into voluntary liquidation and ceased to exist in 1970. The company, based at Radlett Aerodrome in Hertfordshire, was noted for its pioneering role in aviation history and for producing heavy bombers and large airliners.

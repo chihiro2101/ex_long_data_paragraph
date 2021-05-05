@@ -1,0 +1,66 @@
+Dawn
+
+==Etymology==
+"Dawn" derives from the Old English verb dagian, "to become day".
+==Types of dawn==
+Dawn begins with the first sight of lightness in the morning, and continues until the sun breaks the horizon. This morning twilight before sunrise is divided into three categories depending on the amount of sunlight that is present in the sky, which is determined by the angular distance of the centre of the Sun (degrees below the horizon) in the morning. These categories are astronomical, nautical, and civil dawn.
+=== Astronomical dawn ===
+Astronomical dawn begins when the sun is 18 degrees below the horizon in the morning. Astronomical twilight follows instantly until the sun is 12 degrees below the horizon.<ref name="NOAA_Astro_Terms"/> At this point a very small portion of the sun's rays illuminate the sky and the fainter stars begin to disappear. Astronomical dawn is often indistinguishable from night, especially in areas with light pollution. Astronomical dawn marks the beginning of astronomical twilight, which lasts until nautical dawn.<ref name="timeanddate.com"> urltoken 
+=== Nautical dawn ===
+Nautical twilight begins when there is enough illumination for sailors to distinguish the horizon at sea but the sky is too dark to perform outdoor activities. Formally, it begins when the Sun is 12 degrees below the horizon in the morning. The sky becomes light enough to clearly distinguish it from land and water. Nautical dawn marks the start of nautical twilight, which lasts until civil dawn.<ref name="timeanddate.com"/><ref name="NOAA_Astro_Terms"/>
+=== Civil dawn ===
+Civil twilight begins when there is enough light for most objects to be distinguishable, so that some outdoor activities can commence. Formally, it occurs when the Sun is 6 degrees below the horizon in the morning.<ref name="NOAA_Astro_Terms"></ref>
+If the sky is clear, it is blue colored, and if there is some cloud or haze, there can be bronze, orange and yellow colours. Some bright stars and planets such as Venus and Jupiter are visible to the naked eye at civil dawn. This moment marks the start of civil twilight, which lasts until sunrise.<ref name="timeanddate.com"/>
+==Effects of latitude==
+The duration of the twilight period (e.g. between astronomical dawn and sunrise) varies greatly depending on the observer's latitude: from a little over 70 minutes at the Equator, to many hours in the polar regions.
+===Equator===
+The period of twilight is shortest at the Equator, where the equinox Sun rises due east and sets due west, at a right angle to the horizon. Each stage of twilight (civil, nautical, and astronomical) lasts only 24 minutes. From anywhere on Earth, the twilight period is shortest around the equinoxes and longest on the solstices.
+===Polar regions===
+Daytime becomes longer as the summer solstice approaches, while nighttime gets longer as the winter solstice approaches. This can have a potential impact on the times and durations of dawn and dusk. This effect is more pronounced closer to the poles, where the Sun rises at the vernal equinox and sets at the autumn equinox, with a long period of twilight, lasting for a few weeks.
+The polar circle (at 66°34&prime; north or south) is defined as the lowest latitude at which the Sun does not set at the summer solstice. Therefore, the angular radius of the polar circle is equal to the angle between Earth's equatorial plane and the ecliptic plane. This period of time with no sunset lengthens closer to the pole.
+Near the summer solstice, latitudes higher than 54°34&prime; get no darker than nautical twilight; the "darkness of the night" varies greatly at these latitudes.
+At latitudes higher than about 60°34, summer nights get no darker than civil twilight. This period of "bright nights" is longer at higher latitudes.
+====Example====
+Around the summer solstice, Glasgow, Scotland at 55°51′ N, and Copenhagen, Denmark at 55°40′ N, get a few hours of "night feeling". Oslo, Norway at 59°56′ N, and Stockholm, Sweden at 59°19′ N, seem very bright when the Sun is below the horizon. When the sun gets 9.0 to 9.5 degrees below the horizon (at summer solstice this is at latitudes 57°30′–57°00′), the zenith gets dark even on cloud-free nights (if there is no full moon), and the brightest stars are clearly visible in a large majority of the sky.
+==Mythology and religion==
+In Islam, astronomical dawn is called False Morning (Subhe-Kadhib, Arabic صبح کاذب) while nautical dawn is called Sehr (سحر) or True Morning (Subhe-Sadiq, Arabic صبح صادق) and it is the time of first prayer of the day, and the beginning of the daily fast during Ramadan.<ref></ref>
+Many Indo-European mythologies have a dawn goddess, separate from the male Solar deity, her name deriving from PIE Hausos, derivations of which include Greek Eos, Roman Aurora and Indian Ushas. Also related is Lithuanian Aušrinė, and possibly a Germanic Eostre (whence the term Easter). In Sioux mythology, Anpao is an entity with two faces.
+The Hindu dawn deity Ushas is female, whereas Surya, the Sun, and Aruṇa, the Sun's charioteer, are male. Ushas is one of the most prominent Rigvedic deities. The time of dawn is also referred to as the Brahmamuhurtham (Brahma is god of creation and muhurtham is a Hindu unit of time), and is considered an ideal time to perform spiritual activities, including meditation and yoga. In some parts of India, both Usha and Pratyusha (dusk) are worshiped along with the Sun during the festival of Chhath.
+Prime is the fixed time of prayer of the traditional Divine Office (Canonical Hours) in Christian liturgy, said at the first hour of daylight.
+In Judaism, the question of how to calculate dawn (Hebrew Alos/ HaShachar, or Alos/ is posed by the Talmud,<ref>Pesachim 94a</ref> as it has many ramifications for Jewish law (such as the possible start time for certain daytime commandments, like prayer). The simple reading of the Talmud is that dawn takes place 72 minutes before sunrise. Others, including the Vilna Gaon, have the understanding that the Talmud's timeframe for dawn was referring specifically to an equinox day in Mesopotamia, and is therefore teaching that dawn should be calculated daily as commencing when the sun is 16.1 degrees below the horizon. The longstanding practice among most Sephardic Jews is to follow the first opinion, while many Ashkenazi Jews follow the latter view.
+==Dawn in art==
+<gallery>
+File:L'Aurore by William-Adolphe Bouguereau - BMA.jpg|L'Aurore by William-Adolphe Bouguereau
+File:Guillaume Vogels - L'aurore, Mer du Nord.jpg|Mer du Nord by Guillaume Vogels
+</gallery>
+==Literature==
+*Homer uses the stock epithet "rosy-fingered Dawn" frequently in The Iliad and The Odyssey
+*An aubade (Occitan Alba, German Tagelied) is a song about lovers having to separate at daybreak
+*Aurora Musis amica (Dawn is a friend to the Muse), in Epigrammata Disticha Poetarum Latinorum, Veterum Et Recentum, Nobiliora (1642) by Barthold Nihus<ref></ref>
+*The Dawn, volume 1 on Jean-Christophe written by Romain Rolland
+*Dawn, a novel written by Henry Rider Haggard, published in 1884
+*"Dawn", a poem written by Rupert Brooke published in The Collected Poems of Rupert Brooke
+*"Dawn", a poem written by Richard Aldington
+*"Dawn", a poem written by Emily Dickinson
+*"Dawn", a poem written by Francis Ledwidge
+*"Dawn", a poem written by John Masefield
+*"Down", a poem written by William Carlos Williams
+*I Greet the Dawn: Poems, a book of poetry written by Paul Laurence Dunbar, published January 1, 1978 by Atheneum Books
+*"Dawn", a four-line poem from Lyrics of Lowly Life, a book of poetry written by Paul Laurence Dunbar, originally published in 1896. This poem was published again in The Complete Poems of Paul Laurence Dunbar, the 1913 collection of his work--
+::An angel, robed in spotless white,
+::Bent down and kissed the sleeping Night.
+::Night woke to blush; the sprite was gone.
+::Men saw the blush and called it Dawn.
+:::::-Dawn by Paul Laurence Dunbar
+==See also==
+*Dusk
+*Sky
+*Sunrise
+*Sunset
+*Twilight
+*Dawn chorus (electromagnetic)
+==References==
+==External links==
+* urltoken Worldwide timetable for dawn time calculation
+
+Dawn is the time that marks the beginning of twilight before sunrise. It is recognized by the appearance of indirect sunlight being scattered in Earth's atmosphere, when the centre of the Sun's disc has reached 18° below the observer's horizon.<ref></ref> This morning twilight period will last until sunrise (when the Sun's upper limb breaks the horizon), when daylight outshines the diffused light.

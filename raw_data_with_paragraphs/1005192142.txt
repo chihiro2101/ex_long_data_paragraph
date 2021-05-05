@@ -1,0 +1,154 @@
+Ultra high frequency
+
+== Propagation characteristics ==
+Radio waves in the UHF band travel almost entirely by line-of-sight propagation (LOS) and ground reflection; unlike in the HF band there is little to no reflection from the ionosphere (skywave propagation), or ground wave.<ref name="Seybold"></ref> UHF radio waves are blocked by hills and cannot travel beyond the horizon, but can penetrate foliage and buildings for indoor reception. Since the wavelengths of UHF waves are comparable to the size of buildings, trees, vehicles and other common objects, reflection and diffraction from these objects can cause fading due to multipath propagation, especially in built-up urban areas. Atmospheric moisture reduces, or attenuates, the strength of UHF signals over long distances, and the attenuation increases with frequency. UHF TV signals are generally more degraded by moisture than lower bands, such as VHF TV signals.
+Since UHF transmission is limited by the visual horizon to 30–40&nbsp;miles (48–64&nbsp;km) and usually to shorter distances by local terrain, it allows the same frequency channels to be reused by other users in neighboring geographic areas (frequency reuse). Radio repeaters are used to retransmit UHF signals when a distance greater than the line of sight is required.
+Occasionally when conditions are right, UHF radio waves can travel long distances by tropospheric ducting as the atmosphere warms and cools throughout the day.
+==Antennas==
+thumb
+The length of an antenna is related to the length of the radio waves used. Due to the short wavelengths, UHF antennas are conveniently stubby and short; at UHF frequencies a monopole antenna, the most common omnidirectional antenna is between 2.5 and 25&nbsp;cm long. UHF wavelengths are short enough that efficient transmitting antennas are small enough to mount on handheld and mobile devices, so these frequencies are used for two-way land mobile radio systems, such as walkie-talkies, two way radios in vehicles, and for portable wireless devices; cordless phones and cell phones. Omnidirectional UHF antennas used on mobile devices are usually short whips, sleeve dipoles, rubber ducky antennas or the planar inverted F antenna (PIFA) used in cellphones. Higher gain omnidirectional UHF antennas can be made of collinear arrays of dipoles and are used for mobile base stations and sector antenna.
+The short wavelengths also allow high gain antennas to be conveniently small. High gain antennas for point-to-point communication links and UHF television reception are usually Yagi, log periodic, corner reflectors, or reflective array antennas. At the top end of the band slot antennas and parabolic dishes become practical. For satellite communication, helical, and turnstile antennas are used since satellites typically employ circular polarization which is not sensitive to the relative orientation of the transmitting and receiving antennas. For television broadcasting specialized vertical radiators that are mostly modifications of the slot antenna or reflective array antenna are used: the slotted cylinder, zig-zag, and panel antennas.
+==Applications==
+UHF television broadcasting fulfilled the demand for additional over-the-air television channels in urban areas. Today, much of the bandwidth has been reallocated to land mobile, trunked radio and mobile telephone use. UHF channels are still used for digital television.
+Since at UHF frequencies transmitting antennas are small enough to install on portable devices, the UHF spectrum is used worldwide for land mobile radio systems, two-way radios used for voice communication for commercial, industrial, public safety, and military purposes. Examples of personal radio services are GMRS, PMR446, and UHF CB. Some wireless computer networks use UHF frequencies. The widely adopted GSM and UMTS cellular networks use UHF cellular frequencies.
+Major telecommunications providers have deployed voice and data cellular networks in VHF/UHF range. This allows mobile phones and mobile computing devices to be connected to the public switched telephone network and the Internet.
+UHF radars are said to be effective at tracking stealth fighters, if not stealth bombers.<ref></ref>
+Wi-Fi operates at 2412 MHz-2484 MHz. LTE also operates on UHF frequencies
+== Examples of UHF frequency allocations ==
+===Australia===
+* UHF CB (Land mobile service): 476–477&nbsp;MHz
+* Television broadcasting uses UHF channels between 503 and 694&nbsp;MHz
+* Fixed point-to-point Link 450.4875 - 451.5125&nbsp;MHz
+* Land mobile service 457.50625 - 459.9875&nbsp;MHz
+* Mobile satellite service: 406.0000 - 406.1000&nbsp;MHz
+* Segment and Service examples: Land mobile for private, Australian, State and Territory Government, Rail industry and Mobile-Satellite<ref></ref>
+===Canada===
+* 430–450&nbsp;MHz: Amateur radio (70&nbsp;cm band)
+* 470–806&nbsp;MHz: Terrestrial television (with select channels in the 700&nbsp;MHz band left vacant)
+* 1452–1492&nbsp;MHz: Digital Audio Broadcasting (L band)<ref></ref>
+* Many other frequency assignments for Canada and Mexico are similar to their US counterparts
+===United Kingdom===
+*380&ndash;399.9&nbsp;MHz: Terrestrial Trunked Radio (TETRA) service for emergency use
+*430&ndash;440&nbsp;MHz: Amateur radio (70 cm band)
+*446.0&ndash;446.2&nbsp;MHz : European unlicensed PMR service => PMR446
+*457&ndash;464&nbsp;MHz: Scanning telemetry and telecontrol, assigned mostly to the water, gas, and electricity industries
+*606&ndash;614&nbsp;MHz: Radio microphones and radio-astronomy
+*470&ndash;862&nbsp;MHz: Previously used for analogue TV channels 21–69 (until 2012).
+**Currently channels 21–37, 39–48, plus 55 and 56, are used for Freeview digital TV.<ref></ref> Channel 38 was used for radio astronomy but has been cleared to allow PMSE users access on a licensed, shared basis.
+**694-790&nbsp;MHz:<ref></ref> i.e. Channels 49-60 are in the process of being cleared, to allow these channels to be allocated for 5G cellular communication, however, Channels 55 and 56 are being used for COM 7 and COM 8 multiplexes for HD services.
+**791–862&nbsp;MHz,<ref></ref> i.e. channels 61–69 inclusive were previously used for licensed and shared wireless microphones (channel 69 only), has since been allocated to 4G cellular communications.
+*863&ndash;865&nbsp;MHz: Used for licence-exempt wireless systems.
+*863&ndash;870&nbsp;MHz: Short Range Devices, LPWAN IoT devices such as NarrowBand IOT.
+*870&ndash;960&nbsp;MHz: Cellular communications (GSM900 - Vodafone and O2 only) including GSM-R and future TETRA
+*1240&ndash;1325&nbsp;MHz: Amateur radio (23&nbsp;cm band)
+*1710&ndash;1880&nbsp;MHz: 2G Cellular communications (GSM1800)
+*1880&ndash;1900&nbsp;MHz: DECT cordless telephone
+*1900&ndash;1980&nbsp;MHz: 3G cellular communications - mobile phone uplink
+*2110&ndash;2170&nbsp;MHz: 3G cellular communications - base station downlink
+*2310&ndash;2450&nbsp;MHz: Amateur radio (13&nbsp;cm band)
+===United States===
+UHF channels are used for digital television broadcasting on both over the air channels and cable television channels. Since 1962, UHF channel tuners (at the time, channels 14-83) have been required in television receivers by the All-Channel Receiver Act. However, because of their more limited range, and because few sets could receive them until older sets were replaced, UHF channels were less desirable to broadcasters than VHF channels (and licenses sold for lower prices).
+A complete list of US Television Frequency allocations can be found at North American television frequencies
+There is a considerable amount of lawful unlicensed activity (cordless phones, wireless networking) clustered around 900&nbsp;MHz and 2.4&nbsp;GHz, regulated under Title 47 CFR Part 15. These ISM bands – frequencies with a higher unlicensed power permitted for use originally by Industrial, Scientific, Medical apparatus – are now some of the most crowded in the spectrum because they are open to everyone. The 2.45&nbsp;GHz frequency is the standard for use by microwave ovens, adjacent to the frequencies allocated for Bluetooth network devices.
+The spectrum from 806&nbsp;MHz to 890&nbsp;MHz (UHF channels 70–83) was taken away from TV broadcast services in 1983, primarily for analog mobile telephony.
+In 2009, as part of the Digital television#Switch-off time announced, the spectrum from 698&nbsp;MHz to 806&nbsp;MHz (UHF channels 52–69) was removed from TV broadcasting, making it available for other uses. Channel 55, for instance, was sold to Qualcomm for their MediaFLO service, which was later sold to AT&T, and discontinued in 2011. Some US broadcasters had been offered incentives to vacate this channel early, permitting its immediate mobile use. The FCC's scheduled auction for this newly available spectrum was completed in March 2008.<ref></ref>
+The FCC has allowed Americans to connect any device and any application to the 22&nbsp;MHz of radio spectrum that people are calling the 700&nbsp;MHz band. The FCC did not include a wholesale condition, which would have required the owner of the band to resell bandwidth to third parties who could then service the end user. Google argued that the wholesale requirement would have stimulated internet competition. As of 2007, 96% of the country's broadband access was controlled by DSL and cable providers. A wholesale condition could have meant a third option for internet service.<ref> urltoken FCC opens up US wireless spectrum, The Register, 1 August 2007, Cade Metz</ref>
+*225&ndash;420&nbsp;MHz: Government use, including meteorology, military aviation, and federal two-way use<ref> urltoken </ref>
+*420&ndash;450&nbsp;MHz: Government radiolocation, amateur radio satellite and amateur radio (70 cm band), MedRadio<ref name="usfed-users"></ref>
+*450&ndash;470&nbsp;MHz: UHF business band, General Mobile Radio Service, and Family Radio Service 2-way "walkie-talkies", public safety
+*470&ndash;512&nbsp;MHz: Low-band TV channels 14&ndash;20 (shared with public safety land mobile 2-way radio in 12 major metropolitan areas scheduled to relocate to 700&nbsp;MHz band by 2023<ref></ref>)
+*512&ndash;608&nbsp;MHz: Medium-band TV channels 21&ndash;36 
+*608&ndash;614&nbsp;MHz: Channel 37 used for radio astronomy and wireless medical telemetry<ref></ref>
+*614&ndash;698&nbsp;MHz: Mobile broadband shared with TV channels 38&ndash;51 auctioned in April 2017. TV stations will relocate by 2020.
+**617&ndash;652&nbsp;MHz: Mobile broadband service downlink
+**652&ndash;663&nbsp;MHz: Wireless microphones (higher priority) and unlicensed devices (lower priority)
+**663&ndash;698&nbsp;MHz: Mobile broadband service uplink
+*698&ndash;806&nbsp;MHz: Was auctioned in March 2008; bidders got full use after the transition to digital TV was completed on June 12, 2009 (formerly high-band UHF TV channels 52&ndash;69)
+*806&ndash;816&nbsp;MHz: Public safety and commercial 2-way (formerly TV channels 70&ndash;72)
+*817&ndash;824&nbsp;MHz: ESMR band for wideband mobile services (mobile phone) (formerly public safety and commercial 2-way)
+*824&ndash;849&nbsp;MHz: Cellular A & B franchises, terminal (mobile phone) (formerly TV channels 73&ndash;77)
+*849&ndash;851&nbsp;MHz: Commercial aviation air-ground systems (Gogo)
+*851&ndash;861&nbsp;MHz: Public safety and commercial 2-way (formerly TV channels 77&ndash;80)
+*862&ndash;869&nbsp;MHz: ESMR band for wideband mobile services (base station) (formerly public safety and commercial 2-way)
+*869&ndash;894&nbsp;MHz: Cellular A & B franchises, base station (formerly TV channels 80&ndash;83)
+*894&ndash;896&nbsp;MHz: Commercial aviation air-ground systems (Gogo)
+*896&ndash;901&nbsp;MHz: Commercial 2-way radio
+*901&ndash;902&nbsp;MHz: Narrowband PCS: commercial narrowband mobile services
+*902&ndash;928&nbsp;MHz: ISM band, amateur radio (33 cm band), cordless phones and stereo, radio-frequency identification, datalinks
+*928&ndash;929&nbsp;MHz: SCADA, alarm monitoring, meter reading systems and other narrowband services for a company internal use
+*929&ndash;930&nbsp;MHz: Pagers
+*930&ndash;931&nbsp;MHz: Narrowband PCS: commercial narrowband mobile services
+*931&ndash;932&nbsp;MHz: Pagers
+*932&ndash;935&nbsp;MHz: Fixed microwave services: distribution of video, audio and other data
+*935&ndash;940&nbsp;MHz: Commercial 2-way radio
+*940&ndash;941&nbsp;MHz: Narrowband PCS: commercial narrowband mobile services
+*941&ndash;960&nbsp;MHz: Mixed studio-transmitter fixed links, SCADA, other.
+*960&ndash;1215&nbsp;MHz: Aeronautical radionavigation
+*1240&ndash;1300&nbsp;MHz: Amateur radio (23 cm band)
+*1300&ndash;1350&nbsp;MHz: Long range radar systems
+*1350&ndash;1390&nbsp;MHz: Military air traffic control and mobile telemetry systems at test ranges
+*1390&ndash;1395&nbsp;MHz: Proposed wireless medical telemetry service. TerreStar failed to provide service by the required deadline.<ref name=":2"></ref>
+*1395&ndash;1400&nbsp;MHz: Wireless medical telemetry service
+*1400&ndash;1427&nbsp;MHz: Earth exploration, radio astronomy, and space research
+*1427&ndash;1432&nbsp;MHz: Wireless medical telemetry service
+*1432&ndash;1435&nbsp;MHz: Proposed wireless medical telemetry service. TerreStar failed to provide service by the required deadline.<ref name=":2" />
+*1435&ndash;1525&nbsp;MHz: Military use mostly for aeronautical mobile telemetry (therefore not available for Digital Audio Broadcasting, unlike Canada/Europe)
+*1525&ndash;1559&nbsp;MHz: SkyTerra downlink (Ligado is seeking FCC permission for terrestrial use<ref name=":0"></ref>)
+**1526&ndash;1536&nbsp;MHz: proposed Ligado downlink
+**1536&ndash;1559&nbsp;MHz: proposed guard band
+*1559&ndash;1610&nbsp;MHz: Radionavigation-satellite service (RNSS) Upper L-band
+**1563&ndash;1587&nbsp;MHz: GPS L1 band
+**1593&ndash;1610&nbsp;MHz: GLONASS G1 band
+**1559&ndash;1591&nbsp;MHz: Galileo E1 band (overlapping with GPS L1<ref></ref>)
+*1610&ndash;1660.5&nbsp;MHz: Mobile Satellite Service
+**1610&ndash;1618: Globalstar uplink
+**1618&ndash;1626.5&nbsp;MHz: Iridium uplink and downlink<ref name=":0" />
+**1626.5&ndash;1660.5&nbsp;MHz: SkyTerra uplink (Ligado is seeking FCC permission for terrestrial use<ref name=":0" />)
+***1627.5&ndash;1637.5&nbsp;MHz: proposed Ligado uplink 1
+***1646.5&ndash;1656.5&nbsp;MHz: proposed Ligado uplink 2
+*1660.5&ndash;1668.4&nbsp;MHz: Radio astronomy observations. Transmitting is not permitted.
+*1668.4&ndash;1670&nbsp;MHz: Radio astronomy observations. Weather balloons may utilize the spectrum after an advance notice.
+*1670&ndash;1675&nbsp;MHz: Geostationary Operational Environmental Satellite transmissions to three earth stations in Wallops Island, VA; Greenbelt, MD and Fairbanks, AK. Nationwide broadband service license in this range is held by a subsidiary of Crown Castle International Corp. who is trying to provide service in cooperation with Ligado Networks.<ref></ref>
+*1675&ndash;1695&nbsp;MHz: Meteorological federal users
+*1695&ndash;1780&nbsp;MHz: AWS mobile phone uplink (UL) operating band
+**1695&ndash;1755&nbsp;MHz: AWS-3 blocks A1 and B1
+**1710&ndash;1755&nbsp;MHz: AWS-1 blocks A, B, C, D, E, F
+**1755&ndash;1780&nbsp;MHz: AWS-3 blocks G, H, I, J (various federal agencies transitioning by 2025<ref></ref>)
+*1780&ndash;1850&nbsp;MHz: exclusive federal use (Air Force satellite communications, Army's cellular-like communication system, other agencies)
+*1850&ndash;1920&nbsp;MHz: PCS mobile phone—order is A, D, B, E, F, C, G, H blocks. A, B, C = 15&nbsp;MHz; D, E, F, G, H = 5&nbsp;MHz
+*1920&ndash;1930&nbsp;MHz: DECT cordless telephone
+*1930&ndash;2000&nbsp;MHz: PCS base stations—order is A, D, B, E, F, C, G, H blocks. A, B, C = 15&nbsp;MHz; D, E, F, G, H = 5&nbsp;MHz
+*2000&ndash;2020&nbsp;MHz: lower AWS-4 downlink (mobile broadband)
+*2020&ndash;2110&nbsp;MHz: Cable Antenna Relay service, Local Television Transmission service, TV Broadcast Auxiliary service, Earth Exploration Satellite service 
+*2110&ndash;2200&nbsp;MHz: AWS mobile broadband downlink
+**2110&ndash;2155&nbsp;MHz: AWS-1 blocks A, B, C, D, E, F
+**2155&ndash;2180&nbsp;MHz: AWS-3 blocks G, H, I, J
+**2180&ndash;2200&nbsp;MHz: upper AWS-4 
+*2200&ndash;2290&nbsp;MHz: NASA satellite tracking, telemetry and control (space-to-Earth, space-to-space) 
+*2290&ndash;2300&nbsp;MHz: NASA Deep Space Network 
+*2300&ndash;2305&nbsp;MHz: Amateur radio (13 cm band, lower segment)
+*2305&ndash;2315&nbsp;MHz: WCS mobile broadband service uplink blocks A and B
+*2315&ndash;2320&nbsp;MHz: WCS block C (AT&T is pursuing smart grid deployment<ref name=":1"></ref>)
+*2320&ndash;2345&nbsp;MHz: Satellite radio (Sirius XM)
+*2345&ndash;2350&nbsp;MHz: WCS block D (AT&T is pursuing smart grid deployment<ref name=":1" />)
+*2350&ndash;2360&nbsp;MHz: WCS mobile broadband service downlink blocks A and B
+*2360&ndash;2390&nbsp;MHz: Aircraft landing and safety systems
+*2390&ndash;2395&nbsp;MHz: Aircraft landing and safety systems (secondary deployment in a dozen of airports), amateur radio otherwise
+*2395&ndash;2400&nbsp;MHz: Amateur radio (13 cm band, upper segment)
+*2400&ndash;2483.5&nbsp;MHz: ISM, IEEE 802.11, 802.11b, 802.11g, 802.11n wireless LAN, IEEE 802.15.4-2006, Bluetooth, radio-controlled aircraft (strictly for spread spectrum use), microwave ovens, Zigbee
+*2483.5&ndash;2495&nbsp;MHz: Globalstar downlink and Terrestrial Low Power Service suitable for TD-LTE small cells<ref></ref>
+*2495&ndash;2690&nbsp;MHz: Educational Broadcast and Broadband Radio Services<ref></ref>
+*2690&ndash;2700&nbsp;MHz: Receive-only range for radio astronomy and space research
+==See also==
+*Digital Audio Broadcasting and its regional implementations
+*Digital terrestrial television
+*The Thing (listening device)
+==References==
+== External links ==
+* urltoken U.S. cable television channel frequencies
+*Tomislav Stimac, " urltoken Definition of frequency bands (VLF, ELF. etc.)". IK1QFK Home Page (vlf.it).
+
+Ultra high frequency (UHF) is the ITU designation for radio frequency in the range between 300&nbsp;megahertz (MHz) and 3&nbsp;gigahertz (GHz), also known as the decimetre band as the wavelengths range from one meter to one tenth of a meter (one decimeter). Radio waves with frequencies above the UHF band fall into the super-high frequency (SHF) or microwave frequency range. Lower frequency signals fall into the VHF (very high frequency) or lower bands. UHF radio waves propagate mainly by line of sight; they are blocked by hills and large buildings although the transmission through building walls is strong enough for indoor reception. They are used for television broadcasting, cell phones, satellite communication including GPS, personal radio services including Wi-Fi and Bluetooth, walkie-talkies, cordless phones, and numerous other applications.
+The IEEE defines the UHF radar band as frequencies between 300&nbsp;MHz and 1&nbsp;GHz.<ref name=ieee></ref> Two other IEEE radar bands overlap the ITU UHF band: the L band between 1 and 2&nbsp;GHz and the S band between 2 and 4&nbsp;GHz.
+, is widely used at UHF frequencies.
+<br />

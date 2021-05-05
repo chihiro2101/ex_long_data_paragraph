@@ -1,0 +1,75 @@
+GEnie
+
+== Early history ==
+GEnie was founded by Bill Louden on October 1, 1985<ref> urltoken Remarks by William Louden, GM, GEnie (9/88) </ref> and was launched as an ASCII text-based service by GE's Information Services division in October 1985, and received attention as the first serious commercial competition to CompuServe. Louden was originally CompuServe's product manager for Computing, Community (forums), Games, eCommerce, and email product lines. Louden purchased DECWAR source code and had MegaWars developed, one of the earliest multi-player online games (or MMOG), in 1985.
+The service was run by General Electric Information Services (GEIS, now GXS) based in Rockville, Maryland. GEIS served a diverse set of large-scale, international, commercial network-based custom application needs, including banking, electronic data interchange and e-mail services to companies worldwide, but was able to run GEnie on their many GE Mark III time-sharing mainframe computers that otherwise would have been underutilized after normal U.S. business hours. This orientation was part of GEnie's downfall. Although it became very popular and a national force in the on-line marketplace, GEnie was not allowed to grow. GEIS executives steadfastly refused to view the service as anything but "fill in" load and would not expand the network by a single phone line, let alone expand mainframe capacity, to accommodate GEnie's growing user base. (Later, however, GE did consent to make the service available through the SprintNet time-sharing network, which had its own dial-up points of presence; an Internet-to-SprintNet gateway operated by Merit Network also made the text-based parts of the service available through telnet.)
+The initial price for connection, at both 300 bit rate and the then-high-speed 1,200 bits per second, was $5–6 per hour during "non-prime-time" hours (evenings and weekends) and $36 an hour (to discourage daytime use) otherwise, later adjusted to $6 per hour and $18 per hour, respectively. A speed of 2,400 bit/s was also available at a premium. Later, GEnie developed the Star*Services package, soon renamed Genie*Basic after Prodigy threatened a trademark lawsuit over the use of the word "Star". It offered a set of "unlimited use" features for $4.95 per month. Other services cost extra, mirroring the tiered service model popular at the time.
+GEnie's forums were called RoundTables (RTs), and each, as well as other internal services, had a page number associated with it, akin to a Web address today; typing "m 1335", for instance, would bring you to the GemStone IV game page. The service included RTs, games, mail and shopping. For some time, GEnie published a bimonthly print magazine, LiveWire. GEnie's early chat room was called the LiveWire CB Simulator,<ref> urltoken The Information Center's guide to LiveWire CB Simulator</ref> after the citizens' band radios popular at the time.
+== Games ==
+GEnie had a reputation for being the home of excellent online text games, similar to the "doorway" games on bulletin board systems but often massively multiplayer. Also, there were graphical games using then-state-of-the-art non-textured 3D graphics on PCs with VGA displays. Top titles included:
+* Kesmai's Air Warrior (3D graphics)
+* Simutronics's GemStone, later GemStone IV
+* AUSI's Dragon's Gate
+* Simutronics' CyberStrike (3D graphics—later spun off and expanded into the stand-alone CyberStrike 2, with textured 3D graphics, lighting effects, etc.)
+* Kesmai's Multiplayer BattleTech: EGA
+Other major titles included:
+* AUSI's Galaxy II
+* NTN Trivia
+* Kesmai's Stellar Warrior—GEnie's first multiplayer online game
+* Kesmai's Stellar Emperor—the GEnie version of Kesmai's Compuserve game MegaWars III
+* J. Weaver Jr.'s RSCARDS
+* Jim Dunnigan's Hundred Years' War
+* Simutronics' DragonRealms
+* Simutronics' Orb Wars
+* urltoken Federation II
+* Simutronics' Modus Operandi
+* A-Maze-ing
+* Diplomacy Online
+* Bob Maples's Castle Quest 
+== RoundTables ==
+A RoundTable on GEnie was a discussion area containing a message board ("BBS"), a chatroom ("RealTime Conference" or RTC) and a Library for permanent files. They were part of an online community culture that predated the Internet's emergence as a mass medium, which also included such separate entities as CompuServe forums, Usenet newsgroups and email mailing lists.
+Most RoundTables were actually operated not by GEnie employees but by independent contractors working from home, which was standard practice for online services at the time. The contractors received royalties on time spent in their forums. In the most popular forums, this revenue stream was often substantial enough to hire one or two part-time or full-time staffers. Many RoundTables also had a number of unpaid assistants, working for a "free flag" (which granted them free access to that RoundTable) or an "internal account" (which granted free access to all of the service).
+==Rise and fall==
+By May 1986 GEnie claimed to have 12,000 subscribers, up from 3,000 in February.<ref name="raleigh19860520"></ref> Although it for years was the second-largest service provider after CompuServe, GEnie failed to keep up when Prodigy and America Online produced graphics-based online services that drew the masses. Programs such as Aladdin, which had been developed earlier by an independent developer and eventually supported by GEnie, helped many of the newcomers who came to GEnie from Prodigy and AOL adjust; these were the equivalent of modern-day email programs and newsreaders, incorporating a more user-friendly interface which automated message and mail downloading and posting.
+In addition, GEnie took its time developing an Internet e-mail gateway, which opened on July 1, 1993.
+GE sold GEnie in 1996 to Yovelle, which was later taken over by IDT Corp. IDT attempted to transition GEnie (now without the all-uppercase "GE") to an Internet service provider, but ultimately failed. IDT also funded the development of a GUI for the text-based service; this client was actually released, but the service did not survive long enough for it to become popular.
+Visitors to GEnie dropped with the growth of other online services and fell dramatically following a very sudden change in the fee structure in 1996. The users were notified with only 12 hours' notice that all Basic (flat-rate) services would cease to exist, while prices of the other services would rise dramatically. By the final year, insiders reported fewer than 10,000 total users.
+On December 4, 1999, it was announced that GEnie would close for good on December 27 due to the year 2000 problem. Remaining users gathered in chat areas of the few RoundTables remaining to say goodbye. But GEnie did not close for four more days, and a dwindling number watched at the close of each day. The RoundTables and all areas of GEnie, except the Top page, became unavailable slightly before midnight on December 30, 1999.
+==Legacy==
+Several books, TV shows, films and other projects had their genesis and inspiration on GEnie. One example is the Babylon 5 television show, created by J. Michael Straczynski, which was first announced publicly in GEnie's Science Fiction RoundTables. The SFRTs served as the show's first online "home" and were the source of many in-jokes and references throughout its run.
+Bill Louden, the original creator of GEnie, formed a group of investors to buy the Delphi online service from News Corp, where he led the transition of the service from text-only to the Web (and from a pay-per-hour to an advertising-supported revenue model).
+==Notable users==
+Many well-known personalities were early adopters of the online medium, and were a prominent presence on GEnie, either active in one of its RoundTables, or frequent public participants in GEnie's CB Chat.
+* Tom Clancy, author, participated in the chat area and he played games such as GemStone IV with his children.
+* Peter David, self-styled "writer of stuff", such as comic books, television and film novelizations, screenwriter and many original novels and short stories
+* Cory Doctorow, co-author of the Boing Boing blog and science fiction novelist, was active on GEnie's Science Fiction RoundTable
+* Damon Knight, author, founder of Science Fiction Writers of America, SFWA Grand Master
+* Wayne Knight, actor (Seinfeld, Jurassic Park), was an occasional visitor to the ShowBiz RT
+* Michael Okuda, Star Trek graphics designer frequented the SFRT
+* Richard Pini, husband of Wendy Pini, and editor/publisher of her cult favorite fantasy (with SF elements) comic book series ElfQuest.
+* Daniel Pinkwater, frequent presence in Writer's Ink
+* Jerry Pournelle, science fiction author and political commentator, had his own RoundTable.
+* J. Michael Straczynski, television writer, producer and creator of Babylon 5
+* Wil Wheaton, current "geek author" and actor (Wesley in Star Trek: The Next Generation), was a frequent presence in the chat area, and often visited the Sports RoundTable.
+The Science Fiction RoundTable (SFRT) became the official online forum of the Science Fiction Writers of America (SFWA), which led a number of science fiction writers to join GEnie. Besides those already mentioned, they included Dafydd ab Hugh, John Barnes, Keith DeCandido, Steven Brust, Michael A. Burstein, Debra Doyle, Neil Gaiman, Joe Haldeman, Katharine Kerr, Michael Kube-McDowell, Paul Levinson, George R.R. Martin, Rich Normandie, Raven Oak, Mike Resnick, Robert J. Sawyer, J. Neil Schulman, Josepha Sherman, Susan Shwartz, Martha Soukup, Michael Swanwick, Judith Tarr, Harry Turtledove, Lawrence Watt-Evans, Leslie What, and Jane Yolen. Occasional but less frequent visitors included K. W. Jeter and Ken Grimwood. Science fiction editors Gardner Dozois, Scott Edelman, Peter Heck, Tappan King, Beth Meacham, Patrick Nielsen Hayden, Teresa Nielsen Hayden, Sheila Finch and Dean Wesley Smith were also frequent participants.
+==See also==
+*Kelton Flinn, co-Founder of Kesmai
+*Mark Jacobs (game designer), Founder of AUSI
+==References==
+==Further reading==
+* 
+==External links==
+* urltoken I Dream of GEnie: forum discussion and memories of past GEnie members
+* urltoken GEnie Commodore File Library
+* urltoken GEnie TI-99/4A and Geneve File Library
+* urltoken MultiPlayer BattleTech: EGA Roundtable Archive
+* urltoken Genie and the SFRTs are closed
+* urltoken Last night of the SFRTs
+* urltoken Internet Starter Kit for Macintosh: GEnie
+* urltoken Review: GEnie
+* urltoken Thinkquest Timeline of game history
+* urltoken Simutronics timeline maintained by Simutronics' Elonka Dunin
+* Tom Mostellor. urltoken "Genie and CompuServe Offer Die-Hard Adventure Fans Wide New On-line Worlds"
+* urltoken Online Games White Paper, 2002, compiled by the IGDA Online Games Committee
+
+GEnie (General Electric Network for Information Exchange) was an online service created by a General Electric business, GEIS (now GXS), that ran from 1985 through the end of 1999. In 1994, GEnie claimed around 350,000 users.<ref></ref> Peak simultaneous usage was around 10,000 users. It was one of the pioneering services in the field, though eventually replaced by the World Wide Web and graphics-based services, most notably AOL.<ref> urltoken Simutronics Timeline</ref>

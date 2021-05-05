@@ -1,0 +1,121 @@
+PIAT
+
+==Design==
+The PIAT was long and weighed , with an effective direct fire range of approximately and a maximum indirect fire range of .<ref name="War Office Manual"/> It could be carried and operated by one man,<ref name="War Office Manual"/> but was usually assigned to a two-man team,<ref name="Bishop, p. 211">Bishop, p. 211</ref> the second man acting as an ammunition carrier and loader. The body of the PIAT launcher was a tube constructed out of thin sheets of steel, containing the spigot mechanism, trigger mechanism and firing spring. At the front of the launcher was a small trough in which the bomb was placed, and the movable spigot ran along the axis of the launcher and into the trough.<ref name=Weeks/> Padding for the user's shoulder was fitted to the other end of the launcher, and rudimentary Peep sight were fitted on top for aiming; the bombs launched by the PIAT possessed hollow tubular tails, into which a small propellant cartridge was inserted, and shaped charge warheads.<ref name=Weeks/>
+Conventional spigot mortar designs have a fixed spigot rod, for example the Blacker Bombard. The moving spigot rod in the PIAT design was unusual, and served to help reduce recoil sufficiently to make it a viable shoulder fired weapon.<ref name="War Office Manual"/>
+The PIAT was a little lighter (15kg vs 16kg) and smaller (0.99m long vs 1.57m) than its predecessor, the Boys anti-tank rifle, although it was heavier than the contemporary Bazooka (18 lbs/8.2&nbsp;kg).
+To prepare the weapon for firing the spigot mechanism, which was operated by a large spring, had to be cocked, and to do this was a difficult and awkward process. The user had to first place the PIAT on its butt, then place two feet on the shoulder padding and turn the weapon to unlock the body and simultaneously lock the spigot rod to the butt; the user would then have to bend over and pull the body of the weapon upwards, thereby pulling the spring back until it attached to the trigger and cocking the weapon. Once this was achieved, the body was then lowered and turned to reattach it to the rest of the weapon, and the PIAT could then be fired.<ref name="Hogg45"/> Users of a small stature often found the cocking sequence challenging, as they did not have the sufficient height required to pull the body up far enough to cock the weapon; it was also difficult to do when lying in a prone position, as was often the case when using the weapon in action.<ref>Hogg, pp. 45–46</ref>
+Note, however, that troops were trained to cock the PIAT before expected use, and "in action the projector will always be carried cocked" (but unloaded).<ref name="War Office Manual"/> Unless a stoppage occurred, it would not normally be necessary to manually re-cock the weapon in action.
+When the trigger was pulled, the spring pushed the spigot rod (which has a fixed firing pin on the end) forwards into the bomb, which aligned the bomb, ignited the propellant cartridge in the bomb and launched it along the rod and into the air. The recoil caused by the detonation of the propellant blew the spigot rod backwards onto the spring; this reduced the shock of recoil and automatically cocked the weapon for subsequent shots, eliminating the need to manually re-cock.<ref name=Weeks/><ref name="Hogg45">Hogg, p. 45</ref>
+Tactical training emphasized that it was best utilized with surprise and concealment on the side of the PIAT team, and where possible enemy armoured vehicles should be engaged from the flank or rear.<ref name="Bull">Bull, p. 42</ref> Due to the short engagement distances and the power of the bomb, the crew could be in the bomb blast zone so hard cover was desirable; on open training grounds this might be a slit trench.<ref name="War Office Manual"/> The PIAT was often also used in combat to knock out enemy positions located in houses and bunkers.<ref name="Bull"/> It was possible to use the PIAT as a crude mortar by placing the shoulder pad of the weapon on the ground and supporting it.
+Despite the difficulties in cocking and firing the weapon, it did have several advantages. The Spigot mortar design allowed a large calibre powerful shaped charge bomb<ref name=Weeks/> giving greatly increased penetration power over the previous anti-tank rifles, allowing it to remain effective for the rest of the war; its construction was relatively simple and robust without a conventional barrel; there was no back-blast (unlike the contemporary American bazooka) that might endanger friendly troops and give the user's position away, this also meant that the PIAT could be used in confined spaces as in urban warfare; compared to the previous anti-tank rifles the muzzle blast was minimal, also a potential concealment issue. However, the weapon did have drawbacks. It was very heavy and bulky, which meant that it was often unpopular with infantry required to carry it.<ref name="Bishop, p. 211"/> There were also problems with early ammunition reliability and accuracy. Although the PIAT was theoretically able to penetrate approximately of armour, field experience during the Allied invasion of Sicily, which was substantiated by trials conducted during 1944, demonstrated that this capability was often nullified by problems of accuracy and round reliability. During these trials, a skilled user was unable to hit a target more than 60% of the time at , and faulty fuses meant that only 75% of the bombs fired detonated on-target.<ref name="French"/>
+==Ammunition and effect==
+The PIATs' ammunition used the shaped charge principle, which, if the often unreliable early round design delivered it correctly to the target, allowed the warhead to penetrate almost all enemy armour types at close range.<ref></ref>
+The following ammunition types were available in 1943.<ref name="War Office Manual"/>
+* Service Bomb - "Bomb, HE/AT"
+** Manual says green, but museum examples seem to be brown.
+** AT shaped charge warhead design. Supplied with the propellant cartridge fitted and the fuse separate. 
+** Versions:
+*** Mark I, 1942, Nobels 808 plastic explosive filling, green band
+*** Mark IA, Reinforced central tube
+*** Mark II, Revised nose fuse
+*** Mark III, Revised nose fuse, TNT filling, blue band
+*** Mark IV, July 1944, Revised construction to reduce rearward fragmentation and "back blast" of warhead explosion.
+** Also useful as a general-purpose HE blast type round.
+* Drill -"Bomb, Drill/AT"
+** Black, marked "Drill"
+** Same shape as a live round, for dry loading practice. Cannot be fired or dry fired.
+* Practice Bomb - "Shot, Practice/AT"
+** White
+** Cylindrical thick steel construction, effectively a sub-calibre practice round. The PIAT requires a trough-like adapter to use it. Economical as it may be fired many times with new propellant cartridges. Trajectory slightly different to service bomb.
+* Inert - "Bomb, Practice Inert/AT"
+** Black, yellow ring, marked "Inert"
+** Same size and weight as a live round, no warhead, but has a live propellant cartridge. It can be fired once from a standard PIAT, it is not re-usable.
+Rounds were supplied in three-round ammunition cases with the propellant cartridge fitted and the fuses separate.
+Getting the bomb to detonate reliably against angled targets was troublesome and was addressed with revised fusing. See also the bazooka, which had similar early problems. 
+The 1943 manual simply describes the service bomb as "H.E." or "HE/AT" and does not mention shaped charge as such. It notes that the bomb has "Excellent penetration. The bomb can penetrate the armour of the latest known types of enemy A.F.Vs. and a considerable thickness of reinforced concrete". It also notes that it may be used "as a house-breaker".
+==Operational history==
+===World War II===
+The PIAT was used in all theatres in which British and other Commonwealth forces served.<ref name= Khan23 />
+It entered service in mid-1943, and was first used in action by Canadian troops during the Allied invasion of Sicily.<ref name= Khan23 /> The 1944 war establishment for a British platoon, which contained 36 men, had a single PIAT attached to the platoon headquarters, alongside a mortar detachment.<ref>Neillands, p. 214</ref> Three PIATs were issued to every company at the headquarters level for issuing at the CO discretion – allowing one weapon for each platoon.<ref name="Bull" /> British Army and Royal Marines commandos were also issued with PIATs and used them in action.<ref>Moreman, p. 47</ref> 
+In Australian Army service, the PIAT was also known as "Projector Infantry Tank Attack" (PITA). From 1943, one PIAT team was allocated to each infantry platoon in a Jungle Division<ref name="Kuring_173">Kuring, p. 173</ref> – the tropical light infantry formation that was the standard front-line Australian division in the South West Pacific theatre. It was used against Japanese tanks, other vehicles and fortifications during the Borneo campaign (1945).
+A contemporary (1944–45) Canadian Army survey questioned 161 army officers, who had recently left combat, about the effectiveness of 31 different infantry weapons. In that survey the PIAT was ranked the number one most “outstandingly effective” weapon, followed by the Bren gun in second place.<ref name="Battle Experience Questionnaires, Vol. 10,450">Library and Archives Canada, Record Group 24, Battle Experience Questionnaires, Vol. 10,450, Weekly Reports, Canadian Small Arms Liaison Officer Overseas, 1941–1945, C-5167</ref>
+An analysis by British staff officers of the initial period of the Normandy campaign found that 7% of all German tanks destroyed by British forces were knocked out by PIATs, compared to 6% by rockets fired by aircraft. However, they also found that once German tanks had been fitted with armoured skirts that detonated shaped charge ammunition before it could penetrate the tank's armour, the weapon became much less effective.<ref name="French" />
+As part of the Anglo-Soviet Military Supplies Agreement, by 31 March 1946 the Soviet Union had been supplied with 1,000 PIATs and 100,000 rounds of ammunition.<ref name="Hansard"></ref> The PIAT was also utilized by resistance groups in Occupied Europe. During the Warsaw Uprising, it was one of many weapons that Polish Underground State used against German forces.<ref name= bruce145>Bruce, p. 145</ref> And in occupied France, the French resistance used the PIAT in the absence of mortars or artillery.<ref name= crowdy63>Crowdy, p. 63</ref>
+Six Victoria Crosses were awarded to members of the British and other Commonwealth armed forces for actions using the PIAT:<ref>Khan, p. 3</ref>
+* On 16 May 1944, during the Italian Campaign, Fusilier Frank Jefferson used a PIAT to destroy a Panzer IV tank and repel a German counterattack launched against his unit as they assaulted a section of the Winter Line.<ref></ref>
+* On 6 June 1944, Company Sergeant Major Stanley Hollis, in one of several actions that day, used a PIAT in an attack against a German field gun.<ref></ref>
+* On 12 June 1944 Rifleman Ganju Lama of the 7th Gurkha Rifles used a PIAT to knock out two Japanese tanks attacking his unit at Ningthoukhong, Manipur (given as Burma in the official citation). Despite sustaining injuries, Ganju Lama approached within of the enemy tanks, and having knocked them out moved on to attack the crews as they tried to escape.<ref></ref> When asked by his Army Commander, William Slim, why he went so close, he replied he was not certain of hitting with a PIAT beyond .<ref>Lt.Gen. Sir Geoffrey Evans and Anthony Brett-James Imphal- A Flower on Lofty Heights, Macmillan & Co., London, 1962, p. 310</ref>
+* Between 19 and 25 September 1944, during the Battle of Arnhem, Major Robert Henry Cain used a PIAT to disable an Stug III that was advancing on his company position, and to force another three German Panzer IV tanks to retreat during a later assault.<ref></ref>
+* On the night of 21/22 October 1944, Private Ernest Smith used a PIAT to destroy a German Panther tank, one of three Panthers and two self-propelled guns attacking his small group. The self-propelled vehicles were also knocked out. He then used a Thompson submachine gun to kill or repel about 30 enemy soldiers. His actions secured a bridgehead on the Savio River in Italy.<ref></ref>
+* On 9 December 1944, Captain John Brunt used a PIAT, amongst other weapons, to help repel an attack by the German 90th Panzergrenadier Division.<ref></ref>
+===After World War II===
+The PIAT remained in service until the early 1950s, when it was replaced initially by the ENERGA anti-tank rifle grenade and then the American bazooka.<ref name="Khan23" /> The Australian Army briefly used PIATs at the start of the Korean War alongside bazookas, but quickly replaced both weapons with M20 "Super Bazookas".<ref>Kuring, p. 245</ref>
+The Haganah and the emerging Israel Defence Force (IDF) used PIATs against Arab armour during the 1947–1949 Palestine war.<ref name=laffin30>Laffin, p. 30</ref>
+PIATs were also used by French and Việt Minh forces during the First Indochina War.<ref name="Viet Minh"></ref>
+==Users==
+Some of the users of the PIAT included:
+* <ref name="Kuring_173"/>
+* <ref>Guide Technique de Sous-Officiers du l'Infanterie 1954</ref>
+* <ref name="Khan23" />
+* <ref name=crowdy63/>
+* 
+* <ref>Sharma, Gautam, Valour and Sacrifice: Famous Regiments of the Indian Army, Allied Publishers, 1990, p42</ref>
+* <ref name=laffin30/>
+* (Co-Belligerent Army and partisans)<ref></ref>
+* 
+* known in Dutch service as granaatwerper tp (tegen pantser) ("grenade launcher anti-tank") entered service in 1943, with Dutch forces fighting under British command. It served into the 1950s.<ref>Talens, Martien. De ransel op de rug deel 2. Brabantia Nostra. p. 392</ref>
+* <ref>Phillips, p. 34</ref>
+* Polish Underground<ref name=bruce145/>
+* <ref name="Hansard"/>
+* <ref name="Khan23" />
+* Used by Yugoslav partisans<ref> urltoken 12th Vojvodina Brigade 1983, p. 49.</ref>
+* 
+* 
+* Captured from France<ref></ref>
+== Combat use ==
+World War II:
+* Operation Overlord (France 1944)
+* Battle of Arnhem (Netherlands, 1944)
+* Battle of Ortona (Italy, 1943)
+* Battle of Villers-Bocage (Normandy, France, 1944)
+* Operation Epsom (Normandy, France, 1944)
+* Operation Perch (Normandy, France, 1944)
+* Warsaw Uprising (1944)
+1948 Arab–Israeli War:
+* Battle of Yad Mordechai (Israel, 1948)
+* Battles of the Kinarot Valley (Israel, 1948)
+Indo-Pakistani War of 1971
+* Battle of Longewala (India, 1971)<ref name="p.42, Sharma">p.42, Sharma</ref>
+==See also==
+* Panzerfaust
+* Bazooka
+* RPG-1
+* Type 4 70 mm AT Rocket Launcher
+==References==
+==Bibliography==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+==External links==
+* urltoken PIAT performance and production
+* urltoken Nase noviny
+* urltoken Arnhem Archive
+* urltoken image of the round and fuze assembly
+* urltoken Pegasus bridge archive
+* urltoken Replica demonstrated
+
+in . from the Inventions Board.<ref name="ODNB" />

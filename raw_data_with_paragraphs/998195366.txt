@@ -1,0 +1,72 @@
+Volcanology
+
+== Modern volcanology ==
+image:Icelandic tephra.JPG|thumb|right|Volcanologist examining tephra horizons in south-central Iceland.
+In 1841, the first volcanological observatory, the Vesuvius Observatory, was founded in the Kingdom of the Two Sicilies.<ref> urltoken Vulcani attivi , INGV, accessed 29 August 2016.</ref>
+Seismic observations are made using seismographs deployed near volcanic areas, watching out for increased seismicity during volcanic events, in particular looking for long period harmonic tremors, which signal magma movement through volcanic conduits.<ref name=Decker>Robert Decker and Barbara Decker, Volcanoes, 4th ed., W. H. Freeman, 2005, </ref>
+Surface Deformation Monitoring includes the use of geodetic techniques such as leveling, tilt, strain, angle and distance measurements through tiltmeters, total stations and EDMs. This also includes GNSS and InSAR.<ref>Bartel, B., 2002. Magma dynamics at Taal Volcano, Philippines from continuous GPS measurements. Master's Thesis, Department of Geological Sciences, Indiana University, Bloomington, Indiana</ref> Surface deformation indicates magma upwelling: increased magma supply produces bulges in the volcanic center's surface.
+Gas emissions may be monitored with equipment including portable ultra-violet spectrometers (COSPEC, now superseded by the miniDOAS), which analyzes the presence of volcanic gases such as sulfur dioxide; or by infra-red spectroscopy (FTIR). Increased gas emissions, and more particularly changes in gas compositions, may signal an impending volcanic eruption.<ref name=Decker/>
+Temperature changes are monitored using thermometers and observing changes in thermal properties of volcanic lakes and vents, which may indicate upcoming activity.<ref name=Francis>Peter Francis and Clive Oppenheimer, Volcanoes, Oxford University Press, USA 2003, 2nd ed., </ref>
+Satellites are widely used to monitor volcanoes, as they allow a large area to be monitored easily. They can measure the spread of an ash plume, such as the one from Eyjafjallajökull's 2010 eruption,<ref></ref> as well as sulfur dioxide emissions.<ref></ref> InSAR and thermal imaging can monitor large, scarcely populated areas where it would be too expensive to maintain instruments on the ground.
+Other Geophysics (electrical, gravity and magnetic observations) include monitoring fluctuations and sudden change in resistivity, gravity anomalies or magnetic anomaly patterns that may indicate volcano-induced faulting and magma upwelling.<ref name=Francis/>
+Stratigraphy includes analyzing tephra and lava deposits and dating these to give volcano eruption patterns,<ref></ref> with estimated cycles of intense activity and size of eruptions.<ref name=Decker/>
+== History ==
+Volcanology has an extensive history. The earliest known recording of a volcanic eruption may be on a wall painting dated to about 7,000&nbsp;BCE found at the Neolithic site at Çatal Höyük in Anatolia, Turkey. This painting has been interpreted as a depiction of an erupting volcano, with a cluster of houses below shows a twin peaked volcano in eruption, with a town at its base (though archaeologists now question this interpretation).<ref name=Meece>Meece, Stephanie, (2006)A bird’s eye view - of a leopard’s spots. The Çatalhöyük ‘map’ and the development of cartographic representation in prehistory Anatolian Studies 56:1-16. See urltoken The volcano may be either Hasan Dağ, or its smaller neighbour, Melendiz Dağ.<ref name="Ülkekul">Ülkekul, Cevat, (2005)Çatalhöyük Şehir Plani: Town Plan of Çatalhöyük Dönence, Istanbul.</ref>
+=== Greco-Roman philosophy ===
+The classical world of Greece and the early Roman Empire explained volcanoes as sites of various gods. Greeks considered that Hephaestus, the god of fire, sat below the volcano Etna, forging the weapons of Zeus. The Greek word used to describe volcanoes was etna, or hiera, after Heracles, the son of Zeus. The Roman poet Virgil, in interpreting the Greek mythos, held that the giant Enceladus was buried beneath Etna by the goddess Athena as punishment for rebellion against the gods; the mountain's rumblings were his tormented cries, the flames his breath and the tremors his railing against the bars of his prison. Enceladus' brother Mimas was buried beneath Vesuvius by Hephaestus, and the blood of other defeated giants welled up in the Phlegrean Fields surrounding Vesuvius.
+The Greek philosopher Empedocles (c. 490-430&nbsp;BCE) saw the world divided into four elemental forces, of Earth, Air, Fire and Water. Volcanoes, Empedocles maintained, were the manifestation of Elemental Fire. Plato contended that channels of hot and cold waters flow in inexhaustible quantities through subterranean rivers. In the depths of the earth snakes a vast river of fire, the Pyriphlegethon, which feeds all the world's volcanoes. Aristotle considered underground fire as the result of "the.friction of the wind when it plunges into narrow passages."
+Wind played a key role in volcano explanations until the 16th century. Lucretius, a Roman philosopher, claimed Etna was completely hollow and the fires of the underground driven by a fierce wind circulating near sea level. Ovid believed that the flame was fed from "fatty foods" and eruptions stopped when the food ran out. Vitruvius contended that sulfur, alum and bitumen fed the deep fires. Observations by Pliny the Elder noted the presence of earthquakes preceded an eruption; he died in the eruption of Vesuvius in 79&nbsp;CE while investigating it at Stabiae. His nephew, Pliny the Younger, gave detailed descriptions of the eruption in which his uncle died, attributing his death to the effects of toxic gases. Such eruptions have been named Plinian in honour of the two authors.
+=== Renaissance observations ===
+Nuées ardentes were described from the Azores in 1580. Georgius Agricola argued the rays of the sun, as later proposed by Descartes had nothing to do with volcanoes. Agricola believed vapor under pressure caused eruptions of 'mointain oil' and basalt.
+Jesuit Athanasius Kircher (1602–1680) witnessed eruptions of Mount Etna and Stromboli, then visited the crater of Vesuvius and published his view of an Earth with a central fire connected to numerous others caused by the burning of sulfur, bitumen and coal.
+Johannes Kepler considered volcanoes as conduits for the tears and excrement of the Earth, voiding bitumen, tar and sulfur. Descartes, pronouncing that God had created the Earth in an instant, declared he had done so in three layers; the fiery depths, a layer of water, and the air. Volcanoes, he said, were formed where the rays of the sun pierced the earth.
+Science wrestled with the ideas of the combustion of pyrite with water, that rock was solidified bitumen, and with notions of rock being formed from water (Neptunism). Of the volcanoes then known, all were near the water, hence the action of the sea upon the land was used to explain volcanism.
+=== Interaction with religion and mythology ===
+Tribal legends of volcanoes abound from the Pacific Ring of Fire and the Americas, usually invoking the forces of the supernatural or the divine to explain the violent outbursts of volcanoes.<ref></ref> Taranaki and Tongariro, according to Māori mythology, were lovers who fell in love with Pihanga, and a spiteful jealous fight ensued. Māori will not to this day live between Tongariro and Taranaki for fear of the dispute flaring up again.
+In the Hawaiian religion, Pele Pel-a; is the goddess of volcanoes and a popular figure in Hawaiian mythology.<ref name="Nimmo"></ref> Pele was used for various scientific terms as for Pele's hair, Pele's tears, and Limu o Pele (Pele's seaweed). A volcano on the Jovian moon Io is also named Pele.<ref name=Radebaugh2004></ref>
+Saint Agatha is patron saint of Catania, close to mount Etna, and an important highly venerated (till today<ref name=foley> urltoken Foley O.F.M., Leonard. Saint of the Day, (revised by Pat McCloskey O.F.M.), Franciscan Media </ref>) example of virgin martyrs of Christian antiquity.<ref name=kirsch> urltoken Kirsch, Johann Peter. "St. Agatha." The Catholic Encyclopedia. Vol. 1. New York: Robert Appleton Company, 1907. 25 April 2013</ref> In 253 CE, one year after her violent death, the stilling of an eruption of Mt. Etna was attributed to her intercession. Catania was however nearly completely destroyed by the eruption of Mt. Etna in 1169, and over 15,000 of its inhabitants died. Nevertheless, she was invoked again for the 1669 Etna eruption and, for an outbreak danginering Nicolosi in 1886.<ref>Volcanoes: Crucibles of Change Richard V. Fisher, Grant Heiken, Jeffrey B. Hulen Princeton University Press, 1998</ref> The way she is invoked and dealt with in Italian Folk religion, a sort of quid pro quo way approach to saints, has been related (in the tradition of James Frazer) to earlier pagan believes.<ref>Festa: Recipes and Recollections of Italian Holidays Helen Barolini Univ of Wisconsin Press, 2002</ref>
+In 1660 the eruption of Vesuvius rained twinned pyroxene crystals and ash upon the nearby villages. The crystals resembled the crucifix and this was interpreted as the work of Saint Januarius. In Naples, the relics of St Januarius are paraded through town at every major eruption of Vesuvius. The register of these processions and the 1779 and 1794 diary of Father Antonio Piaggio allowed British diplomat and amateur naturalist Sir William Hamilton to provide a detailed chronology and description of Vesuvius' eruptions.<ref> urltoken The Lure of Volcanoes urltoken James Hamilton urltoken History Today urltoken Volume 60 Issue 7 July 2010 </ref>
+==Notable volcanologists==
+*Plato (428–348 BC)
+*Pliny the Elder (23–79 AD)
+*Pliny the Younger (61 – 
+*George-Louis Leclerc, Comte de Buffon (1707–1788)
+*James Hutton (1726–1797)
+*Déodat Gratet de Dolomieu (1750–1801)
+*George Julius Poulett Scrope (1797–1876)
+*Giuseppe Mercalli (1850–1914)
+*Thomas Jaggar (1871–1953), founder of the Hawaiian Volcano Observatory
+*Haroun Tazieff (1914–1998), advisor to the French Government and Jacques Cousteau
+*George P. L. Walker (1926–2005), pioneering volcanologist who transformed the subject into a quantitative science
+*Haraldur Sigurdsson (born 1939), Icelandic volcanologist and geochemist
+*Katia and Maurice Krafft (1942–1991 and 1946–1991, respectively), died at Mount Unzen in Japan, 1991
+*David A. Johnston (1949–1980), killed during the 1980 eruption of Mount St. Helens
+*Harry Glicken (1958–1991), died at Mount Unzen in Japan, 1991
+== Gallery ==
+<gallery>
+Arenal at night.jpg|Arenal Volcano, Costa Rica at night. 
+Krysuvik Iceland 037.JPG|Krýsuvík, a thermal area in the Southwest of Iceland.
+Halemaumau.jpg|Sulphur deposit at Halemaʻumaʻu on Kīlauea in Big Island, Hawaii
+Pinatubo - pyroclastic fall.jpg|Erosional dissection of an ash deposit at Pinatubo volcano in the Philippines.
+Strokkur geyser eruption, close-up view.jpg|The eruption of the geysir Strokkur in early morning. 
+</gallery>
+==See also==
+*Global Volcanism Program
+*GNS Science (formerly the Institute of Geological and Nuclear Sciences) (in New Zealand)
+*Igneous rock
+*Important publications in volcanology
+*Kiyoo Mogi, developer of the Mogi model of volcano deformation
+*Tephrochronology
+*Volcano Number
+*Volcanism
+==References==
+==External links==
+* urltoken European Volcanological Society
+* urltoken United States Geological Survey- Volcanic Hazards Program
+* urltoken Volcano Live- What is a volcanologist?
+* 
+* urltoken World Organization of Volcano Observatories
+* and
+
+Volcanology (also spelled vulcanology) is the study of volcanoes, lava, magma and related geology, geophysical and geochemical phenomena (volcanism). The term volcanology is derived from the Latin word vulcan. Vulcan was the ancient Roman god of fire.
+A volcanologist is a geologist who studies the eruptive activity and formation of volcanoes and their current and historic eruptions. Volcanologists frequently visit volcanoes, especially active ones, to observe volcanic eruptions, collect eruptive products including tephra (such as ash or pumice), rock and lava samples. One major focus of enquiry is the prediction of eruptions; there is currently no accurate way to do this, but predicting eruptions, like predicting earthquakes, could save many lives.

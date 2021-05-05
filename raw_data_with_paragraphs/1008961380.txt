@@ -1,0 +1,72 @@
+Bug-out bag
+
+==Terminology==
+The term "bug-out bag" is related to, and possibly derived from, the "bail-out bag" emergency kit many military aviators carry. In the United States, the term refers to the Korean War practice of the U.S. Army designating alternative defensive positions, in the event that the units had to retreat. They were directed to "bug out" when being overrun was imminent. The term has since been adopted by military training institutions around the world, with Standard Operating Procedures involving a bug out location, a method of withdrawal, and the bare supplies needed to withdraw quickly but still survive in the field.<ref></ref> The concept passed into wide usage among other military and law enforcement personnel, though the "bail-out bag" is as likely to include emergency gear for going into an emergency situation as for escaping an emergency.<ref name="BlueSheepdog.com"></ref>
+The term go-kit is popular in the amateur radio service, especially in the Amateur Radio Emergency Service (ARES) and Radio Amateur Civil Emergency Service (RACES) communities, and describes a combination personal bug-out bag and portable amateur radio station. A personal go-kit generally takes some combination of units: a "one-day" (or "24 hour") kit, a "three day" (or "72 hour") kit that adds additional supplies, or a "one week kit" that adds yet additional personal items to the three-day kit. Any or all supports deploying the operator plus his or her privately owned self-contained radio communications setup.
+==Rationale==
+The primary purpose of a bug-out bag is to allow one to evacuate quickly if a disaster should strike.<ref></ref> It is therefore prudent to gather into a single place all of the materials and supplies that might be required to do this, such as a bag or a few storage containers. The recommendation that a bug-out bag contain enough supplies for 72 hours arises from advice from organizations responsible for disaster relief and management that it may take them up to 72 hours to reach people affected by a disaster and offer help.<ref name="redcross.ca"></ref> The bag's contents may vary according to the region of the user, as someone evacuating from the path of a hurricane may have different supplies from someone who lives in an area prone to blizzards, earthquakes, or wildfires.
+In addition to allowing one to survive a disaster evacuation, a bug-out bag may also be used when sheltering in place as a response to emergencies such as blackouts, house fires, tornadoes, and other severe natural disasters.
+Some survivalists also recommend keeping a get me home kit in the car and/or at work. This is a kit to enable a person to get back home from work in an emergency where all transport cars and public transport have broken down. It is designed around personal circumstances where, for example, a walk of 25 kilometres might be required from work to home. The get me home kit can include, for example, enough water to get home, suitable walking shoes, a map (not electronic), enough food for 12 hours, clothing for adverse weather, etc.
+==Typical contents==
+The suggested contents of a bug-out bag vary, but most of the following are usually included. They can usually be sorted into several categories:<ref name=South1990p221/><ref></ref><ref>Building Kits: Getting Prepared takes commitment, by Mike Peterson, American Survival Guide Magazine, Dec., 1993, p. 76</ref><ref>Survival Skills Intensive Training: Assembling the Bug Out Kit, by Christopher Nyerges, American Survival Guide Magazine, May, 1998, p. 26</ref>
+* Essentials (necessary for the human body to survive):
+** Respirator—if in an environment where one needs to access safe to breathe oxygen.
+** Water and food to last for at least 72 hours. This includes:
+*** Water for washing, drinking and cooking. Canada recommends per person per day for drinking and an additional per person per day for cleaning and hygiene if possible.<ref></ref> New Zealand recommends per person per day for drinking.<ref></ref> The US recommends per person per day.<ref></ref>
+*** Water purification supplies or water filtration system.
+*** Non-perishable food<ref name="abc.net.au"></ref>
+*** Cooking supplies.<ref></ref>
+* First Aid (a first aid kit can contain multiple different items in case of injury)
+** Enough medicine to last an extended evacuation period.
+** Medicine for indigestion, stomachache, nausea, and diarrhea
+** Tampons<ref></ref> (dependent on sex)
+** Hand sanitizer
+**Band-Aids
+* Shelter, Clothing and Warmth
+** Necessary clothing (e.g., socks and underwear). It is generally assumed that during an emergency situation outer wear will be worn for an extended period of time.
+** Weather-appropriate clothing and UV protection (e.g., poncho, golf umbrella headwear, gloves, etc.).
+** Bedding items such as sleeping bags and blankets. Thick plastic or oilcloth tarpaulins can keep ground moisture out of bedding and form a tarp tent shelter from dew or rain.
+** Fire-starting tool (e.g., matches, Ferrocerium, lighter, 9 volt battery, etc.).
+** Standard camping equipment, including sanitation supplies.<ref>Survival Kits: Critical 10 Percent, by Daniel C. Friend, American Survival Guide Magazine, Mar. 1990, p. 30</ref>
+* Literature
+** A disaster plan including location of emergency centers, rallying points, possible evacuation routes, etc.
+** Professional emergency literature explaining what to do in various types of disaster, studied and understood before the actual disaster but kept for reference. 
+** Physical maps and travel information.<ref>The Commuter Kit: Essential Tools for Daily Commuters, by M. Marlo Brown, American Survival Guide Magazine, Jan. 2000, p. 112</ref>
+* Tools and Navigation
+** Battery or crank-operated radio.<ref name="abc.net.au"/>
+** Lighting (battery or crank operated flashlight, glow sticks).<ref name="abc.net.au"/>
+** An external power-pack or small, portable solar charger (to keep the phone charged).<ref name="The Prepping Guide"></ref>
+**Batteries for flashlights and radio.<ref name="abc.net.au"/>
+** Swiss Army Knife<ref></ref>
+** A Multi-tool
+** Duct tape and rope or paracord<ref></ref>
+** A mini shovel, axe/hatchet, or a combined version of the two for more portability
+** Folding Saw
+** Super Glue, which can also be used to suture wounds.<ref name="Non-suture Closure of Wounds"></ref>
+** Tarpaulins for shelter and water collection
+** Wire for binding and animal traps
+** Small Fishing tackle
+** Signal mirror
+** Emergency whistle
+** Rubber tubing
+** Trash bags
+** Aluminum foil
+** Paracord
+** Compass
+* Defense from most dangerous animals or people if required. Some equipment listed in other sections can also serve as self-protection if required, such as a shovel or hatchet.
+** Knife with a sheath
+** Pepper Spray
+** Firearms and ammunition, slingshot, pellet gun, blowgun or other small game hunting equipment
+* Miscellaneous 
+** Pet, child, and elderly care needs.<ref name="abc.net.au"/>
+** Physical cash and change, as electronic banking transactions may not be available during the initial period following an emergency or evacuation.
+** Positive identification documents, plus any medical ID cards if you have them. Those with allergies should have a MedicAlert or similar ID.
+** Copies of medical records for each person in the family.
+** Printed copy of any insurance information such as home and contents insurance.<ref name="The Prepping Guide"/>
+** Copies of birth certificate
+** Passport
+== In popular culture ==
+Dean Ing's 1995 novel Spooker revolves around the theft of bug-out bags (called "spookers" in the novel) from spies.<ref></ref>
+
+A bug-out bag or BOB<ref name=South1990p221></ref><ref></ref><ref></ref> is a portable kit that normally contains the items one would require to survive for 72 hours<ref></ref> when evacuating from a disaster, although some kits are designed to last longer periods. Other names for such a bag are a 72-hour kit,<ref></ref> battle box, grab bag, go bag, GOOD bag (get out of Dodge),<ref></ref><ref></ref> personal emergency relocation kit (PERK), or quick run bag (QRB).<ref></ref><ref></ref>
+The focus is on evacuation, rather than long-term survival, distinguishing the bug-out bag from a survival kit, an aviation or a boating emergency kit, or a fixed-site disaster supplies kit. The kits are also popular in the survivalism subculture.

@@ -1,0 +1,81 @@
+Crane fly
+
+== Description ==
+=== Summary ===
+An adult crane fly, resembling an oversized mosquito, typically has a slender body and stilts legs that are deciduous, easily coming off the body. The wingspan is generally about 1.0 to 6.5&nbsp;cm, though some species of Holorusia can reach 11&nbsp;cm.<ref></ref> The antennae have up to 19 segments.<ref name=delta>Watson, L. and M. J. Dallwitz. 2003 onwards. urltoken Tipulidae. British Insects: The Families of Diptera. Version: 1 January 2012.</ref> It’s also characterized by a V-shaped suture or groove on the back of the thorax (mesonotum) and by its wing venation. <ref name=pritch /> The rostrum is long and in some species as long as the head and thorax together. <ref name=de />
+=== Formal ===
+Tipulidae are medium to large-sized flies (7–35&nbsp;mm) with elongated legs, wings, and abdomen. Their colour is yellow, brown or grey. Ocelli are absent. The rostrum (a snout) is short to very short with a beak-like point called the nasus (rarely absent). The apical segment of the maxillary palpi is flagelliform and much longer than the subapical segment. The antennae have 13 segments (exceptionally 14–19). These are whorled, serrate, or ctenidial. There is a distinct V-shaped suture between the mesonotal prescutum and scutum (near the level of the wing bases). The wings are monochromatic, longitudinally striped or marbled. In females the wings are sometimes rudimentary. The sub-costal vein (Sc) joins through Sc2 with the radial vein, Sc1 is at most a short stump. There are four, rarely (when R2 is reduced) three branches of the radial vein merging into the alar margin. The discoidal wing cell is usually present. The wing has two anal veins. Sternite 9 of the male genitalia has, with few exceptions, two pairs of appendages. Sometimes appendages are also present on sternite 8. The female ovipositor has sclerotized valves and the cerci have a smooth or dentate lower margin. The valves are sometimes modified into thick bristles or short teeth.
+The larva is elongated, usually cylindrical. The posterior two-thirds of the head capsule is enclosed or retracted within the prothoracic segment. The larva is metapneustic (with only one pair of spiracles, these on the anal segment of the abdomen), but often with vestigial lateral spiracles (rarely apneustic). The head capsule is sclerotized anteriorly and deeply incised ventrally and often dorsolaterally. The mandibles are opposed and move in the horizontal or oblique plane. The abdominal segments have transverse creeping welts. The terminal segments of the abdomen are glabrous, often partially sclerotized and bearing posterior spiracles. The spiracular disc is usually surrounded by lobe-like projections and anal papillae or lobes.
+== Biology ==
+The adult female usually contains mature eggs as she emerges from her pupa, and often mates immediately if a male is available. Males also search for females by walking or flying. Copulation takes a few minutes to hours and may be accomplished in flight. Adults have a lifespan of 10 to 15 days.<ref></ref> The female immediately oviposits, usually in wet soil or mats of algae. Some lay eggs on the surface of a water body or in dry soils, and some reportedly simply drop them in flight. Most crane fly eggs are black in color. They often have a filament, which may help anchor the egg in wet or aquatic environments.<ref name=oo />
+Crane fly larvae (leatherjackets) have been observed in many habitat types on dry land and in water,<ref name=oo /> including Ocean, brackish, and fresh water.<ref name=de /> They are cylindrical in shape, but taper toward the front end, and the head capsule is often retracted into the thorax. The abdomen may be smooth, lined with hairs, or studded with projections or welt-like spots. Projections may occur around the spiracles.<ref name=de /> Larvae may eat algae, microflora, and living or decomposing plant matter, including wood. Some are predatory.<ref name=pritch /><ref name=oo />
+== Ecology ==
+Larval habitats include all kinds of freshwater, semiaquatic environments. Some Tipulinae, including Dolichopeza Curtis, are found in moist to wet cushions of mosses or liverworts. Ctenophora Meigen species are found in decaying wood or sodden logs. Nephrotoma Meigen and Tipula Linnaeus larvae are found in dry soils of pasturelands, lawns, and steppe. Tipulidae larvae are also found in rich organic earth and mud, in wet spots in woods where the humus is saturated, in leaf litter or mud, decaying plant materials, or fruits in various stages of putrefaction.
+Larvae can be important in the soil ecosystem, because they process organic material and increase microbial activity.<ref name=oo /> Larvae and adults are also valuable prey items for many animals, including insects, spiders, fish, amphibians, birds, and mammals.<ref name=de />
+The larvae of some species consume other living aquatic insects and invertebrates, which could potentially include mosquito larvae.<ref></ref><ref name="DepartmentOfEntomology" /> Many adults, however, have such short lifespans that they do not eat at all,<ref name="DepartmentOfEntomology"></ref> and, despite widely held beliefs that adult crane flies (or "mosquito hawks") prey on mosquito populations, the adult crane fly is anatomically incapable of killing or consuming other insects.<ref></ref>
+== Pest status ==
+The common European crane fly, Tipula paludosa, and the marsh crane fly, T. oleracea, are agricultural pests in Europe. Crane fly larvae of economic importance live in the top layers of soil where they feed on the Root, Fine root, crown, and sometimes the leaves of crops, stunting their growth or killing the plants. They are pests on a variety of commodities. Since the late 1900s, T. paludosa and T. oleracea have become invasive in the United States.<ref></ref><ref></ref><ref>Jackson D. M, Campbell R. L. Biology of the European crane fly, Meigen, in western Washington (Tipulidae: Diptera). Washington State University Technical Bull. No. 81. 1975.</ref> The larvae have been observed on many crops, including vegetables, fruits, cereals, pasture, lawn grasses, and ornamental plants.
+In 1935, Lord's Cricket Ground in London was among venues affected by leatherjackets. Several thousand were collected by ground staff and burned, because they caused bald patches on the pitch and the pitch took unaccustomed spin for much of the season.<ref></ref>
+== Genera ==
+* Subfamily Ctenophorinae
+** Ctenophora <small>Meigen, 1803</small>
+** Dictenidia <small>Brulle, 1833</small>
+** Phoroctenia <small>Coquillett, 1910</small>
+** Pselliophora <small>Osten Sacken, 1887</small>
+** Tanyptera <small>Latreille, 1804</small>
+* Subfamily Cylindrotominae
+** Cylindrotoma <small>Macquart, 1834</small>
+** Diogma <small>Edwards, 1938</small>
+** Liogma <small>Osten Sacken, 1869</small>
+** Phalacrocera <small>Schiner, 1863</small>
+** Stibadocera <small>Enderlein, 1912</small>
+** Stibadocerella <small>Brunetti, 1918</small>
+** Stibadocerina <small>Alexander, 1929</small>
+** Stibadocerodes <small>Alexander, 1928</small>
+** Triogma <small>Schiner, 1863</small>
+* Subfamily Dolichopezinae
+** Dolichopeza <small>Curtis, 1825</small>
+* Subfamily Tipulinae
+** Acracantha <small>Skuse, 1890</small>
+** Angarotipula <small>Savchenko, 1961</small>
+** Austrotipula <small>Alexander, 1920</small>
+** Brachypremna <small>Osten Sacken, 1887</small>
+** Brithura <small>Edwards, 1916</small>
+** Clytocosmus <small>Skuse, 1890</small>
+** Elnoretta <small>Alexander, 1929</small>
+** Euvaldiviana <small>Alexander, 1981</small>
+** Goniotipula <small>Alexander, 1921</small>
+** Holorusia <small>Loew, 1863</small>
+** Hovapeza <small>Alexander, 1951</small>
+** Hovatipula <small>Alexander, 1955</small>
+** Idiotipula <small>Alexander, 1921</small>
+** Indotipula <small>Edwards, 1931</small>
+** Ischnotoma <small>Skuse, 1890</small>
+** Keiseromyia <small>Alexander, 1963</small>
+** Leptotarsus <small>Guerin-Meneville, 1831</small>
+** Macgregoromyia <small>Alexander, 1929</small>
+** Megistocera <small>Wiedemann, 1828</small>
+** Nephrotoma <small>Meigen, 1803</small>
+** Nigrotipula <small>Hudson & Vane-Wright, 1969</small>
+** Ozodicera <small>Macquart, 1834</small>
+** Platyphasia <small>Skuse, 1890</small>
+** Prionocera <small>Loew, 1844</small>
+** Prionota <small>van der Wulp, 1885</small>
+** Ptilogyna <small>Westwood, 1835</small>
+** Scamboneura <small>Osten Sacken, 1882</small>
+** Sphaerionotus <small>de Meijere, 1919</small>
+** Tipula <small>Linnaeus, 1758</small>
+** Tipulodina <small>Enderlein, 1912</small>
+** Valdiviana <small>Alexander, 1929</small>
+** Zelandotipula <small>Alexander, 1922</small>
+== Phylogenetics ==
+The phylogenetic position of the Tipulidae remains uncertain. The classical viewpoint that they are an early branch of Diptera<ref>Rohdendorf, B. 1974. The Historical Development of Diptera. Edmonton: Univ. Alberta.</ref><ref>Savchenko, E. N. 1966. Phylogeny and systematics of the Tipulidae. Fauna Ukraini 14:63–88. In Russian.</ref>—perhaps (with the Trichoceridae) the Cladistics of all other Diptera—is giving way to modern views that they are more highly derived.<ref>CSIRO, 2017. Australian Insect Families, < urltoken This is thanks to evidence from molecular studies, which is consistent with the more derived larval characters similar to those of 'higher' Diptera.<ref>Gullan, P. J., Cranston, P. S. 2014. The insects: an outline of entomology. 5th edition. West Sussex: Wiley Blackwell.</ref> The Pediciidae and Tipulidae are sister groups (the "limoniids" are a paraphyletic clade)<ref name="Petersen, M.J. 2010" /> and the Cylindrotominae appear to be a relict group that was much better represented in the Tertiary.<ref>Hennig, W. 1950. Die Larvenformen der Dipteren, Arb. 2. Berlin: Akad. Verlag.</ref> Tipulidae probably evolved from ancestors in the Upper Jurassic, the Architipulidae, representatives of the Limoniinae are known from the Upper Triassic.
+== Common names ==
+Numerous other common names have been applied to the crane fly. Many of the names are more or less regional in the U.S., including mosquito hawk, mosquito eater, gallinipper, and gollywhopper.<ref name=DARE></ref> They are also known as daddy longlegs around the world,<ref name="delta" /> not to be confused with daddy-long-legs that refers to arachnids of the order Opiliones or the family Pholcidae. The larvae of crane flies are known commonly as leatherjackets.<ref name=delta />
+== Misconceptions ==
+There is an enduring urban legend that crane flies are the most venomous insects in the world, but have no ability to administer the venom; this is not true.<ref name=newsround> urltoken Could record 200 billion daddy-long-legs hit UK? - Newsround, CBBC, 8 September 2016.</ref> The myth likely arose due to their being confused with the cellar spider as they are also informally called "daddy longlegs", and although the spider does possess venom, it is not especially potent.<ref> urltoken Debunked: Are Daddy Longlegs the most poisonous spiders in the world? - TheJournal.ie, 20 October 2013.</ref>
+Despite widely held beliefs that adult crane flies (or "mosquito hawks") prey on mosquito populations, the adult crane fly is anatomically incapable of killing or consuming other insects.<ref></ref> Although the adults of some species may feed on nectar, the adults of many species have such short lifespans that they do not eat at all.<ref name="DepartmentOfEntomology"></ref>
+
+Crane fly is a common name referring to any member of the insect family Tipulidae, of the order fly, true fly in the superfamily Tipuloidea. Cylindrotominae, Limoniinae, and Pediciinae have been ranked as subfamilies of Tipulidae by most authors,<ref>Alexander C.P., Byers G.W. (1981) Tipulidae. in: McAlpine J.F. et al. (Ed.), Manual of Nearctic Diptera. Agriculture Canada, Ottawa, pp. 153–1902 urltoken pdf download manual</ref> though occasionally elevated to family rank. In the most recent classifications, only Pediciidae is now ranked as a separate family, due to considerations of paraphyly.<ref name="Petersen, M.J. 2010"></ref> In colloquial speech, crane flies are sometimes known as mosquito hawks<ref></ref> or daddy longlegs,<ref name=delta /> a term also used to describe opiliones or the family Pholcidae, both of which are arachnids. The larvae of crane flies are known commonly as leatherjackets.<ref name=delta />
+Crown group crane flies have existed since at least the Barremian stage of the Early Cretaceous<ref></ref> and are found worldwide, though individual species usually have limited ranges. They are most diverse in the tropics but are also common in northern latitudes and high elevations.<ref name=pritch></ref>
+The Tipulidae is one of the largest groups of flies, including over 15,000 species and subspecies in 525 genus and subgenera.<ref name=de></ref> Most crane flies were described by the entomology Charles Paul Alexander, a fly specialist, in over 1000 Academic publishing.<ref name=oo>Oosterbroek, P. urltoken Superfamily Tipuloidea, Family Tipulidae. Chapter 2 In: Evenhuis, N. L. (Ed.) Catalog of the Diptera of the Australasian and Oceanian Regions, Issue 86 of Bernice P. Bishop Museum Special Publication. Apollo Press. 1989.</ref>

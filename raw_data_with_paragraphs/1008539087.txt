@@ -1,0 +1,220 @@
+VxWorks
+
+==History==
+VxWorks started in the late 1980s as a set of enhancements to a simple RTOS called VRTX<ref name="netrino-glossary-v"></ref> sold by Ready Systems (becoming a Mentor Graphics product in 1995).<ref></ref> Wind River acquired rights to distribute VRTX and significantly enhanced it by adding, among other things, a file system and an integrated development environment. In 1987, anticipating the termination of its reseller contract by Ready Systems, Wind River developed its own kernel to replace VRTX within VxWorks.<ref> urltoken Lord of the Toasters, Wired (magazine) interview with Jerry Fiddler, September 1998</ref>
+VxWorks key milestones are:<ref name="history"> urltoken Company Histories, Funding Universe</ref>
+* 1980s: VxWorks adds support for 32-bit processors.
+* 1990s: VxWorks 5 becomes the first RTOS with a networking stack.
+* 2000s: VxWorks 6 supports SMP and adds derivative industry-specific platforms.
+* 2010s: VxWorks adds support for 64-bit processing<ref name="star"/> and introduces VxWorks 7 for IoT in 2016.<ref name="joab2">Wind River urltoken Outfits VxWorks for the Internet of Things, Computer World</ref>
+==Platform overview==
+VxWorks supports Intel architecture, Power architecture, and ARM architectures.<ref name="HW"/> The RTOS can be used in multi-core asymmetric multiprocessing (AMP), symmetric multiprocessing (SMP), and mixed modes<ref name="star"/> and multi-OS (via Type 1 hypervisor)<ref name="virt"/> designs on 32- and 64-bit processors.
+The VxWorks consists of a set of runtime components and development tools. The run time components are an operating system (UP and SMP; 32- and 64-bit), software for applications support (file system, core network stack, USB stack and inter-process communications) and hardware support (architecture adapter, processor support library, device driver library and board support packages).<ref name="star"/> VxWorks core development tools are compilers such as Diab, GNU, and Intel C++ Compiler (ICC)) and its build and configuration tools. The system also includes productivity tools such as its Workbench development suite and Intel tools and development support tools for asset tracking and host support.<ref name="star"/>
+The platform is a modular, vendor-neutral, open system that supports a range of third-party software and hardware. The OS kernel is separate from middleware, applications and other packages,<ref name="msscwb"/> which enables easier bug fixes and testing of new features.<ref name="joab2"/> An implementation of a layered source build system allows multiple versions of any stack to be installed at the same time so developers can select which version of any feature set should go into the VxWorks kernel libraries.
+Optional advanced technology for VxWorks provides add-on technology-related capabilities, such as:
+* Advanced security features to safeguard devices and data residing in and traveling across the Internet of Things (IoT)
+* Advanced safety partitioning to enable reliable application consolidation
+* Real-time advanced visual edge analytics allowing autonomous responses on VxWorks-based devices in real time without latency
+* Optimized embedded Java runtime engine enabling the deployment of Java applications
+* Virtualization capability with a real-time embedded, Type 1 hypervisor
+==Features==
+A list of some of the features of the OS are:<ref name="amp"/><ref></ref><ref> urltoken POSIX Certification Register</ref><ref> urltoken Filesystems in VxWorks, CDF online, Fermi Labs</ref>
+* Multitasking kernel with preemptive and round-robin scheduling and fast interrupt response
+* Native 64-bit operating system (only one 64-bit architecture supported: x86-64). Data model: LP64.
+* User-mode applications ("Real-Time Processes", or RTP) isolated from other user-mode applications as well as the kernel via memory protection mechanisms.
+* SMP, AMP and mixed mode multiprocessing support
+* Error handling framework
+* Bluetooth, USB, CAN protocols, Firewire IEEE 1394, BLE, L2CAP, Continua stack, health device profile
+* Binary, counting, and mutual exclusion semaphores with priority inheritance
+* Local and distributed message queues
+* POSIX certified conformity in user-mode execution environment 
+* File systems: High Reliability File System (HRFS), FAT-based file system (DOSFS), Network File System (NFS), and TFFS
+* Dual-mode IPv6 networking stack with IPv6 Ready Logo certification
+* Memory protection including real-time processes (RTPs), error detection and reporting, and IPC
+* Multi-OS messaging using TIPC and Wind River multi-OS IPC
+* Symbolic debugging
+In March 2014, Wind River introduced VxWorks 7, which emphasizes scalability, security, safety, connectivity, graphics, and virtualization.<ref name="joab1"/><ref name="joab2"/><ref name="mod">Wind River Reinvents the urltoken Real-Time Operating System for the Internet of Things Windriver.com,</ref> The following lists some of the release 7 updates.<ref name="64bitWBvert"/><ref name="star"/><ref name = "iTERS"/><ref name="joab1"/> More information can be found on the urltoken Wind Rivers VxWorks website.
+* Modular, componentized architecture using a layered build system with the ability to update each layer of code independently
+* VxWorks microkernel (a full RTOS that can be as small as 20 KB)
+* Security features such as digitally-signed modules (X.509), encryption, password management, ability to add/delete users at runtime
+* SHA-256 hashing algorithm as the default password hashing algorithm 
+* Human machine interface with Vector Graphics, and Tilcon user interface (UI)
+* Graphical user interface (GUI): OpenVG stack, Open GL, Tilcon UI, Frame Buffer Driver, EV Dev Interface
+* Updated configuration interfaces for VxWorks Source Build VSB projects and VxWorks Image Projects
+* Single authentication control used for Telnet, SSH, FTP, and rlogin daemons 
+* Connectivity with Bluetooth and SocketCAN protocol stacks
+* Inclusion of MIPC File System (MFS) and MIPC Network Device (MND) 
+* Networking features with 64-bit support including Wind River MACsec, Wind River's implementation of IEEE 802.1A, Point-to-Point Protocol (PPP) over L2TP, PPP over virtual local area network (VLAN) and Diameter secure key storage 
+* New Wind River Workbench 4 for VxWorks 7 integrated development environment with new system analysis tools
+* Wind River Diab Compiler 5.9.4; Wind River GNU Compiler 4.8; Intel C++ Compiler 14 and Intel Integrated Performance Primitives (IPP) 8
+==Hardware support==
+VxWorks has been ported to a number of platforms and now runs on practically any modern CPU that is used in the embedded market. This includes the Intel x86 family (including the Intel Quark SoC),<ref name="quark">Intel Tackles SoC With urltoken Quark"' EE Times, October 7, 2013</ref> MIPS, PowerPC (and BAE RAD), Freescale ColdFire, Intel i960, SPARC, FR-V, SH-4 and the closely related family of ARM, StrongARM and xScale CPUs.<ref name="HW"/> VxWorks provides a standard board support package (BSP) interface between all its supported hardware and the OS. Wind River's BSP developer kit provides a common application programming interface (API) and a stable environment for real-time operating system development. VxWorks is supported by popular SSL/TLS libraries such as wolfSSL.<ref></ref> 
+==Development environment==
+As is common in embedded system development, cross compiler is used with VxWorks. Development is done on a "host" system where an integrated development environment (IDE), including the editor, compiler toolchain, debugger, and emulator can be used. Software is then compiled to run on the "target" system. This allows the developer to work with powerful development tools while targeting more limited hardware. VxWorks uses the following host environments and target hardware architectures:<ref name="HW"/><ref name="ide"> urltoken Workbench Product Note</ref>
+;Supported target architectures and processor families
+VxWorks supports the following target architectures:
+* ARM
+* Intel architecture
+* Power architecture
+* RISC-V architecture<ref name=":0" />
+For the latest target architecture, processors and board support packages, refer to the VxWorks Marketplace: urltoken 
+The Eclipse-based Workbench IDE that comes with VxWorks is used to configure, analyze, optimize, and debug a VxWorks-based system under development.<ref>Wind River reinvents the urltoken RTOS for the IoT, Business Wire</ref> The Tornado IDE was used for VxWorks 5.x<ref></ref> and was replaced by the Eclipse-based Workbench IDE for VxWorks 6.x. and later.<ref name="ide"/> Workbench is also the IDE for the Wind River Linux,<ref></ref> On-Chip Debugging,<ref></ref> and Wind River Diab Compiler product lines. VxWorks 7 uses Wind River Workbench 4<ref>" urltoken VxWorks Gets Re-vamped" Information Technology</ref> which updates to the Eclipse 4 base provide full third party plug-in support and usability improvements.
+Wind River Simics<ref>Simics, Wikipedia</ref><ref> urltoken Wind River Simics</ref> is a standalone simulation tool compatible with VxWorks. It simulates the full target system (hardware and software) to create a shared platform for software development. Multiple developers can share a complete virtual system and its entire state, including execution history. Simics enables early and continuous system integration and faster prototyping by utilizing virtual prototypes instead of physical prototypes.<ref>Accelerate Software Development with Wind River urltoken Simics, Intel webpage</ref>
+==Notable uses==
+VxWorks is used by products across a wide range of market areas: aerospace and defense, automotive, industrial such as robots, consumer electronics, medical area and networking.<ref name="iTERS"/> Several notable products also use VxWorks as the onboard operating system.<ref> urltoken VxWorks customer list</ref>
+===Aerospace and defense===
+;Spacecraft
+* The Mars 2020 rover launched in 2020 <ref> urltoken 
+* The Mars Reconnaissance Orbiter<ref name="mars"> urltoken ExtremeTech news</ref>
+* The Mars Science Laboratory, also known as the Curiosity rover<ref></ref>
+* NASA Mars rovers (Sojourner, Spirit, Opportunity)<ref name="mars"/> 
+<!-- *The European Space Agency PROBA Satellite
+* Yutu (rover) -->
+* The Deep Space Program Science Experiment (DSPSE) also known as Clementine (spacecraft)<ref> urltoken Clementine Project Information Page</ref> Clementine launched in 1994 running VxWorks 5.1 on a MIPS-based CPU responsible for the Star Tracker and image processing algorithms. The use of a commercial RTOS on board a spacecraft was considered experimental at the time
+* Phoenix Mars lander<ref> urltoken The Software Behind the Mars Phoenix Lander</ref>
+* The Deep Impact space probe<ref> urltoken ExtremeTech article</ref>
+* The Mars Pathfinder mission<ref name=Wind_River></ref>
+* The SpaceX Dragon<ref> urltoken Dragon Lab Fact Sheet</ref>
+* NASA's Juno space probe sent to Jupiter<ref> urltoken Bullseye: Autonomous Satellite Enters Jupiter’s Orbit</ref>
+Aircraft
+* AgustaWestland Project Zero<ref>AgustaWestland urltoken Project Zero</ref> 
+* Northrop Grumman X-47B Unmanned Combat Air System<ref>the US Navy’s unmanned combat air system urltoken X-47B, YouTube video</ref>
+* Airbus A400M Airlifter<ref> urltoken Verocel webpage</ref>
+* BAE Systems Tornado Advanced Radar Display Information System (TARDIS) used in the Tornado GR4 aircraft for the U.K. Royal Air Force<ref>The Free Library, urltoken Farlex</ref>
+* Lockheed Martin RQ-170 Sentinel UAV<ref> urltoken Airforce-Technology.com</ref>
+* Boeing 787<ref> urltoken 
+;Space telescopes
+* Fermi Gamma-ray Space Telescope(FGST)<ref> urltoken PTR Group celebrates third successful launch of the year, PTR GRoup webpage</ref>
+* James Webb Space Telescope (in development)<ref> urltoken James Webb Space Telescope, SPIEL Digital Library</ref>
+;Others
+* European Geostationary Navigation Overlay System (EGNOS)<ref> urltoken Case Study: European Geostationary Navigation Overlay System</ref>
+* TacNet Tracker, Sandia National Laboratory’s rugged handheld communication device<ref>TacNet Tracker Software, urltoken ESTSC</ref>
+<!--* Falcon Flight Computers
+* SpaceX’s control system for rocket launch and remote management-->
+* BAE Systems SCC500TM series of infrared camera cores<ref> urltoken Flexible camera applications of an advanced uncooled microbolometer thermal imaging core, SPIE Digital Library</ref>
+* Barco CDMS-3000 next generation control display and management system<ref> urltoken Barco Selects Wind River for Military Display and Management, Bloomberg</ref>
+<!--
+* EADA’s control software for air-to-air re-fueling of Airbus A330
+* Eurocopter Group’s helicopter cockpit and avionics system
+* Raytheon’s Wide Are Augmentation System (WAAS)
+* ALR-67 Radar Warning Receiver used in the Boeing F/A-18E/F Super Hornet
+-->
+===Automotive===
+* Toshiba TMPV75 Series image recognition SoCs for advanced driver assistance systems (ADAS)<ref>Wind River: urltoken Toshiba is using Simics to develop automotive application software, Embedded Control Europe</ref>
+* Bosch Motor Sports race car telemetry system<ref>Wind River Helps urltoken Bosch Motorsport Race For The Win, Globe and Mail</ref>
+* Hyundai Mobis IVI system<ref> urltoken Hyundia works with Wind River, Telematics News</ref>
+* Magneti Marelli's telemetry logger and GENIVI®-compliant infotainment system<ref> urltoken Magneti Marell i Motorsport Chooses Wind River VxWorks for Formula One Race Cars, HighBeam Research</ref>
+* BMW iDrive system after 2008<ref name="mars"/>
+* Siemens VDO automotive navigation systems<ref>The urltoken Network on Wheels -- Java Developers, Start Your Programming Engines!,Oracle</ref>
+* Most of Renault Trucks T, K and C trucks' electronic control units.
+* European Volkswagen RNS 510 navigation systems.
+===Consumer electronics===
+* Apple Airport Extreme<ref name="mars"/>
+*AMX NetLinx Controllers (NI-xx00/x00) <ref></ref><ref></ref>
+* Brother printers
+* Drobo data storage robot<ref> urltoken Drobo In depth review, Automated Home</ref>
+* Honda robot ASIMO<ref>Honda Robots urltoken Asimo, Robotics Technology Simplified</ref>
+* Linksys WRT54G wireless routers (versions 5.0 and later)<ref name="mars"/>
+* MacroSystem urltoken Casablanca-2 digital video editor (Avio, Kron, Prestige, Claro, Renommee, Solitaire)
+* Motorola's urltoken DCT2500 interactive digital set-top box<ref>Motorola's DCT2500 Core Interactive Digital Set-Tops Deployed With Wind River Software, BrightRoll news webpage</ref>
+* Mobile Technika MobbyTalk and MobbyTalk253 phones<ref>
+As a Case Study of WindRiver: introduce urltoken MobbyTalk/MobbyTalk253, Mobile Technika</ref>
+* ReplayTV home digital video recorder<ref>MythTv on urltoken ReplayTv hardware?, Don Ritter</ref>
+<!--
+* Thuraya SO-2510 satellite phone<ref> urltoken Satphonestore</ref> 
+* DEC Lectrice (an early tablet (1993) that ran an X11 server: developed by Charles P. Thacker at Digital Equipment Corporation
+* Sega NAOMI / NAOMI 2 GD-ROM/NetDimm arcade systems -->
+===Industrial===
+;Industrial robots
+* ABB industrial robots<ref></ref>
+* The C5G robotic project by Comau<ref> urltoken Comau Robotics Picks Wind River VxWorks for RTOS, TMCnet.com</ref>
+* KUKA industrial robots<ref> urltoken KUKA Video, YouTube</ref>
+* Stäubli industrial robots<ref> urltoken COPALP webpage</ref>
+* Yaskawa Electric Corporation's industrial robots<ref> urltoken Yaskawa, Motoman Strategic Partners</ref>
+* Comau#Robotics SMART5 industrial robot<ref> urltoken Comau Robotics Picks Wind River VxWorks for RTOS, TMCnet</ref>
+;Test and Measurement
+* Teledyne LeCroy WaveRunner LT, WaveRunner2LT and WavePro 900 oscilloscope series<ref>Re-engineering at LeCroy Corporation: the move to component-based systems, Journal of Information Technology (2007) 22 urltoken 
+*Hexagon Metrology GLOBAL Silver coordinate measuring machine (CMM)<ref> urltoken Hexagon Metrology Standardizes on Wind River’s VxWorks for Next-Generation Metrology Equipment, Bloomberg.com</ref>
+;Transportation
+* FITSCO Automatic Train Protection (ATP)system<ref>Leading Chinese Transportation Company Relies on Wind River to Meet Stringent Safety Certification Goal, On-line urltoken Wall Street Journal</ref> 
+* Bombardier HMI410 Train Information System<ref>Bombardier Transportation Selects Wind River Platforms for Safety Critical Certified Display on London Underground, Online UK urltoken Reuters</ref>
+;Controllers
+* Bachmann M1 Controller System<ref>Wind Power Automation Leader Bachmann Relies On Wind River VxWorks For Next-Generation Controller System, Globe and mail</ref>
+* Invensys Foxboro PAC System<ref> urltoken Invensys acquisition: “Now, it is up to how well we execute.”, The Instrument Readout SignPost</ref>
+* National Instruments CompactRIO 901x, 902x 907x controllers<ref> urltoken National Instruments Support Page</ref>
+<!-- * Emerson distributed control system controllers
+* AMX controls system devices-->
+* The Experimental Physics and Industrial Control System (EPICS)<ref> urltoken EPICS base Release 3.14 Installation Instructions</ref>
+* Bosch Rexroth Industrial Tightening Control Systems<ref> urltoken Bosch Rexroth YouTube video</ref> 
+* MCE iBox elevator controller<ref> urltoken iBox user guide Page 8-41</ref>
+* Schneider Electric Industrial Controller
+;Storage systems
+* External RAID controllers designed by the LSI Corporation/Engenio prior to 2011, now designed by NetApp. And used in RDAC class arrays as NetApp#E-Series and OEM arrays
+* Fujitsu ETERNUS DX S3 family of unified data storage arrays
+;Imaging
+<!-- * Eurotherm paperless graphic recorders
+* Konica Minolta bizhub print controllers
+* Xerox Phaser and other Adobe PostScript-based computer printers -->
+* Toshiba eBridge based range of photocopiers<ref> urltoken Toshiba Photocopiers</ref>
+;Others
+* GrandMA Full-Size and Light Console by MA Lighting<ref> urltoken GrandMA Full-Size Data Sheet</ref>
+===Medical===
+*Varian Medical Systems Truebeam - a radiotherapy device for treating cancer<ref></ref> 
+* Olympus Corporation's surgical generator<ref> urltoken Olympus ESG-400 high-frequency surgical generator</ref>
+* BD Biosciences FACSCount HIV/AIDS Monitoring System<ref>BD urltoken FACSCount article</ref>
+* Fedegari Autoclavi S.p.A. Thema4 process controller<ref> urltoken Thema process control article</ref>
+* Sirona Dental Systems: CEREC extraoral X-ray CAD/CAM systems<ref> urltoken CEREC Chairside Solutions</ref>
+*General Electric Healthcare: CT and MRI scanners.
+*Carl Zeiss Meditec: Humphrey Field Analyzer HFA-II Series
+*Philips C-Arm Radiology Equipment
+*Transenterix Senhance Surgical System
+===Networking and communication infrastructure===
+* Arkoon Network Security appliances<ref> urltoken Arkoon selects Wind River for nextgen equipment, Highbeam Business</ref> 
+* Ubee Interactive's AirWalk EdgePoint<ref> urltoken Ubee-Airwalk uses Wind River's VxWorks in femotcell,Telecompaper</ref> 
+* Kontron's ACTA processor boards<ref> urltoken Kontron AG e-newswire</ref>
+* QQTechnologies's QQSG<ref>QQTechnologies goes Global with VxWorks, Datsheets 360</ref> 
+* A significant portion of Huawei's telecoms equipment uses VxWorks<ref></ref>
+* BroadLight’s GPON/PON products<ref> urltoken Broadlight Client page</ref>
+* Shiron Satellite Communications’ InterSKY
+* Sky Pilot's SkyGateway, SkyExtender and SkyControl<ref> urltoken Sky Pilot Command Line Interface Reference document</ref>
+* EtherRaptor-1010 by Raptor Network Technology<ref>Wind River delivers Raptor with VxWorks Platform, ETT Asia news</ref>
+* CPG-3000 and CPX-5000 routers from Siemens<ref> urltoken Siemens deploys 2.5G Wireless Data Platform, 3G Newsletter</ref>
+* Nokia Solutions and Networks FlexiPacket series microwave engineering product<ref>FlexiPacket Release Note</ref>
+* Acme Packet Net-Net series of Session Border Controllers<ref>Oracle urltoken acme support page</ref>
+*Alcatel-Lucent IP Touch 40x8 IP Deskphones
+*Avaya ERS 8600<ref>Avaya ERS 8600 Wikipedia</ref>
+* Avaya IP400 Office
+* Cisco CSS platform
+* Cisco ONS platform
+* Ciena Common Photonic Layer
+* Dell PowerConnect switches that are 'powered by' Broadcom, except latest PCT8100 which runs on Linux platform<ref>Dell PowerConnect, Wikipedia page</ref>
+* Ericsson SmartEdge routers (SEOS 11 run NetBSD 3.0 and VxWorks for Broadcom BCM1480 version 5.5.1 kernel version 2.6)<ref>Routing Protocol Operations Guide for urltoken SmartEdge</ref>
+* Hewlett Packard HP 9000 Superdome Guardian Service Processor
+* Hirschmann EAGLE20 Industrial Firewall<ref> urltoken Enhanced Security for Industrial Networks, Belden webpage</ref>
+* HughesNet/Direcway satellite internet modems
+* Mitel Networks' MiVoice Business (formerly Mitel Communications Director (MCD)), 3300 ICP Media Gateways and SX-200 and SX-200 ICP.<ref> urltoken VoIP Security webpage</ref>
+* Motorola Solutions MCD5000 IP Deskset System
+* Motorola SB5100 cable modem
+* Motorola Cable Headend Equipment including SEM, NC, OM and other lines
+* Nortel_Meridian (formerly Nortel Meridian 1 (Option 11C, Option 61C, Option 81C)
+* Nortel Passport<ref>Multiservice Switch, Wikipedia</ref> 
+* Radware OnDemand Switches<ref> urltoken Knowledge Base, Radware webpage</ref>
+* Samsung DCS and OfficeServ series PBX<ref></ref>
+* SonicWALL firewalls<ref> urltoken Tim's IT-Blob: A deeper look on SonicWALL kernel</ref>
+* Thuraya SO-2510 satellite phone and ThurayaModule<ref> urltoken Thuraya SO-2510 Satellite</ref>
+* Radvision 3G communications equipment<ref>SANYO Multimedia Tottori Chooses urltoken RADVISION SIP Developer Toolkit to Build New IP Phone, Business Wire</ref>
+* 3com NBX phone systems<ref>3Com NBX Phone Systems, urltoken AdCom Technologies Inc.</ref>
+* Zhone Technologies access systems
+* Oracle EAGLE STP system
+== TCP vulnerability and CVE patches ==
+As of July 2019, a paper published by Armis<ref></ref> exposed 11 critical vulnerabilities, including remote code execution, denial of service, information leaks, and logical flaws impacting more than two billion devices using the VxWorks RTOS.<ref></ref> The findings are significant since this system is in use by quite a few mission-critical products. This urltoken YouTube video from Armis<ref></ref> shows how an attacker can tunnel into an internal network using the vulnerability and hack into printers, laptops, and any other connected devices. The vulnerability can bypass firewalls as well.<ref></ref>
+Information and patches for all VxWorks versions affected by Urgent/11 vulnerability can be obtained from Wind River.<ref></ref>
+== Stale Data Retention ==
+The Wind River VxWorks operating system is used on the Boeing 787-8, 787-9 and 787-10 aircraft. As of April 2, 2020, the US Federal Aviation Administration requires the operating system to be power-cycled, or turned off and on, every fifty-one (51) days.<ref></ref> The reason for requiring the periodic reboot of the common core system (CCS) is that its failure when continuously powered could lead to a loss of the common data network (CDN) message age validation, which filters out stale data from key flight control displays. From the FAA Air Directive: "The potential loss of the stale-data monitoring function of the CCS when continuously powered on for 51 days, if not addressed, could result in erroneous flight-critical data being routed and displayed as valid data, which could reduce the ability of the flight crew to maintain the safe flight and landing of the airplane."
+==References==
+==External links==
+*
+
+VxWorks is a real-time operating system (RTOS) developed as proprietary software by Wind River Systems, a wholly owned subsidiary of TPG Capital, US. First released in 1987, VxWorks is designed for use in embedded systems requiring real-time, deterministic performance and, in many cases, safety and security certification, for industries, such as aerospace and defense, medical devices, industrial equipment, robotics, energy, transportation, network infrastructure, automotive, and consumer electronics.<ref name="64bitWBvert">" urltoken VxWorks Goes 64-bit", Electronic Design, March 25, 2011</ref>
+VxWorks supports AMD/Intel architecture, POWER architecture, ARM architectures<ref name="HW">Wind River Expands urltoken Hardware Support for VxWorks, Bloomberg News at bloomberg.com, March 24, 2010</ref> and RISC-V.<ref name=":0"></ref> The RTOS can be used in multicore asymmetric multiprocessing (AMP), symmetric multiprocessing (SMP), and mixed modes<ref name="amp"> urltoken RTOS Handles AMP and SMP, electronic design, March 2009</ref> and multi-OS (via Type 1 hypervisor)<ref name="virt"></ref> designs on 32- and 64-bit processors.<ref name="star"> urltoken Embedded Star Article, February 2011</ref>
+VxWorks comes with the kernel, middleware, board support packages, Wind River Workbench development suite and complementary third-party software and hardware technologies. In its latest release, VxWorks 7, the RTOS has been re-engineered for modularity and upgradeability so the OS kernel is separate from middleware, applications and other packages.<ref name="iTERS"> urltoken Wind River reinvents real-time system for the Internet of Things, iTERS news, March 2014</ref> Scalability, security, safety, connectivity, and graphics have been improved to address Internet of Things (IoT) needs.<ref name="MSSC"></ref><ref name="msscwb">Wind River urltoken Reinvents the RTOS for the IoT, Business Wire, February 2014</ref><ref name="joab1"></ref>

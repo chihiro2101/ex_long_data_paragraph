@@ -1,0 +1,81 @@
+Level crossing
+
+== History ==
+The history of level crossings depends on the location, but often early level crossings had a flagman in a nearby booth who would, on the approach of a train, wave a red flag or lantern to stop all traffic and clear the tracks. Gated crossings became commonplace in many areas, as they protected the railway from people trespassing and livestock, and they protected the users of the crossing when closed by the signalman/gateman. In the second quarter of the 20th century, manual or electrical boom barrier that barricaded the roadway started to be introduced, intended to be a complete barrier against intrusion of any road traffic onto the railway. Automatic crossings are now commonplace in some countries as motor vehicles replaced horse-drawn vehicles and the need for animal protection diminished with time. Full, half or no barrier crossings superseded gated crossings, although crossings of older types can still be found in places. 
+In rural regions with sparse traffic, the least expensive type of level crossing to operate is one without flagmen or gates, with only a warning sign posted. This type has been common across North America and in many developing countries.
+Some international rules have helped to harmonize level crossing. For instance, the 1968 Vienna Convention states (chapter 3, article 23b) that:
+* "one or two blinking red light indicates a car should stop; if they are yellow the car can pass with caution".<ref></ref>
+* Article 27 suggests stop lines at level crossings.
+* Article 33, 34, 35 and 36 are specific to level crossings, because level crossings are recognized as dangerous.
+* Article 35 indicates a cross should exist when there is no barrier or lights.
+This has been implemented in many countries, including countries which are not part of the Vienna Convention.
+==Safety==
+Trains have a much larger mass relative to their braking capability, and thus a far longer braking distance than road vehicles. With rare exceptions, trains do not stop at level crossings and rely on vehicles and pedestrians to clear the tracks in advance.
+Level crossings constitute a significant safety concern internationally. On average, each year around 400 people in the European Union<ref name="Cirovic"></ref> and over 300 in the United States<ref></ref> are killed in level crossing accidents. Collisions can occur with vehicles as well as pedestrians; pedestrian collisions are more likely to result in a fatality.<ref></ref> Among pedestrians, young people (5–19 years), older people (60 years and over) and males are considered to be high risk users.<ref></ref>
+As far as warning systems for road users are concerned, level crossings either have "passive" protection, in the form of various types of warning signs, or "active" protection, using automatic warning devices such as flashing lights, warning sounds, and barriers or gates.<ref name="Cirovic" /> In the 19th century and for much of the 20th, a written sign warning "Stop, look, and listen" (or similar wording) was the sole protection at most level crossings. Today, active protection is widely available, and fewer collisions take place at level crossings with active warning systems.<ref></ref> Modern radar sensor systems can detect if level crossings are free of obstructions as trains approach. These improve safety by not lowering crossing barriers that may trap vehicles or pedestrians on the tracks, while signalling trains to brake until the obstruction clears (however, they cannot prevent a vehicle from moving out onto the track once it's far too late for the locomotive to slow even slightly).<ref></ref>
+At railway stations, a pedestrian level crossing is sometimes provided to allow passengers to reach other platforms in the absence of an underpass or bridge, or for disabled access. Where third rail systems have level crossings, there is a gap in the third rail over the level crossing, but this does not necessarily interrupt the power supply to trains since they may have current collectors on multiple cars.
+Source: US Department of Transport.<ref name="caranddriver.com"> urltoken 
+(1 international mile=1 609.344 meters)
+Source: Eurostat: The rail accident data are provided to Eurostat by the European Railway Agency (ERA). The ERA manages and is responsible for the entire data collection. The Eurostat data constitute a part of the data collected by ERA and are part of the so-called Common Safety Indicators (CSIs).
+Note: Since 2010, use of national definitions is no longer permitted: 2010 CSI data represent the first fully harmonized set of figures
+* Source: Eurostat: Annual number of victims by type of accident rail_ac_catvict Last update: 09-02-2017
+* Source, Federal Railroad Administration<ref></ref>
+==Traffic signal preemption==
+Traffic signal-controlled intersections next to level crossings on at least one of the roads in the intersection usually feature traffic signal preemption.<ref> urltoken Section 4D.13 and urltoken Section 8D.07 of the Manual on Uniform Traffic Control Devices</ref> Approaching trains activate a routine where, before the train signals and gates are activated, all traffic signal phases go to red, except for the signal immediately after the train crossing, which turns green (or flashing yellow) to allow traffic on the tracks to clear (in some cases, there are auxiliary traffic signals prior to the railroad crossing which will turn red, keeping new traffic from crossing the tracks. This is in addition to the flashing lights on the crossing gates). After enough time to clear the crossing, the signal will turn. The crossing lights may begin flashing and the gates lower immediately, or this might be delayed until after the traffic light turns red.
+The operation of a traffic signal, while a train is present, may differ from municipality to municipality. In some areas, all directions will flash red, turning the intersection into an all-way stop. In other areas, the traffic parallel to the railroad track will have a flashing yellow for the duration of the train while the other directions face a flashing red light for the duration of the train. Still in other areas, the traffic parallel to the railroad track will have a green light for the duration of the train while the other directions face a red light for the duration of the train. Further still in other areas can traffic lights operate relatively normally with only the blocked direction turning red for the duration of the train.
+==Crossings around the world==
+=== Europe ===
+There were 108,196 level crossings in the European Union Member States in 2014. On average there are just under 0.5 level crossings per line-kilometres in the EU.<ref>Railway Safety in the European Union, Safety overview 2017, SBN 978-92-9205-383-3
+ISSN 2529-6302
+doi:10.2821/813806
+doi:10.2821/474487
+TR-AG-17-101-EN-C
+TR-AG-17-101-EN-N</ref>
+53% of all those level crossings are active level where users are protected from or warned of the approaching train by devices activated when it is unsafe for the user to traverse the crossing.<ref>Railway Safety in the European Union, Safety overview 2017, SBN 978-92-9205-383-3
+ISSN 2529-6302
+doi:10.2821/813806
+doi:10.2821/474487
+TR-AG-17-101-EN-C
+TR-AG-17-101-EN-N</ref>
+The remaining 47% of level crossings are unprotected.<ref></ref> 28% of railway fatalities are from level crossing related incidents.
+==Runway crossings==
+Aircraft runways sometimes cross roads or rail lines, and require signaling to avoid collisions.
+===Australia===
+* Kingsford Smith Airport had a runway crossing, when that runway was extended. The railway was later deviated with sharp curves to avoid that runway.
+* , while not having an actual runway crossing, had extra low signals and telegraph wires at the railway station to improve safety for low flying aircraft landing or taking off.<ref></ref>
+===Gibraltar===
+Winston Churchill Avenue intersects the runway of Gibraltar International Airport at surface level; movable barricades close when aircraft land or take off.
+===New Zealand===
+A level crossing near Gisborne, sees the Palmerston North - Gisborne Line cross one of Gisborne Airport's runways. Aircraft landing on sealed 1310-metre runway 14L/32R are signalled with two red flashing lights on either side of the runway and a horizontal bar of flashing red lights to indicate the runway south of the railway line is closed, and may only land on the section of the runway north of the railway line. When the full length of the runway is open, a vertical bar of green lights signal to the aircraft, with regular rail signals on either side of the runway indicating trains to stop.<ref></ref><ref></ref>
+===Sweden===
+The Visby Lärbro Line between Visby and Lärbro crossed the runway of Visby Airport between 1956 and 1960.<ref></ref>
+===United Kingdom===
+* Northern Ireland: There was a runway crossing on the Belfast–Derry railway line. The runway was interlocked with conventional railway block instruments to the control tower.
+* Scotland: Road crossing of (Shetland) A970 with Sumburgh Airport's runway.
+==See also==
+*At-grade intersection
+* At-grade railway
+*Automatic full barriers
+*Billups Neon Crossing Signal
+*Boom barrier
+*:Category:Level crossing accidents
+*Four-quadrant gate
+* Grade crossing signals
+*Grade separation
+*Lists of rail accidents
+:*List of train accidents by death toll
+*List of road accidents
+* Pedestrian crossing
+* Warning sign
+*Whistle post
+*Wigwag
+* Occupation crossing
+==Notes==
+==References==
+==Bibliography==
+* 
+==External links==
+* urltoken Web Accident Prediction System - Highway-rail crossing data from the U.S. Federal Railroad Administration, Office of Safety Analysis
+
+A level crossing is an intersection where a railway line crosses a road or path, or in rare situations an airport runway, at the same level,<ref name=":0"></ref> as opposed to the railway line crossing over or under using an overpass or tunnel. The term also applies when a light rail line with separate right-of-way or reserved track crosses a road in the same fashion. Other names include railway level crossing,<ref name=":0" /> railway crossing (chiefly international), railroad crossing (chiefly North American), grade crossing,<ref></ref> road through railroad, criss-cross, train crossing, and RXR (abbreviated).
+There are more than 100,000 level crossings in Europe and more than 200,000 in North America.

@@ -1,0 +1,71 @@
+Circle of fifths
+
+== Definition ==
+A "perfect fifth" is the musical interval between two pitches whose frequencies have a ratio of 3:2—to close approximation, these two pitches will be seven semitones apart. The circle of fifths organizes pitches in a sequence of perfect fifths, generally shown as a circle with the pitches (and their corresponding keys) in a clockwise progression. Musicians and composers often use the circle of fifths to describe the musical relationships between pitches. Its design is helpful in composing and Harmony melodies, building chords, and modulating to different keys within a composition.<ref>Michael Pilhofer and Holly Day (23 Feb 2009). urltoken "The Circle of Fifths: A Brief History", www.dummies.com.</ref>
+The top of the circle shows the key of C Major, with no sharps or flats. Proceeding clockwise, the pitches ascend by fifths. The key signatures associated with those pitches also change: the key of G has one sharp, the key of D has 2 sharps, and so on. Similarly, proceeding counterclockwise from the top of the circle, the notes change by descending fifths and the key signatures change accordingly: the key of F has one flat, the key of B has 2 flats, and so on. Some keys (at the bottom of the circle) can be notated Enharmonic.
+Starting at any pitch and ascending by a fifth generates all twelve tones before returning to the beginning pitch class (a pitch class consists of all of the notes indicated by a given letter regardless of octave—all "C"s, for example, belong to the same pitch class). Moving counterclockwise, the pitches descend by a fifth, but ascending by a perfect fourth will lead to the same note an octave higher (therefore in the same pitch class). Moving counter-clockwise from C could be thought of as descending by a fifth to F, or ascending by a fourth to F.
+<gallery widths="250px" heights="50px" perrow="1">
+Image:Circle of fifths ascending within octave.svg|
+Image:Circle of fifths descending within octave.png|
+</gallery>
+==Structure and use==
+===Diatonic key signatures===
+Each of the twelve pitches can serve as the tonic of a major or minor key, and each of these keys will have a diatonic scale associated with it. The circle diagram shows the number of sharps or flats in each key signature, with the major key indicated by a capital letter and the minor key indicated by a lower-case letter. Major and minor keys that have the same key signature are referred to as relative major and relative minor of one another.
+===Modulation and chord progression===
+Tonality often modulates to a new tonal center whose key signature differs from the original by only one flat or sharp. These closely-related keys are a fifth apart from each other and are therefore adjacent in the circle of fifths. Chord progressions also often move between chords whose roots are related by perfect fifth, making the circle of fifths useful in illustrating the "harmonic distance" between chords.
+The circle of fifths is used to organize and describe the diatonic function of chords. Chords can progress in a pattern of ascending perfect fourths (alternately viewed as descending perfect fifths) in "functional succession". This can be shown ".by the circle of fifths (in which, therefore, scale degree II is closer to the dominant than scale degree IV)". In this view the tonic is considered the end point of a chord progression derived from the circle of fifths.
+According to Richard Franko Goldman's Harmony in Western Music, "the IV chord is, in the simplest mechanisms of diatonic relationships, at the greatest distance from I. In terms of the descending circle of fifths, it leads away from I, rather than toward it."<ref name="Goldman 68">.</ref> He states that the progression I–ii–V–I (an authentic cadence) would feel more final or resolved than I–IV–I (a plagal cadence). Goldman<ref>.</ref> concurs with Nattiez, who argues that "the chord on the fourth degree appears long before the chord on II, and the subsequent final I, in the progression I–IV–vii<sup>o</sup>–iii–vi–ii–V–I", and is farther from the tonic there as well.<ref name="Nattiez 226">.</ref> (In this and related articles, upper-case Roman numerals indicate major triads while lower-case Roman numerals indicate minor triads.)
+===Circle closure in non-equal tuning systems===
+Perfect fifths with a interval ratio 3:2 are said to have just intonation. Generating a series of twelve perfect fifths in this way does not result in a return to the pitch class of the starting note. Instruments are generally tuned with the equal temperament system, producing fifths that return to a tone exactly seven octaves above the initial tone. Equal temperament tuning makes the frequency ratio of each half step the same. An equal-tempered fifth has a frequency ratio of 2<sup>7/12</sup>:1 (or about 1.498307077:1), approximately two cents narrower than a justly tuned fifth at a ratio of 3:2.
+Ascending by justly tuned fifths fails to close the circle by an excess of approximately 23.46 cents, roughly a quarter of a semitone, an interval known as the Pythagorean comma. In Pythagorean tuning, this problem is solved by markedly shortening the width of one of the twelve fifths, which makes it severely dissonant. This anomalous fifth is called the wolf fifth - a humorous reference to a wolf howling an off-pitch note. The quarter-comma meantone tuning system uses eleven fifths slightly narrower than the equally tempered fifth, and requires a much wider and even more dissonant wolf fifth to close the circle. More complex tuning systems based on just intonation, such as 5-limit tuning, use at most eight justly tuned fifths and at least three non-just fifths (some slightly narrower, and some slightly wider than the just fifth) to close the circle. Other tuning systems use up to 53&nbsp;tones (the original 12&nbsp;tones and 42&nbsp;more between them) in order to close the circle of fifths.
+==History==
+Image:Heinichen musicalischer circul.png|thumb|Heinichen's musical circle (German: Musicalischer Circul) (1711)
+Some sources imply that Pythagoras invented the circle of fifths in the sixth century B.C. but there is no proof of this.<ref></ref><ref></ref><ref></ref> Pythagoras was primarily concerned with the theoretical science of harmonics and is credited with having devised a system of tuning based upon the interval of a fifth, but did not tune more than eight notes, and left no written records of his work.<ref> (archive from 1 July 2013).</ref>
+In the late 1670s Ukrainian composer and theorist Nikolay Diletsky wrote a treatise on composition entitled Grammatika, "the first of its kind, aimed at teaching a Russian audience how to write Western-style polyphonic compositions." It taught how to write kontserty, polyphonic a cappella works usually based on liturgical texts and created by putting together musical sections with contrasting rhythm, meter, melodic material and vocal groupings. Diletsky intended his treatise to be a guide to composition using rules of music theory. The first circle of fifths appears in the Grammatika and it was used for students as a composition tool.<ref name="Jensen">.</ref>
+==Use==
+In musical pieces from the Baroque music era and the Classical era of music and in Western popular music, traditional music and folk music, when pieces or songs modulate to a new key, these modulations are often associated with the circle of fifths.
+In practice, compositions rarely make use of the entire circle of fifths. More commonly, composers make use of "the compositional idea of the 'cycle' of 5ths, when music moves consistently through a smaller or larger segment of the tonal structural resources which the circle abstractly represents."<ref>Whittall, A. (2002, p. 259) "Circle of Fifths", article in Latham, E. (ed.) The Oxford Companion to Music. Oxford University Press.</ref> The usual practice is to derive the circle of fifths progression from the seven tones of the diatonic scale, rather from the full range of twelve tones present in the chromatic scale. In this diatonic version of the circle, one of the fifths is not a true fifth: it is a tritone (or a diminished fifth), e.g. between F and B in the "natural" diatonic scale (i.e. without sharps or flats). Here is how the circle of fifths derives, through permutation from the diatonic major scale:
+And from the (natural) minor scale:
+The following is the basic sequence of chords that can be built over the major bass-line:
+And over the minor:
+Adding sevenths to the chords creates a greater sense of forward momentum to the harmony:
+===Baroque era===
+According to Richard Taruskin, Arcangelo Corelli was the most influential composer to establish the pattern as a standard harmonic "trope": "It was precisely in Corelli's time, the late seventeenth century, that the circle of fifths was being 'theorized' as the main propellor of harmonic motion, and it was Corelli more than any one composer who put that new idea into telling practice."<ref>Taruskin, R. (2010, p. 184) The Oxford History of Western Music: Music in the Seventeenth and Eighteenth centuries. Oxford University Press.</ref>
+The circle of fifths progression occurs frequently in the music of J. S. Bach. In the following, from Jauchzet Gott in allen Landen, BWV 51, even when the solo bass line implies rather than states the chords involved: movement from his Harpsichord suite No. 6 in G minor.
+Baroque composers learnt to enhance the "propulsive force" of the harmony engendered by the circle of fifths "by adding sevenths to most of the constituent chords." "These sevenths, being dissonances, create the need for resolution, thus turning each progression of the circle into a simultaneous reliever and re-stimulator of harmonic tension. Hence harnessed for expressive purposes."<ref>Taruskin, R. (2010, p. 188) The Oxford History of Western Music: Music in the Seventeenth and Eighteenth centuries. Oxford University Press.</ref> Striking passages that illustrate the use of sevenths occur in the aria "Pena tiranna" in Handel's 1715 opera Amadigi di Gaula :
+===Nineteenth century===
+During the nineteenth century, composers made use of the circle of fifths to enhance the expressive character of their music. Franz Schubert's poignant Impromptu in E flat major, D899, contains such a passage:
+===Jazz and popular music===
+The enduring popularity of the circle of fifths as both a form-building device and as an expressive musical trope is evident in the number of "standard" popular songs composed during the twentieth century. It is also favored as a vehicle for improvisation by jazz musicians.
+* Bart Howard, "Fly Me to the Moon"
+* Jerome Kern, "All the Things You Are"<ref>Gioa, T. (2012, p.16) The Jazz Standards; a Guide to the repertoire. Oxford University Press.</ref>
+* Ray Noble, "Cherokee." Many jazz musicians have found this particularly challenging as the middle eight progresses so rapidly through the circle, "creating a series of ii-V-I progression that temporarily pass through several tonality."<ref>Scott, Richard J. (2003, p. 123) Chord Progressions for Songwriters. Bloomington Indiana, Writers Club Press.</ref>
+* Kosmo, Prevert and Mercer, "Autumn Leaves"<ref name="Kostka23846"></ref>
+* The Beatles, "You Never Give Me Your Money"<ref>"You Never Give Me Your Money" (1989, p1099-1100, bars 1-16) The Beatles Complete Scores. Hal Leonard.</ref>
+*Mike Oldfield, "Incantations"<ref></ref>
+*Carlos Santana, "Europa (Earth's Cry Heaven's Smile)"
+*Gloria Gaynor, "I Will Survive"<ref>Fekaris, D. and Perren, F.J. (1978) I Will Survive. Polygram International Publishing.</ref>
+*Pet Shop Boys, "It's a Sin"<ref>Tennant, N. and Lowe, C. (1987, bars 1-8) "It's a Sin." Sony/ATV Music Publishing (UK) Ltd.</ref>
+*Donna Summer, "Love to Love you, Baby"<ref>Moroder, G., Bellote, P. and Summer, D. (1975, bars 11-14) "Love to Love you, Baby" copyright 1976, Bulle Music Inc.</ref>
+==Related concepts==
+===Diatonic circle of fifths===
+The diatonic circle of fifths is the circle of fifths encompassing only members of the diatonic scale. Therefore, it contains a diminished fifth, in C major between B and F. See structure implies multiplicity.
+The circle progression is commonly a circle of fifths through the diatonic chords, including one Diminished triad. A circle progression in C major with chords I–IV–vii<sup>o</sup>–iii–vi–ii–V–I is shown below.
+<!--
+: <score lang="lilypond" %vorbis="1"%%T257066%>
+ 
+==Further reading==
+* D'Indy, Vincent (1903). Cours de composition musicale. Paris: A. Durand et fils.
+* Lester, Joel. urltoken Between Modes and Keys: German Theory, 1592–1802. 1990.
+* Miller, Michael. urltoken The Complete Idiot's Guide to Music Theory, 2nd ed. Indianapolis, IN: Alpha, 2005. .
+* Purwins, Hendrik (2005)." urltoken Profiles of Pitch Classes: Circularity of Relative Pitch and Key—Experiments, Models, Computational Music Analysis, and Perspectives". Ph.D. Thesis. Berlin: Technische Universität Berlin.
+* Purwins, Hendrik, Benjamin Blankertz, and Klaus Obermayer (2007). " urltoken Toroidal Models in Tonal Theory and Pitch-Class Analysis". in: Computing in Musicology 15 ("Tonal Theory for the Digital Age"): 73–98.
+==External links==
+* urltoken Decoding the Circle of Vths
+* urltoken Interactive Circle Of Fifths with guitar fretboard
+* urltoken An open-source interactive circle of fifths for guitarists
+* urltoken Circle of Fourths: an orchestral overture using the circle as a chord and a melodic element
+
+thumb
+Image:Diletsky circle.jpg|thumb|right|Nikolay Diletsky's circle of fifths in Idea grammatiki musikiyskoy (Moscow, 1679)
+In music theory, the circle of fifths is a way of organizing the 12 chromatic pitches as a sequence of perfect fifths. If C is chosen as a starting point, the sequence is: C, G, D, A, E, B (=C, F (=G, C (=D, A, E, B, F. Continuing the pattern from F returns the sequence to its starting point of C. This order places the most closely related key signatures adjacent to one another. It is usually illustrated in the form of a circle.

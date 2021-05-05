@@ -1,0 +1,46 @@
+Welsh orthography
+
+==Diacritics==
+Welsh makes use of a number of diacritics.
+The circumflex (ˆ) is mostly used to mark long vowels, so â, ê, î, ô, û, ŵ, ŷ are always long. However, not all long vowels are marked with a circumflex, so the letters a, e, i, o, u, w, y with no circumflex do not necessarily represent short vowels; see "Predicting vowel length from orthography" below.
+The grave accent (`) is sometimes used, usually in words borrowed from another language, to mark vowels that are short when a long vowel would normally be expected, e.g. (a cough), (a pass/permit or a lift in a car); (smoke), (a mug).
+The acute accent (´) is sometimes used to mark a stressed final syllable in a polysyllabic word. Thus the words (to empty) and (decline) have final stress. However, not all polysyllabic words with final stress are marked with the acute accent "Welsh", for example, is written with none). The acute may also be used to indicate that a letter w represents a vowel where a glide might otherwise be expected, e.g. (two syllables) "manly", as opposed to (one syllable) "root".
+Similarly, the diaeresis (¨) is used to indicate that two adjoining vowels are to be pronounced separately (not as a diphthong). However, it is also used to show that the letter i is used to represent the cluster which is always followed by another vowel, e.g. (to copy) pronounced , not .
+The grave and acute accents in particular are very often omitted in casual writing, and the same is true to a lesser extent of the diaeresis. The circumflex, however, is usually included. Accented vowels are not considered distinct letters for the purpose of collation.
+==Predicting vowel length from orthography==
+As mentioned above, vowels marked with the circumflex are always long, and those marked with the grave accent are always short. If a vowel is not marked with a diacritic, its length must be determined by its environment; the rules vary a bit according to dialect.<ref></ref><ref></ref>
+In all dialects, only stressed vowels may be long; unstressed vowels are always short.
+An unmarked (stressed) vowel is long:
+*in the last syllable of a word when no consonant follows: (good).
+*before voiced stops b, d, g and before all fricatives (except for ll) dd, f, ff, th, s: (son), (favourite), (thing), (night).
+An unmarked vowel is short:
+*in an unstressed (clitic) word: .
+*before p, t, c, ng: (gate), (sheepfold), (ship)
+*before most consonant clusters: (saint), (hedge), (April).
+The vowel y, when it is pronounced , is always short even when it appears in an environment where other vowels would be long: (whole) . When pronounced as a close or near-close vowel or in the North, or in the South), y follows the same rules as other vowels: (day) (North) ~ (South), (wind) (North) ~ (South).
+Before l, m, n, and r, unmarked vowels are long in some words and short in others: (wine), (scarcely); (old), (head); (man), (white); (bank up a fire), (often); (holly), (heart). (The last four examples are given in South Welsh pronunciation only since vowels in nonfinal syllables are always short in North Welsh.) Before nn and rr, vowels are always short: (ash trees), (to win), (stone).
+In Northern dialects, long vowels are stressed and appear in the final syllable of the word. Vowels in non-final syllables are always short. In addition to the rules above, a vowel is long in the North before a consonant cluster beginning with s: (witness). Before ll, a vowel is short when no consonant follows the ll: (better) It is long when another consonant does follow the ll: (hair).
+In Southern dialects, long vowels may appear in a stressed penultimate syllable as well as in a stressed word-final syllable. Before ll, a stressed vowel in the last syllable can be either long (e.g. "better" or short (e.g. "hole" . However, a stressed vowel in the penult before ll is always short: (clothes).
+Before s, a stressed vowel in the last syllable is long, as mentioned above, but a stressed vowel in the penult is short: (measure) . Vowels are always short before consonant clusters: (saint), (hair), (witness).
+==Digraphs==
+While the digraphs ch, dd, ff, ng, ll, ph, rh, th are each written with two symbols, they are all considered to be single letters. This means, for example that (a town in South Wales) is considered to have only six letters in Welsh, compared to eight letters in English. Consequently, they each take up only a single space in Welsh crosswords. Ll itself had actually been written as a Ỻ in Middle Welsh.
+Sorting is done in correspondence with the alphabet. For example, comes before , which comes before , which comes before . Automated sorting may occasionally be complicated by the fact that additional information may be needed to distinguish a genuine digraph from a juxtaposition of letters; for example comes after (in which the stands for but before (in which n and g are pronounced separately as .
+Although the digraphs above are considered to be single letters, only their first component letter is capitalised when a word in lower case requires an initial capital letter. Thus:
+: , etc. (place names)
+: , etc. (personal names)
+: (other sentences starting with a digraph)
+The two letters in a digraph are both capitalised only when the whole word is in uppercase:
+: (as on a poster or sign)
+The status of the digraphs as single letters is reflected in the stylised forms used in the logos of the National Library of Wales ( urltoken logo) and Cardiff University 
+(logo).
+==See also==
+*Bardic Alphabet
+*Welsh Braille
+==References==
+==External links==
+* urltoken Type Welsh characters online
+* urltoken Type Welsh accents in Word
+* urltoken Welsh pronunciation course with audio
+
+Welsh orthography uses 29 letters (including eight digraphs) of the Latin script to write native Welsh words as well as established loanwords.<ref></ref><ref></ref>
+<center>

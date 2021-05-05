@@ -1,0 +1,56 @@
+Partitive
+
+==Partitive constructions==
+The partitive nominal construction consists of structure [DP Det. + of + [DP Det. + NP, as shown in 10a).
+ 10. a) Three of John’s friends.
+ b) Three friends of John’s.
+A related construction traditionally called the double genitive has been argued by Barker to actually be a partitive, which he terms the possessive partitive (shown in 10b), rather than simply a redundant application of the genitive marker ‘s.
+Barker claims that this is a use of the partitive "of", rather than the gentitive ‘of’, distinguishing it from being a gentitive construction. To support this, he notes that prenominal possessives such as "Mary’s child" cannot occur with a following possessor introduced by the genitive "of" such as, "Mary’s child of<sub>GEN</sub> John". This phrase is illogical, since nominals are syntactically constrained to only allow one possessor. Yet, prenominal possessives can be combined with possessive partitives, containing the partitive "of", such as "my favorite story of<sub>PART</sub> yours". This phrase is grammatical, taking the meaning "my favourite story out of your stories".
+ 11. a) a picture of John
+ b) a picture of John's
+Similarly, 11a) does not mean the same as 11b). The first is an instance of the genitive "of", and means that John is in the picture. The second is an instance of the partitive "of", and hence is a possessive partitive; in contrast, it means a picture from the collection of pictures that belong to John, but does not say anything about whether John is in the picture.
+ 12. a) a friend of John's
+ b) a friend of John's friend
+Nor do 12a) and 12b) mean the same. The first is a possessive partitive, referring to someone who is a member of the set of John’s friends. The second includes a postnominal genitive "of" phrase, and refers instead to someone who is a friend in relation to a member of the set of John’s friends, but not necessarily to John himself.
+ 13. a) three friends<sub>i</sub> of John’s friends<sub>i</sub>
+ b) three e<sub>i</sub> of John’s friends<sub>i</sub>
+ c) three friends<sub>i</sub> of [John’s [e<sub>i</sub>
+The difference between the nominal partitive and the partitive possessive constructions may in fact be a matter of ellipsis in the phonetic forms, as suggested by Zamparelli.
+He proposes that the two constructions have the same logical form, for example 13a), where the word friend has the same referent in both positions. Variations then arise in the phonetic form depending on which "friend" word is ellipsed. In the nominal partitive, the first "friend" is ellipsed, becoming 13b), whereas the possessive partitive ellipses the second instance of "friend", yielding 13c).<ref>Zamparelli, R. (1998). A Theory of Kinds, Partitives and of/z Possessives. Possessors, Predicates, and Movement in the Determiner Phrase, 22, 259.</ref>
+==Partitive case: Finnish morphology==
+Finnish indicates the partitive by inflecting nouns in the partitive case. An object takes the partitive case under the following three conditions:
+The aspectual condition is if the object is governed by an unbounded (or atelic) verb, that is, one which does not indicate the result of an action. The NP-related (quantity) condition is if the object is quantitatively indeterminate, which means indefinite bare plurals or mass nouns 6. Lastly, the negative condition applies when a predicate is negated, in which case nearly all objects are marked with the partitive.<ref name="huumo">Huumo, T. (2013). On the many faces of incompleteness: Hide-and-seek with the finnish partitive object. Folia Linguistica, 47(1), 89-112. </ref>
+These three conditions are generally considered to be hierarchically ranked according to their strength such that negation > aspect > quantity. Negation is strongest in that it applies so pervasively to negated events, regardless of aspect or quantity.<ref name="huumo" />
+An example of the NP-related condition is shown below, borrowed from Huumo:
+ 14. a) Löys-i-n voi-ta.
+ find-PST-1SG butter-PAR
+ "I found some butter."
+ b) Löys-i-n voi-n.
+ find-PST-1SG butter-TOT
+ "I found the butter."
+In 14a), the object is a mass noun, where the partitive case indicates an open, unspecified quantity of butter using the suffix -ta, as opposed to a closed quantity or total object, which Finnish would specify by using the accusative suffix –n, as in 14b).
+These two examples in 14) show the contrast that exists in Finnish between the partitive object and total object, the former indicating incompleteness of an event or an open quantity. Whereas the partitive object takes the partitive case, the total object can be marked with nominative, genitive, or accusative and indicates aspectual completeness or closed quantity.<ref name="huumo" />
+ 15. a) Pitel-i-n käde-ssä-ni kirja-a ~ voi-ta.
+ hold-PST-1SG hand-INE-1SGPX book-PAR ~ butter-PAR
+ "I was holding a/the book ~ the/some butter in my hand."
+ b) Ammu-i-n karhu-a 
+ shoot-Pst-1Sg bear-Part 
+ "I shot at the/a bear." /"I shot the bear but didn't kill it." 
+ (Whether the bullet actually hit the bear is unknown, but if it hit the bear, it didn't kill it.)
+ c) Ammu – i-n karhu-n 
+ shoot-Pst-1Sg bear-Acc
+ "I shot the/a bear dead"
+ (The result of the action is that the bullet hit the bear and killed it. The ambivalence of the English verb "shoot" is especially striking in headlines on police shootings.)
+In the case of 15a), the partitive object is triggered by the unbounded aspect of the verb, not the quantity of the object, since the openness of the quantity is irrelevant. Unboundedness in verbs denotes whether there is a direct consequence following the action of the verb. The verb’s aspect is progressive, involving an ongoing action without a specified endpoint, and is therefore unbounded. This aspectual unboundedness requires the partitive object, and has the effect of concealing the quantity of the object. This shows that aspect is stronger than quantity in conditioning the partitive.<ref name="huumo" />
+In 15b) and 15c), "to shoot" in Finnish is an intrinsically neither bound nor unbound verb since the shooting can cause the three different results of the target being killed or only wounded or not being hit. (In English, "to shoot" with a direct object has the first two senses and requires additions such as "dead" or "and killed" to not be ambivalent, and the third sense is only possible by adding the preposition "at".) "To kill" would be an intrinsically bound verb, where the consequence is someone/something being dead. In the data, the morpheme "–a" is the partitive morpheme. In 15b, the verb "shot" takes a partitive object and specifies the activities of "shooting without killing" or "shooting at but not necessarily hitting". In 15c, the verb takes an accusative object and denotes accomplishment of hitting and killing. Hence, the difference of unboundness or boundness in the verb, whether the bear was hit (and killed) by the bullet or not, is reflected by the difference in the morphology of the object.
+The common factor between aspectual and NP-related functions of the partitive case is the process of marking a verb phrase’s (VP) unboundness. A VP has the semantic property of having either an unbounded head or unbounded argument. For example, in Finnish the partitive case suffix denotes an unbound event, while the accusative case suffix denotes a bounded event. Note that when translating Finnish into English, the determiners could surface as "a", "the", "some" or numerals in both unbound and bound events.<ref>Kiparsky, P. (1998). Partitive case and aspect. The projection of arguments: Lexical and compositional factors, 265, 307.</ref>
+==References==
+==See also==
+*English articles
+*English determiners
+*Finnish noun cases
+*Partitive case
+
+In linguistics, the partitive is a word, phrase, or case that indicates partialness. Nominal partitives are syntactic constructions, such as "some of the children", and may be classified semantically as either set partitives or entity partitives based on the quantifier and the type of embedded noun used. Partitives should not be confused with quantitives (also known as pseudopartitives), which often look similar in form, but behave differently syntactically and have a distinct meaning.
+The nouns in the partitives all refer to a particular bigger set since they are preceded by an internal definite determiner (possessive: my, demonstrative: this and those, and definite article: the). On the other hand, their pseudo-counterparts lack this implication. Without a definite determiner, pseudo-partitives can only denote an amount of things and the characteristics of a set are determined by the context of the discourse. In addition, the set denoted in a pseudopartitive does not necessarily have to be bigger.
+Intuitively, the last two phrases under the pseudo-partitive column do indicate some kind of partition. However, when they are broken down into syntactic constituents, noted in true partitives, the noun always projects to a DP. In contrast, the noun in the phrase-final position projects to a NP (noun phrase) in non-partitives.

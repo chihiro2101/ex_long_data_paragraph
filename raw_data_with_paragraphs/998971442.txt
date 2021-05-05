@@ -1,0 +1,102 @@
+Council Tax
+
+== Organisation ==
+Council Tax is collected by the local authority (known as the collecting authority). However, it may consist of components (precepts) levied and redistributed to other agencies or authorities (each known as a precepting authority).
+=== The nature of the Council Tax ===
+The Valuation Tribunal Service has cleared up many previous doubts regarding the exact nature of Council Tax and states that:
+All persons normally resident in a property are counted for Council Tax liability. However, certain classes of person are treated as 'disregarded persons'. Such persons do not count towards occupancy. If a property is occupied entirely by disregarded persons then it is taxed as an empty property (50% discount) unless it otherwise qualifies for total exemption.<ref> urltoken Citizen's advice on Council Tax liability</ref>
+A person is disregarded if they are:
+* aged 17 or under (but S above may apply).
+* aged 18 and someone is entitled to draw child benefit for them.
+* a school or college leaver aged under 20 who left after 30 April in any year (disregarded until 1 November in the same year even if employed and counts toward exemption N above).
+* a full-time student on a qualifying course of education (but N above may apply).
+* a foreign language assistant on the official British Council programme (but N above may apply as this counts as being a student).
+* a spouse, partner or dependent of either of the above two classes who is not a British citizen and is prohibited from working or claiming benefit by the immigration rules (but N above may apply).
+* a young person on a government training scheme or in certain kinds of apprenticeship.
+* a prisoner or someone who has been detained for deportation or detained under the Mental Health Act.
+* someone who is Severe mental impairment (but U above may apply).
+* a long-term patient in a hospital or resident in a care home.
+* living in a hostel which provides care or treatment because of old-age; physical or mental disability; past or present alcohol or drug dependence; past or present mental illness.
+* living in a bail or probation hostel.
+* a live-in carer (exemption J may apply to their original home).
+* staying in a hostel or night shelter.
+* a member of any religious community.
+* a member of a visiting armed force.
+* a dependent of a member of a visiting armed force.
+===Statutory discounts===
+====Low occupancy====
+A fixed discount, currently set at 25%, is available when there are fewer than two residents; this is known as the Single Person Discount. Though it is often concluded that the full Council Tax charge must, therefore, be based on two or more adults being resident at a property, this is not strictly true.
+Some people are automatically disregarded when counting the number of residents for this purpose, such as full-time students. The legislation also provides that, to count as a resident of a property, an individual should have the property as their sole or main residence; case law has established that no single test may be used to determine whether this condition is met.<ref></ref>
+As part of the National Fraud Initiative, every other year, the Audit Commission analyses metadata deriving from council tax accounts together with the full electoral register to produce lists of people it believes should be subjected to an investigation on the basis that there is a risk that a discount is being received when an adult who does not fail to be disregarded is actually resident in the dwelling.<ref>The National Fraud Initiative 2008./2009 Members' Briefing. May 2010. Published by the Audit Commission.</ref>
+====Disabled occupancy====
+If a property has been adapted to meet the needs of a disabled occupant, then, after applying in writing, and provided the adaptations are of a certain extent, the property will be rebanded to the band immediately below its normal council tax band. If the property was in the lowest council tax band, it will be placed into a Band Z (the band below A).
+===Discretionary reductions===
+Under the Welfare Reform Act 2012, local councils were given powers to create new deduction rules for their council tax. These rules are now officially known as Council Tax Reduction schemes, though many councils market them to residents as Council Tax Support; the choice to market the rules as a tax cut, rather than a benefit, may be an ideological one.
+These powers are restricted by the Act; the rules cannot be arbitrary, ad-hoc, or targeted at specific individuals. Since these powers replace the former statutory rebate schemes, the government has also restricted the councils from increasing, by more than a certain amount, the net Council Tax bill for any individual who previously received a rebate. In particular people in receipt of the Guarantee Credit element of Pension Credit must continue to receive a 100% discount (that is, a council tax bill of £0).
+These powers took effect in April 2013. The consequent reduction rules vary from one local authority to another, with some councils keeping the same rules as the rebate schemes they replace, while others took the opportunity to levy a small level of tax on people with low incomes.<ref></ref>
+==Former statutory rebates==
+Historically, a number of statutory Council Tax rebates existed. These were applied to the Council Tax bill in advance of the bill being delivered to the claimant, effectively creating a discount. However, this was not merely an overly-bureaucratic discount; the rebate money was provided by central government, but the Council Tax bill it rebated was paid to the local authority.
+Though the funding was provided by central government, the schemes were administered by the local authority responsible for producing the relevant Council Tax bill. Originally using paper application forms, local authorities began to use a telephone-based application process, in the last few years of the rebate schemes. Under these latter application schemes, claimants would often contact the responsible central government department, who would then forward the details to the local authority.
+Since 2013, explicit Council Tax discounts have been provided instead. The local authorities have been given the right to choose their own rules for the discounts, within certain bounds, but many local authorities choose to use similar or identical rules to the former statutory rebate schemes.
+===Second Adult Rebate===
+Many individuals share their dwelling with members of separate households, who would ordinarily be expected to pay a share of the council tax bill. However, in some cases, it would not be reasonable to expect those other residents to be able to pay a full share; to assist individuals sharing with those residents, a rebate (Second Adult Rebate) was available, as follows:
+* 25%, if each of the second adults are in receipt of one of
+**Income-Based Jobseekers Allowance, or
+**Income Support, or
+**Income-Related Employment and Support Allowance, or
+**Pension Credit
+*otherwise, it is based on the combined gross weekly income of all the second adults:
+**15%, if under £175
+**7.5%, if between £175 and £227.99
+**nothing, if £228 or above
+===Council Tax Benefit===
+Council Tax Benefit was a means-tested rebate that potentially rebated 100% of a claimant's council tax bill. The rebate would be reduced by a fifth of any qualifying income above a certain level; benefits did not qualify for this calculation, but most other income did. In effect, Council Tax Benefit was a rebate for people with low incomes.
+The claimant could not be awarded both Council Tax Benefit and Second Adult Rebate; only the higher of the two, in relation to the claimant's circumstances, would be awarded.
+====Non-dependant deductions====
+A non-dependant is a person that the claimant is sharing accommodation with but is not a member of their own household (that is, not a partner, dependant, etc.), such as lodgers or joint tenants. Since it would be reasonable to expect non-dependants to contribute towards the Council Tax bill, Council Tax Benefit was reduced so that it only covered the claimant's hypothetical portion of the Council Tax bill.
+However, no reduction was imposed if the claimant or their partner needed substantial care; this qualification was met if, and only if, the claimant was:
+*Registered blind, or
+*In receipt of
+**the Care Component (any rate) of Disability Living Allowance, or
+**Severe Disablement Allowance, or
+**Exceptionally Severe Disablement Allowance
+No contribution was expected from non-dependant who would themselves qualify for Council Tax benefit, were not counted towards the number of residents liable for council tax (for example, due to being a student), were normally resident elsewhere, or were not adults. But the remaining non-dependants were each hypothetically expected to contribute the following amounts:
+*£2.30 if in part-time work, otherwise
+*£2.30 if weekly income is under £178
+*£4.60 if weekly income is between £178 and £305.99
+*£5.80 if weekly income is between £306 and £381.99
+*£6.95 if weekly income is over £382
+Council Tax Benefit was therefore reduced by an amount equal to these hypothetically expected contributions.
+==Criticism==
+===London===
+A report from the IPPR, funded by Trust for London,<ref></ref> called for significant reform of the Council Tax system in London. The report called for Council Tax to be devolved to London, for exemptions for second and empty homes to be brought to an end and for Council Tax to be replaced with a property tax which is proportional to the present-day value of homes.
+===Collection of unpaid tax===
+====Scotland====
+In Scotland, criticism has been levied not so much at the principle of the tax, but at its debt collection arrangements:<ref></ref> Community Charge and Council Tax debts can be pursued up to 40 years later – few people will have conserved their payment receipts for such a long time and as such are unable to prove that they paid. Under Scottish Law, it is the responsibility of the tax payer to prove that the tax has been paid, not for the council to prove that it has not. John Wilson MSP presented an Enforcement of Local Tax Arrears (Scotland) Bill on 19 March 2010 in order to try to reduce this collection time from 20 to 5 years. Although Wilson's bill has not made any progress , the Scottish parliament has passed the Community Charge Debt (Scotland) Bill to stop Councils pursuing debts from the older Community Charge, though there are some scrutiny stages to go through before it can become law.<ref></ref>
+====England and Wales====
+The ability to collect Council Tax debt, in line with other debts, expires six years after the amount become due unless a liability order has been granted by a magistrates' court. This six-year limit is specifically included in legislation via regulation 34(3) of the Council Tax (Administration and Enforcement) Regulations 1992.<ref></ref> Once a liability order has been granted then, unlike Scotland, there is no limit in legislation as to how long the Council Tax arrears remain outstanding. This allows a local authority to chase debts many years after the original liability order was granted. Councils can garnish wages, send bailiffs to seize property, and imprison people for three months.<ref></ref>
+===Allocation to wrong tax band===
+An edition of the current affairs programme Tonight (1999 TV programme) on 26 January 2007<ref> urltoken investigated whether millions of homes had been placed in the wrong band in the original 1991 valuation. It was shown that the banding valuations were often done by 'second gear valuations', in other words valuations were often done by driving past homes and allocating bands via a cursory external valuation. The programme followed case studies of a system devised by the presenter Martin Lewis, published on his website in October 2006, who had received thousands back in back payments after appealing their band allocations. This Council Tax Cashback<ref></ref> system was said to have the potential to reach millions and received widespread publicity, likely to encourage people to challenge the system.<ref></ref> There had been no information published on how many have been successful in obtaining a reduced banding until 22 November 2008 when the Daily Telegraph, in a news article about the campaign by Martin Lewis, stated that in the past year 97,563 properties in England and Wales have been rebanded, with 69,695 of those down-graded.<ref></ref>
+==See also==
+*Local income tax
+*Window tax
+*Council Tax (New Valuation Lists for England) Act 2006
+==Notes==
+==References==
+==External links==
+* urltoken Text of the Local Government Finance Act 1992
+* urltoken Check your Council Tax band, from Directgov (England and Wales only)
+* urltoken Check your Council Tax band, from the Scottish Assessors Association (Scotland only)
+* urltoken Pay your Council Tax online, from Directgov
+* urltoken Council Tax Arrears Resolution & Advice, from Council Tax Advisors
+* urltoken Council Tax payments, discounts and appeals, from Directgov
+* urltoken IsItFair – the UK Council Tax Protest Group
+* urltoken Axe The Tax – Liberal Democrat anti-Council Tax website
+* urltoken Ministerial correspondence relating to council tax in the financial year 1991-2 HM Treasury disclosure under the Freedom of Information Act
+* urltoken Check if you're in the right council tax band
+* urltoken Full listing of rates for each council and banding information. Data for year 2090/10
+* urltoken Office of Deputy Prime Minister Released Council Tax Figures
+
+Council Tax is a taxation system used in England, Scotland and Wales. It is a Property tax which was introduced in 1993 by the Local Government Finance Act 1992, replacing the short lived Community Charge, which in turn replaced the domestic rates. Each property is assigned one of eight bands in England and Scotland (A to H), or nine bands in Wales (A to I), based on property value, and the tax is set as a fixed amount for each band. The more valuable the property, the higher the tax, except for properties valued above £320,000. Some property is exempt from the tax, and some people are exempt from the tax, while some get a discount.
+In 2011 the average annual levy on a property in England was £1,196 .<ref> urltoken Council tax levels set by local authorities in England – 2011–12 Communities and local government – figures released 23 March 2011</ref> In 2014–15 the tax raised enough money to cover 24.3% of council expenditure.<ref></ref>
+Council tax is difficult to avoid or evade and therefore has one of the highest collection rates of any tax, with in-year collection rates of 97.0% in 2014–15.<ref name=collectiondata></ref>

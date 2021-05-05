@@ -1,0 +1,75 @@
+Projective geometry
+
+== Overview ==
+Projective geometry is an elementary non-metrical form of geometry, meaning that it is not based on a concept of distance. In two dimensions it begins with the study of configurations of points and lines. That there is indeed some geometric interest in this sparse setting was first established by Desargues and others in their exploration of the principles of perspective art. In higher dimensional spaces there are considered hyperplanes (that always meet), and other linear subspaces, which exhibit #Duality. The simplest illustration of duality is in the projective plane, where the statements "two distinct points determine a unique line" (i.e. the line through them) and "two distinct lines determine a unique point" (i.e. their point of intersection) show the same structure as propositions. Projective geometry can also be seen as a geometry of constructions with a straightedge alone. Since projective geometry excludes compass constructions, there are no circles, no angles, no measurements, no parallels, and no concept of intermediacy. It was realised that the theorems that do apply to projective geometry are simpler statements. For example, the different conic sections are all equivalent in (complex) projective geometry, and some theorems about circles can be considered as special cases of these general theorems.
+During the early 19th century the work of Jean-Victor Poncelet, Lazare Carnot and others established projective geometry as an independent field of mathematics
+. Its rigorous foundations were addressed by Karl von Staudt and perfected by Italians Giuseppe Peano, Mario Pieri, Alessandro Padoa and Gino Fano during the late 19th century. Projective geometry, like affine and Euclidean geometry, can also be developed from the Erlangen program of Felix Klein; projective geometry is characterized by invariants under transformations of the projective group.
+After much work on the very large number of theorems in the subject, therefore, the basics of projective geometry became understood. The incidence structure and the cross-ratio are fundamental invariants under projective transformations. Projective geometry can be modeled by the affine plane (or affine space) plus a line (hyperplane) "at infinity" and then treating that line (or hyperplane) as "ordinary". An algebraic model for doing projective geometry in the style of analytic geometry is given by homogeneous coordinates. On the other hand, axiomatic studies revealed the existence of non-Desarguesian planes, examples to show that the axioms of incidence can be modelled (in two dimensions only) by structures not accessible to reasoning through homogeneous coordinate systems.
+In a foundational sense, projective geometry and ordered geometry are elementary since they involve a minimum of axioms and either can be used as the foundation for affine and Euclidean geometry. Projective geometry is not "ordered" and so it is a distinct foundation for geometry.
+==History==
+The first geometrical properties of a projective nature were discovered during the 3rd century by Pappus of Alexandria. Filippo Brunelleschi (1404–1472) started investigating the geometry of perspective during 1425 (see the history of perspective for a more thorough discussion of the work in the fine arts that motivated much of the development of projective geometry). Johannes Kepler (1571–1630) and Gérard Desargues (1591–1661) independently developed the concept of the "point at infinity". Desargues developed an alternative way of constructing perspective drawings by generalizing the use of vanishing points to include the case when these are infinitely far away. He made Euclidean geometry, where parallel lines are truly parallel, into a special case of an all-encompassing geometric system. Desargues's study on conic sections drew the attention of 16-year-old Blaise Pascal and helped him formulate Pascal's theorem. The works of Gaspard Monge at the end of 18th and beginning of 19th century were important for the subsequent development of projective geometry. The work of Desargues was ignored until Michel Chasles chanced upon a handwritten copy during 1845. Meanwhile, Jean-Victor Poncelet had published the foundational treatise on projective geometry during 1822. Poncelet examined the projective properties of objects (those invariant under central projection) and, by basing his theory on the concrete pole and polar relation with respect to a circle, established a relationship between metric and projective properties. The non-Euclidean geometry discovered soon thereafter were eventually demonstrated to have models, such as the Klein model of hyperbolic space, relating to projective geometry.
+In 1855 A. F. Möbius wrote an article about permutations, now called Möbius transformations, of generalised circles in the complex plane. These transformations represent projectivities of the complex projective line. In the study of lines in space, Julius Plücker used homogeneous coordinates in his description, and the set of lines was viewed on the Klein quadric, one of the early contributions of projective geometry to a new field called algebraic geometry, an offshoot of analytic geometry with projective ideas.
+Projective geometry was instrumental in the validation of speculations of Lobachevski and Bolyai concerning hyperbolic geometry by providing models for the hyperbolic plane:<ref>John Milnor (1982) urltoken Hyperbolic geometry: The first 150 years, Bulletin of the American Mathematical Society via Project Euclid</ref> for example, the Poincaré disc model where generalised circles perpendicular to the unit circle correspond to "hyperbolic lines" (geodesics), and the "translations" of this model are described by Möbius transformations that map the unit disc to itself. The distance between points is given by a Cayley-Klein metric, known to be invariant under the translations since it depends on cross-ratio, a key projective invariant. The translations are described variously as isometries in metric space theory, as linear fractional transformations formally, and as projective linear transformations of the projective linear group, in this case SU(1, 1).
+The work of Poncelet, Jakob Steiner and others was not intended to extend analytic geometry. Techniques were supposed to be synthetic: in effect projective space as now understood was to be introduced axiomatically. As a result, reformulating early work in projective geometry so that it satisfies current standards of rigor can be somewhat difficult. Even in the case of the projective plane alone, the axiomatic approach can result in models not describable via linear algebra.
+This period in geometry was overtaken by research on the general algebraic curve by Clebsch, Riemann, Max Noether and others, which stretched existing techniques, and then by invariant theory. Towards the end of the century, the Italian school of algebraic geometry (Enriques, Segre, Severi) broke out of the traditional subject matter into an area demanding deeper techniques.
+During the later part of the 19th century, the detailed study of projective geometry became less fashionable, although the literature is voluminous. Some important work was done in enumerative geometry in particular, by Schubert, that is now considered as anticipating the theory of Chern classes, taken as representing the algebraic topology of Grassmannians.
+Paul Dirac studied projective geometry and used it as a basis for developing his concepts of quantum mechanics, although his published results were always in algebraic form. See urltoken a blog article referring to an article and a book on this subject, also to a talk Dirac gave to a general audience during 1972 in Boston about projective geometry, without specifics as to its application in his physics.
+==Description==
+Projective geometry is less restrictive than either Euclidean geometry or affine geometry. It is an intrinsically non-metrical geometry, meaning that facts are independent of any metric structure. Under the projective transformations, the incidence structure and the relation of projective harmonic conjugates are preserved. A projective range is the one-dimensional foundation. Projective geometry formalizes one of the central principles of perspective art: that parallel lines meet at infinity, and therefore are drawn that way. In essence, a projective geometry may be thought of as an extension of Euclidean geometry in which the "direction" of each line is subsumed within the line as an extra "point", and in which a "horizon" of directions corresponding to coplanar lines is regarded as a "line". Thus, two parallel lines meet on a horizon line by virtue of their incorporating the same direction.
+Idealized directions are referred to as points at infinity, while idealized horizons are referred to as lines at infinity. In turn, all these lines lie in the plane at infinity. However, infinity is a metric concept, so a purely projective geometry does not single out any points, lines or planes in this regard—those at infinity are treated just like any others.
+Because a Euclidean geometry is contained within a projective geometry—with projective geometry having a simpler foundation—general results in Euclidean geometry may be derived in a more transparent manner, where separate but similar theorems of Euclidean geometry may be handled collectively within the framework of projective geometry. For example, parallel and nonparallel lines need not be treated as separate cases; rather an arbitrary projective plane is singled out as the ideal plane and located "at infinity" using homogeneous coordinates.
+Additional properties of fundamental importance include Desargues' Theorem and the Theorem of Pappus. In projective spaces of dimension 3 or greater there is a construction that allows one to prove Desargues' Theorem. But for dimension 2, it must be separately postulated.
+Using Desargues' Theorem, combined with the other axioms, it is possible to define the basic operations of arithmetic, geometrically. The resulting operations satisfy the axioms of a field — except that the commutativity of multiplication requires Pappus's hexagon theorem. As a result, the points of each line are in one-to-one correspondence with a given field, , supplemented by an additional element, ∞, such that .</math>
+Given a conic C and a point P not on it, two distinct secant lines through P intersect C in four points. These four points determine a quadrangle of which P is a diagonal point. The line through the other two diagonal points is called the polar of P and P is the pole of this line. Alternatively, the polar line of P is the set of projective harmonic conjugates of P on a variable secant line passing through P and C.
+==See also==
+*Projective line
+*Projective plane
+*Incidence
+*Fundamental theorem of projective geometry
+*Desargues' theorem
+*Pappus's hexagon theorem
+*Pascal's theorem
+*Projective line over a ring
+*Joseph Wedderburn
+*Grassmann–Cayley algebra
+==Notes==
+==References==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* <cite id=refHughes1973></cite>
+* 
+* 
+* 
+*
+* Luis Santaló (1966) Geometría proyectiva, Editorial Universitaria de Buenos Aires
+*
+==External links==
+* urltoken Projective Geometry for Machine Vision — tutorial by Joe Mundy and Andrew Zisserman.
+* urltoken Notes based on Coxeter's The Real Projective Plane.
+* urltoken Projective Geometry for Image Analysis — free tutorial by Roger Mohr and Bill Triggs.
+* urltoken Projective Geometry. — free tutorial by Tom Davis.
+* urltoken The Grassmann method in projective geometry A compilation of three notes by Cesare Burali-Forti on the application of exterior algebra to projective geometry
+* urltoken C. Burali-Forti, "Introduction to Differential Geometry, following the method of H. Grassmann" (English translation of book)
+* urltoken E. Kummer, "General theory of rectilinear ray systems" (English translation)
+* urltoken M. Pasch, "On the focal surfaces of ray systems and the singularity surfaces of complexes" (English translation)
+
+In mathematics, projective geometry is the study of geometric properties that are invariant with respect to projective transformations. This means that, compared to elementary Euclidean geometry, projective geometry has a different setting, projective space, and a selective set of basic geometric concepts. The basic intuitions are that projective space has more points than Euclidean space, for a given dimension, and that geometric transformations are permitted that transform the extra points (called "Point at infinity") to Euclidean points, and vice-versa.
+Properties meaningful for projective geometry are respected by this new idea of transformation, which is more radical in its effects than can be expressed by a transformation matrix and translations (the affine transformations). The first issue for geometers is what kind of geometry is adequate for a novel situation. It is not possible to refer to angles in projective geometry as it is in Euclidean geometry, because angle is an example of a concept not invariant with respect to projective transformations, as is seen in perspective drawing. One source for projective geometry was indeed the theory of perspective. Another difference from elementary geometry is the way in which parallel lines can be said to meet in a point at infinity, once the concept is translated into projective geometry's terms. Again this notion has an intuitive basis, such as railway tracks meeting at the horizon in a perspective drawing. See projective plane for the basics of projective geometry in two dimensions.
+While the ideas were available earlier, projective geometry was mainly a development of the 19th century. This included the theory of complex projective space, the coordinates used (homogeneous coordinates) being complex numbers. Several major types of more abstract mathematics (including invariant theory, the Italian school of algebraic geometry, and Felix Klein's Erlangen programme resulting in the study of the classical groups) were based on projective geometry. It was also a subject with many practitioners for its own sake, as synthetic geometry. Another topic that developed from axiomatic studies of projective geometry is finite geometry.
+The topic of projective geometry is itself now divided into many research subtopics, two examples of which are projective algebraic geometry (the study of projective varieties) and projective differential geometry (the study of differential geometry of the projective transformations).

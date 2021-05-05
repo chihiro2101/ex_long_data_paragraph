@@ -1,0 +1,37 @@
+Chemical equation
+
+== Formation of chemical reaction ==
+A chemical equation consists of the chemical formulas of the reactants (the starting substances) and the chemical formula of the products (substances formed in the chemical reaction). The two are separated by an arrow symbol (<math>\rightarrow</math>, usually read as "yields") and each individual substance's chemical formula is separated from others by a plus sign.
+As an example, the equation for the reaction of hydrochloric acid with sodium can be denoted:
+:2 + 2 → 2 + 
+This equation would be read as "two HCl plus two Na yields two NaCl and H two." But, for equations involving complex chemicals, rather than reading the letter and its subscript, the chemical formulas are read using IUPAC nomenclature. Using IUPAC nomenclature, this equation would be read as "hydrochloric acid plus sodium yields sodium chloride and hydrogen gas."
+This equation indicates that sodium and HCl react to form NaCl and H<sub>2</sub>. It also indicates that two sodium molecules are required for every two hydrochloric acid molecules and the reaction will form two sodium chloride molecules and one diatomic molecule of hydrogen gas molecule for every two hydrochloric acid and two sodium molecules that react. The stoichiometric coefficients (the numbers in front of the chemical formulas) result from the conservation of mass and the charge conservation (see "Balancing Chemical Equation" section below for more information).
+== Common symbols==
+Symbols are used to differentiate between different types of reactions. To denote the type of reaction:<ref name="goldbook"/>
+* "<math>=</math>" symbol is used to denote a stoichiometric relation.
+* "<math>\rightarrow</math>" symbol is used to denote a net forward reaction.
+* "<math>\rightleftarrows</math>" symbol is used to denote a reaction in both directions.<ref>The notation <math>\rightleftarrows</math> was proposed in 1884 by the Dutch chemist Jacobus Henricus van 't Hoff. See: Van 't Hoff called reactions that didn't proceed to completion "limited reactions". From pp. 4–5: "Or M. Pfaundler a relié ces deux phénomênes … s'accomplit en même temps dans deux sens opposés." (Now Mr. Pfaundler has joined these two phenomena in a single concept by considering the observed limit as the result of two opposing reactions, driving the one in the example cited to the formation of sea salt i.e., NaCl and nitric acid, and the other to hydrochloric acid and sodium nitrate. This consideration, which experiment validates, justifies the expression "chemical equilibrium", which is used to characterize the final state of limited reactions. I would propose to translate this expression by the following symbol: 
+HCl + NO<sub>3</sub> Na <math>\rightleftarrows</math> NO<sub>3</sub> H + Cl Na. 
+I thus replace, in this case, the = sign in the chemical equation by the sign <math>\rightleftarrows</math>, which in reality doesn't express just equality but shows also the direction of the reaction. This clearly expresses that a chemical action occurs simultaneously in two opposing directions.)</ref>
+* "<chem><=></chem>" symbol is used to denote an equilibrium.<ref>The notation <chem><=></chem> was suggested by Hugh Marshall in 1902. See: </ref>
+The physical state of chemicals is also very commonly stated in parentheses after the chemical symbol, especially for ionic reactions. When stating physical state, (s) denotes a solid, (l) denotes a liquid, (g) denotes a gas and (aq) denotes an aqueous solution.
+If the reaction requires energy, it is indicated above the arrow. A capital Greek letter delta (<math>\Delta</math><ref>The symbol is more properly denoted as a simple triangle (△), which was originally the alchemical symbol for fire.</ref>) is put on the reaction arrow to show that energy in the form of heat is added to the reaction. The expression <math>h\nu</math><ref>This symbol comes from the Planck equation for the energy of a photon, <math>E = h\nu</math>. It is sometimes mistakenly written with a 'v' ("vee") instead of the Greek letter '<math>\nu</math>' ("nu")</ref> is used as a symbol for the addition of energy in the form of light. Other symbols are used for other specific types of energy or radiation.
+== Balancing chemical equations ==
+The law of conservation of mass dictates that the quantity of each element does not change in a chemical reaction. Thus, each side of the chemical equation must represent the same quantity of any particular element. Likewise, the charge is conserved in a chemical reaction. Therefore, the same charge must be present on both sides of the balanced equation.
+One balances a chemical equation by changing the scalar number for each chemical formula. Simple chemical equations can be balanced by inspection, that is, by trial and error. Another technique involves solving a system of linear equations.
+Balanced equations are written with smallest whole-number coefficients. If there is no coefficient before a chemical formula, the coefficient is 1.
+The method of inspection can be outlined as putting a coefficient of 1 in front of the most complex chemical formula and putting the other coefficients before everything else such that both sides of the arrows have the same number of each atom. If any fractional coefficient exists, multiply every coefficient with the smallest number required to make them whole, typically the denominator of the fractional coefficient for a reaction with a single fractional coefficient.
+As an example, seen in the above image, the burning of methane would be balanced by putting a coefficient of 1 before the CH<sub>4</sub>:
+:1 CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O
+Since there is one carbon on each side of the arrow, the first atom (carbon) is balanced.
+Looking at the next atom (hydrogen), the right-hand side has two atoms, while the left-hand side has four. To balance the hydrogens, 2 goes in front of the H<sub>2</sub>O, which yields:
+:1 CH<sub>4</sub> + O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O
+Inspection of the last atom to be balanced (oxygen) shows that the right-hand side has four atoms, while the left-hand side has two. It can be balanced by putting a 2 before O<sub>2</sub>, giving the balanced equation:
+:CH<sub>4</sub> + 2 O<sub>2</sub> → CO<sub>2</sub> + 2 H<sub>2</sub>O
+This equation does not have any coefficients in front of CH<sub>4</sub> and CO<sub>2</sub>, since a coefficient of 1 is dropped.
+=== Matrix method ===
+Generally, any chemical equation involving J different molecules can be written as:
+:<math>\sum_ \nu_j=0</math>
+==References==
+
+A chemical equation is the symbolic representation of a chemical reaction in the form of symbols and formulae, wherein the reactant entities are given on the left-hand side and the product entities on the right-hand side.<ref name=goldbook></ref> The coefficients next to the symbols and formulae of entities are the absolute values of the stoichiometric numbers. The first chemical equation was diagrammed by Jean Beguin in 1615.<ref></ref>

@@ -1,0 +1,62 @@
+Nonnus
+
+==Life==
+There is almost no evidence for the life of Nonnus. It is known that he was a native of Panopolis (Akhmim) in Upper Egypt from his naming in manuscripts and the reference in epigram 9.198 of the Palatine Anthology. Scholars have generally dated him from the end of the 4th to the central years of the 5th century. He must have lived after the composition of Claudian's Greek Gigantomachy (i.e., after CE&nbsp;394–397) as he appears to be familiar with that work. Agathias seems to have followed him, with a mid-6th-century reference to him as a "recent author".<ref>Agathias Scholasticus, Hist. 4.23. (530&nbsp; 580)</ref><ref>Fornaro, S. s.v. Nonnus in Brill's New Pauly vol. 9 (ed. Canick & Schneider) (Leiden, 2006) col.812–815</ref>
+He is sometimes conflated with St Nonnus from the hagiographies of St Pelagia and with Nonnus, the bishop of Edessa who attended the Council of Chalcedon, both of whom seem to have been roughly contemporary, but these associations are probably mistaken.
+==The Dionysiaca==
+Image:Dionysos Mosaic.jpg|thumb|right|300px|A mosaic of Dionysus from Antioch.
+Nonnus' principal work is the 48-book epic Dionysiaca, the longest surviving poem from antiquity.<ref>Hopkinson, N. Studies in the Dionysiaca of Nonnus (Cambridge, 1994) pp.1–4.</ref> It has 20,426 lines composed in Homeric dialect and dactylic hexameters, the main subject of which is the life of Dionysus, his expedition to India, and his triumphant return to the west. The poem is to be dated to the 5th century. It used to be considered of poor literary quality, but a mass of recent writing (most notably in the Budé edition and commentary on the poem in 18 volumes) has demonstrated that it shows consummate literary skill, even if its distinctly baroque extravagance is for a modern reader a taste that has to be acquired. 
+==The Paraphrase of John==
+His Paraphrase of John (Metabolḕ toû katà Iōánnēn Euaggelíou) also survives. Its timing is a debated point: textual analysis seems to suggest that it preceded the Dionysiaca while some scholars feel it unlikely that a converted Christian would have gone on to devote so much work to the Dionysiaca’s pagan themes.<ref>Vian, Francis. '"Mârtus" chez Nonnos de Panopolis. Étude de sémantique et de chronologie.' REG 110, 1997, 143-60. Reprinted in: L'Épopée posthomérique. Recueil d'études. Ed. Domenico Accorinti. Alessandria: Edizioni dell'Orso, 2005 (Hellenica 17), 565-84</ref> A team of Italian scholars is currently producing a full commentary of the poem, book by book, of which several parts have already been published. They have shown that Nonnus was as learned in Christian theology (in particular he seems to have consulted the Commentary on the Gospel of John that Cyril of Alexandria had recently penned) as in pagan myth. 
+==Works==
+A complete and updated bibliography of Nonnus scholarship may be found at Hellenistic Bibliography's page at Google Sites.<ref>.</ref>
+Editions and translations of the Dionysiaca include:
+* Bilingual Greek-English edition (initial introduction, some explanatory notes): W. H. D. Rouse (1940), Nonnos, Dionysiaca, With an English Translation by W. H. D. Rouse, Mythological Introduction and Notes by H. J. Rose, Notes on Text Criticism by L. R. Lind, 3 vols., Loeb Classical Library, Cambridge (Ma.)
+* Bilingual Greek-French edition (with introduction to the individual books and notes): F. Vian (general ed.) (1976-2006), Nonnos de Panopolis, Les Dionysiaques, 19 volumes, Paris
+* Bilingual Greek-Italian edition (with introductions and notes): D. Gigli Piccardi (general ed.) (2003-4), Nonno di Panopoli, Le Dionisiache, BUR, Milano
+* Nonno di Panopoli, Le Dionisiache, a cura di D. del Corno, traduzione di M. Maletta, note de F. Tissoni, 2 vols, Milano 1997.
+* F. Tissoni, Nonno di Panopoli, I Canti di Penteo (Dionisiache 44-46). Commento, Firenze 1998
+Editions and translations of the Paraphrase include:
+* Translation into English: Sherry, L.F., The Hexameter Paraphrase of St. John Attributed to Nonnus of Panopolis: Prolegomenon and Translation (Ph.D. dissertation; Columbia University, 1991).
+* Translation in English: Prost, Mark Anthony. Nonnos of Panopolis, The Paraphrase of the Gospel of John. Translated from the Greek by M.A.P. Ventura, CA: The Writing Shop Press, 2006
+* The last complete edition of the Greek text: Nonni Panopolitani Paraphrasis S. Evangelii Joannei edidit Augustinus Scheindler, accedit S. Evangelii textus et index verborum, Lipsiae in aedibus Teubneri 1881
+A team of (mainly Italian) scholars are now re-editing the text, book by book, with ample introductions and notes. Published so far:
+* C. De Stefani (2002), Nonno di Panopoli: Parafrasi del Vangelo di S. Giovanni, Canto I, Bologna
+* E. Livrea (2000), Nonno di Panopoli, Parafrasi del Vangelo di S. Giovanni, Canto B, Bologna
+* M. Caprara (2006), Nonno di Panopoli, Parafrasi del Vangelo di S. Giovanni, Canto IV, Pisa
+* G. Agosti (2003), Nonno di Panopoli, Parafrasi del Vangelo di S. Giovanni, Canto V, Firenze 
+* R. Franchi (2013), Nonno di Panopoli. Parafrasi del Vangelo di S. Giovanni: canto sesto, Bologna
+* K. Spanoudakis (2015), Nonnus of Panopolis. Paraphrase of the Gospel of John XI, Oxford
+* C. Greco (2004), Nonno di Panopoli, Parafrasi del Vangelo di S. Giovanni, canto XIII, Alessandria
+* E. Livrea (1989), Nonno di Panopoli, Parafrasi del Vangelo di S. Giovanni, Canto XVIII, Napoli
+* D. Accorinti (1996), Nonno di Panopoli, Parafrasi del Vangelo di S. Giovanni, Canto XX, Pisa
+==See also==
+* Kalamos and Karpos
+==Notes==
+==References==
+==Bibliography==
+* .
+==Further reading==
+* Accorinti, Domenico. ed. 2016. Brill’s Companion to Nonnus of Panopolis. Leiden, The Netherlands, and Boston: Brill.
+* Geisz, Camille. 2018. A Study of the Narrator in Nonnus of Panopolis’ Dionysiaca. Storytelling in Late Antique Epic. Leiden, The Netherlands, and Boston: Brill.
+* Hollis, Adrian S. 1994. "Nonnus and Hellenistic Poetry." In Studies in the Dionysiaca of Nonnus. Edited by Neil Hopkinson, 43–62. Cambridge, UK: Cambridge Philological Society.
+* Matzner, Sebastian. 2008. "Christianizing the Epic—Epicizing Christianity. Nonnus. Paraphrasis and the Old-Saxon Heliand in a Comparative Perspective: A study in the Poetics of Acculturation." Millennium 5:111–145.
+* Miguélez Cavero, Laura. 2008. Poems in Context: Poetry in the Egyptian Thebaid 200–600 AD. Berlin: De Gruyter.
+* Shorrock, Robert. 2005. "Nonnus." In A Companion to Ancient Epic. Edited by John Miles Fowley, 374–385. Oxford: Blackwell.
+* Shorrock, Robert. 2001. The Challenge of Epic. Allusive Engagement in the Dionysiaca of Nonnus. Leiden: Brill.
+* Spanoudakis, Konstantinos. 2007. "Icarius Jesus Christ? Dionysiac Passion and Biblical Narrative in Nonnus’ Icarius Episode (Dion. 47, 1–264)." Wiener Studien 120:35–92.
+* Spanoudakis, Konstantinos, ed. 2014. Nonnus of Panopolis in Context: Poetry and Cultural Milieu in Late Antiquity with a Section on Nonnus and the Modern World. Berlin and Boston: De Gruyter.
+* Vian, Francis. 2005. L’épopée posthomérique: Recueil d’études. Edited by Domenico Accorinti. Alessandria, Italy: Edizioni dell’Orso.
+* Van Opstall, Emilie. 2014. "The Golden Flower of Youth: Baroque Metaphors in Nonnus and Marino." Classical Receptions Journal 6:446–470.
+* Whitby, Mary. 2007. "The Bible Hellenised: Nonnus’ Paraphrase of St John's Gospel and ‘Eudocia’s’ Homeric Centos." In Texts and Culture in Late Antiquity: Inheritance, Authority, and Change. Edited by J. H. D. Scourfield, 195–231. Swansea, UK: The Classical Press of Wales.
+==External links==
+* 
+* urltoken Nonnus Bibliography
+* urltoken Online text: Nonnus, Dionysiaca bks 1-14 translated by W. H. D. Rouse
+* urltoken Online English translation of Dionysiaca, bks 1-48, by W.H.D. Rouse, with place mentions mapped, in urltoken ToposText
+* urltoken R.F. Newbold summarizes his work on Dionysiaca
+* urltoken Greek Opera Omnia by Migne Patrologia Graeca with analytical indexes
+* urltoken Studia Nonniana Interretica: News from the world of Nonnian scholarship and an up-to-date bibliography of Polish studies on Nonnus
+* urltoken Nonnus' paraphrase of the Gospel of John - Metaphrasis Evangelii Ioannei
+
+Nonnus of Panopolis , Nónnos ho Panopolítēs) was a Greek epic poet of Hellenized Egypt in the Imperial Roman era. He was a native of Panopolis (Akhmim) in the Egyptian Thebaid and probably lived in the 5th century AD. He is known as the composer of the Dionysiaca, an epic tale of the god Dionysus, and of the Metabole, a paraphrase of the Gospel of John. The epic Dionysiaca describes the life of Dionysus, his expedition to India, and his triumphant return to the west, it was written in Homeric dialect and in dactylic hexameter, and it consists of 48 books at 20,426 lines.

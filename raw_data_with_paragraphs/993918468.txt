@@ -1,0 +1,185 @@
+Wikipedia:Modelling Wikipedia's growth
+
+== Growth of the article count ==
+The following graph shows the number of articles on the English Wikipedia from its creation in 2001 up to 2015.
+Here, several models are presented to attempt to explain the observed general trends in article growth.
+=== Old exponential model for article count of Wikipedia ===
+::: Note: Between 2003 and 2006/2007 this was the general model for article count of Wikipedia.
+Graphs of the article count for the English Wikipedia, from January 10, 2001, to September 9, 2007, based on statistics from this page and Wikipedia:Announcements. The two graphs show both logarithmic and linear y-axes. The graphs also show the approximate rate of article increase per day, along with the projected number of articles based on annual doubling referenced to January 1, 2003.
+Image:EnglishWikipediaArticleCountGraphs.png
+The growth in articles had been approximately 100% per year from 2003 through most of 2006, but has tailed off since roughly September 2006. The trend is no longer one of exponential growth, but has been closer to linear since that time.
+Notes
+A few notes on features of the graph:
+* The start of the project showed a slow rise, which slowly increased in speed with time.
+* The big slowdown in the rate of article creation in June–July 2002 was caused by major server performance problems, remedied by extensive work on the software.
+* The sudden jump in article count in October 2002 is due to roughly 30,000 stub articles on U.S. towns and cities generated from a database being added by an auto-posting robot, Rambot, during an eight-day period. Although initially controversial as to whether these were "real" encyclopedia articles or merely "stubs", most of the Rambot articles have since been substantially expanded.
+* Not counting the Rambot operation, the true maximum rate of article creation was in August 2006, when about 2400 net new articles were being added each day. From September 2006 through May 2007, the article count has increased by an average of about 1670 articles per day.
+* During the first half of May 2007, the article growth rate dropped below 1500 articles per day, the lowest rate since October 2005. The growth rate has since rebounded to about 2000 articles per day from late July through early September 2007.
+=== Critique of the exponential model ===
+::: Note: This was developed from 2004 to 2006.
+right
+The exponential model of Wikipedia growth is based on the following:
+* more content leads to more traffic
+* which leads to more edits
+* which generate more content
+Moreover, the average rate of growth is assumed to be proportional to the size of the Wikipedia, as a consequence of which, the growth would be exponential.
+The graph of article count on the right is plotted on a logarithmic scale, so exponential growth should manifest itself as linear behavior of the data. Between October 2002 and July 2006, the data do fit very well along the dotted line shown, while from July 2006 onwards there is a noticeable fall off from linear behaviour. Before October 2002, the behaviour is more complex.
+thumb
+The graph on the right below is a close-up of the data points that follow a linear trend: the best-fit line in red was computed using linear regression. From the slope of this best-fit line, the proper time of the exponential growth can be found, giving:
+:<math>
+N(t)=N(0)\ e^</math> term prior to that point.
+Applying this to the data at Wikipedia:Size_of_Wikipedia#The_data_set, using a bit of numerical optimization to find the parameters, gives a much better fit to at least the most recent parts of the data, like this:
+although with the extra parameter, it gets much easier to fit any curve, and there's a danger of overfitting. It also fits less well at the start, before the beginning of the fitting window in 2004.5 (done to remove the wild growth fluctuations of the Rambot-era data). But it adds some plausibility for the model, and at the very least provides a plausible-seeming new ad-hoc extrapolation that can be compared against the other candidates in the future.
+Here are the corresponding percentage interval-to-interval changes, using the data series resampled into 0.05 year intervals, with a log scale on the y-axis, showing the closeness of fit from 2005 onwards:
+Here are the corresponding results for dewiki:, which didn't have the initial 2002-era server slowdown/Rambot perturbations found in the enwiki: data:
+== Data set for number of articles ==
+As Erik Zachte's urltoken statistics for the English language wikipedia is not updated since October 2006, these are the figures I (HenkvD) use for generating the graphs. The data up to October 2006 was taken from one of Erik's Downloads. The data since I took manually each month at the date (or a day later) using the Special:Statistics page. See also Wikipedia:Size of Wikipedia#The data set for a list of values of the official count, recorded manually at irregular intervals.
+Date, Number of articles
+31/01/2001, 19
+28/02/2001, 208
+31/03/2001, 782
+30/04/2001, 1121
+31/05/2001, 1910
+30/06/2001, 2390
+31/07/2001, 3156
+31/08/2001, 4605
+30/09/2001, 7043
+31/10/2001, 10814
+30/11/2001, 13860
+31/12/2001, 16442
+31/01/2002, 18115
+28/02/2002, 26764
+31/03/2002, 29290
+30/04/2002, 30969
+31/05/2002, 32674
+30/06/2002, 35576
+31/07/2002, 38360
+31/08/2002, 43121
+30/09/2002, 52756
+31/10/2002, 90524
+30/11/2002, 95891
+31/12/2002, 100526
+31/01/2003, 106756
+28/02/2003, 111859
+31/03/2003, 117144
+30/04/2003, 122656
+31/05/2003, 129146
+30/06/2003, 135647
+31/07/2003, 144379
+31/08/2003, 152627
+30/09/2003, 161357
+31/10/2003, 168662
+30/11/2003, 178060
+31/12/2003, 189674
+31/01/2004, 200981
+29/02/2004, 217064
+31/03/2004, 239255
+30/04/2004, 258781
+31/05/2004, 277938
+30/06/2004, 298265
+31/07/2004, 320154
+31/08/2004, 341883
+30/09/2004, 364258
+31/10/2004, 388155
+30/11/2004, 415877
+31/12/2004, 444892
+31/01/2005, 469768
+28/02/2005, 492743
+31/03/2005, 521827
+30/04/2005, 555758
+31/05/2005, 591089
+30/06/2005, 626000
+31/07/2005, 674000
+31/08/2005, 725000
+30/09/2005, 768000
+31/10/2005, 819000
+30/11/2005, 866000
+31/12/2005, 922000
+31/01/2006, 961000
+28/02/2006, 1000000
+31/03/2006, 1054996
+30/04/2006, 1110854
+31/05/2006, 1166712
+30/06/2006, 1224289
+31/07/2006, 1289079
+31/08/2006, 1359717
+30/09/2006, 1412803
+31/10/2006, 1462910
+30/11/2006, 1510789
+31/12/2006, 1559619
+31/01/2007, 1611122
+28/02/2007, 1663419
+31/03/2007, 1715552
+30/04/2007, 1763740
+31/05/2007, 1811430
+30/06/2007, 1857844
+31/07/2007, 1926373
+31/08/2007, 1985128
+30/09/2007, 2030045
+31/10/2007, 2070696
+30/11/2007, 2109383
+31/12/2007, 2153891
+31/01/2008, 2203380
+29/02/2008, 2259431
+31/03/2008, 2312963
+30/04/2008, 2354835
+31/05/2008, 2395687
+30/06/2008, 2436382
+31/07/2008, 2485599
+31/08/2008, 2539665
+30/09/2008, 2568272
+31/10/2008, 2607839
+30/11/2008, 2642438
+31/12/2008, 2678813
+31/01/2009, 2721548
+28/02/2009, 2769317
+31/03/2009, 2821544
+30/04/2009, 2863293
+31/05/2009, 2898906
+30/06/2009, 2930449
+== Other measurements of article growth ==
+=== Edits per article ===
+The following graph shows the mean number of edits per article, and is intended as a measure of the quality of the articles, assuming that editing improves the content.
+thumb
+The graph is plotted in logarithmic scale, and this data also fits well with exponential growth starting from October 2002. The number of edits per article has since doubled once every 505 days, a rate consistent with Moore's law.
+=== Modelling growth of Wikipedia page views per million ===
+Using the Alexa page views per million data from Wikipedia:Awareness statistics (see urltoken for a graph) in the period 1 January 2003 to 5 September 2005, filtering out all points less than 28 days away from the previous point (to avoid excessive weighting during time periods where points are densely sampled), and performing a linear least-squares fit of the logarithm of the data, gives the following approximate formula:
+:log_e(page_views_per_million) = -50 + 5e-08 * unix_epoch_of_date
+for n = 21 points fitted
+This implies a doubling period of (log_e(2) / 5e-08) / 86400 days, which is approximately 160 days, and an annual growth factor in page views per million of approximately exp(5e-08*365*86400), which is approximately 5.
+Playing around with different time periods and filter times, we get a range of results from which can reasonably say that Wikipedia's estimated page views per million doubling time is somewhere in the range 130 - 160 days, with the recent (2005) doubling time of 156 days or so being within the range of the longest-term doubling time of about 155 - 159 days, with the 2004 period being the exception to the long-term and short-term trends.
+=== Modelling improvement in Wikipedia's Alexa traffic rank ===
+Applying a similar linear regression fit to the log of urltoken Wikipedia's Alexa traffic rank from October 2002 to September 2005 gives a similar result, with a halving period (lower is better for rank) of roughly 134 - 138 days over the long term, with a 2005-data-only halving time of 114 days! Since the page rank , was roughly 40, this suggested, if taken to logical extremes, and using the most cautious of the three figures, and rounding it to 4.5 months, that Wikipedia would reach:
+* page rank 20 in 4.5 months
+* page rank 10 in 9 months
+* page rank 5 in 13.5 months
+* be fighting its way into the top 3 in 18 months, and
+* be fighting its way to the #1 spot in 22.5 months.
+So, clearly this exponential growth had to stop or slow down, or it was going to be a wild ride.
+November 2005 — the daily page rank averaging 34 and reached 31 in October.
+January 2006 — the daily page rank averaging 20 for about a week; in line with the original predictions above.
+April 2006 — averaging 16/17 this month, although in March it reached as high as rank 12, the then record.
+July 2006 — deviating from predictions; Wikipedia was supposed to have reached rank 10 by now, yet for the whole of June we hovered between 16/18.
+September 2006 — Heavily deviating from predictions; by the end of October, Wikipedia was supposed to reach rank 5, yet still only making small gains, hovering between 14/16 now. The climb up the rankings has slowed down - but for now we are still climbing! Wikipedia has broken the "50,000 reach" barrier, meaning we reach as many people as youtube.com and even more than myspace.com!
+November 2006 — Alexa weekly rank now 12, and is still climbing, with occasional daily blips up to 11. Wikipedia once made the daily rank in the top 10 on 12th!
+February 2007 — 18 months after the predictions, I think it's safe to say the model is flawed. We should be ranked as 3rd, but the high is 8, with the average being 10/11. We're still getting gaining popularity, just not as fast as expected.
+May 2008 — Swaying between 7 and 8 for the past few months with 8 being slightly more common. The rise, though slow, continues.
+December 2008 — The traffic rank continues to be around 8. No clear trend is evident in the rank, but the number of daily pageviews displays a steady decline since June 2008.
+March 2009 — The traffic rank is consistently 7 for more than 6 weeks now, and has not been below 8 for three months. The half-year graph suggests a transition period from October to February for the move from rank 8 to 7. Pageviews have slightly recovered, again reaching July 2008 levels, though still far from those of June 2008.
+June 2009 — Fairly consistently 7, with only intermittent falls to 8. Pageviews are fairly steady at around 0.5% of global, with a very slight upward trend evident.
+September 2009 — Spending more time at 6, with intermittent returns to 7. Pageviews are about 0.55-0.6% of global with an upward trend still evident.
+November 2009 - Mostly at 6, with occasional returns to 7. Pageviews are level at about 0.53-0.6% of global.
+April 2011 — at 8. However, ComScore results as of January 2010 put all Wikimedia properties collectively at 5: see urltoken 
+November 2012 — Back to 6, with 13% reach. For comparison, Google at position 2 worldwide has about four times the reach at 46%
+December 2013 — Global rank 6, U.S.-only rank 7.
+December 2014 — Global rank 7, U.S.-only rank 6.
+June 2015 — Global rank 6, U.S.-only rank 6.
+February 2019 — Global rank 5, U.S.-only rank 5.
+January 2020 — Global rank falls into 10, U.S.-only rank also falls into rank 7.
+August 2020 — Global rank falls again into 14, along with the U.S.-only rank, albeit more moderately, now at 8.<ref></ref>
+== Growth of Wikipedia network ==
+In the context of complex network theory there are a number of efforts to model the growth of Wikipedia network in which the nodes represent the articles and links are the hyper links between articles.<ref></ref><ref></ref> This type of models are based on simple local probabilistic rules which should reproduce different distributions of Wikipedias statistical variables. Analysis show that the distribution of the number of hyper links pointing to a given article have a very stable power law exponent for a number of Wikipedias in different languages. It was also confirmed that the reciprocity - ratio between the number of hyper links connecting two articles in both directions to the total number of hyper links is a very stable across the number of different Wikipedias.
+
+This page analyzes the article count data in Wikipedia:Size of Wikipedia and attempts to fit a simple numerical model of past and future growth to the observed article count size and growth data.
+The rate of new articles initiated within the English Wikipedia grew exponentially until around 2007, though this is no longer the case. The rate of article creation is declining very slowly from its then-peak of around 50,000 new articles created per month. The two most credible growth models for the whole life of Wikipedia are a Gompertz function model which predicts that article creation will eventually asymptotically approach zero, and a modified Gompertz model (see below) which predicts that growth will continue indefinitely, but at a significantly lower rate than in the early days of Wikipedia. As of , there are articles.
+On the other hand, the total amount of text in Wikipedia articles has been increasing essentially linearly, and the growth rate is essentially unchanged since 2006. However, there is an increase in the growth rate in 2020. This implies not that contribution to Wikipedia is fading over time, but that relatively more of the work done is on expanding existing articles or even merging articles that are similar in scope rather than creating new ones.

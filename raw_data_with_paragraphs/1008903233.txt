@@ -1,0 +1,55 @@
+Crash test dummy
+
+==Testing procedure==
+Every Hybrid III undergoes calibration prior to a crash test. Its head is removed and is dropped from 40 centimetres to test calibrate the head instrumentation. Then the head and neck are reattached, set in motion, and stopped abruptly to check for proper neck flexure. Hybrids wear chamois leather skin; the knees are struck with a metal probe to check for proper puncture. Finally, the head and neck are attached to the body, which is attached to a test platform and struck violently in the chest by a heavy pendulum to ensure that the ribs bend and flex as they should.
+When the dummy has been determined to be ready for testing, calibration marks are fastened to the side of the head to aid researchers when slow-motion films are reviewed later. The dummy is then placed inside the test vehicle, set to seating position and then marked on either the head and knees. Up to fifty-eight data channels located in all parts of the Hybrid III, from the head to the ankle, record between 30&nbsp;000 and 35&nbsp;000 data items in a typical 100–150&nbsp;millisecond crash. Recorded in a temporary data repository in the dummy's chest, these data are downloaded to computer once the test is complete.
+Because the Hybrid is a standardized data collection device, any part of a particular Hybrid type is interchangeable with any other. Not only can one dummy be tested several times, but if a part should fail, it can be replaced with a new part. A fully instrumented dummy is worth about €150,000.<ref> urltoken How the Test are done (19 March 2003). Retrieved April 18, 2006.</ref>
+=== Positioning and restraints ===
+Children in the three-year-old age group are more likely to have a fatality because it is the age where positioning is crucial. In some countries, children transition from facing the rear of the car to facing the front at this age. A study was done on restraints and positioning of three-year-olds. It was concluded that being restrained and in the front seat has a lower fatality rate than children positioned in the back seat but not restrained.<ref name=":0" /> The safety results indicated that children should be placed in the back seat and restrained. It also suggests that restraints have a bigger impact on safety than seating positions.<ref name=":0" /> A lap belt used on children will not provide as much safety as it would for an adult, due to the flexibility of children. An adult seatbelt could do more harm to a child than good, which is why children should properly be utilizing the Child Restraint System instead. This system includes a booster seat and a proper belt that fits the child's criteria including age, weight and height.<ref name=":0" />
+===Specialized dummies===
+Hybrid IIIs are designed to research the effects of frontal impacts, and are less useful in assessing the effects of other types of impact, such as side impacts, rear impacts, or rollovers. After head-on collisions, the most common severe injury accident is the side impact.
+*The SID (Side Impact Dummy) family of test dummies is designed to measure rib, spine, and internal organ effects in side collisions. It also assesses spine and rib deceleration and compression of the chest cavity. SID is the United States government testing standard, EuroSID is used in Europe to ensure compliance with safety standards, and SID II(s) represents a 5th-percentile female. BioSID is a more sophisticated version of SID and EuroSID, but is not used in a regulatory capacity. The WorldSID is a project to develop a new generation of dummy under the International Organization for Standardization.<ref></ref>
+*BioRID is a dummy designed to assess the effects of a rear impact. Its primary purpose is to research whiplash, and to aid designers in developing effective head and neck restraints. BioRID is more sophisticated in its spinal construction than Hybrid; 24 vertebra simulators allow BioRID to assume a much more natural seating posture, and to demonstrate the neck movement and configuration seen in rear-end collisions.
+*CRABI is a child dummy used to evaluate the effectiveness of child restraint devices, including seat belts and air bags. There are three models of the CRABI, representing 18-month, 12-month, and 6-month-old children.
+*FGOA is a urltoken first generation obese anthropometric test device which can be used to study the automotive safety challenges for obese occupants, who are believed to have higher risk of mortality in automobile collisions comparing to non-obese occupants.
+*THOR is an advanced 50th percentile male dummy. The successor of Hybrid III, THOR has a more human-like spine and pelvis, and its face contains a number of sensors which allow analysis of facial impacts to an accuracy currently unobtainable with other dummies. THOR's range of sensors is also greater in quantity and sensitivity than those of Hybrid III. THOR's original manufacturer, GESAC Inc., ceased production after the slowdown of the auto industry in the late 2000s. THOR was being further developed, and two other companies were working on similar dummies; NHTSA's ultimate goal for this government-funded project was the development of a single THOR dummy, but THOR dummy development stopped. FTSS, bought by Humanetics, and DentonATD both continued to produce the THOR LX and THOR FLX.
+*Animal models have been used to test the safety of dog harnesses and crates in crash conditions.<ref></ref>
+==Regulation==
+For the purpose of U.S. regulation and Vehicle regulation and for clear communication in safety and seating design,<ref name="rpoint"></ref> dummies carry specifically designated reference points, such as the H-point; these are also used, for example, in automotive design.
+== Popular culture ==
+* In the 1980s the National Highway Traffic Safety Administration (NHTSA), a division of the United States Department of Transportation, launched a series of public service announcements in magazines and on television featuring two talking crash dummies named Vince (voiced by Jack Burns) (played by Tony Reitano) and Larry (voiced by Lorenzo Music) (played by Tom Harrison, later replaced by Whitney Rydbeck) who modeled seat belt safety practices through their slapstick antics, with the slogan "You Could Learn a Lot from a Dummy". Since then crash dummy characters have continued to be used in seat belt safety campaigns, especially those aimed at children.
+* In the early 1990s Tyco Toys created a line of action figures called The Incredible Crash Dummies based on the characters from the NHTSA television advertisements. They were intended to fall apart at the touch of a button on their abdomens. Vehicles that could be crashed into walls and broken were also produced. Dummies and vehicles were easily reassembled. They prompted a one-hour television special, The Incredible Crash Dummies (film). Unique for its time, the cartoon was produced entirely using 3D computer animation techniques. A comic book series and a video game for the Super Nintendo Entertainment System and Game Boy were produced.
+* In 2004 a series of "Crash Dummies" animated shorts were commissioned for the FOX network. Related toys from Mattel's Hot Wheels brand were produced.
+* The television series MythBusters employed a Hybrid II model crash test dummy, "Buster", for dangerous experiments.
+* In Discovery Kids children's educational series Crash Test Danny the title character is a living crash test dummy, played by Ben Langley, who gets crushed, blown up, and pulled apart in the name of science.
+* In 2020 Aamir Khan became a Crash Test Dummy Advertisement of a CEAT Tyres Ceat SecuraDrive With Aamir Khan as a Crash Test Dummy and two car drives Kia Seltos and Hyundai Elantra at India.
+==See also==
+* Car accident
+* Crash test
+* Crashworthiness
+* Euro NCAP
+* Safety car
+* Mannequin
+* Crash simulation
+* Secchi disk, the characteristic test-dummy fiducial marker symbol.
+==Footnotes==
+==References==
+* urltoken "Anatomy of a Crash-Test Dummy", IEEE Spectrum, October 2007
+* urltoken History of Crash Dummies
+* urltoken How the dead have helped the living
+* urltoken I was a human crash test dummy
+* urltoken The Female Crash Test Dummy She May Not Have a Brain, but She Could Save Your Life
+* urltoken The "Sierra Sam" Story
+* urltoken Meet 50th Percentile Hybrid III
+* urltoken Biomechanics and the Cyberhuman
+* urltoken It's Smart to be a Dummy
+* urltoken Pregnant crash test dummy
+* 
+* 
+==External links==
+* urltoken Research of the Relationship of Pedestrian Injury to Collision Speed, Car-type, Impact Location and Pedestrian Sizes using Human FE model (THUMS Version 4)
+* urltoken Crash Test Dummy
+
+</ref> A challenge for the Army has been to develop a crash test dummy that moves enough like a human body to get an accurate result. The Army is working to make the mannequin "biofedelic," meaning it can match human movement. At 5-feet-11-inches tall and 185 lbs., WIAMan is based on the size and movement of an average soldier.<ref name=":3" />
+U.S. Army Research Laboratory and its partners at Johns Hopkins University Applied Physics Lab completed biofidelity testing in 2017. The purpose of the testing was to develop a dummy capable of predicting specific injury risk to occupants in a vehicle during live-fire tests, based on human response data.<ref name=":3" />
+The manikin supports up to 156 channels of data acquisition, measuring different variables a soldier may experience in a vehicle blast. WIAMan includes self-contained internal power and the world's smallest data acquisition system called urltoken SLICE6, based on SLICE NANO architecture, eliminating the huge mass of sensor cables normally exiting dummies. The data measured within WIAMan includes forces, moments, accelerations and angular velocity.<ref></ref>

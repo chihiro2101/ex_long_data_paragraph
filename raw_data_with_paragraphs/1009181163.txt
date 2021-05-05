@@ -1,0 +1,315 @@
+List of heads of state of Mexico
+
+== First Mexican Empire (1821–1823) ==
+=== First Regency ===
+After the end of the Mexican War of Independence, a Provisional Board of Governing consisting of thirty-four persons was set up. The Board decreed and signed the Declaration of Independence of the Mexican Empire and appointed a regency composed of six people.
+== Timeline ==
+<timeline>
+ImageSize = width:1250 height:auto barincrement:10
+PlotArea = top:3 bottom:150 right:150 left:20
+AlignBars = late
+DateFormat = yyyy
+Period = from:1821 till:2020
+TimeAxis = orientation:horizontal
+ScaleMajor = unit:year increment:5 start:1821
+ScaleMinor = unit:year increment:1 start:1821
+Colors =
+ id:none value:rgb(0.6,0.6,0.6) legend:None/Independent
+ id:none(emperor) value:rgb(0.49,0.49,0.49) legend:None_(Emperor)
+ id:Liberal value:rgb(1,0.2,0.2) legend:Liberal_Party
+ id:Conservative value:rgb(0,0,1) legend:Conservative_Party
+ id:porfirist value:rgb(0,0.28,0.67) legend:National_Porfirist_Party→National_Reelectionist_Party
+ id:antireelectionist value:rgb(0.5,0,0) legend:Anti-Reelectionist_Party→Progressive_Constitutionalist_Party
+ id:conventionist value:rgb(0.8,0.8,0.8) legend:Conventionist_Party
+ id:liberalconstitutionalist value:rgb(0.83,0.67,0) legend:Liberal_Constitutionalist_Party
+ id:laborist value:rgb(0.81,0.07,0.15) legend:Laborist_Party
+ id:pri value:rgb(0.13,0.55,0.13) legend:National_Revolutionary_Party→Party_of_the_Mexican_Revolution→Institutional_Revolutionary_Party
+ id:pan value:rgb(0,0.28,0.56) legend:National_Action_Party
+ id:morena value:rgb(0.75,0.19,0.10) legend:National_Regeneration_Movement
+Legend = columns:2 left:200 top:100 columnwidth:350
+TextData =
+ pos:(20,100) textcolor:black fontsize:M
+ text:"Political parties:"
+BarData =
+ bar:Iturbide
+ bar:Odonoju
+ bar:PerezMartinez
+ bar:Barcena
+ bar:IsidroYanez
+ bar:VelazquezLeon
+ bar:MiguelValentin
+ bar:ManuelHeras
+ bar:NicolasBravo
+ bar:GuadalupeVictoria
+ bar:CelestinoNegrete
+ bar:Michelena
+ bar:MiguelDominguez
+ bar:VicenteGuerrero
+ bar:Bocanegra
+ bar:PedroVelez
+ bar:Bustamonte
+ bar:Muzquiz
+ bar:GomezPedraza
+ bar:GomezFarias
+ bar:SantaAnna
+ bar:Barragan
+ bar:JustoCorro
+ bar:Echeverria
+ bar:Canalizo
+ bar:JoaquinHerrera
+ bar:Paredes
+ bar:MarianoSalas
+ bar:MariaAnaya
+ bar:PenayPena
+ bar:Arista
+ bar:Ceballos
+ bar:Lombardini
+ bar:MartinCarrera
+ bar:delaVega
+ bar:JuanAlvarez
+ bar:Comonfort
+ bar:BenitoJuarez
+ bar:NepomucenoAlmonte
+ bar:Labastida
+ bar:MaximilianI
+ bar:Tejada
+ bar:MariaIglesias
+ bar:PorfirioDiaz
+ bar:NepomucenoMendez
+ bar:GonzalesFlores
+ bar:LeondelaBarra
+ bar:FranciscoMadero
+ bar:PedroLascurain
+ bar:VictorianoHuerta
+ bar:Carvajal
+ bar:EulalioGutierrez
+ bar:GonzalesGarza
+ bar:LagosChazaro
+ bar:VenustianoCarranza
+ bar:AdolfodelaHuerta
+ bar:AlvaroObregon
+ bar:PlutarcoEliasCalles
+ bar:EmilioPortesGil
+ bar:PascualOrtizRubio
+ bar:AbelardoRodriguez
+ bar:LazaroCardenas
+ bar:ManuelAvilaCamacho
+ bar:MiguelAlemanValdes
+ bar:AdolfoRuizCortines
+ bar:AdolfoLopezMateo
+ bar:GustavoDiazOrdaz
+ bar:LuisEcheverria
+ bar:JoseLopezPortillo
+ bar:MigueldelaMadrid
+ bar:CarlosSalinasdeGortari
+ bar:ErnestoZedillo
+ bar:VicenteFox
+ bar:FelipeCalderon
+ bar:EnriquePenaNieto
+ bar:AndrésManuelLopézObrador
+PlotData=
+ width:5 align:left fontsize:S shift:(5,-4) anchor:till
+ bar:Iturbide
+ from: 1821 till: 1822 color:none
+ from: 1822 till: 1822 color:none
+ from: 1822 till: 1823 color:none(emperor) text:"Agustín I"
+ bar:Odonoju
+ from: 1821 till: 1821 color:none text:"O'Donojú"
+ bar:PerezMartinez
+ from: 1821 till: 1822 color:none text:"Pérez Martínez"
+ bar:Barcena
+ from: 1821 till: 1822 color:none text:"De la Bárcena"
+ bar:IsidroYanez
+ from: 1821 till: 1822 color:none
+ from: 1822 till: 1822 color:none text:"Táñez"
+ bar:VelazquezLeon
+ from: 1821 till: 1822 color:none text:"Velázquez de León"
+ bar:MiguelValentin
+ from: 1821 till: 1822 color:none
+ from: 1822 till: 1822 color:none text:"Valetín"
+ bar:ManuelHeras
+ from: 1822 till: 1822 color:none text:"De Heras"
+ bar:NicolasBravo
+ from: 1822 till: 1822 color:none
+ from: 1823 till: 1824 color:none
+ from: 1839 till: 1839 color:Conservative
+ from: 1842 till: 1843 color:Conservative
+ from: 1846 till: 1846 color:Conservative text:"Bravo"
+ bar:GuadalupeVictoria
+ from: 1823 till: 1824 color:none
+ from: 1824 till: 1829 color:none text:"Victoria"
+ bar:CelestinoNegrete
+ from: 1823 till: 1824 color:none text:"Negrete"
+ bar:Michelena
+ from: 1823 till: 1824 color:none text:"Michelena"
+ bar:MiguelDominguez
+ from: 1823 till: 1824 color:none text:"Domínguez"
+ bar:VicenteGuerrero
+ from: 1823 till: 1824 color:none
+ from: 1829 till: 1829 color:Liberal text:"Guerrero"
+ bar:Bocanegra
+ from: 1829 till: 1829 color:Liberal text:"Bocanegra"
+ bar:PedroVelez
+ from: 1829 till: 1830 color:Liberal text:"Vélez"
+ bar:Bustamonte
+ from: 1830 till: 1832 color:Conservative
+ from: 1837 till: 1839 color:Conservative
+ from: 1839 till: 1841 color:Conservative text:"Bustamante"
+ bar:Muzquiz
+ from: 1832 till: 1832 color:Liberal text:"Múzquiz"
+ bar:GomezPedraza
+ from: 1832 till: 1833 color:Liberal text:"Gómez Pedraza"
+ bar:GomezFarias
+ from: 1833 till: 1833 color:Liberal
+ from: 1833 till: 1833 color:Liberal
+ from: 1833 till: 1833 color:Liberal
+ from: 1833 till: 1834 color:Liberal
+ from: 1846 till: 1847 color:Liberal text:"Gómez Farías"
+ bar:SantaAnna
+ from: 1833 till: 1833 color:Liberal
+ from: 1833 till: 1833 color:Liberal
+ from: 1833 till: 1833 color:Liberal
+ from: 1834 till: 1835 color:Liberal
+ from: 1839 till: 1839 color:Liberal
+ from: 1841 till: 1842 color:Liberal
+ from: 1843 till: 1843 color:Liberal
+ from: 1844 till: 1844 color:Liberal
+ from: 1847 till: 1847 color:Liberal
+ from: 1847 till: 1847 color:Liberal
+ from: 1853 till: 1855 color:Liberal text:"López de Santa Anna"
+ bar:Barragan
+ from: 1835 till: 1836 color:Liberal text:"Barragán"
+ bar:JustoCorro
+ from: 1836 till: 1837 color:Conservative text:"Corro"
+ bar:Echeverria
+ from: 1841 till: 1841 color:Conservative text:"F. Echeverría"
+ bar:Canalizo
+ from: 1843 till: 1844 color:Conservative
+ from: 1844 till: 1844 color:Conservative text:"Canalizo"
+ bar:JoaquinHerrera
+ from: 1844 till: 1844 color:Liberal
+ from: 1844 till: 1845 color:Liberal
+ from: 1848 till: 1851 color:Liberal text:"De Herrera"
+ bar:Paredes
+ from: 1845 till: 1846 color:Conservative text:"Paredes"
+ bar:MarianoSalas
+ from: 1846 till: 1846 color:Conservative
+ from: 1863 till: 1864 color:Conservative text:"Salas"
+ bar:MariaAnaya
+ from: 1847 till: 1847 color:Liberal
+ from: 1847 till: 1848 color:Liberal text:"De Anaya"
+ bar:PenayPena
+ from: 1847 till: 1847 color:Liberal text:"De la Peña"
+ bar:Arista
+ from: 1851 till: 1853 color:Liberal text:"Arista"
+ bar:Ceballos
+ from: 1853 till: 1853 color:Liberal text:"Ceballos"
+ bar:Lombardini
+ from: 1853 till: 1853 color:Conservative text:"Lombardini"
+ bar:MartinCarrera
+ from: 1855 till: 1855 color:Conservative text:"Carrera"
+ bar:delaVega
+ from: 1855 till: 1855 color:Conservative text:"Díaz de la Vega"
+ bar:JuanAlvarez
+ from: 1855 till: 1855 color:Liberal text:"Álvarez"
+ bar:Comonfort
+ from: 1855 till: 1857 color:Liberal text:"Comonfort"
+ bar:BenitoJuarez
+ from: 1857 till: 1872 color:Liberal text:"Juárez"
+ bar:NepomucenoAlmonte
+ from: 1863 till: 1864 color:Conservative text:"Almonte"
+ bar:Labastida
+ from: 1863 till: 1864 color:Conservative text:"De Labastida"
+ bar:MaximilianI
+ from: 1864 till: 1867 color:none(emperor) text:"Maximilian I"
+ bar:Tejada
+ from: 1872 till: 1876 color:Liberal text:"Lerdo de Tejada"
+ bar:MariaIglesias
+ from: 1876 till: 1876 color:Liberal text:"Iglesias"
+ bar:PorfirioDiaz
+ from: 1876 till: 1876 color:Liberal
+ from: 1877 till: 1880 color:Liberal
+ from: 1884 till: 1911 color:porfirist text:"Díaz"
+ bar:NepomucenoMendez
+ from: 1876 till: 1877 color:Liberal text:"Méndez"
+ bar:GonzalesFlores
+ from: 1880 till: 1884 color:Liberal text:"González Flores"
+ bar:LeondelaBarra
+ from: 1911 till: 1911 color:none text:"León de la Barra"
+ bar:FranciscoMadero
+ from: 1911 till: 1913 color:antireelectionist text:"Madero"
+ bar:PedroLascurain
+ from: 1913 till: 1913 color:none text:"Lascuráin"
+ bar:VictorianoHuerta
+ from: 1913 till: 1914 color:none text:"Huerta"
+ bar:Carvajal
+ from: 1914 till: 1914 color:none text:"Carvajal"
+ bar:EulalioGutierrez
+ from: 1914 till: 1915 color:conventionist text:"Gutiérrez"
+ bar:GonzalesGarza
+ from: 1915 till: 1915 color:conventionist text:"Garza"
+ bar:LagosChazaro
+ from: 1915 till: 1915 color:conventionist text:"Chazaro"
+ bar:VenustianoCarranza
+ from: 1914 till: 1920 color:liberalconstitutionalist text:"Carranza"
+ bar:AdolfodelaHuerta
+ from: 1920 till: 1920 color:liberalconstitutionalist text:"De la Huerta"
+ bar:AlvaroObregon
+ from: 1920 till: 1924 color:laborist text:"Obregón"
+ bar:PlutarcoEliasCalles
+ from: 1924 till: 1928 color:laborist text:"Eías Calles"
+ bar:EmilioPortesGil
+ from: 1928 till: 1930 color:pri text:"Portes Gil"
+ bar:PascualOrtizRubio
+ from: 1930 till: 1932 color:pri text:"Ortiz Rubio"
+ bar:AbelardoRodriguez
+ from: 1932 till: 1934 color:pri text:"Rodríguez"
+ bar:LazaroCardenas
+ from: 1934 till: 1940 color:pri text:"Cárdenas"
+ bar:ManuelAvilaCamacho
+ from: 1940 till: 1946 color:pri text:"Ávila Camacho"
+ bar:MiguelAlemanValdes
+ from: 1946 till: 1952 color:pri text:"Alemán Valdes"
+ bar:AdolfoRuizCortines
+ from: 1952 till: 1958 color:pri text:"Ruiz Cortines"
+ bar:AdolfoLopezMateo
+ from: 1958 till: 1964 color:pri text:"López Mateos"
+ bar:GustavoDiazOrdaz
+ from: 1964 till: 1970 color:pri text:"Díaz Ordaz"
+ bar:LuisEcheverria
+ from: 1970 till: 1976 color:pri text:"L. Echeverría"
+ bar:JoseLopezPortillo
+ from: 1976 till: 1982 color:pri text:"López Portillo"
+ bar:MigueldelaMadrid
+ from: 1982 till: 1988 color:pri text:"De la Madrid"
+ bar:CarlosSalinasdeGortari
+ from: 1988 till: 1994 color:pri text:"Salinas de Gortari"
+ bar:ErnestoZedillo
+ from: 1994 till: 2000 color:pri text:"Zedillo"
+ bar:VicenteFox
+ from: 2000 till: 2006 color:pan text:"Fox"
+ bar:FelipeCalderon
+ from: 2006 till: 2012 color:pan text:"Calderón"
+ bar:EnriquePenaNieto
+ from: 2012 till: 2018 color:pri text:"Peña Nieto"
+ bar:AndrésManuelLopézObrador
+ from: 2018 till: end color:morena text:"López Obrador"
+</timeline>
+==See also==
+*President of Mexico
+*First Lady of Mexico
+*Politics of Mexico
+*History of Mexico
+**Aztec Empire
+***Tenochtitlan
+****List of Tenochtitlan rulers
+**New Spain
+***List of viceroys of New Spain
+*List of Presidents of Mexico by longevity
+==References==
+==External links==
+* urltoken Lista de gobernantes de México Official List
+
+The Head of State of Mexico is the person who controls the executive power in the country. Under the current constitution, this responsibility lies with the President of Mexico, who is head of the supreme executive power of the Mexican Union.<ref></ref> Throughout its history, Mexico has had several forms of government. Under the federal constitutions, the title of President was the same as the current one. Under the Seven Laws (centralism), the chief executive was named President of the Republic. In addition, there have been two periods of monarchical rule, during which the executive was controlled by the Emperor of Mexico.
+The chronology of the heads of state of Mexico is complicated due to the country's political instability during most of the nineteenth century and early decades of the twentieth century. With few exceptions, most of the Mexican presidents elected during this period did not complete their terms. Until the presidency of Lázaro Cárdenas, each president had remained in office an average of fifteen months.<ref>Iturriaga, XXXX: 61.</ref>
+This list also includes the self-appointed presidents during civil wars and the collegiate bodies that performed the Mexican Executive duties during periods of transition.

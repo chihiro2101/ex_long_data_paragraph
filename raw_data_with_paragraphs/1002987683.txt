@@ -1,0 +1,96 @@
+Danish and Norwegian alphabet
+
+== Letter names in Danish ==
+* A, a: 
+* B, b: 
+* C, c: 
+* D, d: 
+* E, e: 
+* F, f: 
+* G, g: 
+* H, h: 
+* I, i: 
+* J, j: 
+* K, k: 
+* L, l: 
+* M, m: 
+* N, n: 
+* O, o: 
+* P, p: 
+* Q, q: 
+* R, r: 
+* S, s: 
+* T, t: 
+* U, u: 
+* V, v: 
+* W, w: 
+* X, x: 
+* Y, y: 
+* Z, z: 
+* Æ, æ: 
+* Ø, ø: 
+* Å, å: 
+== Letter names in Norwegian ==
+* A, a: 
+* B, b: 
+* C, c: 
+* D, d: 
+* E, e: 
+* F, f: 
+* G, g: 
+* H, h: 
+* I, i: 
+* J, j: or 
+* K, k: 
+* L, l: 
+* M, m: 
+* N, n: 
+* O, o: 
+* P, p: 
+* Q, q: 
+* R, r: 
+* S, s: 
+* T, t: 
+* U, u: 
+* V, v: 
+* W, w: 
+* X, x: 
+* Y, y: 
+* Z, z: 
+* Æ, æ: 
+* Ø, ø: 
+* Å, å: 
+== Diacritics ==
+===Danish===
+Standard Danish orthography has no compulsory diacritics, but allows the use of an acute accent for disambiguation. Most often, an accent on e marks a stressed syllable in one of a pair of homographs that have different stresses, for example en dreng (a boy) versus én dreng (one boy) or alle (every/everyone) versus allé (avenue).
+Less often, any vowel including å may be accented to indicate stress on a word, either to clarify the meaning of the sentence, or to ease the reading otherwise. For example: jeg stód op ("I was standing"), versus jeg stod óp ("I got out of bed"); hunden gør (det) ("the dog does (it)"), versus hunden gǿr ("the dog barks"). Most often, however, such distinctions are made using typographical emphasis (italics, underlining) or simply left to the reader to infer from the context, and the use of accents in such cases may appear dated. A common context in which the explicit acute accent is preferred is to disambiguate en/et (a, indefinite article) and én/ét (one, numeral) in central places in official written materials, such as advertising, where clarity is important.
+===Norwegian===
+Bokmål is mostly spelled without diacritic signs. The only exception is one word of Norwegian origin, namely fôr, to be distinguished from for (see below) as well as any subsequent compound words, eg kåpefôr (coat lining) and dyrefôr (animal feed). There are also a small number of words in Norwegian which use the acute accent. The words are allé (avenue), diaré (diarrhea), kafé (cafe), idé (idea), entré (entrance), komité (committee), kupé (compartment), moské (mosque), supé (supper), trofé (trophy) and diskré (discreet).<ref>Norwegian language council: urltoken The use of accents (in Norwegian)</ref> An acute accent can also be used to differentiate en (a) from én (one) eg. én gutt (one boy) en gutt (a boy).
+Nynorsk uses several letters with diacritic signs: é, è, ê, ó, ò, â, and ô. The diacritic signs are not compulsory,<ref>Norwegian language council: urltoken The use of accents (in Norwegian)</ref> but can be added to clarify the meaning of words (homonyms) that would otherwise be identical. One example is ein gut ("a boy") versus éin gut ("one boy"). Loanwords may be spelled with other diacritics, most notably ü, á, à and é, following the conventions of the original language. The Norwegian vowels æ, ø and å never take diacritics.
+The diacritic signs in use include the acute accent, grave accent and the circumflex. A common example of how the diacritics change the meaning of a word, is for:
+* for (preposition. for or to), pronounced 
+* fór (verb. went, in the sense left), pronounced 
+* fòr (noun. furrow, only Nynorsk), pronounced 
+* fôr (noun. fodder), pronounced , the circumflex indicating the elision of the edh from the Norse spelling (foðr → fôr; veðr → vêr)
+* fôr (noun lining, as in a garment)
+Also used is the cedille, but only on a c in loanwords, indicating the c should be pronounced as an s.<ref> urltoken 
+* Françoise
+* provençalsk
+* Curaçao
+A macron-like diacritic can be used for decorative purposes both in handwritten and computed Bokmål and Nynorsk or to denote vowel length such as in dū (you), lā (infinitive form of to let), lēser (present form of "to read") and lūft (air). The diacritic is entirely optional, carries no IPA value and is seldom used in modern Norwegian outside of handwriting.
+== History ==
+The letter Å (HTML "aring;) was introduced in Norwegian in 1917, replacing Aa or aa. The new letter came from the Swedish alphabet, where it has been in official use since the 16th century.<ref>Pettersson, Gertrud (1996), Svenska språket under sjuhundra år: en historia om svenskan och dess utforskande, Lund: Studentlitteratur, . P. 139.</ref> Similarly, the letter Å was introduced in Danish in 1948, but the final decision on its place in the alphabet was not made. The initial proposal was to place it first, before A. Its place as the last letter of the alphabet, as in Norwegian, was decided in 1955.<ref>Einar Lundeby: "Bolle-å-ens plass i det danske alfabet" The placing of Å in the Danish alphabet in Språknytt, 1995/4. urltoken The former digraph Aa still occurs in personal names, and in Danish geographical names. In Norway, geographical names tend to follow the current orthography, meaning that the letter å will be used. Family names may not follow modern orthography, and as such retain the digraph aa where å would be used today. Aa remains in use as a transliteration, if the letter is not available for technical reasons. Aa is treated like Å in Collation, not like two adjacent letters A, meaning that while a is the first letter of the alphabet, aa is the last. In Norwegian (but not in Danish), this rule does not apply to non-Scandinavian names, so a modern atlas would list the German city of Aachen under A, but list the Danish town of Aabenraa under Å. In Danish, the aa rule is applied, as long as it denotes one sound, for example German Aachen or Dutch kraal, but if it denotes 2 sounds like in ekstraarbejde (extra work), the two as are sorted as two.
+The difference between the Dano-Norwegian and the Swedish alphabet is that Swedish uses the variant Ä instead of Æ, and the variant Ö instead of Ø, similarly to German. Also, the Collation for these three letters is different in Swedish: Å, Ä, Ö. Æ and Ä are sorted together in all Scandinavian languages, including Finnish, as are Ø and Ö.
+In current Danish and Norwegian, W is recognized as a separate letter from V. In Danish, the transition was made in 1980; before that, the W was merely considered to be a variation of the letter V and words using it were sometimes alphabetized accordingly (e.g., Wandel, Vandstad, Wanscher, Varberg in Dansk Biografisk Leksikon, 1904).<ref></ref> The Danish version of the Alphabet song still states that the alphabet has 28 letters; the last line reads otte-og-tyve skal der stå, i.e. "that makes twenty-eight". However, today, the letter "w" is considered an official letter.
+== Computing standards ==
+thumb
+In computer, several different coding standards have existed for this alphabet:
+* DS 2089 (Danish) and NS 4551-1 (Norwegian), later established in international standard ISO 646
+* IBM PC code page 865
+* ISO 8859-1
+* Unicode
+
+The Danish and Norwegian alphabet, called the Dano-Norwegian alphabet is based upon the Latin alphabet and has consisted of the following 29 letters since 1917 (Norwegian) and 1948 (Danish).
+: (Media:Danish alphabet.ogg)
+The letters c, q, w, x and z are not used in the spelling of indigenous words. They are rarely used in Norwegian, where loan words routinely have their orthography adapted to the native sound system. Conversely, Danish has a greater tendency to preserve the original spelling of loan words. In particular, a 'c' that represents is almost never normalized to 's' in Danish, as would most often happen in Norwegian. Many words originally derived from Latin roots retain 'c' in their Danish spelling, for example Norwegian sentrum vs Danish centrum.
+The "foreign" letters also sometimes appear in the spelling of otherwise-indigenous family names. For example, many of the Danish families that use the surname Skov (literally: "Forest") spell it Schou.

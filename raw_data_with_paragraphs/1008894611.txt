@@ -1,0 +1,146 @@
+Ophidiiformes
+
+==Distribution==
+This order includes a variety of deep-sea species, including the deepest known, Abyssobrotula galatheae, found at in the Puerto Rico Trench. Many other species, however, live in shallow water, especially near coral reefs, while a few inhabit freshwater. Most species live in tropical or subtropical habitats, but some species are known from as far north as the coast of Greenland, and as far south as the Weddell Sea.<ref name=EoF></ref>
+==Characteristics==
+Ophidiiform fish typically have slender bodies with small heads, and either smooth scales, or none at all. They have long dorsal fins, and an anal fin that is typically united with the caudal fin. The group includes pelagic, benthic, and even parasitic species, although all have a similar body form. Some species are viviparous, giving birth to live young, rather than laying eggs. They range in size from Grammanoides opisthodon which measures just in length, to Lamprogrammus shcherbachevi at in length.<ref name=EoF/>
+The families Ranicipitidae (tadpole cods) and Euclichthyidae (eucla cods) were formerly classified in this order, but are now preferred in Gadiformes; Ranicipitidae has been absorbed within the family Gadidae.
+==Timeline of genera==
+<timeline>
+ImageSize = width:1000px height:auto barincrement:15px
+PlotArea = left:10px bottom:50px top:10px right:10px
+Period = from:-65.5 till:15
+TimeAxis = orientation:horizontal
+ScaleMajor = unit:year increment:5 start:-65.5
+ScaleMinor = unit:year increment:1 start:-65.5
+TimeAxis = orientation:hor
+AlignBars = justify
+Colors =
+ #legends
+ id:CAR value:claret
+ id:ANK  value:rgb(0.4,0.3,0.196)
+ id:HER value:teal
+ id:HAD value:green
+ id:OMN value:blue
+ id:black value:black
+ id:white value:white
+ id:cenozoic value:rgb(0.54,0.54,0.258)
+ id:paleogene value:rgb(0.99,0.6,0.32) 
+ id:paleocene value:rgb(0.99,0.65,0.37) 
+ id:eocene value:rgb(0.99,0.71,0.42) 
+ id:oligocene value:rgb(0.99,0.75,0.48) 
+ id:neogene value:rgb(0.999999,0.9,0.1) 
+ id:miocene value:rgb(0.999999,0.999999,0) 
+ id:pliocene value:rgb(0.97,0.98,0.68) 
+ id:quaternary value:rgb(0.98,0.98,0.5)
+ id:pleistocene value:rgb(0.999999,0.95,0.68)
+ id:holocene value:rgb(0.999,0.95,0.88)
+ 
+BarData=
+ bar:eratop
+ bar:space
+ bar:periodtop
+ bar:space
+ bar:NAM1
+ bar:NAM2
+ bar:NAM3
+ bar:NAM4
+ bar:NAM5
+ bar:NAM6
+ bar:NAM7
+ bar:NAM8
+ bar:NAM9
+ bar:NAM10
+ bar:NAM11
+ bar:NAM12
+ bar:NAM13
+ bar:NAM14
+ bar:NAM15
+ bar:NAM16
+ bar:NAM17
+ bar:NAM18
+ bar:NAM19
+ bar:NAM20
+ bar:NAM21
+ bar:NAM22
+ bar:NAM23
+ bar:NAM24
+ bar:NAM25
+ bar:NAM26
+ bar:NAM27
+ bar:space
+ bar:period
+ bar:space
+ bar:era
+PlotData=
+ align:center textcolor:black fontsize:M mark:(line,black) width:25 
+ shift:(7,-4)
+ 
+ bar:periodtop
+ from: -65.5 till: -55.8 color:paleocene text:Paleocene
+ from: -55.8 till: -33.9 color:eocene text:Eocene 
+ from: -33.9 till: -23.03 color:oligocene text:Oligocene 
+ from: -23.03 till: -5.332 color:miocene text:Miocene
+ from: -5.332 till: -2.588 color:pliocene text:Plio.
+ from: -2.588 till: -0.0117 color:pleistocene text:Pleist.
+ from: -0.0117 till: 0 color:holocene text:H.
+ bar:eratop
+ from: -65.5 till: -23.03 color:paleogene text:Paleogene 
+ from: -23.03 till: -2.588 color:neogene text:Neogene
+ from: -2.588 till: 0 color:quaternary text:Q.
+PlotData=
+ align:left fontsize:M mark:(line,white) width:5 anchor:till align:left
+ color:paleocene bar:NAM1 from:-65.5till:-61.7text:Eolamprogrammus
+ color:paleocene bar:NAM2 from:-65.5till:-33.9text:Ampheristus
+ color:eocene bar:NAM3 from:-55.8till:0text:Ophidion
+ color:eocene bar:NAM4 from:-55.8till:0text:Onuxodon
+ color:eocene bar:NAM5 from:-55.8till:0text:Oligopus
+ color:eocene bar:NAM6 from:-55.8till:0text:Ogilbia
+ color:eocene bar:NAM7 from:-55.8till:0text:Glyptophidium
+ color:eocene bar:NAM8 from:-55.8till:0text:Brotula
+ color:eocene bar:NAM9 from:-48.6till:-15.97text:Nolfophidion
+ color:eocene bar:NAM10 from:-48.6till:0text:Neobythites
+ color:eocene bar:NAM11 from:-48.6till:0text:Monomitopus
+ color:eocene bar:NAM12 from:-48.6till:0text:Hoplobrotula
+ color:eocene bar:NAM13 from:-48.6till:0text:Dannevigia
+ color:eocene bar:NAM14 from:-48.6till:0text:Carapus
+ color:eocene bar:NAM15 from:-48.6till:0text:Benthocomectes
+ color:eocene bar:NAM16 from:-37.2till:0text:Saccogaster
+ color:eocene bar:NAM17 from:-37.2till:0text:Dipulus
+ color:oligocene bar:NAM18 from:-33.9till:-28.4text:Protobrotula
+ color:oligocene bar:NAM19 from:-33.9till:-28.4text:Propteridium
+ color:oligocene bar:NAM20 from:-33.9till:0text:Genypterus
+ color:oligocene bar:NAM21 from:-33.9till:0text:Diplacanthopoma
+ color:oligocene bar:NAM22 from:-28.4till:0text:Sirembo
+ color:oligocene bar:NAM23 from:-28.4till:0text:Echiodon
+ color:miocene bar:NAM24 from:-23.03till:0text:Lepophidium
+ color:miocene bar:NAM25 from:-15.97till:0text:Dermatopsis
+ color:miocene bar:NAM26 from:-11.608till:0text:Bassozetus
+ color:pliocene bar:NAM27 from:-5.332till:0text:Chilara
+PlotData=
+ align:center textcolor:black fontsize:M mark:(line,black) width:25
+ bar:period
+ from: -65.5 till: -55.8 color:paleocene text:Paleocene
+ from: -55.8 till: -33.9 color:eocene text:Eocene 
+ from: -33.9 till: -23.03 color:oligocene text:Oligocene 
+ from: -23.03 till: -5.332 color:miocene text:Miocene
+ from: -5.332 till: -2.588 color:pliocene text:Plio.
+ from: -2.588 till: -0.0117 color:pleistocene text:Pleist.
+ from: -0.0117 till: 0 color:holocene text:H.
+ bar:era
+ from: -65.5 till: -23.03 color:paleogene text:Paleogene 
+ from: -23.03 till: -2.588 color:neogene text:Neogene
+ from: -2.588 till: 0 color:quaternary text:Q.
+</timeline>
+==Classification==
+The order Ophidiiformes is subdivided into suborders and families as follows:<ref name = Nelson5></ref>
+* Suborder Ophidioidei 
+** Family Carapidae <small>Poey, 1867</small> — pearlfishes
+** Family Ophidiidae <small>Rafinesque, 1810</small>— cusk-eels
+*Suborder Bythitoidei
+** Family Bythitidae <small>Gill, 1861</small> — viviparous brotulas
+** Family Aphyonidae <small>Jordan & Evermann, 1898</small> — aphyonids, blind cusk-eel
+** Family Parabrotulidae <small>Nielsen, 1968</small> — false brotulas
+The suborder Ophidioidei may be a Paraphyly grouping but the suborder Bythitoidei are vivipary and seem to make up a Monophyly clade,<ref name = FAO></ref> while the Ophidioidei are ovipary.<ref name = NOAA></ref>
+
+Ophidiiformes is an order of Actinopterygii that includes the cusk-eels (family Ophidiidae), pearlfishes (family Carapidae), viviparous brotulas (family Bythitidae), and others. Members of this order have small heads and long slender bodies. They have either smooth scales or no scales, a long dorsal fin and an anal fin that typically runs into the caudal fin. They mostly come from the tropics and subtropics, and live in both freshwater and marine habitats, including abyssal depths. They have adopted a range of feeding methods and lifestyles, including parasitism. The majority are Oviparity, but some are Viviparity.

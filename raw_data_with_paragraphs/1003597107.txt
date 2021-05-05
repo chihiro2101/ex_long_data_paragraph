@@ -1,0 +1,48 @@
+Gordon Moore
+
+==Scientific career==
+===Fairchild Semiconductor Laboratory===
+Moore joined MIT and Caltech alumnus William Shockley at the Shockley Semiconductor Laboratory division of Beckman Instruments but left with the "traitorous eight", when Sherman Fairchild agreed to back them and created the influential Fairchild Semiconductor corporation.<ref name="accidental"></ref><ref name=BrockBook/>
+===Moore's law===
+In 1965, Moore was working as the director of research and development (R&D) at Fairchild Semiconductor. He was asked by Electronics Magazine to predict what was going to happen in the semiconductor components industry over the next ten years. In an article published on April 19, 1965, Moore observed that the number of components (transistors, resistors, diodes, or capacitors)<ref name=Moore1995 ></ref> in a dense integrated circuit had doubled approximately every year and speculated that it would continue to do so for at least the next ten years. In 1975, he revised the forecast rate to approximately every two years.<ref name="Tuomi2002"></ref> Carver Mead popularized the phrase "Moore's law." The prediction has become a target for miniaturization in the semiconductor industry and has had widespread impact in many areas of technological change.<ref name=MooresLaw1965/><ref name=BrockBook></ref>
+===Intel Corporation===
+In July 1968, Robert Noyce and Moore founded NM Electronics, which later became Intel Corporation.<ref name=Encyclopedia></ref><ref name=Yeh2004></ref> Moore served as executive vice president until 1975 when he became president. In April 1979, Moore became chairman and chief executive officer, holding that position until April 1987, when he became chairman. He was named chairman emeritus in 1997.<ref name=HistoryMakers></ref> Under Noyce, Moore, and later Andrew Grove, Intel has pioneered new technologies in the areas of computer memory, integrated circuits, and microprocessor design.<ref name=Yeh2004/>
+==Philanthropy==
+In 2000, Moore and his wife established the Gordon and Betty Moore Foundation, with a gift worth about $5&nbsp;billion. Through the Foundation, they initially targeted environmental conservation, science, and the San Francisco Bay Area.<ref name=Carnegie2009/>
+The foundation gives extensively in the area of environmental conservation, supporting major projects in the Andes-Amazon Basin and the San Francisco Bay area, among others.<ref name=InsidePhilanthropy></ref> Moore was a director of Conservation International for some years. In 2002, he and Conservation International senior vice president Claude Gascon received the Order of the Golden Ark from Prince Bernhard of Lippe-Biesterfeld for their outstanding contributions to nature conservation.<ref name=GoldenArk></ref>
+Moore has been a member of Caltech's board of trustees since 1983, chairing it from 1993 to 2000, and is now a life trustee.<ref></ref><ref></ref><ref></ref> In 2001, Moore and his wife donated $600&nbsp;million to Caltech, at the time the largest gift ever to an institution of higher education.<ref></ref> He said that he wants the gift to be used to keep Caltech at the forefront of research and technology.<ref name=Carnegie2009></ref>
+In December 2007, Moore and his wife donated $200&nbsp;million to Caltech and the University of California for the construction of the Thirty Meter Telescope (TMT), expected to become the world's second largest optical telescope once it and the European Extremely Large Telescope are completed in the mid-2020s. The TMT will have a segmented mirror 30 meters across and be built on Mauna Kea in Hawaii. This mirror will be nearly three times the size of the current record holder, the Large Binocular Telescope.<ref name=SkyTelescope></ref> The Moores, as individuals and through their foundation, have also, through a series of gifts and grants, given over $110 million to the University of California, Berkeley.<ref name="Gordon and Betty Moore Foundation"></ref> 
+In addition, through the Foundation, his wife created the Betty Irene Moore Nursing Initiative, targeting nursing care in the San Francisco Bay Area and Greater Sacramento.<ref name=Carnegie2009/><ref name=Nursing></ref> In 2007, the foundation pledged $100 million over 11 years to establish a nursing school at the University of California, Davis.<ref name="Gordon and Betty Moore Foundation"></ref>
+In 2009, the Moores received the Andrew Carnegie Medal of Philanthropy.<ref name=Carnegie2009/><ref name=UCSE2007></ref>
+==Scientific awards and honors==
+Moore has received many honors. He became a member of the National Academy of Engineering in 1976.<ref name=NationalAcademy></ref>
+In 1990, Moore was presented with the National Medal of Technology and Innovation by President George H.W. Bush, "for his seminal leadership in bringing American industry the two major postwar innovations in microelectronics – large-scale integrated memory and the microprocessor – that have fueled the information revolution."<ref name=USPTO></ref>
+In 1998, he was inducted as a Fellow of the Computer History Museum "for his fundamental early work in the design and production of semiconductor devices as co-founder of Fairchild and Intel."<ref></ref>
+In 2001, Moore received the Othmer Gold Medal for outstanding contributions to progress in chemistry and science.<ref name=2001CAEN></ref><ref name=CHFAll></ref>
+Moore is also the recipient of the Presidential Medal of Freedom, the United States' highest civilian honor, as of 2002.<ref name=SIANews2022></ref> He received the award from President George W. Bush. In 2002, Moore also received the Bower Award for Business Leadership.
+In 2003, he was elected a Fellow of the American Association for the Advancement of Science.
+Moore was awarded the 2008 IEEE Medal of Honor for "pioneering technical roles in integrated-circuit processing, and leadership in the development of MOS memory, the microprocessor computer, and the semiconductor industry."<ref name="ieee"></ref> Moore was featured in the documentary film Something Ventured which premiered in 2011.
+In 2009, Moore was inducted into the National Inventors Hall of Fame.
+He was awarded the 2010 Dan David Prize for his work in the areas of Computers and Telecommunications.<ref name="DDP"></ref>
+The library at the Centre for Mathematical Sciences at the University of Cambridge is named after him and his wife Betty,<ref name="cam"></ref> as are the Moore Laboratories building (dedicated 1996) at Caltech and the Gordon and Betty Moore Materials Research Building at Stanford.
+The Electrochemical Society presents an award in Moore's name, the Gordon E. Moore Medal for Outstanding Achievement in Solid State Science and Technology, every two years to celebrate scientists' contributions to the field of solid state science.<ref></ref> The Society of Chemical Industry (American Section) annually presents the Gordon E. Moore Medal in his honor to recognize early career success in innovation in the chemical industries.<ref name=MooreMedalSCI></ref><ref name=MooreMedalCHF></ref>
+He was awarded the UCSF medal in 2016. <ref></ref>
+==Personal life==
+Moore met his wife, Betty Irene Whitaker, while attending San Jose State College.<ref name=Seeding></ref> They married in 1950.<ref name=Britannica></ref>
+Moore is an avid sport fisherman and actively pursues any type of fishing. He has extensively traveled the world, catching species from black marlin to rainbow trout. He has said his conservation efforts are partly inspired by his interest in fishing and his time spent outdoors.<ref name="charlierose"></ref>
+In 2011, Moore's genome was the first human genome sequenced on Ion Torrent's Personal Genome Machine platform, a massively parallel sequencing device, which uses ISFET biosensor.<ref name="mooreome"></ref>
+==References==
+== External links ==
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+*
+
+</ref><ref name=CHFOralHistory></ref><ref></ref> Moore conducted postdoctoral research at the Applied Physics Laboratory at Johns Hopkins University from 1953 to 1956.<ref name=CHFOralHistory/>

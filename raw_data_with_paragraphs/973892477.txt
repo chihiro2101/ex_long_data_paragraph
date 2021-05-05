@@ -1,0 +1,86 @@
+Rhyme royal
+
+==Form==
+The rhyme royal stanza consists of seven lines, usually in iambic pentameter. The rhyme scheme is ABABBCC. In practice, the stanza can be constructed either as a tercet and two couplets (ABA BB CC) or a quatrain and a tercet (ABAB BCC). This allows for variety, especially when the form is used for longer narrative poems. Along with the couplet, it was the standard narrative form in English poetry of the late Middle Ages.
+==History==
+Chaucer first used the rhyme royal stanza in his long poems Troilus and Criseyde and Parlement of Foules. He also used it for four of the Canterbury Tales: the Man of Law's Tale, the Prioress' Tale, the Clerk's Tale, and the Second Nun's Tale, and in a number of shorter lyrics. He may have adapted the form from a French ballade stanza or from the Italian ottava rima, with the omission of the fifth line.
+James I of Scotland used rhyme royal for his Chaucerian poem The Kingis Quair, and it is believed that the name of the stanza derives from this royal use. English and Scottish poets were greatly influenced by Chaucer in the century after his death and most made use of the form in at least some of their works. John Lydgate used the stanza for many of his occasional and love poems. The Scottish poet Robert Henryson consistently used the stanza throughout his two longest works, the Morall Fabillis and Testament of Cresseid, while the anonymous The Flower and the Leaf is another early use of the form. In the 16th century Sir Thomas Wyatt used it in his poem "They flee from me that sometime did me seek", Thomas Sackville in the Induction to The Mirror for Magistrates, Alexander Barclay in his Ship of Fools and Stephen Hawes in his Pastime of Pleasure.
+The seven-line stanza began to go out of fashion during the Elizabethan era but it was still used by John Davies in Orchestra and by William Shakespeare in The Rape of Lucrece. Edmund Spenser wrote his Hymn of Heavenly Beauty using rhyme royal but he also derived his own Spenserian stanza with the rhyme scheme ABABBCBCC partly by adapting rhyme royal. Like many stanzaic forms, rhyme royal fell out of fashion during the Restoration, and has never been widely used since. However, William Wordsworth employed rhyme royal (slightly modified by an alexandrine in the seventh line) in "Resolution and Independence", and notable twentieth-century poems in the stanza are W. H. Auden's Letter to Lord Byron (as well as some of the stanzas in The Shield of Achilles) and W. B. Yeats's A Bronze Head.
+William Morris, strongly influenced by Chaucer, wrote many parts of The Earthly Paradise with the rhyme scheme ABABBCBCC<ref>The Art of Versification by Joseph Berg Esenwein, Mary Eleanor Roberts. Revised edition, Springfield 1921, pp 111–112.</ref> and John Masefield used rhyme royal in some poems, including Dauber.
+In the United States Emma Lazarus wrote some short poems (inserted into the sequence Epochs) in rhyme royal.
+==English examples==
+===Iambic pentameter===
+Each example below is from a different century. The first is from Chaucer who may have introduced the form into English. The second is from 15th century Scotland where the Scottish Chaucerians widely cultivated it. The third is from Thomas Wyatt who initiated the renaissance of English poetry.
+;14th century — Chaucer
+<poem style="margin-left: 2em;">
+The double sorwe of Troilus to tellen,
+That was the king Priamus sone of Troye,
+In lovinge, how his aventures fellen
+Fro wo to wele, and after out of Ioye,
+My purpos is, er that I parte fro ye,
+Tisiphone, thou help me for tendyte
+Thise woful vers, that wepen as I wryt <small>(Troilus and Criseyde 1.1–7)</small>
+</poem>
+;15th century — Henryson
+(Describing the god Saturn hailing from an extremely cold realm)
+<poem style="margin-left: 2em;">
+His face wrinkle, his lyre was lyke the lead,
+His teith chatterit and cheverit with the chin,
+His ene drowpit, how sonkin in his heid,
+Out of his nois the mucus fast can rin,
+With lippis bla and cheikis leine and thin;
+The ice-schoklis that fra his hair doun hang
+Was wonder greit and as ane spear als lang. <small>(Testament of Cresseid 155–161)</small>
+</poem>
+;16th century — Wyatt
+<poem style="margin-left: 2em;">
+They flee from me that sometime did me seek
+With naked foot, stalking in my chamber.
+I have seen them gentle, tame, and meek,
+That now are wild and do not remember
+That sometime they put themself in danger
+To take bread at my hand; and now they range,
+Busily seeking with a continual change. <small>("They Flee from Me" 1–7, modern spelling)</small>
+</poem>
+;19th century — Emma Lazarus
+<poem style="margin-left: 2em;">
+It comes not in such wise as she had deemed,
+Else might she still have clung to her despair.
+More tender, grateful than she could have dreamed,
+Fond hands passed pitying over brows and hair,
+And gentle words borne softly through the air,
+Calming her weary sense and wildered mind,
+By welcome, dear communion with her kind. <small>("Sympathy" 1–7)</small>
+</poem>
+===Other meters===
+Although in English verse the rhyme royal stanza is overwhelmingly composed in iambic pentameter, occasionally other lines are employed. Thomas Wyatt used iambic dimeter in his Revocation:
+<poem style="margin-left:2em">
+What should I say?
+—Since Faith is dead,
+And Truth away
+From you is fled?
+Should I be led
+With doubleness?
+Nay! nay! mistress. (1–7)<ref> urltoken Full text at Bartleby.com</ref>
+</poem>
+Percy Bysshe Shelley in his poem On an Icicle that Clung to the Grass of a Grave used anapestic tetrameter<ref>Edward Morton Payson, English versification, Modern Language Notes, Vol. 18, No. 6., p. 175.</ref> instead of iambic pentameter: 
+<poem style="margin-left:2em">
+Oh! take the pure gem to where southerly breezes,
+Waft repose to some bosom as faithful as fair,
+In which the warm current of love never freezes,
+As it rises unmingled with selfishness there,
+Which, untainted by pride, unpolluted by care,
+Might dissolve the dim icedrop, might bid it arise,
+Too pure for these regions, to gleam in the skies. (1–7)<ref> urltoken text at Infoplease</ref>
+</poem>
+==Other languages==
+Outside English-speaking countries rhyme royal was never very popular. It was used in French poetry in the 15th century. Sometimes it occurred in Spanish and Portuguese poetry. Saint John of the Cross wrote the poem Coplas hechas sobre un éxtasis de harta contemplación.<ref> urltoken Portuguese playwright and poet Gil Vicente used rhyme royal scheme in his Villancete (in the English translation by Aubrey Fitz Gerald Aubertine, the rhyme scheme of the original text is altered):
+The villancete is similar in form to the Italian ballata mezzana (used by Guido Cavalcanti) or to the Spanish glosa. It consists of three stanzas: the first is a short envoi, followed by two seven-line stanzas.
+Danish poet Adam Oehlenschläger used rhyme royal in one poem in his Nordens guder.<ref> urltoken Nordens guder. Et episk digt af Oehlenschläger, p. 181-192.</ref>
+In Eastern Europe, rhyme royal is extremely rare. Polish poet Adam Asnyk used it in the poem Wśród przełomu (At the breakthrough).<ref> urltoken Original Text at Polish Wikisource</ref> In Czech literature František Kvapil wrote the poem V hlubinách mraků<ref>Zaváté stopy. Verše Františka Kvapila, V Praze, Nakladatelství J. Otto Knihtiskárna, 1887, s. 53–54.</ref> (In Depths of Darkness) in rhyme royal.<ref>Jakub Říha, Rym a strofika v českém verši, obzlváště u Jana Nerudy, Praha 2015, p. 93.</ref>
+==References==
+==External links==
+* urltoken They flee from me that Sometime did me Seek
+* urltoken Rhyming dictionary
+
+Rhyme royal (or rime royal) is a rhyme stanza form that was introduced to English poetry by Geoffrey Chaucer.<ref> urltoken

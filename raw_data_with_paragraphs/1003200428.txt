@@ -1,0 +1,105 @@
+Tibetic languages
+
+== Languages ==
+Nicolas Tournadre (2008) describes the language situation of Tibetan as follows:
+The 25 languages include a dozen major dialect clusters:
+:Central Tibetan (Ü-Tsang), Khams (Chamdo, Sichuan, Qinghai, Yunnan), Amdo (Qinghai, Gansu, Sichuan), Choni (Gansu, Sichuan), Ladakhi (Ladakh), Balti (Gilgit-Baltistan), Burig (Jammu and Kashmir), Lahuli–Spiti (Himachal Pradesh), Dzongkha (Bhutan), Sikkimese (Sikkim), Sherpa (Nepal, Tibet), Kyirong-Kagate (Nepal, Tibet) 
+and another dozen minor clusters or single dialects, mostly spoken by a few hundred to a few thousand people:
+:Jirel (Nepal), Chocangaca (Bhutan), Lakha (Bhutan), Brokkat (Bhutan), Brokpa (Bhutan), Groma (Tibet), Zhongu (Sichuan), Gserpa (Sichuan), Khalong (Sichuan), Dongwang (Yunnan), Zitsadegu (Sichuan) and Drugchu (Gansu).
+In addition, there is Baima, which retains an apparent Qiangic substratum, and has multiple layers of borrowing from Amdo, Khams, and Zhongu, but does not correspond to any established branch of Tibetic.<ref>Katia Chirkova, 2008, "On the position of Báimǎ within Tibetan", in Lubotsky et al (eds), Evidence and Counter-Evidence, vol. 2.</ref> The more divergent dialects such as this are spoken in the north and east near the Qiangic and Rgyalrongic languages, and some, such as Khalong, may also be due to language shift.
+The Tibetic languages used for broadcasting within China are Standard Tibetan (based on the Ü dialect of Lhasa and used as a lingua franca throughout Ü-Tsang), Khams and Amdo.
+==Origins==
+Marius Zemp (2018)<ref>Zemp, Marius. 2018. urltoken On the origins of Tibetan. Proceedings of the 51st International Conference on Sino-Tibetan Languages and Linguistics (2018). Kyoto: Kyoto University.</ref> hypothesizes that Tibetan originated as a pidgin with the West Himalayish language Zhangzhung as its superstratum, and Rgyalrongic as its substratum. Similarly, Tamangic also has a West Himalayish superstratum, but its substratum is derived from a different Sino-Tibetan branch.
+==Classification==
+===Tournadre (2014)===
+Tournadre (2014)<ref name="Tournadre2014">Tournadre, Nicolas. 2014. "The Tibetic languages and their classification." In Trans-Himalayan linguistics, historical and descriptive linguistics of the Himalayan area. Berlin: Mouton de Gruyter.</ref> classifies the Tibetic languages as follows.
+*North-Western: Ladakhi, Zangskari, Balti, Purki
+*Western: Spiti, Garzha, Khunu, Jad
+*Central: Ü, Tsang, Phenpo, Lhokha, Tö, Kongpo
+*South-Western: Sherpa and Jirel; other languages/dialects along the Sino-Nepalese border: Humla, Mugu, Dolpo, Lo-ke, Nubri, Tsum, Langtang, Kyirong, Yolmo, Gyalsumdo, Kagate, Lhomi, Walung, and Tokpe Gola.
+*Southern: Dzongkha, Drengjong, Tsamang, Dhromo Lakha, Dur Brokkat, Mera Sakteng Brokpa-ke
+*South-Eastern: Hor Nagchu, Hor Bachen, Yushu, Pembar, Rongdrak, Minyak, Dzayul, Derong-Jol, Chaktreng, Muli-Dappa, Semkyi Nyida; other Khams dialects
+**‘Northern route’ dialects: Chamdo (Chab-mdo), Derge (sde-dge), and Kandze (dkar-mdzes)
+**‘Southern route’ dialects: Barkam (smar-khams), Bathang (’ba’-thang), Lithang (li-thang)
+*Eastern: Drugchu, Khöpokhok, Thewo, Chone, Baima, Sharkhok, Palkyi Pashi, and Zhongu; other Khams dialects
+*North-Eastern: Amdo, gSerpa, Khalong
+===Tournadre (2005, 2008)===
+Tournadre (2005)<ref>N. Tournadre (2005) "L'aire linguistique tibétaine et ses divers dialectes." Lalies, 2005, n°25, p.&nbsp;7–56 urltoken classifies the Tibetic languages as follows.
+*Central Tibetan
+*:The basis of Standard Tibetan that includes various Nepalese varieties
+*Khams 
+*Amdo 
+*Dzongkha–Lhokä
+*:Dzongkha, Sikkimese, Lakha, Naapa, Chocangaca, Brokkat, Brokpa and probably Groma
+*Ladakhi–Balti
+*:Ladakhi, Burig, Zangskari, Balti
+*Lahuli–Spiti
+*Kyirong–Kagate 
+*Sherpa–Jirel
+*:Sherpa, Jirel
+The other languages (Thewo-Chone, Zhongu, Khalong, Dongwang, Gserpa, Zitsadegu, Drugchu, Baima) are not mutually intelligible, but are not known well enough to classify.
+Tournadre (2013) adds Tseku and Khamba to Khams, and groups Thewo-Chone, Zhongu, Baima as an Eastern branch of Tibetic.
+===Bradley (1997)===
+According to Bradley,<ref> urltoken Bradley (1997)</ref> the languages cluster as follows (dialect information from the Tibetan Dialects Project at the University of Bern):
+*Western Archaic Tibetan (non-tonal), including Ladakhi, Balti and Burig
+*Amdo Tibetan (including Thewo-Chone) (non-tonal)
+*Khams Tibetan (non tonal)
+*Lahuli–Spiti language (Lahuli–Spiti) (non tonal)
+*:Dialects of Upper Ladakh and Zanskar, of the Northwest Indian Border Area (Lahaul and Spiti district and Uttarakhand), and of Zanda County (westernmost Tibet)
+*Central Tibetan (non tonal)
+*:Most dialects of Ngari Prefecture in western Tibet, of the northern Nepalese border area in Nepal, Tsang dialects of Shigatse Prefecture, and Ü dialects (Lhokha, Lhasa, etc.). The basis of Standard Tibetan. 
+*Northern Tibetan (non tonal)
+*:Dialects of Gêrzê, of Nagqu Prefecture in north-central Tibet, and of Nangqên County in South Qinghai<br />(Considered dialects of Khams by Tournadre)
+*Southern Tibetan (non tonal)
+*:Groma language of Chumbi Valley in southern Tsang, Sikkimese in India, Sherpa and Jirel in Nepal, and various languages of Bhutan:<br />Dzongkha, Brokkat, Brokpa, Chocangaca, Lakha, Laya dialect, Lunana dialect.
+;Other
+Some classifications group Khams and Amdo together as Eastern Tibetan (not to be confused with East Bodish, whose speakers are not ethnically Tibetan). Some, like Tournadre, break up Central Tibetan. Phrases such as 'Central Tibetan' and 'Central Bodish' may or may not be synonymous: Southern (Central) Tibetan can be found as Southern Bodish, for example; 'Central Tibetan' may mean dBus or all dialects apart from Khams; Tibeto-Kanauri languages.
+== Writing systems ==
+Most Tibetic languages are written in one of two Indic scripts. Standard Tibetan and most other Tibetic languages are written in the Tibetan script with a historically conservative orthography (see below) that helps unify the Tibetan-language area. Some other Tibetan languages (in India and Nepal) are written in the related Devanagari script, which is also used to write Hindi, Nepali and many other languages. However, some Ladakhi and Balti speakers write with the Urdu script; this occurs almost exclusively in Pakistan. The Tibetan script fell out of use in Pakistani Baltistan hundreds of years ago upon the region's adoption of Islam. However, increased concern among Balti people for the preservation of their language and traditions, especially in the face of strong Punjabi cultural influence throughout Pakistan, has fostered renewed interest in reviving the Tibetan script and using it alongside the Persian alphabet. Many shops in Baltistan's capital Skardu in Pakistan's "Northern Areas" region have begun supplementing signs written in the Perso-Arabic script with signs written in the Tibetan script. Baltis see this initiative not as separatist but rather as part of an attempt to preserve the cultural aspects of their region which has shared a close history with neighbours like Kashmiris and Punjabis since the arrival of Islam in the region many centuries ago.
+== Historical phonology ==
+Old Tibetan phonology is rather accurately rendered by the script. The finals were pronounced devoiced although they are written as voiced, the prefix letters assimilated their voicing to the root letters. The graphic combinations hr and lh represent voiceless and not necessarily aspirate correspondences to r and l respectively. The letter ' was pronounced as a voiced guttural fricative before vowels but as homorganic prenasalization before consonants. Whether the gigu verso had phonetic meaning or not remains controversial.
+For instance, Srongbtsan Sgampo would have been pronounced (now pronounced in Lhasa Tibetan) and babs would have been pronounced (pronounced in Lhasa Tibetan).
+Already in the 9th century the process of cluster simplification, devoicing and tonogenesis had begun in the central dialects can be shown with Tibetan words transliterated in other languages, particularly Middle Chinese but also Uyghur.
+The concurrence of the evidence indicated above enables us to form the following outline of the evolution of Tibetan. In the 9th century, as shown by the bilingual Tibetan–Chinese treaty of 821–822 found in front of Lhasa's Jokhang, the complex initial clusters had already been reduced, and the process of tonogenesis was likely well underway.
+The next change took place in Tsang (Gtsang) dialects: The ra-tags were altered into retroflex consonants, and the ya-tags became palatals.
+Later on the superscribed letters and finals d and s disappeared, except in the east and west. It was at this stage that the language spread in Lahul and Spiti, where the superscribed letters were silent, the d and g finals were hardly heard, and as, os, us were ai, oi, ui. The words introduced from Tibet into the border languages at that time differ greatly from those introduced at an earlier period.
+The other changes are more recent and restricted to Ü and Tsang. In Ü, the vowel sounds a, o, u have now mostly umlauted to ä, ö, ü when followed by the coronal sounds i, d, s, l and n. The same holds for Tsang with the exception of l which merely lengthens the vowel. The medials have become aspirate tenues with a low intonation, which also marks the words having a simple initial consonant; while the former aspirates and the complex initials simplified in speech are uttered with a high tone, shrill and rapidly.
+==Reconstruction==
+===Proto-Tibetic===
+Proto-Tibetic, the hypothetical proto-language ancestral to the Tibetic languages, has been reconstructed by Tournadre (2014).<ref name="Tournadre2014"/> Proto-Tibetic is similar to, but not identical to, written Classical Tibetan. The following phonological features are characteristic of Proto-Tibetic (Tournadre 2014: 113).
+*The prefixes <nowiki>*s(ǝ)-, *d(ǝ)-/g(ǝ)-, *m(ǝ)-, and *b(ǝ)-</nowiki>, which have been retained from Proto-Tibeto-Burman. *s(ǝ)- is primarily used with animals and body parts, as well as *d(ǝ)-/*g(ǝ)- and *m(ǝ)-/*r(ǝ)-.
+*Palatalization of dental and alveolar consonants before y (/j/).
+*Consonant change from lateral to dental position after /m/ (e.g., *ml > *md).
+*Distinctive aspirated initial stops. This phenomenon is attested by alternating aspirated and non-aspirated consonants in Old Tibetan orthography. Examples include gcig ~ gchig (གཅིག་ ~ གཆིག་) ‘one’; phyin-chad ~ phyin-cad (ཕྱིན་ཆད་ ~ ཕྱིན་ཅད་) ‘from now on’; ci ~ chi (ཅི་ ~ ཆི་) ‘what’; and cu ~ chu (ཅུ་ ~ ཆུ་) ‘water’.
+Reconstructed Proto-Tibetic forms from Tournadre (2014) include:
+* *g(ǝ)-tɕik ‘one’
+* *g(ǝ)-nyis ‘two’
+* *g(ǝ)-su- ‘three’
+* *b(ǝ)-ʑi ‘four’
+* *l(ǝ)-ŋa ‘five’
+* *d(ǝ)-ruk ‘six’
+* *b(ǝ)-dun ‘seven’
+* *b(ǝ)-rgyat ‘eight’
+* *d(ǝ)-gu ‘nine’
+* *b(ǝ)-tɕu ‘ten’
+* *s(ǝ)-dik-pa ‘scorpion’
+* *s(ǝ)-bal ‘frog’
+* *s(ǝ)-tak ‘tiger’
+* *s(ǝ)-b-rul ‘snake’
+* *s(ǝ)-pra ‘monkey’
+* *s(ǝ)-kra ‘hair’
+* *s(ǝ)-nyiŋ ‘heart’
+* *s(ǝ)-na ‘nose’
+* *d(ǝ)-myik ‘eye’
+* *m(ǝ)-go ‘head’
+* *r(ǝ)-na ‘ear’
+===Pre-Tibetic===
+Pre-Tibetic is a hypothetical pre-formation stage of Proto-Tibetic.<ref name="Tournadre2014"/>
+<nowiki>*ty-, *ly-, *sy-</nowiki> were not palatalized in Pre-Tibetic, but underwent palatalization in Proto-Tibetic (Tournadre 2014: 113-114).<ref name="Tournadre2014"/> Posited sound changes from Pre-Tibetic to Proto-Tibetic include *ty- > *tɕ-, *sy- > *ɕ-, *tsy- > *tɕ-, and *ly- > *ʑ-. However, Tournadre (2014: 114) notes that many Bodish languages such as Basum, Tamang, and Kurtöp (East Bodish) have not undergone these changes (e.g., Bake (Basum) ti ‘what’ vs. Proto-Tibetic *tɕ(h)i and Bake tɨ ‘one’ vs. Proto-Tibetic *g(ǝ)-tɕ(h)ik; Kurtöp <sup>H</sup>la: ‘iron’ and Bumthap lak ‘iron’ vs. Proto-Tibetic *ltɕaks).
+Some Pre-Tibetic reconstructions, along with reconstructed Proto-Tibetic forms and orthographic Classical Literary Tibetan, from Tournadre (2014: 114-116) are listed below.
+
+The Tibetic languages are a cluster of Tibeto-Burman languages descended from Old Tibetan, spoken across the Himalayan Massif, including the Tibetan Plateau and the Himalayas in Baltistan, Ladakh, Nepal, Sikkim, Bhutan, Assam and Arunachal Pradesh. Classical Tibetan is a major regional literary language, particularly for its use in Buddhism literature.
+Tibetic languages are spoken by some 6 million people.<ref> ( urltoken preprint)</ref>
+With the worldwide spread of Tibetan Buddhism, the Tibetan language has spread into the western world and can be found in many Buddhist texts and prayer materials; with some western students learning the language for translation of Tibetan texts. Outside Lhasa itself, Lhasa Tibetan is spoken by approximately 200,000 exile speakers who have moved from modern-day Tibet to India and other countries. Tibetan is also spoken by groups of ethnic minorities in Tibet who have lived in close proximity to Tibetans for centuries, but nevertheless retain their own languages and cultures.
+Although some of the Qiang peoples of Kham are classified by China as ethnic Tibetans (see rGyalrongic languages; rGyalrong people are identified as 'Tibetan' in China), the Qiangic languages are not Tibetic, but rather form their own branch of the Tibeto-Burman languages.
+Classical Tibetan was not a tonal language, but some varieties such as Central and Khams Tibetan have developed tone registers. Amdo and Ladakhi-Balti are without tone. Tibetic morphology can generally be described as agglutination.

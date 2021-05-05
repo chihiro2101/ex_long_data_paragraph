@@ -1,0 +1,70 @@
+Mongolic languages
+
+==Classification==
+The stages of Historical Mongolic are:
+* Pre-Proto-Mongolic, from approximately the 4th century AD until the 12th century AD, influenced by Common Turkic, and previously by Bulgar Turkic. 
+*Proto-Mongolic, from approximately the 13th century AD, spoken around the time of Genghis Khan. 
+* Middle Mongol (depending on classification spoken from the 13th century until the early 15th century<ref></ref> or late 16th century;<ref></ref> given the almost entire lack of written sources for the period in between, an exact cutoff point cannot be established)
+*Classical Mongolian, from approximately 1700 to 1900
+* Mongolian language The standard Mongolian language has been in official use since 1919, and this form of the language is used in the economic, political, and social fields.The script for standard Mongolian uses a version of the Russian alphabet called the Mongolian Cyrillic alphabet. It was introduced in the 1940s in the Mongolian People's Republic under Soviet influence, after a brief period where Latin was used as the official script. After the Mongolian democratic revolution in 1990, the traditional Mongolian script was considered to replace Cyrillic, but this plan was not adopted. However, the government announced it will be official by 2025.
+Contemporary Mongolic languages are classified as follows.
+;Mongolic
+* Dagur (96,000 speakers)
+* Central Mongolic
+**Khamnigan (2,000 speakers)
+** Buryat (330,000 speakers)
+** Mongolian proper (5.2 million speakers)
+** Eastern and Central dialect
+***Khalkha
+*** Chakhar
+*** Khorchin
+** Ordos (123,000 speakers)
+** Oirat (including Kalmyk) (360,000 speakers)
+*Southern Mongolic (part of a Gansu–Qinghai Sprachbund)
+**Shira Yugur (4,000 speakers)
+** Shirongolic
+*** Monguor (150,000 speakers)
+*** Bonan (6,000 speakers)
+*** Santa (Dongxiang) (200,000 speakers)
+*** Kangjia (1,000 speakers)
+* Moghol (200 speakers)
+Alexander Vovin (2007) identifies the extinct Tabγač or Tuoba language as a Mongolic language.<ref>Vovin, Alexander. 2007. ‘Once again on the Tabγač language.’ Mongolian Studies XXIX: 191-206.</ref> However, Chen (2005)<ref>Chen, Sanping 2005. Turkic or Proto-Mongolian? A Note on the Tuoba Language. Central Asiatic Journal 49.2: 161-73.</ref> argues that Tuoba (Tabγač) was a Turkic language. Vovin (2018) suggests that the Ruanruan language of the Rouran Khaganate was a Mongolic language, close but not identical to Middle Mongolian.<ref></ref>
+The classification and numbers of speakers above follow Janhunen (2006)<ref></ref> except for Southern Mongolic, which follows Nugteren (2011).<ref></ref> In another classificational approach,<ref>e.g. Sečenbaγatur et al. (2005:193–194)</ref> there is a tendency to call Central Mongolian a language consisting of Mongolian proper, Oirat and Buryat, while Ordos (and implicitly also Khamnigan) is seen as a variety of Mongolian proper. Within Mongolian proper, they then draw a distinction between Khalkha on the one hand and Southern Mongolian (containing everything else) on the other hand. A less common subdivision of Central Mongolic is to divide it into a Central dialect (Khalkha, Chakhar, Ordos), an Eastern dialect (Kharchin, Khorchin), a Western dialect (Oirat, Kalmyk), and a Northern dialect (consisting of two Buryat varieties).<ref> quoted from Sečenbaγatur et al. (2005:167–168)</ref> The broader delimitation of Mongolian may be based on mutual intelligibility, but an analysis based on a tree diagram such as the one above faces other problems because of the close contacts between, for example, Buryat and Khalkha Mongols during history, thus creating or preserving a dialect continuum. Another problem lies in the sheer comparability of terminology, as Western linguists use language and dialect, while Mongolian linguists use the Grimmian trichotomy language (kele), dialect (nutuγ-un ayalγu) and Mundart (aman ayalγu).
+Rybatzki (2003: 388-389)<ref>Rybatzki, Volker. 2003. "Intra-Mongolic taxonomy." In Janhunen, Juha (ed). The Mongolic Languages, 364-390. Routledge Language Family Series 5. London: Routledge.</ref> recognizes the following 6 areal subgroups of Mongolic.
+*Northeastern Mongolic (NE) = Dagur
+*Northern Mongolic (N) = Khamnigan Mongol–Buryat
+*Central Mongolic (C) = Mongol proper–Ordos–Oirat
+*South-Central Mongolic (SC) = Shira Yughur
+*Southeastern Mongolic (SE) = Mongghul–Mangghuer–Bonan–Santa - Kangjia
+*Southwestern Mongolic (SW) = Moghol
+===Mixed languages===
+The following are mixed Sinitic–Mongolic languages.
+*Tangwang (mixed Mandarin–Santa)
+*Wutun (mixed Mandarin–Bonan)
+==Pre-Proto-Mongolic==
+Pre-Proto-Mongolic is the name for the stage of Mongolic that precedes Proto-Mongolic.
+Proto-Mongolic can be clearly identified chronologically with the language spoken by the Mongols during Genghis Khan's early expansion in the 1200-1210s.
+Pre-Proto-Mongolic, by contrast, is a continuum that stretches back indefinitely in time. It is divided into Early Pre-Proto-Mongolic and Late Pre-Proto-Mongolic. Late Pre-Proto-Mongolic refers to the Mongolic spoken a few centuries before Proto-Mongolic by the Mongols and neighboring tribes like the Merkits and Keraits. Certain archaic words and features in Written Mongol go back past Proto-Mongolic to Late Pre-Proto-Mongolic (Janhunen 2006).
+===Relationship with Turkic===
+Pre-Proto-Mongolic has borrowed various words from Turkic languages.
+In the case of Early Pre-Proto-Mongolic, certain loanwords in the Mongolic languages point to early contact with Oghur (Pre-Proto-Bulgaric) Turkic, also known as r-Turkic. These loanwords precede Common Turkic (z-Turkic) loanwords and include:
+*Mongolic ikere (twins) from Pre-Proto-Bulgaric ikir (versus Common Turkic ekiz)
+*Mongolic hüker (ox) from Pre-Proto-Bulgaric hekür (Common Turkic öküz)
+*Mongolic jer (weapon) from Pre-Proto-Bulgaric jer (Common Turkic yäz)
+*Mongolic biragu (calf) versus Common Turkic buzagu
+*Mongolic siri- (to smelt ore) versus Common Turkic siz- (to melt)
+The above words are thought to have been borrowed from Oghur Turkic during the time of the Xiongnu.
+Later Turkic peoples in Mongolia all spoke forms of Common Turkic (z-Turkic) as opposed to Oghur (Bulgharic) Turkic, which withdrew to the west in the 4th century. The Chuvash language, spoken by 1 million people in European Russia, is the only living representative of Oghur Turkic which split from Proto Turkic around the 1st century AD.
+Words in Mongolic like dayir (brown, Common Turkic yagiz) and nidurga (fist, Common Turkic yudruk) with initial *d and *n versus Common Turkic *y are sufficiently archaic to indicate loans from an earlier stage of Oghur (Pre-Proto-Bulgaric). This is because Chuvash and Common Turkic do not differ in these features despite differing fundamentally in rhotacism-lambdacism (Janhunen 2006). Oghur tribes lived in the Mongolian borderlands before the 5th century, and provided Oghur loanwords to Early Pre-Proto-Mongolic before Common Turkic loanwords.
+==Proto-Mongolic==
+Proto-Mongolic, the ancestor language of the modern Mongolic languages, is very close to Middle Mongol, the language spoken at the time of Genghis Khan and the Mongol Empire. Most features of modern Mongolic languages can thus be reconstructed from Middle Mongol. An exception would be the voice suffix like -caga- 'do together', which can be reconstructed from the modern languages but is not attested in Middle Mongol.
+The languages of the historical Donghu, Wuhuan, and Xianbei peoples might have been related to Proto-Mongolic.<ref>, ". believed that at least some of their constituent tribes spoke a Mongolian language, though there is still some argument that a particular variety of Turkic may have been spoken among them."</ref> For Tabghach, the language of the founders of the Northern Wei dynasty, for which the surviving evidence is very sparse, and Khitan, for which evidence exists that is written in the two Khitan scripts (large and small) which have as yet not been fully deciphered, a direct affiliation to Mongolic can now be taken to be most likely or even demonstrated.<ref>see Vovin 2007 for Tabghach and Janhunen 2012 for Khitan</ref>
+====
+Juha Janhunen (2006) classified the Khitan language into the "Para-Mongolic" family, meaning that it is related to the Mongolic languages as a sister group, rather than as a direct descendant of Proto-Mongolic.<ref name=Janhunen/> Alexander Vovin (2017)<ref>Vovin, Alexander. (2017). Koreanic loanwords in Khitan and their importance in the decipherment of the latter. Acta Orientalia Academiae Scientiarum Hungaricae, 70(2), 207-215.</ref> has also identified several possible loanwords from Koreanic languages into the Khitan language.
+Vovin (2015) identified the extinct Tuyuhun language as yet another Para-Mongolic language.<ref>Vovin, Alexander. 2015. urltoken Some notes on the Tuyuhun (吐谷渾) language: in the footsteps of Paul Pelliot. In Journal of Sino-Western Communications, Volume 7, Issue 2 (December 2015).</ref>
+==See also==
+* List of Mongolic languages
+* Inscription of Hüis Tolgoi
+
+The Mongolic languages are a group of languages spoken in Eastern Europe, North Asia and East Asia, mostly in Mongolia and surrounding areas and in Kalmykia and Buryatia. The best-known member of this language family, Mongolian, is the primary language of most of the residents of Mongolia and the Mongol residents of Inner Mongolia, with an estimated 5.7+ million speakers.<ref></ref>
+The closest relatives of the Mongolic languages appear to be the extinct Khitan<ref name=Janhunen/> and Tuyuhun languages. Some linguists have grouped Mongolic with Turkic, Tungusic and possibly Koreanic and Japonic as part of the widely discredited Altaic family.<ref>e.g. ; contra e.g. </ref>

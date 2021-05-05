@@ -1,0 +1,110 @@
+Chaconne
+
+==History==
+Though it originally emerged during the late sixteenth century in Spain culture, having reputedly been introduced from the New World, as a quick dance-song characterized by suggestive movements and mocking texts,<ref>Alexander Silbiger, "Chaconne," The New Grove Dictionary of Music and Musicians, ed. Stanley Sadie and J. Tyrrell (London: Macmillan, 2001).</ref> by the early eighteenth century the chaconne had evolved into a slow triple metre instrumental form.
+Alex Ross describes the origins of the chacona as actually having been a sexily swirling dance that appeared in South America at the end of the sixteenth century and quickly spread to Europe. The dance became popular both in the elite courts and in the general population. "Un sarao de la chacona"<ref>"Un sarao de la chacona" translates as A chacona soirée and is also known as "Chacona: A la vida bona". Lyrics with English translation here: urltoken Juan Arañés, ‘¡A la vida bona!’, chacona a4 from Libro segundo de tonos y villancicos (Rome: Giovanni Battista Robletti, 1624). </ref> is one of the earliest known examples of a "chacona", written down by Spanish musician Juan Arañés.<ref></ref>
+Outstanding examples of early baroque chaconnes are Monteverdi's "Zefiro torna" and "Es steh Gott auf" by Heinrich Schütz.<ref>Gerald Drebes: "Schütz, Monteverdi und die 'Vollkommenheit der Musik' – 'Es steh Gott auf' aus den Symphoniae sacrae II (1647)". In: Schütz-Jahrbuch, volume 14, 1992, urltoken pp. 25–55 .</ref>
+One of the best known and most masterful and expressive examples of the chaconne is the final movement from the Violin Partita in D minor by Johann Sebastian Bach. This 256-measure chaconne takes a plaintive four-bar phrase through a continuous kaleidoscope of musical expression in both major and minor modes. However, recently it has been proposed that the form of Bach's "Ciaccona" (he used the Italian form of the name, rather than the French "Chaconne") is really cast in the form of a French theatrical dance known as the "passacaille", although it also incorporates Italian and German style features as well.<ref>Raymond Erickson, "Toward a 21st-Century Interpretation of Bach's Ciaccona for Solo Violin, BWV 1004/5," The American Bach Society Newsletter, Spring 2003</ref>
+After the baroque music, the chaconne fell into decline during the 19th century, though the 32 Variations in C minor by Beethoven suggest its continuing influence. However, the form saw a very substantial revival during the 20th century, with more than two dozen composers contributing examples (see below).
+==Chaconne and passacaglia==
+The chaconne has been understood by some nineteenth and early twentieth-century theorists to be a set of variations on a harmonic progression, as opposed to a set of variations on a melodic bass pattern (to which is assigned the term passacaglia),<ref>Percy Goetschius, The Larger Forms of Musical Composition: An Exhaustive Explanation of the Variations, Rondos, and Sonata Designs, for the General Student of Musical Analysis, and for the Special Student of Structural Composition (New York: G. Schirmer, 1915), 29 and 40.</ref> while other theorists of the same period make the distinction the other way around.<ref>Lucas, Clarence Lucas, 1908. The Story of Musical Form (The Music Story Series, edited by Frederick J. Crowest. London: The Walter Scott Publishing Co., Ltd.; New York: Charles Scribner’s Sons, 1908), 203.</ref> In actual usage in music history, the term "chaconne" has not been so clearly distinguished from passacaglia as regards the way the given piece of music is constructed, and "modern attempts to arrive at a clear distinction are arbitrary and historically unfounded."<ref>Manfred Bukofzer, Music in the Baroque Era (New York: Norton, 1947), 42.</ref> In fact, the two genres were sometimes combined in a single composition, as in the Cento partite sopra passacagli, from Toccate d’intavolatura di cimbalo et organo, partite di diverse arie . (1637), by Girolamo Frescobaldi, and the first suite of Les Nations (1726) as well as in the Pièces de Violes (1728) by François Couperin.<ref>Alexander Silbiger, " urltoken Passacaglia and Ciaccona: Genre Pairing and Ambiguity from Frescobaldi to Couperin ," Journal of Seventeenth-Century Music 2, no. 1 (1996).</ref>
+Frescobaldi, who was probably the first composer to treat the chaconne and passacaglia comparatively, usually (but not always) sets the former in major key, with two compound triple-beat groups per variation, giving his chaconne a more propulsive forward motion than his passacaglia, which usually has four simple triple-beat groups per variation.<ref>Alexander Silbiger, "Chaconne" The New Grove Dictionary of Music and Musicians, ed. S. Sadie and J. Tyrrell (London: Macmillan, 2001).</ref> Both are usually in triple metre, begin on the second beat of the bar, and have a theme of four measures (or a close multiple thereof). (In more recent times the chaconne, like the passacaglia, need not be in time; see, for instance, Francesco Tristano Schlimé's Chaconne/Ground Bass, where every section is built on seven-beats patterns)
+==Examples==
+===17th century===
+* Francesca Caccini (1587 – c.1641): Ciaccona
+*Heinrich Ignaz Franz Biber (1644–1704): Ciacona in D major for violin and Figured bass (undated); another in the Partita no. 3 in A major for seven string instruments, from Harmonia artificioso-ariosa (written 1696)
+*Dieterich Buxtehude (c. 1638–1707): Prelude, fugue, and chaconne in C Major (BuxWV 137), chaconne in C minor (BuxWV 159), and chaconne in E minor (BuxWV 160); all for organ (probably 1690s)
+*Maurizio Cazzati (1616–1678): Ciaccona a tre con il suo balletto for two violins and violone, from Correnti, balletti, galiarde a 3 è 4 (1659)
+*Marc-Antoine Charpentier (1643–1704): Chaconne from the opera Les arts florissants (1685); another from the opera David et Jonathas (1688); another from the opera Médée (1694)
+*Arcangelo Corelli (1653–1713): Chaconne in G major in the Sonata op. 2, no. 12, from the Sonate da camera a tre: doi violini, e violone o cembalo (1685)
+*Girolamo Frescobaldi (1583–1643): Four ciaccone (in F major, A minor, G major, A minor again) for harpsichord from Toccate d’intavolatura di cimbalo et organo, partite di diverse arie . . . (1637)
+*Jean-Nicolas Geoffroy (1633–1694): Eighteen chaconnes for harpsichord, all unpublished in the composer's lifetime, perhaps the most chaconnes written by any known 17th-, 18th-, or 19th-century composer
+*Jean-Baptiste Lully (1632–1687): Chaconne from the opera Phaëton (1683); another from the opera Roland (1685); another from the opera Acis et Galatée (1686)
+*Marin Marais (1656–1728): Chaconne in G major for two violas da gamba and continuo, no. 47 from the Pièces de violes, premier livre (1686–89)
+*Tarquinio Merula (1594/95–1665): "Su la cetra amorosa," aria in ciaccona for soprano and instrumental accompaniment, from Madrigali et altre musiche concertate (1633)
+*Girolamo Montesardo (dates unknown): Chaconne bass line in three keys (G major, C major, F major) for guitar, from Nuova inventione d'intavolatura (1606), perhaps the first written chaconne
+*Claudio Monteverdi (1567–1643): "Zefiro torna," ciaccona for two tenors and instrumental accompaniment, from Scherzi musicali cioè arie et madrigali (1632)
+*Johann Pachelbel (1653–1706): Two chaconnes (in C major, D major) for organ, from Hexachordum Apollinis (1699); four more (in D major, D minor, F major, F minor) for organ (undated)
+*Henry Purcell (1659–1695): Chaconne from the semi-opera Prophetess, or The History of Dioclesian (1690); two more from the semi-opera King Arthur, or The British Worthy (1691); another from the semi-opera The Fairy-Queen (1692)
+*Robert de Visée (1655–1732/33): Two chaconnes (in F major, G major) for guitar from Livre de guittarre, dédié au roi (1682); another in G minor, from Livre de pieces pour la guittarre, dédié au roi (1686)
+===18th century===
+*Johann Sebastian Bach (1685–1750): Chaconne, fifth movement of Partita for Violin No. 2 (Bach) (1720)
+*Luigi Boccherini (1743–1805): "Chaconne that represents Hell . . . in imitation of the one by M. Gluck," finale to Symphony in D minor, op. 12, no. 4 (1771)
+*Joseph Bodin de Boismortier (1689–1755): Chaconne in A major for two cellos, from Neuf petites sonates et chaconne (1737); another in G major, from the opera Daphnis et Chloé (1747)
+*François Couperin (1668–1733): "La Favorite," chaconne, ninth movement in Ordre 3ème in C minor for harpsichord, from Pièces de clavecin, premier livre (1713)
+*Antoine Forqueray (1671–1745): Chaconne "La Buisson", from Pieces de viole avec basse continue (1747)
+*Christoph Willibald Gluck (1714–1787): Chaconne in the opera Orfeo ed Euridice (1762); the same chaconne also in the opera Iphigénie en Aulide (1774); a different chaconne in the opera Armide (1777)
+*George Frideric Handel (1685–1759): Chaconne in G major and 21 variations for harpsichord (written 1705–17, published 1733); another in G major and 62 variations for organ (written 1703–06, published 1733)
+*Marin Marais (1656–1728): Chaconne, eighth movement in Suite 3 in F major; another, final movement in Suite in A major; both for viola da gamba and continuo, from Pièces de viole, quatrième livre (1717)
+*Jean-Philippe Rameau (1683–1764): chaconne in D minor from the opera-ballet Les Indes galantes (1735); another in D minor from the opera-ballet Les fêtes d'Hébé (1739); another in A major from the comic opera Platée (1745)
+*Georg Philipp Telemann (1681–1767): "Lilliputian Chaconne," second movement of "Gulliver's Travels," Intrada-Suite in D major for 2 violins, from Der getreue Musikmeister (1728–29)
+*Tommaso Vitali (1663–1745): "Chaconne," in G minor for violin and piano (c. 1710–1730)
+*Antonio Vivaldi (1678–1741): Ciaccona, third movement of Concerto in G minor for flute, oboe, violin, bassoon, strings (c. 1720)
+*Sylvius Leopold Weiss (1687–1750): Chaconne, eleventh movement in Sonata 1; another, ninth movement in Sonata 2; another, seventh movement in Sonata 10; another, seventh movement in Sonata 12; all for lute (all undated)
+===19th century===
+*Johannes Brahms: Symphony No. 4 (Brahms), finale
+* Franz Liszt: Chaconne from Sarabande und Chaconne aus dem Singspiel Almira, S.181 (1879)
+* Heinrich Reimann: Ciacona in F minor, op. 32, for organ
+===20th century===
+*John Adams: second movement "Chaconne: Body Through Which the Dream Flows" from Violin Concerto (1993)
+*Malcolm Arnold: second movement "Chaconne" from Recorder Sonatina, Op. 41 (1953)
+*Malcolm Arnold: second movement "Chaconne: Andante con moto" from Brass quintet, Op. 73 (1961)
+*Béla Bartók: first movement, "Tempo di ciaccona" from the Sonata for violin solo (1944)
+*Howard Blake: Chaconne (from Lifecycle, sequence of 24 piano solos) (1975)
+*Benjamin Britten: "Chacony," third movement of the String Quartet No. 2, in C (1946)
+*Benjamin Britten: "Ciaccona," fifth movement of the Cello Suite No. 2 (1971)
+*Mario Castelnuovo-Tedesco: "El Sueño de la Razón Produce Monstruos", from "24 Caprichos de Goya", Op. 195
+*John Corigliano: The Red Violin (Chaconne) for violin and orchestra
+*John Corigliano: Chaconne, 3rd movement of Symphony No. 1 "Giulio's Song" (1990)
+*Johann Nepomuk David: Chaconne in A minor for organ (1933)
+*Johann Nepomuk David: Nun komm, der Heiden Heiland: kleine Chaconne on "Nun komm, der Heiden Heiland" for organ
+*Robert Davidson: Chaconne for orchestra (1994)
+*Norman Dello Joio: Variations, Chaconne, and Finale for orchestra
+*David Diamond: Chaconne, for violin and piano (1951)
+*Cornelis Dopper: Ciaconna gotica (1920)
+*Marcel Dupré: Triptyque, op. 51 (Chaconne, Musette, Dithyrambe), for organ
+*Jean Françaix: Chaconne for harp and string orchestra (1976)
+*Gunnar de Frumerie: Chaconne op. 8, for piano (1932)
+*Philip Glass: Echorus for two violins and string orchestra (1995)
+*Philip Glass: Symphony No. 3, third movement (1995)
+*Philip Glass: Violin Concerto No. 1, second movement (1987)
+*Alexander Goehr: Chaconne, for organ (1985)
+*Sofia Gubaidulina: Chaconne, for piano (1962)
+*Lou Harrison: Suite for Violin and American Gamelan (1974)
+*Hans Werner Henze: Il Vitalino raddoppiato: ciaccona per violino soloista e orchestra da camera (1977)
+*Hans Werner Henze: Concerto for Double Bass, third movement (1966)
+*Heinz Holliger: Chaconne for solo cello (1975)
+*Gustav Holst: "Chaconne" from First Suite in Eb for Military Band (according to one writer, technically a passacaglia, but according to others, technically a chaconne)<ref>Budd Udell, "Standard Works for Band: Gustav Holst's First Suite in E♭ Major for Military Band." Music Educators Journal 69, no. 4 (1982) page 28. urltoken (JSTOR subscription access) – Pam Hurry, Mark Phillips, and Mark Richards, urltoken (Oxford: Heinemann Educational Publishers, 2001. p. 238. – Clarence Lucas, urltoken The Story of Musical Form (The Music Story Series, edited by Frederick J. Crowest. London: The Walter Scott Publishing Co., Ltd.; New York: Charles Scribner’s Sons, 1908) page 203.</ref>
+*Arthur Honegger: Chaconne de l'impératrice, from the film music for Napoléon (1926–27)
+*Ernst Krenek: Toccata und Chaconne: über den Choral "Ja ich glaub an Jesum Christum", op. 13, for piano
+*György Ligeti: Hungarian Rock: Chaconne, for harpsichord
+*Douglas Lilburn: Chaconne, for Piano (1946)
+*Frank Martin: Chaconne, for cello and piano (1931)
+*Carl Nielsen: Chaconne, op. 32, for piano (1916–17)
+*Henri Pousseur: Chaconne for solo violin
+*Knudåge Riisager: Chaconne, op. 50, for orchestra
+*Poul Ruders: Chaconne for solo guitar
+*Franz Schmidt: Chaconne in C minor, for organ. (1925) Arranged for orchestra (transposed to D minor) in 1931.
+*Reginald Smith Brindle: Chaconne and Interludes: (The Instruments of Peace III), for two guitars
+*Leo Sowerby: Chaconne, for tuba and piano (1938)
+*Leo Sowerby: Canon, Chacony, & Fugue for organ (1948)
+*David Van Vactor: Fantasia, Chaconne, and Allegro, for orchestra
+*Stefan Wolpe: Dance in Form of a Chaconne for piano (1941)
+*Michiru Yamane: Chaconne in C-moll for organ (1996)
+*Bernd Alois Zimmermann: opera Die Soldaten (1965). Act 1, Scene 2 (Ciacona 1). Act 2, Scene 2 (Capriccio, Corale e Ciacona II). Act 4, Scene 2 (Ciacona III)
+===21st century===
+*Paulo Galvão: Chacoinas (2) in A minor for baroque guitar.
+*Jennifer Higdon: "Chaconni," second movement from her violin concerto (2008)
+*Krzysztof Penderecki: Ciaccona in memoria Giovanni Paolo II per archi (for string orchestra) from Polish Requiem (added in 2005).
+*Francesco Tristano Schlimé: Chaconne/Ground Bass for piano (1997/2004/2012).
+*Roman Turovsky: Chaconnes in C major, C minor and D minor for baroque lute.
+*Simon Andrews: Chaconne, 2nd movement of Symphony No. 1 "For the heart is an organ of fire" (2013)
+*Marc-André Dalbavie: Ciaccona for orchestra (2002).
+*Paulo Ugoletti: Ciaccona per pianoforte.
+==References==
+==External links==
+* urltoken Ciaccona Book trailer
+* urltoken Passacaglias and Chaconnes for Lute
+
+A chaconne ; ; ; , ; earlier English: chacony)<ref> urltoken Chaconne, naxos.com</ref> is a type of musical composition popular in the baroque era when it was much used as a vehicle for variation on a repeated short harmonic progression, often involving a fairly short repetitive bass-line (ground bass) which offers a compositional outline for variation, decoration, figuration and melodic invention. In this it closely resembles the passacaglia.
+The ground bass, if there is one, may typically descend stepwise from the tonic to the dominant pitch of the scale; the harmonies given to the upper parts may emphasize the circle of fifths or a derivative pattern thereof.

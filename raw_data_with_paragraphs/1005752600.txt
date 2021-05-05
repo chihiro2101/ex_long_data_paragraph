@@ -1,0 +1,93 @@
+Magnesium sulfate
+
+==Hydrates==
+Magnesium sulfate can crystallize as several hydrates, including:
+* Anhydrous, ; unstable in nature, hydrates to form epsomite.<ref> urltoken 
+* Monohydrate, ; kieserite, monoclinic.<ref name=odoc1995/>
+* or .<ref name=fort2012/>
+* Dihydrate, ; orthorhombic.
+* or .<ref name=fort2012/>
+* Trihydrate, .<ref name=fort2012/>
+* Tetrahydrate, ; starkeyite, monoclinic.<ref name=pete2007/>
+* Pentahydrate, ; pentahydrite, triclinic.<ref name=odoc1995/>
+* Hexahydrate, ; hexahydrite, monoclinic.
+* Heptahydrate, ("Epsom salt"); epsomite, orthorhombic.<ref name=odoc1995/>
+* Enneahydrate, , monoclinic.<ref name=fort2017/>
+* Decahydrate, .<ref name=pete2007/>
+* Undecahydrate, ; meridianiite, triclinic.<ref name=pete2007/>
+As of 2017, the existence of the decahydrate apparently has not been confirmed.<ref name=fort2017/>
+All the hydrates lose water upon heating. Above 320&nbsp;°C, only the anhydrous form is stable. It decomposes without melting at 1124&nbsp;°C into magnesium oxide (MgO) and sulfur trioxide (SO<sub>3</sub>).
+===Heptahydrate (Epsom salt)===
+The heptahydrate takes its common name "Epsom salt" from a bitter saline spring in Epsom in Surrey, England, where the salt was produced from the springs that arise where the porous chalk of the North Downs meets nonporous London clay.
+The heptahydrate readily loses one equivalent of water to form the hexahydrate.
+It is a natural and organic source of both magnesium and sulfur. Epsom salts are commonly used in bath salts, exfoliants, muscle relaxers and pain relievers. However, these are different from Epsom salts that are used for gardening, as they contain aromas and perfumes not suitable for plants.<ref></ref>
+===Monohydrate===
+The monohydrate can be prepared by heating the hexahydrate to approximately 150&nbsp;°C. Further heating to approximately 300-320&nbsp;°C gives anhydrous magnesium sulfate.
+===Undecahydrate===
+The undecahydrate , meridianiite, is stable at atmospheric pressure only below 2&nbsp;°C. Above that temperature, it liquefies into a mix of solid heptahydrate and a saturated solution. It has an eutectic point with water at −3.9&nbsp;°C and 17.3% (mass) of MgSO4.<ref name=fort2012/> Large crystals can be obtained from solutions of the proper concentration kept at 0&nbsp;°C for a few days.<ref name=fort2012/>
+At pressures of about 0.9 GPa and at 240 K, meridianiite decomposes into a mixture of ice VI and the enneahydrate .<ref name=fort2017/>
+===Enneahydrate===
+The enneahydrate was identified and characterized only recently, even though it seems easy to produce (by cooling a solution of and sodium sulfate in suitable proportions).
+The structure is monoclinic, with unit-cell parameters at 250 K<sub>a</sub>= 0.675 nm, b = 1.195&nbsp;nm, c = 1.465&nbsp;nm, β = 95.1°, V = 1.177 nm<sup>3</sup> with Z = 4. The most probable space group is P21/c. Magnesium selenate also forms an enneahydrate , but with a different crystal structure.<ref name=fort2017/>
+==Natural occurrence==
+Magnesium sulfates are common minerals in geological environments. Their occurrence is mostly connected with supergene processes. Some of them are also important constituents of evaporitic potassium-magnesium (K-Mg) salts deposits.
+Bright spots observed by the Dawn Spacecraft in Occator Crater on the dwarf planet Ceres are most consistent with reflected light from magnesium sulfate hexahydrate.<ref name=sanc2015/>
+Almost all known mineralogical forms of MgSO<sub>4</sub> are hydrates. Epsomite is the natural analogue of "Epsom salt". Meridianiite, MgSO<sub>4</sub>·11H<sub>2</sub>O, has been observed on the surface of frozen lakes and is thought to also occur on Mars. Hexahydrite is the next lower (6) hydrate. Three next lower hydrates—pentahydrite, starkeyite, and especially sanderite—are rare. Kieserite is a monohydrate and is common among evaporitic deposits. Anhydrous magnesium sulfate was reported from some burning coal dumps.
+==Preparation==
+Magnesium sulfate is usually obtained directly from dry lake beds and other natural sources. It can also be prepared by reacting magnesite (magnesium carbonate, or magnesia (oxide, with sulfuric acid.
+Another possible method is to treat seawater or magnesium-containing industrial wastes so as to precipitate magnesium hydroxide and react the precipitate with sulfuric acid.
+==Physical properties==
+Magnesium sulfate relaxation is the primary mechanism that causes the absorption of sound in seawater at frequencies above 10&nbsp;kHz <ref></ref> (acoustic energy is converted to thermal energy). Lower frequencies are less absorbed by the salt, so that low frequency sound travels farther in the ocean. Boric acid and magnesium carbonate also contribute to absorption.<ref>Michael A. Ainslie, Principles of Sonar Performance Modeling, p.18</ref>
+==Uses==
+===Medical===
+Magnesium sulfate is used both externally (as Epsom salt) and internally.
+The main external use is the formulation as bath salts, especially for foot baths to soothe sore feet. Such baths have been claimed to also soothe and hasten recovery from muscle pain, soreness, or injury. However, these claims have not been scientifically confirmed. The main benefit of the salt is cosmetic: it prevents the temporary skin wrinkling caused by prolonged immersion in plain water.<ref name=ingra2016/><ref name=wsjdXXXX/> It is also the usual component of the solution used in isolation tanks.
+In the UK, a medication containing magnesium sulfate and phenol, called "drawing paste", is claimed to be useful for small boils or localised infections<ref name=boots2018/> and removing splinters.<ref name=splinter/>
+Internally, magnesium sulfate may be administered by oral, respiratory, or intravenous routes. Internal uses include replacement therapy for magnesium deficiency,<ref name=rxmed2009/> treatment of acute and severe arrhythmias,<ref name=heart2016/> as a bronchodilator in the treatment of asthma,<ref name=blitz2005/> and preventing eclampsia.<ref name=duley2010/>
+===Agriculture===
+In agriculture, magnesium sulfate is used to increase magnesium or sulfur content in soil. It is most commonly applied to potted plants, or to magnesium-hungry crops such as potatoes, tomatoes, carrots, peppers, lemons, and roses. The advantage of magnesium sulfate over other magnesium soil amendments (such as dolomitic lime) is its high solubility, which also allows the option of foliar feeding. Solutions of magnesium sulfate are also nearly pH neutral, compared with alkaline salts of magnesium as found in limestone; therefore, the use of magnesium sulfate as a magnesium source for soil does not significantly change the soil pH.<ref name=pubchem/>
+Magnesium sulfate was historically used as a treatment for lead poisoning prior to the development of chelation therapy, as it was hoped that any lead ingested would be precipitated out by the magnesium sulfate and subsequently purged from the digestive system.<ref name=hcwood/> This application saw particularly widespread use among veterinarians during the early-to-mid 20th century; Epsom salt was already available on many farms for agricultural use, and it was often prescribed in the treatment of farm animals that inadvertently ingested lead.<ref name=Barker1945/><ref name=herriot/>
+===Food preparation===
+Magnesium sulfate is used as a brewing salt in making beer.<ref name=brew2016/> It may also be used as a coagulant for making tofu.<ref name=matsu2000/>
+===Chemistry===
+Anhydrous magnesium sulfate is commonly used as a desiccant in organic synthesis owing to its affinity for water and compatibility with most organic compounds. During work-up, an organic phase is treated with anhydrous magnesium sulfate. The hydrated solid is then removed with filtration, decantation, or distillation (if the boiling point is low enough). Other inorganic sulfate salts such as sodium sulfate and calcium sulfate may be used in the same way.
+===Construction===
+Magnesium sulfate is used to prepare specific cements by the reaction between magnesium oxide and magnesium sulfate solution, which are of good binding ability and more resistance than Portland cement. This cement is mainly adopted in the production of lightweight insulation panels. Weakness in water resistance limits its usage.
+Magnesium (or sodium) sulfate is also used for testing aggregates for soundness in accordance with ASTM C88 standard, when there are no service records of the material exposed to actual weathering conditions. The test is accomplished by repeated immersion in saturated solutions followed by oven drying to dehydrate the salt precipitated in permeable pore spaces. The internal expansive force, derived from the rehydration of the salt upon re-immersion, simulates the expansion of water on freezing.
+===Aquaria===
+Magnesium sulfate heptahydrate is also used to maintain the magnesium concentration in marine aquaria which contain large amounts of stony corals, as it is slowly depleted in their calcification process. In a magnesium-deficient marine aquarium, calcium and alkalinity concentrations are very difficult to control because not enough magnesium is present to stabilize these ions in the saltwater and prevent their spontaneous precipitation into calcium carbonate.<ref name=aqua2006/>
+==Double salts==
+Double salts containing magnesium sulfate exist. There are several known as sodium magnesium sulfates and potassium magnesium sulfates. A mixed copper-magnesium sulfate heptahydrate (Mg,Cu)SO<sub>4</sub>·7H<sub>2</sub>O was recently found to occur in mine tailings and has been given the mineral name alpersite.<ref name=pete2006/>
+==See also==
+* Calcium sulfate
+==References==
+<references>
+<ref name=fort2017>A. Dominic Fortes, Kevin S. Knight, and Ian G. Wood (2017): "Structure, thermal expansion and incompressibility of MgSO4·9H2O, its relationship to meridianiite (MgSO4·11H2O) and possible natural occurrences". Acta Crystallographica Section B: Structureal Science, Crystal Engineering and Materials, volume 73, part 1, pages 47-64. </ref>
+<ref name=buch2000>Industrial Inorganic Chemistry, Karl Heinz Büchel, Hans-Heinrich Moretto, Dietmar Werner, John Wiley & Sons, 2d edition, 2000, </ref>
+<ref name=pubchem></ref>
+<ref name=brew2016></ref>
+<ref name=matsu2000></ref>
+<ref name=aqua2006></ref>
+<ref name=pete2007>R. C. Peterson, W. Nelson, B. Madu, and H. F. Shurvell (2007): "Meridianiite: A new mineral species observed on Earth and predicted to exist on Mars". American Mineralogist, volume 92, issue 10, pages 1756–1759. </ref>
+<ref name=sanc2015></ref>
+<ref name=pete2006></ref>
+<ref name=odoc1995></ref>
+<ref name=boots2018></ref>
+<ref name=splinter></ref>
+<ref name=ingra2016></ref>
+<ref name=wsjdXXXX></ref>
+<ref name=rxmed2009></ref>
+<ref name=heart2016></ref>
+<ref name=blitz2005>.</ref>
+<ref name=duley2010></ref>
+<ref name=fort2012>A. Dominic Fortes, Frank Browning, and Ian G. Wood (2012): "Cation substitution in synthetic meridianiite (MgSO4·11H2O) I: X-ray powder diffraction analysis of quenched polycrystalline aggregates". Physics and Chemistry of Minerals, volume 39, issue , pages 419–441. </ref>
+<ref name=hcwood></ref>
+<ref name=Barker1945></ref>
+<ref name=herriot></ref>
+</references>
+==External links==
+* urltoken International Chemical Safety Cards—Magnesium Sulfate
+
+Magnesium sulfate or magnesium sulphate (in British English) is a chemical compound, a salt with the formula , consisting of magnesium cations (20.19% by mass) and sulfate anions . It is a white crystalline solid, soluble in water but not in ethanol.
+Magnesium sulfate is usually encountered in the form of a hydrate , for various values of n between 1 and 11. The most common is the heptahydrate , known as Epsom salt, which is a household chemical with many traditional uses, including bath salts.<ref name=wsjdXXXX/>
+The main use of magnesium sulfate is in agriculture, to correct soils deficient in magnesium (an essential plant nutrient). The monohydrate is favored for this use; by the mid 1970s, its production was 2.3 million tons per year.<ref name=buch2000/> The hydrate form and several hydrates occur in nature as minerals, and the salt is a significant component of the water from some springs.

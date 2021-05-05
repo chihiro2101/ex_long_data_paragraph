@@ -1,0 +1,62 @@
+BitTorrent
+
+===Throttling and encryption===
+Since BitTorrent makes up a large proportion of total traffic, some ISPs have chosen to "throttle" (slow down) BitTorrent transfers. For this reason, methods have been developed to disguise BitTorrent traffic in an attempt to thwart these efforts.<ref></ref> Protocol header encrypt (PHE) and BitTorrent protocol encryption are features of some BitTorrent clients that attempt to make BitTorrent hard to detect and throttle. As of November 2015, Vuze, Bitcomet, KTorrent, Transmission, Deluge, μTorrent, MooPolice, Halite, qBittorrent, rTorrent, and the latest official BitTorrent client (v6) support MSE/PE encryption.
+In August 2007, Comcast was preventing BitTorrent seeding by monitoring and interfering with the communication between peers. Protection against these efforts is provided by proxying the client-tracker traffic via an encrypted tunnel to a point outside of the Comcast network.<ref>, TorrentFreak, 17 August 2007.</ref> In 2008, Comcast called a "truce" with BitTorrent, Inc. with the intention of shaping traffic in a protocol-agnostic manner.<ref></ref> Questions about the ethics and legality of Comcast's behavior have led to renewed debate about net neutrality in the United States.<ref></ref> In general, although encryption can make it difficult to determine what is being shared, BitTorrent is vulnerable to traffic analysis. Thus, even with MSE/PE, it may be possible for an ISP to recognize BitTorrent and also to determine that a system is no longer downloading but only uploading data, and terminate its connection by injecting TCP RST (reset flag) packets.
+===Multitracker===
+Another unofficial feature is an extension to the BitTorrent metadata format proposed by John Hoffman<ref></ref> and implemented by several indexing websites. It allows the use of multiple trackers per file, so if one tracker fails, others can continue to support file transfer. It is implemented in several clients, such as BitComet, BitTornado, BitTorrent, KTorrent, Transmission, Deluge, μTorrent, rtorrent, Vuze, and Frostwire. Trackers are placed in groups, or tiers, with a tracker randomly chosen from the top tier and tried, moving to the next tier if all the trackers in the top tier fail.
+Torrents with multiple trackers can decrease the time it takes to download a file, but also have a few consequences:
+* Poorly implemented<ref></ref> clients may contact multiple trackers, leading to more overhead-traffic.
+* Torrents from closed trackers suddenly become downloadable by non-members, as they can connect to a seed via an open tracker.
+==Implementations==
+The BitTorrent specification is free to use and many clients are open source, so BitTorrent clients have been created for all common operating systems using a variety of programming languages. The BitTorrent (software), μTorrent, qBittorrent, Transmission, Vuze, and BitComet are some of the most popular clients.<ref></ref><ref></ref><ref></ref><ref></ref>
+Some BitTorrent implementations such as MLDonkey and Torrentflux are designed to run as servers. For example, this can be used to centralize file sharing on a single dedicated server which users share access to on the network.<ref></ref> Server-oriented BitTorrent implementations can also be hosted by hosting providers at co-located facilities with high bandwidth Internet connectivity (e.g., a datacenter) which can provide dramatic speed benefits over using BitTorrent from a regular home broadband connection. Services such as ImageShack can download files on BitTorrent for the user, allowing them to download the entire file by HTTP once it is finished.
+The Opera web browser supports BitTorrent,<ref></ref> as does Wyzo and Brave.<ref></ref> BitLet allows users to download Torrents directly from their browser using a Java applet. An increasing number of hardware devices are being made to support BitTorrent. These include routers and NAS devices containing BitTorrent-capable firmware like OpenWrt. Proprietary versions of the protocol which implement DRM, encryption, and authentication are found within managed clients such as Pando.
+==Development==
+An unimplemented unofficial feature is Similarity Enhanced Transfer (SET), a technique for improving the speed at which peer-to-peer file sharing and content distribution systems can share data. SET, proposed by researchers Pucha, Andersen, and Kaminsky, works by spotting chunks of identical data in files that are an exact or near match to the one needed and transferring these data to the client if the "exact" data are not present. Their experiments suggested that SET will help greatly with less popular files, but not as much for popular data, where many peers are already downloading it.<ref></ref> Andersen believes that this technique could be immediately used by developers with the BitTorrent file sharing system.<ref></ref>
+, BitTorrent, Inc. is working with Oversi on new Policy Discover Protocols that query the ISP for capabilities and network architecture information. Oversi's ISP hosted NetEnhancer box is designed to "improve peer selection" by helping peers find local nodes, improving download speeds while reducing the loads into and out of the ISP's network.<ref></ref>
+==Legal issues==
+Although the protocol itself is legal,<ref></ref> problems stem from using the protocol to traffic copyright infringing works, since BitTorrent is often used to download otherwise paid content, such as movies and video games. There has been much controversy over the use of BitTorrent trackers. BitTorrent metafiles themselves do not store file contents. Whether the publishers of BitTorrent metafiles violate copyrights by linking to copyrighted works without the authorization of copyright holders is controversial. Various jurisdictions have pursued legal action against websites that host BitTorrent trackers.
+High-profile examples include the closing of Suprnova.org, TorrentSpy, LokiTorrent, BTJunkie, Mininova, Oink's Pink Palace and What.cd. The Pirate Bay torrent website, formed by a Swedish group, is noted for the "legal" section of its website in which letters and replies on the subject of alleged copyright infringements are publicly displayed. On 31 May 2006, The Pirate Bay's servers in Sweden were raided by Swedish police on allegations by the MPAA of copyright infringement;<ref></ref> however, the tracker was up and running again three days later. In the study used to value NBC Universal in its merger with Comcast, Envisional examined the 10,000 torrent swarms managed by PublicBT which had the most active downloaders. After excluding pornographic and unidentifiable content, it was found that only one swarm offered legitimate content.<ref></ref>
+In the United States, more than 200,000 lawsuits have been filed for copyright infringement on BitTorrent since 2010.<ref></ref> On 30 April 2012, the High Court of Justice ordered five ISPs to block BitTorrent search engine The Pirate Bay.<ref></ref> (see List of websites blocked in the United Kingdom)
+==Security problems==
+One concern is the UDP flood attack. BitTorrent implementations often use μTP for their communication. To achieve high bandwidths, the underlying protocol used is UDP, which allows spoofing of source addresses of internet traffic. It has been possible to carry out Denial-of-service attacks in a P2P lab environment, where users running BitTorrent clients act as amplifiers for an attack at another service.<ref></ref> However this is not always an effective attack because ISPs can check if the source address is correct.
+==Challenges==
+"Leeches", are those users who download more than they share. As BitTorrent is a collaborative distributed platform, there is a section of the community that wants solutions to punish and discourage such behaviour.<ref></ref>
+==Malware==
+Several studies on BitTorrent found files containing malware, available for download. In particular, one small sample<ref></ref> indicated that 18% of all executable programs available for download contained malware. Another study<ref></ref> claims that as much as 14.5% of BitTorrent downloads contain zero-day malware, and that BitTorrent was used as the distribution mechanism for 47% of all zero-day malware they have found.
+==See also==
+* Anonymous P2P
+* Napster
+* Gnutella
+* Anti-Counterfeiting Trade Agreement
+* Bencode
+* Cache Discovery Protocol
+* Comparison of BitTorrent clients
+* Comparison of BitTorrent sites
+* Comparison of BitTorrent tracker software
+* FastTrack
+* Glossary of BitTorrent terms
+* Magnet URI scheme
+* Micro Transport Protocol
+* Peer-to-peer file sharing
+* Segmented file transfer
+* Simple file verification
+* Super-seeding
+* Torrent file
+* Torrent poisoning
+* VPN
+==References==
+==Further reading==
+* 
+==External links==
+* 
+* urltoken Specification
+* 
+* urltoken Interview with chief executive Ashwin Navin
+* urltoken Unofficial BitTorrent Protocol Specification v1.0 at wiki.theory.org
+* urltoken Unofficial BitTorrent Location-aware Protocol 1.0 Specification at wiki.theory.org
+* 
+*
+
+The RSS feed will track the content, while BitTorrent ensures content integrity with cryptography hashing of all data, so feed subscribers will receive uncorrupted content. One of the first and popular software clients (free and open source) for broadcatching is Miro. Other free software clients such as PenguinTV and KatchTV are also now supporting broadcatching. The BitTorrent web-service MoveDigital added the ability to make torrents available to any web application capable of parsing XML through its standard REST-based interface in 2006,<ref> Documentation.</ref> though this has since been discontinued. Additionally, Torrenthut is developing a similar torrent API that will provide the same features, and help bring the torrent community to Web 2.0 standards. Alongside this release is a first PHP application built using the API called PEP, which will parse any Really Simple Syndication (RSS 2.0) feed and automatically create and seed a torrent for each enclosure found in that feed.<ref> via Internet Wayback Machine.</ref>

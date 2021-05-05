@@ -1,0 +1,147 @@
+Civil service
+
+== History ==
+===In China===
+The origin of the modern meritocratic civil service can be traced back to Imperial examination founded in Imperial China.<ref name="China Imperial"></ref> The Imperial exam based on merit was designed to select the best administrative officials for the state's bureaucracy.<ref name="Imperial China"></ref> This system had a huge influence on both society and culture in Imperial China and was directly responsible for the creation of a class of scholar-bureaucrats irrespective of their family pedigree.<ref name="Confucian civil service"></ref>
+Originally appointments to the bureaucracy were based on the patronage of aristocrats; During Han dynasty, Emperor Wu of Han established the xiaolian system of recommendation by superiors for appointments to office. In the areas of administration, especially the military, appointments were based solely on merit. This was an early form of the imperial examinations, transitioning from inheritance and patronage to merit, in which local officials would select candidates to take part in an examination of the Confucian classics.<ref name="Confucian civil service"/> After the fall of the Han dynasty, the Chinese bureaucracy regressed into a semi-merit system known as the nine-rank system.
+This system was reversed during the short-lived Sui dynasty (581–618), which initiated a civil service bureaucracy recruited through Imperial examination and recommendation. The first civil service examination system was established by Emperor Wen of Sui. Emperor Yang of Sui established a new category of recommended candidates for the mandarinate in AD 605. The following Tang dynasty (618–907) adopted the same measures for drafting officials, and decreasingly relied on aristocratic recommendations and more and more on promotion based on the results of written examinations. The structure of the examination system was extensively expanded during the reign of Wu Zetian.<ref>Ann Paludan (1998). Chronicle of the Chinese Emperors: The Reign-by-Reign Record of the Rulers of Imperial China. New York, New York: Thames and Hudson. </ref>
+The system reached its apogee during the Song dynasty.<ref></ref>
+In theory, the Chinese civil service system provided one of the main avenues for social mobility in Chinese society, although in practice, due to the time-consuming nature of the study, the examination was generally only taken by sons of the landed gentry.<ref name="China civil service"></ref> The examination tested the candidate's memorization of the Four Books and Five Classics and his ability to compose poetry using fixed and traditional forms and calligraphy. It was ideally suited to literary candidates. Thus, toward the end of the Ming Dynasty, the system attracted the candidature of Tang Xianzu (1550-1616). Tang at 14 passed the imperial examination at the county level; and at 21, he did so at the provincial level; but not until he was 34 did he pass at the national level. However, he had already become a well-known poet at age 12, and among other things he went on to such distinction as a profound literati and dramatist that it would not be far-fetched to regard him as China's answer to William Shakespeare: Wang Rongpei and Zhang Ling (eds), The Complete Works of Tang Xianzu (2018). In the late 19th century, however, the system increasingly engendered internal dissatisfaction, and was criticized as not reflecting candidates' ability to govern well, and for giving undue weight to style over content and originality of thought. Indeed, long before its abandonment, the notion of the imperial system as a route to social mobility was somewhat mythical. In Tang's magnum opus, The Peony Pavilion, sc 13, Leaving Home, the male lead, Liu Mengmei, laments: 'After twenty years of studies, I still have no hope of getting into office', and on this point Tang may be speaking through Liu as his alter ego. The system was finally abolished by the Qing government in 1905 as part of the New Policies reform package.
+The Chinese system was often admired by European commentators from the 16th century onward.<ref></ref> However, the Chinese imperial examination system was hardly universally admired by all Europeans who knew of it. In a debate in the unelected chamber of the UK parliament on March 13, 1854, John Browne 'pointed out clearly with some disdain that the only precedent for appointing civil servants by literary exams was that of the Chinese government': Coolican (2018), ch.5: The Northcote-Trevelyan Report, pp106–107.
+===Modern civil service===
+In the 18th century, in response to economic changes and the growth of the British Empire, the bureaucracy of institutions such as the Office of Works and the Navy Board greatly expanded. Each had its own system, but in general, staff were appointed through patronage or outright purchase. By the 19th century, it became increasingly clear that these arrangements were falling short. "The origins of the British civil service are better known. During the eighteenth century a number of Englishmen wrote in praise of the Chinese examination system, some of them going so far as to urge the adoption for England of something similar. The first concrete step in this direction was taken by the British East India Company in 1806."<ref name=Bodde/> In that year, the Honourable East India Company established a college, the East India Company College, near London to train and examine administrators of the Company's territories in India.<ref>(Bodde 2005)</ref> "The proposal for establishing this college came, significantly, from members of the East India Company's trading post in Canton, China."<ref name=Bodde/> Examinations for the Indian "civil service"—a term coined by the Company—were introduced in 1829.<ref></ref>
+British efforts at reform were influenced by the imperial examinations system and Meritocracy of China. Thomas Taylor Meadows, Britain's consul in Guangzhou, China argued in his Desultory Notes on the Government and People of China, published in 1847, that "the long duration of the Chinese empire is solely and altogether owing to the good government which consists in the advancement of men of talent and merit only," and that the British must reform their civil service by making the institution meritocratic.<ref name=Bodde></ref> On the other hand, John Browne, in the 1854 debate mentioned above, 'argued that elegant writing had become an end in itself, and the stultifying effect of this on the Chinese civil service had contributed in no small measure to China's failure to develop its early lead over Western civilisations': Coolican, p107.
+In 1853 the Chancellor of the Exchequer William Gladstone, commissioned Sir Stafford Northcote and Charles Trevelyan to look into the operation and organisation of the Civil Service. Influenced by the Chinese imperial examinations, the Northcote–Trevelyan Report of 1854 made four principal recommendations: that recruitment should be on the basis of merit determined through competitive examination, that candidates should have a solid general education to enable inter-departmental transfers, that recruits should be graded into a hierarchy and that promotion should be through achievement, rather than "preferment, patronage or purchase". It also recommended a clear division between staff responsible for routine ("mechanical") work, and those engaged in policy formulation and implementation in an "administrative" class.<ref name="APH">Kazin, Edwards, and Rothman (2010), 142.</ref>
+The report was well-timed, because bureaucratic chaos during the Crimean War was causing a clamour for the change. The report's conclusions were immediately implemented, and a permanent, unified and politically neutral civil service was introduced as Her Majesty's Civil Service. A Civil Service Commission was also set up in 1855 to oversee open recruitment and end patronage, and most of the other Northcote–Trevelyan recommendations were implemented over some years.<ref></ref> Or so one version of the story goes.
+There are, however, more nuanced ways to tell the tale.
+< Despite civil servants' many similarities, there also exists sic a great divide between the very small number of top mandarins and the very great number of more junior staff. . the conventional wisdom is that this divide was the work of Sir Stafford Northcote and Sir Charles Trevelyan, but once you start poking around in the archives the story turns out to be rather more complicated. . What is surprising is that, as originally drafted, the report contained only the most meagre proposals for establishing entry to the civil service via a competitive literary exam - one for intellectuals and one for mechanicals. There was such a proposal but it did not extend to departments subordinate to the Treasury. . Gladstone warmly supported other aspects of the report but criticised its limited attack on patronage. . He wanted the principle of competition 'sanctioned in its full breadth', and applied to the Treasury 'with unsparing vigour' and when the amended report was published nearly a year later it proposed to apply the competitive principle to all departments. . Early in 1854, Prime Minister Russell wrote to Gladstone to say he hoped Gladstone was 'not thinking seriously of the plan of throwing open to competition the whole civil service of this country'. . The departmental heads, in their response to the report, also criticised the thinking underlying the proposals for change. the Northcote-Trevelyan report was dead in the water. . In the face of opposition from top civil servants, and a distinct lack of enthusiasm on the part of most ministers - particularly the Prime Minister - Gladstone was not inclined to push the matter too hard. The idea of a central competitive exam was dropped, along with most of the other proposals. Only one other proposal was put into effect; in 1854. the Cabinet agreed to the creation of a central examining board. A year later the Civil Service Commission was established .>
+~ Coolican, op. cit., pp 4, 95, 96, 105, 110, 112
+The same model, the Imperial Civil Service, was implemented in British India from 1858, after the demise of the East India Company's rule in India through the Indian Rebellion of 1857 which came close to toppling British rule in the country.<ref></ref>
+The Northcote–Trevelyan model remained essentially stable for a hundred years. This was a tribute to its success in removing corruption, delivering public services (even under the stress of two world wars), and responding effectively to political change. It also had a great international influence and was adapted by members of the Commonwealth. The Pendleton Civil Service Reform Act established a modern civil service in the United States, and by the turn of the 20th century almost all Western governments had implemented similar reforms.
+==By country==
+=== Americas ===
+====Brazil====
+Civil servants in Brazil are those working in the executive, legislative, and judicial branches of the Brazil, state, Federal District or municipal governments, including congressmen, senators, mayors, ministers, the president of the republic, and workers in government-owned corporations.
+Career civil servants (not temporary workers or politicians) are hired only externally on the basis of entrance examinations .<ref></ref> It usually consists of a written test; some posts may require physical tests (such as policemen), or oral tests (such as professors, judges, prosecutors and attorneys). The rank according to the examination score is used for filling the vacancies.
+Entrance examinations are conducted by several institutions with a government mandate, such as CESPE (which belongs to the University of Brasília) and the Cesgranrio Foundation (which is part of the Federal University of Rio de Janeiro).
+The labor laws and social insurance for civil servants are different from private workers; even between government branches (like different states or cities), the law and insurance differ.
+The posts usually are ranked by titles, the most common are technician for high school literates and analyst for undergraduates. There's also higher post ranks like auditor, fiscal, chief of police, prosecutor, judge, attorney, etc.
+The law does not allow servants to upgrade or downgrade posts internally; they need to be selected in separate external entrance examinations.
+====Canada====
+Historians have explored the powerful role of civil service since the 1840s.<ref>R. MacGregor Dawson, The Civil Service of Canada (1929); Jack Granatstein, The Ottawa Men: The Civil Service Mandarins, 1935-1957 (Oxford UP, 1982); J.E. Hodgetts, Pioneer Public Service: An Administrative History of United Canada, 1841-1867. (U of Toronto Press, 1955).</ref>
+In Canada, the civil service at the federal level is known as the Public Service of Canada, with each of the ten provincial governments as well as the three territorial governments also having their own separate civil services. The federal civil service consists of all employees of the crown except for ministers' exempt staff, members of the Royal Canadian Mounted Police, and members of the Canadian Armed Forces as they are not civil servants.<ref name="pop"></ref> There are approximately 257,000 federal civil servants (2015),<ref name="pop" /> and more than 350,000 employees at the provincial and territorial levels.<ref></ref>
+==== United States ====
+In the United States, the federal civil service was established in 1871. The Federal Civil Service is defined as "all appointive positions in the executive, judicial, and legislative branches of the Government of the United States, except positions in the uniformed services." . In the early 19th century, government jobs were held at the pleasure of the president — a person could be fired at any time. The spoils system meant that jobs were used to support the political parties. This was changed in slow stages by the Pendleton Civil Service Reform Act of 1883 and subsequent laws. By 1909, almost two thirds of the U.S. federal work force was appointed based on merit, that is, qualifications measured by tests. Certain senior civil service positions, including some heads of diplomatic missions and executive agencies, are filled by political appointees. Under the Hatch Act of 1939, civil servants are not allowed to engage in political activities while performing their duties.
+The U.S. civil service includes the competitive service and the excepted service. The majority of civil service appointments in the U.S. are made under the competitive service, but the Foreign Service, the FBI, and other National Security positions are made under the excepted service. (U.S. Code Title V)
+U.S. state and local government entities often have competitive civil service systems that are modeled on the national system, in varying degrees.
+As of January 2007, the federal government, excluding the Postal Service, employed about 1.8 million civilian workers. The federal government is the nation's single largest employer, although it employs only about 12% of all government employees, compared to 24% at the state level and 63% at the local level.<ref></ref> Although most federal agencies are based in the Washington, D.C. region, only about 16% (or about 284,000) of the federal government workforce is employed in this region.<ref></ref>
+As of 2014, there are currently 15 federal executive branch agencies and hundreds of subagencies.<ref></ref>
+=== Asia ===
+====Cambodia====
+The Civil Service , Sevakamm Civil) of Cambodia is the policy implementing arm of the Royal Government of Cambodia. In executing this important role, each civil servant , Montrey Reachkar) is
+obligated to act according to the law and is guided by public policy pronouncements. The Common Statute of Civil Servants is the primary legislative framework for the Civil Service in Cambodia.<ref> urltoken 
+====China====
+===== History =====
+One of the oldest examples of a civil service based on meritocracy is the Imperial bureaucracy of China, which can be traced as far back as the Qin dynasty (221–207 BC).
+However, the civil service examinations were practiced on a much smaller scale in comparison to the stronger, centralized bureaucracy of the Song dynasty (960–1279). In response to the regional military rule of jiedushi and the loss of civil authority during the late Tang period and Five Dynasties (907–960), the Song emperors were eager to implement a system where civil officials would owe their social prestige to the central court and gain their salaries strictly from the central government. This ideal was not fully achieved since many scholar officials were affluent landowners and were engaged in many anonymous business affairs in an age of Economy of the Song dynasty. Nonetheless, gaining a degree through three levels of examination—prefectural exams, provincial exams, and the prestigious palace exams—was a far more desirable goal in society than becoming a merchant. This was because the mercantile class was traditionally regarded with some disdain by the scholar-official class.
+This class of state bureaucrats in the Song period were far less aristocratic than their Tang predecessors. The examinations were carefully structured in order to ensure that people of lesser means than what was available to candidates born into wealthy, landowning families were given a greater chance to pass the exams and obtain an official degree. This included the employment of a bureau of copyists who would rewrite all of the candidates' exams in order to mask their handwriting and thus prevent favoritism by graders of the exams who might otherwise recognize a candidate's handwriting. The advent of widespread printing in the Song period allowed many more examination candidates access to the Confucian texts whose mastery was required for passing the exams.
+===== Current =====
+Hong Kong and Macau have separate civil service systems:
+* Hong Kong Civil Service
+* Secretariat for Administration and Justice is responsible for the civil service in Macau
+====India====
+In India, the Civil Service is defined as "appointive positions by the Government in connection with the affairs of the Union and includes a civilian in a Defence Service, except positions in the Indian Armed Forces." The members of civil service serve at the pleasure of the President of India and Article 311 of the constitution protects them from politically motivated or vindictive action.
+The Civil Services of India can be classified into three types—the All India Services, the Central Civil Services (Group A and B) and State/Provincial Civil Services. The recruits are university graduates (or above) selected through a rigorous system of examinations, called the Civil Services Examination (CSE) and its technical counterpart known as the Engineering Services Examination (ESE) both conducted by the Union Public Service Commission (UPSC). The entry into the State Civil Services is through a competitive examination conducted by every state public service commission.
+Senior positions in civil service are listed and named in the Indian order of precedence.
+==== Japan ====
+====Pakistan====
+In Pakistan the FPSC (Federal Public Service Commission) conducts a competitive examination for the Central Superior Services of Pakistan and other civil-service posts; Pakistan inherited this system from the British Raj-era Indian Civil Service.
+Pakistan has federal civil servants serving in federal government offices, with staff selected through the Federal Public Service Commission. Similarly, Pakistani provinces select their own public servants through provincial Public Service Commissions. The federal services have some quota against provincial posts, while provincial services have some quota in federal services.
+====Taiwan====
+The ROC constitution specifies that public servant cannot be employed without examination. The employment is usually lifelong (that is, until age about retirement).
+=== Europe ===
+====France====
+The civil service in France (fonction publique) is often incorrectly considered to include all government employees including employees of public corporations, such as SNCF.
+Public sector employment is classified into three services; State service, Local service and Hospital service. According to government statistics there were 5.5 million public sector employees in 2011.<ref></ref><ref></ref>
+Civil servants in the devolved government in Northern Ireland are not part of the Home Civil Service, but constitute the separate Northern Ireland Civil Service. Some employees of the Foreign and Commonwealth Office are members of HM Diplomatic Service, which is associated with but separate from the Civil Service.
+====European Union====
+The European Civil Service administers the institutions of the European Union, of which the largest employer is the European Commission.
+Civil servants are recruited directly into the institutions after being selected by competitions set by EPSO, the official selection office. They are allocated to departments, known as Directorate-General (DGs), each covering one or more related policy areas.
+== Civil service independence ==
+Autocracy systems of government (such as monarchies) can favour appointments to administrative positions on the basis of nepotism, patronage and favoritism, with cronyism. Early Roman emperors, for example, set their household slaves and freedmen much of the task of administering the Empire,<ref>
+Compare:
+</ref>
+sidelining the Cursus honorum who continued the traditions of the Roman Republic. But the political appointment of bureaucrats can run the risk of tolerating inefficiency and corruption, with officials feeling secure in the protection of their political masters and possibly immune from prosecution for bribe taking. Song dynasty China (960–1279) standardised imperial examination as a basis for civil-service recruitment and promotion, and in the 19th century administrations in France and Britain followed suit. Agitation against the spoils system in the United States of America resulted in increasing the independence of the civil service – seen as an important principle in modern times.<ref>
+</ref>
+In Germany, the Gesetz zur Wiederherstellung des Berufsbeamtentums of April 1933 re-affirmed the principle of an independent civil service by insisting on training<ref>
+</ref> (along with political and racial credentials).<ref>
+Compare:
+</ref>
+Some governmental structures include a
+civil service commission (or equivalent) whose functions include maintaining the work and rights of civil servants at arm's length from potential politicisation or political interference.<ref>
+Compare:
+</ref>
+Compare the governance-administrative integration of Stalin's Orgburo.
+==See also==
+===General===
+* Civic technology
+* Civil service commission
+* Civil service examination
+* Civil service organisation
+* Community service
+* Public service
+===By continent or region===
+* Civil service reform in developing countries e.g. Nigeria, Congo, etc.
+====Africa====
+* Nigerian Civil Service
+** Civil Service Commission of Nigeria
+** Rivers State Civil Service
+====Asia====
+* Civil Service of the People's Republic of China
+* Civil Services of India
+** Civil Service in early India
+** Civil Services of Tamil Nadu
+* Civil service of Japan
+* Civil service in Malaysia
+* Civil Services of Pakistan
+* Civil Service Commission (Philippines)
+* Civil Service of Singapore
+====Europe====
+* Civil Service of the European Union
+* Civil Service of Germany
+* Civil Service of the Republic of Ireland
+* Civil Service (United Kingdom)
+** Civil Service Commission
+** Civil Service Commission (Isle of Man)
+* Civil Service Restoration Act
+====North America====
+* Public Service of Canada
+** Minister responsible (Manitoba)
+* Civil service in the United States
+** Civil Service Commission
+* Civil service reform
+* Civil service reform act
+* Civil Service Reform Act of 1978
+====Oceania====
+* Australian Public Service
+* New Zealand Public Service Departments
+====South America====
+* Civil service in Brazil
+===Pay and benefits===
+* Performance-related pay
+* Pay-for-Performance (Federal Government)
+** Pay for performance (healthcare)
+** Pay to play
+* Performance-related pay
+* Incentive program
+====United States====
+* Civil Service Retirement System
+* Merit pay&nbsp;(Federal Government Merit Pay)
+* Pay-for-Performance (Federal Government)
+* Pay for performance (human resources)
+* 2014 Veterans Health Administration scandal
+
+The civil service is a collective term for a sector of government composed mainly of career civil servants hired on professional merit rather than appointed or elected, whose institutional tenure typically survives transitions of political leadership. A civil servant is a person employed in the public sector by a government department or agency or public sector undertakings . Civil servants work for central government and state governments, & answer to the government, not a political party.<ref></ref><ref></ref> The extent of civil servants of a state as part of the "civil service" varies from country to country. In the United Kingdom, for instance, only Crown (national government) employees are referred to as civil servants whereas employees of Local Authorities (counties, cities and similar administrations) are generally referred to as "local government civil service officers" who, are civil servants and public servants. A civil servant is a public servant but a public servant is not necessarily civil servant.
+The study of the civil service is a part of the field of public service. Staff members in "non-departmental public bodies" (sometimes called "Quango") may also be classed as civil servants for the purpose of statistics and possibly for their terms and conditions. Collectively a state's civil servants form its civil service or public service.
+An international civil servant or international staff member is a civilian employee who is employed by an intergovernmental organization. These international civil servants do not resort under any national legislation (from which they have immunity of jurisdiction) but are governed by internal staff regulations. All disputes related to international civil service are brought before special tribunals created by these international organizations such as, for instance, the Administrative Tribunal of the ILO.
+Specific referral can be made to the International Civil Service Commission (ICSC) of the United Nations, an independent expert body established by the United Nations General Assembly. Its mandate is to regulate and coordinate the conditions of service of staff in the United Nations common system, while promoting and maintaining high standards in the international civil service.

@@ -1,0 +1,78 @@
+Spelling
+
+== Spelling standards and conventions ==
+Standardization of spelling is connected with the development of writing and the establishment of modern standard language.<ref></ref><ref></ref> Languages with established orthography are those languages that enjoy an official status and a degree of institutional support in a country. Therefore, normative spelling is a relatively recent development linked to the compiling of dictionaries, the founding of national academies and other institutions of language maintenance, including widespread education and literacy, and often does not apply to minority and regional languages.
+In countries or regions where there is an authoritative language academy, such as France, the Netherlands, and the German-speaking areas, reforms are regularly made so that spelling better matches the changing pronunciation.
+Examples include:
+* German orthography reform of 1996 
+* Portuguese spelling reform
+* French rectifications orthographiques of 1990.
+English-language spelling reform proposals have been regularly made since the 16th century, but have made little impact apart from a few spellings preferred by Noah Webster having contributed to American and British English spelling differences.
+== Methodology ==
+===Learning===
+Learning proper spelling by rote is a traditional element of elementary education and divergence from standard spelling is often perceived as an indicator of low intelligence, illiteracy, or lower class standing.<ref> urltoken 1992: Gaffe with an 'e' at the end, by Paul Mickle / The Trentonian</ref>
+Spelling tests are commonly used to assess a student's mastery over the words in the spelling lessons the student has received so far. They can also be an effective practice method. Spelling bees are competitions to determine the best speller of a group. Prominent spelling bees are even televised, such as the National Spelling Bee in the United States.
+===Alteration===
+Divergent spelling is a popular advertising technique, used to attract attention or to render a trademark "suggestive" rather than "merely descriptive." The pastry chains Dunkin' Donuts and Krispy Kreme, for example, employ non-standard spellings.
+===Misspellings===
+thumb
+While some words admit multiple spellings, some spellings are not considered standard. These are commonly called "misspellings". A misspelled word can be a series of letters that represents no correctly spelled word of the same language at all (such as "leik" for "like") or a correct spelling of another word (such as writing "here" when one means "hear", or "no" when one means "know"). Misspellings of the latter type is called "atomic typo" and it can easily make their way into printed material because they are not caught by simple computerized spell checkers.
+Misspellings may be due to typos (e.g. the transposition error teh for the), lack of knowledge of the normative spelling, or lack of concern over spelling rules at all. Whether or not a word is misspelled may depend on context and the orthographic conventions adopted, as is the case with American / British English distinctions. Misspelling can also be a matter of opinion when variant spellings are accepted by some and not by others. For example, "miniscule" (for "minuscule") is a misspelling to many,<ref> urltoken "minuscule", Merriam Webster's Online Dictionary; states that this spelling is "widely regarded as an error"</ref> and yet it is listed as an acceptable variant in some dictionaries.<ref> urltoken "minuscule", The American Heritage Dictionary of the English Language</ref><ref> urltoken "minuscule", Cambridge Dictionary of American English</ref>
+A well-known Internet scam involves the registration of domain names that are deliberate misspellings of well-known corporate names to mislead or defraud. The practice is commonly known as "typosquatting."<ref> urltoken "Typosquatters Act May Apply to Misspelling Domain Names to Mislead Surfers", Shari Claire Lewis, New York Law Journal, September 15, 2004,</ref>
+=== 383 spellings of the word presbyterian ===
+According to Ghil'ad Zuckermann, in the Australian 1976 Population Census, Presbyterian Australians used 383 different spellings to describe their own denomination. For example: presbeterian, prespertarian, prespreterian, presbiterian, presbyrterian, presbytarians, presybyterian, presybeterian, presyterian, presbytrian, prespeterian, prebyterian, presbytarian, presbyerian, presbertarian, presbetraian, presybartian, presyberian, prysbyterian, presbyterian, presbetarian, presbaterian, prebytarian, prebysterian, presbertain, preysbyerian, presbitarin, prsbyterian.<ref name=Revivalistics></ref>
+=== Notable English misspellings in history ===
+<!--
+NOTE TO EDITORS
+Please do not include "wrong" transliterations from other languages here! For example, somebody included "Hercules" as a misspelling for the Greek hero known as "Heracles" in the Greek language. Hercules is the Latin version, that's all. Same with names that are radically different from language to language – Confucius / Kong Fuzi are two different ways of romanizing the same name, and while Kong Fuzi certainly sounds closer to the original, it's not that Confucius is any more "wrong" than calling Deutschland "Germany" in English.
+-->
+* Cleveland, Ohio &ndash; the leader of the crew that surveyed the town's territory was General Moses Cleaveland, and the region was named in his honor; reportedly the town's first newspaper, the Cleveland Advertiser, could not fit the town's name in its masthead without removing the first "a" from the name.<ref> urltoken Ohio, p. 138, Victoria Sherrow, Marshall Cavendish, 2008</ref>
+* Google &ndash; accidental misspelling of googol.<ref> urltoken QI: Quite Interesting facts about 100, telegraph.co.uk</ref> According to Google's vice president, as quoted on a BBC The Money Programme documentary, January 2006, the founders &ndash; noted for their poor spelling &ndash; registered Google as a trademark and web address before someone pointed out that it was not correct. It's possible Google took this spelling from Steve Martin's "Googlephonics" track from his 1979 album "Comedy Is Not Pretty." In it, he described Googlephonic as being ".the highest number of speakers before infinity." 
+* Ovaltine, a popular bedtime drink in the UK and Australia, came about because someone misspelled the original name Ovomaltine on the trademark documentation.
+* Referer &ndash; common misspelling of the word referrer. It is so common that it made it into the official specification of HTTP – the communication protocol of the World Wide Web – and has, therefore, become the standard industry spelling when discussing HTTP referers.<ref> urltoken referer – Definitions from Dictionary.com</ref>
+*Sequim, Washington &ndash; "In 1879 the first post office was built and named 'Seguin' for the surrounding area. . In 1907, due to a Postal Official's error in reading an official report, the post office was titled 'Seguim' for approximately a month. With the next report, the Official read the letter 'g' as a 'q' and the post office here became known as 'Sequim.' The name change did not worry the residents enough to protest. It has been known as Sequim ever since."<ref></ref>
+* According to some, the name of Quartzsite, a mining town in Arizona, was spelled wrongly. It should be Quartzite, after the mineral quartzite.<ref> urltoken Town of Quartzsite 2003 General Plan</ref>
+* Zenith &ndash; Arabic zamt was misread; in Latin letters, at the time, the letter i was never dotted, so "m" looked like "ni".<ref>Norbury, J. K. W. Word Formation in the Noun and Adjective.</ref>
+* Arab, Alabama &ndash; This town in north Alabama was named Arad, after its founder, Arad Thompson, but the name was misspelled on a US Post Office map as "Arab", and the misspelled name stuck.
+==See also==
+* Dyslexia
+* Eye dialect
+* Grapheme
+* Official script
+* Orthography
+* Phonetic spelling
+* Pronunciation spelling
+* Register (sociolinguistics)
+* Spell checker
+* Spelling bee
+* Spelling pronunciation
+* Spelling reform
+;English spelling
+* American and British English spelling differences
+* English orthography
+* English terms with diacritical marks
+* English spelling reform
+* Pronunciation respelling for English
+* Commonly misspelled English words
+* Frequently misused words
+;Other languages
+* 
+* List of languages by writing system
+* French orthography
+* German orthography
+* Greek orthography
+* Hangul orthography
+* Italian orthography
+* Latin spelling and pronunciation
+* Russian orthography
+* Spanish orthography
+==References==
+==Further reading==
+* 
+* 
+==External links==
+*Ford, O.T. urltoken BASIC LINGUISTICS OF ENGLISH. The Stewardship Project. (Concept of spelling)
+*
+
+Spelling is a set of conventions that regulate the way of using graphemes to represent a language in its written form.<ref>Coulmas, F. (1996), The Blackwell Encyclopedia of Writing Systems, Oxford:Blackwells</ref> In other words, spelling is the rendering of speech sound (phoneme) into writing (grapheme). Spelling is one of the elements of orthography, and highly standardized spelling is a prescriptive element.
+Spellings originated as transcriptions of the sounds of speech language according to the alphabetic principle. They remain largely reflective of the sounds, although phonemic orthography is an ideal that most languages' orthographies only approximate, some more closely than others. This is true for various reasons, including that pronunciation changes over time in all languages, yet spellings as visual norms may resist change. In addition, words from other languages may be adopted without being adapted to the spelling system, and different meanings of a word or homophones may be deliberately spelled in different ways to differentiate them visually.

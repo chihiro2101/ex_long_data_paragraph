@@ -1,0 +1,75 @@
+SOCKS
+
+==History==
+The protocol was originally developed/designed by David Koblas, a system administrator of MIPS Computer Systems. After MIPS was taken over by Silicon Graphics in 1992, Koblas presented a paper on SOCKS at that year's Usenix Security Symposium,<ref></ref> making SOCKS publicly available.<ref>Darmohray, Tina. " urltoken Firewalls and fairy tales". ;LOGIN:. Vol 30, no. 1.</ref> The protocol was extended to version 4 by Ying-Da Lee of NEC.
+The SOCKS reference architecture and client are owned by Permeo Technologies,<ref></ref> a spin-off from NEC. (Blue Coat Systems bought out Permeo Technologies.)
+The SOCKS5 protocol was originally a security protocol that made firewalls and other security products easier to administer.<ref name="rfc1928"/> It was approved by the IETF in 1996 <ref name="rfc1928"/> as RFC 1928 (authored by: M. Leech, M. Ganis, Y. Lee, R. Kuris, D. Koblas, and L. Jones). The protocol was developed in collaboration with Aventail Corporation, which markets the technology outside of Asia.<ref> urltoken CNET: Cyberspace from outer space</ref>
+==Usage==
+SOCKS is a de facto standard for circuit-level gateways (level 5 gateways).<ref></ref>
+The circuit/session level nature of SOCKS make it a versatile tool in forwarding any TCP (or UDP since SOCKS5) traffic, creating a good interface for all types of routing tools. It can be used as:
+* A circumvention tool, allowing traffic to bypass Internet filtering to access content otherwise blocked, e.g., by governments, workplaces, schools, and country-specific web services.<ref></ref> Since SOCKS is very detectable, a common approach is to present a SOCKS interface for more sophiscated protocols:
+** The Tor onion proxy software presents a SOCKS interface to its clients.<ref></ref>
+* Providing similar functionality to a virtual private network, allowing connections to be forwarded to a server's "local" network:
+** Some SSH suites, such as OpenSSH, support dynamic port forwarding that allows the user to create a local SOCKS proxy.<ref></ref> This can free the user from the limitations of connecting only to a predefined remote port and server.
+==Comparison to HTTP proxying==
+SOCKS operates at a lower level than HTTP proxying: SOCKS uses a handshake protocol to inform the proxy software about the connection that the client is trying to make, and then acts as transparently as possible, whereas a regular proxy may interpret and rewrite headers (say, to employ another underlying protocol, such as FTP; however, an HTTP proxy simply forwards an HTTP request to the desired HTTP server). Though HTTP proxying has a different usage model in mind, the CONNECT method allows for forwarding TCP connections; however, SOCKS proxies can also forward UDP traffic and work in reverse, while HTTP proxies cannot. HTTP proxies are traditionally more aware of the HTTP protocol, performing higher-level filtering (though that usually only applies to GET and POST methods, not the CONNECT method).
+===SOCKS===
+If Bill, or any client for that matter, wishes to communicate with Chris over the internet, but a firewall between them exists on his network, where Bill is not authorized to communicate with Chris directly. So, Bill connects to the SOCKS proxy on his network, informing it about the connection he wishes to make to Chris; the SOCKS proxy opens a connection through the firewall and facilitates the communication between Bill and Chris.
+For more information on the technical specifics of the SOCKS protocol, see the sections below.
+===HTTP===
+Bill wishes to download a web page from Jane, who runs a web server. Bill cannot directly connect to Jane's server, as a firewall has been put in place on his network. In order to communicate with the server, Bill connects to his network's HTTP proxy. His web browser communicates with the proxy in exactly the same way that it would directly with Jane's server if that were possible; that is, it sends a standard HTTP request header. The HTTP proxy connects to Jane's server, and then transmits back to Bill any data that Jane's server returns.<ref></ref>
+==Protocol==
+===SOCKS4===
+A typical SOCKS4 connection request looks like this:
+; VER: SOCKS version (0x05)
+; STATUS: status code:
+:*0x00: request granted
+:*0x01: general failure
+:*0x02: connection not allowed by ruleset
+:*0x03: network unreachable
+:*0x04: host unreachable
+:*0x05: connection refused by destination host
+:*0x06: TTL expired
+:*0x07: command not supported / protocol error
+:*0x08: address type not supported
+; RSV: reserved, must be 0x00
+; BNDADDR: server bound address,<ref></ref> in the "SOCKS5 address" format specified above
+; BNDPORT: server bound port number in a network byte order
+Since clients are allowed to use either resolved addresses or domain names, a convention from cURL exists to label the domain name variant of SOCKS5 "socks5h", and the other simply "socks5". A similar convention exists between SOCKS4a and SOCKS4.<ref></ref>
+==Software==
+===Servers===
+====SOCKS proxy server implementations====
+* Sun Java System Web Proxy Server is a caching proxy server running on Solaris, Linux and Windows servers that support HTTPS, NSAPI I/O filters, dynamic reconfiguration, SOCKSv5 and reverse proxy.
+* WinGate is a multi-protocol proxy server and SOCKS server for Microsoft Windows which supports SOCKS4, SOCKS4a and SOCKS5 (including UDP-ASSOCIATE and GSSAPI auth). It also supports handing over SOCKS connections to the HTTP proxy, so can cache and scan HTTP over SOCKS.
+* urltoken Socksgate5 SocksGate5 is an application-SOCKS firewall with inspection feature on Layer 7 of the OSI model, the Application Layer. Because packets are inspected at 7 OSI Level the application-SOCKS firewall may search for protocol non-compliance and blocking specified content.
+* urltoken Dante is a circuit-level SOCKS server that can be used to provide convenient and secure network connectivity, requiring only the host Dante runs on to have external network connectivity.
+====Other programs providing SOCKS server interface====
+* OpenSSH allows dynamic creation of tunnels, specified via a subset of the SOCKS protocol, supporting the CONNECT command.
+* PuTTY is a Win32 SSH client that supports local creation of SOCKS (dynamic) tunnels through remote SSH servers.
+* ShimmerCat<ref></ref> is a web server that uses SOCKS5 to simulate an internal network, allowing web developers to test their local sites without modifying their /etc/hosts file. 
+* Tor is a system intended to enable online anonymity. Tor offers a TCP-only SOCKS server interface to its clients.
+* Shadowsocks is a circumvent censorship tool. It provides a SOCKS5 interface.
+===Clients===
+Client software must have native SOCKS support in order to connect through SOCKS. There are programs that allow users to circumvent such limitations:
+====Socksifiers====
+Socksifiers allow applications to access the networks to use a proxy without needing to support any proxy protocols. The most common way is to set up a virtual network adapter and appropriate routing tables to send traffic through the adapter.
+* urltoken Win2Socks, which enables applications to access the network through SOCKS5, HTTPS or Shadowsocks.
+*tun2socks, an open source tool that creates virtual TCP TUN adapters from a SOCKS proxy. Works on Linux and Windows,<ref></ref> has a macOS port and a UDP-capable reimplementation in Golang.
+*proxychains, a Unix program that forces TCP traffic through SOCKS or HTTP proxies on (dynamically-linked) programs it launches. Works on various Unix-like systems.<ref></ref>
+====Translating proxies====
+* Polipo, a forwarding and caching HTTP/1.1 proxy server with IPv4 support. Open Source running on GNU/Linux, OpenWrt, Windows, Mac OS X, and FreeBSD. Almost any Web browser can use it.
+* Privoxy, a non-caching SOCKS-to-HTTP proxy.
+==== Docker based ====
+* urltoken multsocks,<ref></ref> an approach based on Docker which would run on any platform that runs Docker, using client, server, or both to translate proxies.
+==References==
+==External links==
+* urltoken All about Socks5 Proxy
+* RFC 1928: SOCKS Protocol Version 5
+* RFC 1929: Username/Password Authentication for SOCKS V5
+* RFC 1961: GSS-API Authentication Method for SOCKS Version 5
+* RFC 3089: A SOCKS-based IPv6/IPv4 Gateway Mechanism
+* urltoken Draft-ietf-aft-socks-chap, Challenge-Handshake Authentication Protocol for SOCKS V5
+* urltoken SOCKS: A protocol for TCP proxy across firewalls, SOCKS Protocol Version 4 (NEC)
+
+SOCKS is an Internet protocol that exchanges network packets between a client and server through a proxy server. SOCKS5 optionally provides authentication so only authorized users may access a server. Practically, a SOCKS server proxies TCP connections to an arbitrary IP address, and provides a means for UDP packets to be forwarded.
+SOCKS performs at Layer 5 of the OSI model (the session layer, an intermediate layer between the presentation layer and the transport layer). A SOCKS server accepts incoming client connection on TCP port 1080.<ref name="rfc1928">RFC 1928</ref><ref></ref>

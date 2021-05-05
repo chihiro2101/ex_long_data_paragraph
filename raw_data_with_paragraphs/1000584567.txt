@@ -1,0 +1,61 @@
+Mole salamander
+
+==General description==
+ 
+Terrestrial mole salamanders are identified by having wide, protruding eyes, prominent costal grooves, and thick arms. Most have vivid patterning on dark backgrounds, with marks ranging from deep blue spots to large yellow bars depending on the species. Terrestrial adults spend most of their lives underground in burrows, either of their own making or abandoned by other animals. Some northern species may hibernate in these burrows throughout the winter. They live alone and feed on any available invertebrate. Adults spend little time in the water, only returning to the ponds of their birth to breed.
+All mole salamanders are oviparous and lay large eggs in clumps in the water. Their fully aquatic larvae are branchiate, with three pairs of external gills behind their heads and above their gill slits. Larvae have large caudal fins, which extend from the back of their heads to their tails and to their cloacae. Larvae grow limbs soon after hatching, with four toes on the fore arms, and five toes on the hind legs. Their eyes are wide-set and lack true eyelids.
+The larvae of some species (especially those in the south, and tiger salamanders) can reach their adult size before undergoing metamorphosis. During metamorphosis, the gills of the larvae disappear, as do the fins. Their tails, skin, and limbs become thicker, and the eyes develop lids. Their lungs become fully developed, allowing for a fully terrestrial existence. 
+Some species of mole salamanders (as well as populations of normally terrestrial species) are Neoteny (retaining their larval form into adulthood). The most famous example is the axolotl. They cannot produce thyroxine, so their only means of metamorphosis is mainly through the outside injection of it. This usually shortens the lifespan of the salamander.
+==Tiger salamander complex==
+The presence of neotenic populations near those with large larvae has made it difficult to identify mole salamander species. The tiger salamander complex was previously considered a single species ranging from Canada to Mexico, falling under the name A. tigrinum. Despite differences in coloration and larvae, tiger salamanders were found throughout their unbroken range, which made it difficult to delineate subspecies, let alone elevate any populations to species status. In morphological terms, tiger salamanders are all very similar, with large heads, small eyes, and thick bodies. This is probably because tiger salamanders have the primitive morphology of mole salamanders. They are also the largest of the mole salamanders, and have very large larvae. All populations have similar lifestyles, and their lifecycles are identical. However, when one looks at tiger salamander populations distant from each other, different species within this complex become apparent. The ranges of these potential species overlap, and hybridization occurs, blurring the lines between species.
+ 
+Several subspecies of A. tigrinum were named to deal with this problem. Recently, the barred tiger salamander (A. mavortium) was elevated to species status—covering the tiger salamander populations in the western and central United States. Several distinct subspecies still exist in A. mavortium, which may be elevated to species status at some point in the future. The California tiger salamander (A. californiense) has also been elevated out of A. tigrinum, and is actually very distantly related to all other mole salamander species. The Plateau tiger salamander (A. velasci) was elevated out of A. tigrinum through genetic analysis in 1997. All accounts referring to the axolotl (A. mexicanum) as a close relative of A. tigrinum are now considered wrong, as they are now separated by both geography and many species between. Instead, it is A. velasci, which shares the axolotl's habitat, and is probably closely related to it. The Plateau tiger salamander was probably the parent of most of the neoteny species, which raises the possibility that A. velasci is paraphyletic, and may be broken up into more species in the future.
+==Hybrid all-female populations==
+Unisexual (all-female) populations of ambystomatid salamanders are widely distributed across the Great Lakes region and northeastern North America. The females require sperm from a co-occurring, related species to fertilize their eggs and initiate development. Usually<ref Name=Bi2008></ref> the eggs then discard the sperm genome and develop asexually (i.e., gynogenesis, with premeiotic doubling); however, they may incorporate the genome from the sperm into the resulting offspring.<ref name=Bogart2007></ref> Sperm incorporation commonly<ref name=Bi2008/> takes the form of genome addition (resulting in ploidy elevation in the offspring), or genome replacement, wherein one of the maternal genomes is discarded. This unique mode of reproduction has been termed kleptogenesis by Bogart and colleagues.<ref name=Bogart2007/> This is in contrast to hybridogenesis, where the maternal genomes are passed hemiclonally and the paternal genome is discarded every generation before the egg matures and reacquired from the sperm of another species.
+The nuclear DNA of the unisexuals generally comprises genomes from up to five species:<ref name=Bogart2009></ref> the blue-spotted salamander (A. laterale), Jefferson salamander (A. jeffersonianum), small-mouthed salamander (A. texanum), streamside salamander (A. barbouri), and tiger salamander (A. tigrinum), denoted respectively as L, J, T, B, and Ti. This flexibility results in a large number of possible nuclear biotypes (genome combinations) in the unisexuals. For example, an LJJ individual would be a triploid with one A. laterale genome and two A. jeffersonianum genomes, while an LTJTi individual would be a tetraploid with genomes from four species. Because they have hybrid genomes, unisexual salamanders are a cryptic species with morphology similar to coexisting species. For example, LLJs look like blue-spotted salamanders and LJJs look like Jefferson salamanders. Silvery salamanders LJJ (A. platineum), Tremblay's salamanders LLJ (A. tremblayi), and Kelly's Island salamanders LTT and LTTi (A. nothagenes) were initially described as species. Species names were later dropped for all unisexual salamanders because of the complexity of their genomes. The offspring of a single mother may have different genome complements;<ref name=Bogart2007/> for example, a single egg mass may have both LLJJ and LJJ larvae.
+Despite the complexity of the nuclear genome, all unisexuals form a monophyletic group based on their mitochondrial DNA. The maternal ancestor of the unisexual ambystomatids was most closely related to the streamside salamander, with the original hybridization likely occurring 2.4-3.9 million years ago,<ref name=Bogart2007/> making it the oldest known lineage of all-female vertebrates.<ref name=Bi2010></ref> The hybridization was most probably with an A.laterale. All known unisexuals have at least one A. laterale genome<ref name=Bogart2009/> and this is thought to be essential for unisexuality. However, the A. laterale genome has been replaced several times, independently, in each of the lineages by matings with A.laterale.
+==Taxonomy==
+Image:Ambystoma phylogeny.jpg|thumb|Phylogenetic tree showing relations among Ambystoma species and outgroups: For example, the sister taxon to Ambystoma macrodactylum is Ambystoma laterale, meaning they share a single common ancestor and are each other's closest living relatives.
+Rhyacosiredon was previously considered a separate genus within the family Ambystomatidae. However, cladistic analysis of the mole salamanders found the existence of Rhyacosiredon makes Ambystoma paraphyletic, since the species are more closely related to some Ambystoma species than those species are to others in Ambystoma. The stream-type morphology of these salamanders (which includes larvae and neoteny with short gills and thicker gular folds) may have led to their misclassification as a different genus.
+The genus name Ambystoma was given by Johann Jakob von Tschudi in 1839,<ref name=tschudi></ref> and is traditionally translated as "cup-mouth",. Tschudi did not provide a derivation for the name, and many thought that he intended the name Amblystoma, "blunt-mouth." Occasionally, old specimens and documents use the name Amblystoma. Writing in 1907, Leonhard Stejneger offered a derivation of Ambystoma based on the contraction of a Greek phrase meaning "to cram into the mouth,"<ref name="stejneger"></ref><ref name="lyon"></ref> but others have not found this explanation convincing.<ref name="scott"></ref> In the absence of clear evidence that Tschudi committed a lapsus, the name given in 1839 stands.
+==Species==
+This genus contains 32 species, listed below, the newest being A. bishopi. Terrestrial species are labeled with a "T", neotenic species are labeled with an "N", and species with established populations of both are labeled with a "V".
+* Mountain stream salamander (A. altamirani) V
+* Blunt-headed salamander (A. amblycephalum) V
+* Anderson's salamander (A. andersoni) N
+* Ringed salamander (A. annulatum) T
+* Streamside salamander (A. barbouri) T
+* Reticulated flatwoods salamander (A. bishopi) T
+* Delicate-skinned salamander (A. bombypellum) T
+* California tiger salamander (A. californiense) T
+* Frosted flatwoods salamander (A. cingulatum) T
+* Lake Patzcuaro salamander (A. dumerilii) N
+* Yellow-peppered salamander (A. flavipiperatum) T
+* Northwestern salamander (A. gracile) T
+* Granular salamander (A. granulosum) T
+* Jefferson salamander (A. jeffersonianum) T
+* Blue-spotted salamander (A. laterale) T
+* Silvery salamander (A. platineum)
+* Tremblay's salamander (A. tremblayi)
+* Lake Lerma salamander (A. lermaense) V
+* Leora's salamander (A. leorae) T
+* Mabee's salamander (A. mabeei) T
+* Long-toed salamander (A. macrodactylum) T
+** Santa Cruz long-toed salamander (A. m. croceum) T
+* Spotted salamander (A. maculatum) T
+* Barred tiger salamander (A. mavortium) V
+* Axolotl (A. mexicanum) N
+* Marbled salamander (A. opacum) T
+* Puerto Hondo stream salamander (A. ordinarium) V
+* Michoacan stream salamander (A. rivulare) T
+* Tarahumara salamander (A. rosaceum) V
+* Durango salamander (A. silvense) V
+* Mole salamander (A. talpoideum) V
+* Taylor's salamander (A. taylori) N
+* Small-mouth salamander (A. texanum) T
+* Tiger salamander (A. tigrinum) V
+* Plateau tiger salamander (A. velasci) V
+==See also==
+*Oophila amblystomatis
+
+The mole salamanders (genus Ambystoma) are a group of Salamandroideas endemic to North America. The group has become famous due to the presence of the axolotl (A. mexicanum), widely used in research due to its neoteny, and the tiger salamander (A. tigrinum, A. mavortium) which is the official amphibian of many states, and often sold as a pet.

@@ -1,0 +1,57 @@
+Penicillium
+
+==Taxonomy==
+The genus was first described in the scientific literature by Johann Heinrich Friedrich Link in his 1809 work Observationes in ordines plantarum naturales; he wrote, "Penicillium. Thallus e floccis caespitosis septatis simplicibus aut ramosis fertilibus erectis apice penicillatis", where penicillatis referred to "pencil-like" (referring to a Camel's hair pencil brush.<ref>Identification and nomenclature of the genus Penicillium, C.M. Visagie1, J. Houbraken1, , , J.C. Frisvad2, , , S.-B. Hong3, C.H.W. Klaassen4, G. Perrone5, K.A. Seifert6, J. Varga7, T. Yaguchi8, R.A. Samson, 22 September 2014, urltoken name=Link1809/> Link included three species—P.&nbsp;candidum, P.&nbsp;expansum, and P.&nbsp;glaucum—all of which produced a brush-like conidiophore (asexual spore-producing structure). The common apple rot fungus P.&nbsp;expansum was later selected as the type species.<ref name=Samson1985/>
+In his 1979 monograph, John I. Pitt divided Penicillium into four subgenera based on conidiophore morphology and branching pattern: Aspergilloides, Biverticillium, Furcatum, and Penicillium.<ref name=Pitt1979/> Species included in subgenus Biverticillium were later merged into Talaromyces.
+=== Species ===
+Selected species include;
+* Penicillium albocoremium
+* Penicillium aurantiogriseum, a grain contaminant
+* Penicillium bilaiae, which is an agricultural inoculant
+* Penicillium camemberti, which is used in the production of Camembert and Brie cheeses
+* Penicillium candidum, which is used in making Brie and Camembert. It has been reduced to synonymy with Penicillium camemberti
+* Penicillium chrysogenum (previously known as Penicillium notatum), which produces the antibiotic penicillin
+* Penicillium claviforme
+* Penicillium commune
+* Penicillium crustosum
+* Penicillium digitatum, a Citrus pathogen
+* Penicillium echinulatum produces Mycophenolic acid
+* Penicillium expansum, a pathogen of apples and other fruit, produces patulin
+* Penicillium glabrum
+* Penicillium imranianum
+* Penicillium italicum, a Citrus pathogen
+* Penicillium lacussarmientei
+* Penicillium lusitanum, isolated from marine habitat
+* Penicillium purpurogenum
+* Penicillium roqueforti, which is used in making Roquefort, Danish Blue cheese, English Blue Stilton cheese, and Gorgonzola cheese
+* Penicillium stoloniferum
+* Penicillium ulaiense, a Citrus pathogen in Asia
+* Penicillium verrucosum, a grain contaminant which produces ochratoxin A
+* Penicillium viridicatum
+=== Etymology ===
+The genus name is derived from the Latin root penicillum, meaning "painter's brush", and refers to the chains of conidia that resemble a broom.<ref name=Haubrich2003/>
+== Characteristics ==
+The thallus (mycelium) consists of highly branched networks of multinucleated, usually colourless hyphae, with each pair of cells separated by a septum. Conidiophores are at the end of each branch accompanied by green spherical constricted units called conidia. These propagules play a significant role in reproduction; conidia are the main dispersal strategy of these fungi.
+Sexual reproduction involves the production of ascospores, commencing with the fusion of an archegonium and an antheridium, with sharing of nuclei. The irregularly distributed asci contain eight unicellular ascospores each.
+== Ecology ==
+Species of Penicillium are ubiquitous soil fungi preferring cool and moderate climates, commonly present wherever organic material is available. Saprophytic species of Penicillium and Aspergillus are among the best-known representatives of the Eurotiales and live mainly on organic biodegradable substances. Commonly known in America as molds, they are among the main causes of food spoilage, especially species of subgenus Penicillium.<ref name=Samson2004/> Many species produce highly toxic mycotoxins. The ability of these Penicillium species to grow on seeds and other stored foods depends on their propensity to thrive in low humidity and to colonize rapidly by aerial dispersion while the seeds are sufficiently moist.<ref name=Pitt2000/> Some species have a blue color, commonly growing on old bread and giving it a blue fuzzy texture.
+Some Penicillium species affect the fruits and bulbs of plants, including P.&nbsp;expansum, apples and pears; P.&nbsp;digitatum, citrus fruits;<ref name=Baigre2003/> and P.&nbsp;allii, garlic.<ref name=Valdez2006/> Some species are known to be pathogenic to animals; P.&nbsp;corylophilum, P.&nbsp;fellutanum, P.&nbsp;implicatum, P.&nbsp;janthinellum, P.&nbsp;viridicatum, and P.&nbsp;waksmanii are potential pathogens of mosquitoes.<ref name=daCosta1998/>
+Penicillium species are present in the air and dust of indoor environments, such as homes and public buildings. The fungus can be readily transported from the outdoors, and grow indoors using building material or accumulated soil to obtain nutrients for growth. Penicillium growth can still occur indoors even if the relative humidity is low, as long as there is sufficient moisture available on a given surface. A British study determined that Aspergillus- and Penicillium-type spores were the most prevalent in the indoor air of residential properties, and exceeded outdoor levels.<ref name=Fairs2010/> Even ceiling tiles can support the growth of Penicillium—as one study demonstrated—if the relative humidity is 85% and the moisture content of the tiles is greater than 2.2%.<ref name=Chang1995/>
+Some Penicillium species cause damage to machinery and the combustible materials and lubricants used to run and maintain them. For example, P.&nbsp;chrysogenum (formerly P. notatum), P.&nbsp;steckii, &nbsp;P.&nbsp;cyclopium, and P.&nbsp;nalgiovensis affect fuels; P.&nbsp;chrysogenum, P.&nbsp;rubrum, and P.&nbsp;verrucosum cause damage to oils and lubricants; P.&nbsp;regulosum damages optical and protective glass.<ref name=Semenov2003/>
+== Economic value ==
+Several species of the genus Penicillium play a central role in the production of cheese and of various meat products. To be specific, Penicillium molds are found in Blue cheese. Penicillium camemberti and Penicillium roqueforti are the molds on Camembert, Brie, Roquefort, and many other cheeses. Penicillium nalgiovense is used in soft mold-ripened cheeses, such as Nalžovy (ellischau) cheese, and to improve the taste of sausages and hams, and to prevent colonization by other molds and bacteria.<ref name="Mrázek2015"/><ref name=Marianski2009/>
+In addition to their importance in the food industry, species of Penicillium and Aspergillus serve in the production of a number of biotechnologically produced enzymes and other macromolecules, such as gluconic, citric, and tartaric acids, as well as several pectinases, lipase, amylases, cellulases, and proteases. Some Penicillium species have shown potential for use in bioremediation, more specifically mycoremediation, because of their ability to break down a variety of xenobiotic compounds.<ref name=Leitao2009/> Penicillium also prevents bacteria from affecting the body.
+The genus includes a wide variety of species molds that are the source molds of major antibiotics. Penicillin, a drug produced by P.&nbsp;chrysogenum (formerly P.&nbsp;notatum), was accidentally discovered by Alexander Fleming in 1929, and found to inhibit the growth of Gram-positive bacteria (see beta-lactams). Its potential as an antibiotic was realized in the late 1930s, and Howard Florey and Ernst Chain purified and concentrated the compound. The drug's success in saving soldiers in World War II who had been dying from infected wounds resulted in Fleming, Florey and Chain jointly winning the Nobel Prize in Medicine in 1945.<ref name=Rifkind2005/>
+Griseofulvin is an antifungal drug and a potential chemotherapeutic agent<ref name=Singh2008/> that was discovered in P.&nbsp;griseofulvum.<ref name=DeCarli1988/> Additional species that produce compounds capable of inhibiting the growth of tumor cells in vitro include: P.&nbsp;pinophilum,<ref name=Nicoletti2009/> P.&nbsp;canescens,<ref name=Nicoletti2008/> and P.&nbsp;glabrum.<ref name=Nicoletti2008/>
+==Reproduction==
+Although many eukaryotes are able to reproduce sexually, as much as 20% of fungus species had been thought to reproduce exclusively by asexual means. However recent studies have revealed that sex occurs even in some of the supposedly asexual species. For example, sexual capability was recently shown for the fungus Penicillium roqueforti, used as a starter for blue cheese production.<ref name="pmid23185400"></ref> This finding was based, in part, on evidence for functional mating type (MAT) genes that are involved in fungal sexual compatibility, and the presence in the sequenced genome of most of the important genes known to be involved in meiosis. Penicillium chrysogenum is of major medical and historical importance as the original and present-day industrial source of the antibiotic penicillin. The species was considered asexual for more than 100 years despite concerted efforts to induce sexual reproduction. However, in 2013, Bohm et al.<ref name="pmid23307807"></ref> finally demonstrated sexual reproduction in P. chrysogenum.
+These findings with Penicillium species are consistent with accumulating evidence from studies of other Eukaryote species that sex was likely present in the common ancestor of all eukaryotes.<ref name="pmid18663385"></ref> Furthermore, these recent results suggest that sex can be maintained even when very little genetic variability is produced.
+Prior to 2013, when the "one fungus, one name" nomenclature change came into effect, Penicillium was used as the genus for anamorph (clonal forms) of fungi and Talaromyces was used for the teleomorph (sexual forms) of fungi. After 2013 however, fungi were reclassified based on their genetic relatedness to each other and now both Penicillium and Talaromyces genera both contain species capable of clonal only and sexual reproduction.
+==References==
+* 
+== External links ==
+* 
+*
+
+Penicillium is a genus of Ascomycota fungi that is part of the mycobiome of many species and is of major importance in the natural environment, in food spoilage, and in food and drug production.
+Some members of the genus produce penicillin, a molecule that is used as an antibiotic, which kills or stops the growth of certain kinds of bacteria. Other species are used in cheesemaking. According to the Dictionary of the Fungi (10th edition, 2008), the widespread genus contains over 300 species.<ref name=Kirk2008/>

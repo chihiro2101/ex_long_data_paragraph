@@ -1,0 +1,52 @@
+Elimination reaction
+
+==Loss of hydron (H<sup>+</sup>)==
+In most organic elimination reactions, at least one hydron (H<sup>+</sup>) is lost to form the double bond: the unsaturation of the molecule increases. It is also possible that a molecule undergoes reductive elimination, by which the valence of an atom in the molecule decreases by two, though this is more common in inorganic chemistry.
+An important class of elimination reactions is those involving alkyl halides, with good leaving groups, reacting with a Lewis base to form an alkene. Elimination may be considered the reverse of an addition reaction. When the substrate is asymmetric, regioselectivity is determined by Zaitsev's rule or through Hofmann elimination if the carbon with the most substituted hydrogen is inaccessible.
+== E2 mechanism ==
+During the 1920s, Christopher Kelk Ingold proposed a model to explain a peculiar type of chemical reaction: the E2 mechanism. E2 stands for bimolecular elimination. The reaction involves a one-step mechanism in which carbon-hydrogen and carbon-halogen bonds break to form a double bond (C=C Pi bond).
+The specifics of the reaction are as follows:
+* E2 is a single step elimination, with a single transition state.
+* It is typically undergone by primary substituted alkyl halides, but is possible with some secondary alkyl halides and other compounds.
+* The reaction rate is second order, because it's influenced by both the alkyl halide and the base (bimolecular).
+* Because the E2 mechanism results in the formation of a pi bond, the two leaving groups (often a hydrogen and a halogen) need to be antiperiplanar. An antiperiplanar transition state has staggered conformation with lower energy than a synperiplanar transition state which is in eclipsed conformation with higher energy. The reaction mechanism involving staggered conformation is more favorable for E2 reactions (unlike E1 reactions).
+* E2 typically uses a strong base. It must be strong enough to remove a weakly acidic hydrogen.
+* In order for the pi bond to be created, the hybridization of carbons needs to be lowered from sp<sup>3</sup> to sp<sup>2</sup>.
+* The C-H bond is weakened in the rate determining step and therefore a primary deuterium isotope effect much larger than 1 (commonly 2-6) is observed.
+* E2 competes with the SN2 reaction mechanism if the base can also act as a nucleophile (true for many common bases).
+An example of this type of reaction in scheme 1 is the reaction of isobutylbromide with potassium ethoxide in ethanol. The reaction products are isobutene, ethanol and potassium bromide.
+== E1 mechanism ==
+E1 is a model to explain a particular type of chemical elimination reaction. E1 stands for unimolecular elimination and has the following specifications
+* It is a two-step process of elimination: ionization and deprotonation.
+** Ionization: the carbon-halogen bond breaks to give a carbocation intermediate.
+** deprotonation of the carbocation.
+* E1 typically takes place with tertiary alkyl halides, but is possible with some secondary alkyl halides.
+* The reaction rate is influenced only by the concentration of the alkyl halide because carbocation formation is the slowest step, as known as the rate-determining step. Therefore, first-order kinetics apply (unimolecular).
+* The reaction usually occurs in the complete absence of a base or the presence of only a weak base (acidic conditions and high temperature).
+* E1 reactions are in competition with SN1 reactions because they share a common carbocationic intermediate.
+* A secondary deuterium isotope effect of slightly larger than 1 (commonly 1 - 1.5) is observed.
+* There is no antiperiplanar requirement. An example is the pyrolysis of a certain sulfonate ester of menthol:
+:Only reaction product A results from antiperiplanar elimination. The presence of product B is an indication that an E1 mechanism is occurring.<ref></ref>
+* It is accompanied by carbocationic rearrangement reactions
+An example in scheme 2 is the reaction of tert-butylbromide with potassium ethoxide in ethanol.
+E1 eliminations happen with highly substituted alkyl halides for two main reasons.
+* Highly substituted alkyl halides are bulky, limiting the room for the E2 one-step mechanism; therefore, the two-step E1 mechanism is favored.
+* Highly substituted carbocations are more stable than methyl or primary substituted cations. Such stability gives time for the two-step E1 mechanism to occur.
+* If S<sub>N</sub>1 and E1 pathways are competing, the E1 pathway can be favored by increasing the heat.
+Specific features : 
+# Rearrangement possible
+# Independent of concentration and basicity of base
+== Competition among mechanisms ==
+The reaction rate is influenced by the reactivity of halogens, iodide and bromide being favored. Fluoride is not a good leaving group, so eliminations with fluoride as the leaving group have slower rates than other halogens.
+There is a certain level of competition between the elimination reaction and nucleophilic substitution. More precisely, there are competitions between E2 and SN2 reaction and also between E1 and SN1 reaction. Substitution generally predominates and elimination occurs only during precise circumstances. Generally, elimination is favored over substitution when
+* steric hindrance around the α-carbon increases.
+* a stronger base is used.
+* temperature increases (increase entropy)
+* the base is a poor nucleophile. Bases with steric bulk, (such as in Potassium tert-butoxide), are often poor nucleophiles.
+In one study<ref></ref> the kinetic isotope effect (KIE) was determined for the gas phase reaction of several alkyl halides with the chlorate ion. In accordance with an E2 elimination the reaction with t-butyl chloride results in a KIE of 2.3. The methyl chloride reaction (only S<sub>N</sub>2 possible) on the other hand has a KIE of 0.85 consistent with a S<sub>N</sub>2 reaction because in this reaction type the C-H bonds tighten in the transition state. The KIE's for the ethyl (0.99) and isopropyl (1.72) analogues suggest competition between the two reaction modes.
+== Elimination reactions other than β-elimination ==
+β-Elimination, with loss of electrofuge and nucleofuge on vicinal carbons, is by far the most common type of elimination. The ability to form a stable product containing a C=C or C=X bond, as well as orbital alignment considerations, strongly favors β-elimination over other elimination processes.<ref></ref> However, other types are known, generally for systems where β-elimination cannot occur.
+The next most common type of elimination reaction is α-elimination. For a carbon center, the result of α-elimination is the formation of a carbene, which includes "stable carbenes" such as carbon monoxide or Isocyanide. For instance, α-elimination the elements of HCl from chloroform (CHCl<sub>3</sub>) in the presence of strong base is a classic approach for the generation of dichlorocarbene, :CCl<sub>2</sub>, as a reactive intermediate. On the other hand, formic acid undergoes α-elimination to afford the stable products water and carbon monoxide under acidic conditions. α-Elimination may also occur on a metal center, one particularly common result of which is lowering of both the metal oxidation state and coordination number by 2 units in a process known as reductive elimination. (Confusingly, in organometallic terminology, the terms α-elimination and α-abstraction refer to processes that result in formation of a metal-carbene complex.<ref></ref> In these reactions, it is the carbon adjacent to the metal that undergoes α-elimination.)
+In certain special cases, γ- and higher eliminations to form three-membered or larger rings is also possible in both organic and organometallic processes. For instance, certain Pt(II) complexes undergo γ- and δ-elimination to give metallocycles.<ref></ref> More recently, γ-silyl elimination of a silylcyclobutyl tosylate has been used to prepare strained bicyclic systems.<ref></ref>
+
+Image:EliminationReactionCyclohexene.svg|frame|right|Elimination reaction of cyclohexanol to cyclohexene with sulfuric acid and heat<ref></ref> An elimination reaction is a type of organic reaction in which two substituents are removed from a molecule in either a one- or two-step mechanism.<ref></ref> The one-step mechanism is known as the E2 reaction, and the two-step mechanism is known as the E1 reaction. The numbers refer not to the number of steps in the mechanism, but rather to the kinetics of the reaction: E2 is bimolecular (second-order) while E1 is unimolecular (first-order). In cases where the molecule is able to stabilize an anion but possesses a poor leaving group, a third type of reaction, E1<sub>CB</sub>, exists. Finally, the pyrolysis of xanthate and acetate esters proceed through an "internal" elimination mechanism, the Ei mechanism.

@@ -1,0 +1,64 @@
+Extortion
+
+==United States==
+Extortion is distinguished from robbery. In robbery, whether armed or not, the offender takes property from the victim by the immediate use of force or fear that force will be immediately used. Extortion, which is not limited to the taking of property, involves the verbal or written instillation of fear that something will happen to the victim if they do not comply with the extortionist's will. Another key distinction is that extortion always involves a verbal or written threat,<ref name=":0" /> whereas robbery may not. In United States federal law, extortion can be committed with or without the use of force and with or without the use of a weapon.
+In blackmail, which always involves extortion, the extortionist threatens to reveal information about a victim or their family members that is potentially embarrassing, socially damaging, or incriminating unless a demand for money, property, or services is met.<ref></ref>
+In the United States, extortion may also be committed as a federal crime across a computer system, phone, by mail, or in using any instrument of interstate commerce. Extortion requires that the individual sent the message willingly and knowingly as elements of the crime. The message only has to be sent (but does not have to reach the intended recipient) to commit the crime of extortion.
+==United Kingdom==
+===England and Wales===
+In England and Wales extorting property and money by coercion is the offence of blackmail which covers any "unwarranted demand with menaces" including physical threats. See section 21 of the Theft Act 1968 plus sections 29 and 30 of the Larceny Act 1916. A group of people may also be committing conspiracy.
+===Scotland===
+Extortion is a common law crime in Scotland of using threat of harm to demand money, property or some advantage from another person. It does not matter whether the demand itself is legitimate (such as for money owed) as the offence can still be committed when illegitimate threats of harm are used.<ref></ref><ref></ref>
+==Cyberextortion==
+Cyberextortion is when an individual or group uses the internet as an offensive force. The group or individual usually sends a company a threatening email stating that they have received confidential information about their company and will exploit a security leak or launch an attack that will harm the company's network. The message sent through the email usually demands money in exchange for the prevention of the attack.<ref></ref><ref></ref>
+===Cases===
+In March 2008, Anthony Digati was arrested on federal charges of extortion through interstate communication. Digati put $50,000 into a variable life insurance policy by New York Life Insurance Company and wanted a return of $198,303.88. When the firm did not comply, he threatened to send out 6 million spam emails. He registered a domain in February 2008 that contained New York Life's name in the URL to display false public statements about the company and increased his demand to $3 million.<ref></ref> According to prosecutors, Digati's intent was not to inform or educate but he wanted to "damage the reputation of New York Life and cost the company millions of dollars in revenue,”.<ref></ref> New York Life contacted the Federal Bureau of Investigation and Digati was apprehended.
+On February 15, 2011, Spanish police apprehended a man who attempted to blackmail Nintendo over customer information he had stolen. The man stole personal information about 4,000 users and emailed Nintendo Ibérica, Nintendo's Spanish division, and accused the company of data negligence. He threatened the company that he would make the information public and complain to the Spanish Data Agency if his demands were not met. After Nintendo ignored his demands, he published some of the information on an Internet forum. Nintendo notified authorities and the man was arrested in Málaga. No information has been revealed as to what the man demanded from Nintendo.<ref></ref>
+On February 7, 2019, Jeff Bezos, owner of Amazon and The Washington Post and currently one of the The World's Billionaires, accused the National Enquirer and its parent company American Media, Inc., of attempting to extort him by threatening to reveal nude pictures of him unless he publicly stated that he "has no knowledge or basis for suggesting that AMI’s coverage was politically motivated or influenced by political forces." This threat was in response to Bezos investigating the tabloid for publishing details about his relationship with Lauren Sanchez, which led to Bezos and his wife Mackenzie announcing their divorce<ref></ref> on January 9 of that year. Bezos refused and posted the threat on Medium.<ref></ref>
+On October 21, 2020, the news sources reported roughly 40,000 patients' records having been stolen from the Finland private health care provider Vastaamo.<ref></ref><ref name=":1"></ref><ref name=":2"></ref> The extorters demanded 40 bitcoins, roughly 450,000 euros, or threatened to publish the records. The extorters published hundred patient records a day on a Tor message board to add pressure for their demands. The leaked patient records contained patient's full names, home addresses, social security numbers, and the therapists' and doctors' notes from each session.<ref name=":1" /> After the extortation of the company failed, the extorters sent victims an email demanding them to pay 200 euros in 24 hours or 500 euros in 48 hours in order to avoid publishing their sensitive personal data.<ref></ref> The company's security practices were found to be inadequate: the sensitive data was not encrypted<ref></ref> and apparently the system Superuser was very weak.<ref></ref> The patient records were first accessed by intruders November 2018, while the security flaws continued to exist until March 2019. The president of Finland saw the cyber attack being "relentlessly cruel."<ref name=":2" />
+==Similar crimes==
+* Badger game: The victim or "mark"—for example, such as a married person—is tricked into a compromising position to make them vulnerable to blackmail.
+* Clip joint: A clip joint or fleshpot is an establishment, usually a strip club or entertainment bar, typically one claiming to offer adult entertainment or bottle service, in which customers are tricked into paying money and receive poor goods or services, or none, in return. An example of this is portrayed in the comedy film Porky's
+* Coercion: the practice of compelling a person or manipulating them to behave in an involuntary way (whether through action or inaction) by use of threats, intimidation, trickery, or some other form of pressure or force. These are used as leverage, to force the victim to act in the desired way.
+* Confidence trick (also known as a bunko, con, flim flam, gaffle, grift, hustle, scam, scheme, swindle, bamboozle or finesse): an attempt to fraud a person or group by gaining their confidence.
+* Cryptovirology: a software scam in which a public-key cryptography system crafts fake keys which encrypt the user's data, but cannot decrypt them unless the user pays for the real key.
+* Dognapping: The crime of taking a dog from its owner, which usually occurs in purebred dogs, the profit from which can run up to thousands of dollars.
+* Loan sharking: A loan shark is a person or body that offers unsecured loans at high interest rates to individuals, often backed by blackmail or threats of violence.
+* Price gouging: a pejorative term for a seller pricing much higher than is considered reasonable or fair. In precise, legal usage, it is the name of a felony that applies in some of the United States only during civil emergencies.
+* Racket: A service that is fraudulently offered to solve a problem, such as for a problem that does not actually exist, will not be affected, or would not otherwise exist.
+* Sextortion: Forcing individuals to send sexual images or perform sexual services
+* Terrorism: most simply, policy intended to intimidate or cause terror. It is more commonly understood as an act which is intended to create fear (terror), is perpetrated for an ideological goal (as opposed to a materialistic goal or a lone attack), and deliberately target or disregard the safety of non-combatants. Some definitions also include acts of unlawful violence or unconventional warfare, but at present, the international community has been unable to formulate a universally agreed, legally binding, criminal law definition of terrorism.
+* Tiger kidnapping: the taking of an innocent hostage to make a loved one or associate of the victim do something, e.g. a child is taken hostage to force the shopkeeper to open the safe; the term originates from the prior observation of the victim, like a tiger does with its prey. Ransoms are often used alongside these.
+==See also==
+* Abusive power and control
+* Bid rigging
+* Blackmail
+* Bribery
+* Bribery Act 2010
+* Conflict of interest
+* Corruption in India
+* Financial abuse
+* Foreign Corrupt Practices Act
+* Group of States Against Corruption (GRECO) of the Council of Europe
+* Influence peddling
+* Money trail
+* Organized crime
+* Pay to play
+* Political corruption
+* Principal–agent problem
+* Ransomware
+* Tariff
+* Taxation as slavery
+* Taxation as theft
+* Tax protester constitutional arguments
+* Throffer
+* Transparency International
+==References==
+<references responsive />
+==External links==
+*
+
+Extortion is the practice of obtaining benefit through coercion. In most jurisdictions it is likely to constitute a crime; the bulk of this article deals with such cases. Robbery is the simplest and most common form of extortion.
+Extortion is sometimes called the "protection racket" because the racketeers often phrase their demands as payment for "protection" from (real or hypothetical) threats from unspecified other parties; though often, and almost always, such "protection" is simply abstinence of harm from the same party, and such is implied in the "protection" offer. Extortion is commonly practiced by organized crime. In some jurisdictions, actually obtaining the benefit is not required to commit the offense, and making a threat of violence which refers to a requirement of a payment of money or property to halt future violence is sufficient to commit the offense.<ref name=":0"></ref> Exaction refers not only to extortion or the demanding and obtaining of something through force,<ref></ref> but additionally, in its formal definition, means the infliction of something such as pain and suffering or making somebody endure something unpleasant.<ref></ref>
+The term extortion is often used metaphorically to refer to usury or to Price gouging, though neither is legally considered extortion. It is also often used loosely to refer to everyday situations where one person feels indebted against their will, to another, in order to receive an essential service or avoid legal consequences. Neither extortion nor blackmail requires a threat of a criminal act, such as violence, merely a threat used to elicit actions, money, or property from the object of the extortion. Such threats include the filing of reports (true or not) of criminal behavior to the police, revelation of damaging facts (such as pictures of the object of the extortion in a compromising position), etc.<ref name=":0" />
+In law extortion can refer to political corruption, such as bribery or influence peddling, but in general vocabulary the word usually first brings to mind blackmail or protection rackets. The logical connection between the corruption sense of the word and the other senses is that to demand bribes in one's official capacity is blackmail or racketeering in essence (that is, "you need access to this resource, the government restricts access to it through my office, and I will charge you unfairly and unlawfully for such access"). Extortion is also known as shakedown, and occasionally exaction.

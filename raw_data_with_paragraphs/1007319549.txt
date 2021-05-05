@@ -1,0 +1,63 @@
+Ø
+
+==Language usage==
+* In modern Danish, Faroese, and Norwegian, the letter is a monophthongal close-mid front rounded vowel, the IPA symbol for which is also (Unicode U+00F8). As with so many vowels, it has slight variations of "light" quality (in Danish, ("sister") is pronounced as , like the "eu" in the French word and "dark" quality (in Danish, ("bean") is pronounced as , like the "œu" in the French word .<ref> urltoken Faqs.org.</ref> //upload.wikimedia.org/wikipedia/commons/5/57/Danish_alphabet.ogg Listen to a Danish speaker reciting the Danish alphabet. In the Suðuroy-dialect of Faroese, the short ø is pronounced , e.g. ("children"). The letter was used in both Antiqua and Fraktur from at least as early as the Christian III Bible. Under German influence, the letter ö appeared in older texts (particularly those using Fraktur) and was preferred for use on maps (e.g., for Helsingør or Læsø) until 1957.<ref>Den Store Danske. " urltoken Ø, ø".</ref>
+* The Southern Sami language uses the letter ø in Norway. It is used in the diphthongs yø and øø . In Sweden, the letter ö is preferred.
+* Ø is used in the orthographies of several languages of Africa, such as Lendu, spoken in the Democratic Republic of the Congo, and Koonzime, spoken in Cameroon.
+* In Danish, is also a word, meaning "island". The corresponding word is spelled in Swedish and in Norwegian.
+* Ø is used as the party letter for the left-wing Danish political party Red–Green Alliance (Denmark).
+* (Ø with an acute accent, Unicode U+01FE) may (very seldom) be used in Danish to distinguish its usage from a similar word with Ø. Example: , "the dog barks" against , "the dog does (it)". This distinction is not mandatory and the first example can be written or , the first variant (with ǿ) would only be used to avoid confusion. The second example cannot be spelled . In Danish, , "the dog barks", may sometimes be replaced by the non-authorised spelling . This is, however, usually based on a misunderstanding of the grammatic rules of conjugation of verbs ending in the letters ø and å. These idiosyncratic spellings are not officially sanctioned. On Danish keyboards and typewriters, the acute accent may be typed above any vowel, by pressing the acute key before pressing the letter, but Ǿ is not implemented in the Microsoft Windows keyboard layout for Danish.
+* Ø is used in Old Icelandic texts, when written with the standardized orthography, denoting, among other things the umlauts o > ø and ǫ > ø.
+* In Old Polish texts, the letter Ø represented a nasal vowel (after all nasal vowels had merged).
+* Outside Europe, Ø is used in Latin transliteration of the Seneca language as the equivalent of the ampersand; it abbreviates the Seneca word .
+==Similar letters==
+*The Turkish, Azerbaijani, Turkmen, Tatar, Swedish, Icelandic, Rotuman, German, Finnish, Estonian, and Hungarian alphabets use the letter Ö instead of Ø. Hungarian orthography uses Ő for the same sound lengthened.
+*Ø/ø is not related to, and should not be confused with similar-looking Greek Φ/φ or Cyrillic Ф/ф.
+* The Cyrillic letter Ө has the same sound as Ø, which is used in the Cyrillic alphabets for Kazakh, Mongolian, Azerbaijani, and other languages that have this sound. This is not to be confused with the Early Cyrillic letter Fita.
+*The letter Ø-with-umlaut (Ø̈, ø̈) was used by the Oresund Bridge company, as part of their logotype, to symbolize its union between Sweden and Denmark. Since Ø-with-umlaut did not exist in computer fonts, it was not used in the text. The logotype now uses the spelling Øresundsbron, with Øresunds- being Danish and -bron being Swedish. The letter Ø-with-umlaut sometimes appears on packaging meant for the Scandinavian market so as to prevent printing the same word twice. For example, liquorice brand Snøre/Snöre's logo on the packaging is Snø̈re. The letter is rarely used on maps (e.g.: Grø̈nland).<ref>Die Erde: Haack Kleiner Atlas; VEB Hermann Haack geographisch-kartographische Anstalt, Gotha, 1982; p. 78</ref>
+==Similar symbols==
+* The letter "Ø" is sometimes used in mathematics as a replacement for the symbol "∅" (Unicode character U+2205), referring to the empty set as established by Bourbaki, and sometimes in linguistics as a replacement for same symbol used to represent a zero. The "∅" symbol is always drawn as a slashed circle, whereas in most typefaces the letter "Ø" is a slashed ellipse.
+* The diameter symbol (⌀) (Unicode character U+2300) is similar to the lowercase letter ø, and in some typefaces it even uses the same glyph, although in many others the glyphs are subtly distinguishable (normally, the diameter symbol uses an exact circle and the letter o is somewhat stylized). The diameter symbol is used extensively in engineering drawings, and it is also seen in situations where abbreviating "diameter" is useful, such as on camera lenses. For example, a lens with a diameter of 82&nbsp;mm would be labeled ⌀&nbsp;82&nbsp;mm.
+* Ø or ⌀ is sometimes also used as a symbol for average value, particularly in German-speaking countries. ("Average" in German is Durchschnitt, directly translated as cut-through.)<ref></ref>
+* Slashed zero is an alternate glyph for the zero character. Its slash does not extend outside the ellipse (except in handwriting). It is often used to distinguish "zero" ("0") from the Latin script letter "O" anywhere that people wish to preempt confounding of the two, particularly in code, scientific and engineering applications, computer programming (such as software development), and telecommunications. It is also used in Amateur Radio call signs, such as XXØXX, XØXXX, and so on in the United States and in other countries. See, also,<ref></ref> for information on international amateur radio call signs.
+* The letter "Ø" is often used in trapped-key interlock sequence drawings to denote a key trapped in a lock. A lock without a key is shown as an "O".
+* The letter "Ø" is also used in written music, especially jazz, to type an ad‐hoc chord letter for a half‐diminished chord, as in "Cø". The typography correct chord symbol is spelled with the root name, followed by a slashed degree symbol, as in "C𝆩". The slashed degree symbol is found in the musical symbols block of Unicode but is unsupported by some fonts.
+==History==
+The letter arose to represent an sound resulting primarily from i-mutation of . There are at least two theories about the origin of the letter ø:
+* It possibly arose as a version of the ligature, Œ, of the digraph "oe", with the horizontal line of the "e" written across the "o".
+* It possibly arose in Anglo-Saxon England as an O and an I written in the same place: compare Bede's Northumbrian Anglo-Saxon period spelling Coinualch for standard Cenwealh (a man's name) (in a text in Latin). Later the letter ø disappeared from Anglo-Saxon as the Anglo-Saxon sound changed to , but by then use of the letter ø had spread from England to Scandinavia.
+==Computers==
+* In Unicode, Ǿ and ǿ have the code points U+01FE and U+01FF.
+* On Microsoft Windows, using the "United States-International" keyboard setting, it can be typed by holding down the Alt-Gr key and pressing "L". It can also be typed under any keyboard setting by pressing NumLock, holding down the key while typing (for uppercase) or (for lowercase) on the numeric keypad, provided the system uses code page 1252 as system default. (Code page 1252 is a superset of ISO 8859-1, and 216 and 248 are the decimal equivalents of hexadecimal D8 and F8.)
+* In macOS, it can be typed by holding O, or o, and then typing 6. In MacOS and earlier systems, using a US English-language keyboard, the letter can be typed by holding the Option key|Option key while typing O, or o, to yield Ø, or ø.
+* In the X Window System environment, one can produce these characters by pressing Alt-Gr and o or O, or by pressing the Multi key followed with a slash and then o or O.
+* In some systems, such as older versions of MS-DOS, the letter Ø is not part of the widely used code page 437. In Scandinavian codepages, Ø replaces the ¥ at 165, and ø replaces the ¢ sign at 162.
+* On an Amiga operating system using any keyboard map, the letter can be typed by holding the Alt key|Alt key while typing O, or o, to yield Ø, or ø.
+* Using Microsoft Word, ø and Ø may be typed by pressing Ctrl-/ followed by either minuscule or majuscule O.
+==Encoding==
+In Unicode:
+* 
+* 
+Not to be confused with the mathematical signs:
+* 
+* 
+== In popular culture ==
+As with the metal umlaut, the symbol Ø is used stylistically in place of the letter O in many contexts, although they typically do not change the actual spelling or pronunciation.
+In music, it is used by artists such as Leathermouth in their logo and on tour posters.<ref></ref> Underoath based their album art for both Ø (Disambiguation) and the Rebirth Tour Double Vinyl on the symbol and customarily stylises their band name by featuring the character in place of the "o".<ref></ref> Nick Jonas also uses a reverse of the symbol in his logo.<ref></ref>
+This letter is also used in a stylised manner by the Australian microphone brand RØDE, and was also used in a similar manner by the now defunct American software company Broderbund. Defunct American furniture chain STØR (later acquired by IKEA) used the letter to cultivate a more European image.
+The letter is also used by alternative band Twenty One Pilots in most stylized versions of their group name. Writings with this letter are usually on their official art stylized in all caps as TWENTY ØNE PILØTS. Otherwise, officially adopted all lowercase writing is used. The band started using this letter with the launch of the Blurryface album promotion, in early 2015.
+==See also==
+* Æ
+* Ä
+* Œ
+* Ö
+* Slashed zero
+==Notes==
+<references />
+==References==
+* Robert Bringhurst (2002). The Elements of Typographic Style, pp.&nbsp;270, 284. For typographic reference to "slashed o".
+
+Ø (or minuscule: ø) is a vowel and a letter used in the Danish, Norwegian, Faroese, and Southern Sami languages. It is mostly used as a representation of mid front rounded vowels, such as and , except for Southern Sami where it is used as an diphthong.
+The name of this letter is the same as the sound it represents (see usage). Though not its native name, among English-speaking typographers the symbol may be called a "slashed O"<ref>Pullum, Geoffrey K., & William A. Ladusaw. 1996. Phonetic Symbol Guide, 2nd ed. Chicago: University of Chicago Press, p. 136.</ref> or "o with stroke". Although these names suggest it is a ligature or a diacritical variant of the letter o, it is considered a separate letter in Norwegian and Danish, and it is alphabetized after "z"—thus z, æ, ø, and å.
+In other languages that do not have the letter as part of the regular alphabet, or in limited character sets such as ASCII, ø may correctly be replaced with the digraph "oe", although in practice it is often replaced with just an "o", e.g. in email addresses. It is equivalent to the letter ö used in Swedish (and a number of other languages), and may also be replaced with ö, as was often the case with older typewriters in Denmark and Norway.
+ø (lower case) is also used in the International Phonetic Alphabet to represent a close-mid front rounded vowel.

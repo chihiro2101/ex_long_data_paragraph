@@ -1,0 +1,50 @@
+Wikipedia:Emailing users
+
+== General information about the Wikimedia email facility==
+If you have set an email address in your User preferences, you can exchange emails with other users through the Wikipedia user interface. To do that, visit your correspondent's user page and follow the "Email this user" link in the "toolbox" on the left-side navigation menu. The email address you entered in your user preferences will appear as the "From" address of the mail, so the recipient will be able to reply. 
+Users who have openly disclosed their email addresses can be emailed directly. However, Wikipedia doesn't encourage such open disclosure. Emailing users through Wikipedia is a privacy feature that protects your email address from spam. 
+Wikipedia emails are sent immediately when you click on "send". You can set your preferences so that you'll also receive a copy of every email you send; if you don't choose this option, this can still be done for individual emails. It may be useful at times to leave a brief courtesy note on a recipient's WP:TP that you've sent them an email, as some users may not check their inbox regularly. 
+A link to the email feature can be created in text or a signature by typing <code><nowiki>Special:EmailUser/</nowiki>Username</code>.
+=== Enabling and disabling user email ===
+Email is disabled unless you specify a verified email address. This can be done either while setting up your account, or in "preferences", at any time. This is linked from the top-right of any page when you are logged in. If you are enabling your email, MediaWiki requires verification that the email address belongs to you. It will send a confirmation email with a link inside. When you click the link, it will confirm your email address. The confirmation link expires after about a week. See Help:Email confirmation.
+Once you have confirmed an email address, you may enable or disable email by visiting "my preferences" and checking or un-checking "Allow other users to email me". You can also prevent users without the autoconfirmed permissions level from emailing you by un-checking the "Allow emails from brand-new users" preference.
+=== Prohibiting email from specified users ===
+If you have the email preference enabled, you can specify usernames which you do not want to be able to send you emails. These users will not see the "Email this user" link on your user page and will see a standard error message when using Special:EmailUser as if your entire email preference has been disabled. 
+Emails triggered by watchlist and notifications are not affected by this preference.
+==Reposting emails publicly ==
+:See also: Wikipedia:Harassment#Private correspondence
+There is no formal consensus by the community at this time regarding the reposting of private off-wiki correspondence to Wikipedia's public pages. However it is often likely to be unacceptable for legal reasons. Unlike edits and posts to Wikipedia's web pages, emails sent through the email facility are not automatically WP:LICENSE by the sender, and therefore reposting would suggest to the world that the text is freely licensed for reuse and republication by its author, which is generally not the case. 
+Users who feel they are allowed to repost text from an email (or other off-wiki source), or that it is right to do so, are advised to take caution and consult beforehand, to ensure they do not accidentally create a problem for themselves or a negative perception by doing so. This might involve consulting, or asking the sender if they will allow the email to be quoted under Wikipedia's license in a post on Wikipedia's discussion pages. Note that this only applies to reposting on Wikipedia and its sister sites – other forms of quoting which do not involve risk of copyright breach (such as forwarding the text to an administrator for advice, or quoting words or brief phrases in a way that constitutes Fair Use) are generally unaffected by this concern.
+== Privacy issues and protecting personal information==
+Sending an email via the Special:EmailUser system will disclose your email address for the purposes of a reply, but no other information will be provided by the system to the recipient. (Note that emails sent this way are private – they are sent as written, as a private communication between willing parties who have agreed to send and receive emails.)
+If you receive an email via this feature, you do not have to reply, or you may reply on the user's talk page if you wish. Replying may be done in three ways:
+* By replying with your email client<br />This will disclose whatever information your emails usually contain, including your email address. It may contain your IP address, or a signature line, or time zone, or the like.
+* By visiting the WP:UP of the sender, and using "Email this user" yourself<br />This will disclose nothing except your email address. You can do this by visiting the sender's user page (their name will appear in the header or footer of the email), then selecting "Email this user" from the "toolbox" on the left of the page.
+* By leaving them an on-wiki reply<br />In some cases you may wish to leave a note on their Wikipedia talk page for example to say the email was received, or a brief reply. Since emails are usually sent as a private communication, it is often courteous to keep an on-wiki reply as brief and non-privacy breaching as possible, since the sender will usually expect a private reply.
+== Abuse handling ==
+If you receive an objectionable email through this system, you should contact an WP:ADMIN, possibly by email, to ask advice. In serious cases you may wish to escalate the matter, especially if there is a pattern of WP:HARASS involved. Please note the following:
+* Do not post the email on-wiki without permission<br />You should not post the email itself on the wiki without permission (although you can describe briefly in summary what it contains or shows). This is partly due to copyright concerns, given that Wikipedia pages can be re-used by anyone. For information on posting emails on Wikipedia in general, see WP:POSTEMAIL.
+* You can prevent specific users from emailing you<br />See Prohibiting email from specified users for instructions.
+* Email can be disabled at any time<br />See Enabling and disabling user email for instructions.
+* Retain objectionable emails in case they are needed<br />You may need to refer to them again. At a minimum, consider saving the email header and text for future reference.
+* Do not disclose any personal information disallowed on Wikipedia<br /> Posting real names or email addresses not previously and voluntarily disclosed on Wikipedia can be considered outing. Such information may be communicated privately to the Arbitration Committee.
+==See also==
+*General email information
+** Email
+** Email privacy
+*Wikipedia pages related to email functionality
+**Template:Email user
+**MediaWiki:Emailuserfooter - the footer that is added to all emails from this site
+** - lists some key MediaWiki system messages relating to email
+* WP:POSTEMAIL, policy discussing the issue of posting emails and other private correspondence on Wikipedia, particularly:
+** A 2007 ArbCom decision on private correspondence
+** Wikipedia:Private correspondence, a proposal rejected by the community in 2008
+** Wikipedia:Correspondence off-wiki, another proposal rejected in 2008
+
+<noinclude></noinclude>
+Image:Emailuser location.png|right|thumb|alt=Image of Wikipedia user page with "Email this user" link highlighted under "toolbox" heading.|"Email this user" is available from the "toolbox" on the left of the screen, when any Wikipedia:User page is viewed.
+This page sets out information on the Special:EmailUser feature, a MediaWiki feature that allows registered users to exchange emails with other registered users privately ("off-wiki").
+Users can send emails to other users via the built-in email facility on Wikipedia and any of its sister websites. Both the sender and recipient must have provided email addresses in their preferences. The sender's username and email address are disclosed but not their IP address. <span style="color:red;">(Note that "the wrong way" disclose personal information—see Privacy issues below for how to avoid this if needed, when you reply)</span>. 
+Emails sent using Wikimedia's mail facility are private. Their contents cannot be read by administrators or anyone else, even to check for appropriateness, so only limited help is possible if the feature is being abused. It is possible for users able to access the WP:CHK tool to confirm if and when a user sent any emails, but not the content of the emails. In the event of WP:HARASS through this facility, users may contact any WP:ADMIN for advice and assistance (by email or any other way, if they wish, in order to keep it private). In more serious cases they should email the WP:OTRS for help.
+Users have the right to disable the email facility on their account at any time (and can ask users who email them to communicate on-wiki instead), although users active in roles that require accepting of user email should probably consult appropriately first (on or off wiki). Use of the email facility can also be disabled by any administrator as part of WP:BLOCK an account, although usually this is only done if the blocked user has abused or is likely to abuse the email facility. 
+There are some important "best practices" about this facility – Wikipedia is designed to work based upon public dialog, so communication between users is often better if it's in public (on users' WP:TP or elsewhere on Wikipedia's WP:TP), where others can review and note them. This is especially the case where improper use might later be claimed (WP:CANVASS, WP:HARASS and so on); this would not be possible to claim if the posts are on the website itself. Also, unlike messages on the website, messages via email are not subject to Wikipedia's free license and therefore are copyright by their sender, and should not be pasted onto the website in a way that breaches WP:COPYRIGHT.

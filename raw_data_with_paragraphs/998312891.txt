@@ -1,0 +1,54 @@
+Viola (plant)
+
+==Description==
+Annual or perennial caulescent or acaulescent (with or without a visible plant stem above the ground) herbs, shrubs or very rarely treelets. In acaulescent taxa the foliage and flowers appear to rise from the ground. The remainder have short stems with foliage and flowers produced in the axils of the leaves (axillary).
+Viola typically have heart-shaped or reniform (kidney-shaped), scalloped leaf, though a number have linear or palmate leaves. The simple leaves of plants with either habit are arranged alternately; the acaulescent species produce basal rosettes. Plants always have leaves with stipules that are often leaf-like.
+The flowers of the vast majority of the species are strongly zygomorphic with bilateral symmetry and solitary, but occasionally form cymes. The flowers are formed from five petals; four are upswept or fan-shaped with two per side, and there is one, broad, lobed lower petal pointing downward. This petal may be slightly or much shorter than the others and is weakly differentiated. The shape of the petals and placement defines many species, for example, some species have a "spur" on the end of each petal while most have a spur on the lower petal. The spur may vary from scarcely exserted (projecting) to very long, such as in Viola rostrata.
+Solitary flowers end long stalks with a pair of bracteoles. The flowers have five sepals that persist after blooming, and in some species the sepals enlarge after blooming. The corolla ranges from white to yellow, orange or various shades of blue and violet or multicolored, often blue and yellow, with or without a yellow throat.
+The flowers have five free stamens with short free filaments that are oppressed against the ovary, with a dorsal connective appendage that is large, entire and oblong to ovate. Only the lower two stamens are calcarate (possessing nectary spurs that are inserted on the lowest petal into the spur or a pouch). The styles are filiform (threadlike) or clavate (clubshaped), thickened at their tip, being globose to rostellate (beaked). The stigmas are head-like, narrowed or often beaked. The flowers have a superior ovary with one cell, which has three placentae, containing many ovules.
+After flowering, fruit capsules are produced that are thick walled, with few to many seeds per carpel, and dehisce (split open) by way of three valves. On drying, the capsules may eject seeds with considerable force to distances of several meters. The nutlike seeds, which are obovoid to globose, are typically arillate (with a specialized outgrowth) and have straight embryos, flat cotyledons, and soft fleshy endosperm that is oily.
+===Phytochemistry===
+One characteristic of some Viola is the elusive scent of their flowers; along with terpenes, a major component of the scent is a ketone compound called ionone, which temporarily desensitizes the receptors of the nose, thus preventing any further scent being detected from the flower until the nerves recover.
+==Taxonomy==
+===History===
+First formally described by Carl Linnaeus in 1753 with 19 species, the genus Viola bears his botanical authority, L. When Jussieu established the hierarchical system of families (1789), he placed Viola in the Cisti (rock roses), though by 1811 he suggested Viola be separated from these. However, in 1802 Batsch had already established a separate family, which he called Violariae based on Viola as the type genus, with seven other genera. Although Violariae continued to be used by some authors, such as Bentham and Hooker in 1862 (as Violarieae), most authors adopted the alternative name Violaceae, first proposed by de Lamarck and de Candolle in 1805, and Gingins (1823) and Saint-Hilaire (1824).However de Candolle also used Violarieae in his 1824 Prodromus.
+===Phylogeny===
+Viola is one of about 25 genera and about 600 species in the large family eudicot family Violaceae, divided into subfamilies and tribes. While most genera are monotypic, Viola is a very large genus, variously circumscribed as having between 500 and 600 species. Historically it was placed in subfamily Violoideae, tribe Violeae. But these divisions have been shown to be artificial and not monophyletic. Molecular phylogenetic studies show that Viola occurs in Clade I of the family, as Viola, Schweiggeria, Noisettia and Allexis, in which Schweiggeria and Noisettia are monotypic and form a sister group to Viola.
+===Subdivision===
+Viola is a large genus, that has traditionally been treated in sections. One of these was that of Gingins (1823), based on stigma morphology, with five sections (Nomimium, Dischidium, Chamaemelanium, Melanium, Leptidium). The extensive taxonomic studies of Wilhelm Becker, culminating in his 1925 conspectus, resulted in 14 sections and many infrasectional groups. The largest and most diverse, being section Viola, with 17 subsections. In addition to subsections, series were also described. Alternatively, some authors have preferred to subdivide the genus into subgenera. Subsequent treatments were by Gershoy (1934) and Clausen (1964), using subsections and series. These were all based on morphological characteristics. Subsequent studies using molecular phylogenetic methods, such as that of Ballard et al. (1998) have shown that many of these traditional divisions are not monophyletic, the problem being related to a high degree of hybridization. In particular section Nomimium was dismembered into several new sections and transferring part of it to section Viola. Section Viola s. lat. is represented by four sections, Viola sensu stricto, Plagiostigma s. str., Nosphinium sensu lato. and the V. spathulata group. In that analysis, the S American sections appear to be the basal groups, starting with Rubellium, then Leptidium. However, the exact phylogenetic relationships remain unresolved, as a consequence many different taxonomic nomenclatures are in use, including groupings referred to as Grex. Marcussen et al. place the five S American sections, Andinium, Leptidium, Tridens, Rubellium and Chilenium at the base of the phylogenetic tree, in that order. These are followed by the single Australian section, Erpetion, as sister group to Chilenium, the northern hemisphere sections and finally the single African section, V. abyssinica. These sections are morphologically, chromosomally, and geographically distinct.
+====Sections====
+Seventeen sections are recognized, listed alphabetically (approximate no. species);
+* Sect. Andinium <small>W.Becker</small> (113) S America
+* Sect. Chamaemelanium <small>Ging.</small> s.lat. (61) N America, northeast Asia (includes Dischidium, Orbiculares)
+** Subsect. Chamaemelanium
+** Subsect. Nudicaules
+** Subsect. Nuttalianae
+* Sect. Chilenium <small>W.Becker</small> (8) southern S America
+* Sect. Danxiaviola <small>W. B. Liao et Q. Fan</small> (1) China
+* Sect. Delphiniopsis <small>W.Becker</small> (3) western Eurasia: southern Spain; Balkans
+* Sect. Erpetion <small>(Banks) W.Becker</small> (11–18) eastern Australia; Tasmania 
+* Sect. Leptidium <small>Ging.</small> (19) S America
+* Sect. Melanium <small>Ging.</small> (125) western Eurasia (pansies)
+* Sect. Nosphinium <small>W.Becker</small> s.lat. (31–50) N, C and northern S America; Beringia; Hawaii 
+* Sect. nov. A (V. abyssinica group) (1–3) Africa: equatorial high mountains 
+* Sect. nov. B (V. spathulata group) (7–9) western and central Asia: northern Iraq to Mongolia 
+* Sect. Plagiostigma <small>Godr.</small> (120) northern hemisphere (includes Diffusae)
+** Grex Primulifolia
+* Sect. Rubellium <small>W.Becker</small> (3–6) S America: Chile
+* Sect. Sclerosium <small>W.Becker</small> (1–4) northeastern Africa to southwestern Asia
+* Sect. Tridens <small>W.Becker</small> (2) southern S America 
+* Sect. Viola  s.str. (Rostellatae nom. illeg.) (75) northern hemisphere (violets) (includes Repentes)
+** Subsect. Rostratae <small>Kupffer (W.Becker)</small> 
+** Subsect. Viola
+* Sect. Xylinosium <small>W.Becker</small> (3–4) Mediterranean region
+====Species====
+The genus includes dog violets, a group of scentless species which are the most common Viola in many areas, sweet violet (Viola odorata) (named from its sweet scent), and many other species whose common name includes the word "violet". But not other "violets": Neither Streptocarpus sect. Saintpaulia ("African violets", Gesneriaceae) nor Erythronium dens-canis ("dogtooth violets", Liliaceae) are related to Viola.
+=====List of selected species=====
+;Images
+* 
+* 
+* 
+* includes maps
+
+Viola is a genus of flowering plants in the violet family Violaceae. It is the largest genus in the family, containing between 525 and 600 species. Most species are found in the temperate Northern Hemisphere; however, some are also found in widely divergent areas such as Hawaii, Australasia, and the Andes.
+Some Viola species are perennial plants, some are annual plants, and a few are small shrubs. Many species, varieties and cultivars are grown in gardens for their ornamental flowers. In horticulture the term pansy is normally used for those multi-colored, large-flowered cultivars which are raised annually or biennially from seed and used extensively in bedding. The terms viola and violet are normally reserved for small-flowered annuals or perennials, including the wild species.

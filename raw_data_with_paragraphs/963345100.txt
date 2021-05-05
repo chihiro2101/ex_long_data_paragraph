@@ -1,0 +1,113 @@
+Wikipedia:Naming conventions (Chinese)
+
+==Romanization==
+The titles of Chinese entries should follow current academic conventions, which generally means Hanyu Pinyin without tone marks. Pinyin is spaced according to words, not characters; the correct form of the title is Zizhi Tongjian, not "Zi Zhi Tong Jian" or "ZiZhi TongJian". Exceptions include:
+* When there is a WP:COMMONNAME form in English (such as Yangtze River)
+* When the subject uses a non-pinyin form of their name that is adopted by secondary sources
+When an entry is not in pinyin form, a redirect to the article from the pinyin form could be helpful. Redirects from the old standard of romanization, Wade–Giles, are also useful, especially for articles of historical relevance. Italicise romanized Chinese to differentiate it from the English text.
+To help you type pinyin, Wikipedia now has clickable characters with diacritics under the edit box; you can also use which takes pinyin with tone numbers as input (eg. Lv3shun4kou3) and converts it to the preferred form with diacritics (<span class="Unicode">Lǚshùnkǒu</span>). Other options include urltoken Pinyinput or online converters such as Google Translate's phonetic reading function. 
+:See Romanization of Chinese for further information and Cantonese systems.
+===Apostrophes===
+Apostrophes are crucial in both Pinyin and Wade–Giles. In Wade–Giles, an apostrophe is a part of the syllable, while in Pinyin it serves as a syllable delimiter. In Mandarin, the syllable delimiting apostrophe is referred to as a '' (géyīn fúhào).
+Chinese Romanization: Pronunciation and Orthography urltoken gives the following rules for using the apostrophe in Hanyu Pinyin:
+# Use when a syllable begins with a, o, or e, and follows another syllable: fāng'àn , Cháng'é , Jiàn'ōu . 
+# Do not use when the syllable starts a word: Àomén , or is separated by a hyphen: Rì-É Zhànzhēng 
+# In the case of the erhua, omit the e in ér: tàngr , gōngyuánr , xiǎoháir .
+In many cases, the apostrophe reduces ambiguity in word boundaries. Xi'an , for example, might be interpreted as a single syllable xiān if the apostrophe and the tones were not present. Without the apostrophe, fāng'àn could be confused with fǎngǎn . (Some writers, such as the urltoken Library of Congress, write fǎn'gǎn, but this reading is already implied in the absence of the apostrophe- for this reason, Henan Province isn't allowed to use an apostrophe between He and nan despite the technical plausibility of some other word spelled "hen'an") Note that not every required apostrophe reduces ambiguity, as in Tiān'é despite the fact that tia (any tone) is not the Mandarin pronunciation for any character.
+===Hyphens===
+In pinyin, hyphens are rarely used, mainly in conjunction of independent words, abbreviated compounds (lüèyǔ), and Chengyu, including double reduplication of the schema AA-BB. (See pinyin#hyphenation.) Character sequences for words with a single meaning, often consisting of two characters, seldom three, are written without intervening hyphen or space. This also holds for compound words combining two words to one meaning: hǎifēng , sea breeze).
+Summary from the Library of Congress:
+* Join, without hyphen or space, multi-character proper nouns, for example:
+** Person's name
+*** Family/clan name 
+*** Given name 
+*** Courtesy name 
+*** Pseudonym
+*** Buddhist name
+** Placename
+*** But separate the following from the placename proper:
+**** Jurisdictional name, such as shì , "city")
+**** Topographycal name, such as shān , "mountain")
+** Era name
+** Ethnic group name
+** Religion name
+** Language name
+==Names of people==
+===General principle===
+The encyclopedia should use the name more familiar to most English readers. For most historical figures this means that the encyclopedia entry should use the transliteration, usually romanized in Hanyu pinyin (but figures from the early twentieth century, like Sun Yat-sen, should follow the customary transliteration when it is more common than pinyin), rather than an anglicization; because English usually does. However, there are exceptions for figures whose English name is more familiar (such as Confucius), and for figures who were raised in non-Chinese societies and whose Chinese names are unfamiliar (such as Vera Wang and Jeremy Lin).
+===Order of names===
+Personal names in Chinese, unlike Western names, present the surname (family or clan name) first. Unlike other instances where this occurs, it is standard practice in English to also present the family name first (for example, Mao Zedong, Deng Xiaoping and Bai Ling).
+There is an exception for people whose Chinese name is familiar but with English ordering (for example, Wen Ho Lee). In this case, the primary entry should be under the Western ordering with a redirect from the Chinese ordering.
+===Romanization of names===
+Chinese names should be written in Hanyu Pinyin unless there is a more common romanization used in English (for example, Chiang Kai-shek, Sun Yat-sen) or when the subject of the article is likely to prefer a non-pinyin romanization as is often the case with people from Singapore, Taiwan, Hong Kong, and older overseas Chinese communities (for example, Lee Kuan Yew, Lee Teng-hui, Tung Chee-hwa).
+When using Wade–Giles, a hyphen should be put between the two syllables of a given name, and the second syllable should not be capitalised (for example, Lee Teng-hui, not Lee Teng Hui).
+===Names of emperors===
+The general principle is to use the name most commonly used in English WP:RS, per policy.
+Summary of guidelines used:
+# Emperors before the Tang dynasty: use posthumous names, such as Emperor Wu of Han .
+# Emperors of the Tang, Song, Liao and Jin (1115–1234) dynasties: use temple names, such as Emperor Taizong of Tang .
+# Emperors of the Ming dynasty and Qing dynasty: use era names (same as reign names), such as Kangxi Emperor .
+The above is a rough guide and there are many exceptions. See the complete list of Chinese monarchs, and follow the conventions given there.
+Because these are reign names and not personal names, the correct phrasing for emperors of the Ming and Qing dynasties is the "Kangxi Emperor" rather than "Emperor Kangxi".
+==Names of dynasties==
+Chinese dynasties should be named using a lower case 'd' in dynasty. For example: Qin dynasty, Society and culture of the Han dynasty and Han Jian (Tang dynasty). Exceptions would be where the word dynasty is part of a proper noun such as Tang Dynasty (band).
+==Names of groups==
+The main entry for a Chinese group should be under the name most familiar to English speakers. In some cases, this will be the translated name (for example, Aluminum Corporation of China Limited). In other cases, this will be the transliterated name (Tzu Chi and Tongmenghui). When the name is transliterated, the name should use the spelling conventionally used by English speakers (for example, Tzu Chi). Where this is not the pinyin transliteration there should be a redirect to the article from the pinyin name.
+When a group uses a translated name, the Chinese characters should always be included, because there is not always a 1:1 correspondence of terms between Chinese and English. For example, the title of the President of the People's Republic of China uses the term "zhuxi" zhǔxí) to mean President, but there are other words in Chinese, such as "zongtong" zǒngtǒng), which are translated as "President" in English. Also, some English-language sources will distort, mistype or simplify the romanization of Chinese: from "Liu" into "Lu"; "Chiang" into "Chang", and so forth.
+Similarly Chinese characters should be included for the Democratic Progressive Party because the standard term used for the party Mínjìn dǎng) is a contraction of the full name Mínzhǔ jìnbù dǎng). Characters should also be included for National People's Congress because there are a number of different Chinese terms to translate Congress, and the entry should identify which one is used.
+Some older institutions maintain idiosyncratic spellings, which are sometimes legally incorporated overseas. Examples include Peking University, Peking Union Medical College, Tsinghua University, and Yenching University.
+===Names of state organs===
+This is an incomplete list of reference material. People who are familiar with the matter are welcomed to provide better source.
+* 
+* 
+* This looks like an excerpt of a manual.
+* Translation of Han dynasty titles. Wikipedia article. Discusses and compares translations, with Chinese characters provided.
+==Place names==
+Use pinyin for place names in China unless another form is more well-established in current English usage. (ex. Sichuan not Szechwan, but Hong Kong not Xianggang). Past English usage which has fallen into disuse in modern English-language sources, such as "Canton" and "Qingdao" should not be used to title an article. For places without a well-established English name and have competing names from transliterations of pinyin vs. ethnic minority languages, which is often the case in Xinjiang, Inner Mongolia, and Tibet, use the name preferred by Xinhua or similarly authoritative organs. For example, Kashgar not Kashi, Shigatse but not Rikaze; conversely, Baotou not Bugat, Kangding not Dartsedo.
+The default naming pattern is "X Class", e.g. Taihang Mountains, Hai River, Fei County. Articles for provinces and cities can leave out the class name, e.g. Liaobei, Beijing. Naming "X Mountain", "Mount X", "X Shan" depends on English usage, e.g. Mount Everest, Tian Shan. Avoid tautologies; e.g. use Mount Tai instead of "Mount Taishan", and Xi River instead of "Xijiang River".
+===Disambiguation of topographical features===
+", e.g. G105 as a redirect link for China National Highway 105.
+===Railway stations===
+Articles for railway stations in China should be named using the city's name (or in some cases the station's unique name&mdash; for example, followed by the English translation of the cardinal direction in the railway station name, if applicable (North, South etc.), and then railway station:
+* – Beijing railway station
+* – Beijing West railway station
+* – Fengtai railway station
+For stations with cardinal directions in their names, use the Pinyin version of the direction in the infobox, and mention it in the article's first sentence as secondary names; also create a redirect with this name. ( urltoken Using Pinyin transliteration of cardinal directions has been the policy of China Railways since 2012; see :zh:阳泉北站)
+* – Beijing West railway station – <code><nowiki></nowiki></code> – Redirects from Beijingxi Railway Station, Beijing West (Currently also Beijing Xi Railway Station)
+* – Beijing South railway station – <code><nowiki></nowiki></code> – Redirects from Beijingnan Railway Station, Beijing South Station
+===Metro stations===
+All metro stations have their own English name, simply write the name that is already in use. However, consider creating a redirect for possible variants: for example,
+Zhenhua Road Station to Zhenhua Lu Station, or Nanjing East Road Station to East Nanjing Road Station.
+===Airports===
+Airport articles should have the city's name followed by the airport's name if applicable, followed by International Airport or Airport as applicable:
+* – Beijing Capital International Airport
+* – Shanghai Pudong International Airport 
+* – Guangzhou Baiyun International Airport
+==Culture==
+For Chinese cuisine, use established terms that are understandable, particularly if such names are in daily use in the English-speaking world. Avoid Chinese abbreviations and pre-pinyin romanizations no longer in use of modern scholarship, except when quoting sources.
+*Sichuan cuisine not Szechwan or "Chuan cuisine"
+*Cantonese cuisine not Yuecai or "Yue cuisine"
+*General Tso's chicken not "General Zuo's chicken"
+*Kung Pao chicken, not "Gongbao chicken"
+*Dim sum not Dianxin
+For the various Chinese operas or other performance arts, use an established translation, or, if that is not available (which is usual), use pinyin.
+*Peking opera not Jingju
+*Pingju not "Hebei Opera" (that term is also used for Hebei Bangzi 
+And as always, work individual articles out on a case by case basis rather than let these conventions constrain you!
+===Languages or dialects===
+Chinese linguists classify local varieties of Chinese into dialect groups: Mandarin, Wu, Gan, Xiang, Min, Hakka, Yue and, in some classifications, Jin, Hui and Pinghua. They have also subdivided these into subgroups at various levels. While these groups are sometimes referred to as dialects, this has been criticized as a confusing departure from usual uses of the term elsewhere in the world. Some call them languages, on the grounds that they are mutually unintelligible, but this practice has been criticized both by those who feel it does not reflect the historical and cultural unity of Chinese, and by linguists who point to mutual unintelligibility within each of the groups.
+Avoid explicitly naming the dialect groups as either languages or dialects. Simply use the name itself if there is no ambiguity. If there is, use "xxx Chinese" for top-level groups or "xxx Min", "xxx Mandarin" etc for lower-level divisions. For the local variety of a county or city, use "xxx dialect" unless another name is more common. In the event that the name of a variety is also the name used to refer to the people (e.g. Shanghainese), the variety should take precedence as the primary article name with a disambiguation link for the people.
+Be aware that certain varieties of Chinese have multiple synonymous names in English, which can be alternately used to emphasize certain linguistic qualities. For example, Modern Standard Mandarin can be described as Standard Chinese to emphasize the fact that it is the standard language. The same language may be described as Modern Standard Mandarin to emphasize its difference from Standard Cantonese or Taiwanese Hokkien. It also may be called Modern Chinese to emphasize differences with Classical Chinese. Similarly, to call Taiwanese Hokkien simply by "Taiwanese" would de-emphasize its relationship to the broader Hokkien language group. The best name for each particular variety often depends on the article and its context.
+The inclusion relationship between certain oft-confused groups and varieties is:
+* Mandarin Chinese 
+** Standard Chinese 
+*** Taiwanese Mandarin 
+*** Singaporean Mandarin 
+* Min Chinese 
+** Southern Min 
+*** Hokkien 
+**** Taiwanese Hokkien 
+* Yue Chinese 
+** Cantonese
+
+These guidelines mainly deal with the systematic titling of Chinese-related articles. For issues of style within the article text for articles related to China, please see Wikipedia:Manual of Style/China-related articles. If you disagree with any of the conventions, please discuss the issue within the talk page.

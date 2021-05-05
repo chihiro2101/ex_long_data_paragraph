@@ -1,0 +1,96 @@
+Vizier
+
+==Etymology==
+The word entered into English in 1562 from the Turkish vezir ("counselor"), derived from the Arabic wazīr <ref name=EB1911/> ("viceroy"). Wazir itself has two possible etymologies:
+*The most accepted etymology is that it is derived from the Arabic wazara ("to bear a burden"), from the Semitic root W-Z-R.<ref></ref> The word is mentioned in the Quran, where Aaron is described as the wazir (helper) of Moses, as well as the word wizr (burden) which is also derived from the same root.<ref>Goyṭayn, Šelomo D. Studies in Islamic history and institutions. P.171. Compare , and .</ref> It was later adopted as a title, in the form of wazīr āl Muḥammad ("Helper of the Family of Muhammad") by the proto-Shi'a leaders al-Mukhtar and Abu Salama. Under the Abbasid caliphs, the term acquired the meaning of "representative" or "deputy". 
+*On the other hand, the presence of a Middle Persian word vizīr or vicīr (meaning "a legal document" or "decision"),<ref name="IslamicStudy"></ref> cognate to the Avestan vīcira, meaning "decreer" or "arbitrator", could possibly indicate an Indo-European origin.<ref>Dehkhoda Dictionary</ref><ref>Klein, Ernest, A comprehensive etymological dictionary of the English language: Dealing with the origin of words and their sense development thus illustrating the history of civilization and culture, Volume 2, Elsevier, 1966.</ref>
+==Historical ministerial titles==
+The office of vizier arose under the first Abbasid caliphs, and spread across the Muslim world.
+The vizier stood between sovereign and subjects, representing the former in all matters touching the latter.<ref name=britannica> urltoken "vizier", Encyclopædia Britannica 2010, Retrieved on 2010-06-17.</ref> The 11th-century legal theorist al-Mawardi defined two types of viziers: wazīr al-tanfīdh ("vizier of execution"), who had limited powers and served to implement the caliph's policies, and the far more powerful wazīr al-tafwīd ("vizier with delegated powers"), with authority over civil and military affairs, and enjoyed the same powers as the caliph, except in the matter of the succession or the appointment of officials. Al-Mawardi stressed that the latter, as an effective viceroy, had to be a Muslim well versed in the Shari'a, whereas the former could also be a non-Muslim or even a slave, although women continued to be expressly barred from the office.
+Historically, the term has been used to describe two very different ways: either for a unique position, the prime minister at the head of the monarch's government (the term Grand Vizier always refers to such a post), or as a shared 'cabinet rank', rather like a British secretary of state. If one such vizier is the prime minister, he may hold the title of Grand Vizier or another title.
+===In Islamic states===
+*The title was first used in the early Abbasid Caliphate, cf. Vizier (Abbasid Caliphate). 
+*In Muslim Persia, the prime minister under the political authority of the Shahanshah was commonly styled Vazīr-e Azam ('Supreme -, i.e. Grand Vizier'; alternative titles include Atabeg and Sardār-e Azam), and various Ministers held cabinet rank as vazir, including a Vazir-i-Daftar (minister for finance) and a Vazir-i-Lashkar (war portfolio).
+* In al-Andalus, the Umayyad Caliphs of Córdoba appointed a varying number of viziers, as heads of departments in the bureaucracy, ministers with specific tasks, and royal councillors; at one point, in 1008, there were as many as 29 viziers at the same time. Unlike the Islamic east, the senior office of the Umayyad state was that of the chamberlain (hajib). Under the Taifa kingdoms the title proliferated and became a generic court title. During the later Umayyads, viziers were also appointed outside the capital as provincial governors or commanders, a practice which continued until the fall of the Emirate of Granada in the 15th century. The Spanish word alguacil (governor, official with civil or criminal duties) derives from this.
+* In Muslim Egypt, the most populous Arab country:
+**Vizier under the Fatimid Caliphs.
+**Again since the effective end of Ottoman rule, remarkably since 1857 (i.e. before the last Wali (governor), Isma`il Pasha, was raised Khedive (circa Viceroy, on 8 June 1867), exchanged for the western prime ministers on 28 August 1878 (before the formally independent sultanate was proclaimed).
+*During the days of the Ottoman Empire, the Grand Vizier was the—often de facto ruling—prime minister, second only to the Sultan and was the leader of the Divan, the Imperial Council. "Vizier" was also the title of some Ottoman provincial governors, use of the title often indicating a greater degree of autonomy for the province involved and the greater prestige of the title holder (this was, for example, a major issue in the Bosnian uprising of 1831).
+*In the Sherifian kingdom of Morocco (historically a sultanate till the incumbent assumed the higher royal style of Malik on 14 August 1957, shortly after the end of the simultaneous French and Spanish protectorates; the additional Islamic title Amir al-Mu´minin "Commander of the Faithful" stayed in use), a Sadr al-A'zam (Grand Vizier) was in office until 22 November 1955, replaced since 7 December 1955 a (part-political) Prime Minister; Vizier was the style of a minister of state (other titles for various portfolios).
+*In the Hashemite Kingdom of Hejaz (later merged into present-day Saudi Arabia), the sole Vizier was (10 June 19163 October 1924) the future second king Ali of Hejaz, under his father Hussein ibn Ali al-Hashimi (the first to assume the title Malik, i.e. King, instead of Grand Sharif), maintained after the Sharifian Caliphate (only 11 March 19243 October 1924)
+*In the 'regency' of Tunisia, under the Husainid Dynasty, various ministers of the Bey, including:
+**Wazir al-Akbar (or El Ouzir El Kébir): 'great minister', i.e. grand vizier, chief minister or prime minister.
+**Wazir al-'Amala (or El Ouzir El Amala): Minister for the Interior.
+**Wazir al-Bahr (or El Ouzir El Bahr): Minister 'of the Sea', i.e. for the Navy/ Marine.
+**Wazir al-Harb (or El Ouzir El Harb): Minister for the Army or Minister for War.
+**Wazir al-Istishara (or El Ouzir El Istichara): Minister-Counsellor.
+**Wazir al-Qalam: Minister of the Pen.
+**Wazir ud-Daula (or El Ouzir El Dawla): Minister of State.
+**Wazir us-Shura (or El Ouzir Ech Choura): Privy Counsellor.
+*In Oman the Hami/Sultan's chief minister was styled Wazir till 1966, but in 1925–1932 there was also or instead a chairman of the council of Ministers; since 1970 the style is prime minister.
+*In the Bengal Sultanate, many local officials had the title of Wazir/Uzir
+*Viziers to the Sultans of Zanzibar (a branch of the Omani dynasty); since 1890 filled by British, also known as first ministers, (1 July 191323 February 1961) the British Resident (title)s, an extremely direct form of indirect rule (before and after chief- or prime ministers, generally native).
+*Grand Viziers to the Sultan of Sokoto – this is however disputed. The title "Waziri" is apparently a derivative of this word, and is a highly regarded chieftaincy title in most of northern Nigeria. Indeed, most of the emirs in northern Nigeria have a "Waziri", who is usually a high-ranking adviser to the emir.
+*In pre- and colonial (notably British) India many rulers, even some Hindu princes, had a vizier as chief minister – compare Diwan, Nawab wasir, Pradhan, etc.
+*In the (former) sultanate of the Maldives (Divehi language), the prime minister was styled Bodu Vizier, and various Ministers held cabinet rank as vazierin (plural), including Hakura'a (portfolio of Public Works), Shahbandar (Navy portfolio, also admiral in chief), Vela'ana'a (Foreign Affairs).
+* In Afghanistan, under the Durrani dynasty, the chief minister was styled Vazīr-e Azam or Wazir-i-azam (1801–1880); the Vazīr-e Darbār or Wazir al-durbar was the ('House') Minister of the Royal Court.
+* List of Ghaznavid Viziers
+==Modern post-monarchy use==
+Wazīr is the standard Arabic word for a government minister. Prime ministers are usually termed as Ra'īs al-Wuzara (literally, president of the ministers) or al-Wazīr al-'Awwal (prime "first" minister). The latter term is generally found in the Maghreb, while the former is typical of usage in the Mashriq (broadly defined, including Egypt, Sudan, Levant, Iraq and the Arabian Peninsula). Thus, for example, the Prime Minister of Egypt is in Arabic a wazīr.
+In Brunei the vizier is known as Pengiran Bendahara.
+In Iran the ministers of government are called Vazīr in Persian (e.g. foreign/health Vazīr), and Prime Minister of Iran before the removal of the post, was called as Nokhost Vazīr.
+In Pakistan, the prime minister (de facto ruling politician, formally under the president) is called Vazīr-e Azam (Persian for Grand vizier), other Ministers are styled vazirs.
+In India, Vazīr is the official translation of minister in the Urdu language, and is used in ministerial oath taking ceremonies conducted in Urdu.
+In East Africa – Kenya and Tanzania, ministers are referred to as Waziri in Swahili and prime ministers as Waziri Mkuu.
+In the Nation of Islam, Louis Farrakhan is sometimes given the honorific title of Wazir
+In Brunei, Viziers are divided into 5 titles, although two remain vacant since Brunei independence.
+*The current head of vizier or Perdana Wazir of Brunei is Prince Mohamed Bolkiah. His full title is His Royal Highness Perdana Wazir Sahibul Himmah Wal-Waqar Prince Haji Mohamed Bolkiah.
+*His Royal Highness Pengiran Bendahara Seri Maharaja Permaisuara Prince Haji Sufri Bolkiah
+*His Royal Highness Pengiran Digadong Sahibul Mal Prince Haji Jefri Bolkiah
+*Pengiran Pemancha Sahibul Rae' Wal-Mashuarah – vacant
+*Pengiran Temanggong Sahibul Bahar – vacant
+==Anachronistic historical use==
+It is common, even among historians, to apply relatively contemporary terms to cultures whose own authentic titles are (or were when the habit took root) insufficiently known, in this case to pre-Islamic antiquity.
+*In ancient Egypt the highest-ranking government official, appointed by the pharaoh and acting as his chancellor (chief administrator; Egyptian: taty), is called vizier by modern researchers. The term is also used for the chief administrators of Upper and Lower Egypt during the times when the administration of the country was headed by two officials, thus there was a vizier for the North (Lower Egypt, the Nile Delta), and a vizier for the South (Upper Egypt). However at times the viceroy of Nubia (a military governor general, sometimes a prince of the Pharaoh's blood) and/or the High Priest of Amun (the temple complex at Thebes gradually amassed sufficient possessions and income to rival the crown) rose to equal or even superior power; some pharaohs are even believed to have lost real political preeminence to the 'kingmakers'.
+:Thus in modern language-translations of the Bible, in Genesis chapter 41, Joseph, the eleventh son of Jacob, is called Vizier to Pharaoh. In this same chapter of Genesis, Pharaoh changed his newly appointed Vizier's name to Zaphenath-paneah.
+*The term is used to designate the highest official of the kingdom of Ebla (head of the administration; Eblaite: lugal sa-za).
+==Princely title==
+In the rare case of the Indian princely state of Jafarabad (Jafrabad, founded c. 1650), ruled by Thanadars, in 1702 a state called Janjira was founded, with rulers (six incumbents) styled wazir; when, in 1762, Jafarabad and Janjira states entered into personal union, both titles were maintained until (after 1825) the higher style of Nawab was assumed.
+==Art==
+In contemporary literature and pantomime, the "Grand Vizier" is a character stereotype and is usually portrayed as a scheming backroom plotter and the clear power behind the throne of a usually bumbling or incompetent monarch. A well-known example of this is the sinister character of Jafar in the Disney animated film Aladdin, who plots and uses magic to take over the entire Kingdom of Agrabah under the nose of the nation's naïve sultan, just as Jaffar in the 1940 movie The Thief of Bagdad dethroned his master, caliph Ahmad. Others include Zigzag from The Thief and the Cobbler (the original inspiration for the character of Jafar in Disney's Aladdin), the comic book character Iznogoud, Prince Sinbad's advisor Yusuf in the DC Vertigo series Fables, and the villains of the video games Prince of Persia and King's Quest VI: Heir Today, Gone Tomorrow.
+Perhaps the origin of this character archetype is the biblical account of Esther. The book details the rise of a Jewish woman to Queen of Persia, and her role in stopping the plot of Haman, chief advisor to the Persian king, to wipe out all Jews living in Persia.
+Throughout history the notion of the sinister Grand Vizier has often been invoked when a political leader appears to be developing a cozy relationship with a spiritual advisor of questionable scruples or talents. This stereotype is frequently mentioned in Terry Pratchett's Discworld series, as for example in both Sourcery and Interesting Times. Another instance of a sinister Grand Vizier in entertainment can be found in the science fiction series Lexx, the primary antagonist in the second season being Mantrid, the self-proclaimed "greatest Bio-Vizier of all time."
+==Some famous viziers in history==
+*Yahya ibn Khalid of Harun al Rashid (Whose son Jafar bin Yahya was an inspiration for the aforementioned Arabian Nights Jafar)
+*Amir Kabir of the Qajar dynasty in Iran history
+*Hasanak vazir of the Ghaznavid dynasty in Iran history
+*Almanzor of the Caliphate of Córdoba was the de facto ruler of Islamic Spain
+*Nizam al-Mulk of Malik Shah I in Seljuks history
+*Pargalı Ibrahim Pasha of the Ottoman Empire. 
+*Sokollu Mehmed Pasha of the Ottoman Empire.
+*Köprülü Mehmed Pasha and his son Köprülü Fazıl Ahmed Pasha of the Ottoman Empire.
+==Influence on chess==
+In Shatranj, from which modern chess developed, the piece corresponding to the modern chess "queen" (though far weaker) was often called Wazīr.
+Up to the present, the word for the queen piece in chess is still called by variants of the word "vazīr" in Middle Eastern languages, as well as in Hungarian ("vezér", meaning "leader") and Russian ("ferz' (ферзь)").
+==See also==
+*Vaziri (disambiguation), a surname
+*List of Grand Viziers of Persia
+*Wazir (Pashtun tribe)
+*Waziri language
+*Waziristan
+*Wasita (title)
+*Wuzurg framadar
+==Notes==
+==References==
+==Sources==
+* 
+* 
+* 
+* 
+* 
+* 
+* urltoken Etymology OnLine
+
+A vizier (or wazir) , rarely ;<ref name="reference1"></ref> wazīr, vazīr) is a high-ranking political advisor or minister in the Muslim world.<ref name="EB1911"></ref> The Abbasid caliphs gave the title wazir to a minister formerly called katib (secretary), who was at first merely a helper but afterwards became the representative and successor of the dapir (official scribe or secretary) of the Sassanian kings.<ref>R. A. Nicholson, A Literary History of the Arabs, p. 257</ref>
+In modern usage, the term has been used for government ministers in much of the Middle East and beyond.
+Several alternative spellings are used in English, such as vizir, wazir, and vezir.

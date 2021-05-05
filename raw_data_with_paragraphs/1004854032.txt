@@ -1,0 +1,81 @@
+Nubian languages
+
+== History ==
+In the October War, Egypt employed Nubian-speaking Nubian people as code talkers.<ref></ref><ref></ref><ref></ref>
+==Languages==
+Rilly (2010) distinguishes the following Nubian languages, spoken by in total about 900,000 speakers:
+# Nobiin, the largest Nubian language with 545,000 speakers in Egypt, Sudan, and the Nubian diaspora. Previously known by the geographic terms Mahas and Fadicca/Fiadicca. As late as 1863 this language, or a closely related dialect, was known to have been spoken by the arabized Nubian Shaigiya tribe.
+# Kenzi (endonym: Mattokki) with 100,000 speakers in Egypt and Dongolawi (endonym: Andaandi) with 180,000 speakers in Sudan. They are no longer considered a single language, but closely related. The split between Kenzi and Dongolawi is dated relatively recently to the 14th century.
+# Midob (Meidob) with 30,000 speakers. The language is spoken primarily in and around the Malha volcanic crater in North Darfur.
+# Birgid, now extinct, was spoken north of Nyala around Menawashei, with the last known speakers alive in the 1970s. It was the predominant language between the corridor of Nyala and al-Fashir in the north and the Bahr al-Arab in the south as recently as 1860. 
+# Hill Nubian or Kordofan Nubian, a group of closely related languages or dialects spoken in various villages in the northern Nuba Mountains; in particular by the Dilling, Debri, and Kadaru. An extinct language, Haraza, is known only from a few dozen words recalled by village elders in 1923.<ref>Herman Bell (1975) " urltoken Documentary Evidence on the Haraza Nubian Language"</ref><ref></ref>
+Old Nubian is preserved in at least a hundred pages of documents, comprising both texts of a Christian religious nature and documentary texts dealing with state and legal affairs. Old Nubian was written with a slanted uncial variety of the Coptic alphabet, with the addition of characters derived from Meroitic. These documents range in date from the 8th to the 15th century AD. Old Nubian is currently considered ancestral to modern Nobiin, even though it shows signs of extensive contact with Dongolawi. Another, as yet undeciphered Nubian language has been preserved in a few inscriptions found in Soba, the capital of Alodia. Since their publication by Adolf Ermann in 1881, they are referred as 'Alwan inscriptions' or 'Alwan Nubian.'
+Synchronic research on the Nubian languages began in the last decades of the nineteenth century, first focusing on the Nile Nubian languages Nobiin and Kenzi-Dongolawi. Several well-known Africanists have occupied themselves with Nubian, most notably Lepsius (1880), Reinisch (1879) and Meinhof (1918); other early Nubian scholars include Almkvist and Schäfer. Additionally, important comparative work on the Nubian languages has been carried out by Thelwall, Marianne Bechhaus-Gerst in the second half of the twentieth century and Claude Rilly and George Starostin in the twenty-first.
+== Classification ==
+Traditionally, the Nubian languages are divided into three branches: Northern (Nile), Western (Darfur), and Central. Ethnologue's classifies the Nubian languages as follows:.<ref></ref>
+* Northern (Nile)
+** Old Nubian
+*** Nobiin
+* Western (Darfur)
+** Midob
+* Central
+** Kenzi
+** Birgid
+** Dongolawi
+** Hill (Kordofan)
+*** Kadaru-Ghulfan
+**** Ghulfan
+**** Kadaru
+*** Unclassified
+**** Dair
+**** Dilling
+**** El Hugeirat
+**** Karko
+**** Wali
+Glottolog groups all non-Northern Nubian branches in a single group named West-Central Nubian. Additionally, within Hill Nubian, Glottolog places Dair in the same branch as Kadaru.<ref></ref>
+The relation between Dongolawi and Nobiin remains a matter of debate within Nubian Studies. Ethnologue's classification is based on glotto-chronological research of Thelwall (1982) and Bechhaus-Gerst (1996), which considers Nobiin the earliest branching from Proto-Nubian. They attribute the current syntactical and phonological proximity between Nobiin and Dongolawi to extensive language contact. Arguing that there is no archeological evidence for a separate migration to the Nile of Dongolawi speakers, Rilly (2010) provides evidence that the difference in vocabulary between Nobiin and Dongolawi is mainly due to a pre-Nubian substrate underneath Nobiin, which he relates to the Meroitic. Approaching the inherited proto-Nubian vocabulary in all Nubian languages systematically through a comparative linguistic approach, Rilly arrives at the following classification:<ref></ref>
+* Nile Nubian
+** Old Nubian
+*** Nobiin
+** Kenzi-Dongolawi
+*** Dongolawi
+*** Kenzi
+* Western Nubian
+** Birgid
+** Midob-Kordofan
+*** Midob
+*** Kordofan
+==Reconstruction==
+A reconstruction of Proto-Nubian has been proposed by Claude Rilly (2010: 272-273).<ref>Rilly, Claude. 2010. Le méroïtique et sa famille linguistique. Leuven: Peeters Publishers. </ref>
+==Orthography==
+There are three currently active proposals for a Nubian alphabet: based on the Arabic script, the Latin script and the Old Nubian alphabet. Since the 1950s, Latin has been used by four authors, Arabic by two and Old Nubian by three, in the publication of various books of proverbs, dictionaries, and textbooks. For Arabic, the extended ISESCO system may be used to indicate vowels and consonants not found in the Arabic alphabet itself.
+==See also==
+*List of Proto-Nubian reconstructions (Wiktionary)
+==References==
+==Sources==
+* Abdel-Hafiz, A. (1988). A Reference Grammar of Kunuz Nubian. PhD Thesis, SUNY, Buffalo, NY.
+* Adams, W. Y. (1982). 'The coming of Nubian speakers to the Nile Valley', in The Archeological and Linguistic Reconstruction of African History. Edited by C. Ehret & M. Posnansky. Berkeley / Los Angeles, 11&ndash;38.
+* Armbruster, Charles Hubert (1960). Dongolese Nubian: A Grammar. Cambridge: Cambridge University Press.
+* Armbruster, Charles Hubert (1965). Dongolese Nubian: A Lexicon. Cambridge: Cambridge University Press.
+* Asmaa M. I. Ahmed, "Suggestions for Writing Modern Nubian Languages", and Muhammad J. A. Hashim, "Competing Orthographies for Writing Nobiin Nubian", in Occasional Papers in the Study of Sudanese Languages No.&nbsp;9, SIL/Sudan, Entebbe, 2004.
+* Ayoub, A. (1968). The Verbal System in a Dialect of Nubian. Khartoum: University of Khartoum.
+* Bechhaus-Gerst, Marianne (1989). 'Nile-Nubian Reconsidered', in Topics in Nilo-Saharan Linguistics. Edited by M. Lionel Bender. Hamburg: Heinrich Buske.
+* 
+* Bechhaus-Gerst, Marianne (2011). The (Hi)story of Nobiin: 1000 Years of Language Change. Frankfurt am Main: Peter Lang.
+* Erman, Adolf (1881). 'Die Aloa-Inschriften.' Zeitschrift für Ägyptische Sprache und Altertumskunde 19, no. 4." 112&ndash;15.
+* Jakobi, Angelika & Tanja Kümmerle (1993). The Nubian Languages: An Annotated Bibliography. Cologne: Rüdiger Köppe Verlag.
+* Khalil, Mokhtar (1996). Wörterbuch der nubischen Sprache. Warsaw: Nubica.
+* Rilly, Claude (2010). Le méroïtique et sa famille linguistique. Leuven: Peeters.
+* 
+*
+* Starostin, George (2011). 'Explaining a Lexicostatistical Anomaly for Nubian Languages,' lecture, May 25, 2011. urltoken Online version.
+* Thelwall, Robin (1982). 'Linguistic Aspects of Greater Nubian History', in The Archeological and Linguistic Reconstruction of African History. Edited by C. Ehret & M. Posnansky. Berkeley/Los Angeles, 39&ndash;56. urltoken Online version.
+* Werner, Roland (1987). Grammatik des Nobiin (Nilnubisch). Hamburg: Helmut Buske.
+* Werner, Roland (1993). Tìdn-Àal: A Study of Midoob (Darfur Nubian). Berlin: Dietrich Reimer.
+==External links==
+* urltoken Swadesh List comparing basic words of the Nubian languages
+* urltoken Panafrican localization page on Nubian (summaries of information, links)
+* urltoken Nubian alphabet examples 
+* urltoken The Lucky Bilingual: Ethnography of Factors Influencing Code-switching Among the Nubian Community in Southern Egypt
+
+The Nubian languages : lughāt nūbīyyah) are a group of related languages spoken by the Nubians. They form a branch of the Eastern Sudanic languages, which is part of the wider Nilo-Saharan phylum. Initially, Nubian languages were spoken throughout much of Sudan, but as a result of arabization they are today mostly limited to the Nile Valley between Aswan (southern Egypt) and Al Dabbah as well as villages in the Nuba mountains and Darfur.

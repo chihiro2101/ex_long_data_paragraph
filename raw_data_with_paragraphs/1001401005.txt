@@ -1,0 +1,109 @@
+Napier Sabre
+
+==Design and development==
+Prior to the Sabre, Napier had been working on large aero engines for some time. Their most famous was the Lion, which had been a very successful engine between the World Wars and in modified form had powered several of the Supermarine Schneider Trophy competitors in 1923 and 1927, as well as several land speed record cars. By the late 1920s, the Lion was no longer competitive and work started on replacements.
+Napier followed the Lion with two new H-block designs: the H-16 (Rapier) and the H-24 (Dagger). The H-block has a compact layout, consisting of two horizontally opposed engines, lying one atop or beside another. Since the cylinders are opposed, the motion in one is balanced by the motion on the opposing side, leading to no first order vibration or second order vibration. In these new designs, Napier chose air cooling but in service, the rear cylinders proved to be impossible to cool properly, which made the engines unreliable.
+===Genesis===
+During the 1930s, studies showed the need for engines capable of developing one horsepower per cubic inch of displacement (about 45&nbsp;kW/litre). This power output was needed to propel aircraft large enough to carry large fuel loads, for long range flights. A typical large engine of the era, the Pratt & Whitney R-1830 Twin Wasp, developed about 1,200&nbsp;hp (895&nbsp;kW) from 1,830 cubic inches (30 litres), so an advance of some 50 percent would be needed. This called for radical changes and while many companies tried to build such an engine, none succeeded.
+In 1927, Harry Ricardo published a study on the concept of the sleeve valve engine. In it, he wrote that traditional poppet valve engines would be unlikely to produce much more than 1,500&nbsp;hp (1,100&nbsp;kW), a figure that many companies were eyeing for next generation engines. To pass this limit, the sleeve valve would have to be used, to increase volumetric efficiency, as well as to decrease the engine's sensitivity to detonation, which was prevalent with the poor quality fuels in use at the time.<ref>Engines and Enterprise: The Life and Work of Sir Harry Ricardo, John Reynolds,1999 , p.145</ref> Halford had worked for Ricardo 1919-1922 at their London office and Halford's 1923 office was in Ladbroke Grove, North Kensington, only a few miles from Ricardo, while Halford's 1929 office was even closer (700 yards),<ref>Engines and Enterprise: The Life and Work of Sir Harry Ricardo, John Reynolds,1999 , p.103</ref><ref>Boxkite to Jet - the remarkable career of Frank B Halford, Douglas Taylor, 1999,, p.73</ref> and while in 1927 Ricardo started work with Bristol Engines on a line of sleeve-valve designs,<ref>Engines and Enterprise: The Life and Work of Sir Harry Ricardo, John Reynolds,1999 , p.186</ref> Halford started work with Napier,<ref>Boxkite to Jet - the remarkable career of Frank B Halford, Douglas Taylor, 1999,, p.81</ref> using the Dagger as the basis. The layout of the H-block, with its inherent balance and the Sabre's relatively short stroke, allowed it to run at a higher rate of rotation, to deliver more power from a smaller displacement, provided that good volumetric efficiency could be maintained (with better breathing), which sleeve valves could do.<ref>Engines and Enterprise: The Life and Work of Sir Harry Ricardo, John Reynolds,1999 , p.187</ref>
+The Napier company decided first to develop a large 24 cylinder liquid–cooled engine, capable of producing at least 2,000&nbsp;hp (1,491&nbsp;kW) in late 1935. Although the company continued with the opposed H layout of the Dagger, this new design positioned the cylinder blocks horizontally and it was to use sleeve valves.<ref name="Flight309">F C Sheffield 23 March 1944. " urltoken 2,200 h.p. Napier Sabre " Flight, p. 309. www.flightglobal.com. Retrieved: 9 November 2009.</ref> All of the accessories were grouped conveniently above and below the cylinder blocks, rather than being at the front and rear of the engine, as in most contemporary designs.<ref name="Flight309"/>
+The Air Ministry supported the Sabre programme with a development order in 1937 for two reasons: to provide an alternative engine if the Rolls-Royce Vulture and the Bristol Centaurus failed as the next generation of high power engines and to keep Napier in the aero-engine industry.<ref>Industry and Air Power The Expansion Of British Aircraft Production 1935-1941, Sebastian Ritchie 2007, Routledge Taylor and Francis Group, , p.140</ref>
+The first Sabre engines were ready for testing in January 1938, although they were limited to 1,350&nbsp;hp (1,000&nbsp;kW). By March, they were passing tests at 2,050&nbsp;hp (1,500&nbsp;kW) and by June 1940, when the Sabre passed the Air Ministry's 100-hour test, the first production versions were delivering 2,200&nbsp;hp (1,640&nbsp;kW) from their 2,238 cubic inch (37 litre) displacements.<ref name="Flight309"/> By the end of the year, they were producing 2,400&nbsp;hp (1,800&nbsp;kW). The contemporary 1940 Rolls-Royce Merlin II was generating just over 1,000&nbsp;hp (750&nbsp;kW) from a 1,647 cubic inch (27 litre) displacement.
+===Production===
+Problems arose as soon as mass production began. Prototype engines had been hand-assembled by Napier craftsmen and it proved to be difficult to adapt it to assembly-line production techniques. The sleeves often failed due to the way they were manufactured from chrome-molybdenum steel, leading to seized cylinders, which caused the loss of the sole prototype Martin-Baker MB 3.<ref name="Flinov45">Flight 1945, p.550.</ref><ref>Aeroplane 2010, pp. 65–66.</ref> The Ministry of Aircraft Production was responsible for the development of the engine and arranged for sleeves to be machined by the Bristol Aeroplane Company from their Taurus engine forgings. These nitrided austenitic steel sleeves were the result of many years of intensive sleeve development, experience that Napier did not have. Air filters had to be fitted when a new sleeve problem appeared in 1944 when aircraft were operating from Normandy soil with its abrasive, gritty dust.<ref>I Kept No Diary-60 Years with Marine Diesels, Automobile and Aero Engines, F.R. Banks 1978, Airlife Publications, , p.133</ref>
+Quality control proved to be inadequate, engines were often delivered with improperly cleaned castings, broken piston rings and machine cuttings left inside the engine.<ref name="tempest"> urltoken Napier Sabre Retrieved on 17 July 2009.</ref> Mechanics were overworked trying to keep the Sabres running and during cold weather they had to run them every two hours during the night so that the engine oil would not congeal and prevent the engine from starting the next day. These problems took too long to remedy and the engine gained a bad reputation. To make matters worse, mechanics and pilots unfamiliar with the different nature of the engine, tended to blame the Sabre for problems that were caused by not following correct procedures. This was exacerbated by the representatives of the competing Rolls-Royce company, which had its own agenda. In 1944, Rolls-Royce produced a similar design prototype called the Eagle.
+Napier seemed complacent and tinkered with the design for better performance. In 1942, it started a series of projects to improve its high-altitude performance, with the addition of a three-speed, two-stage supercharger, when the basic engine was still not running reliably. In December 1942, the company was purchased by the English Electric, which ended the supercharger project immediately and devoted the whole company to solving the production problems, which was achieved quickly.
+By 1944, the Sabre V was delivering 2,400 horsepower (1,800&nbsp;kW) consistently and the reputation of the engine started to improve. This was the last version to enter service, being used in the Hawker Typhoon and its derivative, the Hawker Tempest. Without the advanced supercharger, the engine's performance over fell off rapidly and pilots flying Sabre-powered aircraft, were generally instructed to enter combat only below this altitude. At low altitude, both planes were formidable. As air superiority over Continental Europe was slowly gained, Typhoons were increasingly used as fighter-bombers, notably by the RAF Second Tactical Air Force. The Tempest became the principal destroyer of the V-1 flying bomb (Fieseler Fi 103), since it was the fastest of all the Allied fighters at low levels. Later, the Tempest destroyed about 20 Messerschmitt Me 262 jet aircraft.
+Development continued and the later Sabre VII delivered 3,500&nbsp;hp (2,600&nbsp;kW) with a new supercharger. The final test engines delivered 5,500&nbsp;hp <ref>Setright p.134</ref>(4,100&nbsp;kW) at 45&nbsp;lb/in<sup>2</sup> boost. By the end of World War II, there were several engines in the same power class. The Pratt & Whitney R-4360 Wasp Major four-row, 28-cylinder radial produced 3,000&nbsp;hp (2,280&nbsp;kW) at first and later types produced 3,800&nbsp;hp (2,834&nbsp;kW), but these required almost twice the displacement in order to do so, 4,360 cubic inches (71 litres).
+==Variants==
+Note:
+;Sabre I (E.107)
+:(1939) 2,000 horsepower (1,490 kW).
+;Sabre II
+:(1940) 2,300 horsepower (1,715 kW). Experimental 0.332:1 propeller reduction gear ratio.
+;Sabre II (production variant)
+:2,200 horsepower (1,640 kW). Reduction gear ratio 0.274:1: mainly used in early Hawker Typhoons.<ref>Sheffield March 1944, p. 310.</ref>
+;Sabre IIA
+:2,235 horsepower (1,665 kW). Revised ignition system: maximum boost +9 lbs.<ref>Air Ministry 1943, pp. 24, 25.</ref>
+;Sabre IIB
+:2,400 horsepower (1,790 kW). Four choke SU Carburettor: Mainly used in Hawker Tempest.<ref name="Flight 1945, p. 551.">Flight 1945, p. 551.</ref>
+;Sabre IIC
+:2,065 horsepower (1,540 kW). Similar to Mk VII.
+;Sabre III
+:2,250 horsepower (1,680 kW). Similar to Mk IIA, tailored for the Blackburn Firebrand: 25 manufactured and installed.<ref name="Flight 1945, p. 551."/>
+;Sabre IV
+:2,240 horsepower (1,670 kW). As Mk VA with Hobson fuel injection: preliminary flight development engine for Sabre V series.<ref name="Flight 1945, p. 551."/> Used in Hawker Tempest I.<ref>Mason 1991, p. 331.</ref>
+;Sabre V
+:2,600 horsepower (1,940 kW). Developed MK II, redesigned supercharger with increased boost, redesigned induction system.
+;Sabre VA
+:2,600 horsepower (1,940 kW). Mk V with Hobson-R.A.E fuel injection, single-lever throttle and propeller control: used in Hawker Tempest VI.
+;Sabre VI
+:2,310 horsepower (1,720 kW). Mk VA with Rotol cooling fan: used in 2 Hawker Tempest Vs modified to use Napier designed annular radiators; also in experimental Vickers Warwick.<ref>Flight 1946, p. 91.</ref>
+;Sabre VII
+:3,055 horsepower (2,278 kW). Mk VA strengthened to withstand high powers produced using Water/Methanol injection. Larger supercharger impeller.<ref>Flight 1945, p. 552.</ref>
+;Sabre VIII
+:3,000 horsepower (2,240 kW). Intended for Hawker Fury; tested in the Folland Fo.108.
+;Sabre E.118
+:(1941) Three-speed, two-stage supercharger, contra-rotating propeller; test flown in Fo.108.
+;Sabre E.122
+:(1946) 3,500 horsepower. Intended for Napier 500mph tailless fighter
+==Applications==
+The engine has been used in multiple aircraft, including the two widely deployed fighters.<ref>Application lists from Lumsden</ref>
+===Applications - widely deployed===
+* Hawker Tempest
+* Hawker Typhoon
+===Applications - limited production and prototypes===
+* Blackburn Firebrand, only in 21 early production aircraft
+* Fairey Battle, testbed
+* Folland Fo.108, testbed
+* Hawker Fury, prototype (2 built (LA610,VP207), 485&nbsp;mph)
+* Martin-Baker MB 3, prototype
+* Napier-Heston Racer, prototype
+* Vickers Warwick, prototype
+==Restoration project and engines on display==
+;Under restoration:
+* Canadian Aviation Heritage Centre, Macdonald Campus, McGill University, Montréal.<ref> urltoken CAHC "Workshop One" Retrieved: 21 November 2009.</ref>
+* Sabre IIa, Serial Number 2484, urltoken Hawker Typhoon Preservation Group, RB396, UK
+;Preserved on public display:
+* Solent Sky (example on loan from Birmingham Museum of Science and Industry)
+* Fantasy of Flight, Polk City, Florida
+* A Sabre IIA engine has been restored by the Friends Association of the Museo Nacional de Aeronáutica de Argentina and is on public display at the Engines Hall.
+;Sectioned Napier engines on public display:
+* Imperial War Museum, Duxford (donated by Cambridge University Engineering Department)
+* Royal Air Force Museum London
+* London Science Museum
+* RNZAF Museum, Wigram
+* Canada Aviation and Space Museum, Ottawa
+==Specifications (Sabre VA)==
+==See also==
+==References==
+===Footnotes===
+===Notes===
+===Bibliography===
+* Air Ministry. Pilot's Notes for Typhoon Marks IA and IB; Sabre II or IIA engine (2nd edition). London: Crecy Publications, 2004. 
+* "A Real Contender (article and images) " urltoken Aeroplane No. 452, Volume 38, Number 12, December 2010.
+* urltoken "A Co-operative Challenger (article and images on Heston Racer)." Flight International No. 1790, Volume XLIII, 15 April 1943.
+*Gunston, Bill. World Encyclopedia of Aero Engines: From the Pioneers to the Present Day. 5th edition, Stroud, UK: Sutton, 2006. 
+* Lumsden, Alec. British Piston Engines and Their Aircraft. Marlborough, UK: Airlife Publishing, 2003. .
+* Mason, Francis K. Hawker Aircraft Since 1920 (3rd revised edition). London: Putnam, 1991. .
+* urltoken "Napier Sabre VII (article and images)." Flight International No. 1926, Volume XLVIII, 22 November 1945.
+* urltoken "Napier Flight Development (article and images on Napier's test and development centre)." Flight International No. 1961, Volume L, 25 July 1946.
+* L. J. K. Setright: The Power to Fly: The Development of the Piston Engine in Aviation. Allen & Unwin, 1971. .
+* Sheffield, F. C. urltoken "2,200 h.p. Napier Sabre (article and images)." Flight International No. 1829, Volume XLV, 13 January 1944.
+* Sheffield, F. C. urltoken "Napier Sabre II (article and images)." Flight International No. 1839, Volume XLV, 23 March 1944.
+*White, Graham. Allied Aircraft Piston Engines of World War II: History and Development of Frontline Aircraft Piston Engines Produced by Great Britain and the United States During World War II. Warrendale, Pennsylvania: SAE International, 1995. 
+* Reynolds, John. Engines and Enterprise: The Life and Work of Sir Harry Ricardo. Stroud, UK: Sutton, 1999. 
+* Taylor, Douglas. Boxkite to Jet - the remarkable career of Frank B Halford. Derby, UK: RRHT, 1999. 
+==Further reading==
+* (1989 copy by Crescent Books, NY.)
+* Pierre Clostermann: The Big Show. London, UK: Chatto & Windus in association with William Heinemann, 1953. (2004 edition).
+==External links==
+* urltoken Napier Power Heritage Trust site
+* urltoken Cutaway illustration of a Napier Sabre drawn by Max Millar (uncredited) and coloured in by Makoto Oiuchi
+* urltoken The Sabre-powered Napier-Heston Racer
+* urltoken The Hawker Tempest Page
+* urltoken The Greatest Engines of All Time
+* urltoken NAPIER SABRE 3000 B.H.P A 1946 Flight advertisement for the Sabre engine
+
+The Napier Sabre was a British H engine, coolant, sleeve valve, piston aero engine, designed by Frank Halford and built by D. Napier & Son during World War II. The engine evolved to become one of the most powerful inline piston aircraft engines in the world, developing from in its earlier versions to in late-model prototypes.
+The first operational aircraft to be powered by the Sabre were the Hawker Typhoon and Hawker Tempest; the first aircraft powered by the Sabre was the Napier-Heston Racer, which was designed to capture the world speed record. Other aircraft using the Sabre were early prototype and production variants of the Blackburn Firebrand, the Martin-Baker MB 3 prototype and a Hawker Fury prototype. The rapid introduction of jet engines after the war led to the quick demise of the Sabre, as there was less need for high power military piston aero engines and because Napier turned its attention to developing turboprop engines such as the Naiad and Eland.

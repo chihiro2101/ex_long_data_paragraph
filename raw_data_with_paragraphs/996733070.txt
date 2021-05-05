@@ -1,0 +1,55 @@
+Scalable Coherent Interface
+
+==History==
+Soon after the FASTBUS (IEEE 960) follow-on Futurebus (IEEE 896) project in 1987, some engineers predicted it would already be too slow for the high performance computing marketplace by the time it would be released in the early 1990s.
+In response, a "Superbus" study group was formed in November 1987.
+Another working group of the standards association of the Institute of Electrical and Electronics Engineers (IEEE) spun off to form a standard targeted at this market in July 1988.<ref></ref>
+It was essentially a subset of Futurebus features that could be easily implemented at high speed, along with minor additions to make it easier to connect to other systems, such as VMEbus. Most of the developers had their background from high-speed computer buses. Representatives from companies in the computer industry and research community included Amdahl, Apple Computer, BB&N, Hewlett-Packard, CERN, Dolphin Server Technology, Cray Research, Sequent, AT&T, Digital Equipment Corporation, McDonnell Douglas, National Semiconductor, Stanford Linear Accelerator Center, Tektronix, Texas Instruments, Unisys, University of Oslo, University of Wisconsin.
+The original intent was a single standard for all buses in the computer.<ref name="site"></ref>
+The working group soon came up with the idea of using point-to-point communication in the form of insertion rings. This avoided the lumped capacitance, limited physical length/speed of light problems and stub reflections in addition to allowing parallel transactions. The use of insertion rings is credited to Manolis Katevenis who suggested it at one of the early meetings of the working group. The working group for developing the standard was led by David B. Gustavson (chair) and David V. James (Vice Chair).<ref></ref>
+David V. James was a major contributor for writing the specifications including the executable C-code. Stein Gjessing’s group at the University of Oslo used formal methods to verify the coherence protocol and Dolphin Server Technology implemented a node controller chip including the cache coherence logic.
+Different versions and derivatives of SCI were implemented by companies like Dolphin Interconnect Solutions, Convex, Data General AViiON (using cache controller and link controller chips from Dolphin), Sequent and Cray Research. Dolphin Interconnect Solutions implemented a PCI and PCI-Express connected derivative of SCI that provides non-coherent shared memory access. This implementation was used by Sun Microsystems for its high-end clusters, Thales Group and several others including volume applications for message passing within HPC clustering and medical imaging. 
+SCI was often used to implement non-uniform memory access architectures.
+It was also used by Sequent Computer Systems as the processor memory bus in their NUMA-Q systems. Numascale developed a derivative to connect with coherent HyperTransport.
+==The standard==
+The standard defined two interface levels: 
+*The physical level that deals with electrical signals, connectors, mechanical and thermal conditions 
+*The logical level that describes the address space, data transfer protocols, cache coherence mechanisms, synchronization primitives, control and status registers, and initialization and error recovery facilities. 
+This structure allowed new developments in physical interface technology to be easily adapted without any redesign on the logical level.
+Scalability for large systems is achieved through a distributed directory-based cache coherence model. (The other popular models for cache coherency are based on system-wide eavesdropping (snooping) of memory transactions – a scheme which is not very scalable.) In SCI each node contains a directory with a pointer to the next node in a linked list that shares a particular cache line.
+SCI defines a 64-bit flat address space (16 exabytes) where 16 bits are used for identifying a node (65,536 nodes) and 48 bits for address within the node (256 terabytes). A node can contain many processors and/or memory. The SCI standard defines a packet switched network.
+===Topologies===
+SCI can be used to build systems with different types of switching topologies from centralized to fully distributed switching:
+*With a central switch, each node is connected to the switch with a ringlet (in this case a two-node ring). 
+*In distributed switching systems, each node can be connected to a ring of arbitrary length and either all or some of the nodes can be connected to two or more rings. 
+The most common way to describe these multi-dimensional topologies is k-ary n-cubes (or tori). The SCI standard specification mentions several such topologies as examples.
+The 2-D torus is a combination of rings in two dimensions. Switching between the two dimensions requires a small switching capability in the node. This can be expanded to three or more dimensions. The concept of folding rings can also be applied to the Torus topologies to avoid any long connection segments.
+===Transactions===
+SCI sends information in packets. Each packet consists of an unbroken sequence of 16-bit symbols. The symbol is accompanied by a flag bit. A transition of the flag bit from 0 to 1 indicates the start of a packet. A transition from 1 to 0 occurs 1 (for echoes) or 4 symbols before the packet end. A packet contains a header with address command and status information, payload (from 0 through optional lengths of data) and a CRC check symbol. The first symbol in the packet header contains the destination node address. If the address is not within the domain handled by the receiving node, the packet is passed to the output through the bypass FIFO. In the other case, the packet is fed to a receive queue and may be transferred to a ring in another dimension. All packets are marked when they pass the scrubber (a node is established as scrubber when the ring is initialized). Packets without a valid destination address will be removed when passing the scrubber for the second time to avoid filling the ring with packets that would otherwise circulate indefinitely.
+===Cache coherence===
+Cache coherence ensures data consistency in multiprocessor systems. The simplest form applied in earlier systems was based on clearing the cache contents between context switches and disabling the cache for data that were shared between two or more processors. These methods were feasible when the performance difference between the cache and memory were less than one order of magnitude. Modern processors with caches that are more than two orders of magnitude faster than main memory would not perform anywhere near optimal without more sophisticated methods for data consistency. Bus based systems use eavesdropping (snooping) methods since buses are inherently broadcast. Modern systems with point-to point links use broadcast methods with snoop filter options to improve performance. Since broadcast and eavesdropping are inherently non-scalable, these are not used in SCI.
+Instead, SCI uses a distributed directory-based cache coherence protocol with a linked list of nodes containing processors that share a particular cache line. Each node holds a directory for the main memory of the node with a tag for each line of memory (same line length as the cache line). The memory tag holds a pointer to the head of the linked list and a state code for the line (three states – home, fresh, gone). Associated with each node is also a cache for holding remote data with a directory containing forward and backward pointers to nodes in the linked list sharing the cache line. The tag for the cache has seven states (invalid, only fresh, head fresh, only dirty, head dirty, mid valid, tail valid).
+The distributed directory is scalable. The overhead for the directory based cache coherence is a constant percentage of the node’s memory and cache. This percentage is in the order of 4% for the memory and 7% for the cache.
+==Legacy==
+SCI is a standard for connecting the different resources within a multiprocessor computer system, and it is not as widely known to the public as for example the Ethernet family for connecting different systems. Different system vendors implemented different variants of SCI for their internal system infrastructure. These different implementations interface to very intricate mechanisms in processors and memory systems and each vendor has to preserve some degrees of compatibility for both hardware and software.
+Gustavson led a group called the Scalable Coherent Interface and Serial Express Users, Developers, and Manufacturers Association and maintained a web site for the technology starting in 1996.<ref name="site" /> A series of workshops were held through 1999.
+After the first 1992 edition,<ref name="std92" /> follow-on projects defined shared data formats in 1993,<ref></ref> a version using low-voltage differential signaling in 1996,<ref></ref> and a memory interface known as Ramlink later in 1996.<ref></ref>
+In January 1998, the SLDRAM corporation was formed to hold patents on an attempt to define a new memory interface that was related to another working group called SerialExpress or Local Area Memory Port.<ref></ref><ref></ref>
+However, by early 1999 the new memory standard was abandoned.<ref></ref>
+In 1999 a series of papers was published as a book on SCI.<ref></ref>
+An updated specification was published in July 2000 by the International Electrotechnical Commission (IEC) of the International Organization for Standardization (ISO) as ISO/IEC 13961.<ref></ref>
+==See also==
+* Dolphin Interconnect Solutions
+* List of device bandwidths 
+* NUMAlink
+* QuickRing
+* HIPPI
+* IEEE 1355
+* RapidIO
+* Myrinet
+* QsNet
+* Futurebus
+* InfiniBand
+
+The Scalable Coherent Interface or Scalable Coherent Interconnect (SCI), is a high-speed interconnect standard for shared memory multiprocessing and message passing. The goal was to scale well, provide system-wide memory coherence and a simple interface; i.e. a standard to replace existing buses in multiprocessor systems with one with no inherent scalability and performance limitations.
+The IEEE Std 1596-1992, IEEE Standard for Scalable Coherent Interface (SCI) was approved by the IEEE standards board on March 19, 1992.<ref name="std92"></ref> It saw some use during the 1990s, but never became widely used and has been replaced by other systems from the early 2000s.

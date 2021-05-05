@@ -1,0 +1,52 @@
+Salyut 1
+
+== Background ==
+Salyut 1 originated as a modification of the military Almaz space station program then in development. After the landing of Apollo 11 on the Moon in July 1969, the Soviets began shifting the primary emphasis of their crewed space program to orbiting space stations, with a possible lunar landing later in the 1970s if the N-1 booster became flight-worthy. Leonid Brezhnev canceled the lunar landing program in 1974. One other motivation for the space station program was a desire to one-up the US Skylab program then in development. The basic structure of Salyut 1 was adapted from the Almaz with a few modifications and would form the basis of all Soviet space stations through Mir.
+Civilian Soviet space stations were internally referred to as DOS (the Russian acronym for "Long-duration orbital station"), although publicly, the Salyut name was used for the first six DOS stations (Mir was internally known as DOS-7). Several military experiments were nonetheless carried on Salyut 1, including the OD-4 optical visual ranger, the Orion ultraviolet instrument for characterizing rocket exhaust plumes, and the highly classified Svinets radiometer.<ref></ref>
+== Construction and operational history ==
+Construction of Salyut 1 began in early 1970, and after nearly a year it was shipped to the Baikonur Cosmodrome. Some remaining assembly work had yet to be done, and this was completed at the launch center. The Salyut programme was managed by Kerim Kerimov,<ref></ref> chairman of the state commission for Soyuz missions.
+Launch was planned for April 12, 1971, to coincide with the 10th anniversary of Yuri Gagarin's flight on Vostok 1, but technical problems delayed it until April 19.<ref></ref> The first crew launched later in the Soyuz 10 mission, but they ran into troubles while docking and were unable to enter the station; the Soyuz 10 mission was aborted and the crew returned safely to Earth. A replacement crew launched in Soyuz 11 and remained on board for 23 days. This was the first time in the history of spaceflight that a space station had been manned, and a new record time was set in space. This success was, however, short-lived when the crew was killed during reentry, as a pressure-equalization valve in the Soyuz 11 reentry capsule had opened prematurely, causing the crew to asphyxiate. They were the first and, as of 2020, the only humans to have died in space. After this accident, all missions were suspended while the Soyuz spacecraft was redesigned. The station was intentionally destroyed by de-orbiting after six months in orbit, because it ran out of fuel before a redesigned Soyuz spacecraft could be launched to it.
+==Structure==
+At launch, the announced purpose of Salyut was to test the elements of the systems of a space station and to conduct scientific research and experiments. The craft was described as being in length, in maximum diameter, and in interior space with an on-orbit dry mass of . Of its several compartments, three were pressurized (100&nbsp;m³ total), and two could be entered by the crew.<ref name="Nasa 1971-032A"/>
+===Transfer compartment===
+The transfer compartment was equipped with the only docking port of Salyut 1, which allowed one Soyuz 7K-OKS spacecraft to dock. It was the first use of the Soviet SSVP docking system that allowed internal crew transfer, a system that is in use today. The docking cone had a front diameter and a aft diameter.<ref name="Nasa 1971-032A"/>
+===Main compartment===
+The second and main compartment was about in diameter. Televised views showed enough space for eight large chairs (seven at work consoles), several control panels, and 20 portholes (some obstructed by instruments).<ref name="Nasa 1971-032A"/> In Salyut 1 the interior design used various colors (light and dark gray, apple green, light yellow) for supporting the astronauts’ orientation in weightlessness.<ref></ref>
+===Auxiliary compartments===
+The third pressurized compartment contained the control and communications equipment, the power supply, the life support system, and other auxiliary equipment. The fourth and final unpressurized compartment was about 2&nbsp;m in diameter and contained the engine installations and associated control equipment. Salyut had chemical battery, reserve supplies of oxygen and water, and regeneration systems. Externally mounted were two double sets of solar cell panels that extended like wings from the smaller compartments at each end, the heat regulation system's radiators, and orientation and control devices.<ref name="Nasa 1971-032A"/>
+Salyut 1 was modified from one of the Almaz airframes. The unpressurized service module was the modified service module of a Soyuz craft.
+===Orion 1 Space Observatory===
+The astrophysical Orion 1 Space Observatory designed by Grigor Gurzadyan of Byurakan Observatory in Armenia, was installed in Salyut 1. UV astronomy of stars were obtained with the help of a mirror telescope of the Mersenne system and a spectrograph of the Wadsworth system using film sensitive to the far ultraviolet. The dispersion of the spectrograph was 32&nbsp;Å/mm (3.2&nbsp;nm/mm), while the resolution of the spectrograms derived was about 5&nbsp;Å at 2600&nbsp;Å (0.5&nbsp;nm at 260&nbsp;nm). Slitless spectrograms were obtained of the stars Vega and Beta Centauri between 2000 and 3800&nbsp;Å (200 and 380&nbsp;nm).<ref></ref> The telescope was operated by crew member Viktor Patsayev, who became the first man to operate a telescope outside the Earth's atmosphere.<ref name="Marett-Crosby2013"></ref>
+==Specifications==
+* Length – 15.8 m
+* Maximum diameter – 4.15 m
+* Habitable volume – 90 m³
+* Mass at launch – 18,900&nbsp;kg
+* Launch vehicle – Proton (3–4 stages)
+* Span across solar arrays – about 10 m
+* Area of solar arrays – 28 m²
+* Number of solar arrays – 4
+* Resupply carriers – Salyut 1-type Soyuz (redesigned Soyuz missions were intended to take place, but this did not occur)
+* Number of docking ports – 1
+* Total manned missions – 2
+* Total long-duration manned missions – 1
+==Visiting spacecraft and crews==
+The only spacecraft that ever docked to Salyut 1 were Soyuz 10 and Soyuz 11. Soyuz 10 failed to hard-dock with Salyut 1 and had to abort the mission. Soyuz 11 conducted experiments in Salyut 1 for 23 days, however the cosmonauts later died during reentry in their Soyuz capsule.
+===Soyuz 10===
+Soyuz 10 was launched on April 25, 1971, carrying cosmonauts Vladimir Shatalov, Aleksei Yeliseyev, and Nikolai Rukavishnikov. After taking 24&nbsp;hours for rendezvous and approach, Soyuz 10 soft-docked with Salyut 1 on April 24 at 01:47&nbsp;UTC and remained for 5.5&nbsp;h.<ref name="Nasa 1971-032A"/> Hard-docking was unsuccessful due to technical malfunctions. The crew could not enter the station and had to come back to Earth on April 25.
+===Soyuz 11===
+Soyuz 11 was launched on June 6, 1971 at 04:55:09&nbsp;UTC and took 3 hours and 19 minutes on June 7 to complete docking.<ref></ref> The cosmonauts Georgy Dobrovolsky, Viktor Patsayev, and Vladislav Volkov entered to Salyut 1 and their mission was announced as:<ref name="Nasa 1971-032A"/>
+* Checking the design, units, onboard systems, and equipment of the orbital piloted station.
+* Testing the station's manual and autonomous procedures for orientation and navigation, as well as the control systems for maneuvering the space complex in orbit.
+* Studying Earth's surface geology, geography, meteorology, and snow and ice cover.
+* Studying physical characteristics, processes, and phenomena in the atmosphere and outer space in various regions of the electromagnetic spectrum.
+* Conducting medico-biological studies to determine the feasibility of having cosmonauts in the station perform various tasks, and studying the influence of space flight on the human organism.
+On June 29, after 23 days and flying 362 orbits, the mission was cut short due to problems aboard the station, including an electrical fire. The crew transferred back to Soyuz 11 and reentered the Earth's atmosphere. The capsule parachuted to a soft landing at 23:16:52&nbsp;UTC in Kazakhstan, but the recovery team opened the hatch to find all three crew members dead in their couches. An inquest found that a pressure relief valve had malfunctioned during reentry leading to a loss of cabin atmosphere. The crew were not wearing pressure suits, and it was decreed that all further Soyuz missions would require the use of them.
+==Reentry of Salyut 1==
+<span id="Re-entry"></span>
+Salyut 1 was moved to a higher orbit in July–August 1971 to ensure that it would not be destroyed prematurely through orbital decay. In the meantime, Soyuz capsules were being substantially redesigned to allow pressure suits to be worn during launch, docking maneuvers, and re-entry. The Soyuz redesign effort took too long however, and by September, Salyut 1 was running out of fuel. It was decided to conclude the station's mission and on October 11, the main engines were fired for a deorbit maneuver. After 175 days, the world's first space station burned up over the Pacific Ocean.<ref name="Nasa 1971-032A"/>
+Pravda (October 26, 1971) reported that 75% of Salyut 1's studies were carried out by optical means and 20% by radio-technical means, while the remainder involved magnetometrical, gravitational, or other measurements. Synoptic readings were taken in both the visible and invisible parts of the electromagnetic spectrum.<ref name="Nasa 1971-032A"></ref>
+
+Salyut 1 (DOS-1) was the first space station launched into low Earth orbit by the Soviet Union on April 19, 1971. The Salyut program followed this with five more successful launches of seven more stations. The final module of the program, Zvezda (DOS-8), became the core of the Russian segment of the International Space Station and remains in orbit.
+Salyut 1 was modified from one of the Almaz airframes, and was made out of five components: transfer compartment, main compartment, two auxiliary compartments, and Orion 1 Space Observatory.
+Salyut 1 was visited by Soyuz 10 and Soyuz 11. The hard-docking of Soyuz 10 failed and the crew had to abort this mission. The Soyuz 11 crew achieved successful hard docking and performed experiments in Salyut 1 for 23 days. However, they were killed by asphyxia caused by failure of a valve just prior to Earth reentry, and are the only known people to have died above the Kármán line. Salyut 1's mission was later terminated, and it reentered on October 11, 1971.

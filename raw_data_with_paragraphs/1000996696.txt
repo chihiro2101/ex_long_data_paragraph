@@ -1,0 +1,75 @@
+Calabi–Yau manifold
+
+==Definitions==
+The motivational definition given by Shing-Tung Yau is of a compact Kähler manifold with a vanishing first Chern class, that is also Ricci flat.<ref name="yandn">Yau and Nadis (2010)</ref>
+There are many other definitions of a Calabi&ndash;Yau manifold used by different authors, some inequivalent. This section summarizes some of the more common definitions and the relations between them.
+A Calabi&ndash;Yau n-fold or Calabi&ndash;Yau manifold of (complex) dimension n is sometimes defined as a compact n-dimensional Kähler manifold M satisfying one of the following equivalent conditions: 
+* The canonical bundle of M is trivial.
+* M has a holomorphic n-form that vanishes nowhere.
+* The structure group of the tangent bundle of M can be reduced from U(n) to SU(n).
+* M has a Kähler metric with global holonomy contained in SU(n).
+These conditions imply that the first integral Chern class <math>c_1(M)</math> of M vanishes. Nevertheless, the converse is not true. The simplest examples where this happens are hyperelliptic surfaces, finite quotients of a complex torus of complex dimension 2, which have vanishing first integral Chern class but non-trivial canonical bundle.
+For a compact n-dimensional Kähler manifold M the following conditions are equivalent to each other, but are weaker than the conditions above, though they are sometimes used as the definition of a Calabi&ndash;Yau manifold:
+* M has vanishing first real Chern class.
+* M has a Kähler metric with vanishing Ricci curvature.
+* M has a Kähler metric with local holonomy contained in SU(n).
+* A positive power of the canonical bundle of M is trivial.
+* M has a finite cover that has trivial canonical bundle.
+* M has a finite cover that is a product of a torus and a simply connected manifold with trivial canonical bundle.
+If a compact Kähler manifold is simply connected, then the weak definition above is equivalent to the stronger definition. Enriques surfaces give examples of complex manifolds that have Ricci-flat metrics, but their canonical bundles are not trivial, so they are Calabi–Yau manifolds according to the second but not the first definition above. On the other hand, their double covers are Calabi–Yau manifolds for both definitions (in fact, K3 surfaces).
+By far the hardest part of proving the equivalences between the various properties above is proving the existence of Ricci-flat metrics. This follows from Yau's proof of the Calabi conjecture, which implies that a compact Kähler manifold with a vanishing first real Chern class has a Kähler metric in the same class with vanishing Ricci curvature. (The class of a Kähler metric is the cohomology class of its associated 2-form.) Calabi showed such a metric is unique.
+There are many other inequivalent definitions of Calabi–Yau manifolds that are sometimes used, which differ in the following ways (among others):
+* The first Chern class may vanish as an integral class or as a real class.
+* Most definitions assert that Calabi–Yau manifolds are compact, but some allow them to be non-compact. In the generalization to non-compact manifolds, the difference <math>(\Omega\wedge\bar\Omega - \omega^n/n!)</math> must vanish asymptotically. Here, <math>\omega</math> is the Kähler form associated with the Kähler metric, <math>g</math> .
+* Some definitions put restrictions on the fundamental group of a Calabi–Yau manifold, such as demanding that it be finite or trivial. Any Calabi–Yau manifold has a finite cover that is the product of a torus and a simply-connected Calabi–Yau manifold.
+* Some definitions require that the holonomy be exactly equal to SU(n) rather than a subgroup of it, which implies that the Hodge numbers <math>h^^4</math> equipped with a complex manifold structure. Enriques surfaces and hyperelliptic surfaces have first Chern class that vanishes as an element of the real cohomology group, but not as an element of the integral cohomology group, so Yau's theorem about the existence of a Ricci-flat metric still applies to them but they are sometimes not considered to be Calabi&ndash;Yau manifolds. Abelian surfaces are sometimes excluded from the classification of being Calabi&ndash;Yau, as their holonomy (again the trivial group) is a subgroup of SU(2), instead of being isomorphic to SU(2). However, the Enriques surface subset do not conform entirely to the SU(2) subgroup in the String theory landscape.
+=== CY threefolds ===
+In three complex dimensions, classification of the possible Calabi&ndash;Yau manifolds is an open problem, although Yau suspects that there is a finite number of families (albeit a much bigger number than his estimate from 20 years ago). In turn, it has also been conjectured by Miles Reid that the number of topological types of Calabi–Yau 3-folds is infinite, and that they can all be transformed continuously (through certain mild singularizations such as conifolds) one into another&mdash;much as Riemann surfaces can.<ref></ref> One example of a three-dimensional Calabi&ndash;Yau manifold is a non-singular quintic threefold in CP<sup>4</sup>, which is the algebraic variety consisting of all of the zeros of a homogeneous quintic polynomial in the homogeneous coordinates of the CP<sup>4</sup>. Another example is a smooth model of the Barth–Nieto quintic. Some discrete quotients of the quintic by various Z<sub>5</sub> actions are also Calabi&ndash;Yau and have received a lot of attention in the literature. One of these is related to the original quintic by mirror symmetry.
+For every positive integer n, the zero set, in the homogeneous coordinates of the complex projective space CP<sup>n+1</sup>, of a non-singular homogeneous degree n&nbsp;+&nbsp;2 polynomial in n&nbsp;+&nbsp;2 variables is a compact Calabi–Yau n-fold. The case n&nbsp;=&nbsp;1 describes an elliptic curve, while for n&nbsp;=&nbsp;2 one obtains a K3 surface.
+More generally, Calabi–Yau varieties/orbifolds can be found as weighted complete intersections in a weighted projective space. The main tool for finding such spaces is the adjunction formula.
+All hyper-Kähler manifolds are Calabi–Yau manifolds.
+==Applications in superstring theory==
+Calabi&ndash;Yau manifolds are important in superstring theory. Essentially, Calabi&ndash;Yau manifolds are shapes that satisfy the requirement of space for the six "unseen" spatial dimensions of string theory, which may be smaller than our currently observable lengths as they have not yet been detected. A popular alternative known as large extra dimensions, which often occurs in braneworld models, is that the Calabi&ndash;Yau is large but we are confined to a small subset on which it intersects a D-brane. Further extensions into higher dimensions are currently being explored with additional ramifications for general relativity.
+In the most conventional superstring models, ten conjectural dimensions in string theory are supposed to come as four of which we are aware, carrying some kind of fibration with fiber dimension six. Compactification on Calabi&ndash;Yau n-folds are important because they leave some of the original supersymmetry unbroken. More precisely, in the absence of fluxes, compactification on a Calabi&ndash;Yau 3-fold (real dimension 6) leaves one quarter of the original supersymmetry unbroken if the holonomy is the full SU(3).
+More generally, a flux-free compactification on an n-manifold with holonomy SU(n) leaves 2<sup>1−n</sup> of the original supersymmetry unbroken, corresponding to 2<sup>6−n</sup> supercharges in a compactification of type II supergravity or 2<sup>5−n</sup> supercharges in a compactification of type I. When fluxes are included the supersymmetry condition instead implies that the compactification manifold be a generalized Calabi&ndash;Yau, a notion introduced by . These models are known as flux compactifications.
+F-theory compactifications on various Calabi&ndash;Yau four-folds provide physicists with a method to find a large number of classical solutions in the so-called string theory landscape.
+Connected with each hole in the Calabi–Yau space is a group of low-energy string vibrational patterns. Since string theory states that our familiar elementary particles correspond to low-energy string vibrations, the presence of multiple holes causes the string patterns to fall into multiple groups, or families. Although the following statement has been simplified, it conveys the logic of the argument: if the Calabi–Yau has three holes, then three families of vibrational patterns and thus three families of particles will be observed experimentally.
+Logically, since strings vibrate through all the dimensions, the shape of the curled-up ones will affect their vibrations and thus the properties of the elementary particles observed. For example, Andrew Strominger and Edward Witten have shown that the masses of particles depend on the manner of the intersection of the various holes in a Calabi–Yau. In other words, the positions of the holes relative to one another and to the substance of the Calabi–Yau space was found by Strominger and Witten to affect the masses of particles in a certain way. This is true of all particle properties.<ref></ref>
+==See also==
+*Quintic threefold
+*G2 manifold
+*Calabi–Yau algebra
+==References==
+===Citations===
+<references />
+=== Beginner articles ===
+* An overview of Calabi-Yau Elliptic fibrations
+*Lectures on the arxiv:2001.01212
+* arxiv:1708.07907 - (complete intersection Calabi-Yau)
+===Bibliography===
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* 
+*Im, Mee Seong (2008) " urltoken Singularities-in-Calabi-Yau-varieties.pdf Singularities in Calabi&ndash;Yau varieties"
+* 
+*
+*
+*
+*
+*Yau, Shing-Tung and Nadis, Steve; The Shape of Inner Space, Basic Books, 2010. 
+==External links==
+* urltoken Calabi&ndash;Yau Homepage is an interactive reference which describes many examples and classes of Calabi&ndash;Yau manifolds and also the physical theories in which they appear.
+* urltoken Spinning Calabi&ndash;Yau Space video.
+* urltoken Calabi&ndash;Yau Space by Andrew J. Hanson with additional contributions by Jeff Bryant, Wolfram Demonstrations Project.
+*
+* (similar to
+
+In algebraic geometry, a Calabi&ndash;Yau manifold, also known as a Calabi&ndash;Yau space, is a particular type of manifold which has properties, such as Ricci flatness, yielding applications in theoretical physics. Particularly in superstring theory, the extra dimensions of spacetime are sometimes conjectured to take the form of a 6-dimensional Calabi&ndash;Yau manifold, which led to the idea of mirror symmetry. Their name was coined by , after who first conjectured that such surfaces might exist, and who proved the Calabi conjecture.
+Calabi&ndash;Yau manifolds are complex manifolds that are generalizations of K3 surfaces in any number of complex dimensions (i.e. any even number of real dimensions). They were originally defined as compact Kähler manifolds with a vanishing first Chern class and a Ricci-flat metric, though many other similar but inequivalent definitions are sometimes used.

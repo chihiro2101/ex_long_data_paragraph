@@ -1,0 +1,178 @@
+Oil platform
+
+==History==
+Around 1891, the first submerged oil wells were drilled from platforms built on piles in the fresh waters of the Grand Lake St. Marys (a.k.a. Mercer County Reservoir) in Ohio. The wide but shallow reservoir was built from 1837 to 1845 to provide water to the Miami and Erie Canal.
+Around 1896, the first submerged oil wells in salt water were drilled in the portion of the Summerland field extending under the Santa Barbara Channel in California. The wells were drilled from piers extending from land out into the channel.
+Other notable early submerged drilling activities occurred on the Canadian side of Lake Erie since 1913 and Caddo Lake in Louisiana in the 1910s. Shortly thereafter, wells were drilled in tidal zones along the Gulf Coast of Texas and Louisiana. The Goose Creek field near Baytown, Texas is one such example. In the 1920s, drilling was done from concrete platforms in Lake Maracaibo, Venezuela.
+The oldest offshore well recorded in Infield's offshore database is the Bibiheybət well which came on stream in 1923 in Azerbaijan.<ref></ref> Landfill was used to raise shallow portions of the Caspian Sea.
+In the early 1930s, Texaco developed the first mobile steel barges for drilling in the brackish coastal areas of the gulf.
+In 1937, Pure Oil Company (now Chevron Corporation) and its partner Superior Oil Company (now part of ExxonMobil Corporation) used a fixed platform to develop a field in of water, one mile (1.6&nbsp;km) offshore of Calcasieu Parish, Louisiana.
+In 1938, Humble Oil built a mile-long wooden trestle with railway tracks into the sea at McFadden Beach on the Gulf of Mexico, placing a derrick at its end - this was later destroyed by a hurricane.<ref></ref>
+In 1945, concern for American control of its offshore oil reserves caused President Harry Truman to issue an Executive Order unilaterally extending American territory to the edge of its continental shelf, an act that effectively ended the 3-mile limit "freedom of the seas" regime.
+In 1946, Magnolia Petroleum (now ExxonMobil) drilled at a site off the coast, erecting a platform in of water off St. Mary Parish, Louisiana.
+In early 1947, Superior Oil erected a drilling/production platform in of water some 18 miles off Vermilion Parish, Louisiana. But it was Kerr-McGee Oil Industries (now part of Occidental Petroleum), as operator for partners Phillips Petroleum (ConocoPhillips) and Stanolind Oil & Gas (BP), that completed its historic Ship Shoal Block 32 well in October 1947, months before Superior actually drilled a discovery from their Vermilion platform farther offshore. In any case, that made Kerr-McGee's well the first oil discovery drilled out of sight of land.<ref>Ref accessed 02-12-89 by technical aspects and coast mapping. Kerr-McGee</ref><ref name="project-redsand"></ref>
+The British Maunsell Forts constructed during World War II are considered the direct predecessors of modern offshore platforms. Having been pre-constructed in a very short time, they were then floated to their location and placed on the shallow bottom of the Thames and the Mersey estuary.<ref name="project-redsand" /><ref></ref>
+In 1954, the first jackup rig was ordered by Zapata Oil. It was designed by R. G. LeTourneau and featured three electro-mechanically-operated lattice type legs. Built on the shores of the Mississippi river by the LeTourneau Company, it was launched in December 1955, and christened "Scorpion". The Scorpion was put into operation in May 1956 off Port Aransas, Texas. It was lost in 1969.<ref> urltoken 
+When offshore drilling moved into deeper waters of up to , fixed platform rigs were built, until demands for drilling equipment was needed in the to depth of the Gulf of Mexico, the first Jackup rig began appearing from specialized offshore drilling contractors such as forerunners of ENSCO International.
+The first semi-submersible resulted from an unexpected observation in 1961. Blue Water Drilling Company owned and operated the four-column submersible Blue Water Rig No.1 in the Gulf of Mexico for Shell Oil Company. As the pontoons were not sufficiently buoyant to support the weight of the rig and its consumables, it was towed between locations at a draught midway between the top of the pontoons and the underside of the deck. It was noticed that the motions at this draught were very small, and Blue Water Drilling and Shell jointly decided to try operating the rig in its floating mode. The concept of an anchored, stable floating deep-sea platform had been designed and tested back in the 1920s by Edward Robert Armstrong for the purpose of operating aircraft with an invention known as the "seadrome". The first purpose-built drilling semi-submersible Ocean Driller was launched in 1963. Since then, many semi-submersibles have been purpose-designed for the drilling industry mobile offshore fleet.
+The first offshore drillship was the CUSS 1 developed for the Mohole project to drill into the Earth's crust.
+As of June, 2010, there were over 620 mobile offshore drilling rigs (Jackups, semisubs, drillships, barges) available for service in the competitive rig fleet.<ref></ref>
+One of the world's deepest hubs is currently the Perdido in the Gulf of Mexico, floating in 2,438 meters of water. It is operated by Royal Dutch Shell and was built at a cost of $3&nbsp;billion.<ref name= UPDATE1></ref> The deepest operational platform is the Petrobras America Cascade FPSO in the Walker Ridge 249 field in 2,600 meters of water.
+== Main offshore fields ==
+Notable offshore fields include:
+* the North Sea
+* the Gulf of Mexico (offshore Texas, Louisiana, Mississippi, Alabama and Florida)
+* California (in the Los Angeles Basin and Santa Barbara Channel, part of the Ventura Basin)
+* the Caspian Sea (notably some major fields offshore Azerbaijan)
+* the Campos and Santos Basins off the coasts of Brazil
+* Newfoundland and Nova Scotia (Atlantic Canada)
+* several fields off West Africa most notably west of Nigeria and Angola
+* offshore fields in South East Asia and Sakhalin, Russia
+* major offshore oil fields are located in the Persian Gulf such as Safaniya, Manifa and Marjan which belong to Saudi Arabia and are developed by Saudi Aramco.<ref></ref>
+* fields in India (Mumbai High, K G Basin-East Coast Of India, Tapti Field, Gujarat, India)
+* the Taranaki Basin in New Zealand
+* the Kara Sea north of Siberia<ref></ref>
+* the Arctic Ocean off the coasts of Alaska and Canada's Northwest Territories<ref></ref>
+* the offshore fields in the Adriatic Sea
+==Types==
+Larger lake- and sea-based offshore platforms and drilling rig for oil.
+===Fixed platforms===
+These platforms are built on concrete or steel legs, or both, anchored directly onto the seabed, supporting the deck with space for drilling rigs, production facilities and crew quarters. Such platforms are, by virtue of their immobility, designed for very long term use (for instance the Hibernia platform). Various types of structure are used: steel jacket, concrete caisson, floating steel, and even floating concrete. Steel jackets are structural sections made of tubular steel members, and are usually piled into the seabed. To see more details regarding Design, construction and installation of such platforms refer to:<ref></ref> and.<ref></ref>
+Offshore concrete structure, pioneered by the Condeep concept, often have in-built oil storage in tanks below the sea surface and these tanks were often used as a flotation capability, allowing them to be built close to shore (Norway fjords and Scotland firths are popular because they are sheltered and deep enough) and then floated to their final position where they are sunk to the seabed. Fixed platforms are economically feasible for installation in water depths up to about .
+===Compliant towers===
+These platforms consist of slender, flexible towers and a pile foundation supporting a conventional deck for drilling and production operations. Compliant towers are designed to sustain significant lateral deflections and forces, and are typically used in water depths ranging from .
+===Semi-submersible platform===
+These platforms have hulls (columns and pontoons) of sufficient buoyancy to cause the structure to float, but of weight sufficient to keep the structure upright. Semi-submersible platforms can be moved from place to place and can be ballasted up or down by altering the amount of flooding in buoyancy tanks. They are generally anchored by combinations of chain, wire rope or polyester rope, or both, during drilling and/or production operations, though they can also be kept in place by the use of dynamic positioning. Semi-submersibles can be used in water depths from .
+===Jack-up drilling rigs===
+Jack-up Mobile Drilling Units (or jack-ups), as the name suggests, are rigs that can be jacked up above the sea using legs that can be lowered, much like jacks. These MODUs (Mobile Offshore Drilling Units) are typically used in water depths up to , although some designs can go to depth. They are designed to move from place to place, and then anchor themselves by deploying their legs to the ocean bottom using a rack and pinion gear system on each leg.
+===Drillships===
+A drillship is a maritime vessel that has been fitted with drilling apparatus. It is most often used for exploratory drilling of new oil or gas wells in deep water but can also be used for scientific drilling. Early versions were built on a modified tanker hull, but purpose-built designs are used today. Most drillships are outfitted with a dynamic positioning system to maintain position over the well. They can drill in water depths up to .<ref></ref>
+===Floating production systems===
+The main types of floating production systems are Floating Production Storage and Offloading. FPSOs consist of large monohull structures, generally (but not always) shipshaped, equipped with processing facilities. These platforms are moored to a location for extended periods, and do not actually drill for oil or gas. Some variants of these applications, called Floating storage and offloading unit or FSU (floating storage unit), are used exclusively for storage purposes, and host very little process equipment. This is one of the best sources for having floating production.
+The world's first FLNG facility is currently under development. See the section on particularly large examples below.
+===Tension-leg platform===
+TLPs are floating platforms tethered to the seabed in a manner that eliminates most vertical movement of the structure. TLPs are used in water depths up to about . The "conventional" TLP is a 4-column design which looks similar to a semisubmersible. Proprietary versions include the Seastar and MOSES mini TLPs; they are relatively low cost, used in water depths between . Mini TLPs can also be used as utility, satellite or early production platforms for larger deepwater discoveries.
+===Gravity-based structure===
+A GBS can either be steel or concrete and is usually anchored directly onto the seabed. Steel GBS are predominantly used when there is no or limited availability of crane barges to install a conventional fixed offshore platform, for example in the Caspian Sea. There are several steel GBS in the world today (e.g. offshore Turkmenistan Waters (Caspian Sea) and offshore New Zealand). Steel GBS do not usually provide hydrocarbon storage capability. It is mainly installed by pulling it off the yard, by either wet-tow or/and dry-tow, and self-installing by controlled ballasting of the compartments with sea water. To position the GBS during installation, the GBS may be connected to either a transportation barge or any other barge (provided it is large enough to support the GBS) using strand jacks. The jacks shall be released gradually whilst the GBS is ballasted to ensure that the GBS does not sway too much from target location.
+===Spar platforms===
+Spars are moored to the seabed like TLPs, but whereas a TLP has vertical tension tethers, a spar has more conventional mooring lines. Spars have to-date been designed in three configurations: the "conventional" one-piece cylindrical hull; the "truss spar", in which the midsection is composed of truss elements connecting the upper buoyant hull (called a hard tank) with the bottom soft tank containing permanent ballast; and the "cell spar", which is built from multiple vertical cylinders. The spar has more inherent stability than a TLP since it has a large counterweight at the bottom and does not depend on the mooring to hold it upright. It also has the ability, by adjusting the mooring line tensions (using chain-jacks attached to the mooring lines), to move horizontally and to position itself over wells at some distance from the main platform location. The first production spar was Kerr-McGee's Neptune, anchored in in the Gulf of Mexico; however, spars (such as Brent Spar) were previously used as FSOs.
+Eni's Devil's Tower located in of water in the Gulf of Mexico, was the world's deepest spar until 2010. The world's deepest platform as of 2011 was the Perdido spar in the Gulf of Mexico, floating in 2,438 metres of water. It is operated by Royal Dutch Shell and was built at a cost of $3&nbsp;billion.<ref name= UPDATE1/><ref></ref><ref></ref>
+The first truss spars were Kerr-McGee's Boomvang and Nansen.
+The first (and, as of 2010, only) cell spar is Kerr-McGee's Red Hawk.<ref></ref>
+===Normally unmanned installations (NUI)===
+These installations, sometimes called toadstools, are small platforms, consisting of little more than a well bay, helipad and emergency shelter. They are designed to be operated remotely under normal conditions, only to be visited occasionally for routine maintenance or well work.
+===Conductor support systems===
+These installations, also known as satellite platforms, are small unmanned platforms consisting of little more than a well bay and a small process plant. They are designed to operate in conjunction with a static production platform which is connected to the platform by flow lines or by umbilical cable, or both.
+==Particularly large examples==
+The Petronius Platform is a compliant tower in the Gulf of Mexico modeled after the Hess Baldpate platform, which stands above the ocean floor. It is one of the world's tallest structures.<ref></ref>
+The Hibernia platform in Canada is the world's largest (in terms of weight) offshore platform, located on the Jeanne D'Arc Basin, in the Atlantic Ocean off the coast of Newfoundland. This gravity base structure (GBS), which sits on the ocean floor, is high and has storage capacity for of crude oil in its high caisson. The platform acts as a small concrete island with serrated outer edges designed to withstand the impact of an iceberg. The GBS contains production storage tanks and the remainder of the void space is filled with ballast with the entire structure weighing in at 1.2&nbsp;million tons.
+Royal Dutch Shell is currently developing the first FLNG facility, which will be situated approximately 200&nbsp;km off the coast of Western Australia and is due for completion around 2017.<ref></ref> When finished, it will be the largest floating offshore facility. It is expected to be approximately 488m long and 74m wide with displacement of around 600,000t when fully ballasted.<ref></ref>
+==Maintenance and supply==
+A typical oil production platform is self-sufficient in energy and water needs, housing electrical generation, water desalinators and all of the equipment necessary to process oil and gas such that it can be either delivered directly onshore by pipeline or to a floating platform or tanker loading facility, or both. Elements in the oil/gas production process include wellhead, production manifold, production separator, glycol process to dry gas, gas compressors, water injection pumps, oil/gas export metering and main oil line pumps.
+Larger platforms assisted by smaller ESVs (emergency support vessels) like the British Iolair that are summoned when something has gone wrong, e.g. when a search and rescue operation is required. During normal operations, PSVs (platform supply vessels) keep the platforms provisioned and supplied, and AHTS vessels can also supply them, as well as tow them to location and serve as standby rescue and firefighting vessels.
+==Crew==
+===Essential personnel===
+Not all of the following personnel are present on every platform. On smaller platforms, one worker can perform a number of different jobs. The following also are not names officially recognized in the industry:
+*OIM (offshore installation manager) who is the ultimate authority during his/her shift and makes the essential decisions regarding the operation of the platform;
+*operations team leader (OTL);
+*Offshore Methods Engineer (OME) who defines the installation methodology of the platform;
+*offshore operations engineer (OOE) who is the senior technical authority on the platform;
+*PSTL or operations coordinator for managing crew changes;
+*dynamic positioning operator, navigation, ship or vessel maneuvering (MODU), station keeping, fire and gas systems operations in the event of incident;
+*automation systems specialist, to configure, maintain and troubleshoot the process control systems (PCS), process safety systems, emergency support systems and vessel management systems;
+*second mate to meet manning requirements of flag state, operates fast rescue craft, cargo operations, fire team leader;
+*third mate to meet manning requirements of flag state, operate fast rescue craft, cargo operations, fire team leader;
+*ballast control operator to operate fire and gas systems;
+*crane operators to operate the cranes for lifting cargo around the platform and between boats;
+*scaffolders to rig up scaffolding for when it is required for workers to work at height;
+*coxswains to maintain the lifeboats and manning them if necessary;
+*control room operators, especially FPSO or production platforms;
+*catering crew, including people tasked with performing essential functions such as cooking, laundry and cleaning the accommodation;
+*production techs to run the production plant;
+*helicopter pilot(s) living on some platforms that have a helicopter based offshore and transporting workers to other platforms or to shore on crew changes;
+*maintenance technicians (instrument, electrical or mechanical).
+*Fully qualified medic.
+*Radio operator to operate all radio communications.
+*Store Keeper, keeping the inventory well supplied
+*Technician to record the fluid levels in tanks
+===Incidental personnel===
+Drill crew will be on board if the installation is performing drilling operations. A drill crew will normally comprise:
+* Toolpusher
+* Driller
+* Roughnecks
+* Roustabouts
+* Company man
+* Mud engineer
+* Motorman See: Glossary of oilfield jargon
+* Derrickhand
+* Geologist
+* Welders and Welder Helpers
+Well services crew will be on board for well work. The crew will normally comprise:
+* Well services supervisor
+*Wireline or coiled tubing operators
+* Pump operator
+* Pump hanger and ranger
+==Drawbacks==
+===Risks===
+The nature of their operation—extraction of volatile substances sometimes under extreme pressure in a hostile environment—means risk; accidents and tragedies occur regularly. The U.S. Minerals Management Service reported 69 offshore deaths, 1,349 injuries, and 858 fires and explosions on offshore rigs in the Gulf of Mexico from 2001 to 2010.<ref></ref> On July 6, 1988, 167 people died when Occidental Petroleum's Piper Alpha offshore production platform, on the Piper field in the UK sector of the North Sea, exploded after a gas leak. The resulting investigation conducted by Lord Cullen and publicized in the first Cullen Report was highly critical of a number of areas, including, but not limited to, management within the company, the design of the structure, and the Permit to Work System. The report was commissioned in 1988, and was delivered November 1990.<ref> urltoken The accident greatly accelerated the practice of providing living accommodations on separate platforms, away from those used for extraction.
+The offshore can be in itself a hazardous environment. In March 1980, the 'flotel' (floating hotel) platform Alexander L. Kielland capsized in a storm in the North Sea with the loss of 123 lives.<ref></ref>
+In 2001, Petrobras 36 in Brazil exploded and sank five days later, killing 11 people.
+Given the number of grievances and conspiracy theories that involve the oil business, and the importance of gas/oil platforms to the economy, platforms in the United States are believed to be potential terrorist targets. Agencies and military units responsible for maritime counter-terrorism in the US (Coast Guard, Navy SEALs, Marine Recon) often train for platform raids.
+On April 21, 2010, the Deepwater Horizon platform, 52 miles off-shore of Venice, Louisiana, (property of Transocean and leased to BP) exploded, killing 11 people, and sank two days later. The resulting undersea gusher, conservatively estimated to exceed as of early June, 2010, became the worst oil spill in US history, eclipsing the Exxon Valdez oil spill.
+===Ecological effects===
+In British waters, the cost of removing all platform rig structures entirely was estimated in 2013 at £30&nbsp;billion.<ref> urltoken 
+Aquatic organisms invariably attach themselves to the undersea portions of oil platforms, turning them into artificial reefs. In the Gulf of Mexico and offshore California, the waters around oil platforms are popular destinations for sports and commercial fishermen, because of the greater numbers of fish near the platforms. The United States and Brunei have active Rigs-to-Reefs programs, in which former oil platforms are left in the sea, either in place or towed to new locations, as permanent artificial reefs. In the US Gulf of Mexico, as of September 2012, 420 former oil platforms, about 10 percent of decommissioned platforms, have been converted to permanent reefs.<ref></ref>
+On the US Pacific coast, marine biologist Milton Love has proposed that oil platforms off California be retained as artificial reefs, instead of being dismantled (at great cost), because he has found them to be havens for many of the species of fish which are otherwise declining in the region, in the course of 11 years of research.<ref></ref><ref></ref> Love is funded mainly by government agencies, but also in small part by the California Artificial Reef Enhancement Program. Divers have been used to assess the fish populations surrounding the platforms.<ref> </ref>
+== Effects on the environment ==
+Offshore oil production involves environmental risks, most notably oil spills from oil tankers or pipelines transporting oil from the platform to onshore facilities, and from leaks and accidents on the platform.<ref></ref> Produced water is also generated, which is water brought to the surface along with the oil and gas; it is usually highly saline and may include dissolved or unseparated hydrocarbons.
+In the gulf of Mexico hurricanes are increasing because of the increasing number of oil platforms which heat surrainding air with methane, it is estimated that U.S. Gulf of Mexico, oil and gas facilities emit approximately 500000 tons of methane each year, corresponding to a loss of produced gas of 2.9 percent. The increasing number of oil rigs also increase movement of oil tankers which also increases CO2 levels which directly warm water in the zone, warm waters are a key factor for hurricanes to form.<ref></ref>
+To reduce the amount of carbon emissions otherwise released into the atmosphere, methane pyrolysis of natural gas pumped up by oil platforms can be performed. Methane pyrolysis produces non-polluting hydrogen in high volume from this natural gas at low cost. This process operates at around 1000&nbsp;°C and removes carbon in a solid form from the methane, producing hydrogen.<ref> urltoken The reaction that would give us clean fossil fuels forever</ref><ref> urltoken Hydrogen from methane without CO2 emissions</ref><ref></ref> The carbon can then be stored underground and is not released into the atmosphere.
+It is being evaluated in the BASF "methane pyrolysis at scale" test plant, in such research laboratories as Karlsruhe Liquid-metal Laboratory (KALLA)<ref> urltoken KITT/IASS – Producing CO2 free hydrogen from natural gas for energy usage</ref> and the chemical engineering team at University of California - Santa Barbara<ref></ref>
+== Repurposing ==
+If not decommissioned,<ref></ref> old platforms can be repurposed to pump into rocks below the seabed.<ref> urltoken Old oil rigs could become CO2 storage sites</ref><ref> urltoken Ageing oil rigs could be used to store carbon and fight climate change</ref> Others have been Sea Launch#Launches, and more are being redesigned for use with heavy-lift launch vehicles.<ref name=nsf20210119></ref>
+== Challenges ==
+Offshore oil and gas production is more challenging than land-based installations due to the remote and harsher environment. Much of the innovation in the offshore petroleum sector concerns overcoming these challenges, including the need to provide very large production facilities. Production and drilling facilities may be very large and a large investment, such as the Troll A platform standing on a depth of 300 meters.
+Another type of offshore platform may float with a mooring system to maintain it on location. While a floating system may be lower cost in deeper waters than a fixed platform, the dynamic nature of the platforms introduces many challenges for the drilling and production facilities.
+The ocean can add several thousand meters or more to the fluid column. The addition increases the equivalent circulating density and downhole pressures in drilling wells, as well as the energy needed to lift produced fluids for separation on the platform.
+The trend today is to conduct more of the production operations subsea, by separating water from oil and re-injecting it rather than pumping it up to a platform, or by flowing to onshore, with no installations visible above the sea. Subsea installations help to exploit resources at progressively deeper waters—locations which had been inaccessible—and overcome challenges posed by sea ice such as in the Barents Sea. One such challenge in shallower environments is Seabed gouging by ice (means of protecting offshore installations against ice action includes burial in the seabed).
+Offshore manned facilities also present logistics and human resources challenges. An offshore oil platform is a small community in itself with cafeteria, sleeping quarters, management and other support functions. In the North Sea, staff members are transported by helicopter for a two-week shift. They usually receive higher salary than onshore workers do. Supplies and waste are transported by ship, and the supply deliveries need to be carefully planned because storage space on the platform is limited. Today, much effort goes into relocating as many of the personnel as possible onshore, where management and technical experts are in touch with the platform by video conferencing. An onshore job is also more attractive for the aging workforce in the petroleum industry, at least in the western world. These efforts among others are contained in the established term integrated operations. The increased use of subsea facilities helps achieve the objective of keeping more workers onshore. Subsea facilities are also easier to expand, with new separators or different modules for different oil types, and are not limited by the fixed floor space of an above-water installation.
+== Deepest Platforms ==
+The world's deepest oil platform is the floating Perdido, which is a spar platform in the Gulf of Mexico in a water depth of .
+Non-floating compliant towers and fixed platforms, by water depth:
+* Petronius Platform, 
+* Baldpate Platform, 
+* Troll A, 
+* Bullwinkle Platform, 
+* Pompano Platform, 
+* Benguela-Belize Lobito-Tomboco Platform, 
+* Gullfaks C, 
+* Tombua Landana Platform, 
+* Harmony Platform, 
+==See also==
+* List of tallest oil platforms
+* Accommodation platform
+* Chukchi Cap
+* Conductor support system
+* Deep sea mining
+* Deepwater drilling
+* Drillship
+* North Sea oil
+* Offshore geotechnical engineering
+* Offshore oil and gas in the United States
+* Oil drilling
+* Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms Located on the Continental Shelf
+* SAR201
+* Shallow water drilling
+* Submarine pipeline
+* TEMPSC
+* Texas Towers
+==References==
+==External links==
+* urltoken Oil Rig Disasters Listing of oil rig accidents
+* urltoken Oil Rig Photos Collection of pictures of drilling rigs and production platforms
+* urltoken An independent review of offshore platforms in the North Sea
+* urltoken Overview of Conventional Platforms Pictorial treatment on the installation of platforms which extend from the seabed to the ocean surface
+
+An oil platform, offshore platform, or offshore drilling rig is a large structure with facilities for well drilling to explore, extract, store, and process petroleum and natural gas that lies in rock formations beneath the seabed. Many oil platforms will also contain facilities to accommodate their workforce. Most commonly, oil platforms engage in activities on the continental shelf, though they can also be used in lakes, inshore waters, and inland seas. Depending on the circumstances, the platform may be fixed to the ocean floor, consist of an artificial island, or float.<ref></ref> Remote subsea wells may also be connected to a platform by flow lines and by umbilical connections. These sub-sea solutions may consist of one or more subsea wells or of one or more manifold centres for multiple wells.
+Offshore drilling presents environmental challenges, both from the produced hydrocarbons and the materials used during the drilling operation. Controversies include the ongoing US offshore drilling debate.<ref>Compton, Glenn, " urltoken 10 Reasons Not to Drill for Oil Offshore of Florida", The Bradenton Times, Sunday, January 14, 2018</ref>
+There are many different types of facilities from which offshore drilling operations take place. These include bottom founded drilling rigs (Jackup rig and swamp barges), combined drilling and production facilities, either bottom founded or floating platforms, and deepwater mobile offshore drilling units (MODU), including semi-submersibles and drillships. These are capable of operating in water depths up to . In shallower waters, the mobile units are anchored to the seabed. However, in deeper water (more than , the semisubmersibles or drillships are maintained at the required drilling location using dynamic positioning.

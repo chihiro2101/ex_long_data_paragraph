@@ -1,0 +1,52 @@
+Digital pet
+
+==Types==
+===Web-based===
+Virtual pet sites are usually free to play for all who sign up. They can be accessed through web browsers and often include a virtual community, such as Neopia in Neopets. In these worlds, a user can play games to earn virtual money which is usually spent on items and food for pets. One large branch of virtual pet games are sim horse games.
+Some sites adopt out pets to put on a webpage and use for role-playing in chat rooms. They often require the adoptee to have a page ready for their pet. Sometimes they have a setup for breeding one's pets and then adopting them out.
+Some sites use quests in order for users to make points and receive items. Some quests can give stat points to the user's pets for when they are battling. These sites, and their clones, have a single non-dynamic image for each pet and its various colors, leading to a lot of similarity in the pets.
+There are also "simulation sites" where the webpage attempts to simulate a real-life discipline, such as horse dressage or pedigree dog showing. Often these sites will also have a breeding aspect, including genetics and markings. Other simulation sites focus mostly on the markings.
+===Software-based===
+There are many video games that focus on the care, raising, breeding or exhibition of simulated animals. Such games are described as a sub-class of life simulation game. Since the computing power is more powerful than with webpage or gadget based digital pets, these are usually able to achieve a higher level of visual effects and interactivity. Pet-raising simulations often lack a victory condition or challenge, and can be classified as non-game.<ref name="ongamedesign"/>
+The pet may be capable of learning to do a variety of tasks. "This quality of rich intelligence distinguishes artificial pets from other kinds of A-life, in which individuals have simple rules but the population as a whole develops emergence".<ref name="ongamedesign"/> For artificial pets, their behaviors are typically "preprogrammed and are not truly emergent".<ref name="ongamedesign"/>
+A screen mate is a downloadable virtual pet that creates a small animation that walks around a computer desktop and over open screens unpredictably. Each pets is a small animation of an animal (such as a sheep or a frog, or in some cases a human or bottle cap) that can be interacted by clicking on or dragging, which lifts the pet as if you were picking it up. Most screen mates are free to download and used for entertainment purposes.<ref></ref>
+==History==
+PF Magic released the first widely popular virtual pets in 1995 with Dogz,<ref></ref> followed by Catz in the spring of 1996, eventually becoming a franchise known as Petz. The digital pets were further popularized when Tamagotchi<ref></ref> and Digimon were introduced in 1996 and 1997.<ref></ref>
+Digital pets were a massive fad in Japan, and to a lesser extent in the United States and United Kingdom during the late 1990s. Today, there are also "Digital Pets" which have physical robotic bodies, known as Ludobots or Entertainment robots.
+==Controversy==
+The popularity of virtual pets in the United States, and the constant need for attention the pets required, led to them being banned from schools across the country, a move that hastened the virtual pet's decline from popularity.
+A Mad cover on regular issue #362, October 1997 shows a gun being pointed at a virtual pet with Alfred E. Neuman's face and the line "If you don't buy this magazine, we'll kill this virtual pet!" Illustrated by Mark Fredrickson. The cover parodies the January 1973 issue of National Lampoon which depicted a gun being held to a real dog's head and the line, "If you don't buy this magazine, we'll kill this dog."<ref name="madcoversite"> urltoken MAD Cover Site, MAD #362 October 1997.</ref>
+===Digital pets over real pets===
+Some people suggest that digital pets are preferable for a number of reasons. Having a digital pet in place of a real pet ensures real pets do not have to suffer, and it is arguably training before adopting a real pet. PETA has suggested that robotic animals can help people recognize that they are not up to the Promise of caring for a real animal.<ref name="csmonitor,2004">G. Jeffrey, "If you kick a robotic dog, is it wrong?" in The Christian Science Monitor, Feb of 2004</ref> Another argument is that the digital pet can successfully substitute a real one for children who cannot care for a real pet, such as those who suffer from allergies.
+====Relationship with digital pet====
+There is research concerning the relationship between digital pets and their owners, and their impact on the emotions of people. For example, Furby affects the way people think about their identity, and many children think that Furby is alive in a "Furby kind of way" in Sherry Turkle's research.<ref name="nytkatie">Katie Hafner, urltoken What Do You Mean, `It's Just Like a Real Dog'? , 2000</ref>
+==Common features==
+There are many common features between different digital pets, some of them are used to give a sense of reality to the user (such as the pet responding to "touch"), and some for enhancing playability (such as training).
+===Communication===
+With advanced video gaming technology, most modern digital pets do not show a Dialog box nor icon to display the pet's internal variable, health state or emotion like earlier generations (such as Tamagotchi). Instead, users can only understand the pet by interpreting their actions, body language, facial expressions, etc. This helps to make a pet's behavior seem natural, rather than calculated, and fosters a feeling of a relationship between user and digital pet.
+===Sense of reality===
+To give a sense of reality to users, most digital pets have certain level of autonomy and unpredictability. The user can interact with the pet and this process of personalizing can make the pet more distinctive. Personalizing increases the feeling of responsibility for the pet to the user.<ref name="Kaplan,2000">Frédéric Kaplan urltoken Free creatures : The role of uselessness in the design of artificial pets, 2000</ref><ref name="Frank, Stern, Resner 1997">
+Frank, A.; Stern, A.; and Resner, B. 1997. Socially intelligent virtual petz. In Socially Intelligent Agents.
+</ref> For example, if a Tamagotchi is unattended for long enough, it will "die".
+===Interactivity===
+To increase user's personal attachment to the pet, the pet interacts with the user. Interactivity can be classified into two categories: Short-term and long-term.
+Short-term interactivity includes direct interaction or action to reaction from the pet. Example: "touch" a pet with mouse cursor and the pet will give a direct response to the "touching".
+Long-term interactivity includes action that affects the pet's growth, behavior or life span. For example, training a pet may have a good effect on the pet's behavior. Long-term interactivity is quite important for a sense of reality as the user would think that he has some lasting influence on the pet.
+Two kinds of interactivity are often combined. Training (long-term interaction) may happen through continuing short-term interaction. Similarly, playing with a pet (short-term interaction) may, if continued over the long term, make the pet more optimistic.
+===Example of common features===
+# Responds to calling
+# Responds to touching
+# Training the pet
+# Supplies or toys for the pet
+# Dressing up the pet
+# Competition or trial amongst pets
+# Meeting other pets
+# Complaining when it needs care
+==See also==
+*List of virtual pet games
+*AIBO
+==References==
+
+A digital pet (also known as a virtual pet, artificial pet,<ref name="ongamedesign"></ref> or pet-raising simulation) is a type of artificial human companion. They are usually kept for companionship or enjoyment. People may keep a digital pet in lieu of a real pet. Cyberpet and Tamagotchi were some of the first popular digital pets.<ref></ref> 
+Digital pets have no concrete physical form other than the hardware they run on. Interaction with virtual pets may or may not be goal oriented. If it is, then the user must keep it alive as long as possible and often help it to grow into higher forms. Keeping the pet alive and growing often requires feeding, grooming and playing with the pet.
+Digital pets can be simulations of real animals, as in the Petz series, or fantasy ones, like the Tamagotchi or Digimon series. Unlike life simulation game, the pet does not usually reproduce.<ref name="ongamedesign"/>

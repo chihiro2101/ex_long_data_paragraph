@@ -1,0 +1,56 @@
+Wikipedia:Guide for Everything2 noders
+
+== Cultural differences ==
+Wikipedia is entirely focused on making an encyclopedia.
+Unlike E2, there's not a lot of unrelated socializing; almost all of Wikipedia's chat is about improving specific articles or the project as a whole.
+Wikipedia doesn't have song lyrics, poetry, or fiction either; it's not a primary-source repository. (But see urltoken Wikisource for published sources.)
+Anyone can edit any article here. Everybody's a Content Editor. Your contributions will be edited, rearranged, re-worded and expanded, and you shouldn't be shy about doing the same to other people's work. Be bold in updating pages!
+Wikipedia is self-moderated and relatively anarchic, rather than having moderation imposed upon it. See Wikipedia:Power structure for details. Most Wikipedians try to avoid personal attacks and to spread WikiLove wherever they go :-). If you say something you regret, just apologize and delete it. If someone offends you, we have some advice on staying cool when the editing gets hot.
+We don't have a voting system or experience measure&mdash;be assured that Wikipedia:Wikipediholic without it.
+The relative advantages of E2 and Wikipedia are summarized in an exchange on E2's Editor Logs. In December 2003, (former) E2 editor gn0sis cited reasons for urltoken "Why I'm Moving To Wikipedia". In response, Lucy-S urltoken defended the virtues of E2.
+== Moving content from E2 to Wikipedia ==
+Please copy your good encyclopedic content from E2 to Wikipedia!
+Don't forget to search for related Wikipedia content first&mdash;like E2, Wikipedia has full-text search, and if Wikipedia already has an article on the subject, just merge your own content into it: be bold!
+=== Legal issues ===
+You can move any of your own E2 writeups to Wikipedia.
+Mention on the Wikipedia article's talk page (click "Discuss this page") that you originally wrote the material for E2 and link to your E2 homenode (like this: <nowiki> urltoken yerricde</nowiki>), so that nobody thinks you're committing plagiarism. You can even do this if your node has been improved by an E2 content editor. For other noders' writeups, you will need the permission of all major contributors (see Wikipedia:Copyright).
+Any contributions you make to Wikipedia are released under the GNU Free Documentation License. However, you retain the copyright to your own work and are free to modify and redistribute it in any way you wish.
+=== Changes to make ===
+Content needs to be converted from E2 markup to wiki markup.
+For the most part, wiki markup resembles that of urltoken E2's auto-formatting tool, but there are a few differences.
+Generally it's easiest to copy and paste the text and add markup rather than copying the E2 markup.
+Wikipedia titles are generally shorter, so phrases like "how to" should be removed, and most titles should only have lower-case letters. See the naming conventions for all the details.
+Wikipedia also has some technical features that E2 lacks.
+For instance, Wikipedia allows links to external web pages.
+Because you can special:upload, you do not need to convert images to ASCII art.
+You don't need to use <nowiki><pre></nowiki> markup to generate tables; you can use standard HTML <nowiki><table></nowiki> markup instead, as well as Wikipedia's concise table markup.
+Though you can use HTML entity escapes for <nowiki>'', '', '<', and '>'</nowiki>, you don't need to; Wikipedia has the <nowiki><no</nowiki>wi<nowiki>ki></nowiki> tag to suppress interpretation of control characters as markup.
+In fact, Wikipedia has <nowiki><code></nowiki> tags that can be used to enclose a fragment of a computer program.
+Wikipedia has a different manual of style from E2.
+However, if your article doesn't match that style, someone will change it so it does, so don't worry too much.
+It's easy to link something by putting it in <nowiki>square brackets</nowiki>, and <nowiki>target</nowiki> work here too, but remember that two pairs of brackets surround a link in Wikipedia.
+Don't forget to add links from other articles to yours, where it's appropriate; Wikipedia has no "soft link" functionality. On the other hand, E2 articles tend to be somewhat more heavily linked, and E2 noders often put links around phrases to emphasize them. This is uncommon here: links should be only created around words and phrases where encyclopedia articles exist or can realistically be written. Wikipedia articles usually try to cover a subject in depth instead of concentrating on a single aspect thereof. What may be a perfectly acceptable write-up on E2 may well be a stub on Wikipedia that can only be fixed by merging it into a larger article.
+On E2, noders will often quote from private messages sent by other noders in response to a writeup.
+On Wikipedia we try to quote opinions from people who are influential, or have some special expertise, and the best people for that generally won't be Wikipedians.
+We have a policy called the neutral point of view (NPOV).
+It is similar to E2's deprecation of "getting to know you" nodes, subjective list nodes, and bullshit (called patent nonsense here), but there are subtle differences in the two policies.
+Wikipedia's policy is stronger; when expressing opinions (such as in Sonny Bono Copyright Term Extension Act), we turn them into facts by stating that a group holds such opinions. Similarly, an article should at any time look like an encyclopedia text, even if it is only a very short one. Comments should be put on discussion pages, or if absolutely necessary, within the text, enclosed as HTML comments. It may take you a little time to get used to the Wikipedia approach, but don't worry too much about it. 
+Anyone can fix your mistakes while you're getting the hang of things. But always keep in mind that Wikipedia is an encyclopedia&mdash;if you want to keep an online diary or write down your personal opinions, E2 and other wikis are probably a better place. Of course, we would like to encourage you to post encyclopedic material here, and non-encyclopedic material elsewhere.
+Some E2 users don't like long writeups and show their displeasure. On Wikipedia, we tend to aim for larger articles, on average, though we still have many stubs. See Wikipedia:Page size for some rough guidelines.
+== Moving content from Wikipedia to E2 ==
+Moving articles from Wikipedia to E2 is very easy.
+All you have to do is reformat the content appropriately (E2's text formatter makes it easy) and follow the GNU Free Documentation License.
+Damian Yerrick ( urltoken yerricde on E2) has provided an example of how to do this in his writeup in urltoken bullshit, which was derived from Wikipedia's article on bullshit.
+Whatever Wikipedia's policies for disseminating its content may be, E2 discourages the posting of material not substantially authored by the user posting it (regardless of the impression that a perusal of some of E2's older content may give). E2 does not have formal policy, but one popular view holds that a writeup without attribution to another source carries an implicit claim that the user who posted the writeup is its author. The fact that Wikipedia articles are edited collaboratively makes their posting on E2 problematical. 
+At some point in the past, a few users created the urltoken everyone E2 account to upload content without taking personal credit for it. The everyone account still exists on E2 and may occasionally be useful for adding Wikipedia content, especially if it is content you are not substantially responsible for. For access to the everyone account, contact urltoken dann. 
+The user who wishes to move Wikipedia content to E2 has three other alternatives:
+1. Some E2 usergroups have control of anonymous accounts for the posting of general interest writeups. If you are an E2 user who is a member of such a usergroup, you may be able to convince the group to allow you to copy Wikipedia material to that account.
+2. With editorial permission, post the content under your own name.
+3. Create a new account and post a clear claim on its homenode that it is used to post content not authored by its owner. Do not use this account to node your own material or to influence the E2 database by voting or using other features that one gains as one rises in level.
+Whatever you do, you must attribute the material to Wikipedia, and link to the GNU Free Documentation License as well. An italicized paragraph at the top stating <nowiki>This article/writeup is released under the GNU Free Documentation License, and is a verbatim copy/modified version of an article from Wikipedia at urltoken as of mm/dd/yyyy, as allowed by that license</nowiki> should satisfy E2 policy on the matter. (Don't accept this as authoritative until I get concurrence from dem bones - Casu Marzu)
+== Final words ==
+We hope you find working on Wikipedia to be fun and rewarding. If you have questions that you can't find the answers to, drop by the village pump and ask away. Chances are a friendly Wikipedian or three will have some answers for you.
+This article was originally based on an analogous guide for h2g2 Researchers.
+
+Welcome to Wikipedia, noder! Like Everything2, Wikipedia is a collaborative online project. However, there are major differences between the two, so this guide has been put together to help you. Our general Help and FAQ pages are also at your disposal.
+First, you may want to look at urltoken an E2 writeup about Wikipedia and Everything2.

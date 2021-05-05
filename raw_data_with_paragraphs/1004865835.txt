@@ -1,0 +1,438 @@
+Uno (card game)
+
+==History==
+The game was originally developed in 1971 by Merle Robbins in Reading, Ohio, a suburb of Cincinnati. When his family and friends began to play more and more, he spent $8,000 to have 5,000 copies of the game made. He sold it from his barbershop at first, and local businesses began to sell it as well. Robbins later sold the rights to UNO to a group of friends headed by Robert Tezak, a funeral parlor owner in Joliet, Illinois, for $50,000 plus royalties of 10 cents per game. Tezak formed International Games, Inc., to market UNO, with offices behind his funeral parlor. The games were produced by Lewis Saltzman of Saltzman Printers in Maywood, Illinois.
+In 1992, International Games became part of the Mattel family of companies.<ref name=instructions2001></ref>
+==Official rules==
+The aim of the game is to be the first player to score 500 points, achieved (usually over several rounds of play) by being the first to play all of one's own cards and scoring points for the cards still held by the other players.
+The deck consists of 108 cards: four each of "Wild" and "Wild Draw Four," and 25 each of four different colors (red, yellow, green, blue). Each color consists of one zero, two each of 1 through 9, and two each of "Skip," "Draw Two," and "Reverse." These last three types are known as "action cards."
+To start a hand, seven cards are dealt to each player, and the top card of the remaining deck is flipped over and set aside to begin the discard pile. The player to the dealer's left plays first unless the first card on the discard pile is an action or Wild card (see below). On a player's turn, they must do one of the following:
+* play one card matching the discard in color, number, or symbol
+* play a Wild card, or a playable Wild Draw Four card (see restriction below)
+* draw the top card from the deck, then play it if possible
+Cards are played by laying them face-up on top of the discard pile. Play proceeds clockwise around the table.
+Action or Wild cards have the following effects:
+* A player who draws from the deck must either play or keep that card and may play no other card from their hand on that turn.
+* A player may play a Wild card at any time, even if that player has other playable cards.
+* A player may play a Wild Draw Four card only if that player has no cards matching the current color. The player may have cards of a different color matching the current number or symbol or a Wild card and still play the Wild Draw Four card.<ref name=UNO></ref> A player who plays a Wild Draw Four may be challenged by the next player in sequence (see Penalties) to prove that their hand meets this condition.
+* If the entire deck is used during play, the top discard is set aside and the rest of the pile is shuffled to create a new deck. Play then proceeds normally.
+* It is illegal to trade cards of any sort with another player.
+A player who plays their next-to-last-card must call "Uno" as a warning to the other players.<ref>Exact wording of the official rules: 'When you play your next-to-last card, you must yell "UNO" (meaning "one") to indicate that you have only one card left'.</ref>
+The first player to get rid of their last card ("going out") wins the hand and scores points for the cards held by the other players. Number cards count their face value, all action cards count 20, and Wild and Wild Draw Four cards count 50. If a Draw Two or Wild Draw Four card is played to go out, the next player in the sequence must draw the appropriate number of cards before the score is tallied.
+The first player to score 500 points wins the game.
+===Penalties===
+* If a player does not call "Uno" after laying down their next-to-last card and is caught before the next player in sequence takes a turn (i.e., plays a card from their hand, draws from the deck, or touches the discard pile), they must draw two cards as a penalty. If the player is not caught in time (subject to interpretation) or remembers to call "Uno" before being caught, they suffer no penalty.<ref name=UNO />
+* If a player plays a Wild Draw Four card, the following player can challenge its use. The player who used the Wild Draw Four must privately show their hand to the challenging player, in order to demonstrate that they had no matching colored cards. If the challenge is correct, then the challenged player draws four cards instead. If the challenge is wrong, then the challenger must draw six cards; the four cards they were already required to draw plus two more cards.<ref name="UNO" />
+===Two-player game===
+In a two-player game, the Reverse card acts like a Skip card; when played, the other player misses a turn.
+===House rules===
+The following official house rules are suggested in the Uno rulebook, to alter the game:
+* Progressive Uno: If a draw card is played, and the following player has the same card, they can play that card and "stack" the penalty, which adds to the current penalty and passes it to the following player.<ref name=UNO /> (Although a +4 cannot be stacked on a +2, or vice versa.)<ref name="dex"/> This house rule is so commonly used that there was widespread Twitter surprise in 2019 when Mattel stated that stacking was not part of the standard rules of Uno.<ref name="dex"></ref>
+* Seven-O: When a 7 is played, the person who played may choose to swap their hand with that of another player. When a zero is played, all players pass their hands to the left.<ref name=UNO />
+* Jump-In: If a player has exactly the same card (both number and color) as the top card of the discard pile, they may play it immediately, even if it is not their turn. The game then continues as if that player had just taken their turn.<ref name=UNO />
+==Strategies==
+A strategy at Uno may be offensive (aiming to go out), or defensive (aiming to minimize the value of one's hand, in the event that another player goes out, thus getting those points). Part of the skill of playing Uno is knowing when to adopt an offensive or defensive strategy.
+An offensive strategy would be holding on to Wild and Wild Draw Four cards because they can be played near the end of the hand in order to go out (when it's harder to play a matching card). However, a defensive strategy would advise getting rid of such cards early, because they have a high point value.
+A defensive strategy would advise playing a high card in order to reduce the point value of the hand. However, an offensive strategy would suggest playing a 0 when the player wants to continue on the current color, because it is less likely to be matched by another 0 of a different color (there is only one 0 of each color, but two of each 1–9).
+A player holding only one card is required to call out "Uno" or risk being penalized if caught. A player who calls "Uno" risks being the target of concerted action by the other players, who may be able to use action cards to prevent that player from going out. Depending on the level and seriousness of play, some players may deliberately avoid saying "Uno", in the hope of avoiding detection and then going out on the next turn. For this reason, it is useful to conceal how many cards are in one's own hand and to keep track of how many cards every other player holds.
+Little has been published on the optimal strategy for the game of Uno. Simulations of games may shed some light on the matter. Attempts to reduce point count in a player's hands can be "read" by other players if too transparent. This information can be exploited by other players, and it follows that a mixed strategy may be more appropriate.
+== Card and deck styles ==
+Modern Uno action cards bear symbols which denote their action, except for the Wild cards which still bear the word "Wild." Before the design change, such cards in English versions of the game had letters only. Earlier English versions can be recognised by the absence of the white rim that surrounds the edge of most Uno cards.
+Other versions of the game use symbols and images in both old and new designs, especially ones with Wild cards that do not bear the word "Wild". There are also language-free versions of the newer styles that do not bear the word "Wild" but have the same styling.
+The 2010 "Uno Mod" edition uses symbols instead of letters or numbers.
+On September 16, 2017, Mattel released UNO® ColorADD, the first game designed specifically for those suffering from color blindness.<ref name="colorblind"></ref>
+On October 1, 2019, Mattel released a Braille version of their game, with Mark Riccobono, President of the National Federation of the Blind, said in a press release, "The fact that a blind person is now able to play a classic game of UNO straight out of the box with both blind and sighted friends or family members is a truly meaningful moment for our community."<ref name="braille 1"></ref><ref></ref>
+==Theme packs==
+There are many different themes and versions of Uno. These theme games may come with slightly different directions and special cards.<ref></ref>
+* American Kennel Club (Herding Breeds) Uno
+* American Kennel Club (Non-Sporting Group) Uno (2006)
+* American Kennel Club (Sporting Group) Uno
+* American Kennel Club (Terrier Breeds) Uno
+* Angry Birds Uno (2012)
+* Arsenal Highbury Legends Uno (2007)
+* Avengers Uno (2015)
+* Avengers Assemble Uno (2013)
+* Bandai Uno<ref group=lower-alpha>A version released in Japan.</ref>
+* Barbie Uno<ref group=lower-alpha>Features the "friendship" card, where the player can swap his/her hand with another player. (2002, 2010)</ref>
+* Barbie Cali Girl Edition Uno (2004)
+* Barbie – Life in the Dream House Uno (2014)
+* Batman Uno (2005)
+* Batman Begins Uno (2005)
+* Batman: The Dark Knight Uno (2008)
+* Batman v Superman: Dawn of Justice Uno (2015)
+* Beach Uno (2011)
+* Betty Boop Uno (2005)
+* The Big Bang Theory Uno (2012)
+* Braille Uno (2012)
+* BTS (Boy Band) Uno
+* Captain Marvel Uno (2019)
+* Care Bears Uno (2003)
+* Car-Go Uno (2004)
+* Cars Uno (2006)
+* Cars 2 Uno (2011)
+* Cars 3 Uno (2017)
+* Cinderella Uno (2012)
+* Coca-Cola Uno (1998, 2004)
+* Coco (2018)
+* Dare (2014)
+* DC Super Heroes Uno
+* Case Closed Uno (2017)
+* Diary of a Wimpy Kid Uno (2012)
+* Disney Uno (2002) 
+* Disney Electronic Uno (Classic) (2003) 
+* Disney Electronic Uno (Modern)
+* Disney Fairies Uno (2009) 
+* Pixar Uno (2012) 
+* Disney Princess Uno<ref group=lower-alpha>Features the Dragon Card, when played, all players must discard a prince card (regardless of color or number) to kill the dragon before continuing play. If a player does not have a prince card in their hand, they must pick up cards until they find a prince card. (2004) (2013)</ref>
+* Disney Channel / Disney Shows Uno<ref group=lower-alpha>Deck features many of the characters on the Disney Channel.</ref>
+* Disney Sofia The First Uno<ref group=lower-alpha>Card game in Foil Bag.</ref>
+* Disney Theme Park Uno<ref group=lower-alpha>Evil card: the player holding this card can steal the top card from the DISCARD pile at any point in the game, even if it's not his or her turn. (2005, 2012)</ref>
+* Despicable Me Minion Made Uno
+* Doc McStuffins Uno (2013)
+* Dog Uno (2003)
+* Doraemon Uno<ref group=lower-alpha>Released in Japan</ref>
+* Doctor Who Uno (2007)
+* Drunk Uno (2020)
+* Elvis Uno (2000)
+* Emoji Uno
+* Eragon Uno (2006)
+* Family Guy Uno (2004)
+* Fantastic Four Uno (2005)
+* Fast and Furious
+* Fat Albert Uno (2005)
+* Ferrari Uno (2000)
+* Finding Dory Uno (2016)
+* Fishing Uno (2012)
+* Florida State University Uno (2011)
+* Fraggle Rock Uno<ref group=lower-alpha>Includes the Travel card (featuring Traveling Matt), which allows the player to "travel" to another player's spot and view his or her entire hand. (2006)</ref>
+* Frozen Uno (2014)
+* Frozen II
+* Glee Uno (2011)
+* Ghostbusters Uno (2016)
+* Golden Compass Uno (2007)
+* Green Lantern Uno (2011)
+* Hairspray Uno (2007)
+* Hanna-Barbera Uno (2004)
+* Hannah Montana Backstage Pass Uno
+* Hannah Montana Best of Both Worlds Uno (2007)
+* Happy Birthday
+* Happy Feet Uno (2006)
+* Harry Potter Uno<ref group=lower-alpha>Features a Draw Three (instead of Draw Two) card; also features a "howler" wild card where, if played, the player who uses the card may select another player to say all of their cards aloud; also features an "invisibility" wild card where, if played, the player can block any card placed down (such as, a card that forces them to draw cards). (2000, 2003, 2005, 2010)</ref>
+* Hello Kitty Bow Uno (2012)
+* Hello Kitty Friendship Uno (2003)
+* Hi Hi Puffy Amiyumi Uno (2006)
+* High School Musical Uno (2006)
+* High School Musical 2 Uno (2007)
+* High School Musical 3 Uno (2008)
+* Holiday Uno (2009)
+* Hoops and Yoyo Uno
+* Horses Uno (2011)
+* Hot Death Uno (2001)
+* Hot Wheels Uno (2012)
+* House Rules Uno (1998)
+* Hulk Uno (2003)
+* H<sub>2</sub>O<ref group=lower-alpha>A deck with transparent waterproof cards. It includes 4 (2 of which are +1 2 of which are +2 downpour cards) black action cards called "wild DownPour" cards; when played, all the other players must pick up the number specified on the card and may choose the next color of play these cards replace two of the wild cards and two of the wild draw four cards out of the original deck, and also double as wild cards. (2004)</ref>
+* H<sub>2</sub>O To Go
+* H<sub>2</sub>O Splash (2005)
+* Incredibles 2 
+* Iron Man 2 Uno (2010) 
+* Jean-Michel Basquiat Uno (2020) <ref group=lower-alpha>First of the #UNOAtriste series</ref>
+* Jelly Belly Uno (2012)
+* John Deere Uno(2010)<ref group=lower-alpha>Features farm equipment graphics and a "Harvest" card – The player who plays the harvest card selects another player to draw from the DRAW pile until he/she draws a green card, which will allow them to complete the harvest (or, until they draw 5 cards, whichever comes first).</ref>
+* Jurassic World Uno (2018)
+* Jurassic World: Fallen Kingdom 
+* Justice League Uno (2017)<ref group=lower-alpha>Features X-Ray card that lets a player see another's hand and strategically exchange a card.</ref>
+* Keith Haring Uno (2020) <ref group=lower-alpha>Second of the #UNOAtriste series</ref>
+* Kittens Uno
+* Kung Fu Panda Uno (2008)
+* Left Handed Uno (2020)
+* Limited Too It's A Girl's World Uno (2008)
+* Lion King (2020)
+* Macy's Parade Uno
+* Magic Tree House Uno (2007)
+* Marvel Heroes Uno (2010)
+* Mario Bros. Uno (2012)
+* Masters of the Universe Origins (2020)
+* Mattel 75th Anniversary (2020)
+* Mickey Mouse and Friends (2020)
+* Minecraft 
+* Mini Party Favors Uno
+* Minimalist Uno (2020)
+* Monster High
+* Muppet Show Uno (2003) <ref group=lower-alpha>Mayhem card: the player who plays it causes everyone to swap hands. The direction of the swap is determined by the player playing the card. </ref>
+* My Scene Uno (2005)
+* MyUno Uno (2005)
+* National Parks Uno (2002, 2009)
+* New York City Uno (2001)
+* NHL Uno
+* Nightmare Before Christmas Uno (2007)
+* Nina Chanel Abney Uno (2020) <ref group=lower-alpha>Third of the #UNOAtriste series</ref>
+* 1990's Uno (2019)
+* Nintendo Uno (2004)
+* Non-Partisan
+* North American Wildlife Uno
+* Nothin But Paper Uno (2020)
+* Notre Dame Uno (2005)
+* NSYNC Uno(2000)
+* The Office (2020)
+* Olympics Tokyo 2020 (2020)<ref group=lower-alpha>Will be interesting to see if this hits store shelves since the Olympics were postponed to 2021 due to COVID19.</ref>
+* One Piece Uno (2003, 2011)
+* One Piece: The New World Uno (Japan-2012)
+* Over the Hedge Uno (2006)
+* PAW Patrol Uno (2015)
+* Peanuts Uno (2002)<ref group=lower-alpha>Wei, R. H. "Gamebits: Peanuts at Play". Games. Issue 196 (Vol. 27, No. 10). p. 4. December 2003.</ref>
+* Peanuts – A Charlie Brown Christmas Uno<ref group=lower-alpha>Happy Holidays Card (2007, 2008, 2010)</ref>
+* Peanuts – It's the Great Pumpkin Uno (2006)
+* Peanuts – Be My Valentine Uno (2006)
+* Peanuts Movie Uno (2015)
+* Peanuts – Vintage Peanuts Uno (2005)
+* The Penguins of Madagascar Uno (2012)
+* Penn State University Uno
+* Phineas and Ferb Uno (2012)
+* Pinkalicious Uno (2010)
+* Pirates of the Caribbean Uno (2007)
+* Planes Uno (2013)
+* Planes – Fire and Rescue! Uno (2014)
+* Pokémon Uno (2006)
+* Pokémon: Best Wishes (Japan)
+* Pokémon: XY (Japan)
+* Polly Pocket Uno (2006)
+* Power Rangers Super Samurai Uno 
+* Puppies Uno
+* Ratatouille Uno (2007)
+* Remix Uno (2021)
+* Ren and Stimpy Uno (2004)
+* Retro Uno (2014)
+* Ryan's World (2020)
+* Saved by the Bell (2020)
+* Scooby-Doo Uno
+* Sesame Street Uno (2004)
+* Shark Week (2020)
+* Shopkins Uno (2015)
+* Shrek Uno
+* Shrek 2 Uno (2004)
+* Shrek the Third Uno<ref group=lower-alpha>In a Shrek-faced package. 'Merlin Card' When you play this card you call out a color of your choice. All other players draw cards from the DRAW pile until each draws a card of that color. All of the cards that they draw are added to the cards in their hands. (2007)</ref>
+* The Simpsons Uno (2003)
+* The Simpsons (D'oh) Uno (2009)
+* The Simpsons: Springfield / Great Scot Uno (2006)
+* Treehouse of Horror (series) Uno (2005)
+* Snappy Dresser
+* Sock Monkey Uno
+* South Park Uno (2004)
+* Speed Racer<ref group=lower-alpha>This set has a special Racer X card. The player who uses this card draws a card from the draw pile onto the discard pile and the depending on the number, the next player must place a card that follows the number drawn before. For example, player A draws the racer X card and draws a card with the number 3. The next player must place a card with the number 4 (regardless of colour) and the next player must place a card with the number 5 and so on. If they reach 9, they must start over with 0 until a player is unable to place a card and he/she must draw three cards. (2007)</ref>
+* Spider-Man Uno (2002)
+* Spider-Man 2 Uno (2004)
+* Spider-Man Spider Sense Uno*
+* Marvel Ultimate Spider-Man Web-Warriors Uno (2014)
+* Splash Uno<ref group=lower-alpha>Comes with a handy clip that keeps all the cards together and attaches to a beach bag, backpack or camping gear. Seems to be about the same as H20 To Go.</ref>*
+* Splash: Finding Dory Uno<ref group=lower-alpha>Comes with a handy clip that keeps all the cards together and attaches to a beach bag, backpack or camping gear.</ref> 
+* SpongeBob SquarePants #1<ref group=lower-alpha>Super Absorbency (#1) Uno – which features the Super Absorbency card, a wild card which requires the next player to draw one card from all other players' hands at random. There is controversy as to what happens when the Super Absorbency card is played as the player's penultimate card. Some contend that the person playing the card would win as the next player would be required to take that card from him/her. However, some say that there is an exception whereas the Super Absorbency requires a card to be drawn from all players' hands except those who are in the uno stage. Clarification can be found on the back of the SpongeBob metallic tin. (2002)</ref>
+* SpongeBob SquarePants #2<ref group=lower-alpha>Secret Recipe (#2) Uno – Secret Recipe – Allows the player to look at another player's hand. The player can also select a new color just like a wild card.</ref>
+* SpongeBob SquarePants #3<ref group=lower-alpha>Lost in Time (#3 Uno) – Daredevil – Can be played to counter a Draw 2 or Draw 4 card. Can also be used as a wild card.</ref>
+* SpongeBob SquarePants – Eye Eye SpongeBob! (2008)
+* SpongeBob SquarePants – Jellyfishing (2008)
+* SpongeBob SquarePants – Lost in Time (2006)
+* St. Louis Uno (2005)
+* Star Trek Uno<ref group=lower-alpha>Two Editions, both based on Star Trek: The Original Series</ref>
+** Mattel-produced "Special Edition"<ref group=lower-alpha>With special cards, each of which appears once per pack: Double Tribble card – The player who plays this card chooses the color of play, then next player doubles the number of cards in their hand and forfeits their turn; Beam Me Up, Scotty card – This can played to stop any command card (a "Draw 2" card, for example) and allows for the color of play to be chosen; Mind Meld card – This commands the next player to show the person who played this card their hand; Live Long & Prosper card – This can be played at any time to discard the players hand and pick up an entirely new one, then allows him/her to choose color of play. (1999)</ref>
+** Fundex Games "Collector's Edition"<ref group=lower-alpha>Simplifies the special WILDs to one kind: 4 "Beam Up WILD" cards that can negate the effects of any DRAW 2 or DRAW 4 WILD cards played against a player. That player can then call a new color, and play resumes as if they had played a regular WILD. (It can also be used as a regular WILD if desired.) (2008)</ref>
+* Clone Wars (Star Wars) Uno
+* Super Mario (2016)
+* Superman Uno (2005)
+* Superman Returns Uno (2005)
+* Sydney 2000 Uno (1999)
+* Susan G. Komen Themed Uno
+* Teen Titans Uno (2006)
+* Teenage Mutant Ninja Turtles Uno (2014)
+* Texas Uno (2006)
+* Toy Story Uno (2010)
+* Toy Story 3
+* Toy Story 4
+* Trolls (2020)
+* University of Alabama Uno
+* University of Florida Uno
+* University of Georgia Uno
+* University of Kentucky Uno
+* University of Michigan Uno
+* University of North Carolina Uno
+* University of Texas Uno
+* University of Southern California (2020)
+* Uno (1971)
+* Uno 25th Anniversary (1996)
+* Uno 30th Anniversary (2001)
+* Uno 35th Anniversary (2011)
+* Uno 40th Anniversary (2016)
+* Uno 50th Anniversary (2021)
+* UNO in FitSand Travel Zipper Carry EVA Hard Case (2016)
+* Uno Deluxe in box<ref group=lower-alpha>Some versions with erasable score pad. (1978, 1979, 1983, 1986, 1987, 1991, 1993, 2001, 2000, 2004, 2008)</ref>
+* Uno Deluxe in Wood Box
+* UNO With Customizable Wild Cards (2015)
+* Uno Uno Corns
+* Uno Express
+* Uno Mod (2010)
+* USA Uno
+* Vacation Uno<ref group=lower-alpha>When this Check Two Card played by a player, he/she can:
+** immediately play another card of the same suit color, OR
+** play either Wild or Wild Draw 4 Card, the wild color called must match the color of the Check Two Card played.
+However, this Check Two Card cannot be played:
+*on its own (without a card of the same suit color), OR
+* as the last card in your hand.
+If the Check Two Card is the last card in a player hand, he/she must take another card from the draw pile. If the card just drawn matches the suit color of the Check Two Card, he/she may directly play the Check Two Card, say UNO, and play the matching suit color card to complete the game. (2002)</ref>
+* Wilderness Uno (2016)
+* Wildlife Uno (2012)
+* Wizard of Oz Uno(2007) <ref group=lower-alpha>Includes a special "Over The Rainbow" card where the person playing this card chooses someone hand to look at, also acts as a wild which then the person chooses the color of play.</ref>
+* WWE Legends Uno (2005)
+* World's Smallest Uno (2020)
+* X-Games (1999, 2007)
+* X-Men Uno (2003)
+* Zelda
+Note: * indicates HIT Entertainment character, by which Mattel acquired HIT in 2012.
+===Themed My First Uno games===
+Card sets only have 36 cards designed for children at least 3 years of age. These sets come in several variants, based on titles for children. My First Uno versions:
+* Angelina Ballerina Uno (2005)
+* Animals Uno
+* Bob The Builder Uno (2007)
+* Clifford the Big Red Dog
+* Curious George Uno (2005)
+* Dora the Explorer Uno (2003, 2010)
+* Dory
+* Elmo Uno
+* Handy Manny Uno (2009)
+* Disney's Jake and the Neverland Pirates Uno (2011)
+* Koala Brothers Uno (2005)
+* Little People Uno (2006)
+* Mickey Mouse Club Uno (2008)
+* Miss Spider's Sunny Patch Friends Uno (2006)
+* Rugrats Uno (1991)
+* Sesame Street Uno (2004)
+* SpongeBob SquarePants and Friends Uno (2012)
+* Thomas & Friends Uno (2010)
+* Where the Wild Things Are Uno (2007)
+* Winnie the Pooh and Friends Uno (2002, 2011, 2012)
+* Yo Gabba Gabba! Uno
+===Themed video games===
+Uno versions available on the Xbox 360:
+* Street Fighter II Uno<ref group=lower-alpha>In this game, the cards show different characters from the Street Fighter II video game. This deck contains a special Hadouken card, which allows the user to choose 1 player to draw cards until they have drawn a Skip or a Reverse card. Play then continues on as normal.</ref>
+* Project Gotham Racing Uno<ref group=lower-alpha>In this game, the cards are drawn like cars seen in the Project Gotham Racing series of video games. In this game, the rules include a card called the "Gotham Live" card, which is the same name used as the replay feature in Project Gotham Racing 3. This card allows a player to look at the hand of any of the other players.</ref>
+* Kameo: Elements of Power Uno<ref group=lower-alpha>This pack was released on 1 November 2006. This is a custom deck with artwork from the Kameo game. In addition, a special play card allows you to swap your hand with the hand of another player in the game.</ref>
+* Uno 35th Anniversary (see above)
+===Themed sports teams===
+Several sports teams each have 112-card sets, featuring players from those teams. The special cards in each deck vary depending on the card set itself. The following teams have confirmed Uno sets.
+* Minnesota Patriots
+* Auburn Tigers (NCAA)
+* England FA (2010)
+* England Rugby (2010)
+* Manchester United
+* Hockey<br/> Calgary Flames (2010)<br/>NHL<br/>NHL Stars of Finland
+* MLB All-Stars<br/>American League (2005)<br/> American League – Stars of the American League (2006)<ref group=lower-alpha>This may be the same as the "American League" deck</ref><br/> American League – Baltimore Orioles Miguel Tejada <br/> American League – Boston Red Sox (Regular (2004) and World Series editions (2007))<br/> American League – Boston Red Sox David Ortiz Limited (2007)<br/> American League – Chicago White Sox (2007)<br/> American League – Chicago White Sox World Series Championship<br/> American League – Los Angeles Angels of Anaheim (2005)<br/> American League – New York Yankees (2006)<br/> American League – New York Yankees Derek Jeter Limited (2007)<br/> American League – Seattle Mariners (2003)<br/> American League –Texas Rangers (2006)<br/><br/>National League<br/> National League – MLB All Stars National League<br/> National League – Chicago Cubs<ref group=lower-alpha>Different sources list 2005, 2006, & 2007</ref><br/> National League – Chicago Cubs: Derek Lee (2006)<br/> National League – Houston Astros (2005)<br/> National League – New York Mets (2005)<br/> National League – New Your Mets: David Wright Special (2007)<br/> National League – Philadelphia Phillies (2005)<br/> National League – St. Louis Cardinals (2006)
+* NBA All-Stars<br/>(East and West)<br/> Eastern Conference – NBA All Stars Eastern Conference (2006)<br/> Eastern Conference – Boston Celtics Legends (2005)<br/> Eastern Conference – Cleveland Cavaliers: LeBron James Special Edition (2007)<br/> Eastern Conference – New York Knicks (2006)<br/> Western Conference – NBA All Stars Western Conference (2006)<br/> Western Conference – Los Angeles Lakers Legends Edition (2006)<br/> Western Conference – Los Angeles Lakers Kobe Bryant Special Edition (2007)<br/> Western Conference – San Antonio Spurs (2006)
+* American Football<br/>Chicago Bears (2006)<br/>Dallas Cowboys (2006)<br/>Green Bay Packers (2007)<br/>Minnesota Vikings<br/>National Football League NFC Edition (2006)<br/>New England Patriots (2007)<br/>New York Giants (2006)<br/>New York Jets (2009)<br/>NFL American League (2006)<br/>NFL National League (2006)<br/>Phil. Eagles (2006)<br/>Pittsburgh Steelers (2006)<br/>Super Bowl XL Steelers Special Edition (2006)
+* NFL Greatest Players Editions<br/>Tom Brady (2007)<br/>Reggie Bush(2007)<br/>Brett Favre (2007)<br/>LaDanian Tomlinson (2007)<br/>Brian Urlacher (2007)
+== Special Uno games ==
+* Uno Attack (Uno Extreme in the UK and Canada) (1999)
+* Uno Attack Jurassic World (2018) 
+* Uno Attack Refill Deck
+* Uno Bingo (1997)
+* Uno Blast (2012)
+* Uno Blitzo (2000)
+* Uno Choo-Choo (2011)
+* Uno Color Screen
+* Uno Deluxe
+* Uno Dare (2014)
+* Uno Dice (1987, 1996, 2011)
+* Uno Dominoes (1986)
+* Electronic Uno
+* Uno Flash (2007)
+* Uno Flip (2009) (Target Store Exclusive)
+* Uno Flip (2019)
+* Giant Uno (2016)
+* Giant BTS Uno (2020)
+* Uno H2O (2004)
+* Uno H20 To Go
+* Uno Hearts (1994)
+* Uno Junior (1992)
+* King Size Uno (1994)
+* Uno Madness (1995)
+* Uno Moo (2008, 2014)
+* Uno Power Grab
+* Uno Reflex
+* Uno Roboto
+* Uno Royal Revenge (2014)
+* Uno Rummy Up (1993)
+* Uno Spin (2005)
+* Uno Spin Hannah Montana (2005)
+* Uno Spin One Piece (Japan)
+* Uno Spin To Go (2010)
+* Uno Stacko (1994)
+* Travel Uno Stacko
+* Uno Tippo (2009)
+* Uno Slam
+* Uno Tiki Twist (2014)
+* Uno Wild Jackpot (2016)
+* Uno Wild Tiles (1982)
+* Get Wild for Uno (2016)
+* Uno MineCraft (2018)
+== Video games ==
+* Hot Death UNO (IBM – 1993)<ref></ref>
+* Roblox Uno (Roblox game for PC, phones and tablets – 2018)
+* Uno (handheld video game – 2000)
+* Uno (handheld video game for the Game Boy Color of the classic Uno board game)
+* UNO DX (Japanese exclusive Sega Saturn game by Mitsui & Co. – 1998)
+* Uno (PlayStation Network)
+* Uno (Xbox Live Arcade)
+* Uno Rush (Xbox Live Arcade)
+* Uno Challenge (mobile version of the classic Uno board game)
+* Uno Free Fall (puzzle game for mobile phones)
+* Uno 52 (Nintendo Game Boy Advance)
+* Super Uno (Super Famicom)
+* Uno (Facebook) (Adobe Flash–based version of the classic Uno card game produced by GameHouse Studios)
+* Uno (iPhone) Features online and local play. Produced by Gameloft
+* Uno (iPad) The same as on the iPhone, but with enhanced graphics. Produced by Gameloft
+* Uno (Android) Released as three versions: SD, HD and Free with adverts. Produced by Gameloft
+* Uno (DSi)
+* Uno (WiiWare) Produced by Gameloft<ref></ref>
+* Uno & Friends (various platforms)
+* Pocket Uno
+* Uno<ref></ref> and UNO & Friends<ref></ref> for Windows Phone
+* Uno Undercover (Windows)
+* Uno (2016 video game for PC, PlayStation 4, and Xbox One by Ubisoft)
+* Uno – 2017 video game (release of 2016 game on the Nintendo Switch), produced by Ubisoft<ref></ref>
+== Variations ==
+Many variations from standard gameplay exist, such as Elimination Uno, Speed Uno and Pirate Uno.<ref></ref>
+In 2018, Mattel released a spin-off of Uno entitled Dos; the game is differentiated primarily by having a "center row" of discard piles. where pairs of cards that add up to the sum of a card on the top of one of the piles may be discarded.<ref></ref><ref></ref>
+The game can be played with two decks of standard playing cards, if the jokers are marked up as the zeroes of the four suits, and the royalty treated as the special cards.
+==UNO: Slots==
+In 2002, International Gaming Technology (IGT)<ref></ref> released a video slot machine based on UNO.
+==UNO: The Game Show==
+In March 2013, it was announced that Mattel and The Gurin Company<ref></ref><ref></ref> were teaming up to create a game show based on the card game, produced as a half-hour daily strip with a $100,000 cash jackpot along with a primetime version in which contestants competed for 1 million dollars. However, the idea was scrapped later on.
+==Film adaptation==
+On February 4, 2021, an action heist comedy film based on the game was announced to be in development for Mattel Films with Lil Yachty of record label Quality Control Music developing and being eyed for the lead role alongside the label's managers Kevin “Coach K” Lee and Pierre “P” Thomas, and Brian Sher for Quality Films, and Robbie Brenner and Kevin McKeon leading the project as executive producer and supervising producer, respectively.<ref></ref>
+==Similar games==
+Uno is a member of the shedding family of card games. The shedding family of card games consists of games where the objective is to get rid of all your cards while preventing the other players from getting rid of their cards.
+* Crazy Eights
+** Black Jack (Switch)
+** Switch (card game)
+* Eleusis
+* Last Card
+* Macau
+* Mao
+* Mau Mau (game)
+* O'NO 99
+* One Card (game)
+* Phase 10
+* SKIP-BO
+* Taki
+* Whot!
+==Notes==
+==References==
+==Bibliography==
+* urltoken Current official rules, from Mattel
+* urltoken Official Mattel Uno site
+* urltoken Uno Rules at UnoRulesonline.com
+* urltoken Uno Variations at UnoVariations.com
+* urltoken Uno variants at pagat.com
+* urltoken Uno News at Wonkavator
+*
+
+Uno ; from Italian and Spanish for 'one'; stylized as UNO) is an American shedding-type card game that is played with a specially printed deck. The game's general principles put it into the Crazy Eights family of card games, and it is similar to the traditional European game Mau-Mau.
+It has been a Mattel brand since 1992.<ref></ref>

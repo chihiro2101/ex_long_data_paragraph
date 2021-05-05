@@ -1,0 +1,62 @@
+Material Exchange Format
+
+== Summary ==
+MXF when used in form of "Operational Pattern OP1A or OPAtom" be used as a "container" or "wrapper" or "reference file" format which supports a number of different streams of coded "essence", encoded in any of a variety of video and audio compression formats, together with a metadata wrapper which describes the material contained within the MXF file. Other "Operational Patterns" can contain or reference multiple materials just like a simple timeline of a video editing program.
+MXF has full timecode and metadata support, and is intended as a platform-agnostic stable standard for future professional video and audio applications.
+MXF was developed to carry a subset of the Advanced Authoring Format (AAF) data model, under a policy known as the Zero Divergence Directive (ZDD). This theoretically enables MXF/AAF workflows between non-linear editing (NLE) systems using AAF and cameras, servers, and other devices using MXF.
+== Usage ==
+From the year 2004, MXF was in the process of evolving from standard to deployment. The breadth of the standard was subject to lead to interoperability problems as vendors implement different parts of the standard or interpret misleading parts of the standard differently.
+MXF is fairly effective at the interchange of D10 (IMX) material, mainly because of the success of the Sony eVTR and Sony's eVTR RDD to SMPTE. Workflows combining the eVTR, Avid NLE systems, and broadcast servers using MXF in coordination with AAF are now possible.
+Long-GOP MPEG-2 material interchange between video servers is possible, as broadcasters develop application specifications they expect their vendors to implement.
+As of Autumn 2005, there were major interoperability problems with MXF in broadcast post-production use. The two data-recording camera systems which produced MXF at that time, Sony's XDCAM and Panasonic's DVCPRO P2, produced mutually incompatible files due to opaque subformat options obscured behind the MXF file extension. Without advanced tools, it was impossible to distinguish these incompatible formats.
+Additionally, many MXF systems produce split-file A/V (that is, the video and audio stored in separate files), and use a file naming convention which relies on randomly generated filenames to link them. Not only does this exacerbate the issue of knowing exactly what is in an MXF file without specialized tools, but it breaks the functionality of standard desktop computer techniques which are generally used to manipulate data on a level as fundamental as moving, copying, renaming, and deleting. Using a randomly generated filename is uninformative to the user, but changing the name breaks the loose database structure between files.
+One example problem that caused interopability problems in 2004:
+Some of the in 2004 popular MXF export tools (i.e. the ones that are free or cost the least) will not allow the user to create a stereo AES file within the MXF wrapper, nor will they allow the user to add free-text annotation to the MXF file so created (in order, for instance, that the next user of the file be able to interpret his or her intentions).
+Thus, an MXF file received & unwrapped may reveal SMPTE D10 compliant essence with eight mono AES audio components; the recipient has no way of knowing whether these components are multiple stereo pairs, 5.1 or serve some other purpose.
+Some of the incompatibilities were addressed and ratified in the 2009 version of the standard.<ref></ref>
+MXF is used as the audio and video packaging format for Digital Cinema Package (DCP). It is also used in the STANAG specification documents.<ref name=stanag-spec></ref>
+The file extension for MXF files is ".mxf". The Macintosh File Type Code registered with Apple for MXF files is "mxf ", including a trailing space.
+== Tools ==
+=== MXF converters ===
+This list represents some examples of free and Open-source products that support the MXF standard in a way that the reading and writing is compatible to professional products.
+* FFmpeg, an open source project added support for muxing and demuxing of MXF and MXF D-10 in FFmpeg 0.5, released in March 2009.<ref name="ffmpeg-changelog"></ref><ref name="ffmpeg"></ref>
+:* Note that up to 2019, FFmpeg implements only the base MXF standard but does not provide vendor specific profiles, e.g. one cannot produce a MXF File that is compatible to Sony XDCAM devices due to missing header metadata entries (for further information see urltoken ffmpeg trac ticket 5097)
+* GStreamer is an open source Material Exchange Format (MXF) library. Pitivi uses this tool.
+* XMedia Recode is an freeware converter tool that support MXF files.<ref name="xmedia-recode"></ref>
+* Ingex is an open-source (GPL) suite of software for the digital capture of audio and video data, developed and heavily used by the BBC. SDI capture is supported, as well as real-time transcoding (with MXF). Portions of the suite also act as a network file server for media files, as well as archiving to LTO-3 data tape.<ref name=ingex-sourceforge></ref>
+== The MXF standards ==
+===Base documents===
+* SMPTE 377M: The MXF File Format Specification (the overall master document)
+* SMPTE EG41: MXF Engineering Guide (A guide explaining how to use MXF)
+* SMPTE EG42: MXF Descriptive Metadata (A guide explaining how to use descriptive metadata in MXF)
+===Operational patterns===
+* SMPTE 390M: OP-Atom (a very simple and highly constrained layout for simple MXF files)
+* SMPTE 378M: OP-1a (the layout options for a minimal simple MXF file)
+* SMPTE 391M: OP-1b
+* SMPTE 392M: OP-2a
+* SMPTE 393M: OP-2b
+* SMPTE 407M: OP-3a, OP-3b
+* SMPTE 408M: OP-1c, OP-2c, OP-3c
+===Generic containers===
+* SMPTE 379M: Generic Container (the way that essence is stored in MXF files)
+* SMPTE 381M: GC-MPEG (how to store MPEG essence data in MXF using the Generic Container)
+* SMPTE 383M: GC-DV (how to store DV essence data in MXF using the Generic Container)
+* SMPTE 385M: GC-CP (how to store SDTI-CP essence data in MXF using the Generic Container)
+* SMPTE 386M: GC-D10 (how to store SMPTE D10 essence data in MXF using the Generic Container)
+* SMPTE 387M: GC-D11 (how to store SMPTE D11 essence data in MXF using the Generic Container)
+* SMPTE 382M: GC-AESBWF (how to store AES/EBU and Broadcast Wave audio essence data in MXF using the Generic Container)
+* SMPTE 384M: GC-UP (how to store Uncompressed Picture essence data in MXF using the Generic Container)
+* SMPTE 388M: GC-AA (how to store A-law coded audio essence data in MXF using the Generic Container)
+* SMPTE 389M: Generic Container Reverse Play System Element
+* SMPTE 394M: System Item Scheme-1 for Generic Container
+* SMPTE 405M: Elements and Individual Data Items for the GC SI Scheme 1
+===Metadata, dictionaries and registries===
+* SMPTE 380M: DMS1 (a standard set of descriptive metadata to use with MXF files)
+* SMPTE 436M: MXF Mappings for VBI Lines and Ancillary data
+* SMPTE RP210: SMPTE Metadata Dictionary (the latest version is available urltoken here.)
+* SMPTE RP224: Registry of SMPTE Universal Labels
+== Availability of standards ==
+SMPTE's urltoken top standards page has information, for the ordering of CD-ROMs, which would hold formal copy of the SMPTE standards. Judging by SMPTE's index, all of the standards, referenced above, would be contained on those CD-ROMs, as available from urltoken SMPTE.
+ urltoken IRT Test Center contains up-to-date information on the status of the SMPTE documents.
+
+Material Exchange Format (MXF) is a container format for professional digital video and audio media defined by a set of SMPTE standards. A typical example of its use is for delivering advertisements to TV stations and tapeless archiving of broadcast TV programs.<ref></ref> It is also used as part of the Digital Cinema Package for delivering movies to commercial theaters.

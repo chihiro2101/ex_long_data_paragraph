@@ -1,0 +1,57 @@
+Silane
+
+==Production==
+===Commercial-scale routes===
+Silane can be produced by several routes.<ref name=Ullmann></ref> Typically, it arises from the reaction of hydrogen chloride with magnesium silicide:
+:Mg<sub>2</sub>Si + 4 HCl → 2 MgCl<sub>2</sub> + SiH<sub>4</sub>
+It is also prepared from metallurgical grade silicon in a two-step process. First, silicon is treated with hydrogen chloride at about 300&nbsp;°C to produce trichlorosilane, HSiCl<sub>3</sub>, along with hydrogen gas, according to the chemical equation:
+:Si + 3 HCl → HSiCl<sub>3</sub> + H<sub>2</sub>
+The trichlorosilane is then converted to a mixture of silane and silicon tetrachloride. This redistribution reaction requires a catalyst:
+:4 HSiCl<sub>3</sub> → SiH<sub>4</sub> + 3 SiCl<sub>4</sub>
+The most commonly used catalysts for this process are metal halogen, particularly aluminium chloride. This is referred to as a redistribution reaction, which is a double displacement involving the same central element. It may also be thought of as a disproportionation reaction even though there is no change in the oxidation number for silicon (Si has a nominal oxidation number IV in all three species). However, the utility of the oxidation number concept for a covalent molecule, even a polar covalent molecule, is ambiguous. The silicon atom could be rationalized as having the highest formal oxidation state and partial positive charge in SiCl<sub>4</sub> and the lowest formal oxidation state in SiH<sub>4</sub> since Cl is far more electronegative than is H.
+An alternative industrial process for the preparation of very high purity silane, suitable for use in the production of semiconductor grade silicon, starts with metallurgical grade silicon, hydrogen, and silicon tetrachloride and involves a complex series of redistribution reactions (producing byproducts that are recycled in the process) and distillations. The reactions are summarized below:
+:Si + 2 H<sub>2</sub> + 3 SiCl<sub>4</sub> → 4 SiHCl<sub>3</sub>
+:2 SiHCl<sub>3</sub> → SiH<sub>2</sub>Cl<sub>2</sub> + SiCl<sub>4</sub>
+:2 Dichlorosilane → SiHCl<sub>3</sub> + SiH<sub>3</sub>Cl
+:2 Chlorosilane → SiH<sub>4</sub> + SiH<sub>2</sub>Cl<sub>2</sub>
+ 
+The silane produced by this route can be thermally decomposed to produce high-purity silicon and hydrogen in a single pass.
+Still other industrial routes to silane involve reduction of SiF<sub>4</sub> with sodium hydride (NaH) or reduction of SiCl<sub>4</sub> with lithium aluminum hydride (LiAlH<sub>4</sub>).
+Another commercial production of silane involves reduction of silicon dioxide (SiO<sub>2</sub>) under Al and H<sub>2</sub> gas in a mixture of NaCl and aluminum chloride (AlCl<sub>3</sub>) at high pressures:<ref>Shriver and Atkins. Inorganic Chemistry (5th Edition). W. H. Freeman and Company, New York, 2010, p. 358.</ref>
+:3 SiO<sub>2</sub> + 6 H<sub>2</sub> + 4 Al → 3 SiH<sub>4</sub> + 2 Al<sub>2</sub>O<sub>3</sub>
+===Laboratory-scale routes===
+In 1857, the German chemists Heinrich Buff and Friedrich Wöhler discovered silane among the products formed by the action of hydrochloric acid on aluminum silicide, which they had previously prepared. They called the compound siliciuretted hydrogen.<ref>Mellor, J. W. "A Comprehensive Treatise on Inorganic and Theoretical Chemistry," Vol VI, Longmans, Green and Co. (1947), p. 216.</ref>
+For classroom demonstrations, silane can be produced by heating sand with magnesium powder to produce magnesium silicide (Mg<sub>2</sub>Si), then pouring the mixture into hydrochloric acid. The magnesium silicide reacts with the acid to produce silane gas, which burns on contact with air and produces tiny explosions.<ref name="theodoregray"> urltoken Making Silicon from Sand , by Theodore Gray. Originally published in Popular Science magazine.</ref> This may be classified as a heterogeneous acid-base chemical reaction since the isolated Si<sup>4 −</sup> ion in the Mg<sub>2</sub>Si urltoken antifluorite structure can serve as a Brønsted–Lowry base capable of accepting four protons. It can be written as:
+:4 HCl + Mg<sub>2</sub>Si → SiH<sub>4</sub> + 2 MgCl<sub>2</sub>
+In general, the alkaline-earth metals form silicides with the following Stoichiometry: M<sup>II</sup><sub>2</sub>Si, M<sup>II</sup>Si, and M<sup>II</sup>Si<sub>2</sub>. In all cases, these substances react with Brønsted–Lowry acids to produce some type of hydride of silicon that is dependent on the Si anion connectivity in the silicide. The possible products include SiH<sub>4</sub> and/or higher molecules in the homologous series Si<sub>n</sub>H<sub>2n+2</sub>, a polymeric silicon hydride, or a silicic acid. Hence, M<sup>II</sup>Si with their zigzag chains of Si<sup>2 −</sup> anions (containing two lone pairs of electrons on each Si anion that can accept protons) yield the polymeric hydride (SiH<sub>2</sub>)<sub>x</sub>.
+Yet another small-scale route for the production of silane is from the action of sodium amalgam on dichlorosilane, SiH<sub>2</sub>Cl<sub>2</sub>, to yield monosilane along with some yellow Polysilicon hydride (SiH)<sub>x</sub>.<ref>Mellor, J. W. "A Comprehensive Treatise on Inorganic and Theoretical Chemistry, Vol. VI" Longmans, Green and Co. (1947) pp. 970–971.</ref>
+==Properties==
+Silane is the silicon analogue of methane. Because of the greater electronegativity of hydrogen in comparison to silicon, this Si–H bond polarity is the opposite of that in the C–H bonds of methane. One consequence of this reversed polarity is the greater tendency of silane to form complexes with transition metals. A second consequence is that silane is pyrophoric&nbsp;— it undergoes spontaneous combustion in air, without the need for external ignition.<ref></ref> However, the difficulties in explaining the available (often contradictory) combustion data are ascribed to the fact that silane itself is stable and that the natural formation of larger silanes during production, as well as the sensitivity of combustion to impurities such as moisture and to the catalytic effects of container surfaces causes its pyrophoricity.<ref></ref><ref name=timms/> Above 420&nbsp;°C, silane decomposes into silicon and hydrogen; it can therefore be used in the chemical vapor deposition of silicon.
+The Si–H bond strength is around 384 kJ/mol, which is about 20% weaker than the H–H bond in H<sub>2</sub>. Consequently, compounds containing Si–H bonds are much more reactive than is H<sub>2</sub>. The strength of the Si–H bond is modestly affected by other substituents: the Si–H bond strengths are: SiHF<sub>3</sub> 419 kJ/mol, SiHCl<sub>3</sub> 382 kJ/mol, and SiHMe<sub>3</sub> 398 kJ/mol.<ref>M. A. Brook "Silicon in Organic, Organometallic, and Polymer Chemistry" 2000, J. Wiley, New York. .</ref><ref></ref>
+==Applications==
+While diverse applications exist for organosilanes, silane itself has one dominant application, as a precursor to elemental silicon, particularly in the semiconductor industry. The higher silanes, such as di- and trisilane, are only of academic interest. About 300 metric tons per year of silane were consumed in the late 1990s.<ref name=timms></ref> Low-cost solar photovoltaic module manufacturing has led to substantial consumption of silane for PECVD (PECVD) hydrogenated amorphous silicon (a-Si:H) on glass and other substrates like metal and plastic. The PECVD process is relatively inefficient at materials utilization with approximately 85% of the silane being wasted. To reduce that waste and the ecological footprint of a-Si:H-based solar cells further several recycling efforts have been developed.<ref>Briend P, Alban B, Chevrel H, Jahan D. American Air, Liquide Inc. (2009) "Method for Recycling Silane (SiH<sub>4</sub>)". urltoken US20110011129 , urltoken EP2252550A2 .</ref><ref></ref>
+==Safety and precautions==
+A number of fatal industrial accidents produced by combustion and detonation of leaked silane in air have been reported.<ref></ref><ref></ref><ref></ref>
+Silane is a pyrophoric gas (capable of autoignition at temperatures below 54&nbsp;°C /130&nbsp;°F).<ref> urltoken Silane MSDS </ref>
+:SiH<sub>4</sub> + 2 O<sub>2</sub> → SiO<sub>2</sub> + 2 H<sub>2</sub>O with ΔH = –1517 kJ/mol = –47.23 kJ/g
+:SiH<sub>4</sub> + O<sub>2</sub> → SiO<sub>2</sub> + 2 H<sub>2</sub>
+:SiH<sub>4</sub> + O<sub>2</sub> → SiH<sub>2</sub>O + H<sub>2</sub>O
+:2 SiH<sub>4</sub> + O<sub>2</sub> → 2 SiH<sub>2</sub>O + 2H<sub>2</sub>
+:SiH<sub>2</sub>O + O<sub>2</sub> → SiO<sub>2</sub> + H<sub>2</sub>O
+For lean mixtures a two-stage reaction process has been proposed, which consists of a silane consumption process and a hydrogen oxidation process. The heat of SiO<sub>2</sub> (s) condensation increases the burning velocity due to thermal feedback.<ref></ref>
+Diluted silane mixtures with inert gases such as nitrogen or argon are even more likely to ignite when leaked into open air, compared to pure silane: even a 1% mixture of silane in pure nitrogen easily ignites when exposed to air.<ref></ref>
+In Japan, in order to reduce the danger of silane for amorphous silicon solar cell manufacturing, several companies began to dilute silane with hydrogen gas. This resulted in a symbiotic benefit of making more stable solar photovoltaic cells as it reduced the Staebler–Wronski effect.
+Unlike methane, silane is fairly toxic: the lethal concentration in air for rats (LC<sub>50</sub>) is 0.96% (9,600 ppm) over a 4-hour exposure. In addition, contact with eyes may form silicic acid with resultant irritation.<ref> urltoken MSDS for silane . vngas.com</ref>
+In regards to occupational exposure of silane to workers, the US National Institute for Occupational Safety and Health has set a recommended exposure limit of 5 ppm (7&nbsp;mg/m<sup>3</sup>) over an eight-hour time-weighted average.<ref></ref>
+==See also==
+*Silanes
+*Silanization
+*Magnesium silicide
+==References==
+==Cited sources==
+*
+== External links ==
+* urltoken Patent US2474087A, Preparation of silicon halides
+
+Silane is an inorganic compound with chemical formula, SiH<sub>4</sub>, making it a group 14 hydride. It is a colourless, pyrophoric, toxic gas with a sharp, repulsive smell, somewhat similar to that of acetic acid.<ref> urltoken CFC Startec properties of Silane . C-f-c.com. Retrieved on 2013-03-06.</ref> Silane is of practical interest as a precursor to elemental silicon.
+"Silanes" refers to many compounds with four substituents on silicon, including an organosilicon compound. Examples include trichlorosilane (SiHCl<sub>3</sub>), tetramethylsilane (Si(CH<sub>3</sub>)<sub>4</sub>), and tetraethoxysilane (Si(OC<sub>2</sub>H<sub>5</sub>)<sub>4</sub>).

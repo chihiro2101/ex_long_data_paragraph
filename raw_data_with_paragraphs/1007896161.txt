@@ -1,0 +1,63 @@
+Multilayer switch
+
+==Multilayer switch==
+Multi-layer switching combines layer 2, 3 and 4 switching technologies and provides high-speed scalability with low latency. Multi-layer switching can move traffic at wire speed and also provide layer 3 routing. There is no performance difference between forwarding at different layers because the routing and switching is all hardware basedrouting decisions are made by specialized ASIC with the help of content-addressable memory.<ref name=switchoperation />
+Multi-layer switching can make routing and switching decisions based on the following
+* MAC address in a data link frame
+* Protocol field in the data link frame
+* IP address in the network layer header
+* Protocol field in the network layer header
+* Port numbers in the transport layer header
+MLSs implement QoS in hardware. A multilayer switch can prioritize packets by the 6 bit differentiated services code point (DSCP). These 6 bits were originally used for type of service. The following 4 mappings are normally available in an MLS:
+* From OSI layer 2, 3 or 4 to IP DSCP (for IP packets) or IEEE 802.1p
+* From IEEE 802.1p to IP DSCP
+* From IP DSCP to IEEE 802.1p
+* From VLAN IEEE 802.1p to port egress queue.
+MLSs are also able to route IP traffic between VLANs like a common router. The routing is normally as quick as switching (at wire speed).
+== Layer-2 switching ==
+Layer 2 switching uses the MAC address of the host's network interface cards (NICs) to decide where to forward frames. Layer 2 switching is hardware-based, which means switches use application-specific integrated circuit (ASICs) to build and maintain the Forwarding information base and to perform packet forwarding at wire speed. One way to think of a layer-2 switch is as multiport bridge.
+Layer-2 switching is highly efficient because there is no modification to the frame required. Encapsulation of the packet changes only when the data packet passes through dissimilar media (such as from Ethernet to FDDI). Layer-2 switching is used for workgroup connectivity and network segmentation (breaking up collision domains). This allows a flatter network design with more network segments than traditional networks joined by repeater hubs and routers.
+Layer-2 switches have the same limitations as bridges. Bridges break up collision domains, but the network remains one large broadcast domain which can cause performance issues and limits the size of a network. Broadcast and multicasts, along with the slow convergence of spanning tree, can cause major problems as the network grows. Because of these problems, layer-2 switches cannot completely replace routers. Bridges are good if a network is designed by the 80/20 rule: users spend 80 percent of their time on their local segment.
+== Layer-3 switching ==
+A layer-3 switch can perform some or all of the functions normally performed by a router. Most network switches, however, are limited to supporting a single type of physical network, typically Ethernet, whereas a router may support different kinds of physical networks on different ports.
+Layer-3 switching is solely based on (destination) IP address stored in the header of Datagram (layer-4 switching may use other information in the header). The difference between a layer-3 switch and a router is the way the device is making the routing decision. Traditionally, routers use microprocessors to make forwarding decisions in software, while the switch performs only hardware-based packet switching (by specialized ASIC with the help of content-addressable memory).<ref name=switchoperation></ref><ref></ref> However, many routers now also have advanced hardware functions to assist with forwarding.
+The main advantage of layer-3 switches is the potential for lower network latency as a packet can be routed without making extra network hops to a router. For example, connecting two distinct segments (e.g. VLANs) with a router to a standard layer-2 switch requires passing the frame to the switch (first L2 hop), then to the router (second L2 hop) where the packet inside the frame is routed (L3 hop) and then passed back to the switch (third L2 hop). A layer-3 switch accomplishes the same task without the need for a router (and therefore additional hops) by making the routing decision itself, i.e. the packet is routed to another subnet and switched to the destination network port simultaneously.
+Because many layer-3 switches offer the same functionality as traditional routers they can be used as cheaper, lower latency replacements in some networks. Layer 3 switches can perform the following actions that can also be performed by routers:
+* determine paths based on logical addressing
+* check and recompute layer-3 header checksums
+* examine and update time to live (TTL) field
+* process and respond to any option information
+* update Simple Network Management Protocol (SNMP) managers with Management Information Base (MIB) information
+The benefits of layer 3 switching include the following:
+* fast hardware-based packet forwarding with low latency
+* lower per-port cost compared to pure routers
+* flow accounting
+* Quality of service (QoS)
+IEEE has developed hierarchical terminology that is useful in describing forwarding and switching processes. Network devices without the capability to forward packets between subnetworks are called end systems (ESs, singular ES), whereas network devices with these capabilities are called intermediate systems (ISs). ISs are further divided into those that communicate only within their routing domain (intradomain IS) and those that communicate both within and between routing domains (interdomains IS). A routing domain is generally considered as portion of an internetwork under common administrative authority and is regulated by a particular set of administrative guidelines. Routing domains are also called autonomous systems.
+A common layer-3 capability is an awareness of IP multicast through IGMP snooping. With this awareness, a layer-3 switch can increase efficiency by delivering the traffic of a multicast group only to ports where the attached device has signaled that it wants to listen to that group.
+Layer-3 switches typically support IP routing between VLANs configured on the switch. Some layer-3 switches support the routing protocols that routers use to exchange information about routes between networks.
+== Layer 4 switching ==
+Layer 4 switching means hardware-based layer 3 switching technology that can also consider the type of network traffic (for example, distinguishing between UDP and TCP). Layer 4 switching provides additional datagram inspection by reading the port numbers found in the transport layer header to make routing decisions (i.e. ports used by HTTP, FTP and VoIP). These port numbers are found in RFC 1700 and reference the upper-layer protocol, program, or application.
+Using layer-4 switching, the network administrator can configure a layer-4 switch to prioritize data traffic by application. Layer-4 information can also be used to help make routing decisions. For example, extended access lists can filter packets based on layer-4 port numbers. Another example is accounting information gathered by open standards using sFlow.
+A layer-4 switch can use information in the transport-layer protocols to make forwarding decisions. Principally this refers to an ability to use source and destination port numbers in TCP and UDP communications to allow, block and prioritize communications.<ref></ref>
+===Layer 4–7 switch, web switch, or content switch===
+Some switches can use packet information up to OSI layer 7; these may be called layer 4–7 switches, , , web switches or application switches.
+Content switches are typically used for Load balancer among groups of servers. Load balancing can be performed on HTTP, HTTPS, VPN, or any TCP/IP traffic using a specific port. Load balancing often involves destination network address translation so that the client of the load-balanced service is not fully aware of which server is handling its requests. Some layer 4–7 switches can perform Network address translation (NAT) at wire speed. Content switches can often be used to perform standard operations such as SSL encryption and decryption to reduce the load on the servers receiving the traffic, or to centralize the management of digital certificates. Layer 7 switching is a technology used in a content delivery network.
+Some applications require that repeated requests from a client are directed at the same application server. Since the client isn't generally aware of which server it spoke to earlier, content switches define a notion of stickiness. For example, requests from the same source IP address are directed to the same application server each time. Stickiness can also be based on SSL IDs, and some content switches can use cookies to provide this functionality.
+===Layer 4 load balancer===
+The router operates on the transport layer and makes decisions on where to send the packets. Modern load balancing routers can use different rules to make decisions on where to route traffic. This can be based on least load, or fastest response times, or simply balancing requests out to multiple destinations providing the same services. This is also a redundancy method, so if one machine is not up, the router will not send traffic to it.
+The router may also have NAT capability with port and transaction awareness and performs a form of port translation for sending incoming packets to one or more machines that are hidden behind a single IP address.
+===Layer 7===
+Layer-7 switches may distribute the load based on uniform resource locators (URLs), or by using some installation-specific technique to recognize application-level transactions. A layer-7 switch may include a web cache and participate in a content delivery network (CDN).<ref></ref>
+==See also==
+* Application delivery controller
+* Bridge router
+* Multiprotocol Label Switching (MPLS)
+* Residential gateway
+==References==
+==External links==
+* urltoken What is the difference between a Layer-3 switch and a router?
+* urltoken Multilayer Switching
+
+A multilayer switch (MLS) is a computer networking device that switches on OSI layer 2 like an ordinary network switch and provides extra functions on higher OSI model.
+Switching technologies are crucial to network design, as they allow traffic to be sent only where it is needed in most cases, using fast, hardware-based methods. Switching uses different kinds of network switches. A standard switch is known as a layer 2 switch and is commonly found in nearly any LAN. Layer 3 or layer 4 switches require advanced technology (see managed switch) and are more expensive, and thus are usually only found in larger LANs or in special network environments.

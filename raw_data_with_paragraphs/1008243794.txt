@@ -1,0 +1,38 @@
+Thrust2
+
+==History==
+===Conception===
+The “Land Speed Record” (LSR), which was valid for 12 years, 11 months and 11 days at that time, was 622.407mph (1001.667kph) over one mile (with a flying start).<ref> urltoken The record was set on October 23, 1970 by the American Gary Gabelich with Blue Flame, a rocket car on the Bonneville Salt Flats. Richard Noble stepped up to "bring back this record for Britain".<ref> urltoken 
+The time it took Richard Noble from the idea to the first concept to the successful record attempt was nine years.<ref> urltoken In 1977 the Thrust2 project was officially presented at the Motorfair 1977 at London's Earls Court. In 1978, the design and construction of Thrust2 began. The hired designer John Ackroyd retired to an abandoned cottage on the Isle of Wight for the design studies.<ref> urltoken 
+===Early stages and Thrust1===
+Noble's plan was to build three vehicles: The first vehicle (Thrust1) was intended as a pure "test platform" for parts development and turbine tests, and was not intended for the record attempt.<ref> urltoken 
+Then a "demonstration car" should be built with the second vehicle (Thrust2), with which the interest of potential sponsors should be aroused. As a special highlight, this car was designed as a two-seater with an additional cabin on the left-hand side of the vehicle. Noble wanted to impress passengers / sponsors with runs up to 200 miles per hour (approx. 320 km / h) and win them over to his project.<ref> urltoken (around 7:06)</ref> The last thing that was planned was the actual record-breaking vehicle (Thrust3).<ref>Noble, Richard, Thrust through the sound barrier (1998) </ref>
+Thrust1 completed its first high-speed run on March 7, 1977. The first run was performed with a standing start at idle thrust and gradual acceleration and had an estimated top speed of about 180 mph (about 290 km / h). The second run was a so-called drag start, in which the thrust against the brakes is built up and then released. At approximately 140 mph, a rear wheel bearing stuck, the vehicle slewed sideways and overturned several times. Since this "triple roll" mostly took place in the air and the car landed on its side, the damage to the vehicle itself was relatively minor and Noble was also uninjured. The Rolls-Royce Derwent engine with its protruding combustion chambers had sustained the large portion of the damage. The jet pipe was torn off and at least one combustion chamber was destroyed.<ref>Noble, Richard, Thrust through the sound barrier (1998) </ref>
+Thrust1 was never used again and the wreck was sold to a scrap dealer for £175. Despite this setback, Noble was not discouraged and saw this as completing the first step in his original plan. After a new calculation of the financial situation, Noble came to the decision to streamline the project. The levels Thrust2 (as a marketing tool) and Thrust3 (as an emergency vehicle) were merged, and the further development work was placed in the hands of John Ackroyd. <ref></ref>
+==Overview of the results achieved with Thrust2==
+On 4 October 1983 the car reached a top speed of and broke the record at (average speed of two runs within one hour). 
+KTVN (Reno, Nevada) reporter/photographers Michael Hagerty and Gary Martin covered the record setting attempt in the days leading up to the record. The car was unceremoniously stored under a tarpaulin in the only automotive garage at Black Rock desert when it wasn't being worked on by the team. A propane torch was used to burn the line straight down the hard cracked dirt of the desert for the driver to follow. No other cars were allowed to approach the race track except on the perpendicular lest the driver accidentally follow those car tracks as a different path through the measured mile.
+In the record attempt on October 3, the following results were achieved in detail:<ref> urltoken 
+==Technical data and vehicle information==
+* Thrust2 is powered by a Rolls-Royce RB.146 (Avon302C) jet turbine that delivers 72 kN of thrust. At this corresponds to an output of .
+* Thrust2 is long and wide and high including the tail fins. The vehicle alone has a height of .
+* The wheelbase is , the front axle track is and that of the rear axle is . The turning circle of Thrust2 is .
+* The vehicle has a ground clearance of .
+* The car's two tanks can hold a maximum of of “Jet A 1” kerosene fuel.
+* The total weight is .
+* Thrust2 is designed as a two-seater with a second cabin on the left side of the vehicle in order to offer paying passengers or sponsors a "ride-along" opportunity up to 200 mph.<ref> urltoken (around 7:06)</ref>
+==Data and information on the record attempts==
+* It took Thrust2 about 59 seconds to accelerate from standstill to 650 mph (1046.07 km / h): in about 9 seconds, to 200 mph (321.8 km / h), after about 20 seconds 400 mph (643.7 km / h), and 40 seconds to reach 600 mph (965.606 km / h).<ref> urltoken 
+* The rubber tires visible in some pictures and film recordings were only put on to protect the highly sensitive aluminum disc wheels from damage during towing.
+* At around 300 mph (483 km / h) the tail fins began to stabilize the vehicle, which was previously difficult to control (“all over the place”), so that it could run smoothly in a straight line.
+* At a speed of about 600 miles per hour, a shock wave began to build up in front of the vehicle, which appeared as “fog” around the car and was later described by Noble as “something really worth seeing”.
+* The total fuel consumption for each record run was approximately 60 UK gallons per minute (272.7 liters).
+* After the overrun cut-off when crossing the finish line, Thrust2 still had to coast up to a speed of 375 mph (604 km / h) before the three braking parachutes (each 2.30 meters in diameter) could be used.
+* The screens decelerate the vehicle to about 130 mph (209 km / h) before deploying the 15-inch rotors at about 100 mph (161 km / h).
+==After breaking the record==
+When the car was offered for sale at £90,000 in 1991, an extensive fundraising campaign was organised without government assistance to keep the car in Britain. The bid was successful, and today Thrust2 and its successor, ThrustSSC, are displayed at the Coventry Transport Museum in Coventry, England.<ref> urltoken 
+In 1997 Thrust2's record was broken by Richard Noble's follow up car, ThrustSSC, with a top speed of .
+==Notes==
+
+Thrust2 is a British designed and built jet propelled car, which held the world land speed record from 4 October 1983 to 25 September 1997.
+The Thrust2 is powered by a single Rolls-Royce Avon jet engine sourced from an English Electric Lightning, and has a configuration somewhat resembling that of the mid-1960s-era J79 turbojet-powered land speed record cars of Art Arfons, collectively known as the "Green Monster" cars.

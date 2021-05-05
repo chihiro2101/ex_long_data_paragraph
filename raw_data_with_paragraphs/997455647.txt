@@ -1,0 +1,191 @@
+Ahnentafel
+
+==Inductive reckoning==
+To find out what someone's number would be without compiling a list, one must first trace how they relate back to the subject or person of interest, meaning one records that someone is the subject's father's mother's mother's father's father's&nbsp;. Once one has done that, one can use two methods.
+===First method===
+Use the definition that a father's number will be twice that individual's number, or a mother's will be twice plus one, and just multiply and add 1 accordingly. For instance, someone can find out what number Sophia of Hanover would be on an ahnentafel of Peter Phillips. She is Phillips's mother's mother's father's father's father's mother's father's father's father's father's father's mother. So, we multiply and add:
+:1&times;2&nbsp;+&nbsp;1&nbsp;=&nbsp;3
+::3&times;2&nbsp;+&nbsp;1&nbsp;=&nbsp;7
+:::7&times;2&nbsp;=&nbsp;14
+::::14&times;2&nbsp;=&nbsp;28
+:::::28&times;2&nbsp;=&nbsp;56
+::::::56&times;2&nbsp;+&nbsp;1&nbsp;=&nbsp;113
+:::::::113&times;2&nbsp;=&nbsp;226
+::::::::226&times;2&nbsp;=&nbsp;452
+:::::::::452&times;2&nbsp;=&nbsp;904
+::::::::::904&times;2&nbsp;=&nbsp;1808
+:::::::::::1808&times;2&nbsp;=&nbsp;3616
+::::::::::::3616&times;2&nbsp;+&nbsp;1&nbsp;=&nbsp;7233
+Thus, if we were to make an ahnentafel for Peter Phillips, Electress Sophia would be #7233.
+===Second method===
+Write down the digit "1", which represents the subject, then from left to right write "0" for each father and "1" for each mother in the relation, ending with the ancestor of interest. The result will be the binary representation of the ancestor's ahnentafel number. Then convert the binary number to decimal form. Using the Sophia example:
+:Sophia = Peter's mother's mother's father's father's father's mother's father's father's father's father's father's mother
+:Sophia = 1110001000001
+:1110001000001 = 1×4096 + 1×2048 + 1×1024 + 0×512 + 0×256 + 0×128 + 1×64 + 0×32 + 0×16 + 0×8 + 0×4 + 0×2 + 1×1
+:Sophia = 7233
+==Deductive reckoning==
+We can also work in reverse to find what the relation is from the number.
+===Reverse first method===
+#One starts out by seeing if the number is odd or even.
+#If it is odd, the last part of the relation is "mother," so subtract 1 and divide by 2.
+#If it is even, the last part is "father," and one divides by 2.
+#Repeat steps 2–3, and build back from the last word.
+#Once one gets to 1, one is done.
+On an ahnentafel of Prince William, John Wark is number 116. We follow the steps:
+== Calculation of the generation number ==
+The generation number can be calculated as the logarithm to base 2 of the ahnentafel number, and rounding down to a full integer by truncating decimal digits. 
+For example, the number 38 is between 2<sup>5</sup>=32 and 2<sup>6</sup>=64, so log<sub>2</sub>(38) is between 5 and 6. This means that ancestor no.38 belongs to generation five, and was a great-great-great-grandparent of the reference person who is no.1 (generation zero).
+==Example==
+The example, shown below, is an ahnentafel of Prince William, Duke of Cambridge, listing all of his ancestors up to his fourth great-grandparents.
+#Prince William, Duke of Cambridge (born 21 June 1982)
+#Charles, Prince of Wales (born 14 November 1948)
+#Diana, Princess of Wales (1 July 1961 – 31 August 1997)
+#Prince Philip, Duke of Edinburgh (born 10 June 1921)
+#Elizabeth II, Queen of the United Kingdom et al. (born 21 April 1926)
+#Edward Spencer, 8th Earl Spencer (24 January 1924 – 29 March 1992)
+#Frances Roche (20 January 1936 – 3 June 2004)
+#Prince Andrew of Greece and Denmark (20 January 1882 – 3 December 1944)
+#Princess Alice of Battenberg (25 February 1885 – 5 December 1969)
+#George VI of the United Kingdom (14 December 1895 – 6 February 1952)
+#Queen Elizabeth The Queen Mother (4 August 1900 – 30 March 2002)
+#Albert Spencer, 7th Earl Spencer (23 May 1892 – 9 June 1975)
+#Cynthia Hamilton (16 August 1897 – 4 December 1972)
+#Maurice Roche, 4th Baron Fermoy (15 May 1885 – 8 July 1955)
+#Ruth Gill (2 October 1908 – 6 July 1993)
+#George I of Greece (24 December 1845 – 18 March 1913)
+#Grand Duchess Olga Konstantinovna of Russia (3 September 1851 – 18 June 1926)
+#Prince Louis of Battenberg, later Prince Louis of Battenberg (24 May 1854 – 11 September 1921)
+#Princess Victoria of Hesse and by Rhine (5 April 1863 – 24 September 1950)
+#George V (3 June 1865 – 20 January 1936)
+#Mary of Teck (26 May 1867 – 24 March 1953)
+#Claude Bowes-Lyon, 14th Earl of Strathmore and Kinghorne (14 March 1855 – 7 November 1944)
+#Cecilia Cavendish-Bentinck (11 September 1862 – 23 June 1938)
+#Charles Robert Spencer, 6th Earl Spencer (30 October 1857 – 26 September 1922)
+#Margaret Baring (14 December 1868 – 4 July 1906)
+#James Hamilton, 3rd Duke of Abercorn (30 November 1869 – 12 September 1953)
+#Rosalind Bingham (26 February 1869 – 18 January 1958)
+#James Roche, 3rd Baron Fermoy (28 July 1852 – 30 October 1920)
+#Frances Work (27 October 1857 – 26 January 1947)
+#William Smith Gill (16 February 1865 – 25 December 1957)
+#Ruth Littlejohn (4 December 1879 – 24 August 1964)
+#Christian IX of Denmark (8 April 1818 – 29 January 1906)
+#Louise of Hesse-Kassel (7 September 1817 – 29 September 1898)
+#Grand Duke Konstantin Nikolayevich of Russia (9 September 1827 – 13 January 1892)
+#Alexandra Iosifovna (8 July 1830 – 23 June 1911)
+#Prince Alexander of Hesse and by Rhine (15 July 1823 – 15 December 1888)
+#Julia von Hauke (12 November 1825 – 19 September 1895)
+#Ludwig IV, Grand Duke of Hesse and by Rhine (12 September 1837 – 13 March 1892)
+#The Princess Alice (25 April 1843 – 14 December 1878)
+#Edward VII (9 November 1841 – 6 May 1910)
+#Alexandra of Denmark (1 December 1844 – 20 November 1925)
+#Prince Francis, Duke of Teck (27 August 1837 – 21 January 1900)
+#Princess Mary Adelaide of Cambridge (27 November 1833 – 27 October 1897)
+#Claude Bowes-Lyon, 13th Earl of Strathmore and Kinghorne (21 July 1824 – 16 February 1904)
+#Frances Bowes-Lyon, Countess of Strathmore and Kinghorne (1830 – 5 February 1922)
+#Revd Charles Cavendish-Bentinck (8 November 1817 – 17 August 1865)
+#Louisa Cavendish-Bentinck (23 Nov 1833 – 6 July 1918)
+#Frederick Spencer, 4th Earl Spencer (14 April 1798 – 27 December 1857)
+#Adelaide Spencer, Countess Spencer (27 January 1825 – 29 October 1877)
+#Edward Baring, 1st Baron Revelstoke (13 April 1828 – 17 July 1897)
+#Louisa Baring, Baroness Revelstoke (1839 – 16 October 1892)
+#James Hamilton, 2nd Duke of Abercorn (24 August 1838 – 3 January 1913)
+#Mary Curzon-Howe (23 July 1848 – 10 May 1929)
+#Charles Bingham, 4th Earl of Lucan (8 May 1830 – 5 June 1914)
+#Cecilia Bingham, Countess of Lucan (13 April 1835 – 5 October 1910)
+#Edmond Roche, 1st Baron Fermoy (August 1815 – 17 September 1874)
+#Elizabeth Roche, Baroness Fermoy (9 August 1821 – 26 April 1897)
+#Frank Work (10 February 1819 – 16 March 1911)
+#Ellen Wood (18 July 1831 – 22 February 1877)
+#Alexander Ogston Gill
+#Barbara Smith Marr (died ca. 30 June 1898)
+#David Littlejohn (3 April 1841 – 11 May 1924)
+#Jane Crombie (died 19 September 1917)
+#Friedrich Wilhelm, Duke of Schleswig-Holstein-Sonderburg-Glücksburg (4 January 1785 – 17 February 1831)
+#Princess Louise Caroline of Hesse-Kassel (28 September 1789 – 13 March 1867)
+#Landgrave Wilhelm of Hesse-Kassel (24 December 1787 – 5 September 1867)
+#Princess Louise Charlotte of Denmark (30 October 1789 – 28 March 1864)
+#Nicholas I of Russia (25 June 1796 – 18 February 1855)
+#Aleksandra Feodorovna, Empress of Russia (13 July 1798 – 20 October 1860)
+#Joseph, Duke of Saxe-Altenburg (27 August 1789 – 25 January 1868)
+#Duchess Amelia of Württemberg (28 June 1799 – 28 November 1848)
+#Ludwig II, Grand Duke of Hesse and by Rhine (26 December 1777 – 16 June 1848)
+#Princess Wilhelmine of Baden (10 September 1788 – 27 January 1836)
+#John Maurice von Hauke (26 October 1775 – 29 November 1830)
+#Countess Moritz von Hauke (1790 – 27 August 1831)
+#Prince Karl of Hesse and by Rhine (23 April 1809 – 20 March 1877)
+#Princess Elizabeth of Prussia (18 June 1815 – 21 March 1885)
+#Albert, Prince Consort (26 August 1819 – 14 December 1861)
+#Queen Victoria (24 May 1819 – 22 January 1901)
+#= 78
+#= 79
+#= 32
+#= 33
+#Duke Alexander of Württemberg (9 September 1804 – 4 July 1885)
+#Countess Claudine Rhédey von Kis-Rhéde (21 September 1812 – 1 October 1841)
+#Prince Adolphus, Duke of Cambridge (24 February 1774 – 8 July 1850)
+#Princess Augusta of Hesse-Kassel (25 July 1797 – 6 April 1889)
+#Thomas Lyon-Bowes, Lord Glamis (6 February 1801 – 27 January 1834)
+#Charlotte Grimstead (22 January 1797 – 19 January 1881)
+#Oswald Smith (7 July 1794 – 18 June 1863)
+#Henrietta Hodgson
+#Lord Charles Bentinck (3 October 1780 – 28 April 1826)
+#Anne Wellesley (1788 – 19 March 1875)
+#Edwyn Burnaby (29 September 1798 – 18 July 1867)
+#Anne Salisbury (1805 – 3 May 1881)
+#George Spencer, 2nd Earl Spencer (1 September 1758 – 10 November 1834)
+#Lavinia Bingham (27 July 1762 – 8 June 1831)
+#Horace Seymour (22 November 1791 – 23 November 1851)
+#Elizabeth Palk (died 18 January 1827)
+# Henry Baring (18 January 1776 – 13 April 1848)
+# Cecilia Windham (16 February 1803 – 2 September 1874)
+# John Crocker Bulteel (died 10 September 1843)
+# Elizabeth Grey (10 July 1798 – 8 November 1880)
+# James Hamilton, 1st Duke of Abercorn (21 January 1811 – 31 October 1885)
+# Louisa Russell (8 July 1812 – 31 March 1905)
+# Richard Curzon-Howe, 1st Earl Howe (11 December 1796 – 12 May 1870)
+# Anne Gore (8 March 1817 – 23 July 1877)
+# George Bingham, 3rd Earl of Lucan (16 April 1800 – 10 November 1888)
+# Anne Bingham, Countess of Lucan née Lady Anne Brudenell (29 June 1809 – 2 April 1877)
+# Charles Gordon-Lennox, 5th Duke of Richmond (3 August 1791 – 21 October 1860)
+# Caroline Paget (6 June 1796 – 12 March 1874)
+# Edward Roche (13 July 1771 – 21 March 1855)
+# Margaret Curtain (1786 – 21 January 1862)
+# James Boothby (10 February 1791 – 28 October 1850)
+# Charlotte Cunningham (1799 – 22 January 1893)
+# John Wark (1783 – 16 April 1823)
+# Sarah Duncan Boude (15 December 1790 – 17 December 1860)
+# John Wood (29 July 1785 – 29 January 1848)
+# Eleanor Strong (ca. 1803 – 9 July 1863)
+# David Gill
+# Sarah Ogston
+# William Smith Marr (27 November 1810 – 13 February 1898)
+# Helen Bean (1814/5 – 20 July 1852)
+# William Littlejohn (12 August 1803 – 8 July 1888)
+# Janet Bentley (26 January 1811 – 1 October 1848)
+# James Crombie (13 January 1810 – 31 January 1878)
+# Katharine Forbes (1 December 1812 – 10 April 1893)
+The same information in a tree:
+==Multiple numbers for the same person==
+An ancestor may have two or more numbers due to pedigree collapse. For example in the above Ahnentafel for Prince William, Queen Victoria is both no.79 and no.81. She is no.79 because she was the great-great-grandmother of William's grandfather Prince Philip, and she is also no.81 because she was the great-great-grandmother of William's grandmother Queen Elizabeth II. The relationships are easier to follow using the ancestry tree with ahnentafel numbering.
+== Other German definitions ==
+European nobility took pride in displaying their descent. In the German language, the term "Ahnentafel" may refer to a list of coats of arms and names of one's ancestors, even when it does not follow the numbered tabular representation given above. In this case the German "Tafel" is taken literally to be a physical "display board" instead of an abstract scheme.
+In Nazi Germany, the Law for the Restoration of the Professional Civil Service required a person to prove non-Jewish ancestry with an Ariernachweis (Aryan certificate). The certificate could take the form of entries in the permanent Ahnenpass (that was sorted according to the ahnentafel numbering system) or as entries in a singular Arierschein (Aryan attestation) that was titled "Ahnentafel".
+== Software ==
+==See also==
+*Binary heap: a computer data structure that uses the same formulas as an Ahnentafel to represent a binary tree in linear memory.<ref></ref>
+*Cousin chart (Table of consanguinity)
+*Family tree
+*Genealogical numbering systems
+*Genealogy software
+*Genogram
+*Pedigree chart
+*Pedigree collapse
+*Progenitor
+*Seize Quartiers
+*Wikipedia:Family trees
+==References==
+
+An ahnentafel (German for "ancestor table"; or ahnenreihe ("ancestor series"; is a genealogical numbering system for listing a person's direct ancestors in a fixed sequence of ascent. The subject (or proband) of the ahnentafel is listed as , the subject's father as and the mother as , the paternal grandparents as and and the maternal grandparents as and , and so on, back through the generations. Apart from , who can be male or female, all even-numbered persons are male, and all odd-numbered persons are female. In this schema, the number of any person's father is double the person's number, and a person's mother is double the person's number plus one. Using this definition of numeration, one can derive some basic information about individuals who are listed without additional research.
+This construct displays a person's genealogy compactly, without the need for a diagram such as a family tree. It is particularly useful in situations where one may be restricted to presenting a genealogy in plain text, for example, in e-mails or newsgroup articles. In effect, an ahnentafel is a Binary tree#Methods for storing binary trees by listing the nodes (individuals) in level-order (in generation order).
+The ahnentafel system of numeration is also known as: the Eytzinger Method, for Michaël Eytzinger, the Austrian-born historian who first published the principles of the system in 1590;<ref>Eytzinger, Michael, Thesaurus principum hac aetate in Europa viventium, quo progenitores eorum. simul ac fratres et sonores inde ab origine reconduntur. usque ad annum., Cologne: G. Kempensem, 1590 (1591). Note: In commentaries, his surname may appear in variant forms, including: Aitsingeri, Aitsingero, Aitsingerum, Eyzingern.</ref> the Sosa Method, named for Jeronimo de Sosa, the Spanish genealogist who popularized the numbering system in his work Noticia de la gran casa de los marqueses de Villafranca in 1676;<ref>Jouniaux, Léo, Généalogie : pratique, méthode, recherche, Quercy: Seuil, 2006, pp. 44–45.</ref> and the Sosa–Stradonitz Method, for Stephan Kekulé von Stradonitz, the genealogist and son of Friedrich August Kekulé, who published his interpretation of Sosa's method in his Ahnentafel-atlas in 1898.<ref>Kekulé von Stradonitz, Stephan, Ahnentafel-atlas. Ahnentafeln zu 32 Ahnen der Regenten Europas und ihrer Gemahlinnen, Berlin: J. A. Stargardt, 1898–1904. This volume contains 79 charts of the sovereigns of Europe and their wives.</ref>
+"Ahnentafel" is a loan word from the German language, and its German equivalents are Ahnenreihe and Ahnenliste. An ahnentafel list is sometimes called a "Kekulé" after Stephan Kekulé von Stradonitz. A variant of is known in French as Seize Quartiers.

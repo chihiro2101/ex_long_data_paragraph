@@ -1,0 +1,115 @@
+Military robot
+
+==History==
+Broadly defined, military robots date back to World War&nbsp;II and the Cold War in the form of the German Goliath tracked mines and the Soviet teletanks. The MQB-1 Predator drone was when "CIA officers began to see the first practical returns on their decade-old fantasy of using aerial robots to collect intelligence".<ref>Steve Coll, Ghost Wars (Penguin, 2005 edn), pp.529 and 658 note 6.</ref>
+The use of robots in warfare, although traditionally a topic for science fiction, is being researched as a possible future means of fighting wars. Already several military robots have been developed by various armies. Some believe the future of modern warfare will be fought by automated weapons systems.<ref> urltoken Robots and Robotics at the Space and Naval Warfare Systems Center Pacific </ref> The U.S. military is investing heavily in research and development towards testing and deploying increasingly automated systems. The most prominent system currently in use is the unmanned aerial vehicle (IAI Pioneer & RQ-1 Predator) which can be armed with air-to-ground missiles and remotely operated from a command center in reconnaissance roles. DARPA has hosted competitions in 2004 & 2005 to involve private companies and universities to develop unmanned ground vehicles to navigate through rough terrain in the Mojave Desert for a final prize of 2 million.<ref></ref>
+Artillery has seen promising research with an experimental weapons system named "Dragon Fire&nbsp;II" which automates loading and ballistics calculations required for accurate predicted fire, providing a 12-second response time to fire support requests. However, military weapons are prevented from being fully autonomous; they require human input at certain intervention points to ensure that targets are not within restricted fire areas as defined by Geneva Conventions for the laws of war.
+There have been some developments towards developing autonomous fighter jets and bombers.<ref></ref> The use of autonomous fighters and bombers to destroy enemy targets is especially promising because of the lack of training required for robotic pilots, autonomous planes are capable of performing maneuvers which could not otherwise be done with human pilots (due to high amount of G-force), plane designs do not require a life support system, and a loss of a plane does not mean a loss of a pilot. However, the largest drawback to robotics is their inability to accommodate for non-standard conditions. Advances in artificial intelligence in the near future may help to rectify this.
+==Examples==
+===In current use===
+<ref></ref>
+* D9T Panda, Israel
+* Elbit Hermes 450, Israel
+* Goalkeeper CIWS
+* Guardium<ref> urltoken Guardium Military robot </ref>
+* IAIO Fotros, Iran
+* PackBot
+* MQ-9 Reaper
+* MQ-1 Predator
+* TALON
+* Samsung SGR-A1<ref> urltoken Korean gun bots theregister.co.uk</ref>
+* Shahed 129, Iran
+* Shomer Gvouloth ("Border Keeper"), Israel
+* THeMIS, Estonia
+===In development===
+ 
+*US Mechatronics has produced a working automated sentry gun and is currently developing it further for commercial and military use.
+*, a four-wheeled robot outfitted with several cameras, radar, and possibly a firearm, that automatically performs random or preprogrammed patrols around a military base or other government installation. It alerts a human overseer when it detects movement in unauthorized areas, or other programmed conditions. The operator can then instruct the robot to ignore the event, or take over remote control to deal with an intruder, or to get better camera views of an emergency. The robot would also regularly scan radio frequency identification tags (RFID) placed on stored inventory as it passed and report any missing items.
+*Tactical Autonomous Combatant (TAC) units, described in Project Alpha study Unmanned Effects: Taking the Human out of the Loop.<ref></ref>
+*Autonomous Rotorcraft Sniper System is an experimental robotic weapons system being developed by the U.S. Army since 2005.<ref name="Register"></ref><ref></ref> It consists of a remotely operated sniper rifle attached to an unmanned autonomous helicopter.<ref name="PM"></ref> It is intended for use in urban combat or for several other missions requiring snipers.<ref name="DR"></ref> Flight tests are scheduled to begin in summer 2009.<ref name="Register" />
+* The "Mobile Autonomous Robot Software" research program was started in December 2003 by the Pentagon who purchased 15 Segways in an attempt to develop more advanced military robots.<ref name="2003Segway"></ref> The program was part of a $26 million Pentagon program to develop software for autonomous systems.<ref name="2003Segway"/>
+* ACER
+* Atlas (robot)
+* Battlefield Extraction-Assist Robot
+* Dassault nEUROn (French UCAV)
+* Dragon Runner
+* MATILDA
+* MULE (US UGV)
+* R-Gator
+* Ripsaw MS1 urltoken 
+* SUGV
+* Syrano
+* iRobot Warrior
+* PETMAN
+* Excalibur unmanned aerial vehicle
+==Effects and impact==
+===Advantages===
+Autonomous robotics would save and preserve soldiers' lives by removing serving soldiers, who might otherwise be killed, from the battlefield. Lt. Gen. Richard Lynch of the United States Army Installation Management Command and assistant Army chief of staff for installation stated at a 2011 conference:
+Major Kenneth Rose of the US Army's Training and Doctrine Command outlined some of the advantages of robotic technology in warfare:<ref></ref>
+Increasing attention is also paid to how to make the robots more autonomous, with a view of eventually allowing them to operate on their own for extended periods of time, possibly behind enemy lines. For such functions, systems like the Energetically Autonomous Tactical Robot are being tried, which is intended to gain its own energy by foraging for plant matter. The majority of military robots are tele-operated and not equipped with weapons; they are used for reconnaissance, surveillance, sniper detection, neutralizing explosive devices, etc. Current robots that are equipped with weapons are tele-operated so they are not capable of taking lives autonomously.<ref></ref> Advantages regarding the lack of emotion and passion in robotic combat is also taken into consideration as a beneficial factor in significantly reducing instances of unethical behavior in wartime. Autonomous machines are created not to be "truly 'ethical' robots", yet ones that comply with the laws of war (LOW) and rules of engagement (ROE).<ref></ref> Hence the fatigue, stress, emotion, adrenaline, etc. that affect a human soldier's rash decisions are removed; there will be no effect on the battlefield caused by the decisions made by the individual.
+===Risks===
+Human rights groups and NGOs such as Human Rights Watch and the Campaign to Stop Killer Robots have started urging governments and the United Nations to issue policy to outlaw the development of so-called "lethal autonomous weapons systems" (LAWS).<ref></ref> The United Kingdom opposed such campaigns, with the Foreign Office declaring that "international humanitarian law already provides sufficient regulation for this area".<ref></ref>
+In July 2015, over 1,000 experts in artificial intelligence signed a letter calling for a ban on autonomous weapons. The letter was presented in Buenos Aires at the 24th International Joint Conference on Artificial Intelligence (IJCAI-15) and was co-signed by Stephen Hawking, Elon Musk, Steve Wozniak, Noam Chomsky, Skype co-founder Jaan Tallinn and Google DeepMind co-founder Demis Hassabis, among others.<ref></ref><ref></ref>
+===Psychology===
+American soldiers have been known to name the robots that serve alongside them. These names are often in honor of human friends, family, celebrities, pets, or are eponymic.<ref name=n28s></ref> The 'gender' assigned to the robot may be related to the marital status of its operator.<ref name=n28s/>
+Some affixed fictitious medals to battle-hardened robots, and even held funerals for destroyed robots.<ref name=n28s/> An interview of 23 explosive ordnance detection members shows that while they feel it is better to lose a robot than a human, they also felt anger and a sense of loss if they were destroyed.<ref name=n28s/> A survey of 746 people in the military showed that 80% either 'liked' or 'loved' their military robots, with more affection being shown towards ground rather than aerial robots.<ref name=n28s/> Surviving dangerous combat situations together increased the level of bonding between soldier and robot, and current and future advances in artificial intelligence may further intensify the bond with the military robots.<ref name=n28s/>
+==In fictional media==
+== Pictures ==
+<gallery>
+File:UGV TALON.jpg|UGV TALON Gen. IV (USA)
+File:PIRANYA_UGV.jpg|UGV "PIRANYA" (Ukraine)
+File:TypeX_RCV.jpg|Type-X (Estonia)
+File:THeMIS 5th generation UGV.jpg|THeMIS (Estonia)
+File:Army2016-201.jpg|Russian
+File:%D0%A0%D0%9E%D0%9A_%D0%91%D0%B5%D1%80%D1%81%D0%B5%D1%80%D0%BA_%D1%80%D0%BE%D0%B1%D0%BE%D1%82_%D0%9F%D0%92%D0%9E.jpg|Russian
+File:Sea Hunter gets underway on the Willamette River following a christening ceremony in Portland, Ore. (25702146834).jpg|Sea Hunter (USA)
+</gallery>
+==See also==
+*Lethal autonomous weapon
+*Robot combat
+*Unmanned combat air vehicle
+**US battlefield UAVs
+*Powered exoskeleton
+*Network-centric warfare
+*Missile guidance
+*DARPA Grand Challenge
+*Multi Autonomous Ground-robotic International Challenge
+*Roboethics
+*Telerobotics
+*Three Laws of Robotics
+*Supersoldier
+*Robot Wars (disambiguation)
+==References==
+==External links==
+* urltoken "Biomass military robot in development"
+* urltoken EATR: Energetically Autonomous Tactical Robot - Phase&nbsp;II Project
+=== Ethical and legal concerns ===
+* urltoken Gerhard Dabringer (Hg.), Ethica Themen: Ethical and Legal Aspects of Unmanned Systems. Interviews, Wien 2010
+* urltoken Public Say It's Illegal to Target Americans Abroad as Some Question CIA Drone Attacks, according to Fairleigh Dickinson University PublicMind poll - February 7, 2013
+* urltoken The future of warfare: Why we should all be very afraid (2014-07-21), Rory Tolan, Salon
+* urltoken Archive on air wars, Geographical Imaginations
+* urltoken Logical Limitations to Machine Ethics, with Consequences to Lethal Autonomous Weapons. <small>Also discussed in: urltoken Does the Halting Problem Mean No Moral Robots? </small>
+* urltoken Robots in War: Issues of Risk and Ethics - 2009
+===Organizations===
+* urltoken United States Joint Forces Command website: "Leading the transformation of the U.S. military"
+* urltoken irobot.com, builder of the PackBot and the R-Gator systems
+* urltoken Boston Dynamics, builder of BigDog
+===News articles/press releases===
+* urltoken USJFC: 'Robotics to play major role in future warfighting'
+* urltoken "From bomb disposal to waste disposal" Robots help deal with hazards, emergencies and disasters (International Electrotechnical Commission, July 2011)
+* urltoken "War robots still in Iraq", DailyTech, April 17, 2008
+* urltoken New Model Army Soldier Rolls Closer to Battle (SWORDS)
+* urltoken TALON Small Mobile Robot
+* urltoken TWG Military Robots
+* Carnegie Mellon University's urltoken snooping robot going to Iraq
+* urltoken PackBot Battlefield robotic Platform
+* urltoken Miniature Unmanned Aerial Systems - UAV
+* urltoken Guardium Autonomous Security Vehicle
+* urltoken Unmanned Ground Systems from Israel
+* urltoken High-Tech Military in Due Course
+* urltoken Launching a new kind of warfare
+* 
+* urltoken As Wars End, Robot Field Faces Reboot April 11, 2012
+
+Military robots are autonomous robots or remote-controlled mobile robots designed for military applications, from transport to search & rescue and attack.
+Some such systems are currently in use, and many are under development.

@@ -1,0 +1,139 @@
+Mobile payment
+
+==Models==
+There are five primary models for mobile payments:<ref>The Mobile Money Revolution Part 1: NFC Mobile Payments. ITU-T Technology Watch Report May 2013. International Telecommunications Union. Retrieved from: urltoken on 3/21/2017</ref>
+* Mobile wallets
+* Card-based payments
+* Carrier billing (Premium SMS or direct carrier billing)
+* Contactless payments Near Field Communication
+* Direct transfers between payer and payee bank accounts in near real-time (bank-led model, intra/inter-bank transfers/payments that are both bank and mobile operator agnostic)
+There can be combinations: 
+*Direct carrier/bank co-operation, emerging in Haiti. <ref></ref>
+*Both bank account and card, like Vipps and MobilePay (users with an account at the right bank can debit their account, while other users can debit their card)
+Financial institutions and credit card companies<ref></ref> as well as Internet companies such as Google<ref></ref> and a number of mobile communication companies, such as mobile network operators and major Telecommunications network such as w-HA from Orange and smartphone multinationals such as Ericsson<ref></ref><ref></ref> and BlackBerry have implemented mobile payment solutions.
+==Mobile wallets==
+A mobile wallet is an app that contain your debit and credit card information so that users can pay for goods and services digitally by using their mobile devices.<ref></ref> Notable mobile wallets include:
+*Alipay
+*Apple Pay
+*Google Pay
+*Gyft
+*LG Pay
+*Line Pay
+*Samsung Pay
+*Venmo
+*WeChat Pay
+*Touch 'n Go eWallet
+Generally, this is the process:
+First payment:
+* User registers, inputs their phone number, and the provider sends them an SMS with a PIN
+* User enters the received PIN, authenticating the number
+* User inputs their credit card info or another payment method if necessary (not necessary if the account has already been added) and validates payment
+Subsequent payments:
+* The user re enters their PIN to authenticate and validates payment
+Requesting a PIN is known to lower the success rate (conversion) for payments. 
+These systems can be integrated with directly or can be combined with operator and credit card payments through a unified mobile web payment platform.
+==Credit card==
+A simple mobile web payment system can also include a credit card payment flow allowing a consumer to enter their card details to make purchases. This process is familiar but any entry of details on a mobile phone is known to reduce the success rate (conversion) of payments.
+In addition, if the payment vendor can automatically and securely identify customers then card details can be recalled for future purchases turning credit card payments into simple single click-to-buy giving higher conversion rates for additional purchases.
+However, there are concerns regarding information and payment privacy when cards are used during online transactions. If a website is not secure, for example, then personal credit card info can leaked online.
+==Carrier billing ==
+The consumer uses the mobile billing option during checkout at an e-commerce site—such as an online gaming site—to make a payment. After two-factor authentication involving the consumer's mobile number and a PIN or One-Time-Password (often abbreviated as OTP), the consumer's mobile account is charged for the purchase. It is a true alternative payment method that does not require the use of credit/debit cards or pre-registration at an online payment solution such as PayPal, thus bypassing banks and credit card companies altogether. This type of mobile payment method, which is prevalent in Asia, provides the following benefits: 
+# Security – Two-factor authentication and a risk management engine prevents fraud.
+# Convenience – No pre-registration and no new mobile software is required.
+# Easy – It's just another option during the checkout process.
+# Fast – Most transactions are completed in less than 10 seconds.
+# Proven – 70% of all digital content purchased online in some parts of Asia uses the Direct Mobile Billing method<ref></ref>
+===SMS/USSD-based transactional payments===
+====Premium SMS and premium MMS====
+In the predominant model for SMS payments, the consumer sends a payment request via an SMS text message or an USSD to a short code and a premium charge is applied to their phone bill or their online wallet. The merchant involved is informed of the payment success and can then release the paid for goods.<ref></ref>
+Since a trusted physical delivery address has typically not been given, these goods are most frequently digital with the merchant replying using a Multimedia Messaging Service to deliver the purchased music, ringtones, wallpapers etc.
+A Multimedia Messaging Service (MMS) can also deliver barcodes which can then be scanned for confirmation of payment by a merchant. This is used as an electronic ticket for access to cinemas and events or to collect hard goods.
+Transactional payments by SMS have been popular in Asia and Europe and are now accompanied by other mobile payment methods, such as mobile web payments (WAP), mobile payment client (Java ME, Android.) and Direct Mobile Billing.
+Inhibiting factors of Premium SMS include:
+#Poor reliability – transactional premium SMS payments can easily fail as messages get lost.
+#Slow speed – sending messages can be slow and it can take hours for a merchant to get receipt of payment. Consumers do not want to be kept waiting more than a few seconds.
+#Security – The SMS/USSD encryption ends in the radio interface, then the message is a plaintext.
+#High cost – There are many high costs associated with this method of payment. The cost of setting up short codes and paying for the delivery of media via a Multimedia Messaging Service and the resulting customer support costs to account for the number of messages that get lost or are delayed.
+#Low payout rates – operators also see high costs in running and supporting transactional payments which results in payout rates to the merchant being as low as 30%. Usually around 50%
+#Low follow-on sales – once the payment message has been sent and the goods received there is little else the consumer can do. It is difficult for them to remember where something was purchased or how to buy it again. This also makes it difficult to tell a friend.
+===Remote payment by SMS and credit card tokenization===
+Even as the volume of Premium SMS transactions have flattened, many cloud-based payment systems continue to use SMS for presentment, authorization, and authentication,<ref></ref> while the payment itself is processed through existing payment networks such as credit and debit card networks. These solutions combine the ubiquity of the SMS channel,<ref></ref> with the security and reliability of existing payment infrastructure. Since SMS lacks end-to-end encryption, such solutions employ a higher-level security strategies known as 'tokenization' and 'target removal' <ref></ref> whereby payment occurs without transmitting any sensitive account details, username, password, or PIN.
+To date, point-of-sales mobile payment solutions have not relied on SMS-based authentication as a payment mechanism, but remote payments such as bill payments,<ref></ref> seat upgrades on flights,<ref></ref> and membership or subscription renewals are commonplace.
+In comparison to premium short code programs which often exist in isolation, relationship marketing and payment systems are often integrated with CRM, ERP, marketing automation, and reservation systems. Many of the problems inherent with premium SMS have been addressed by solution providers. Remembering keywords is not required since sessions are initiated by the enterprise to establish a transaction specific context. Reply messages are linked to the proper session and authenticated either synchronously through a very short expiry period (every reply is assumed to be to the last message sent) or by tracking session according to varying reply addresses and/or reply options.<ref></ref>
+===Mobile web payments (WAP)===
+The consumer uses web pages displayed or additional applications downloaded and installed on the mobile phone to make a payment. It uses WAP (Wireless Application Protocol) as underlying technology and thus inherits all the advantages and disadvantages of WAP. Benefits include:<ref>"Web Proforum Tutorials." International Engineering Consortium. Retrieved from urltoken on 3/21/2017.</ref>
+#Follow-on sales where the mobile web payment can lead back to a store or to other goods the consumer may like. These pages have a URL and can be bookmarked making it easy to re-visit or share.
+#High customer satisfaction from quick and predictable payments
+#Ease of use from a familiar set of online payment pages
+However, unless the mobile account is directly charged through a mobile network operator, the use of a credit/debit card or pre-registration at online payment solution such as PayPal is still required just as in a desktop environment.
+Mobile web payment methods are now being mandated by a number of mobile network operators.
+===Direct operator billing===
+Direct operator billing, also known as mobile content billing, WAP billing, and carrier billing, 
+requires integration with the mobile network operator. It provides certain benefits:
+#Mobile network operators already have a billing relationship with consumers, the payment will be added to their bill.
+#Provides instantaneous payment
+#Protects payment details and consumer identity
+#Better conversion rates
+#Reduced customer support costs for merchants
+#Alternative monetization option in countries where credit card usage is low
+One of the drawbacks is that the payout rate will often be much lower than with other mobile payments options. Examples from a popular provider:
+* 92% with PayPal
+* 85 to 86% with credit card
+* 45 to 91.7% with operator billing in the US, UK and some smaller European countries, but usually around 60%<ref></ref>
+More recently, Direct operator billing is being deployed in an in-app environment, where mobile application developers are taking advantage of the one-click payment option that Direct operator billing provides for monetising mobile applications. This is a logical alternative to credit card and Premium SMS billing.
+In 2012, Ericsson and Western Union partnered to expand the direct operator billing market, making it possible for mobile operators to include Western Union Mobile Money Transfers as part of their mobile financial service offerings.<ref></ref> Given the international reach of both companies, the partnership is meant to accelerate the interconnection between the m-commerce market and the existing financial world.<ref></ref>
+==Contactless near-field communication==
+Near-field communication (NFC) is used mostly in paying for purchases made in physical stores or transportation services. A consumer using a special mobile phone equipped with a smartcard waves his/her phone near a reader module. Most transactions do not require authentication, but some require authentication using PIN, before transaction is completed. The payment could be deducted from a pre-paid account or charged to a mobile or bank account directly.
+Mobile payment method via NFC faces significant challenges for wide and fast adoption, due to lack of supporting infrastructure, complex ecosystem of stakeholders, and standards.<ref></ref> Some phone manufacturers and banks, however, are enthusiastic. Ericsson and Aconite are examples of businesses that make it possible for banks to create consumer mobile payment applications that take advantage of NFC technology.<ref></ref>
+NFC vendors in Japan are closely related to mass-transit networks, like the Mobile Suica used since 28 January 2006 on the JR East rail network. The mobile wallet Osaifu-Keitai system, used since 2004 for Mobile Suica and many others including Edy and nanaco, has become the de facto standard method for mobile payments in Japan. Its core technology, Mobile FeliCa IC, is partially owned by Sony, NTT DoCoMo and JR East. Mobile FeliCa utilize Sony's FeliCa technology, which itself is the de facto standard for contactless smart cards in the country. NFC was used in transports for the first time in the world by China Unicom and Yucheng Transportation Card in the tramways and bus of Chongqing on 19 January 2009,<ref></ref> in those of Nice on 21 May 2010,<ref name="Nice2010"></ref> then in Seoul<ref></ref> after its introduction in Korea by the discount retailer Homeplus in March 2010<ref></ref> and it was tested then adopted or added to the existing systems in Tokyo from May 2010 to end of 2012.<ref></ref><ref></ref> After an experimentation in the metro of Rennes in 2007, the NFC standard was implemented for the first time in a metro network, by China Unicom in Beijing on 31 December 2010.<ref></ref>
+Other NFC vendors mostly in Europe use contactless payment over mobile phones to pay for on- and off-street parking in specially demarcated areas. Parking wardens may enforce the parking by license plate, transponder tags, or barcode stickers. 
+In Europe, the first experimentations of mobile payment took place in Germany during 6 months, from May 2005, with a deferred payment at the end of each month on the tramways and bus of Hanau with the Nokia 3220 using the NFC standard of Philips and Sony.<ref></ref>
+In France, the immediate contactless payment was experimented during 6 months, from October 2005, in some Cofinoga shops (Galeries Lafayette, Monoprix) and Vinci parkings of Caen with a Samsung NFC smartphone provided by Orange in collaboration with Philips Semiconductors (for the first time, thanks to "Fly Tag", the system allowed to receive as well audiovisual informations, like bus timetables or cinema trailers from the concerned services).<ref name="Caen"></ref><ref name="Nice"/> From 19 November 2007 to 2009, this experimentation was extended in Caen to more services and three additional mobile phone operators (Bouygues Telecom, SFR and NRJ Mobile) and in Strasbourg<ref name="Nice"></ref> and on 5 November 2007, Orange and the transport societies SNCF and Keolis associated themselves for a 2 months experimentation on smartphones in the metro, bus and TER trains in Rennes.<ref></ref><ref name="Nice"/> After a test conducted from October 2005 to November 2006 with 27 users,<ref name="tests"></ref> on 21 May 2010, the transport authority of Nice Régie Lignes d'Azur was the first public transport provider in Europe to add definitely to its own offer a contactless payment on its tramways and bus network either with a NFC bank card or smartphone application notably on Samsung Player One (with the same mobile phone operators than in Caen and Strasbourg), as well as the validation aboard with them of the transport titles and the loading of these titles onto the smartphone, in addition to the season tickets contactless card.<ref></ref><ref name="Nice2010"/> This service was as well experimented then respectively implemented for NFC smartphones on 18 and 25 June 2013 in the tramways and bus of Caen<ref></ref><ref></ref> and Strasbourg.<ref></ref><ref></ref> In Paris transport network, after a 4 months testing from November 2006 with Bouygues Telecom and 43 persons<ref name="tests"/> and finally with users from July 2018, the contactless mobile payment and direct validation on the turnstile readers with a smartphone was adopted on 25 September 2019<ref></ref><ref></ref><ref></ref> in collaboration with the societies Orange, Samsung, Wizway Solutions, Worldline and Conduent.
+First conceptualized in the early 2010s, the technology has seen as well commercial use in this century in Scandinavia and Estonia. End users benefit from the convenience of being able to pay for parking from the comfort of their car with their mobile phone, and parking operators are not obliged to invest in either existing or new street-based parking infrastructures. Parking wardens maintain order in these systems by license plate, transponder tags or barcode stickers or they read a digital display in the same way as they read a pay and display receipt.
+Other vendors use a combination of both NFC and a barcode on the mobile device for mobile payment, because many mobile devices in the market do not yet support NFC.<ref></ref>
+==Others==
+=== QR code payments===
+QR code 2D barcode are square bar codes. QR codes have been in use since 1994.<ref></ref> Originally used to track products in warehouses, QR codes were designed to replace traditional (1D bar codes). Traditional bar codes just represent numbers, which can be looked up in a database and translated into something meaningful. QR, or “Quick Response” bar codes were designed to contain the meaningful info right in the bar code.
+QR code can be of two main categories:<ref></ref>
+* The QR Code is presented on the mobile device of the person paying and scanned by a POS or another mobile device of the payee
+* The QR Code is presented by the payee, in a static or one time generated fashion and it is scanned by the person executing the payment
+Mobile self-checkout allows for one to scan a QR code or barcode of a product inside a brick-and-mortar establishment in order to purchase the product on the spot. This theoretically eliminates or reduces the incidence of long checkout lines, even at self-checkout kiosks.
+===Cloud-based mobile payments===
+Google, PayPal, GlobalPay and GoPago use a cloud-based approach to in-store mobile payment. The cloud based approach places the mobile payment provider in the middle of the transaction, which involves two separate steps. First, a cloud-linked payment method is selected and payment is authorized via NFC or an alternative method. During this step, the payment provider automatically covers the cost of the purchase with issuer linked funds. Second, in a separate transaction, the payment provider charges the purchaser's selected, cloud-linked account in a card-not-present environment to recoup its losses on the first transaction.<ref></ref><ref></ref><ref></ref>
+===Audio signal-based payments===
+The audio channel of the mobile phone is another wireless interface that is used to make payments. Several companies have created technology to use the acoustic features of cell phones to support mobile payments and other applications that are not chip-based. The technologies Near sound data transfer (NSDT), Data Over Voice and NFC 2.0 produce audio signatures that the microphone of the cell phone can pick up to enable electronic transactions.<ref></ref>
+===Direct carrier/bank co-operation===
+In the T-Cash<ref> urltoken T-Cash from VoilàFoundation.com </ref> model, the mobile phone and the phone carrier is the front-end interface to the consumers. The consumer can purchase goods, transfer money to a peer, cash out, and cash in.<ref></ref> A 'mini wallet' account can be opened as simply as entering *700# on the mobile phone,<ref></ref> presumably by depositing money at a participating local merchant and the mobile phone number. Presumably, other transactions are similarly accomplished by entering special codes and the phone number of the other party on the consumer's mobile phone.
+===Bank transfer systems===
+Swish is the name of a system established in Sweden.<ref></ref> It was established through a collaboration from major banks in 2012 and has been very successful, with 66 percent of the population as users in 2017.<ref name=Sweden2017>[ urltoken The Swedes and the Internet 2017 summary (See the Swedish version for correct statistics)</ref> It is mainly used for peer-to-peer payments between private people, but is also used by church collect, street vendors and small businesses. A person's account is tied to his or her phone number and the connection between the phone number and the actual bank account number is registered in the internet bank. The electronic identification system mobile BankID, issued by several Swedish banks, is used to verify the payment. Users with a simple phone or without the app can still receive money if the phone number is registered in the internet bank. Like many other mobile payment system, its main obstacle is getting people to register and download the app, but it has managed to reach a critical mass and it has become part of everyday life for many Swedes.
+Swedish payments company Trustly also enables mobile bank transfers, but is used mainly for business-to-consumer transactions that occur solely online. If an e-tailer integrates with Trustly, its customers can pay directly from their bank account. As opposed to Swish, users don't need to register a Trustly account or download software to pay with it.
+The Danish MobilePay and Norwegian Vipps are also popular in their countries. They use direct and instant bank transfers, but also for users not connected to a participating bank, credit card billing.
+In India, a new direct bank transfer system has emerged called as Unified Payments Interface. This system enables users to transfer money to other users and businesses in real-time directly from their bank accounts. Users download UPI supporting app from app stores on their Android or iOS device, link and verify their mobile number with the bank account by sending one outgoing SMS to app provider, create a virtual payment address (VPA) which auto generates a QR code and then set a banking PIN by generating OTP for secure transactions. VPA and QR codes are to ensure easy to use & privacy which can help in peer-to-peer (P2P) transactions without giving any user details. Fund transfer can then be initiated to other users or businesses. Settlement of funds happen in real-time, i.e. money is debited from payer's bank account and credited in recipient's bank account in real-time. UPI service works 24x7, including weekends and holidays. This is slowly becoming a very popular service in India and is processing monthly payments worth approximately $10 billion as in October 2018.<ref></ref>
+==Mobile payment service provider model==
+There are four potential mobile payment models:<ref></ref>
+#Operator-Centric Model: The mobile operator acts independently to deploy mobile payment service. The operator could provide an independent mobile wallet from the user mobile account(airtime). A large deployment of the Operator-Centric Model is severely challenged by the lack of connection to existing payment networks. Mobile network operator should handle the interfacing with the banking network to provide advanced mobile payment service in banked and under banked environment. Pilots using this model have been launched in emerging countries but they did not cover most of the mobile payment service use cases. Payments were limited to remittance and airtime top up.
+#Bank-Centric Model: A bank deploys mobile payment applications or devices to customers and ensures merchants have the required point-of-sale (POS) acceptance capability. Mobile network operator are used as a simple carrier, they bring their experience to provide Quality of service (QOS) assurance.
+#Collaboration Model: This model involves collaboration among banks, mobile operators and a trusted third party.
+#Peer-to-Peer Model: The mobile payment service provider acts independently from financial institutions and mobile network operators to provide mobile payment.
+==See also==
+* Contactless payment
+* Comparison of payment systems
+* Cryptocurrency wallet
+* Diem (digital currency)
+* Digital wallets
+* Electronic money
+* Financial cryptography
+* Mobile Payment Using USSD
+* Mobile ticketing
+* Point of sale
+* Point-of-sale malware
+* Secure Mobile Payment Service
+* SMS banking
+* Universal card
+==References==
+ja:非接触型決済
+
+Mobile payment (also referred to as mobile money, mobile money transfer, and mobile wallet) generally refer to payment services operated under financial regulation and performed from or via a mobile device. Instead of paying with cash, cheque, or credit cards, a consumer can use a mobile to pay for a wide range of services and digital or hard goods. Although the concept of using non-coin-based currency systems has a long history,<ref></ref> it is only in the 21st century that the technology to support such systems has become widely available.
+Mobile payment is being adopted all over the world in different ways.<ref> urltoken GSMA Mobile Money Deployment Tracker from wirelessintelligence.com </ref><ref></ref> The first patent exclusively defined "Mobile Payment System" was filed in 2000.<ref></ref> 
+In developing country mobile payment solutions have been deployed as a means of extending financial services to the community known as the "unbanked" or "underbanked", which is estimated to be as much as 50% of the world's adult population, according to Financial Access' 2009 Report "Half the World is Unbanked".<ref></ref> These payment networks are often used for micropayments.<ref>Micro-payment systems and their application to mobile networks, InfoDev report, Jan 2006 accessed at urltoken </ref> The use of mobile payments in developing countries has attracted public and private funding by organizations such as the Bill & Melinda Gates Foundation, United States Agency for International Development and Mercy Corps.
+Mobile payments are becoming a key instrument for Payment Service Providers (PSPs) and other market participants, in order to achieve new growth opportunities, according to the European Payments Council (EPC).<ref></ref> The EPC states that "new technology solutions provide a direct improvement to the operations efficiency, ultimately resulting in cost savings and in an increase in business volume".

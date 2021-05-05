@@ -1,0 +1,48 @@
+Pudendal nerve
+
+==Structure==
+The pudendal nerve is paired, meaning there are two nerves, one on the left and one on the right side of the body. Each is formed as three roots immediately converge above the upper border of the sacrotuberous ligament and the coccygeus muscle.<ref name=Grays /> The three roots become two cords when the middle and lower root join to form the lower cord, and these in turn unite to form the pudendal nerve proper just proximal to the sacrospinous ligament.<ref name=Shafik1995 /> The three roots are derived from the ventral rami of the second, third, and fourth sacral spinal nerves, with the primary contribution coming from the fourth.<ref name=Grays></ref><ref name=Moore215></ref><ref name=Russell2006></ref>
+The pudendal nerve passes between the piriformis muscle and coccygeus (ischiococcygeus) muscles and leaves the pelvis through the lower part of the greater sciatic foramen.<ref name=Grays /> It crosses over the lateral part of the sacrospinous ligament and reenters the pelvis through the lesser sciatic foramen. After reentering the pelvis, it accompanies the internal pudendal artery and internal pudendal vein upwards and forwards along the lateral wall of the ischiorectal fossa, being contained in a sheath of the obturator fascia termed the pudendal canal, along with the internal pudendal blood vessels.<ref name=ASCRStextbook />
+Inside the pudendal canal, the nerve divides into branches, first giving off the inferior rectal nerve, then the perineal nerve, before continuing as the dorsal nerve of the penis (in males) or the dorsal nerve of the clitoris (in females).<ref name=ASCRStextbook />
+===Nucleus===
+The nerve is a major branch of the sacral plexus,<ref name=Brucker2013></ref> with fibers originating in Onuf's nucleus in the sacrum region of the spinal cord.<ref name=Shafik1995 />
+===Variation===
+The pudendal nerve may vary in its origins. For example, the pudendal nerve may actually originate in the sciatic nerve.<ref></ref> Consequently, damage to the sciatic nerve can affect the pudendal nerve as well. Sometimes dorsal rami of the first sacral nerve contribute fibers to the pudendal nerve, and even more rarely .<ref name=Shafik1995></ref>
+==Function==
+The pudendal nerve has both motor and sensory functions. It does not carry parasympathetic fibers but does carry sympathetic fibers.<ref></ref>
+The pudendal nerve supplies sensation to the penis in males, and to the clitoris in females, which travels through the branches of both the dorsal nerve of the penis and the dorsal nerve of the clitoris.<ref name=GRAYS2005 /> The posterior scrotum in males and the labia in females are also supplied, via the posterior scrotal nerves (males) or posterior labial nerves (females). The pudendal nerve is one of several nerves supplying sensation to these areas.<ref name=ORT2007>|page=Neurovascular Bundles of the Perineum</ref> Branches also supply sensation to the anal canal.<ref name=ASCRStextbook /> By providing sensation to the penis and the clitoris, the pudendal nerve is responsible for the afferent component of penile erection and clitoral erection.<ref></ref> It is also responsible for ejaculation.<ref></ref>
+Branches also innervate muscles of the perineum and the pelvic floor; namely, the bulbospongiosus and the ischiocavernosus muscles respectively<ref name=ORT2007 />, the levator ani muscle (including the Iliococcygeus, pubococcygeus, puborectalis and either pubovaginalis in females or puboprostaticus in males)<ref name=GRAYS2005 /><ref></ref> the external anal sphincter (via the inferior anal branch),<ref name=ASCRStextbook></ref> and male or female external urethral sphincter.<ref name=GRAYS2005></ref>
+As it functions to innervate the external urethral sphincter it is responsible for the tone of the sphincter mediated via acetylcholine release. This means that during periods of increased acetylcholine release the skeletal muscle in the external urethral sphincter contracts, causing urinary retention. Whereas in periods of decreased acetylcholine release the skeletal muscle in the external urethral sphincter relaxes, allowing voiding of the bladder to occur.<ref></ref> (Clarification: Unlike the internal sphincter muscle, the external sphincter is made of skeletal muscle, therefore it is under voluntary control of the somatic nervous system.)
+==Clinical significance==
+===Anesthesia===
+A Pudendal anesthesia, also known as a saddle nerve block, is a local anesthesia technique used in an obstetric procedure to anesthetize the perineum during labor.<ref></ref> In this procedure, an anesthetic agent such as lidocaine is injected through the inner wall of the vagina about the pudendal nerve.<ref></ref>
+===Damage===
+The pudendal nerve can be compressed or stretched, resulting in temporary or permanent neuropathy. Irreversible nerve injury may occur when nerves are stretched by 12% or more of their normal length.<ref name=ASCRStextbook /> If the pelvic floor is over-stretched, acutely (e.g. prolonged or difficult childbirth) or chronically (e.g. chronic straining during defecation caused by constipation), the pudendal nerve is vulnerable to stretch-induced neuropathy.<ref name=ASCRStextbook /> Pudendal nerve entrapment, also known as Alcock canal syndrome, is very rare and is associated with professional cycling.<ref></ref> Systemic diseases such as diabetes and multiple sclerosis can damage the pudendal nerve via demyelination or other mechanisms.<ref name=ASCRStextbook /> A pelvic tumor (most notably a large sacrococcygeal teratoma), or surgery to remove the tumor, can also cause permanent damage.<ref></ref>
+Unilateral pudendal nerve neuropathy inconsistently causes fecal incontinence in some, but not others. This is because crossover innervation of the external anal sphincter occurs in some individuals.<ref name=ASCRStextbook />
+===Imaging===
+The pudendal nerve is difficult to visualize on routine CT or MRI, however under CT guidance, a needle may be placed adjacent to the pudendal neurovascular bundle. The ischial spine, an easily identifiable structure on CT, is used as the level of injection. A spinal needle is advanced via the gluteal muscles and advanced within several millimeters of the ischial spine. Contrast (X-ray dye) is then injected, highlighting the nerve in the canal and allowing for confirmation of correct needle placement. The nerve may then be injected with cortisone and local anesthetic to confirm and also treat chronic pain of the external genitalia (known as vulvodynia in females), pelvic and anorectal pain.<ref></ref><ref></ref>
+====Nerve latency testing====
+The time taken for a muscle supplied by the pudendal nerve to contract in response to an electrical stimulus applied to the sensory and motor fibers can be quantified. Increased conduction time (terminal motor latency) signifies damage to the nerve.<ref name=Santoro2010></ref> 2 stimulating electrodes and 2 measuring electrodes are mounted on the examiner's gloved finger ("St Mark's electrode").<ref name=Santoro2010 />
+==History==
+The term pudendal comes from Latin , meaning external genitals, derived from , meaning "parts to be ashamed of".<ref></ref> The pudendal canal is also known by the eponymous term "Alcock's canal", after Benjamin Alcock, an Irish anatomist who documented the canal in 1836. Alcock documented the existence of the canal and pudendal nerve in a contribution about iliac arteries in Robert Bentley Todd's "The Cyclopaedia of Anatomy and Physiology".<ref></ref>
+==Additional images==
+<gallery>
+ File:Gray829.png|The male pelvis, showing the pudendal nerve (centre right)
+ File:Grant 1962 214.png|Schematic showing the structures innervated by the pudendal nerve
+ File:Grant 1962 215.png|Diagram of the course of the pudendal nerve in the male pelvis
+</gallery>
+==See also==
+* Neurogenic bladder
+==References==
+==External links==
+* - "Inferior view of female perineum, branches of the internal pudendal artery."
+* 
+* 
+* 
+* urltoken Diagnosis and treatment at www.nervemed.com
+* urltoken www.pudendal.com
+* urltoken Pudendal nerve entrapment at chronicprostatitis.com
+* urltoken CT sequence showing a pudendal nerve block.
+
+The pudendal nerve is the main nerve of the perineum.<ref name=Grant2013></ref> It carries sensation from the external genitalia of both sexes and the skin around the anus and perineum, as well as the motor supply to various pelvic muscles, including the male or female external urethral sphincter and the external anal sphincter. If damaged, most commonly by childbirth, lesions may cause sensory loss or fecal incontinence. The nerve may be temporarily blocked as part of an Pudendal anesthesia.
+The pudendal canal that carries the pudendal nerve is also known by the eponymous term "Alcock's canal", after Benjamin Alcock, an Irish anatomist who documented the canal in 1836.

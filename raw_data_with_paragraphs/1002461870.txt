@@ -1,0 +1,141 @@
+Modula-3
+
+===Dynamic allocation===
+Modula-3 supports the allocation of data at runtime. There are two kinds of memory that can be allocated, <code>TRACED</code> and <code>UNTRACED</code>, the difference being whether the garbage collector can see it or not. <code>NEW()</code> is used to allocate data of either of these classes of memory. In an <code>UNSAFE</code> module, <code>DISPOSE</code> is available to free untraced memory.
+===Object-oriented===
+Object-oriented programming techniques may be used in Modula-3, but their use is not needed. Many of the other features provided in Modula-3 (modules, generics) can usually take the place of object-orientation.
+Object support is intentionally kept to its simplest terms. An object type (termed a "class" in other object-oriented languages) is introduced with the <code>OBJECT</code> declaration, which has essentially the same syntax as a <code>RECORD</code> declaration, although an object type is a reference type, whereas RECORDs in Modula-3 are not (similar to structs in C). Exported types are usually named T by convention, and create a separate "Public" type to expose the methods and data. For example:
+<syntaxhighlight lang="modula3">
+INTERFACE Person;
+TYPE T <: Public;
+ Public = OBJECT 
+ METHODS
+ getAge(): INTEGER;
+ init(name: TEXT; age: INTEGER): T;
+ END;
+END Person.
+</syntaxhighlight>
+This defines an interface <code>Person</code> with two types, <code>T</code>, and <code>Public</code>, which is defined as an object with two methods, <code>getAge()</code> and <code>init()</code>. <code>T</code> is defined as a subtype of <code>Public</code> by the use of the <code><:</code> operator.
+To create a new <code>Person.T</code> object, use the built in procedure <code>NEW</code> with the method <code>init()</code> as 
+<syntaxhighlight lang="modula3">
+VAR jim := NEW(Person.T).init("Jim", 25);
+</syntaxhighlight>
+Modula-3's <code>REVEAL</code> construct provides a conceptually simple and clean yet very powerful mechanism for hiding implementation details from clients, with arbitrarily many levels of friendliness. Use <code>REVEAL</code> to show the full implementation of the <code>Person</code> interface from above.
+<syntaxhighlight lang="modula3">
+MODULE Person;
+REVEAL T = Public BRANDED 
+OBJECT 
+ name: TEXT; (* These two variables *)
+ age: INTEGER; (* are private. *)
+OVERRIDES
+ getAge := Age;
+ init := Init;
+END;
+PROCEDURE Age(self: T): INTEGER =
+ BEGIN
+ RETURN self.age;
+ END Age;
+PROCEDURE Init(self: T; name: TEXT; age: INTEGER): T =
+ BEGIN
+ self.name := name;
+ self.age := age;
+ RETURN self;
+ END Init;
+BEGIN
+END Person.
+</syntaxhighlight>
+Note the use of the <code>BRANDED</code> keyword, which "brands" objects to make them unique as to avoid structural equivalence. <code>BRANDED</code> can also take a string as an argument, but when omitted, a unique string is generated for you.
+Modula-3 is one of a few programming languages which requires external references from a module to be strictly qualified. That is, a reference in module <code>A</code> to the object <code>x</code> exported from module <code>B</code> must take the form <code>B.x</code>. In Modula-3, it is impossible to import all exported names from a module.
+Because of the language's requirements on name qualification and method overriding, it is impossible to break a working program simply by adding new declarations to an interface (any interface). This makes it possible for large programs to be edited concurrently by many programmers with no worries about naming conflicts; and it also makes it possible to edit core language libraries with the firm knowledge that no extant program will be broken in the process.
+===Exceptions===
+Exception handling is based on a <code>TRY</code>.<code>EXCEPT</code> block system, which has since become common. One feature that has not been adopted in other languages, with the notable exceptions of Delphi, Python urltoken Scala urltoken and Visual Basic.NET, is that the <code>EXCEPT</code> construct defined a form of switch statement with each possible exception as a case in its own EXCEPT clause. Modula-3 also supports a <code>LOOP</code>.<code>EXIT</code>.<code>END</code> construct that loops until an <code>EXIT</code> occurs, a structure equivalent to a simple loop inside a <code>TRY</code>.<code>EXCEPT</code> clause.
+===Multi-threaded===
+The language supports the use of multi-threading, and synchronization between threads.
+There is a standard module within the runtime library (m3core) named Thread, which supports the use of multi-threaded applications. The Modula-3 runtime may make use of a separate thread for internal tasks such as garbage collection.
+A built-in data structure <code>MUTEX</code> is used to synchronize multiple threads and protect data structures from simultaneous access with possible corruption or race conditions. The <code>LOCK</code> statement introduces a block in which the mutex is locked. Unlocking a <code>MUTEX</code> is implicit by the code execution locus's leaving the block. The <code>MUTEX</code> is an object, and as such, other objects may be derived from it.
+For example, in the input/output (I/O) section of the library libm3, readers and writers (Rd.T, and Wr.T) are derived from MUTEX, and they lock themselves before accessing or modifying any internal data such as buffers.
+===Summary===
+In summary, the language features:
+*Modules and interfaces
+*Explicit marking of unsafe code
+*Generics
+*Automatic garbage collection
+*Strong typing, structural equivalence of types
+*Objects
+*Exceptions
+*Threads
+Modula-3 is one of the rare languages whose evolution of features is documented.
+In Systems Programming with Modula-3, four essential points of the language design are intensively discussed. These topics are: structural vs. name equivalence, subtyping rules, generic modules, and parameter modes like <code>READONLY</code>.
+==Standard library features==
+Continuing a trend started with the C language, many of the features needed to write real programs were left out of the language definition and instead provided via a standard library set. Most of the interfaces below are described in detail in<ref name=DecSrcRr113> urltoken Some Useful Modula-3 Interfaces Jim Horning, Bill Kalsow, Paul McJones, Greg Nelson. DEC Systems Research Center (SRC) Research Report 113 (December 1993)</ref>
+Standard libraries providing the following features. These are called standard interfaces and are required (must be provided) in the language.
+* Text: Operations on immutable string references, called <code>TEXT</code>s
+* Thread: Operations relating to threading, including <code>MUTEX</code>, condition variable, and thread pausing. The threading library provides pre-emptive threads switching
+* Word: Bitwise operations on unsigned integers (or machine words). Normally implemented directly by the compiler
+* Floating-point interfaces
+Some recommended interfaces implemented in the available implementations but are not required
+* Lex: For parsing number and other data
+* Fmt: Formatting various datatypes for printing
+* Pkl (or Pickle): Object serialization of any reference types reachable by the garbage collector
+* Table: Generic modules for maps
+As in C, I/O is also provided via libraries, in Modula-3 called <code>Rd</code> and <code>Wr</code>. The object-oriented design of the Rd (readers) and Wr (writers) libraries is covered in detail in the book by Greg Nelson. An interesting aspect of Modula-3 is that it is one of few programming languages which standard libraries have been formally verified not to contain various types of bugs, including locking bugs. This was done under the auspices of the Larch/Modula-3 (see Larch family)<ref name=DecSrcRr072> urltoken LM3 Kevin D. Jones. DEC Systems Research Center (SRC) Research Report 72 (June 1991)</ref> and Extended static checking<ref name=CompaqSrcRr159> urltoken Extended Static Checking David L. Detlefs, K. Rustan M. Leino, Greg Nelson, James B. Saxe. Compaq SRC Research Report 159 (December 1998)</ref> projects at DEC SRC.
+==Implementations==
+Several compilers are available, most of them open source.
+*DEC-SRC M3, the original.<ref>ftp://ftp.u-aizu.ac.jp/pub/lang/Modula/m3/faq/document/src-m3-doc/SRCm3-3.3.ps.gz SRC Modula-3 3.3 Bill Kalsow and Eric Muller. Digital Equipment Corporation (January 1995)</ref>
+*Olivetti Research Center (ORC) Modula-3 toolkit, originally a compiler, now available as a library for syntactic, lexical and semantic analysis of Modula-3 programs.<ref></ref>
+*Critical Mass CM3, a different successor of DEC-SRC M3
+*Polytechnique Montreal Modula-3 PM3, a successor of DEC-SRC M3, currently merging with CM3
+*EzM3, an independent lightweight and easily portable implementation, developed in connection with CVSup
+*HM3, a successor of the pm3-1.1.15 release of PM3, with support of native threading using NPTL
+*CM3, the successor to Critical Mass CM3. This is the only up to date, maintained and developed implementation. Releases are available from urltoken 
+Since the only aspect of C data structures that is missing from Modula-3 is the union type, all extant Modula-3 implementations are able to provide good binary code compatibility with C language type declarations of arrays and structs.
+==Books==
+None of these books are still in print, although used copies are obtainable and some are digitized, partly or fully, and some chapters of one them have prior or posterior versions obtainable as research reports from the web.
+*Greg Nelson, ed., Systems Programming with Modula-3 The definitive reference on the Modula-3 language with interesting articles on object-oriented systems software construction and a documentation of the discussion leading to the final features of the language. There are some formerly (see<ref name=DecSrcRr052 /> for Chapter two,<ref name=DecSrcRr035> urltoken An Introduction to Programming with Threads Andrew D. Birrell. DEC Systems Research Center (SRC) Research Report 35 (January 1989)</ref> for chapter four,<ref name=DecSrcRr020> urltoken Synchronization Primitives for a Multiprocessor: A Formal Specification A. D. Birrell, J. V. Guttag, J. J. Horning, R. Levin. DEC Systems Research Center (SRC) Research Report 20 (August 1987)</ref> for chapter five,<ref name=DecSrcRr053> urltoken IO Streams: Abstract Types, Real Programs Mark R. Brown and Greg Nelson. DEC Systems Research Center (SRC) Research Report 53 (November 1989)</ref> for chapter six) and some posteriorly (see<ref name=DecSrcRefMan95> urltoken Modula-3 Reference Manual Luca Cardelli, James Donahue, Lucille Glassman, Mick Jordan, Bill Kalsow, Greg Nelson. DEC Systems Research Center (SRC) (February 1995)</ref> for Chapter one and more updated two, thus of both prior versions of language definition<ref name=DecSrcRr052 /> and,<ref name=DecSrcRr113 /> for chapter three and<ref name=DecSrcRr069> urltoken Trestle Tutorial Mark S. Manasse and Greg Nelson. DEC Systems Research Center (SRC) Research Report 69 (May 1992)</ref> for chapter seven) of publishing versions of the majority of its eight chapters individually available from prior DEC Systems Research Center (SRC) as research reports for download.
+*Samuel P. Harbison, Modula-3 Easy to use class textbook.
+*Robert Sedgewick, Algorithms in Modula-3
+*Laszlo Boszormenyi & Carsten Weich, Programming in Modula-3: An Introduction in Programming with Style
+*Renzo Orsini, Agostino Cortesi Programmare in Modula-3: introduzione alla programmazione imperativa e a oggetti an Italian book of the language explaining its main features.
+==Projects using Modula-3==
+Software which is programmed Modula-3 includes:
+*The SPIN operating system
+*The CVSup software repository synchronizing program
+*The Obliq language, which uses Modula-3 network objects ability to migrate objects over local networks transparently, allowing a distributed ability to Modula-3 object-oriented programming paradigm. It has been used to build distributed applications, computer animations, and web programming applications in the form of scripting extension to Modula-3.
+==Influences on other programming languages==
+Although Modula-3 did not gain mainstream status, several parts of the DEC-SRC M3 distribution did. Probably the most influential part was the Network Objects library, which formed the basis for Java's first Remote Method Invocation (RMI) implementation, including the network protocol. Only when Sun moved from the Common Object Request Broker Architecture (CORBA) standard to the IIOP based protocol was it dropped. The Java documentation on garbage collection of remote objects still refer to the pioneering work done for Modula-3 Network Objects.<ref> urltoken Garbage Collection of Remote Objects, Java Remote Method Invocation Documentation for Java SE 8.</ref> Python's implementation of classes was also inspired by the class mechanism found in C++ and Modula-3.<ref> urltoken Classes, Official Python Documentation.</ref>
+Also the language Nim makes use of some aspects of Modula-3, such as traced vs untraced pointers.
+==References==
+==External links==
+*
+*
+* urltoken CM3 Implementation Website
+* urltoken Modula-3 Home Page (now long dead, urltoken mirror)
+* urltoken Modula-3: Language definition
+* urltoken elego Software Solutions
+*news:comp.lang.modula3 Modula-3 newsgroup, mostly deserted
+* urltoken Modula-3 Development Mailing List, active
+* urltoken Notes from Caltech's CS2 class, taught in Modula-3 in 2002 and 2003
+*
+* urltoken mirror Programming in Modula-3: program examples
+* urltoken Building Distributed OO Applications: Modula-3 Objects at Work. Michel R. Dagenais. Draft Version (January 1997)
+*ftp://ftp.u-aizu.ac.jp/pub/lang/Modula/m3/faq/document/LangToolsLibs/root.ps Modula-3: Language, Libraries and Tools. Presentation on Modula-3 over 120 slides. Michael R. Dagenais, dead
+* urltoken Object-Oriented Data Abstraction in Modula-3. Joseph Bergin (1997)
+* urltoken Computerworld Interview with Luca Cardelli on Modula-3
+
+;
+END A;
+</syntaxhighlight>
+<syntaxhighlight lang="modula3">
+MODULE B;
+IMPORT A;
+FROM A IMPORT Color;
+VAR
+ aColor: A.Color; (* Uses the module name as a prefix *)
+ theColor: Color; (* Does not have the module name as a prefix *)
+ anotherColor: A.Color;
+BEGIN
+ aColor := A.Color.Brown;
+ theColor := Color.Red;
+ anotherColor := Color.Orange; (* Can't simply use Orange *)
+END B.
+</syntaxhighlight>

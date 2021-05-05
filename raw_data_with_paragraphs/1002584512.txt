@@ -1,0 +1,88 @@
+Factory method pattern
+
+==Overview==
+The Factory Method
+<ref name="GoF"></ref>
+design pattern is one of the Design Patterns that describe how to solve recurring design problems to design flexible and reusable object-oriented software, that is, objects that are easier to implement, change, test, and reuse.
+The Factory Method design pattern is used instead of the regular class constructor for keeping within the SOLID principles of programming, decoupling the construction of objects from the objects themselves. This has the following advantages and is useful for the following cases, among others:
+<ref></ref>
+* Allows construction of classes with a component of a type that has not been predetermined, but only defined in an "interface", or which is defined as a dynamic type. 
+:Thus, for example, a class <code>Vehicle</code> that has a member <code>Motor</code> of interface <code>IMotor</code>, but no concrete type of <code>Motor</code> defined in advance, can be constructed by telling the <code>Vehicle</code> constructor to use an <code>ElectricMotor</code> or a <code>GasolineMotor</code>. The <code>Vehicle</code> constructor code then calls a Motor factory method, to create the desired <code>Motor</code> that complies with the <code>IMotor</code> interface.
+* Allows construction of subclasses to a parent whose component type has not been predetermined, but only defined in an interface, or which is defined as a dynamic type. 
+:For example, a class <code>Vehicle</code> with a member <code>Motor</code> defined with a dynamic type, can have subclasses of type <code>ElectricPlane</code> and <code>OldCar</code> each constructed with a different type of Motor. This can be accomplished by constructing the subclasses with a Vehicle factory method, while supplying the motor type. In cases like this, the constructor may be hidden.
+* Allows for more readable code in cases where multiple constructors exist, each for a different reason.
+:For example if there are two constructors and a more readable construction of the classes would be to use vs 
+* Allows a class to defer instantiation to subclasses, and to prevent direct instantiation of an object of the parent class type. 
+:For example, a Vehicle can be prevented from being instantiated directly since it has no constructor, and only subclasses like ElectricPlane or OldCar can be created by calling the Vehicle (static) factory method in the subclass constructor or initializer. 
+Creating an object directly within the class that requires or uses the object is inflexible because it commits the class to a particular object and makes it impossible to change the instantiation independently of the class. A change to the instantiator would require a change to the class code which we would rather not touch. This is referred to as code coupling and the Factory method pattern assists in decoupling the code. 
+The Factory Method design pattern is used by first defining a separate operation, a factory method, for creating an object, and then using this factory method by calling it to create the object. This enables writing of subclasses that decide how a parent object is created and what type of objects the parent contains.<br>
+==Definition==
+"Define an interface for creating an object, but let subclasses decide which class to instantiate. The Factory method lets a class defer instantiation it uses to subclasses." (Gang Of Four)
+Creating an object often requires complex processes not appropriate to include within a composing object. The object's creation may lead to a significant duplication of code, may require information not accessible to the composing object, may not provide a sufficient level of abstraction, or may otherwise not be part of the composing object's concerns. The factory method design pattern handles these problems by defining a separate method for creating the objects, which subclasses can then override to specify the Subtype of product that will be created.
+The factory method pattern relies on inheritance, as object creation is delegated to subclasses that implement the factory method to create objects.<ref></ref>
+==Structure==
+=== UML class diagram ===
+none
+In the above UML class diagram, 
+the <code>Creator</code> class that requires a <code>Product</code> object doesn't instantiate the <code>Product1</code> class directly.
+Instead, the <code>Creator</code> refers to a separate <code>factoryMethod()</code> to create a product object,
+which makes the <code>Creator</code> independent of which concrete class is instantiated.
+Subclasses of <code>Creator</code> can redefine which class to instantiate. In this example, the <code>Creator1</code> subclass implements the abstract <code>factoryMethod()</code> by instantiating the <code>Product1</code> class.
+== Example ==
+A maze game may be played in two modes, one with regular rooms that are only connected with adjacent rooms, and one with magic rooms that allow players to be transported at random. 
+=== Structure ===
+<code>Room</code> is the base class for a final product (<code>MagicRoom</code> or <code>OrdinaryRoom</code>). <code>MazeGame</code> declares the abstract factory method to produce such a base product. <code>MagicRoom</code> and <code>OrdinaryRoom</code> are subclasses of the base product implementing the final product. <code>MagicMazeGame</code> and <code>OrdinaryMazeGame</code> are subclasses of <code>MazeGame</code> implementing the factory method producing the final products. Thus factory methods decouple callers (<code>MazeGame</code>) from the implementation of the concrete classes. This makes the "new" Operator redundant, allows adherence to the Open/closed principle and makes the final product more flexible in the event of change.
+=== Example implementations ===
+====C#====
+<syntaxhighlight lang="csharp">
+// Empty vocabulary of actual object
+public interface IPerson
+"'.format(self.rooms0))
+ @abstractmethod
+ def make_room(self):
+ raise NotImplementedError("You should implement this!")
+class MagicMazeGame(MazeGame):
+ def make_room(self):
+ return MagicRoom()
+class OrdinaryMazeGame(MazeGame):
+ def make_room(self):
+ return OrdinaryRoom()
+class Room(ABC):
+ def __init__(self) -> None:
+ self.connected_rooms = 
+ def connect(self, room) -> None:
+ self.connected_rooms.append(room)
+class MagicRoom(Room):
+ def __str__(self):
+ return "Magic room"
+class OrdinaryRoom(Room):
+ def __str__(self):
+ return "Ordinary room"
+ordinaryGame = OrdinaryMazeGame()
+ordinaryGame.play()
+magicGame = MagicMazeGame()
+magicGame.play()
+</syntaxhighlight>
+==Uses==
+* In ADO.NET, urltoken IDbCommand.CreateParameter is an example of the use of factory method to connect parallel class hierarchies.
+* In Qt, urltoken QMainWindow::createPopupMenu is a factory method declared in a framework that can be overridden in application code.
+* In Java, several factories are used in the urltoken javax.xml.parsers package. e.g. javax.xml.parsers.DocumentBuilderFactory or javax.xml.parsers.SAXParserFactory.
+* In the HTML5 DOM API, the Document interface contains a createElement factory method for creating specific elements of the HTMLElement interface.
+==See also==
+* Design Patterns, the highly influential book
+* Design pattern, overview of design patterns in general
+* Abstract factory pattern, a pattern often implemented using factory methods
+* Builder pattern, another creational pattern
+* Template method pattern, which may call factory methods
+* Joshua Bloch's idea of a static factory method, which he says has no direct equivalent in Design Patterns.
+==References==
+*
+*
+*
+*
+==External links==
+* urltoken Factory Design Pattern Implementation in Java
+* urltoken Factory method in UML and in LePUS3 (a Design Description Language)
+* urltoken Consider static factory methods by Joshua Bloch
+
+In class-based programming, the factory method pattern is a creational pattern that uses factory methods to deal with the problem of object creation without having to specify the exact class of the object that will be created. This is done by creating objects by calling a factory method—either specified in an interface and implemented by child classes, or implemented in a base class and optionally overridden by derived classes—rather than by calling a constructor.

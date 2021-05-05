@@ -1,0 +1,47 @@
+John Edensor Littlewood
+
+==Biography==
+Littlewood was born on 9 June 1885 in Rochester, Kent, the eldest son of Edward Thornton Littlewood and Sylvia Maud (née Ackland). In 1892, his father accepted the headmastership of a school in Wynberg, Cape Town, in South Africa, taking his family there.<ref>: "He later accepted the headmastership of a newly founded school at Wynberg near Cape Town, taking his family there in 1892."</ref> Littlewood returned to Britain in 1900 to attend St Paul's School in London, studying under Francis Sowerby Macaulay, an influential algebraic geometry.<ref>: "In 1900 he returned to England, where he attended St. Paul's School and studied with the talented teacher and mathematician F. S. Macaulay."</ref>
+In 1903, Littlewood entered the University of Cambridge, studying in Trinity College. He spent his first two years preparing for the Tripos examinations which qualify undergraduates for a bachelor's degree (where he emerged in 1905 as Senior Wrangler, the person who obtained the highest mark in Part 1 of the Tripos). In 1906, after completing the second part of the Tripos, he started his research under Ernest Barnes.<ref>: "He began his research later that year on asymptotic formulas for integral functions of order zero, under his tutor and director of studies E. W. Barnes."</ref> One of the problems that Barnes suggested to Littlewood was to prove the Riemann hypothesis, an assignment at which he did not succeed.<ref>: "Barnes proposed to Littlewood the task of proving the Riemann hypothesis . he did not succeed in that strenuous assignment ."</ref> He was elected a Fellow of Trinity College in 1908 and, apart from three years as Richardson Lecturer in the University of Manchester, the balance of his career was spent at the University of Cambridge. He was appointed Rouse Ball Professor of Mathematics in 1928, retiring in 1950. He was elected a Fellow of the Royal Society in 1916, awarded the Royal Medal in 1929, the Sylvester Medal in 1943 and the Copley Medal in 1958. He was president of the London Mathematical Society from 1941 to 1943, and was awarded the De Morgan Medal in 1938 and the Berwick Prizes in 1960.
+Littlewood died on 6 September 1977.
+==Work==
+Most of Littlewood's work was in the field of mathematical analysis. He began research under the supervision of Ernest William Barnes, who suggested that he attempt to prove the Riemann hypothesis: Littlewood showed that if the Riemann hypothesis is true then the prime number theorem follows and obtained the error term. This work won him his Trinity fellowship. However, the link between the Riemann hypothesis and the prime number theorem had been known before in Continental Europe, and Littlewood wrote later in his book, A Mathematician's Miscellany that his rediscovery of the result did not shed a positive light on the isolated nature of British mathematics at the time.
+He coined Littlewood's law, which states that individuals can expect "miracles" to happen to them, at the rate of about one per month.
+He continued to write papers into his eighties, particularly in analytical areas of what would become the theory of dynamical systems.
+Littlewood is also remembered for his book of reminiscences, A Mathematician's Miscellany (new edition published in 1986).
+Among his own PhD students were Sarvadaman Chowla, Harold Davenport, and Donald C. Spencer. Spencer reported that in 1941 when he (Spencer) was about to get on the boat that would take him home to the United States, Littlewood reminded him: "n, n alpha, n beta!" (referring to Littlewood's conjecture).
+Littlewood's collaborative work, carried out by correspondence, covered fields in Diophantine approximation and Waring's problem, in particular. In his other work, he collaborated with Raymond Paley on Littlewood–Paley theory in Fourier theory, and with Cyril Offord in combinatorial work on random sums, in developments that opened up fields that are still intensively studied.
+He worked with Mary Cartwright on problems in differential equations arising out of early research on radar:<ref></ref> their work foreshadowed the modern theory of dynamical systems. Littlewood's 4/3 inequality on bilinear forms was a forerunner of the later Grothendieck tensor norm theory.
+===With Hardy===
+Littlewood collaborated for many years with G. H. Hardy. Together they devised the first Hardy–Littlewood conjecture, a strong form of the twin prime conjecture, and the second Hardy–Littlewood conjecture.
+He also, with Hardy, identified the work of the Indian mathematician Srinivasa Ramanujan as that of a genius, and supported him in travelling to the UK and working at Cambridge.<ref>Hardy (June 1920), pp494–495.</ref> A self-taught mathematician, Ramanujan later became a Fellow of the Royal Society, Fellow of Trinity College, Cambridge, and widely recognised as on a par with other geniuses such as Euler and Jacobi.
+In a 1947 lecture, the Danish mathematician Harald Bohr said, "To illustrate to what extent Hardy and Littlewood in the course of the years came to be considered as the leaders of recent English mathematical research, I may report what an excellent colleague once jokingly said: 'Nowadays, there are only three really great English mathematicians: Hardy, Littlewood, and Hardy–Littlewood.'"<ref>
+</ref> 
+There is a story (related in the Miscellany) that at a conference Littlewood met a German mathematician who said he was most interested to discover that Littlewood really existed, as he had always assumed that Littlewood was a name used by Hardy for lesser work which he did not want to put out under his own name; Littlewood apparently roared with laughter. There are versions of this story involving both Norbert Wiener and Edmund Landau, who, it is claimed, "so doubted the existence of Littlewood that he made a special trip to Great Britain to see the man with his own eyes".<ref></ref>
+==Cultural references==
+John Littlewood is depicted in two films covering the life of Ramanujan – Ramanujan in 2014 portrayed by Michael Lieber and The Man Who Knew Infinity in 2015 portrayed by Toby Jones.
+==See also==
+*Critical line theorem
+*Hardy–Littlewood circle method
+*Hardy–Littlewood zeta-function conjectures
+*Littlewood conjecture
+*Littlewood polynomial
+*Littlewood's three principles of real analysis
+*Littlewood–Offord problem
+*Littlewood's Tauberian theorem
+*Hardy–Littlewood tauberian theorem
+*Hardy–Littlewood maximal function<ref></ref>
+*Littlewood subordination theorem
+==References==
+===Bibliography===
+*
+*
+==Further reading==
+*Littlewood's Miscellany, edited by B. Bollobás, Cambridge University Press; 1986. (alternative title for A Mathematician's Miscellany)
+==External links==
+* 
+* 
+* urltoken Papers of Littlewood on Number Theory
+* urltoken A Mathematicians Miscellany
+
+John Edensor Littlewood (9 June 1885 – 6 September 1977) was a British mathematician. He worked on topics relating to analysis, number theory, and differential equations, and had a lengthy collaboration with G.&nbsp;H. Hardy and Mary Cartwright.

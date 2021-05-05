@@ -1,0 +1,97 @@
+Raytheon Company
+
+====Strategic Business Areas====
+In recent years, Raytheon has expanded into other fields while redefining some of its core business activities. Raytheon has identified five key 'Strategic Business Areas' where it is focusing its expertise and resources: 
+* Homeland Security
+* Missile Defense
+* Precision Engagement
+* Intelligence, Surveillance, Reconnaissance (ISR)
+* Process Improvement (Raytheon Lean6)
+===Leadership===
+In March 2014, Thomas Kennedy was named CEO of Raytheon Company.<ref></ref> Kennedy succeeded William H. Swanson, who was CEO since 2003. Swanson remained as Chairman through September 2014 when Kennedy became Chairman as well as CEO.<ref></ref> Other current and former members of the board of directors of Raytheon were: Vern Clark, James E. Cartwright, John Deutch, Stephen Hadley, George R. Oliver, Frederic Poses, Michael Ruettgers, Ronald Skates, William Spivey, and Linda Stuntz.<ref></ref>
+===Ownership===
+As of December 2014, according to filed reports, the top ten institutional shareholders of Raytheon are Wellington Management Company, Vanguard Group, State Street Corporation, Barrow, Hanley, Mewhinney & Strauss, BlackRock Institutional Trust Company, BlackRock Advisors, Bank of America, Bank of New York Mellon, Deutsche Bank and Macquarie Group.<ref></ref>
+==Products and services==
+===Overview===
+Raytheon provides electronics, mission systems integration and other capabilities in the areas of sensing; effects; and command, control, communications and intelligence systems; as well as a broad range of mission support services.
+Raytheon's electronics and defense-systems units produce air-, sea-, and land-launched missiles, aircraft radar systems, weapons sights and targeting systems, communication and battle-management systems, and satellite components.
+===Air traffic control systems===
+*FIRSTplus Air Traffic Control Simulator
+*AutoTrac III ATM System
+*STARS
+===Radars and sensors===
+Raytheon is a developer and manufacturer of radars (including AESAs), electro-optical sensors, and other advanced electronics systems for airborne, naval and ground based military applications. Examples include:
+* APG-63/APG-70 radars for the F-15 Eagle
+* APG-65/APG-73/APG-79 radars for the F/A-18 Hornet
+* AN/APG-77 for the F-22 Raptor (joint development with Northrop Grumman)
+* AN/APG-84
+* ALE-50 towed decoy
+* ALR-67(V)3 and ALR-69A radar warning receivers
+* AN/APQ-181 (AESA upgrade currently in development), for the B-2 Spirit bomber
+* Integrated Sensor Suite (ISS) for the RQ-4 Global Hawk UAV
+* ASQ-228 ATFLIR (Advanced Targeting FLIR) pod
+* TPQ-36/TPQ-37 Firefinder and MPQ-64 Sentinel mobile battlefield radars
+* F-16 RACR, designed for the F-16 using AESA technology
+* SLQ-32 shipboard EW system
+* Large fixed-site radars such as PAVE PAWS, BMEWS, and the Missile Defense Agency X-band Radar (XBR)
+===Satellite sensors===
+Raytheon, often in conjunction with Boeing, Lockheed Martin or Northrop Grumman, is also heavily involved in the satellite sensor business. Much of its Space and Airborne Systems division in El Segundo, CA is devoted to this, a business it inherited from Hughes. Examples of programs include:
+* Space Tracking and Surveillance System (STSS), being developed for the Ballistic Missile Defense. Raytheon is building the sensor payload. Additionally, the El Segundo site is the company center of excellence for the development and production of laser products.
+* Raytheon company's Navy Multiband Terminal (NMT) is the first advanced, next-generation satellite communications (SATCOM) system to successfully log on to and communicate with the U.S. government's Milstar SATCOM system using low and medium data rate waveforms. The system provides naval commanders and sailors with greater data capacity, as well as improved protection against enemy intercept and jamming.
+* Visible Infrared Imaging Radiometer Suite (VIIRS), was developed by Raytheon Space and Airborne Sensors and is currently in operation on the Suomi NPP satellite. Future deliveries of VIIRS will fly onboard JPSS to continue the operational space based climate and weather sensing legacy of the MODIS sensors.<ref></ref>
+===Communications===
+* Raytheon's Universal Control System (UCS) is an unmanned aerial system (UAS) "cockpit" that improves operator awareness and efficiency, while providing the ability to control multiple unmanned aircraft, and reduce potential accidents.<ref> urltoken Raytheon Announces Revolutionary New 'Cockpit' for Unmanned Aircraft – an Industry First Falls Church, Virginia, October 31, 2006. PR Newswire.</ref>
+* The company also makes several software radio and digital communication systems for military applications such as Cooperative Engagement Capability (CEC), is participating in Navy-Marine Corps Intranet (NMCI), ECHELON and the Joint Tactical Terminal (JTT) programs.
+* Digital Multimedia Watchdog, a tool used by the FBI to record phone calls and Internet communications.<ref></ref>
+===Radioactive materials detection system===
+As part of the company's growing homeland security business and strategic focus, Raytheon has teamed with other contractors to develop an Advance Spectroscopic Portal (ASP) to allow border officials to view and identify radioactive materials in vehicles and shipping containers more effectively.<ref>
+</ref>
+===Semiconductors===
+Raytheon also manufactures semiconductors for the electronics industry in sites in the US and UK. In the late 20th century it produced a wide range of integrated circuits and other components, but as of 2003 its US semiconductor business specializes in gallium arsenide (GaAs) components for radio communications as well as infrared detectors. It is also making efforts to develop gallium nitride (GaN) components for next-generation radars and radios. The UK arm specialized in CMOS on silicon carbide (SiC) development and foundry work but is no longer taking on new orders, having been on the premises for 57 years.
+===Missile defense systems===
+In the framework of Ground-Based Midcourse Defense, Raytheon is developing a Ground Based Interceptor (GBI) that includes a booster missile and a kinetic Exoatmospheric Kill Vehicle (EKV), along with several key radar components, such as the Sea-Based X-Band Radar (SBX) and the Upgraded Early Warning Radar (UEWR).
+===Missiles===
+Raytheon is a developer of missiles and related missile defense systems. These include:
+* AGM-65 Maverick
+* AGM-88 HARM
+* AGM-129 ACM
+* AGM-154 Joint Standoff Weapon
+* AIM-7 Sparrow
+* AIM-9 Sidewinder
+* AIM-120 AMRAAM
+* BGM-71 TOW
+* BGM-109 Tomahawk
+* FGM-148 Javelin
+* FIM-92 Stinger
+* Paveway
+* Peregrine air-to-air missile<ref></ref>
+* MIM-23 Hawk
+* MIM-104 Patriot
+* RIM-7 Sea Sparrow
+* RIM-161 Standard Missile 3
+* RIM-162 ESSM
+* Pyros
+===Hi-tech simulators===
+In a jointly managed project with Hughes Aircraft Co., Raytheon developed the Air Warfare Simulation ( urltoken AWSIM2), currently used by the USAF for battle staff training at simulation centers worldwide.
+Raytheon also produces and runs the ABACUS (Advanced BAttlespace CompUter Simulation) or Higher Formation Trainer (HFT) for training HQs from small specialist units up to corps level.
+===Training Services and Learning Outsourcing===
+Raytheon Professional Services (RPS) is a global leader in training services and learning outsourcing for over 75 years. Clients are offered training tailored to their needs. The scope of each contract can vary from short-term training initiatives and projects to multi-year outsourcing engagements for some or all of a client’s training function. Services include: (1) Performance Consulting & Learning Strategy Development, (2) Training Design, Development & Delivery, (3) Learning Technologies and (4)Training Administration
+Raytheon Six Sigma
+Raytheon Six Sigma is the company's disciplined, knowledge-based approach designed to increase productivity, grow the business, enhance customer satisfaction and build a customer culture that embraces all of these goals.<ref></ref> Daniel Burnham brought Six Sigma to Raytheon from AlliedSignal in 1998. This internal service provides six steps that guide projects to completion, the six steps being: visualize, commit, prioritize, characterize, improve, and achieve. Raytheon mentions in its annual reports the benefits it has enjoyed through Six Sigma. It has gained USD $3.8 billion in financial benefit and has set a common language and culture across the company.<ref></ref>
+==Environmental record==
+Two lawsuits were filed against a Raytheon Company plant in St. Petersburg, Florida, due to concern with health risks, property values, and contamination in April 2008.<ref name="tampabay.com"></ref> Raytheon was given until the end of the month to independently test whether or not the groundwater that originated from its area was contaminated. According to the Florida Department of Environmental Protection (DEP), the groundwater contained carcinogenic contaminants, including trichloroethylene, 1,4-dioxane, and vinyl chloride.<ref></ref> The DEP also reported that the clouds contained other toxins, such as lead and toluene.<ref name="tampabay.com"/>
+In 1995, Raytheon acquired Dallas-based E-Systems, including a site in St. Petersburg, Florida. In November 1991, prior to Raytheon's acquisition, contamination had been discovered at the E-Systems site. Soil and groundwater had been contaminated with the volatile organic compounds trichloroethylene and 1,4-Dioxane. In 2005, groundwater monitoring indicated polluted groundwater was moving into areas outside the site.<ref></ref> According to DEP documentation, Raytheon has tested wells on its site since 1996 but had not delivered a final report; therefore, it was given a deadline on May 31, 2008 to investigate its groundwater.<ref name="tampabay.com"/> Contamination in the area has not affected anyone's drinking water supply or health, yet due to negative local media coverage lawsuits are being filed with claims against Raytheon citing decreases in property values.<ref></ref>
+In another case, Raytheon was ordered by the Environmental Protection Agency (EPA) to treat groundwater at the Tucson Plant (acquired during the merger with Hughes) in Arizona since Raytheon used and disposed metals, chlorinated solvents, and other substances at the plant since 1951.<ref name="Environmental Protection Agency"></ref> The EPA further required the installation and operation of an oxidation process system to treat the solvents and make the water safe to drink.<ref name="Environmental Protection Agency"/>
+On 9 August 2006, The Stream Contact Centre in Derry, Northern Ireland, which had a contract with Raytheon at the time, was Raytheon 9. They destroyed the computers, documents, and mainframe of the office, and proceeded to occupy it for eight hours prior to their arrest.
+The activists were charged with criminal damage and affray. The trial of six of the accused began May 19, 2008, in the Laganside Courts in Belfast. Colm Bryce, Gary Donnelly, Kieran Gallagher, Michael Gallagher, Sean Heaton, Jimmy Kelly, Paddy McDaid and Eamonn O'Donnell were acquitted of all charges on 11 June, with Eamonn McCann found guilty of the theft of two computer discs.7
+==Workplace diversity==
+* In 2005, Raytheon adopted equal employment opportunity policies regarding transgender and transsexual employees.<ref>Raytheon (2005). urltoken . Human Rights Campaign.</ref>
+===Advocacy===
+* Raytheon is a leading member of the U.S. Global Leadership Coalition, a Washington, D.C.–based coalition of over 400 major companies and NGOs that advocates for a larger International Affairs Budget, which funds American diplomatic, humanitarian, and development efforts abroad.<ref> urltoken U.S. Global Leadership Coalition, Global Trust members. Usglc.org. Retrieved on 2012-02-04.</ref>
+==See also==
+* Raytheon 9
+* Tactical Control System
+* Top 100 US Federal Contractors – $16.1 billion in FY2009
+
+</ref>
+Raytheon’s businesses are supported by several dedicated international operations including: Raytheon Australia; Raytheon Canada Limited; operations in Japan; Raytheon Microelectronics in Spain; Raytheon UK (formerly Raytheon Systems Limited); and ThalesRaytheonSystems, France.

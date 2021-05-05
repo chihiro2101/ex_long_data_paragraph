@@ -1,0 +1,116 @@
+List of unsolved problems in mathematics
+
+== Lists of unsolved problems in mathematics ==
+Various mathematicians and organizations have published and promoted lists of unsolved mathematical problems. In some cases, the lists have been associated with prizes for the discoverers of solutions.
+</math>?
+===Topology===
+Image:Ochiai_unknot.svg|right|thumb|250px|The unknotting problem asks whether there is an efficient algorithm to identify when the shape presented in a knot diagram is actually the unknot.
+* Baum–Connes conjecture
+* Bing–Borsuk conjecture
+* Borel conjecture
+* Hilbert–Smith conjecture
+* Mazur's conjectures<ref></ref>
+* Novikov conjecture
+* Ravenel conjecture
+* Unknotting problem
+* Volume conjecture
+* Whitehead conjecture
+* Zeeman conjecture
+== Problems solved since 1995 ==
+Image:Ricci flow.png|thumb|right|upright|200px|Ricci flow, here illustrated with a 2D manifold, was the key tool in Grigori Perelman's Poincaré conjecture#Solution.
+===Algebra===
+*Connes embedding problem (Zhengfeng Ji, Anand Natarajan, Thomas Vidick, John Wright, Henry Yuen, 2020)
+===Analysis===
+* Kadison–Singer problem (Adam Marcus, Daniel Spielman and Nikhil Srivastava, 2013)<ref name=Casazza2006></ref><ref name=SIAM02.2014></ref> (and the Feichtinger's conjecture, Anderson’s paving conjectures, Weaver’s discrepancy theoretic <math>KS_r</math> and <math>KS'_r</math> conjectures, Bourgain-Tzafriri conjecture and <math>R_\epsilon</math>-conjecture)
+===Combinatorics===
+* Erdős sumset conjecture (Joel Moreira, Florian Richter, Donald Robertson, 2018)<ref></ref>
+* Simplicial sphere on the possible numbers of faces of different dimensions in a simplicial sphere (also Grünbaum conjecture, several conjectures of Kühnel)(Karim Adiprasito, 2018)<ref>. See in particular urltoken p.&nbsp;316.</ref><ref></ref>
+* Hirsch conjecture (Francisco Santos Leal, 2010)<ref></ref><ref></ref>
+===Game theory===
+* The angel problem (Various independent proofs, 2006)<ref></ref><ref></ref><ref></ref><ref></ref>
+===Geometry===
+* Yau's conjecture (Antoine Song, 2018)<ref> urltoken 
+* Pentagonal tiling (Michaël Rao, 2017)<ref></ref>
+* Erdős distinct distances problem (Larry Guth, Netz Hawk Katz, 2011)<ref></ref>
+* Squaring the plane (Frederick V. Henle and James M. Henle, 2008)<ref></ref>
+* Kepler conjecture (Ferguson, Hales, 1998)<ref></ref>
+* Dodecahedral conjecture (Hales, McLaughlin, 1998)<ref></ref>
+===Graph theory===
+*Graceful labeling on graceful labeling of trees (Richard Montgomery, Benny Sudakov, Alexey Pokrovskiy, 2020)<ref>.</ref><ref></ref>
+*Hedetniemi's conjecture on the chromatic number of tensor products of graphs (Yaroslav Shitov, 2019)<ref></ref>
+* Babai's problem (Problem 3.3 in "Spectra of Cayley graphs") (Alireza Abdollahi, Maysam Zallaghi, 2015)<ref></ref>
+* Alspach's conjecture (Darryn Bryant, Daniel Horsley, William Pettersson, 2014)
+* Scheinerman's conjecture (Jeremie Chalopin and Daniel Gonçalves, 2009)<ref></ref>
+* Erdős–Menger conjecture (Aharoni, Berger 2007)<ref></ref>
+* Road coloring conjecture (Avraham Trahtman, 2007)<ref></ref>
+===Group theory===
+* Hanna Neumann conjecture (Mineyev, 2011)<ref></ref>
+* Density theorem (Namazi, Souto, 2010)<ref></ref>
+* Full classification of finite simple groups (Harada, Solomon, 2008)
+===Number theory===
+*Duffin–Schaeffer conjecture (Dimitris Koukoulopoulos, James Maynard, 2019)
+* Main conjecture in Vinogradov's mean-value theorem (Jean Bourgain, Ciprian Demeter, Larry Guth, 2015)<ref></ref>
+* Goldbach's weak conjecture (Harald Helfgott, 2013)<ref></ref><ref></ref><ref></ref>
+* Serre's modularity conjecture (Chandrashekhar Khare and Jean-Pierre Wintenberger, 2008)<ref></ref><ref></ref><ref></ref>
+* Fermat's Last Theorem (Andrew Wiles and Richard Taylor, 1995)<ref></ref><ref></ref>
+===Ramsey theory===
+* Burr–Erdős conjecture (Choongbum Lee, 2017)<ref></ref>
+* Boolean Pythagorean triples problem (Marijn Heule, Oliver Kullmann, Victor Marek, 2016)<ref></ref><ref></ref>
+===Topology===
+*Deciding whether the Conway knot is a slice knot (Lisa Piccirillo, 2020)<ref> urltoken The Conway knot is not slice, Annals of Mathematics, volume 191, issue 2, pp. 581–591</ref> <ref> urltoken Graduate Student Solves Decades-Old Conway Knot Problem, Quanta Magazine 19 May 2020</ref>
+* Virtual Haken conjecture (Agol, Groves, Manning, 2012)<ref></ref> (and by work of Wise also virtually fibered conjecture)
+* Hsiang–Lawson's conjecture (Brendle, 2012)<ref></ref>
+* Ehrenpreis conjecture (Kahn, Markovic, 2011)<ref></ref>
+* Atiyah conjecture (Austin, 2009)<ref></ref>
+* Cobordism hypothesis (Jacob Lurie, 2008)<ref></ref>
+* Geometrization conjecture, proven by Grigori Perelman<ref name="auto"></ref> in a series of preprints in 2002–2003.<ref></ref> 
+* Spherical space form conjecture (Grigori Perelman, 2006)
+===Uncategorised===
+* Erdős discrepancy problem (Terence Tao, 2015)<ref></ref>
+* Umbral moonshine conjecture (John F. R. Duncan, Michael J. Griffin, Ken Ono, 2015)<ref></ref>
+* Anderson conjecture (Cheeger, Naber, 2014)<ref></ref>
+* Gaussian correlation inequality (Thomas Royen, 2014)<ref></ref>
+* Willmore conjecture (Fernando Codá Marques and André Neves, 2012)<ref></ref>
+* Beck's 3-permutations conjecture (Newman, Nikolov, 2011)<ref></ref>
+* Bloch–Kato conjecture (Voevodsky, 2011)<ref></ref> (and Quillen–Lichtenbaum conjecture and by work of Geisser and Levine (2001) also Beilinson–Lichtenbaum conjecture<ref></ref><ref></ref><ref></ref>)
+* Sidon sequence (J. Cilleruelo, I. Ruzsa and C. Vinuesa, 2010)<ref></ref>
+* Kauffman–Harary conjecture (Matmann, Solis, 2009)<ref></ref>
+* Surface subgroup conjecture (Kahn, Markovic, 2009)<ref></ref>
+* Normal scalar curvature conjecture and the Böttcher–Wenzel conjecture (Lu, 2007)<ref></ref>
+* Nirenberg–Treves conjecture (Nils Dencker, 2005)<ref></ref><ref></ref>
+* Peter Lax#Work (Lewis, Parrilo, Ramana, 2005)<ref></ref>
+* The Langlands–Shelstad fundamental lemma (Ngô Bảo Châu and Gérard Laumon, 2004)<ref></ref>
+* Tameness conjecture and Ahlfors measure conjecture (Ian Agol, 2004)<ref></ref>
+* Robertson–Seymour theorem (Robertson, Seymour, 2004)<ref></ref>
+* Stanley–Wilf conjecture (Gábor Tardos and Adam Marcus, 2004)<ref></ref> (and also Alon–Friedgut conjecture)
+* Green–Tao theorem (Ben J. Green and Terence Tao, 2004)<ref></ref>
+* Ending lamination theorem (Jeffrey F. Brock, Richard D. Canary, Yair N. Minsky, 2004)<ref></ref>
+* Carpenter's rule problem (Connelly, Demaine, Rote, 2003)<ref></ref>
+* Cameron–Erdős conjecture (Ben J. Green, 2003, Alexander Sapozhenko, 2003)<ref></ref><ref></ref>
+* Milnor conjecture (Vladimir Voevodsky, 2003)<ref></ref>
+* Kemnitz's conjecture (Reiher, 2003, di Fiore, 2003)<ref></ref>
+* Nagata's conjecture (Shestakov, Umirbaev, 2003)<ref></ref>
+* Kirillov's conjecture (Baruch, 2003)<ref></ref>
+* Poincaré conjecture (Grigori Perelman, 2002)<ref name="auto" />
+* Strong perfect graph conjecture (Maria Chudnovsky, Neil Robertson, Paul Seymour and Robin Thomas, 2002)<ref></ref>
+* Kouchnirenko’s conjecture (Haas, 2002)<ref></ref>
+* Vaught conjecture (Knight, 2002)<ref>Knight, R. W. (2002), The Vaught Conjecture: A Counterexample, manuscript</ref>
+* Double bubble conjecture (Hutchings, Morgan, Ritoré, Ros, 2002)<ref></ref>
+* Mihăilescu's theorem (Preda Mihăilescu, 2002)<ref></ref>
+* n! conjecture (Haiman, 2001)<ref></ref> (and also Macdonald positivity conjecture)
+* Kato's conjecture (Auscher, Hofmann, Lacey, McIntosh and Tchamitchian, 2001)<ref></ref>
+* Deligne's conjecture on 1-motives (Luca Barbieri-Viale, Andreas Rosenschon, Morihiko Saito, 2001)<ref></ref>
+* Modularity theorem (Breuil, Conrad, Diamond and Taylor, 2001)<ref></ref>
+* Erdős–Stewart conjecture (Florian Luca, 2001)<ref></ref>
+* Berry–Robbins problem (Atiyah, 2000)<ref></ref>
+* Erdős–Graham problem (Croot, 2000)<ref>. </ref>
+* Honeycomb conjecture (Thomas Hales, 1999)<ref></ref>
+* Gradient conjecture (Krzysztof Kurdyka, Tadeusz Mostowski, Adam Parusinski, 1999)<ref></ref>
+* Bogomolov conjecture (Emmanuel Ullmo, 1998, Shou-Wu Zhang, 1998)<ref></ref><ref></ref>
+* Lafforgue's theorem (Laurent Lafforgue, 1998)<ref></ref>
+* Ganea conjecture (Iwase, 1997)<ref></ref>
+* Torsion conjecture (Merel, 1996)<ref></ref>
+* Harary's conjecture (Chen, 1996)<ref></ref>
+
+Image:Riemann-Zeta-Func.png|right|thumb|250px|The Riemann zeta function, subject of the celebrated and influential unsolved problem known as the Riemann hypothesisSince the Renaissance, every century has seen the solution of more mathematical problems than the century before, yet many mathematical problems, both major and minor, still remain unsolved.<ref>Eves, An Introduction to the History of Mathematics 6th Edition, Thomson, 1990, .</ref> These unsolved problems occur in multiple domains, including physics, computer science, algebra, analysis, combinatorics, algebraic, differential, discrete and Euclidean geometry, graph, group, model, number, set and Ramsey theories, dynamical systems, partial differential equations, and more. Some problems may belong to more than one discipline of mathematics and be studied using techniques from different areas. Prizes are often awarded for the solution to a long-standing problem, and lists of unsolved problems (such as the list of Millennium Prize Problems) receive considerable attention.
+This article is a composite of unsolved problems derived from many sources, including but not limited to lists considered authoritative. It does not claim to be comprehensive, it may not always be quite up to date, and it includes problems which are considered by the mathematical community to be widely varying in both difficulty and centrality to the science as a whole.

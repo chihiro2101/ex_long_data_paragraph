@@ -1,0 +1,50 @@
+S-Video
+
+==Background==
+Standard analog television signals go through several processing steps on their way to being broadcast, each of which discards information and lowers the quality of the resulting images.
+The image is originally captured in RGB form and then processed into three signals known as YPbPr. The first of these signals is called Y, which is created from all three original signals based on a formula that produces an overall brightness of the image, or luma. This signal closely matches a traditional black and white television signal and the Y/C method of encoding was key to offering backward compatibility. Once the Y signal is produced, it is subtracted from the blue signal to produce Pb and from the red signal to produce Pr. To recover the original RGB information for display, the signals are mixed with the Y to produce the original blue and red, and then the sum of those is mixed with the Y to recover the green.
+A signal with three components is no easier to broadcast than the original three-signal RGB, so additional processing is required. The first step is to combine the Pb and Pr to form the C signal, for chrominance. The phase and amplitude of the signal represent the two original signals. This signal is then bandwidth-limited to comply with requirements for broadcasting. The resulting Y and C signals are mixed together to produce composite video. To play back composite video, the Y and C signals must be separated, and this is difficult to do without adding artifacts. 
+Each of these steps is subject to deliberate or unavoidable loss of quality. To retain that quality in the final image, it is desirable to eliminate as many of the encoding/decoding steps as possible. S-Video is an approach to this problem. It eliminates the final mixing of C with Y and subsequent separation at playback time.
+==Signal==
+The S-video cable carries video using two synchronized signal and ground pairs, termed Y and C.
+Y is the luma signal, which carries the luminance&nbsp;– or black-and-white&nbsp;– of the picture, including synchronization pulses.
+C is the chroma signal, which carries the chrominance&nbsp;– or coloring-in&nbsp;– of the picture. This signal contains two color-difference components.
+The luminance signal carries horizontal and vertical sync pulses in the same way as a composite video signal. 
+In composite video, the signals co-exist on different frequencies. To achieve this, the luminance signal must be low-pass filtered, dulling the image. As S-Video maintains the two as separate signals, such detrimental low-pass filtering for luminance is unnecessary, although the chrominance signal still has limited bandwidth relative to component video.
+Compared with component video, which carries the identical luminance signal but separates the color-difference signals into Cb/Pb and Cr/Pr, the color resolution of S-Video is limited by the modulation on a subcarrier frequency of 3.57 to 4.43 megahertz, depending on the standard. This difference is meaningless on home videotape systems, as the chrominance is already severely constrained by both VHS and Betamax.
+Carrying the color information as one signal means that the color has to be encoded in some way, typically in accord with NTSC, PAL, or SECAM, depending on the applicable local standard.
+==Use==
+In many European countries, S-Video was less common because of the dominance of SCART connectors, which were present on televisions until the advent of HDMI. It is possible for a player to output S-Video over SCART, but televisions' SCART connectors are not necessarily wired to accept it, and if not the display would show only a monochrome image.<ref> urltoken S-Video drama :(. camp0s.com</ref> In this case it is sometimes possible to modify the SCART adapter cable to make it work.
+The European usage of RGB video is because the RGB quality of most retro computers and consoles is better than S-Video.<ref> urltoken 
+==Physical connectors==
+===Atari 800===
+The Atari 800 introduced separate Chroma/Luma output in late 1979. The signals were put on pin 1 and 5 of a 5-pin 180 degree DIN connector socket. Atari did not sell a monitor for its 8-bit computer line, however.<ref name="8-bit FAQ"></ref>
+===Commodore 64===
+The Commodore 64 released in 1982 (with the exception of the earliest revisions using a 5-pin video port) also offers separate chroma and luma signals using a different connector. Although Commodore Business Machines did not use the term "S-Video" as the standard did not formally exist until 1987, a simple adapter connects the computer's "LCA" (luma-chroma-audio) 8-pin DIN socket to a S-Video display, or an S-Video device to the Commodore 1702 monitor's LCA jacks.<ref name="8bitguy20180511"></ref>
+===4-pin mini-DIN===
+The four-pin mini-DIN connector is the most common of several S-Video connector types. The same mini-DIN connector is used in the Apple Desktop Bus for Macintosh computers and the two cable types can be interchanged.<ref></ref><ref></ref><ref></ref> Other connector variants include seven-pin locking "dub" connectors used on many professional S-VHS machines, and dual "Y" and "C" BNC connectors, often used for S-Video patch panels. Early Y/C video monitors often used phono (RCA connector) that were switchable between Y/C and composite video input. Though the connectors are different, the Y/C signals for all types are compatible.
+The mini-DIN pins, being weak, sometimes bend. This can result in the loss of colour or other corruption (or loss) in the signal. A bent pin can be forced back into shape, but this carries the risk of the pin breaking off.
+These plugs are usually made to be plug-compatible with S-video, and include optional features, such as component video using an adapter. They are not necessarily S-video, although they can be operated in that mode.
+===7-pin mini-DIN===
+thumb
+left
+Non-standard 7-pin mini-DIN connectors (termed "7P") are used in some computer equipment (PCs and Macs). A 7-pin socket accepts, and is pin compatible with, a standard 4-pin S-Video plug.<ref name="pin7"/> The three extra sockets may be used to supply Composite video, an RGB or YPbPr video signal, or an I²C interface. The pinout usage varies among manufacturers.<ref name="pin7"></ref><ref></ref> In some implementations, the remaining pin must be grounded to enable the composite output or disable the S-Video output.
+Some Dell laptops have a S/PDIF in a 7-pin socket.
+<ref name="spdif">
+</ref>
+===8-pin mini-DIN===
+65px
+The 8-pin mini-DIN connector is used in some ATI Radeon video cards<ref name="8-pin"> </ref>
+===9-pin Video In/Video Out===
+Image:Pseudo miniDIN-9 Diagram.png
+65px
+9-pin connectors are used in graphics systems that feature the ability to input video as well as output it.<ref>ATI Radeon: Using Video in and Video out.</ref><ref></ref> Again, there is no standardization between manufacturers as to which pin does what, and there are two known variants of the connector in use. As can be seen from the diagram above, although the S-Video signals are available on the corresponding pins, neither variant of the connector will accept an unmodified 4-pin S-Video plug, though they can be made to fit by removing the key from the plug. In the latter case, it becomes all too easy to misalign the plug when inserting it with consequent damage to the small pins.
+==See also==
+* Audio and video connector
+* RF connector
+* Composite monitor
+* List of video connectors
+* Video In Video Out
+==References==
+
+S-Video (also known as separate video and Y/C)<ref> urltoken S-Video – Definition About.com</ref> is a signaling standard for standard definition video, typically 480i or 576i. By separating the black-and-white and coloring signals, it achieves better image quality than composite video, but has lower color resolution than YPbPr. S-Video was introduced with JVC's S-VHS format in 1987.<ref> urltoken

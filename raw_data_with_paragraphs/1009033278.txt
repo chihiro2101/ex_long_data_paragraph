@@ -1,0 +1,160 @@
+Federation
+
+==Federations and other forms of state==
+===Federations===
+The component states are in some sense sovereign, insofar as certain powers are reserved to them that may not be exercised by the central government. However, a federation is more than a mere loose alliance of independent states. The component states of a federation usually possess no powers in relation to foreign policy and so enjoy no independent status under international law. However, German Länder have that power,<ref></ref> which is beginning to be exercised on a European level.
+Some federations are called asymmetric because some states have more autonomy than others. An example of such a federation is Malaysia, in which Sarawak and Sabah agreed to form the federation on different terms and conditions from the states of Peninsular Malaysia.
+A federation often emerges from an initial agreement between several separate states. The purpose can be the will to solve mutual problems and to provide for mutual defense or to create a nation state for an ethnicity spread over several states. The former was the case with the United States and Switzerland. However, as the histories of countries and nations vary, the federalist system of a state can be quite different from these models. Australia, for instance, is unique in that it came into existence as a nation by the democratic vote of the citizens of each state, who voted "yes" in referendums to adopt the Australian Constitution. Brazil, on the other hand, has experienced both the federal and the unitary state during its history. Some present-day states of the Brazilian federation retain borders set during the Portuguese colonization (before the very existence of the Brazilian state), whereas the latest state, Tocantins, was created by the 1988 Constitution for chiefly administrative reasons.
+Seven of the top eight largest countries by area are governed as federations.
+===Unitary states===
+A unitary state is sometimes one with only a single, centralized, national tier of government. However, unitary states often also include one or more self-governing regions. The difference between a federation and this kind of unitary state is that in a unitary state the autonomous status of self-governing regions exists by the sufferance of the central government, and may be unilaterally revoked. While it is common for a federation to be brought into being by agreement between a number of formally independent states, in a unitary state self-governing regions are often created through a process of devolution, where a formerly centralized state agrees to grant autonomy to a region that was previously entirely subordinate. Thus federations are often established voluntarily from "below" whereas devolution grants self-government from "above".
+It is often part of the philosophy of a unitary state that, regardless of the actual status of any of its parts, its entire territory constitutes a single sovereign entity or Nation state, and that by virtue of this the central government exercises sovereignty over the whole territory as of right. In a federation, on the other hand, sovereignty is often regarded as residing notionally in the component states, or as being shared between these states and the central government.
+===Confederation===
+A confederation, in modern political terms, is usually limited to a permanent union of sovereign states for common action in relation to other states.<ref></ref> The closest entity in the world to a confederation at this time is the European Union. While the word confederation was officially used when the Canadian federal system was established in 1867, the term refers only to the process and not the resulting state since Canadian provinces are not sovereign and do not claim to be. In the case of Switzerland, while the country is still known as the Swiss Confederation (Confoederatio Helvetica, Confédération Suisse) this is now a misnomer since the Swiss cantons lost their sovereign status in 1848.<ref> urltoken CH: Confoederatio Helvetica - Switzerland - Information . Swissworld.org. Retrieved on 2013-07-12.</ref>
+In Belgium, however, the opposite movement is underway.<ref name="Lagasse">One of the most important recent books about the Belgian institutions, written by one of the leading French-speaking jurists concludes: Vers le confédéralisme (Toward a Confederation). See: Charles-Etienne Lagasse, Les Nouvelles institutions politiques de la Belgique et de l'Europe, Erasme, Namur 2003, p. 603 </ref> Belgium was founded as a centralized state, after the French model, but has gradually been reformed into a federal state by consecutive constitutional reforms since the 1970s. Moreover, although nominally called a federal state, the country's structure already has a number of Confederation#Belgium. At present, there is a growing movement to transform the existing federal state into a looser confederation with two or three constitutive states and/or two special regions.<ref name="Belgium">Many Flemings would prefer two states, Flanders and Wallonia, and two special regions, Brussels and the German-speaking region. In Wallonia, there is wider support for three states: Flanders, Wallonia and Brussels.</ref>
+A confederation is most likely to feature three differences when contrasted with a federation: (1) No real direct powers: many confederal decisions are externalized by member-state legislation; (2) Decisions on day-to-day-matters are not taken by simple majority but by special majorities or even by consensus or unanimity (veto for every member); (3) Changes of the constitution, usually a treaty, require unanimity.
+Over time these terms acquired distinct connotations leading to the present difference in definition. An example of this is the United States under the Articles of Confederation. The Articles established a national government under what today would be defined as a federal system (albeit with a comparatively weaker federal government). However, Canadians, designed with a stronger central government than the U.S. in the wake of the Civil War of the latter, use the term "Confederation" to refer to the formation or joining, not the structure, of Canada. Legal reforms, court rulings, and political compromises have decentralized Canada in practice since its formation in 1867.
+===Empire===
+An empire is a multi-ethnic state, multinational state, or a group of nations with a central government established usually through coercion (on the model of the Roman Empire). An empire often includes self-governing regions, but these will possess autonomy only at the sufferance of the central government. On the other hand, a political entity that is an empire in name, may comprise several partly autonomous kingdoms organised together in a federation, with the empire being ruled over by an emperor or senior king (great king, high king, king of kings.). One example of this was the German Empire (1871–1918).
+===Comparison with other systems of autonomy===
+====Federacy====
+A federacy<ref>Some dictionaries, such as the Webster's Encyclopedic Unabridged Dictionary of the English Language (1989 ed.), state that federacy is synonymous with confederacy ("by aphesis"). In French, the English words federacy, confederacy, and confederation are all translated by "confédération".</ref> is where a unitary state incorporates one or more self-governing autonomous areas. It is distinguished from a federation in that the constitutional structure of the state is still unitary, but incorporates federalist principles. Some federations, notably the Åland Islands, were established through international treaty.
+====Devolution====
+A federation differs from a devolution, such as Indonesia and the United Kingdom, because, in a devolved state, the central government can revoke the independence of the subunits (Scottish Parliament, Senedd Cymru – Welsh Parliament, Northern Ireland Assembly in the case of the UK) without changing the constitution.
+====Associated states====
+A federation also differs from an associated state, such as the Federated States of Micronesia (in free association with the United States) and Cook Islands and Niue (which form part of the Realm of New Zealand). There are two kinds of associated states: in case of Micronesia, the association is concluded by a treaty between two sovereign states; in the case of the Cook Islands and Niue, the association is concluded by domestic legal arrangements.
+====Crown dependencies====
+The relation between the Crown dependencies of the Isle of Man and the bailiwicks of Guernsey and Jersey in the Channel Islands and the United Kingdom is very similar to a federate relation: the Islands enjoy independence from the United Kingdom, which, via The Crown, takes care of their foreign relations and defense – although the UK Parliament does have overall power to legislate for the dependencies. However, the islands are neither an incorporated part of the United Kingdom nor are they considered to be independent or associated states. The islands do not have a monarch, per se; rather in the Isle of Man the British Monarch is, ex officio, Lord of Mann, and in the Bailiwicks of Guernsey and Jersey, the British Monarch rules as the Duke of Normandy.
+==== Dependent territories ====
+Dependent territory, such as the British overseas territories, are vested with varying degrees of power; some enjoy considerable independence from the sovereign state, which only takes care of their foreign relations and defense. However, they are neither considered to be part of it nor recognized as sovereign or associated states.
+===De facto federations===
+The distinction between a federation and a unitary state is often quite ambiguous. A unitary state may closely resemble a federation in structure and, while a central government may possess the theoretical right to revoke the autonomy of a self-governing region, it may be politically difficult for it to do so in practice. The self-governing regions of some unitary states also often enjoy greater autonomy than those of some federations. For these reasons, it is sometimes argued that some modern unitary states are de facto federations.<ref></ref>
+De facto federations, or quasi-federations, are often termed "regional states".
+====Spain====
+Spain is suggested as one possible de facto federation<ref></ref> as it grants more self-government to its autonomous communities<ref name="Mallet"></ref><ref name="economist.com"></ref> than are retained by the constituent entities of most federations.<ref></ref> For the Cortes Generales to revoke the autonomy of regions such as Galicia, Catalonia or the Basque Country would be a political near-impossibility, though nothing bars it legally. The Spanish parliament has, however, suspended the autonomy of Catalonia in response to the Catalan declaration of independence, in the lead up to the 2017 Catalan election.<ref></ref> Additionally, some autonomies such as Navarre or the Basque Country have full control over taxation and spending, transferring a payment to the central government for the common services (military, foreign relations, macroeconomic policy). For example, scholar Enrique Guillén López discusses the "federal nature of Spain's government (a trend that almost no one denies)."<ref> urltoken Enrique Guillén López , JUDICIAL REVIEW IN SPAIN: THE CONSTITUTIONAL COURT, 41 Loyola of Los Angeles Law Review 541, 544 (2008).</ref> Each autonomous community is governed by a Statute of Autonomy (Estatuto de Autonomía) under the Constitution of Spain.
+====South Africa====
+Although South Africa bears some elements of a federal system, such as the allocation of certain powers to provinces, it is nevertheless constitutionally and functionally a unitary state.<ref></ref>
+====European Union====
+The European Union (EU) is a type of political union or confederation (the assemblage of societies or an association of two or more states into one state).<ref>"Federalist Paper No. 9", p.70 Alexander Hamilton</ref> Robert Schuman, the initiator of the European Community system, wrote that a transnational Community like the founding of the European Coal and Steel Community lay midway between an association of States where they retained complete independence and a federation leading to a fusion of States in a superstate.<ref>La Communaute du Charbon et de l'Acier, p7 Paul Reuter with a preface by Robert Schuman. Paris 1953.</ref> The Founding fathers of the European Union wrote the Europe Declaration at the time of the signing of the Treaty of Paris on 18 April 1951 saying that Europe should be organized on a transnational foundation. They envisaged a structure quite different from a federation called the European Political Community.
+The EU is a three-pillar structure of the original supranational European Economic Community and the nuclear non-proliferation treaty, Euratom, plus two largely intergovernmental pillars dealing with External Affairs and Justice and Home Affairs. The EU is therefore not a de jure federation, although some academic observers conclude that after 50 years of institutional evolution since the Treaties of Rome it is becoming one.<ref></ref> The European Union possesses attributes of a federal state. However, its central government is far weaker than that of most federations and the individual members are sovereign states under international law, so it is usually characterized as an unprecedented form of supra-national union. The EU has responsibility for important areas such as trade, monetary union, agriculture, fisheries. Nonetheless, EU member states retain the right to act independently in matters of foreign policy and defense, and also enjoy a near-monopoly over other major policy areas such as criminal justice and taxation. Since the Treaty of Lisbon, the Member States' right to leave the Union is codified, and the Union operates with more qualified majority voting (rather than unanimity) in many areas.
+A more nuanced view has been given by the German Constitutional Court.<ref> <br />The original German uses the word Staatenverbund, which they translate as "association of sovereign states", rather than the word Staatenbund (confederation of states) or Bundesstaat (federal state).</ref> Here the EU is defined as 'an association of sovereign national states (Staatenverbund)'.<ref> urltoken BVerfG, 2 BvE 2/08 vom 30.6.2009, Absatz-Nr. (1–421)</ref> With this view, the European Union resembles more of a confederation.
+====People's Republic of China====
+Constitutionally, the power vested in the special administrative regions of the People's Republic is granted from the Central People's Government, through a decision by the National People's Congress. However, there have been certain largely informal grants of power to the provinces, to handle economic affairs and implement national policies, resulting in a system some have termed federalism "with Chinese characteristics".<ref> urltoken Economic Warlords by Gregory H. Fuller</ref>
+====Myanmar====
+Constitutionally a unitary state, the political system in Myanmar bears many elements of federalism. Each administrative divisions have its own cabinets and chief ministers, making it more like a federation rather than a unitary state.
+==Internal controversy and conflict==
+ 
+Certain forms of political and constitutional dispute are common to federations. One issue is that the exact division of power and responsibility between federal and regional governments is often a source of controversy. Often, as is the case with the United States, such conflicts are resolved through the judicial system, which delimits the powers of federal and local governments. The relationship between federal and local courts varies from nation to nation and can be a controversial and complex issue in itself.
+Another common issue in federal systems is the conflict between regional and national interests, or between the interests and aspirations of different ethnic groups. In some federations the entire jurisdiction is relatively homogeneous and each constituent state resembles a miniature version of the whole; this is known as 'congruent federalism'. On the other hand, incongruent federalism exists where different states or regions possess distinct ethnic groups.
+The ability of a federal government to create national institutions that can mediate differences that arise because of linguistic, ethnic, religious, or other regional differences is an important challenge. The inability to meet this challenge may lead to the secession of parts of a federation or to civil war, as occurred in the United States (southern states interpreted slavery under the tenth amendment as a state right, while northern states were against slavery, with a catalysis occurring in the then–Bleeding Kansas), in Nigeria and in Switzerland. In the case of Malaysia, Singapore was expelled from the federation because of rising racial tension. In some cases, internal conflict may lead a federation to collapse entirely, as occurred the Federation of Rhodesia and Nyasaland, the Gran Colombia, the United Provinces of Central America, and the West Indies Federation.
+==Federal governments==
+The federal government is the common or national government of a federation. A federal government may have distinct powers at various levels authorized or delegated to it by its member states. The structure of federal governments vary. Based on a broad definition of a basic federalism, there are two or more levels of government that exist within an established territory and govern through common institutions with overlapping or shared powers as prescribed by a constitution.
+The federal government is the government at the level of the sovereign state. Usual responsibilities of this level of government are maintaining national security and exercising international diplomacy, including the right to sign binding treaties. Basically, a modern federal government, within the limits defined by its constitution, has the power to make laws for the whole country, unlike local governments. As originally written, the United States Constitution was created to limit the federal government from exerting power over the states by enumerating only specific powers. It was further limited by the addition of the Tenth Amendment contained in the Bill of Rights and the Eleventh Amendment. However, later amendments, particularly the Fourteenth Amendment, gave the federal government considerable authority over states.
+Federal government within this structure are the government ministries and departments and agencies to which the ministers of government are assigned.
+<ref name="Gttsdpc"></ref>
+=== Contemporary ===
+===Long form titles===
+* Federal republic: Germany, Somalia, Nigeria.
+* Federation: Russia, Saint Kitts and Nevis, Malaysia (informal)
+* Republic: Argentina, Austria, India, Iraq, Sudan, South Sudan.
+* Others:
+** Bolivarian Republic (Venezuela)
+** Confederation (Switzerland)
+** Commonwealth (Australia)
+** Dominion (Canada before 1982)
+** Federal Democratic Republic (Ethiopia, Nepal)
+** Federated States (Micronesia)
+** Federative Republic (Brazil)
+** Islamic Republic (Pakistan)
+** Kingdom (Belgium)
+** Union (Comoros)
+** United Emirates (United Arab Emirates)
+** United States (United States, Mexico)
+* None:
+** Bosnia and Herzegovina (since 1998)
+** Canada (since 1982)
+** Malaysia
+===Defunct===
+* Inca Empire (1197–1572)
+* United Kingdom of Portugal, Brazil and the Algarves (1815–1825)
+* Hispaniola (1822–1844)
+* Peru–Bolivian Confederation (1836–1839)
+* Confederate States of America (1861–1865)
+* Confederate Ireland (1642–1652)
+* Federal State of Austria (1934–1938)
+* Cameroon (1961–1972)
+* United Provinces of Central America (1823 – circa 1838)
+* United States of Colombia (1863–1886)
+* Czechoslovak Socialist Republic<ref>Became Czech and Slovak Federative Republic through a constitutional change in 1990.</ref> (1969–1992)
+* Republic of Kenya (1963–1964)
+* Federated Dutch Republic (1581–1795)
+* Federation of Ethiopia and Eritrea (1952–1962)
+* French Equatorial Africa (1910–1934)
+* French Indochina (1887–1954)
+* French West Africa (1904–1958)
+* Holy Roman Empire (800–1806)<ref>
+</ref>
+* North German Confederation (1867–1871)
+* German Empire (1871–1918)
+* Weimar Republic (1919–1933)
+* East Germany (1949–1952)
+* Confederation of Madja-as (1200–1569)
+* United States of Indonesia (1949–1950)
+* United Kingdom of Libya (1951–1963)
+* Federated Malay States (1896–1946)
+* Federation of Malaya (1948–1963)<ref>Gained independence in 1957, joined with Sabah, Sarawak, and Singapore to form Malaysia in 1963.</ref>
+* Malayan Union (1946–1948)
+* Mali Federation (1959–1960)
+* Mengjiang (1937–1945, since 1941 autonomous region of the Reorganized National Government of China)
+* Neogranadine Confederation (1858–1863)
+* Republic of China (1912–1928)
+* Polish–Lithuanian Commonwealth (1569–1795)
+* Federation of Rhodesia and Nyasaland (1953–1963)
+* Russian Soviet Federative Socialist Republic (1917–1991)
+* Soviet Union<ref>The constitution of the USSR defined it as a federation, but at least until its final years in the late eighties and early nineties of the 20th century, it had in practice a highly centralized governance. </ref> (1922–1991)
+* First Spanish Republic (1873–1874)
+* Syrian Federation (1922–1925)
+* Congo-Léopoldville (1960–1964)
+* South Africa (1961–1994)
+* Uganda (1962–1967)
+* United Republic of Tanzania (1964–1965)
+* West Indies Federation (1958–1962)
+* Socialist Federal Republic of Yugoslavia<ref>The Socialist Federal Republic of Yugoslavia was officially proclaimed in 1963. Prior to this, the communist Yugoslav state was named Democratic Federal Yugoslavia in 1943 and then Federal People's Republic of Yugoslavia in 1946. See: Socialist Federal Republic of Yugoslavia.</ref> (1943–1992)
+* Serbia and Montenegro (1992–2003)
+* Netherlands Antilles (1954–2010)
+Some of the proclaimed Arab federations were confederations de facto.
+==See also==
+*Anti-Federalism, an 18th-century movement in the United States
+*Capital city
+* Corporative federalism
+* Constitutional economics
+* Federacy
+* Federalism in Australia
+* Federalist
+* The Federalist Papers
+* Federation of Australia
+* Foederati
+* International organization
+* Międzymorze (Intermarum)
+* Multinational state
+* Neofunctionalism
+* New federalism
+* Rule according to higher law
+* Supranationalism
+* Supranational union
+* World Federalist Movement
+* Centre for Studies on Federalism
+==References==
+==External links==
+*
+
+A federation (also known as a federal state) is a political entity characterized by a union of partially Federated state under a central federal government (federalism). In a federation, the self-governing status of the component states, as well as the division of power between them and the central government, is typically constitutionally entrenched and may not be altered by a unilateral decision of either party, the states or the federal political body. Alternatively, a federation is a form of government in which sovereign power is formally divided between a central authority and a number of constituent regions so that each region retains some degree of control over its internal affairs.
+It is often argued that federal states where the central government has overriding powers, are not truly federal states. For example, such overriding powers may include: the constitutional authority to suspend a constituent state's government by invoking gross mismanagement or civil unrest, or to adopt national legislation that overrides or infringe on the constituent states' powers by invoking the central government's constitutional authority to ensure "peace and good government" or to implement obligations contracted under an international treaty.
+The governmental or constitutional structure found in a federation is considered to be federalist, or to be an example of federalism. It can be considered the opposite of another system, the unitary state. France, for example, has been unitary for multiple centuries. Austria and its Länder was a unitary state with administrative divisions that became federated through the implementation of the Austrian Constitution following the 1918 collapse of Austria-Hungary. Germany, with its 16 states of Germany, is an example of a federation. Federations are often ethnic group and cover a large area of territory (such as Russia, the United States, Canada, India, or Brazil), but neither is necessarily the case (such as Saint Kitts and Nevis or the Federated States of Micronesia).
+Several ancient chiefdoms and kingdoms, such as the 4th-century BCE League of Corinth, Noricum in Central Europe, and the Iroquois in pre-Columbian North America, could be described as federations or confederations. The Old Swiss Confederacy was an early example of formal non-unitary statehood.
+Several colonies and dominions in the New World consisted of autonomous provinces, transformed to federal states upon independence such as the United States, and various countries in Latin America (see Spanish American wars of independence). Some of the New World federations failed; the Federal Republic of Central America broke up into independent states less than 20 years after its founding. Others, such as Argentina and Mexico, have shifted between federal, confederal, and unitary systems, before settling into federalism. Brazil became a federation only after the fall of the monarchy, and Venezuela became a federation after the Federal War. Australia and Canada are also federations.
+Germany is another nation-state that has switched between confederal, federal and unitary rules, since the German Confederation was founded in 1815. The North German Confederation, the succeeding German Empire and the Weimar Republic were federations.
+Founded in 1922, the Soviet Union was formally a federation of Soviet republics, autonomous republics and other federal subjects, though in practice highly centralized under the government of the Soviet Union. The Russia has inherited a similar system.
+Nigeria, Pakistan, India and Malaysia (then Federation of Malaya) became federations on or shortly before becoming independent from the British Empire.
+In some recent cases, federations have been instituted as a measure to handle ethnic conflict within a state, such as Bosnia and Herzegovina, and Iraq since 2005.
+With the United States Constitution having become effective on 4 March 1789, the United States is the oldest surviving federation. On the other end of the timeline is Nepal, which became the newest federation after its constitution went into effect on 20 September 2015.

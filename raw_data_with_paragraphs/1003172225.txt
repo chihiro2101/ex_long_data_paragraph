@@ -1,0 +1,131 @@
+Fynbos
+
+==Overview and history==
+The word fynbos is often confusingly said to mean "fine bush" in Afrikaans, as "bos" means "bush". Typical fynbos foliage is ericoid rather than fine. The term, in its pre-Afrikaans, Dutch form, fynbosch, was recorded by Noble as being in casual use in the late 19th century.<ref name= JNoble></ref> In the early 20th century, John Bews referred to: "South-Western or Cape Region of Macchia or Fynbosch". He said: "In this well-known region where the rain occurs in winter and the summers are more or less dry, the dominant vegetation is of a sclerophyllous type and there is little or no natural grassland, though there are many kinds of grass."<ref name= JBews></ref> He also refers to a high degree of endemism in the grasses in that region. Elsewhere he speaks of the term as ".applied by the inhabitants of the Cape to any sort of small woodland growth that does not include timber trees"; in the current vernacular, this still is the effective sense of the word.<ref name=JManning/> However, in the technical, ecological sense, the constraints are more demanding. In the latter half of the 20th century, "fynbos" gained currency as the term for the "distinctive vegetation of the southwestern Cape".<ref name=JManning/>
+==Cape Floral Kingdom==
+Fynbos – which grows in a 100-to-200-km-wide coastal belt stretching from Clanwilliam on the West coast to Port Elizabeth on the Southeast coast – forms part of the Cape floral kingdom, where it accounts for half of the surface area and 80% of the plant species. The fynbos in the western regions is richer and more varied than in the eastern regions of South Africa.
+Of the world's six floral kingdoms, this is the smallest and richest per unit of area. The Holarctic kingdom, in contrast, incorporates the whole of the Northern Hemisphere north of the tropics. The diversity of fynbos plants is extremely high, with over 9,000 species of plants occurring in the area, around 6,200 of which are endemic, i.e. growing nowhere else in the world. South Africa's Western Cape has the vast majority of species with one estimate finding 8,550 species in 89,000&nbsp;km<sup>2</sup>, which is higher than that estimated for the Malayan forests, 7,900 species in 132,000&nbsp;km<sup>2</sup>.<ref></ref> It has been claimed that it exceeds even the richest tropical rainforest in South America, including the Amazon.<ref name="panda.org"/> Of the Ericas, over 600 occur in the fynbos kingdom, while only two or three dozen have been described in the rest of the world. This is in an area of 46,000&nbsp;km<sup>2</sup> – by comparison, the Netherlands, with an area of 33,000&nbsp;km<sup>2</sup>, has 1,400 species, none of them endemic. Table Mountain in Cape Town supports 2,200 species, more than the entire United Kingdom. Thus, although the fynbos covers only 6% of the area of southern Africa, it has half the species on the subcontinent – and in fact has almost 1 in 5 of all African plant species so far described.
+Five main river systems traverse the Cape floral kingdom: the Olifants River (Western Cape); the Berg River which drains the West Coast Forelands plain stretching from the Cape Flats to the Olifants; the Breede, which is the largest river on the Cape; the Olifants River (Southern Cape); Gourits and the Groot Rivers which drain the Little Karoo basin and the South Coast Forelands; and the Baviaanskloof and Gamtoos Rivers to the east.
+==Flora==
+The most conspicuous components of the flora are evergreen sclerophyllous plants, many with ericoid leaves and gracile habit, as opposed to timber forest. Several plant families are conspicuous in fynbos; the Proteaceae are prominent, with genera such as Protea, Leucospermum (the "pincushions"), and Leucadendron (the silver tree and "cone bushes"). Proteas are represented by many species and are prominent in the landscape, generally with large striking flowers, many of which are pollinated by birds, and others by small mammals. Most of these do not have anything like ericoid leaves, and nor do most Rhamnaceae, Fabaceae, or Geraniaceae. Fynbos Ericaceae include more species of Erica than all other regions combined. They are popularly called heaths and are generally smaller plants bearing many small, tubular or globular flowers and ericoid leaves. Restionaceae also occur in greater variety in fynbos than anywhere else; their species are superficially grass-like. Many of them grow in wet areas such as seasonal marshes and spongy basins in the sources of mountain streams, but others grow in decidedly arid conditions.
+Depending on the locality and the aspects under discussion, several other families have equal claim to being characteristic, including Asteraceae, Rutaceae, and Iridaceae.<ref name=JManning/> More than 1400 bulb species occur among the fynbos, of which 96 are Gladiolus and 54 Lachenalia. Areas that are dominated by "renosterbos", Elytropappus rhinocerotis, (Asteraceae) are known as Renosterveld (Afrikaans for "rhinoceros veld").<ref name=JManning/>
+===Vegetation types===
+Fynbos vegetation types, code FF:<ref name="Vegmap 2012" ></ref>
+* Agulhas Limestone Fynbos (FFl 1) 
+* Agulhas Sand Fynbos (FFd 7) 
+* Albertinia Sand Fynbos (FFd 9) 
+* Algoa Sandstone Fynbos (FFs 29)
+* Atlantis Sand Fynbos (FFd 4) 
+* Bokkeveld Sandstone Fynbos (FFs 1) 
+* Boland Granite Fynbos (FFg 2) 
+* Breede Alluvium Fynbos (FFa 2) 
+* Breede Quartzite Fynbos (FFq 4) 
+* Breede Sand Fynbos (FFd 8) 
+* Breede Shale Fynbos (FFh 4) 
+* Canca Limestone Fynbos (FFl 3) 
+* Cape Flats Sand Fynbos (FFd 5) 
+* Cape Winelands Shale Fynbos (FFh 5) 
+* Cederberg Sandstone Fynbos (FFs 4) 
+* Central Coastal Shale Band Vegetation (FFb 4) 
+* Central Inland Shale Band Vegetation (FFb 3) 
+* De Hoop Limestone Fynbos (FFl 2) 
+* Eastern Coastal Shale Band Vegetation (FFb 6) 
+* Eastern Inland Shale Band Vegetation (FFb 5) 
+* Elgin Shale Fynbos (FFh 6) 
+* Elim Ferricrete Fynbos (FFf 1) 
+* Garden Route Granite Fynbos (FFg 5) 
+* Garden Route Shale Fynbos (FFh 9) 
+* Graafwater Sandstone Fynbos (FFs 2) 
+* Greyton Shale Fynbos (FFh 7) 
+* Grootrivier Quartzite Fynbos (FFq 5) 
+* Hangklip Sand Fynbos (FFd 6) 
+* Hawequas Sandstone Fynbos (FFs 10) 
+* Hopefield Sand Fynbos (FFd 3) 
+* Kamiesberg Granite Fynbos (FFg 1) 
+* Kango Conglomerate Fynbos (FFt 1) 
+* Knysna Sand Fynbos (FFd 10) 
+* Kogelberg Sandstone Fynbos (FFs 11) 
+* Kouebokkeveld Alluvium Fynbos (FFa 1) 
+* Kouebokkeveld Shale Fynbos (FFh 1) 
+* Kouga Grassy Sandstone Fynbos (FFs 28) 
+* Kouga Sandstone Fynbos (FFs 27) 
+* Leipoldtville Sand Fynbos (FFd 2) 
+* Loerie Conglomerate Fynbos (FFt 2) 
+* Lourensford Alluvium Fynbos (FFa 4) 
+* Matjiesfontein Quartzite Fynbos (FFq 3) 
+* Matjiesfontein Shale Fynbos (FFh 2) 
+* Montagu Shale Fynbos (FFh 8) 
+* Namaqualand Sand Fynbos (FFd 1) 
+* North Hex Sandstone Fynbos (FFs 7) 
+* North Kammanassie Sandstone Fynbos (FFs 25) 
+* North Langeberg Sandstone Fynbos (FFs 15) 
+* North Outeniqua Sandstone Fynbos (FFs 18) 
+* North Rooiberg Sandstone Fynbos (FFs 21) 
+* North Sonderend Sandstone Fynbos (FFs 13)? 
+* North Swartberg Sandstone Fynbos (FFs 23) 
+* Northern Inland Shale Band Vegetation (FFb 1) 
+* Olifants Sandstone Fynbos (FFs 3) 
+* Overberg Sandstone Fynbos (FFs 12) 
+* Peninsula Granite Fynbos (FFg 3) 
+* Peninsula Sandstone Fynbos (FFs 9) 
+* Piketberg Sandstone Fynbos (FFs 6) 
+* Potberg Ferricrete Fynbos (FFf 2) 
+* Potberg Sandstone Fynbos (FFs 17) 
+* Robertson Granite Fynbos (FFg 4) 
+* South Hex Sandstone Fynbos (FFs 8) 
+* South Kammanassie Sandstone Fynbos (FFs 26) 
+* South Langeberg Sandstone Fynbos (FFs 16) 
+* South Outeniqua Sandstone Fynbos (FFs 19) 
+* South Rooiberg Sandstone Fynbos (FFs 22) 
+* South Sonderend Sandstone Fynbos (FFs 14) 
+* South Swartberg Sandstone Fynbos (FFs 24) 
+* Southern Cape Dune Fynbos (FFd 11) 
+* Stinkfonteinberge Quartzite Fynbos (FFq 1) 
+* Suurberg Quartzite Fynbos (FFq 6) 
+* Suurberg Shale Fynbos (FFh 10) 
+* Swartberg Altimontane Sandstone Fynbos (FFs 31) 
+* Swartberg Shale Fynbos (FFh 3) 
+* Swartland Alluvium Fynbos (FFa 3) 
+* Swartruggens Quartzite Fynbos (FFq 2) 
+* Swellendam Silcrete Fynbos (FFc 1) 
+* Tsitsikamma Sandstone Fynbos (FFs 20) 
+* Western Altimontane Sandstone Fynbos (FFs 30) 
+* Western Coastal Shale Band Vegetation (FFb 2) 
+* Winterhoek Sandstone Fynbos (FFs 5)
+==Fauna==
+The fynbos is home to many unique and endemic animals, with 7 species of endemic bird and an unknown number of endemic reptiles, amphibians, and arthropods. The 7 avian endemics include the Cape rockjumper, Cape sugarbird, Victorin's warbler, Orange-breasted sunbird, Protea canary, Cape siskin, and Fynbos buttonquail.
+==Ecoregions==
+The fynbos area has been divided into two very similar ecoregions: the lowland fynbos (below 300 m above sea level) on the sandy soil of the west coast, and the montane fynbos of the Cape Fold Belt.
+The Lowland Fynbos and Renosterveld experiences regular winter rainfall, especially to the west of Cape Agulhas. The ecoregion has been subdivided into 9 areas: the West Coast Forelands from the Cape Flats to the Olifants River (Western Cape); the Warm Bokkeveld basin around the town of Ceres; the Elgin Valley around the town of Elgin; the sandy Agulhas Plain on the coast; the Breede River valley around the town of Worcester; the South Coast Forelands from Caledon west to Mossel Bay; the south-eastern end of the Little Karoo; Langkloof valley; and the Southeastern Coast Forelands west from Tsitsikamma to Port Elizabeth.
+The flora of the lowlands contains a high number of endemic species, and tends to favour larger plants than those growing on the hillier areas. They include the larger Restionaceae such as species of Elegia, Thamnochortus, and Willdenowia and proteas such as king protea (Protea cynaroides) and blushing bride (Serruria florida). Particular types of lowland fynbos include the shrubs and herbs of the coastal sand dunes, the mixture of ericoids and restoids with thickets of shrubs such as Maytenus, and other Celastraceae, sideroxylons and other Sapotaceae, and Rhus and other Anacardiaceae on the coastal sands; the classic fynbos of the sandplains of the West Coast Forelands, and the Agulhas Plain; the grassy fynbos of the hillier and wetter areas of the South and South-Eastern Coast Forelands; areas where fynbos and renosterveld are mixed; coastal renosterveld on the West and South Coast Forelands; and the inland renosterveld of the drier inland Little Karoo and Warm Bokkeveld.<ref></ref>
+The area is also home to a large number of endemic creatures that have adapted to life in this area, such as the monkey beetles which pollinate Ixia viridiflora. Endemic species of fish in the five river systems occur in the area, too. Endemic reptiles and amphibians include a number of tortoises and the chameleon-like arum frog (Hyperolius horstockii).
+The Montane Fynbos and Renosterveld is the area above 300&nbsp;m, a total of 45,000&nbsp;km<sup>2</sup> of the Cape Fold Mountains. The same level of floral variety, including all three characteristic fynbos families, is found there, but ericas predominate. Because the higher and wetter areas are more protected and contain important water sources, the original flora is more intact than in the lowlands; but agriculture and global warming are still threats. The region includes the mountains in the west from the Cape Peninsula to the Kouebokkeveld Mountains, the south coast hinterland from Elgin to Port Elizabeth, the mountains north of the Little Karoo from Laingsburg to Willowmore, and the inselberg hills within the Little Karoo. About half of these areas are originally fynbos, and about half are renosterveld.
+Many different microclimates occur, so the flora changes from west to east, and also varies with altitude up the hillsides away from the coast and according to compass direction. Lower elevations are covered with protea fynbos, with ericas taking over further up. Plant species include pincushions (Leucospermum). The wildlife includes a number of endemic bees, beetles, horseflies, and ants, and birds such as Cape sugarbirds and the orange-breasted sunbird. Many of these birds and insects are important and specific pollinators for the fynbos, such as the mountain pride butterfly (Aeropetes tulbaghia) which only visits red flowers such as Disa uniflora and pollinates 15 different species. Larger animals include antelopes, particularly Cape grysbok (Raphicerus melanotis), common duiker (Sylvicapra grimmia), and klipspringer (Oreotragus oreotragus). The extinct Bluebuck and quagga were also fynbos natives.
+==Economic uses==
+Rooibos (Aspalathus linearis) and honeybush (Cyclopia intermedia) are of economic importance, grown and harvested in large quantities in the Cederberg area, and providing important exports. Restios continue to be used for thatching, as they have for hundreds or even thousands of years. Proteas and other floral species are grown in many areas and their flowers harvested for export.
+In many areas with Mediterranean climates, fynbos species have become popular garden plants, in particular aloes and geraniums, and in cooler regions are used as window plants.
+A very large number of fynbos plant species are used in traditional medicine, and while only a tiny proportion have as yet been subjected to formal testing, many have already been identified as having medicinal properties.<ref></ref><ref></ref><ref></ref>
+==Threats and conservation==
+The fynbos is the region of South Africa most affected by Invasive species which collectively cover around 10% of the entire country.<ref name=":0"></ref><ref name=":1"></ref> The most common invasive plants are wattles and hakeas, native to Australia, and pines native to Europe and the Californian coast of the United States.<ref name=":0" /><ref name=":2"></ref> Pines had been introduced to South Africa by the 19th century and the wattles were imported into the mid-1870s to stabilize sand dunes.<ref name=":2" /> In 1997 it was estimated that invasion caused the fynbos region to decline in value by US$750 million per year.<ref name=":0" />
+The Working for Water (WfW) program was started in 1995 by the Department of Water Affairs and Forestry to control these invasive species which were shown to sequester 9.95% of usable surface water runoff.<ref name=":0" /><ref name=":2" /> Since then, over 100,000 hectares of land have been cleared of invasive species while providing jobs to around 20,000 people per year, most of which are women and unskilled workers.<ref name=":1" /> Systematic monitoring of WfW's progress is lacking but there is anecdotal evidence that endemic silver peas have returned to Table Mountain after being thought extinct.<ref name=":2" />
+<gallery widths="154px" heights="200px" class="center" caption="Research and conservation">
+File:Kogelberg Biosphere Reserve - city of Cape Town.JPG|Researchers in a relatively remote stretch of Kogelberg Sandstone Fynbos
+File:Harmony Flats Nature Reserve - city of Cape Town.jpg|Community conservation group for the critically endangered remnant of Lourensford Alluvium Fynbos at Harmony Flats, Cape Town.
+</gallery>
+==See also==
+* 
+* 
+==References==
+==External links==
+* urltoken Fynbos Paradise of South Africa 
+* urltoken Images of Fynbos
+* urltoken Western Cape School Network on fynbos
+* urltoken "Protea Atlas Project" with excellent information and images.
+* urltoken Fauna & Flora International's work on fynbos
+* urltoken Fynbos Photography (organized taxonomically)
+* urltoken Conservation and Land Restoration Project at TerraPi,SA
+* 
+* urltoken Data on invasive species in South Africa
+* urltoken WfW Program official page
+
+Fynbos ; meaning fine-leaved plants) is a small belt of natural shrubland or heathland vegetation located in the Western Cape and Eastern Cape provinces of South Africa. This area is predominantly coastal and mountainous, with a Mediterranean climate and rainy winters. The fynbos ecoregion is within the Mediterranean forests, woodlands, and scrub biome. In fields related to biogeography, fynbos is known for its exceptional degree of biodiversity<ref name=JManning></ref> and endemism,<ref></ref> consisting about 80% (8,500 fynbos) species of the Cape floral kingdom where nearly 6,000 of them are endemic.<ref name="panda.org"></ref> This land continues to face severe human-caused threats, but due to the many economic uses of the fynbos, conservation efforts are being made to help restore it.

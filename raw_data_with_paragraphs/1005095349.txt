@@ -1,0 +1,141 @@
+List of Roman legions
+
+==Late Republican legions==
+Until the Marian reforms of 107&nbsp;BC, the Republican legions were formed by compulsory levy of Roman citizens (who met a minimum property qualification) and raised whenever it was necessary. Usually they were authorized by the Roman Senate, and were later disbanded.
+Gaius Marius' reforms transformed legions into standing units, which could remain in being for several years, or even decades. This became necessary to garrison the Republic's now far-flung territories. Legionaries started large-scale recruiting of volunteer soldiers enlisted for a minimum term of six years and a fixed salary, although conscription was still practiced. The property requirements were abolished by Marius, so that the bulk of recruits were henceforth from the landless citizens, who would be most attracted to the paid employment and land offered after their service.
+In the last century of the Republic, proconsuls governing frontier provinces became increasingly powerful. Their command of standing legions in distant and arduous military campaigns resulted in the allegiance of those units transferring from the Roman state to themselves. These imperatores (lit: victorious generals, from the title imperator they were hailed with by their troops) frequently fell out with each other and started civil wars to seize control of the state, such as Sulla, Caesar, Pompey, Crassus, Mark Antony and Octavian (later Augustus, the first Emperor himself). In this context, the imperatores raised many legions that were not authorised by the Senate, sometimes having to use their own resources. As civil wars were resolved, many of these "private" units would be disbanded, only for more to be raised to fight the next civil war. By the time Augustus emerged as sole ruler of Rome in 31&nbsp;BC, over 50 legions were in existence, many of which were disbanded.
+The legions included in the following list had a long enough history to be somehow remarkable. Most of them were levied by Julius Caesar and later included into Augustus's army, some of them were levied by Marc Antony.
+* Legio I Germanica (Germanic): 48&nbsp;BC – AD&nbsp;70 (Revolt of the Batavi), Julius Caesar
+* Legio II Sabina (Sabine): 43&nbsp;BC – , early name of the Legio II Augusta
+* Legio III Cyrenaica (from Cyrene): probably to (at least) the 5th century, Mark Antony
+* Legio III Gallica (Gallic): around 49&nbsp;BC to at least early 4th century, Julius Caesar (emblem: bull)
+* Legio IV Macedonica (Macedonian): 48&nbsp;BC – AD&nbsp;70 (renamed by Vespasian), Julius Caesar (emblem: bull, capricorn)
+* Legio IV Scythica (from Scythia): to at least early 5th century, Mark Antony (emblem: capricorn)
+* Legio V Alaudae (Larks): 52&nbsp;BC – AD&nbsp;70 or 86 (destroyed either during the Batavian rebellion or by the Dacians in first Battle of Tapae), Julius Caesar (emblem: elephant)
+* Legio VI Ferrata (Ironclad): 52&nbsp;BC – after 250, Julius Caesar (emblem: bull, Lupercal and Romulus and Remus); twin legion of Legio VI Victrix
+* Legio VI Victrix (Victorious): 41&nbsp;BC – after 402, Augustus (emblem: bull)
+* Legio VII Claudia (loyal and faithful to Claudius): 51&nbsp;BC – 44&nbsp;BC, Julius Caesar; disbanded and re-formed by Vespasian as Legio VII Gemina
+* Legio VIII Augusta: 59&nbsp;BC – 48&nbsp;BC, Julius Caesar, disbanded and re-enlisted by Augustus as Legio VIII Augusta
+* Legio IX Hispana Triumphalis (Triumphant): 59&nbsp;BC – 48&nbsp;BC, Julius Caesar, disbanded and re-enlisted by Augustus as Legio IX Hispana
+* Legio X Fretensis (of the sea strait): levied by Augustus in 41–40&nbsp;BC
+* Legio X Equestris (Equestrian): before 58&nbsp;BC – 45&nbsp;BC, Julius Caesar's personal legion
+* Legio XI Claudia: 58&nbsp;BC – 45&nbsp;BC, Julius Caesar (emblem: Neptune), disbanded, reconstituted by Augustus
+* XII Fulminata (Victorious): 57&nbsp;BC – AD&nbsp;45, Julius Caesar
+* Legio XII Fulminata (Thunderbolt): after being renamed by Augustus, first reconstituted by Lepidus in 43&nbsp;BC, named by Mark Antony as Legio XII Antiqua (Ancient)
+* Legio XIII Gemina (Twin): 57&nbsp;BC – 45&nbsp;BC: Julius Caesar, later (41&nbsp;BC) reconstituted by Augustus
+* Legio XIV Gemina (Twin): 57&nbsp;BC – 48&nbsp;BC: Julius Caesar, destroyed and reconstituted in 53&nbsp;BC. Reconstituted by Augustus after 41&nbsp;BC
+* Legio XVII (Of the Fleet): raised by Mark Antony, disbanded in 31&nbsp;BC by Octavian following his victory at the Battle of Actium.
+* Legio XVIII (from Libya): raised by Mark Antony, disbanded in 31&nbsp;BC by Octavian following his victory at the Battle of Actium.
+* Legio XIX: raised by Mark Antony, disbanded in 31&nbsp;BC by Octavian following his victory at the Battle of Actium.
+* Legio XX Siciliana: raised by Augustus for the purpose of launching an invasion of Sicily in 36 BC, which at the time was held by Sextus Pompeius.
+* Legio XXX Classica (Naval): 48&nbsp;BC – 41&nbsp;BC, Julius Caesar
+==Early Empire legions==
+Image:Roman Empire 125.png|thumb|right|400px|The Roman empire and legions deployed in AD&nbsp;125, in the time of emperor Hadrian.
+Codes for Roman provinces in the table:
+:
+===Legend===
+====Legion number and title (cognomen)====
+The numbering of the legions is confusing, since several legions shared the same number with others. Augustus numbered the legions he founded himself from I, but also inherited numbers from his predecessors. Each emperor normally numbered the legions he raised himself starting from I. However, even this practice was not consistently followed. For example, Vespasian kept the same numbers as before for legions he raised from disbanded units. Trajan's first legion was numbered XXX because there were 29 other legions in existence at the time it was raised; but the second Trajanic legion was given the sequential number II. XVII, XVIII and XIX, the numbers of the legions annihilated in the Teutoburg Forest, were never used again. (These three legions are without titles, suggesting that in disgrace their titles may have been deliberately forgotten or left unmentioned.) As a result of this somewhat chaotic evolution, the legion's title became necessary to distinguish between legions with the same number.
+Legions often carried several titles, awarded after successive campaigns, normally by the ruling emperor e.g. XII Fulminata was also awarded: paterna (fatherly), victrix (victorious), antiqua (venerable), certa constans (reliable, steadfast) and Galliena (Gallienus '). Pia fidelis (loyal and faithful), fidelis constans and others were titles awarded to several legions, sometimes several times to the same legion. Only the most established, commonly used titles are displayed on this table.
+The geographical titles indicate
+* the country a legion was originally recruited e.g. Italica = from Italy or
+* peoples the legion has vanquished e.g.Parthica = victorious over the Parthians
+Legions bearing the personal name of an emperor, or of his gens (clan) (e.g. Augusta, Flavia) were either founded by that Emperor or awarded the name as a mark of special favour.
+The title GEMINA means that two diminished legions have been combined to make one new one.
+====Main legionary base====
+This shows the castra (base) where the legion spent the longest period during the Principate. Legions often shared the same base with other legions. Detachments of legions were often seconded for lengthy periods to other bases and provinces, as operational needs demanded.
+====Emblem====
+Legions often sported more than one emblem at the same time, and occasionally changed them. Legions raised by Caesar mostly carried a bull emblem originally; those of Augustus mostly a Capricorn
+====Date disbanded====
+For legions that are documented into the 4th century and beyond, we do not know when or how they were terminated. For legions disappearing from the record before 284, the reason (certain or likely) is given as:
+*XX = annihilated in battle
+*DD = disbanded in disgrace
+*UF = unknown fate
+====Castra legionaria====
+Indicates the bases (castra) and/or provinces where the legion was based during its history, with dates.
+====Notes====
+Contains points of note, including explanation of titles and details of a legion's fate.
+Province names and borders are assumed throughout the Principate period as at 107, during the rule of Trajan, and after the annexation of Dacia and Arabia Petraea. The map above shows provinces at the end of Trajan's reign, 117. They are the same as in 107, except that Armenia and Mesopotamia have been annexed (they were abandoned soon after Trajan's death); and Pannonia has been split into two (the split occurred . In reality provincial borders were modified several times between 30&nbsp;BC and 284: this explains any discrepancy with other sources, as to a legion's location at a particular date.
+== Late Empire legions ==
+Image:Scutum Iovianorum seniorum.svg|thumb|Shield pattern of the palatina legion of the Jovians, according to the Notitia Dignitatum.
+Diocletian reorganized the Roman army, in order to better counter the threat of the Germanic peoples of northern Europe as well as that of the Persians from the East. The army was formed by border and field units.
+The border (limitanei) units were to occupy the limes, the structured border fortifications, and were formed by professional soldiers with an inferior training.
+The field units were to stay well behind the border, and to move quickly where they were needed, with both offensive and defensive roles. Field units were formed by elite soldiers with high-level training and weapons. They were further divided into:
+# Scholae: the personal guard of the Emperor, created by Constantine I to replace the Praetorian Guard;
+# Palatinae: "palace troops" were the highest ranked units, created by Constantine I after he disbanded the Praetorian Guard, it was comprised originally of former guardsmen;
+# comitatensis: regular field units, some were newly-formed, others were descended from Early-Empire legions;
+# pseudocomitatensis: these were limitanei units diverted into the field army and often kept there; some Early Empire legions became pseudocomitatenses units.
+These units usually numbered between 300 and 2,000 soldiers and some of them kept their original numbering schemes. The primary source for the legions of this era is the Notitia Dignitatum, a late 4th-century document containing all the civil and military offices of both halves of the Roman Empire (revised in for the Western Empire).
+* Legio I
+**I Armeniaca
+** I Flavia Constantia (reliable Flavian): comitatensis unit under the command of the Magister militum per Orientis
+** I Flavia Gallicana Constantia (reliable Flavian legion from Gallia): pseudocomitatensis under the command of the Magister Peditum per Gallias. The legion was founded by Constantius Chlorus. The legions objective was to protect the Armorica coast and fight the Roman-British usurper, Allectus.<ref></ref><ref name=":4"></ref><ref name=":3"></ref>
+** I Flavia Martis (Flavian legion devoted to Mars): pseudocomitatensis. The legion was founded by Constantius Chlorus to fight Allectus.<ref name=":3" /><ref name=":0"></ref> It was stationed in Gaul.<ref name=":0" />
+** I Flavia Pacis (Flavian legion of peace): comitatensis under the command of the Magister Peditum
+** I Flavia Theodosiana: comitatensis.
+** I Illyricorum (of the Illyrians): stationed at the Camp of Diocletian in Palmyra
+** I Iovia (devoted to Jupiter): levied by Diocletian, stationed in Scythia Minor
+** I Isaura Sagittaria (archers from Isauria): pseudocomitatensis under the command of the Magister militum per Orientis
+** I Iulia Alpina: pseudocomitatensis under the command of the Magister Peditum in Italy. It is unknown who founded the legion although it was probably Crispus or Constans.<ref></ref>
+** I Martia possibly based near modern Kaiseraugst. The Legion could have had the surname Victrix.<ref name=":1"></ref> The legion was probably founded by Diocletian. It also may have built forts in Valeria.<ref name=":1" />
+** Legio I Maximiana (the Thebans of Maximianus): comitatensis unit stationed near Thebes, Egypt, and probably fighting in the battle of Adrianople
+** I Noricorum (of the Noricans): stationed in Noricum. The legion was probably founded by Diocletian to help defend the Danube.
+** I Pontica: the legion was founded by Dioceltian to help defend Pontus Polemoniacus.<ref name=":2"></ref> The legion was stationed in Trabzon.<ref name=":2" />
+* Legio II
+**II Armeniaca
+** II Britannica: comitatensis under Magister Peditum
+** II Flavia Constantia: comitatensis under the command of the Magister Peditum
+** II Flavia Virtutis: comitatensis under the command of the Magister Peditum
+** II Herculia (devoted to Hercules): levied by Diocletian, stationed in Scythia Minor
+** II Isaura
+** II Iulia Alpina: pseudocomitatensis under the command of the Magister Peditum, in Comes Illyricum command. It was probably founded by Crispus or Constans. Its objective was to defend Alpes Cottiae
+** II Felix Valentis Thebaeorum: comitatensis
+* Legio III
+** III Diocletiana
+** III Flavia Salutis The Legio III Flacia Salutis was a Comitatenses legion of the Late Roman Empire. The legion was raised by either Constantius II or Diocletian. The legion was used to guard North Africa. The Legio III Flavia Salutis was under the command of the Magister militum in the west.<ref name=":4" /><ref></ref><ref></ref>
+**III Herculea: comitatensis under the command of the Comes Illyricum
+** III Isaura
+** III Iulia Alpina: comitatensis under the command of the Magister Peditum command in Italy
+* Legio IV
+** IV Italica
+** IV Martia
+** IV Parthica
+* Legio V
+** V Iovia (maybe the Jovians)
+** V Parthica
+* Legio VI
+** VI Gemella
+** VI Gallicana
+** VI Herculia (maybe the Herculians)
+** VI Hispana
+** VI Parthica
+* Legio XII
+** XII Victrix
+==See also==
+*List of Roman auxiliary regiments
+*Roman army
+*Auxilia
+*Roman legion
+*Structural history of the Roman military
+==Notes==
+==References==
+===Primary sources===
+* Notitia Dignitatum reports the military units and their locations at the beginning of the 5th century.
+===Secondary sources===
+* Oxford Classical Dictionary
+* Keppie, Lawrence. The Making of the Roman Army, 1984 pp.&nbsp;205–215
+*Stephen Dando-Collins "Legions Of Rome"
+==External links==
+* urltoken Legio X – Legio X Gemina (Equites) – "Viri Clarissimi"
+* urltoken Livius.org: List of Roman legions
+* urltoken A catalogue of Roman legions
+* urltoken Legio V Living History Group in Tennessee
+* urltoken Roman legions from Dacia (KML file)
+
+, Sestertius with countermark "X" of Legio X Gemina.
+<br />Obv: Laureate bust right.
+<br />Rev: Nero riding horse right, holding spear, DECVRSIO in exergue; S C across fields.
+This is a list of Roman legions, including key facts about each legion, primarily focusing on the Principate (early Empire, 27 BC – 284 AD) legions, for which there exists substantial literary, epigraphic and archaeological evidence.
+When Augustus became sole ruler in 31&nbsp;BC, he disbanded about half of the over 50 legions then in existence. The remaining 28 legions became the core of the early Imperial army of the Principate (27&nbsp;BC – AD&nbsp;284), most lasting over three centuries. Augustus and his immediate successors transformed legions into permanent units, staffed by entirely career soldiers on standard 25-year terms.
+During the Dominate period (near the end of the Empire, 284–476), legions were also professional, but are little understood due to scarcity of evidence compared to the Principate. What is clear is that late legions were radically different in size, structure, and tactical role from their predecessors, despite several retaining early period names. This was the result of the military reforms of Emperors Diocletian and Constantine I, and of further developments during the 4th century.
+The legions were identified by Roman numerals, though the spelling sometimes differed from the modern "standard". For example, in addition to the spellings "IV", "IX", "XIV", "XVIII" and "XIX", the respective spellings "IIII", "VIIII", "XIIII", "XIIX" and "XVIIII" were commonly used.<ref></ref>

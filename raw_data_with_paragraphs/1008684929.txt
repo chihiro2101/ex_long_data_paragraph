@@ -1,0 +1,106 @@
+Automaton
+
+==Etymology==
+The word "automaton" is the latinization of the Greek , automaton, (neuter) "acting of one's own will". This word was first used by Homer to describe automatic door opening,<ref>Homer, Iliad, 5.749</ref> or automatic movement of wheeled tripods.<ref>Homer, Iliad, 18.376</ref> It is more often used to describe non-electronic moving machines, especially those that have been made to resemble human or animal actions, such as the jacks on old public striking clocks, or the cuckoo and any other animated figures on a cuckoo clock.
+==History==
+===Ancient===
+There are many examples of automata in Greek mythology: Hephaestus created automata for his workshop;<ref>
+Him she found sweating with toil as he moved to and fro about his bellows in eager haste; for he was fashioning tripods, twenty in all, to stand around the wall of his well-builded hall, and golden wheels had he set beneath the base of each that of themselves they might enter the gathering of the gods at his wish and again return to his house, a wonder to behold. 
+Homer, Iliad urltoken 18. 371</ref> Talos was an artificial man of bronze; Daedalus used quicksilver to install voice in his moving statues; King Alkinous of the Phaiakians employed gold and silver watchdogs.<ref>The automatones of Greek Mythology urltoken online at the Theoi Project.</ref><ref>Hyginus. Astronomica 2.1</ref>
+The automata in the Hellenistic world were intended as tools, toys, religious spectacles, or Prototype for demonstrating basic scientific principles. Numerous water-powered automata were built by Ktesibios, a Greek inventor and the first head of the Great Library of Alexandria, for example he "used water to sound a whistle and make a model owl move. He had invented the world's first ‘cuckoo clock’". This tradition continued in Alexandria with inventors such as the Greek mathematician Hero of Alexandria (sometimes known as Heron), whose writings on hydraulics, pneumatics, and mechanics described siphons, a fire engine, a water organ, the aeolipile, and a programmable cart.<ref></ref><ref></ref>
+Complex mechanical devices are known to have existed in Hellenistic Greece, though the only surviving example is the Antikythera mechanism, the earliest known analog computer.<ref></ref> The clockwork is thought to have come originally from Rhodes, where there was apparently a tradition of mechanical engineering; the island was renowned for its automata; to quote Pindar's seventh Olympic Ode:
+:The animated figures stand
+:Adorning every public street
+:And seem to breathe in stone, or
+:move their marble feet.
+However, the information gleaned from recent scans of the fragments indicate that it may have come from the colonies of Corinth in Sicily and implies a connection with Archimedes.
+According to Jewish legend, Solomon used his wisdom to design a throne with mechanical animals which hailed him as king when he ascended it; upon sitting down an eagle would place a crown upon his head, and a dove would bring him a Torah scroll. It is also said that when King Solomon stepped upon the throne, a mechanism was set in motion. As soon as he stepped upon the first step, a golden ox and a golden lion each stretched out one foot to support him and help him rise to the next step. On each side, the animals helped the King up until he was comfortably seated upon the throne.<ref></ref>
+In ancient China, a curious account of automata is found in the Lie Zi text, believed to have originated around 400 BCE and compiled around the fourth century CE. Within it there is a description of a much earlier encounter between King Mu of Zhou (1023-957 BCE) and a mechanical engineer known as Yan Shi, an 'artificer'. The latter proudly presented the king with a very realistic and detailed life-size, human-shaped figure of his mechanical handiwork:
+Other notable examples of automata include Archytas' dove, mentioned by Aulus Gellius.<ref>Noct. Att. L. 10</ref> Similar Chinese accounts of flying automata are written of the 5th century BC Mohism philosopher Mozi and his contemporary Lu Ban, who made artificial wooden birds (ma yuan) that could successfully fly according to the Han Fei Zi and other texts.<ref name="needham volume 2 54">Needham, Volume 2, 54.</ref>
+===Medieval===
+The manufacturing tradition of automata continued in the Greek world well into the Middle Ages. On his visit to Constantinople in 949 ambassador Liutprand of Cremona described automata in the emperor Theophilos' palace, including 
+ which includes a puppet of a camelid driven by a clothed primate twice the height of a human being and an automaton of Mary Magdalene.<ref></ref> He also created mechanical devils and rocket-propelled animal automata.
+While functional, early clocks were also often designed as novelties and spectacles which integrated features of automata. Many big and complex clocks with automated figures were built as public spectacles in European town centres. One of the earliest of these large clocks was the Strasbourg Clock, built in the fourteenth century which takes up the entire side of a cathedral wall. It contained an astronomical calendar, automata depicting animals, saints and the life of Christ. The clock still functions to this day but has undergone several restorations since its initial construction. The Prague astronomical clock was built in 1410, animated figures were added from the 17th century onwards.<ref name="realhistory"></ref> Numerous clockwork automata were manufactured in the 16th century, principally by the goldsmiths of the Free imperial city of central Europe. These wondrous devices found a home in the cabinet of curiosities or Wunderkammern of the princely courts of Europe.
+In 1454, Duke Philip created an entertainment show named The extravagant Feast of the Pheasant, which was intended to influence the Duke's peers to participate in a crusade against the Ottomans but ended up being a grand display of automata, giants, and dwarves.<ref></ref>
+A banquet in Camilla of Aragon's honor in Italy, 1475, featured a lifelike automated camel.<ref name=Sill2000></ref> The spectacle was a part of a larger parade which continued over days.
+Leonardo da Vinci sketched a complex mechanical knight, which he may have built and exhibited at a celebration hosted by Ludovico Sforza at the court of Milan around 1495. The design of Leonardo's robot was not rediscovered until the 1950s. A functional replica was later built that could move its arms, twist its head, and sit up.<ref name="nih">
+</ref>
+Da Vinci is frequently credited with constructing a mechanical lion, which he presented to King Francois I in Lyon in 1515. Although no record of the device's original designs remain, a recreation of this piece is housed at the Clos Lucé.<ref></ref>
+The Smithsonian Institution has in its collection a clockwork monk, about high, possibly dating as early as 1560. The monk is driven by a key-wound spring and walks the path of a square, striking his chest with his right arm, while raising and lowering a small wooden cross and rosary in his left hand, turning and nodding his head, rolling his eyes, and mouthing silent obsequies. From time to time, he brings the cross to his lips and kisses it. It is believed that the monk was manufactured by Juanelo Turriano, mechanician to the Holy Roman Emperor Charles V.<ref>King, Elizabeth. "Clockwork Prayer: A Sixteenth-Century Mechanical Monk" Blackbird 1.1 (2002) urltoken 
+The first description of a modern cuckoo clock was by the Augsburg nobleman Philipp Hainhofer in 1629.<ref name=cuckoo></ref> The clock belonged to Prince Elector August von Sachsen. By 1650, the workings of mechanical cuckoos were understood and were widely disseminated in Athanasius Kircher's handbook on music, Musurgia Universalis. In what is the first documented description of how a mechanical cuckoo works, a mechanical organ with several automated figures is described.<ref></ref> 
+In 18th-century Germany, clockmakers began making cuckoo clocks for sale.<ref name="realhistory"/> Clock shops selling cuckoo clocks became commonplace in the Black Forest region by the middle of the 18th century.<ref>
+</ref>
+thumb
+Japan adopted clockwork automata in the early 17th century as "karakuri" puppets. In 1662, Takeda Omi completed his first butai karakuri and then built several of these large puppets for theatrical exhibitions. Karakuri puppets went through a golden age during the Edo period (1603–1867).<ref name=":0"></ref>
+A new attitude towards automata is to be found in René Descartes when he suggested that the bodies of animals are nothing more than complex machines - the bones, muscles and organs could be replaced with cogs, pistons and cams. Thus mechanism became the standard to which Nature and the organism was compared.<ref>Schultz, P.D., & Schultz, S.E. (2008). A History of Modern Psychology.(pp. 28-34).Thompson Wadsworth.</ref> France in the 17th century was the birthplace of those ingenious mechanical toys that were to become prototypes for the engines of the Industrial Revolution. Thus, in 1649, when Louis XIV was still a child, an artisan named Camus designed for him a miniature coach, and horses complete with footmen, page and a lady within the coach; all these figures exhibited a perfect movement. According to P. Labat, General de Gennes constructed, in 1688, in addition to machines for gunnery and navigation, a peacock that walked and ate. Athanasius Kircher produced many automata to create Jesuit shows, including a statue which spoke and listened via a speaking tube.
+The world's first successfully-built biomechanical automaton is considered to be The Flute Player, which could play twelve songs, created by the French engineer Jacques de Vaucanson in 1737. He also constructed The Tambourine Player and the Digesting Duck, a mechanical duck that - apart from quacking and flapping its wings - gave the false illusion of eating and defecating, seeming to endorse Cartesian ideas that animals are no more than machines of flesh.<ref name="vaucanson"></ref>
+In 1769, a chess-playing machine called the Turk, created by Wolfgang von Kempelen, made the rounds of the courts of Europe purporting to be an automaton. The Turk was operated from inside by a hidden human director, and was not a true automaton.
+Other 18th century automaton makers include the prolific Swiss Pierre Jaquet-Droz (see Jaquet-Droz automata) and his son Henri-Louis Jaquet-Droz, and his contemporary Henri Maillardet. Maillardet, a Swiss mechanic, created an automaton capable of drawing four pictures and writing three poems. Maillardet's Automaton is now part of the collections at the Franklin Institute Science Museum in Philadelphia. Belgian-born John Joseph Merlin created the mechanism of the Silver Swan automaton, now at Bowes Museum.<ref></ref> A musical elephant made by the French clockmaker Hubert Martinet in 1774 is one of the highlights of Waddesdon Manor.<ref></ref> Tipu's Tiger is another late-18th century example of automata, made for Tipu Sultan, featuring a European soldier being mauled by a tiger.
+According to philosopher Michel Foucault, Frederick the Great, king of Prussia from 1740 to 1786, was "obsessed" with automata.<ref>Michel Foucault, Discipline and Punish, New York, Vintage Books, 1979, p.136: "The classical age discovered the body as object and target of power. The great book of Man-the-Machine was written simultaneously on two registers: the anatomico-metaphysical register, of which Descartes wrote the first pages and which the physicians and philosophers continued, and the technico-political register, which was constituted by a whole set of regulations and by empirical and calculated methods relating to the army, the school and the hospital, for controlling or correcting the operations of the body. These two registers are quite distinct, since it was a question, on one hand, of submission and use and, on the other, of functioning and explanation: there was a useful body and an intelligible body. The celebrated automata of the 18th century were not only a way of illustrating an organism, they were also political puppets, small-scale models of power: Frederick, the meticulous king of small machines, well-trained regiments and long exercises, was obsessed with them."</ref> According to Manuel de Landa, "he put together his armies as a well-oiled clockwork mechanism whose components were robot-like warriors".
+In 1801, Joseph Jacquard built Jacquard loom that was controlled autonomously with punched cards.
+Automata, particularly watches and clocks, were popular in China during the 18th and 19th centuries, and items were produced for the Chinese market. Strong interest by Chinese collectors in the 21st century brought many interesting items to market where they have had dramatic realizations.<ref name=NYT></ref>
+===Modern===
+The famous magician Jean-Eugène Robert-Houdin (1805–1871) was known for creating automata for his stage shows.
+In 1840, Italian inventor Innocenzo Manzetti constructed a flute-playing automaton, in the shape of a man, life-size, seated on a chair. Hidden inside the chair were levers, connecting rods and compressed air tubes, which made the automaton's lips and fingers move on the flute according to a program recorded on a cylinder similar to those used in player pianos. The automaton was powered by clockwork and could perform 12 different arias. As part of the performance it would rise from the chair, bow its head, and roll its eyes.
+Image:TeaAutomatAndMechanism.jpg|thumb|left|Tea-serving Japanese automaton, "karakuri ningyō", with mechanism (right), 19th century.
+The period 1860 to 1910 is known as "The Golden Age of Automata". Mechanical coin-operated fortune tellers were introduced to boardwalks in Britain and America.<ref></ref> In Paris during this period, many small family based companies of Automata makers thrived. From their workshops they exported thousands of clockwork automata and mechanical singing birds around the world. Although now rare and expensive, these French automata attract collectors worldwide. The main French makers were Bontems, Lambert, Phalibois, Renou, Roullet & Decamps, Theroude and Vichy.
+Contemporary automata continue this tradition with an emphasis on art, rather than technological sophistication. Contemporary automata are represented by the works of Cabaret Mechanical Theatre in the United Kingdom, Dug North and Chomick+Meder,<ref></ref> Thomas Kuntz,<ref></ref> Arthur Ganson, Joe Jones, and Nico Cox in the United States, Le Défenseur du Temps by French artist Jacques Monestier (artiste), and François Junod in Switzerland.
+Since 1990 Dutch artist Theo Jansen has been building large automated PVC structures called strandbeest (beach animal) that can walk on wind power or compressed air. Jansen claims that he intends them to automatically evolve and develop artificial intelligence, with herds roaming freely over the beach.
+===Proposals===
+In 2016, the NASA Innovative Advanced Concepts program studied a rover, the Automaton Rover for Extreme Environments, designed to survive for an extended time in Venus' environmental conditions. Unlike other modern automata, AREE is an automaton instead of a robot for practical reasons — Venus's harsh conditions, particularly its surface temperature of , make operating electronics there for any significant time impossible. It would be controlled by a mechanical computer and driven by wind power.<ref></ref>
+==In education==
+The potential educational value of mechanical toys in teaching transversal skills has been recognised by the European Union education project Clockwork objects, enhanced learning: Automata Toys Construction (CLOHE).<ref></ref>
+==Clocks==
+Examples of automaton clocks include Chariot clock and Cuckoo Clocks. The Cuckooland Museum exhibits autonomous clocks.
+==See also==
+* Automata theory
+* Mechanical toy
+* Wind-up toy
+* Robot
+* Android
+* Automation
+* Brazen head
+* Cellular automaton
+* Centre International de la Mécanique d'Art
+* Christian Ristow
+* Computer
+* Ctesibius
+* Genesis Redux
+* Fortune teller machine
+* Giles Walker
+* Golem
+* Hero of Alexandria
+* La Maison de la Magie Robert-Houdin display of 19th century automata
+* Maillardet's automaton
+* Marvin's Marvelous Mechanical Museum
+* Orchestrion
+* Singing bird box
+* Theo Jansen
+* Whirligig
+==Further reading==
+* 
+* 
+* 
+* 
+* 　
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* Rausser, Fernand; Bonhôte, Daniel; Baud, Frédy (1972). All'Epoca delle Scatole Musicali, Edizioni Mondo, 175 pp.
+* 
+* 
+* 
+* 
+* 
+* Wosk, Julie (2015). My Fair Ladies: Female Robots, Androids, and Other Artificial Eves. .
+==Notes==
+
+Image:Mechanical Pinochio.gif|thumb|150px|Pinocchio automaton.
+An automaton ; plural: automata or automatons) is a relatively self-operating machine, or a machine or control mechanism designed to automatically follow a predetermined sequence of operations, or respond to predetermined instructions.<ref name="definition">Automaton - Definition and More from the Free Merriam-Webster Dictionary urltoken Some automata, such as bellstrikers in mechanical clocks, are designed to give the illusion to the casual observer that they are operating under their own power. Since long ago, the term is commonly associated with automated puppets that resemble moving humans or animals, built to impress and/or to entertain people. 
+Animatronics are a modern type of automata with electronics, often used for the portrayal of characters in films and in theme park attractions.

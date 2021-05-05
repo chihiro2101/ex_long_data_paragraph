@@ -1,0 +1,52 @@
+World line
+
+==Usage in physics==
+In physics, a world line of an object (approximated as a point in space, e.g., a particle or observer) is the sequence of spacetime events corresponding to the history of the object. A world line is a special type of curve in spacetime. Below an equivalent definition will be explained: A world line is a time-like curve in spacetime. Each point of a world line is an event that can be labeled with the time and the spatial position of the object at that time.
+For example, the orbit of the Earth in space is approximately a circle, a three-dimensional (closed) curve in space: the Earth returns every year to the same point in space relative to the sun. However, it arrives there at a different (later) time. The world line of the Earth is helix in spacetime (a curve in a four-dimensional space) and does not return to the same point.
+Spacetime is the collection of points called events, together with a continuous and smooth coordinate system identifying the events. Each event can be labeled by four numbers: a time coordinate and three space coordinates; thus spacetime is a four-dimensional space. The mathematical term for spacetime is a four-dimensional manifold. The concept may be applied as well to a higher-dimensional space. For easy visualizations of four dimensions, two space coordinates are often suppressed. The event is then represented by a point in a Minkowski diagram, which is a plane usually plotted with the time coordinate, say <math>t</math>, upwards and the space coordinate, say <math>x</math> horizontally.
+As expressed by F.R. Harvey
+:A curve M in spacetime is called a worldline of a particle if its tangent is future timelike at each point. The arclength parameter is called proper time and usually denoted &tau;. The length of M is called the proper time of the worldline or particle. If the worldline M is a line segment, then the particle is said to be in free fall.<ref></ref>
+A world line traces out the path of a single point in spacetime. A world sheet is the analogous two-dimensional surface traced out by a one-dimensional line (like a string) traveling through spacetime. The world sheet of an open string (with loose ends) is a strip; that of a closed string (a loop) resembles a tube.
+Once the object is not approximated as a mere point but has extended volume, it traces out not a world line but rather a world tube.
+==World lines as a tool to describe events==
+Image:Brane-wlwswv.png|300px|right|thumb|World line, worldsheet, and world volume, as they are derived from particles, strings, and branes.
+A one-dimensional line or curve can be represented by the coordinates as a function of one parameter. Each value of the parameter corresponds to a point in spacetime and varying the parameter traces out a line. So in mathematical terms a curve is defined by four coordinate functions <math>x^a(\tau),\; a=0,1,2,3</math> (where <math>x^, </math> then they share the same simultaneous hyperplane. This hyperplane exists mathematically, but physical relations in relativity involve the movement of information by light. For instance, the traditional electro-static force described by Coulomb's law may be pictured in a simultaneous hyperplane, but relativistic relations of charge and force involve retarded potentials.
+==World lines in general relativity==
+The use of world lines in general relativity is basically the same as in special relativity, with the difference that spacetime can be curved. A metric exists and its dynamics are determined by the Einstein field equations and are dependent on the mass-energy distribution in spacetime. Again the metric defines lightlike (null), spacelike and timelike curves. Also, in general relativity, world lines are timelike curves in spacetime, where timelike curves fall within the lightcone. However, a lightcone is not necessarily inclined at 45 degrees to the time axis. However, this is an artifact of the chosen coordinate system, and reflects the coordinate freedom (diffeomorphism invariance) of general relativity. Any timelike curve admits a Proper frame whose "time axis" corresponds to that curve, and, since no observer is privileged, we can always find a local coordinate system in which lightcones are inclined at 45 degrees to the time axis. See also for example Eddington-Finkelstein coordinates.
+World lines of free-falling particles or objects (such as planets around the Sun or an astronaut in space) are called geodesics.
+==World lines in quantum field theory==
+Quantum field theory, the framework in which all of modern particle physics is described, is usually described as a theory of quantized fields. However, although not widely appreciated, it has been known since Feynman<ref></ref> that many quantum field theories may equivalently be described in terms of world lines. The Path integral formulation#Quantum field theory has proved particularly fruitful for various calculations in gauge theories<ref></ref><ref></ref><ref></ref> and in describing nonlinear effects of electromagnetic fields.<ref></ref><ref></ref>
+==World lines in literature==
+In 1884 C. H. Hinton wrote an essay "What is the fourth dimension ?", which he published as a scientific romance. He wrote
+:Why, then, should not the four-dimensional beings be ourselves, and our successive states the passing of them through the three-dimensional space to which our consciousness is confined.<ref></ref>
+A popular description of human world lines was given by J. C. Fields at the University of Toronto in the early days of relativity. As described by Toronto lawyer Norman Robertson:
+:I remember Fields lecturing at one of the Saturday evening lectures at the Royal Canadian Institute. It was advertised to be a "Mathematical Fantasy"—and it was! The substance of the exercise was as follows: He postulated that, commencing with his birth, every human being had some kind of spiritual aura with a long filament or thread attached, that traveled behind him throughout his life. He then proceeded in imagination to describe the complicated entanglement every individual became involved in his relationship to other individuals, comparing the simple entanglements of youth to those complicated knots that develop in later life.<ref></ref>
+Almost all science-fiction stories which use this concept actively, such as to enable time travel, oversimplify this concept to a one-dimensional timeline to fit a linear structure, which does not fit models of reality. Such time machines are often portrayed as being instantaneous, with its contents departing one time and arriving in another—but at the same literal geographic point in space. This is often carried out without note of a reference frame, or with the implicit assumption that the reference frame is local; as such, this would require either accurate teleportation, as a rotating planet, being under acceleration, is not an inertial frame, or for the time machine to remain in the same place, its contents 'frozen'.
+Author Oliver Franklin published a science fiction work in 2008 entitled World Lines in which he related a simplified explanation of the hypothesis for laymen.<ref name="Franklin"></ref>
+In the short story Life-Line, author Robert A. Heinlein describes the world line of a person:<ref></ref>
+:He stepped up to one of the reporters. "Suppose we take you as an example. Your name is Rogers, is it not? Very well, Rogers, you are a space-time event having duration four ways. You are not quite six feet tall, you are about twenty inches wide and perhaps ten inches thick. In time, there stretches behind you more of this space-time event, reaching to perhaps nineteen-sixteen, of which we see a cross-section here at right angles to the time axis, and as thick as the present. At the far end is a baby, smelling of sour milk and drooling its breakfast on its bib. At the other end lies, perhaps, an old man someplace in the nineteen-eighties.
+:"Imagine this space-time event that we call Rogers as a long pink worm, continuous through the years, one end in his mother's womb, and the other at the grave."
+Heinlein's Methuselah's Children uses the term, as does James Blish's The Quincunx of Time (expanded from "Beep").
+A visual novel named Steins;Gate, produced by 5pb., tells a story based on the shifting of world lines. Steins;Gate is a part of the "Science Adventure" series. World lines and other physical concepts like the Dirac Sea are also used throughout the series.
+Neal Stephenson's novel Anathem involves a long discussion of worldlines over dinner in the midst of a philosophical debate between Platonic realism and nominalism.
+Absolute Choice depicts different world lines as a sub-plot and setting device.
+A space armada trying to complete a (nearly) closed time-like path as a strategic maneuver forms the backdrop and a main plot device of "Singularity Sky" by Charles Stross.
+==See also==
+* Specific types of world lines
+** Geodesics
+** Closed timelike curves
+** Causal structure, curves that represent a variety of different types of world line
+** Isotropic line
+* Feynman diagram
+* Time geography
+==References==
+*
+:*Various English translations on Wikisource: Space and Time
+* Ludwik Silberstein (1914) Theory of Relativity, p 130, Macmillan and Company.
+==External links==
+* urltoken World lines article on h2g2.
+* urltoken in depth text on world lines and special relativity
+
+The world line (or worldline) of an object is the path that object traces in 4-dimensional spacetime. It is an important concept in modern physics, and particularly theoretical physics.
+The concept of a "world line" is distinguished from concepts such as an "orbit" or a "trajectory" (e.g., a planet's orbit in space or the trajectory of a car on a road) by the time dimension, and typically encompasses a large area of spacetime wherein perception straight paths are recalculated to show their (relatively) more absolute position states—to reveal the nature of special relativity or gravitational interactions. 
+The idea of world lines originates in physics and was pioneered by Hermann Minkowski. The term is now most often used in relativity theories (i.e., special relativity and general relativity).

@@ -1,0 +1,63 @@
+LexisNexis Risk Solutions
+
+==Overview==
+===Market Segments===
+LexisNexis Risk Solutions operates in four market segments:
+* Insurance Services
+* Business Services
+* Health Care Services
+* Government Services
+===Technology=== 
+LexisNexis Risk Solutions uses HPCC Systems, also known as DAS (Data Analytics Supercomputer), extensively<ref></ref>—its Software architecture runs from Commodity computing to provide high-performance, data-parallel processing for Big data applications. The HPCC Systems platform includes a data refinery (Thor) and a rapid data delivery engine (ROXIE) that utilize the Enterprise Control Language (ECL).<ref></ref> LexisNexis Risk Solutions open-sourced the HPCC Systems platform in 2011, and has seen some success with the adoption of this platform by diverse entities, an example being GuardHat, which makes smart hard hats with embedded HPCC Systems technology.
+==History==
+A subsidiary of RELX (formerly Reed Elsevier), LexisNexis Risk Solutions first began as the Risk & Information Analytics Group (RIAG) within LexisNexis, a corporation offering legal database services. In 2000, Reed Elsevier acquired RiskWise and PeopleWise, which together became the basis of RIAG.<ref></ref> The creation of RIAG expanded LexisNexis offerings to include public records collections. In 2000, LexisNexis also launched HPCC Systems, its data-intensive computing system platform.
+LexisNexis Risk Solutions moved into Collections after Reed Elsevier acquired the public records businesses of Dolan Media Company in 2003.<ref></ref> That same year, the LexisNexis Special Services Inc. (LNSSI) was founded to provide government agencies with global sources of data fusion technology and analytics. LNSSI also granted Reed Elsevier the ability to participate in classified U.S. government programs as a foreign-owned entity.
+In 2004, Reed Elsevier purchased Seisint Inc., based in Boca Raton, Florida.<ref></ref> Seisint housed and operated the Multistate Anti-Terrorism Information Exchange (MATRIX). 
+In September 2008, Reed Elsevier purchased Data aggregator ChoicePoint. This acquisition included an insurance business and the C.L.U.E. database, an underwriting database for the U.S. auto insurance market. LexisNexis completed the migration of public records to HPCC Systems the same year. 
+===Launch===
+In September 2009, ChoicePoint was integrated with the Risk & Information Analytics Group (RIAG), and the combined new entity became LexisNexis Risk Solutions. In 2011, LexisNexis Risk Solutions was officially launched as a separate company within the Reed Elsevier portfolio.
+Mark Kelsey was named CEO of LexisNexis Risk Solutions in December 2012.<ref></ref> Over the next two years the company purchased 12 companies including: WorldCompliance, Enclarity, Mapflow, Tracesmart, Wunelli and Health Market Science.
+===Divestiture===
+In January 2013, LexisNexis Risk Solutions announced it would sell its background screening business to the Palo Alto-based private equity firm Symphony Technology Group (STG). STG planned to combine LexisNexis screening with its portfolio company, First Advantage.<ref></ref>
+===Insurance Initiatives Ltd. (2016)===
+In July 2016, LexisNexis Risk Solutions acquired Insurance Initiatives Ltd. (IIL), a data distribution platform that extracts, hosts and processes large quantities of data to deliver information into the point-of-quote in the U.K.'s Property and Casualty Insurance industry.<ref></ref>
+===ThreatMetrix (2018)===
+RELX purchased ThreatMetrix, a digital identity and risk-based authenticator platform, in February 2018.<ref></ref>
+===Lumen (2019)===
+In May 2019, LexisNexis Risk Solutions purchased Lumen, an integrated data platform leveraged by public safety and law enforcement from Numerica Corporation.<ref> urltoken 
+===ID Analytics (2020)===
+In January 2020, LexisNexis Risk Solutions closed its acquisition of ID Analytics, a provider of fraud and credit risk solutions. Previously ID Analytics was a NortonLifeLock company.<ref> urltoken 
+===Emailage (2020)===
+In March 2020, LexisNexis Risk Solutions, acquired Emailage, an Arizona-based fraud prevention and risk management solutions provider. <ref> urltoken </ref>
+==Governance==
+LexisNexis Risk Solutions is a subsidiary of RELX (tickers: RELX and REL.UK). 
+LexisNexis Risk Solutions and Reed Business Information compose RELX’s Risk & Business Analytics market segment, led by CEO Mark Kelsey and overseen by the RELX board of directors.
+==Corporate Social Responsibility==
+===Missing Children===
+==== U.S. ====
+LexisNexis Risk Solutions developed the ADAM (Automated Delivery of Alerts on Missing children) program in 2000 to help the National Center for Missing & Exploited Children (NCMEC) find missing children.<ref> urltoken ADAM distributes missing child alert posters to law enforcement, hospitals, libraries and businesses within specific geographic search areas. The system was expanded in 2017 to allow individuals to receive an email alert when a child is reported missing near to them.<ref></ref> 
+In 2017, a feature was added to ADAM to allow NCMEC to focus on a highway where a missing child and abductor may be travelling in order to distribute posters to recipients along the relevant corridor. Combining this filter along with the system’s radius search allows for broad, yet targeted, poster coverage. Functionality was added to ADAM to allow members of the public to sign up for missing child email alerts in their area. More than 1.8 million individuals, private enterprises, hospitals, schools, news outlets and law agencies have signed up to receive automated ADAM alerts.
+==== U.K. ====
+In 2017, LexisNexis Risk Solutions began working with the charity Missing People and the UK National Crime Agency to support their Child Rescue Alert service, which disseminates missing alerts via text message. Along with Charlie Hedges Advisory (one of the U.K.’s foremost experts on missing persons), LexisNexis Risk Solutions and Missing People scoped a training course to assist law enforcement, schools, hospitals and others with missing cases, particularly those involving children who are abducted and/or trafficked.
+===Food Stamp Fraud Prevention===
+Since 2013, the Florida Department of Children Families has used LexisNexis Risk Solutions to identity management solutions to prevent food stamp fraud and improve operational efficiencies, achieving a total cost avoidance of more than $843.7 million.
+===Humanitarian Emergency Education ===
+In 2017, LexisNexis Risk Solutions developed the Global Business Coalition for Education’s Rapid Education Action (REACT) database to record private sector educational contributions and assets that can be deployed quickly in the wake of a humanitarian emergency.
+=== Law Enforcement ===
+====PSDE Database====
+The Public Safety Data Exchange (PSDEX) is a contributory database that of more than 1,300 law enforcement agencies across the U.S. that was created by LexisNexis Risk Solutions. PSDEX helps its participants solve crimes, identify threats and anticipate future threats. LexisNexis Risk Solutions created an Advisory Committee to advise on policy and governance of PSDEX data, to help assure adherence to federal Criminal Justice Information Services (CJIS), state and local standards for security and privacy of law enforcement-provided data. The PSDEX Advisory Committee is composed of former Federal Bureau of Investigation (FBI), Secret Service, metropolitan police department and other criminal justice experts, in partnership with LexisNexis Risk Solutions leaders.
+====LexisNexis Accurint Virtual Crime Center====
+The LexisNexis Accurint Virtual Crime Center gives law enforcement “greater visibility into crime in both their jurisdictions and nationwide by linking billions of public records with agency-provided data.” It links to PSDEX and brings together disconnected data to provide a more comprehensive view of people’s identities so that law enforcement agencies can better target investigations, identify patterns, predict upcoming events and deploy resources more efficiently.
+==COVID-19==
+===COVID-19 Analyzer===
+In April, 2020, LexisNexis Risk Solutions created a free tracking urltoken tool to monitor and report the progress of the Covid-19 virus and provide better contextual understanding of the pandemic’s evolution. Using data from Johns Hopkins University (daily cases and deaths), the US Census Bureau (US population) and the UN DESA (world population), the tracker provides metrics and analysis for locations across the globe, with maps that drill down to country and regional levels, helping to understand how the virus is propagating.<ref>HPCC Systems Blog, July, 20, 2020 urltoken 
+In July 2020, Researchers from Florida Atlantic University’s College of Engineering and Computer Science in collaboration with LexisNexis Risk Solutions, received a grant for urltoken Rapid Research (RAPID) from the National Science Foundation to develop a model of COVID-19 spread using innovative big data analytics techniques and tools. The project leverages prior experience in modeling Ebola spread to successfully model the spread of COVID-19.<ref>Big Data Analytics Enables Scientists to Model COVID-19 Spread, Giselle Galoustian,FAU News Desk, July 14, 2020 urltoken 
+=== COVID-19 Data Resource Center ===
+LexisNexis Risk Solutions Health Care announced in April 2020 the launch of a free urltoken COVID-19 Data Resource Center to provide county-level insights on at-risk populations and potential care capacity gaps to support the U.S. healthcare industry’s response to the COVID-19 pandemic. By combining its own data and analytics with those of other industry stakeholders, the company created insights to be used by healthcare organizations, public health officials and health researchers to help allocate resources to the populations with the greatest need.<ref>LexisNexis Risk Solutions Launches COVID-19 National Data Resource Center, April 22, 2020, PR Newswire urltoken The COVID-19 Data Resource Center features heat maps with insights that identify at-risk populations and correlated gaps in provider coverage. Each county is assigned a percentile rank on a scale of 0 (low-risk) to 100 (high-risk) across various parameters. The map is updated regularly to quickly address the care needs of the community. In June 2020, the group added national telehealth trending insights to its COVID-19 Data Resource Center to show exponential growth of telehealth adoption resulting from the COVID-19 pandemic.<ref>LexisNexis Risk Solutions Publishes Telehealth Statistics via COVID-19 Data Resource Center; Executive Biz, June 18,2020 urltoken 
+==See also==
+*LexisNexis
+*RELX
+*National Center for Missing and Exploited Children
+
+LexisNexis Risk Solutions is a global data and analytics company that provides data and technology services, analytics, predictive insights and fraud prevention for a wide range of industries.<ref></ref> It is headquartered in Alpharetta, Georgia (part of the Atlanta metropolitan area) and has offices throughout the U.S. and in Australia, Brazil, China, Hong Kong SAR, India, Ireland, Israel, Philippines and the U.K. The company’s customers include businesses within the insurance, financial services, healthcare and corporate sectors as well as the local, state and federal government, law enforcement and public safety. 
+LexisNexis Risk Solutions operates within the Risk & Business Analytics market segment of RELX, a multinational information and analytics company based in London.<ref></ref>

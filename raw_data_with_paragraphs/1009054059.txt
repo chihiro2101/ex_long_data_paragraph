@@ -1,0 +1,132 @@
+Ehlers–Danlos syndromes
+
+==Signs and symptoms==
+This group of disorders affects connective tissues across the body, with symptoms most typically present in the joints, skin, and blood vessels. However, as connective tissue is found throughout the body, EDS may result in an array of unexpected impacts with any degree of severity, and the condition is not limited to joints, skin, and blood vessels.<ref></ref> Effects may range from mildly loose joints to life-threatening cardiovascular complications.<ref></ref> Due to the diversity of subtypes within the EDS family, symptoms may vary widely between individuals diagnosed with EDS.
+=== Musculoskeletal ===
+Musculoskeletal symptoms include hyperflexible joints that are unstable and prone to sprain, dislocation, subluxation, and hyperextension.<ref name="Law2005"/><ref name=Byers2012/> There can be an early onset of advanced osteoarthritis,<ref name=mayoclinic></ref> chronic degenerative joint disease,<ref name=mayoclinic/> swan neck deformity of the fingers,<ref name="Wei2015"></ref> and Boutonniere deformity of the fingers. Tearing of tendons or muscles may occur.<ref name="ehlersdanlosnetwork_a"></ref> Deformities of the spine, such as scoliosis (curvature of the spine), kyphosis (a thoracic hump), tethered spinal cord syndrome, craniocervical instability, and occipitoatlantoaxial hypermobility may also be present.<ref name="Dordoni2016"></ref><ref></ref> There can also be myalgia (muscle pain) and arthralgia (joint pain),<ref></ref> which may be severe and disabling. Trendelenburg's sign is often seen, which means that when standing on one leg, the pelvis drops on the other side.<ref></ref> Osgood–Schlatter disease, a painful lump on the knee, is common as well.<ref></ref> In infants, walking can be delayed (beyond 18 months of age), and bottom-shuffling instead of crawling occurs.<ref></ref>
+<gallery mode="packed">
+File:Ehlers-Danlos syndrome3.jpg|Individual with EDS showing hypermobile fingers, including the "swan-neck" malformation on the 2nd–5th digits, and a hypermobile thumb
+File:Ehlers-Danlos thumb.jpg|Individual with EDS displaying hypermobile thumb
+File:Ehlers-Danlos syndrome2.jpg|Individual with EDS displaying hypermobile metacarpophalangeal joints
+File:Kyphoscoliosis of the back of person with kyphoscoliosis EDS.png|Kyphoscoliosis of the back of someone with kyphoscoliosis EDS
+File:Arthrochalasia EDS.png|Severe joint hypermobility in a girl with EDS arthrochalasia type
+</gallery>
+===Skin===
+The weak connective tissue causes abnormal skin. This may present as stretchy or in other types simply be velvet soft. In all types, some increased fragility occurs, but the degree varies depending on the underlying subtype. Skin may tear and bruise easily, and may heal with abnormal atrophic scars,<ref name="mayoclinic"/> and atrophic scars that look like cigarette paper are a sign seen including in those whose skin might appear otherwise normal.<ref name="NIHGHR2016"/><ref name="Byers2012"/><ref name="Malfait2017"></ref> In some subtypes, although not in the hypermobile subtype, redundant skin folds occur, especially on the eyelids. Redundant skin folds are areas of excess skin lying in folds.<ref name="mayoclinic"/><ref></ref>
+Other skin symptoms include molluscoid pseudotumors,<ref name="ehlersdanlosnetwork"></ref> especially on pressure points, petechiae,<ref></ref> subcutaneous spheroids,<ref name="ehlersdanlosnetwork"/> livedo reticularis, and piezogenic papules are less common.<ref></ref> In vascular EDS, skin can also be thin and translucent. In dermatosparaxis EDS, the skin is extremely fragile and saggy.<ref name="NIHGHR2016" />
+<gallery mode="packed">
+File:Atrophic scar of Ehlers Danlos syndrome.jpg|Atrophic scar in a case of EDS
+File:PMC3567970 1752-1947-7-35-1 (cropped).png|Translucent skin in vascular EDS
+File:Ehlers-Danlos syndrome4.jpg|Individual with EDS displaying skin hyperelasticity
+File:Piezogenic papules.jpg|Piezogenic papules on the heel of an individual with hypermobile EDS
+</gallery>
+===Cardiovascular===
+* Thoracic outlet syndrome<ref> </ref>
+* Arterial rupture<ref name=Byers2012/>
+* Valvular heart disease, such as mitral valve prolapse, creates an increased risk for infective endocarditis during surgery. This may progress to a life-threatening degree.<ref name="Levy_2018"></ref> Heart conduction abnormalities have been found in those with hypermobility form of EDS.<ref name=Camerota14></ref>
+* Dilation and/or rupture (aneurysm) of ascending aorta<ref></ref>
+* Cardiovascular autonomic dysfunction such as postural orthostatic tachycardia syndrome<ref></ref><ref> </ref>
+* Raynaud's phenomenon
+* Varicose veins<ref></ref>
+* Heart murmur
+* Heart conduction abnormalities
+===Other manifestations===
+* Hiatus hernia<ref name="ehlersdanlosnetwork"/>
+* Gastroesophageal reflux<ref></ref>
+* Gastroparesis<ref></ref>
+* Dysautonomia<ref></ref>
+* Gorlin sign (touch tongue to nose)<ref></ref>
+* Anal prolapse<ref name="ehlersdanlosnetwork"/>
+* Flat feet
+* Tracheobronchomalacia 
+* Collapsed lung (spontaneous pneumothorax)<ref name="mayoclinic"/>
+* Nerve disorders (carpal tunnel syndrome, acroparesthesia, neuropathy, including small fiber neuropathy)<ref></ref>
+* Insensitivity to local anesthetics<ref name="Laboratory for Experimental Pain Research"></ref>
+* Arnold–Chiari malformation<ref></ref>
+* Platelet aggregation failure (platelets do not clump together properly)<ref></ref>
+*Mast cell disorders (including mast cell activation syndrome and mastocytosis)<ref></ref>
+* Pregnancy complications: increased pain, mild to moderate peripartum bleeding, cervical insufficiency, uterine tearing,<ref name="ehlersdanlosnetwork_a"/> or premature rupture of membranes<ref> </ref>
+* Hearing loss may occur in some types<ref></ref>
+*Eye: Nearsightedness, retinal tearing and retinal detachment, keratoconus, blue sclera, dry eye, Sjögren syndrome, lens subluxation, angioid streaks, Epicanthic fold, strabismus, corneal scarring, brittle cornea syndrome, cataracts, Carotid-cavernous fistula, macular degeneration<ref></ref>
+*Craniocervical instability: caused by trauma(s) to the head and neck areas such as concussion and whiplash. Ligaments in neck are unable to heal properly, therefore, the neck structure does not have the ability to support the skull, which can then sink into the brain stem blocking the normal flow of cerebrospinal fluid, leading to issues related to the autonomic nervous system failing to work properly.<ref></ref><ref></ref>
+*Celiac disease may be associated with EDS. Also, it can be misdiagnosed as EDS due to common symptoms, including fatigue, pain, gastrointestinal complaints, or cardiovascular autonomic dysfunction.<ref name="Levy_2018"/>
+*Osteoporosis and osteopenia are associated with EDS and symptomatic joint hypermobility<ref></ref><ref></ref>
+* Psychiatric disorders<ref> urltoken Almost half of EDS patients have psychiatric disorders<sup>citation needed</sup>. ADHD is common in hypermobility spectrum disorder but not in EDS patients.
+<gallery>
+File:PMC2856381 IJD-55-86-g002.png|Gorlin's sign in a case of EDS
+File:A case of keratoglobus in a case of Brittle cornea syndrome.png|A case of keratoglobus in a case of brittle-cornea syndrome
+</gallery>
+Because it is often undiagnosed or misdiagnosed in childhood, some instances of EDS have been mischaracterized as child abuse.<ref></ref> The pain may also be misdiagnosed as a behavior disorder or Munchausen biproxy.<ref name=":5"></ref>
+The pain associated with EDS ranges from mild to debilitating.<ref> </ref>
+== Genetics ==
+Every type of EDS, except the hypermobile type (which affects the vast majority of people with EDS), can be positively tied to specific genetic variation.
+Mutations in these genes can cause EDS:<ref name=":6"> </ref>
+*Collagen primary structure and collagen processing: ADAMTS2, COL1A1, COL1A2, COL3A1, COL5A1, COL5A2
+*Collagen folding and collagen cross-linking: PLOD1, FKBP14
+*Structure and function of myomatrix: TNXB, COL12A1
+*Glycosaminoglycan biosynthesis: B4GALT7, B3GALT6, CHST14, DSE
+*Complement pathway: C1R, C1S
+*Intracellular processes: SLC39A13, ZNF469, PRDM5
+Variations in these genes usually alter the structure, production, or processing of collagen or proteins that interact with collagen. Collagen provides structure and strength to connective tissue. A defect in collagen can weaken connective tissue in the skin, bones, blood vessels, and organs, resulting in the features of the disorder.<ref name="NIHGHR2016"/> Inheritance patterns depend on the specific syndrome.
+Most forms of EDS are inherited in an autosomal dominant pattern, which means only one of the two copies of the gene in question must be altered to cause a disorder. A few are inherited in an autosomal recessive pattern, which means both copies of the gene must be altered for a person to be affected by a disorder. It can also be an individual (de novo or "sporadic") mutation. Sporadic variations occur without any inheritance.<ref></ref>
+Cannabinoids and medical marijuana have shown some efficacy in reducing pain levels.<ref></ref>
+In general, medical intervention is limited to symptomatic therapy. Before pregnancy, people with EDS should have genetic counseling and familiarize themselves with the risks to their own bodies that pregnancy poses. Children with EDS should be provided with information about their disorder so they can understand why they should avoid contact sports and other physically stressful activities. Children should be taught that demonstrating the unusual positions that they can maintain due to loose joints should not be done, as this may cause early degeneration of the joints. Emotional support along with behavioral and psychological therapy can be useful. Support groups can be immensely helpful for people dealing with major lifestyle changes and poor health. Family members, teachers, and friends should be informed about EDS so they can accept and assist the child.<ref></ref>
+=== Pain management ===
+Successfully treating chronic pain in EDS needs a multidisciplinary team. The ways to manage pain can be to modify pain management techniques used in the normal population. Chronic pain has two types. The first type is the nociceptive type, which is caused by injury sustained to tissues. The second type is neuropathic pain, caused by abnormal signals by the nervous system. In most cases, the pain is an unequal mix of the two. Physiotherapy (exercise rehabilitation) has evidence of positive effect. It is primarily stabilizing the core of the body and the joints. Stretching exercises must be reduced to slow and gentle stretching to reduce the risks of dislocations or subluxations. Usable methods may include posture re-education, muscle release, joint mobilization, trunk stabilization, and manual therapy for overworked muscles. Cognitive behavioural therapy is used in all chronic pain patients, especially those who have severe, chronic, life-controlling pain that is unresponsive to treatment. It had not been checked for efficiency in clinical trials as to date. The current state of pain management with EDS is considered insufficient.<ref name=":5" />
+==== Medications ====
+Nonsteroidal anti-inflammatory drugs (NSAIDs) may help if the pain is caused by inflammation. However, long-term use is NSAIDs is often a risk factor of gastrointestinal, renal, and blood-related side effects. It can worsen symptoms of mast cell activation syndrome, a disease that may be associated with EDS. Acetaminophen can be used to avoid the bleeding-related side effects of NSAIDs.<ref name=":5" />
+Opioids have shown efficiency in some EDS cases for management of both acute and chronic pain. urltoken 112
+Lidocaine can be applied topically after subluxations and painful gums. It can also be injected into painful areas in the case of musculoskeletal pain.<ref name=":5" />
+If the pain is neuropathic in origin, tricyclic antidepressants in low doses, anticonvulsants, and selective norepinephrine reuptake inhibitors can be used.<ref name=":5" />
+=== Surgery ===
+The instability of joints, leading to subluxations and joint pain, often requires surgical intervention in people with EDS. Instability of almost all joints can happen, but appears most often in the lower and upper extremities, with the wrist, fingers, shoulder, knee, hip, and ankle being most common.<ref name=Rombaut11/>
+Common surgical procedures are joint debridement, tendon replacements, capsulorrhaphy, and arthroplasty. After surgery, the degree of stabilization, pain reduction, and people's satisfaction can improve, but surgery does not guarantee an optimal result; affected peoples and surgeons report being dissatisfied with the results. Consensus is that conservative treatment is more effective than surgery,<ref name=Camerota14/> particularly since people have extra risks of surgical complications due to the disease. Three basic surgical problems arise due to EDS - the strength of the tissues is decreased, which makes the tissue less suitable for surgery; the fragility of the blood vessels can cause problems during surgery; and wound healing is often delayed or incomplete.<ref name=Rombaut11/> If considering surgical intervention, seeking care from a surgeon with extensive knowledge and experience in treating people with EDS and joint hypermobility issues would be prudent.<ref name="Recommendations for anesthesia and"></ref>
+Local anesthetics, arterial catheters, and central venous catheters cause a higher risk of haematoma in people with EDS. Some people with EDS also show a resistance to local anaesthetics.<ref> </ref> Resistance to lidocaine and bupivacaine is not uncommon, and mepivacaine tends to work better in people with EDS. Special recommendations for anesthesia are given for people with EDS.<ref></ref> Detailed recommendations for anesthesia and perioperative care of people with EDS should be used to improve safety.<ref name="Recommendations for anesthesia and"/>
+Surgery in people with EDS requires careful tissue handling and a longer immobilization afterward.<ref></ref>
+== Prognosis ==
+The outcome for individuals with EDS depends on the specific type of EDS they have. Symptoms vary in severity, even in the same disorder, and the frequency of complications varies. Some people have negligible symptoms, while others are severely restricted in daily life. Extreme joint instability, chronic musculoskeletal pain, degenerative joint disease, frequent injuries, and spinal deformities may limit mobility. Severe spinal deformities may affect breathing. In the case of extreme joint instability, dislocations may result from simple tasks such as rolling over in bed or turning a doorknob. Secondary conditions such as autonomic dysfunction or cardiovascular problems, occurring in any type, can affect prognosis and quality of life. Severe mobility-related disability is seen more often in hEDS than in classical EDS or vascular EDS.<ref></ref>
+Although all types of EDS are potentially life-threatening, most people have a normal lifespan. Those with blood-vessel fragility, though, have a high risk of fatal complications, including spontaneous arterial rupture, which is the most common cause of sudden death. The median life expectancy in the population with vascular EDS is 48 years.<ref> </ref>
+=== Complications ===
+==== Vascular ====
+* Pseudoaneurysm<ref name=":4"></ref>
+* Vascular lesions (nature is disputed) due to tears in the lining of the arteries or deterioration of congenitally thin and fragile tissue<ref name=":4" />
+* Enlarged arteries<ref name=":4" />
+==== Gastrointestinal ====
+* A 50% risk of colonic perforation exists.<ref name=":4" />
+==== Obstetric ====
+* Pregnancy increases the likelihood of uterine rupture.<ref name=":4" />
+* Maternal mortality is around 12%.<ref name=":4" />
+* Uterine hemorrhage can occur during the postpartum recovery.<ref name=":4" />
+== Epidemiology ==
+Ehlers–Danlos syndromes are estimated to occur in about one in 5,000 births worldwide. Initially, prevalence estimates ranged from one in 250,000 to 500,000 people, but these estimates were soon found to be too low, as more was studied about the disorders, and medical professionals became more adept at diagnosis. EDS may be far more common than the currently accepted estimate due to the wide range of severities with which the disorder presents.<ref></ref>
+The prevalence of the disorders differs dramatically. The most commonly occurring is hypermobile EDS, followed by classical EDS. The others are very rare. For example, fewer than 10 infants and children with dermatosparaxis EDS have been described worldwide.
+Some types of EDS are more common in Ashkenazi Jews. For example, the chance of being a carrier for dermatosparaxis EDS is one in 248 in Ashkenazi Jews, whereas the prevalence of this variation in the general population is one in 2,000.<ref></ref>
+== Society and culture ==
+EDS may have contributed to the virtuoso violinist Niccolò Paganini's skill, as he was able to play wider fingerings than a typical violinist.<ref> </ref>
+Many sideshow performers have EDS. Several of them were billed as the Elastic Skin Man, the India Rubber Man, and Frog Boy. They included such well-known individuals (in their time) as Felix Wehrle, James Morris, and Avery Childs. Two performers with EDS currently hold world records. Contortionist Daniel Browning Smith has hypermobile EDS and holds the current Guinness World Record for the most flexible man as of 2018, while Gary "Stretch" Turner (shown right), sideshow performer in the Circus Of Horrors, has held the current Guinness World Record for the most elastic skin since 1999, for his ability to stretch the skin on his stomach 6.25 inches.<ref name=guin></ref>
+=== Notable cases ===
+* Actress Cherylee Houston has hypermobile EDS. She uses a wheelchair and was the first full-time disabled actress on Coronation Street.<ref></ref>
+* Drag queen and winner of the 11th season of RuPaul's Drag Race Yvie Oddly<ref> urltoken Drag Race's Yvie Oddly On Living with Ehlers Danos Syndrome</ref>
+*Eric the Actor, a regular caller to The Howard Stern Show<ref></ref>
+* Actress and activist Jameela Jamil has hEDS.<ref name=":3"></ref>
+* Writer and actress Lena Dunham<ref> urltoken "Lena Dunham goes on Instagram to reveal she has Ehlers-Danlos syndrome"</ref>
+* Australian singer Sia<ref></ref>
+* YouTuber and disability rights activist Annie Segarra<ref></ref>
+* Miss America 2020 Camille Schrier<ref></ref>
+== Other species ==
+Ehlers–Danlos-like syndromes have been shown to be hereditary in Himalayan cats, some domestic shorthair cats,<ref></ref> and certain breeds of cattle.<ref></ref> It is seen as a sporadic condition in domestic dogs. It has a similar treatment and prognosis. Animals with the condition should not be bred, as the condition can be inherited.<ref></ref>
+<gallery mode="packed" caption="Animal EDS">
+File:Ehlers-Danlos syndrome 2.jpg|EDS in a dog
+File:Ehlers-Danlos Syndrome 1.jpg|Same dog with EDS
+File:Ehlers-Danlos syndrome 3.jpg|EDS in same dog showing an atrophic scar
+</gallery>
+Degenerative suspensory ligament desmitis is a similar condition seen in many breeds of horses.<ref name="Halper2014"></ref> It was originally notated in the Peruvian Paso and thought to be a condition of overwork and older age, but it is being recognized in all age groups and all activity levels. It has been noted in newborn foals.
+==See also==
+*Ehlers-Danlos Society
+*Hypermobility spectrum disorder
+
+Ehlers–Danlos syndromes are a group of rare genetic connective tissue disease.<ref name=NIHGHR2016/> Symptoms may include loose joints, joint pain, stretchy velvety skin, and abnormal scar formation.<ref name=NIHGHR2016/> These can be noticed at birth or in early childhood.<ref name=Net2012></ref> Complications may include aortic dissection, joint dislocations, scoliosis, chronic pain, or early osteoarthritis.<ref name=NIHGHR2016/><ref name=Law2005/>
+EDS occurs due to variations of more than 19 different genes that are present at birth.<ref name=NIHGHR2016/> The specific gene affected determines the type of EDS.<ref name=NIHGHR2016/> Some cases result from a new variation occurring during early development, while others are inherited in an autosomal dominant or recessive manner.<ref name=NIHGHR2016/> Typically, these variations result in defects in the structure or processing of the protein collagen.<ref name=NIHGHR2016/>
+Diagnosis is often based on symptoms and confirmed with genetic testing or skin biopsy,<ref name=Law2005/> but people may initially be misdiagnosed with hypochondriasis, depression, or chronic fatigue syndrome.<ref name=Law2005/> A large number of signs and symptoms still remain to be identified and linked to EDS, and ignorance on the part of physicians is, according to rehabilitation medicine physician Claude Hamonet, "at the origin of therapeutic errors accompanied by the iatrogenic effects of prejudice towards these patients."<ref name="SOJNEUROLOGY"></ref>
+No cure is known.<ref name=Fer2016></ref> Treatment is supportive in nature.<ref name=Law2005/> Physical therapy and bracing may help strengthen muscles and support joints.<ref name=Law2005></ref> While some forms of EDS result in a normal life expectancy, those that affect blood vessels generally decrease it.<ref name=Fer2016/>
+The hypermobile type of EDS (hEDS) affects at least one in 5,000 people globally;<ref name=NIHGHR2016></ref><ref></ref> other types occur at lower frequencies.<ref></ref><ref name=":6" /> The prognosis depends on the specific disorder.<ref name=Law2005/> Excess mobility was first described by Hippocrates in 400 BC.<ref></ref> The syndromes are named after two physicians, Edvard Ehlers from Denmark and Henri-Alexandre Danlos from France, who described them at the turn of the 20th century.<ref name=Byers2012> </ref>

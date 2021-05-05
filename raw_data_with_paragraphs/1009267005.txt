@@ -1,0 +1,48 @@
+T-symmetry
+
+== Macroscopic phenomena ==
+===The second law of thermodynamics===
+Image:teeter-totter.png|frame|A toy called the teeter-totter illustrates, in cross-section, the two aspects of time reversal invariance. When set into motion atop a pedestal (rocking side to side, as in the image), the figure oscillates for a very long time. The toy is engineered to minimize friction and illustrate the reversibility of Newton's laws of motion. However, the mechanically stable state of the toy is when the figure falls down from the pedestal into one of arbitrarily many positions. This is an illustration of the law of increase of entropy through Boltzmann's identification of the logarithm of the number of states with the entropy.
+Daily experience shows that T-symmetry does not hold for the behavior of bulk materials. Of these macroscopic laws, most notable is the second law of thermodynamics. Many other phenomena, such as the relative motion of bodies with friction, or viscous motion of fluids, reduce to this, because the underlying mechanism is the dissipation of usable energy (for example, kinetic energy) into heat.
+The question of whether this time-asymmetric dissipation is really inevitable has been considered by many physicists, often in the context of Maxwell's demon. The name comes from a thought experiment described by James Clerk Maxwell in which a microscopic demon guards a gate between two halves of a room. It only lets slow molecules into one half, only fast ones into the other. By eventually making one side of the room cooler than before and the other hotter, it seems to reduce the entropy of the room, and reverse the arrow of time. Many analyses have been made of this; all show that when the entropy of room and demon are taken together, this total entropy does increase. Modern analyses of this problem have taken into account Claude E. Shannon's relation between information entropy. Many interesting results in modern computing are closely related to this problem &mdash; reversible computing, quantum computing and physical limits to computing, are examples. These seemingly metaphysical questions are today, in these ways, slowly being converted into hypotheses of the physical sciences.
+The current consensus hinges upon the Boltzmann-Shannon identification of the logarithm of phase space volume with the negative of information theory, and hence to entropy. In this notion, a fixed initial state of a macroscopic system corresponds to relatively low entropy because the coordinates of the molecules of the body are constrained. As the system evolves in the presence of dissipation, the molecular coordinates can move into larger volumes of phase space, becoming more uncertain, and thus leading to increase in entropy.
+=== Big Bang===
+One resolution to irreversibility is to say that the constant increase of entropy we observe happens only because of the initial state of our universe. Other possible states of the universe (for example, a universe at heat death equilibrium) would actually result in no increase of entropy. In this view, the apparent T-asymmetry of our universe is a problem in cosmology: why did the universe start with a low entropy? This view, supported by cosmological observation (such as the isotropy of the Cosmic Microwave Background, connect this problem to the question of initial conditions of the universe.
+===Black holes===
+The laws of gravity seem to be time reversal invariant in classical mechanics; however, specific solutions need not be.
+An object can cross through the event horizon of a black hole from the outside, and then fall rapidly to the central region where our understanding of physics breaks down. Since within a black hole the forward light-cone is directed towards the center and the backward light-cone is directed outward, it is not even possible to define time-reversal in the usual manner. The only way anything can escape from a black hole is as Hawking radiation.
+The time reversal of a black hole would be a hypothetical object known as a white hole. From the outside they appear similar. While a black hole has a beginning and is inescapable, a white hole has an ending and cannot be entered. The forward light-cones of a white hole are directed outward; and its backward light-cones are directed towards the center.
+The event horizon of a black hole may be thought of as a surface moving outward at the local speed of light and is just on the edge between escaping and falling back. The event horizon of a white hole is a surface moving inward at the local speed of light and is just on the edge between being swept outward and succeeding in reaching the center. They are two different kinds of horizons—the horizon of a white hole is like the horizon of a black hole turned inside-out.
+The modern view of black hole irreversibility is to relate it to the second law of thermodynamics, since black holes are viewed as thermodynamic objects. For example, according to the gauge–gravity duality conjecture, all microscopic processes in a black hole are reversible, and only the collective behavior is irreversible, as in any other macroscopic, thermal system.
+===Kinetic consequences: detailed balance and Onsager reciprocal relations===
+In physical and chemical kinetics, T-symmetry of the mechanical microscopic equations implies two important laws: the principle of detailed balance and the Onsager reciprocal relations. T-symmetry of the microscopic description together with its kinetic consequences are called microscopic reversibility.
+===Effect of time reversal on some variables of classical physics===
+====Even====
+Classical variables that do not change upon time reversal include:
+:<math>\vec x</math>, position of a particle in three-space
+:<math>\vec a</math>, acceleration of the particle
+:<math>\vec F</math>, force on the particle
+:<math>E</math>, energy of the particle
+:<math>V</math>, electric potential (voltage)
+:<math>\vec E</math>, electric field
+:<math>\vec D</math>, electric displacement
+:<math>\rho</math>, density of electric charge
+:<math>\vec P</math>, electric polarization
+:Energy density of the electromagnetic field
+:<math>T_, are characterized by a multiplicative quantum number, sometimes called the T-parity.
+Time reversal transformation for fermions in quantum field theories can be represented by an urltoken 8-component spinor in which the above-mentioned T-parity can be a complex number with unit radius. The CPT invariance is not a theorem but a better-to-have property in these class of theories.
+===Time reversal of the known dynamical laws===
+Particle physics codified the basic laws of dynamics into the standard model. This is formulated as a quantum field theory that has CPT symmetry, i.e., the laws are invariant under simultaneous operation of time reversal, parity and charge conjugation. However, time reversal itself is seen not to be a symmetry (this is usually called CP violation). There are two possible origins of this asymmetry, one through the mixing of different flavours of quarks in their weak decays, the second through a direct CP violation in strong interactions. The first is seen in experiments, the second is strongly constrained by the non-observation of the EDM of a neutron.
+Time reversal violation is unrelated to the second law of thermodynamics, because due to the conservation of the CPT symmetry, the effect of time reversal is to rename particles as antiparticles and vice versa. Thus the second law of thermodynamics is thought to originate in the initial conditions in the universe.
+===Time reversal of noninvasive measurements===
+Strong measurements (both classical and quantum) are certainly disturbing, causing asymmetry due to the second law of thermodynamics. However,
+Weak measurement should not disturb the evolution so they are expected to be time-symmetric. Surprisingly, it is true only in classical physics but not quantum, even in a thermodynamically invariant equilibrium state.
+<ref name=non-time /> This type of asymmetry is independent of CPT symmetry but has not yet been confirmed experimentally due to extreme conditions of the checking proposal.
+
+T-symmetry or time reversal symmetry is the theoretical symmetry (physics) under the transformation of time reversal,
+:<math> T: t \mapsto -t.</math>
+Since the second law of thermodynamics states that entropy increases as time flows toward the future, in general, the macroscopic universe does not show symmetry under time reversal. In other words, time is said to be non-symmetric, or asymmetric, except for special equilibrium states when the second law of thermodynamics predicts the time symmetry to hold. However, quantum Weak measurement are predicted to violate time symmetry even in equilibrium,<ref name=non-time></ref> contrary to their classical counterparts, although this has not yet been experimentally confirmed.
+Time asymmetries generally are caused by one of three categories:
+# intrinsic to the dynamic physical law (e.g., for the weak force)
+# due to the Big Bang (e.g., for the second law of thermodynamics)
+# due to measurements (e.g., for the noninvasive measurements)

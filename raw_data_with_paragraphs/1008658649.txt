@@ -1,0 +1,201 @@
+Steam locomotive
+
+==History==
+===Britain===
+The earliest railways employed horses to draw carts along rail tracks.<ref></ref> In 1784, William Murdoch, a Scotland inventor, built a small-scale prototype of a steam road locomotive in Birmingham.<ref></ref> A full-scale rail steam locomotive was proposed by William Reynolds around 1787.<ref> urltoken The Railway Magazine, Volume 150, IPC Business Press, 2004, page 11. Google Books.</ref> An early working model of a steam rail locomotive was designed and constructed by steamboat pioneer John Fitch in the US during 1794.<ref></ref> His steam locomotive used interior bladed wheels guided by rails or tracks. The model still exists at the Ohio Historical Society Museum in Columbus.<ref></ref> The authenticity and date of this locomotive is disputed by some experts and a workable steam train would have to await the invention of the high-pressure steam engine by Richard Trevithick, who pioneered the use of steam locomotives.<ref></ref>
+The first full-scale working railway steam locomotive, was the gauge Coalbrookdale Locomotive, built by Trevithick in 1802. It was constructed for the Coalbrookdale ironworks in Shropshire in the United Kingdom though no record of it working there has survived.<ref></ref> On 21 February 1804, the first recorded steam-hauled railway journey took place as another of Trevithick's locomotives hauled a train along the tramway from the Pen-y-darren ironworks, near Merthyr Tydfil, to Abercynon in South Wales.<ref></ref><ref></ref> Accompanied by Andrew Vivian, it ran with mixed success.<ref name="ODNBTrevithick"></ref> The design incorporated a number of important innovations that included using high-pressure steam which reduced the weight of the engine and increased its efficiency.
+Trevithick visited the Newcastle area in 1804 and had a ready audience of colliery (coal mine) owners and engineers. The visit was so successful that the colliery railways in north-east England became the leading centre for experimentation and development of the steam locomotive.<ref name = "Garnett,2005" ></ref> Trevithick continued his own steam propulsion experiments through another trio of locomotives, concluding with the Catch Me Who Can in 1808.
+In 1812, Matthew Murray's successful twin-cylinder rack locomotive Salamanca first ran on the edge-railed rack and pinion Middleton Railway.<ref name="Young,1923"></ref> Another well-known early locomotive was Puffing Billy, built 1813–14 by engineer William Hedley. It was intended to work on the Wylam Colliery near Newcastle upon Tyne. This locomotive is the oldest preserved, and is on static display in the Science Museum, London.
+====George Stephenson====
+George Stephenson, a former miner working as an engine-wright at Killingworth Colliery, developed up to sixteen Killingworth locomotives, including Blücher in 1814, another in 1815, and a (newly identified) Killingworth Billy in 1816. He also constructed The Duke in 1817 for the Kilmarnock and Troon Railway, which was the first steam locomotive to work in Scotland.
+In 1825, George Stephenson built Locomotion No. 1 for the Stockton and Darlington Railway, north-east England, which was the first public steam railway in the world. In 1829, his son Robert built in Newcastle The Rocket, which was entered in and won the Rainhill Trials. This success led to the company emerging as the pre-eminent builder of steam locomotives used on railways in the UK, US and much of Europe.<ref name="Ellis,1968" /> The Liverpool and Manchester Railway opened a year later making exclusive use of steam power for passenger and goods trains.
+===United States===
+Many of the earliest locomotives for American railroads were imported from Great Britain, including first the Stourbridge Lion and later the John Bull (still John Bull (locomotive)#Operating again after 150 years of any kind, as of 1981). However, a domestic locomotive-manufacturing industry was quickly established. The Baltimore and Ohio Railroad's Tom Thumb in 1830, designed and built by Peter Cooper,<ref></ref> was the first US-built locomotive to run in America, although it was intended as a demonstration of the potential of steam traction, rather than as a revenue-earning locomotive. The DeWitt Clinton was also built in the 1830s.<ref name="Ellis,1968" ></ref>
+===Continental Europe===
+The first railway service outside the United Kingdom and North America was opened in 1829 in France between Saint-Etienne and Lyon. Then on 5 May 1835, the first line in Belgium linked Mechelen and Brussels. The locomotive was named The Elephant.
+In Germany, the first working steam locomotive was a rack-and-pinion engine, similar to the Salamanca, designed by the British locomotive pioneer John Blenkinsop. Built in June 1816 by Johann Friedrich Krigar in the Royal Berlin Iron Foundry (Königliche Eisengießerei zu Berlin), the locomotive ran on a circular track in the factory yard. It was the first locomotive to be built on the European mainland and the first steam-powered passenger service; curious onlookers could ride in the attached coaches for a fee. It is portrayed on a New Year's badge for the Royal Foundry dated 1816. Another locomotive was built using the same system in 1817. They were to be used on pit railways in Königshütte and in Luisenthal on the Saar (today part of Völklingen), but neither could be returned to working order after being dismantled, moved and reassembled. On 7 December 1835, the Adler ran for the first time between Nuremberg and Fürth on the Bavarian Ludwig Railway. It was the 118th engine from the locomotive works of Robert Stephenson and stood under patent protection.
+In Russia, the first steam locomotive was built in 1834 by Cherepanovs. The first Russian Tsarskoye Selo Railway started in 1837.
+In 1837, the first steam railway started in Austria on the Austrian Northern Railway between Floridsdorf and Deutsch-Wagram. The oldest continually working steam engine in the world also runs in Austria: the GKB 671 built in 1860, has never been taken out of service, and is still used for special excursions.
+In 1838, the third steam locomotive to be built in Germany, the Saxonia, was manufactured by the Maschinenbaufirma Übigau near Dresden, built by Prof. Johann Andreas Schubert. The first independently designed locomotive in Germany was the Beuth, built by August Borsig in 1841. The first locomotive produced by Henschel-Werke in Kassel, the Drache, was delivered in 1848.
+The first steam locomotives operating in Italy were the Bayard and the Vesuvio, running on the Napoli-Portici line, in the Kingdom of the Two Sicilies.
+The first railway line over Swiss territory was the Strasbourg–Basle line opened in 1844. Three years later, in 1847, the first fully Swiss railway line, the Spanisch Brötli Bahn, from Zürich to Baden was opened.
+==Basic form==
+===Boiler===
+The fire-tube boiler was standard practice for steam locomotive. Although other types of boiler were evaluated they were not widely used, except for some 1,000 locomotives in Hungary which used the water-tube Brotan boiler.
+A boiler consists of a firebox where the fuel is burned, a barrel where water is turned into steam and a smokebox which is kept at a slightly lower pressure than outside the firebox.
+Solid fuel, such as wood, coal or coke, is thrown into the firebox through a door by a fireman, onto a set of grates which hold the fuel in a bed as it burns. Ash falls through the grate into an ashpan. If oil is used as the fuel, a door is needed for adjusting the air flow, maintaining the firebox, and cleaning the oil jets.
+The fire-tube boiler has internal tubes connecting the firebox to the smokebox through which the combustion gases flow transferring heat to the water. All the tubes together provide a large contact area, called the tube heating surface, between the gas and water in the boiler. Boiler water surrounds the firebox to stop the metal from becoming too hot. This is another area where the gas transfers heat to the water and is called the firebox heating surface. Ash and char collect in the smokebox as the gas gets drawn up the chimney (stack or smokestack in the US) by the exhaust steam from the cylinders.
+The pressure in the boiler has to be monitored using a gauge mounted in the cab. Steam pressure can be released manually by the driver or fireman. If the pressure reaches the boiler's design working limit, a safety valve opens automatically to reduce the pressure<ref></ref> and avoid a catastrophic accident.
+The exhaust steam from the engine cylinders shoots out of a nozzle pointing up the chimney in the smokebox. The steam entrains or drags the smokebox gases with it which maintains a lower pressure in the smokebox than that under the firebox grate. This pressure difference causes air to flow up through the coal bed and keeps the fire burning.
+The search for thermal efficiency greater than that of a typical fire-tube boiler led engineers, such as Nigel Gresley, to consider the water-tube boiler. Although he tested the concept on the LNER Class W1, the difficulties during development exceeded the will to increase efficiency by that route.
+The steam generated in the boiler not only moves the locomotive, but is also used to operate other devices such as the whistle, the air compressor for the brakes, the pump for replenishing the water in the boiler and the passenger car heating system. The constant demand for steam requires a periodic replacement of water in the boiler. The water is kept in a tank in the locomotive tender or wrapped around the boiler in the case of a tank locomotive. Periodic stops are required to refill the tanks; an alternative was a scoop installed under the tender that collected water as the train passed over a track pan located between the rails.
+While the locomotive is producing steam, the amount of water in the boiler is constantly monitored by looking at the water level in a transparent tube, or sight glass. Efficient and safe operation of the boiler requires keeping the level in between lines marked on the sight glass. If the water level is too high, steam production falls, efficiency is lost and water is carried out with the steam into the cylinders, possibly causing mechanical damage. More seriously, if the water level gets too low, the crown(top)sheet of the firebox becomes exposed. Without water on top of the sheet to transfer away the heat of combustion, it softens and fails, letting high-pressure steam into the firebox and the cab. The development of the fusible plug, a temperature-sensitive device, ensured a controlled venting of steam into the firebox to warn the fireman to add water.
+Scale builds up in the boiler and prevents adequate heat transfer, and corrosion eventually degrades the boiler materials to the point where it needs to be rebuilt or replaced. Start-up on a large engine may take hours of preliminary heating of the boiler water before sufficient steam is available.
+Although the boiler is typically placed horizontally, for locomotives designed to work in locations with steep slopes it may be more appropriate to consider a vertical boiler or one mounted such that the boiler remains horizontal but the wheels are inclined to suit the slope of the rails.
+===Steam circuit===
+The steam generated in the boiler fills the space above the water in the partially filled boiler. Its maximum working pressure is limited by spring-loaded safety valves. It is then collected either in a perforated tube fitted above the water level or by a dome that often houses the regulator valve, or throttle, the purpose of which is to control the amount of steam leaving the boiler. The steam then either travels directly along and down a steam pipe to the engine unit or may first pass into the wet header of a superheater, the role of the latter being to improve thermal efficiency and eliminate water droplets suspended in the "saturated steam", the state in which it leaves the boiler. On leaving the superheater, the steam exits the dry header of the superheater and passes down a steam pipe, entering the steam chests adjacent to the cylinders of a reciprocating engine. Inside each steam chest is a sliding valve that distributes the steam via ports that connect the steam chest to the ends of the cylinder space. The role of the valves is twofold: admission of each fresh dose of steam, and exhaust of the used steam once it has done its work.
+The cylinders are double-acting, with steam admitted to each side of the piston in turn. In a two-cylinder locomotive, one cylinder is located on each side of the vehicle. The cranks are set 90° out of phase. During a full rotation of the driving wheel, steam provides four power strokes; each cylinder receives two injections of steam per revolution. The first stroke is to the front of the piston and the second stroke to the rear of the piston; hence two working strokes. Consequently, two deliveries of steam onto each piston face in the two cylinders generates a full revolution of the driving wheel. Each piston is attached to the driving axle on each side by a connecting rod, and the driving wheels are connected together by coupling rods to transmit power from the main driver to the other wheels. Note that at the two "dead centres", when the connecting rod is on the same axis as the crankpin on the driving wheel, the connecting rod applies no torque to the wheel. Therefore, if both cranksets could be at "dead centre" at the same time, and the wheels should happen to stop in this position, the locomotive could not start moving. Therefore, the crankpins are attached to the wheels at a 90° angle to each other, so only one side can be at dead centre at a time.
+Each piston transmits power through a crosshead, connecting rod (Main rod in the US) and a crankpin on the driving wheel (Main driver in the US) or to a crank on a driving axle. The movement of the valves in the steam chest is controlled through a set of rods and linkages called the valve gear, actuated from the driving axle or from the crankpin; the valve gear includes devices that allow reversing the engine, adjusting valve travel and the timing of the admission and exhaust events. The cut-off point determines the moment when the valve blocks a steam port, "cutting off" admission steam and thus determining the proportion of the stroke during which steam is admitted into the cylinder; for example a 50% cut-off admits steam for half the stroke of the piston. The remainder of the stroke is driven by the expansive force of the steam. Careful use of cut-off provides economical use of steam and in turn, reduces fuel and water consumption. The reversing lever (Johnson bar in the US), or screw-reverser (if so equipped), that controls the cut-off, therefore, performs a similar function to a gearshift in an automobile – maximum cut-off, providing maximum tractive effort at the expense of efficiency, is used to pull away from a standing start, whilst a cut-off as low as 10% is used when cruising, providing reduced tractive effort, and therefore lower fuel/water consumption.<ref name="Ahrons, 1925" ></ref>
+Exhaust steam is directed upwards out of the locomotive through the chimney, by way of a nozzle called a blastpipe, creating the familiar "chuffing" sound of the steam locomotive. The blastpipe is placed at a strategic point inside the smokebox that is at the same time traversed by the combustion gases drawn through the boiler and grate by the action of the steam blast. The combining of the two streams, steam and exhaust gases, is crucial to the efficiency of any steam locomotive, and the internal profiles of the chimney (or, strictly speaking, the ejector) require careful design and adjustment. This has been the object of intensive studies by a number of engineers (and often ignored by others, sometimes with catastrophic consequences). The fact that the draught depends on the exhaust pressure means that power delivery and power generation are automatically self-adjusting. Among other things, a balance has to be struck between obtaining sufficient draught for combustion whilst giving the exhaust gases and particles sufficient time to be consumed. In the past, a strong draught could lift the fire off the grate, or cause the ejection of unburnt particles of fuel, dirt and pollution for which steam locomotives had an unenviable reputation. Moreover, the pumping action of the exhaust has the counter-effect of exerting back pressure on the side of the piston receiving steam, thus slightly reducing cylinder power. Designing the exhaust ejector became a specific science, with engineers such as Chapelon, Giesl and Porta making large improvements in thermal efficiency and a significant reduction in maintenance time<ref name="A1" >See section of the LNER Class A1/A3 article on the sharp increase in availability brought about in this respect by the application of the Kylchap exhaust to Gresley Pacifics in the early 1960s</ref> and pollution.<ref>J.J.G. Koopmans: The fire burns much better . NL-Venray 2006, </ref> A similar system was used by some early gasoline/kerosene tractor manufacturers (Advance-Rumely/Hart-Parr) – the exhaust gas volume was vented through a cooling tower, allowing the steam exhaust to draw more air past the radiator.
+===Running gear===
+Running gear includes the brake gear, wheel sets, axleboxes, springing and the motion that includes connecting rods and valve gear. The transmission of the power from the pistons to the rails and the behaviour of the locomotive as a vehicle, being able to negotiate curves, points and irregularities in the track, is of paramount importance. Because reciprocating power has to be directly applied to the rail from 0&nbsp;rpm upwards, this creates the problem of adhesion of the driving wheels to the smooth rail surface. Adhesive weight is the portion of the locomotive's weight bearing on the driving wheels. This is made more effective if a pair of driving wheels is able to make the most of its axle load, i.e. its individual share of the adhesive weight. Equalising beams connecting the ends of leaf springs have often been deemed a complication in Britain, however, locomotives fitted with the beams have usually been less prone to loss of traction due to wheel-slip. Suspension using equalizing levers between driving axles, and between driving axles and trucks, was standard practice on North American locomotives to maintain even wheel loads when operating on uneven track.
+Locomotives with total adhesion, where all of the wheels are coupled together, generally lack stability at speed. To counter this, locomotives often fit unpowered carrying wheels mounted on two-wheeled trucks or four-wheeled bogies centred by springs/inverted rockers/geared rollers that help to guide the locomotive through curves. These usually take on weight – of the cylinders at the front or the firebox at the rear — when the width exceeds that of the mainframes. Locomotives with multiple coupled-wheels on a rigid chassis would have unacceptable flange forces on tight curves giving excessive flange and rail wear, track spreading and wheel climb derailments. One solution was to remove or thin the flanges on an axle. More common was to give axles end-play and use lateral motion control with spring or inclined-plane gravity devices.
+Railroads generally preferred locomotives with fewer axles, to reduce maintenance costs. The number of axles required was dictated by the maximum axle loading of the railroad in question. A builder would typically add axles until the maximum weight on any one axle was acceptable to the railroad's maximum axle loading. A locomotive with a wheel arrangement of two lead axles, two drive axles, and one trailing axle was a high-speed machine. Two lead axles were necessary to have good tracking at high speeds. Two drive axles had a lower reciprocating mass than three, four, five or six coupled axles. They were thus able to turn at very high speeds due to the lower reciprocating mass. A trailing axle was able to support a huge firebox, hence most locomotives with the wheel arrangement of (American Type Atlantic) were called free steamers and were able to maintain steam pressure regardless of throttle setting.
+===Chassis===
+The chassis, or locomotive frame, is the principal structure onto which the boiler is mounted and which incorporates the various elements of the running gear. The boiler is rigidly mounted on a "saddle" beneath the smokebox and in front of the boiler barrel, but the firebox at the rear is allowed to slide forward and backwards, to allow for expansion when hot.
+European locomotives usually use "plate frames", where two vertical flat plates form the main chassis, with a variety of spacers and a buffer beam at each end to form a rigid structure. When inside cylinders are mounted between the frames, the plate frames are a single large casting that forms a major support element. The axleboxes slide up and down to give some sprung suspension, against thickened webs attached to the frame, called "hornblocks".<ref>How Steam Locomotives Really Work, P.W.B.Semmens and A.J.Goldfinch, Oxford University Press 2000, , p.172</ref>
+American practice for many years was to use built-up bar frames, with the smokebox saddle/cylinder structure and drag beam integrated therein. In the 1920s, with the introduction of "superpower", the cast-steel locomotive bed became the norm, incorporating frames, spring hangers, motion brackets, smokebox saddle and cylinder blocks into a single complex, sturdy but heavy casting. An S.N.C.F design study using welded tubular frames
+gave a rigid frame with a 30% weight reduction.<ref>"La Locomotive a Vapeur", Andre Chapelon, English Translation by George W. Carpenter, Camden Miniature Steam Services 2000, , Fig.37</ref>
+===Fuel and water===
+Generally, the largest locomotives are permanently coupled to a tender that carries the water and fuel. Often, locomotives working shorter distances do not have a tender and carry the fuel in a bunker, with the water carried in tanks placed next to the boiler. The tanks can be in various configurations, including two tanks alongside (side tanks or pannier tanks), one on top (saddle tank) or one between the frames (well tank).
+The fuel used depended on what was economically available to the railway. In the UK and other parts of Europe, plentiful supplies of coal made this the obvious choice from the earliest days of the steam engine. Until 1870,<ref>
+</ref> the majority of locomotives in the United States burned wood, but as the Eastern forests were cleared, coal gradually became more widely used until it became the dominant fuel worldwide in steam locomotives. Railways serving sugar cane farming operations burned bagasse, a byproduct of sugar refining. In the US, the ready availability and low price of oil made it a popular steam locomotive fuel after 1900 for the southwestern railroads, particularly the Southern Pacific. In the Australian state of Victoria, many steam locomotives were converted to heavy oil firing after World War II. German, Russian, Australian and British railways experimented with using coal dust to fire locomotives.
+During World War 2, a number of Swiss steam Switcher were modified to use electrically heated boilers, consuming around 480&nbsp;kW of power collected from an overhead line with a pantograph. These locomotives were significantly less efficient than electric ones; they were used because Switzerland was suffering a coal shortage because of the War, but had access to plentiful hydroelectricity.<ref></ref>
+A number of tourist lines and heritage locomotives in Switzerland, Argentina and Australia have used light diesel-type oil.<ref name="aus.rail Oil" ></ref>
+Water was supplied at stopping places and locomotive depots from a dedicated water tower connected to water cranes or gantries. In the UK, the US and France, water troughs (track pans in the US) were provided on some main lines to allow locomotives to replenish their water supply without stopping, from rainwater or snowmelt that filled the trough due to inclement weather. This was achieved by using a deployable "water scoop" fitted under the tender or the rear water tank in the case of a large tank engine; the fireman remotely lowered the scoop into the trough, the speed of the engine forced the water up into the tank, and the scoop was raised again once it was full.
+Water is an essential element in the operation of a steam locomotive. As Swengel argued:
+Swengel went on to note that "at low temperature and relatively low boiler outputs", good water and regular boiler washout was an acceptable practice, even though such maintenance was high. As steam pressures increased, however, a problem of "foaming" or "priming" developed in the boiler, wherein dissolved solids in the water formed "tough-skinned bubbles" inside the boiler, which in turn were carried into the steam pipes and could blow off the cylinder heads. To overcome the problem, hot mineral-concentrated water was deliberately wasted (blown down) from the boiler periodically. Higher steam pressures required more blowing-down of water out of the boiler. Oxygen generated by boiling water attacks the boiler, and with increased steam pressure the rate of rust (iron oxide) generated inside the boiler increases. One way to help overcome the problem was water treatment. Swengel suggested that these problems contributed to the interest in electrification of railways.<ref name="Swengel"></ref>
+In the 1970s, L.D. Porta developed a sophisticated system of heavy-duty chemical water treatment (Porta Treatment) that not only keeps the inside of the boiler clean and prevents corrosion, but modifies the foam in such a way as to form a compact "blanket" on the water surface that filters the steam as it is produced, keeping it pure and preventing carry-over into the cylinders of water and suspended abrasive matter.<ref></ref><ref></ref>
+===Crew===
+A steam locomotive is normally controlled from the boiler's backhead, and the crew is usually protected from the elements by a cab. A crew of at least two people is normally required to operate a steam locomotive. One, the Railroad engineer, is responsible for controlling the locomotive's starting, stopping, and speed, and the fireman is responsible for maintaining the fire, regulating steam pressure and monitoring boiler and tender water levels. Due to the historical loss of operational infrastructure and staffing, preserved steam locomotives operating on the mainline will often have a support crew travelling with the train.
+==Fittings and appliances==
+All locomotives are fitted with a variety of appliances. Some of these relate directly to the operation of the steam engine; while others are for signalling, train control or other purposes. In the United States, the Federal Railroad Administration mandated the use of certain appliances over the years in response to safety concerns. The most typical appliances are as follows:
+===Steam pumps and injectors===
+Water (feedwater) must be delivered to the boiler to replace that which is exhausted as steam after delivering a working stroke to the pistons. As the boiler is under pressure during operation, feedwater must be forced into the boiler at a pressure that is greater than the steam pressure, necessitating the use of some sort of pump. Hand-operated pumps sufficed for the very earliest locomotives. Later engines used pumps driven by the motion of the pistons (axle pumps), which were simple to operate, reliable and could handle large quantities of water but only operated when the locomotive was moving and could overload the valve gear and piston rods at high speeds. Steam injectors later replaced the pump, while some engines transitioned to turbopumps. Standard practice evolved to use two independent systems for feeding water to the boiler; either two steam injectors or, on more conservative designs, axle pumps when running at service speed and a steam injector for filling the boiler when stationary or at low speeds. By the 20th century virtually all new-built locomotives used only steam injectors – often one injector was supplied with "live" steam straight from the boiler itself and the other used exhaust steam from the locomotive's cylinders, which was more efficient (since it made use of otherwise wasted steam) but could only be used when the locomotive was in motion and the regulator was open. Injectors became unreliable if the feedwater was at a high temperature, so locomotives with feedwater heaters, tank locomotives with the tanks in contact with the boiler and condensing locomotives sometimes used reciprocating steam pumps or turbopumps.
+Vertical glass tubes, known as Sight glass or water glasses, show the level of water in the boiler and are carefully monitored at all times while the boiler is being fired. Before the 1870s it was more common to have a series of try-cocks fitted to the boiler within reach of the crew; each try cock (at least two and usually three were fitted) was mounted at a different level. By opening each try-cock and seeing if steam or water vented through it, the level of water in the boiler could be estimated with limited accuracy. As boiler pressures increased the use of try-cocks became increasingly dangerous and the valves were prone to blockage with scale or sediment, giving false readings. This led to their replacement with the sight glass. As with the injectors, two glasses with separate fittings were usually installed to provide independent readings.
+===Boiler insulation===
+The term for pipe and boiler insulation is "lagging"<ref></ref> which derives from the cooper's term for a wooden Stave (wood).<ref>"lag, n.2". OED Online. March 2018. Oxford University Press. urltoken Accessed May 22, 2018.</ref> Two of the earliest steam locomotives used wooden lagging to insulate their boilers: the Salamanca, the first commercially successful steam locomotive, built in 1812,<ref></ref> and the Locomotion No. 1, the first steam locomotive to carry passengers on a public rail line. Large amounts of heat are wasted if a boiler is not insulated. Early locomotives used lags, shaped wooden staves, fitted lengthways along the boiler barrel, and held in place by hoops, metal bands, the terms and methods are from cooperage.
+Improved insulating methods included applying a thick paste containing a porous mineral such as kieselgur, or attaching shaped blocks of insulating compound such as magnesia blocks.<ref>Scott, Ron; GN Large Atlantics (Profile Publications Berks UK&nbsp;– no date), p. 129</ref> In the latter days of steam, "mattresses" of stitched asbestos cloth stuffed with asbestos fibre were fixed to the boiler, on separators so as not quite to touch the boiler. However, asbestos is currently banned in most countries for health reasons. The most common modern-day material is glass wool, or wrappings of aluminium foil.
+The lagging is protected by a close-fitted sheet-metal casing<ref name="AMBell" ></ref> known as boiler clothing or cleading.
+Effective lagging is particularly important for fireless locomotives; however, in recent times under the influence of L.D. Porta, "exaggerated" insulation has been practised for all types of locomotive on all surfaces liable to dissipate heat, such as cylinder ends and facings between the cylinders and the mainframes. This considerably reduces engine warmup time with a marked increase in overall efficiency.
+===Safety valves===
+Early locomotives were fitted with a valve controlled by a weight suspended from the end of a lever, with the steam outlet being stopped by a cone-shaped valve. As there was nothing to prevent the weighted lever from bouncing when the locomotive ran over irregularities in the track, thus wasting steam, the weight was later replaced by a more stable spring-loaded column, often supplied by Salter, a well-known spring scale manufacturer. The danger of these devices was that the driving crew could be tempted to add weight to the arm to increase pressure. Most early boilers were fitted with a tamper-proof "lockup" direct-loaded ball valve protected by a cowl. In the late 1850s, John Ramsbottom introduced a safety valve that became popular in Britain during the latter part of the 19th century. Not only was this valve tamper-proof, but tampering by the driver could only have the effect of easing pressure. George Richardson's safety valve was an American invention introduced in 1875,<ref name="White, 1968" > (Mashin Sentai Kiramager, 2020 (episode 14)) (First series of this era.)
+==See also==
+===General===
+* History of rail transport
+* List of steam technology patents
+* Live steam
+* Reciprocating motion
+* Steam locomotive production
+* Steam railroad
+* Steam turbine locomotive
+* Timeline of railway history
+===Types of steam locomotives===
+* Articulated locomotive
+** Beyer-Garratt locomotive
+** Fairlie locomotive
+*** Double Fairlie locomotive
+*** Single Fairlie locomotive
+*** Péchot-Bourdon locomotive
+*** Mason Fairlie locomotive
+** Mallet locomotive
+* Cab forward locomotive
+* Compound locomotive
+* Duplex locomotive
+* Electric-steam locomotive
+* Geared steam locomotive
+* Heilmann locomotive
+* High-pressure steam locomotive
+* 5AT Advanced Technology Steam Locomotive
+* Steam dummy and Steam trams
+* Steam turbine locomotive
+* Tank locomotive
+* Triplex locomotive
+===Historic locomotives===
+* 2-6-6-6
+* 2-8-8-4
+* 3801
+* Arend
+* Bittern
+* Canadian Pacific 374
+* C&O 1308
+* C&O 1309
+* C&O 614
+* Catch Me Who Can
+* City of Truro
+* Evening Star
+* Fairy Queen
+* Flying Scotsman
+* Garratt K1
+* The General
+* GKB 671
+* Gov. Stanford
+* GWR 4900 Class 5972 Olton Hall
+* Invicta
+* John Bull
+* Jupiter
+* Kingston Flyer
+* Kriegslokomotive
+* Locomotion No 1
+* LMR 57 Lion
+* Mallard
+* N&W J class (1941)
+* N&W 1218
+* N&W 2156
+* Novelty
+* NYC 999
+* NYC Hudson
+* NYC Mohawk
+* NYC Niagara
+* Pere Marquette 1225
+* PRR K4s
+* PRR I1s
+* PRR Q2
+* Puffing Billy
+* Reuben Wells
+* Santa Fe 3751
+* Sir Nigel Gresley
+* Soo Line 2719
+* Stephenson's Rocket
+* Norfolk and Western Railway 475
+* Southern Pacific 4449
+* Southern Railway 4501
+* Tom Thumb
+* Tornado
+* Union Pacific 844
+* Union Pacific Big Boy
+* Union Pacific Challenger
+* Union Pacific No. 119
+* Western Pacific 94
+* William Crooks
+==References==
+==Bibliography==
+* 
+==Further reading==
+* C. E. Wolff, Modern Locomotive Practice: A Treatise on the Design, Construction, and Working of Steam Locomotives (Manchester, England, 1903)
+* Henry Greenly, Model Locomotive (New York, 1905)
+* G. R. Henderson, Cost of Locomotive Operation (New York, 1906)
+* W. E. Dalby, Economical Working of Locomotives (London, 1906)
+* A. I. Taylor, Modern British Locomotives (New York, 1907)
+* E. L. Ahrons, The Development of British Locomotive Design (London, 1914)
+* E. L. Ahrons, urltoken Steam Engine Construction and Maintenance (London, 1921)
+* J. F. Gairns, Locomotive Compounding and Superheating (Philadelphia, 1907)
+* Angus Sinclair, Development of the Locomotive Engine (New York, 1907)
+* Vaughn Pendred, The Railway Locomotive, What it is and Why it is What it is (London, 1908)
+* Brosius and Koch, Die Schule des Lokomotivführers (thirteenth edition, three volumes, Wiesbaden, 1909–1914)
+* G. L. Fowler, Locomotive Breakdowns, Emergencies, and their Remedies (seventh edition, New York, 1911)
+* Fisher and Williams, Pocket Edition of Locomotive Engineering (Chicago, 1911)
+* T. A. Annis, Modern Locomotives (Adrian Michigan, 1912)
+* C. E. Allen, Modern Locomotive (Cambridge, England, 1912)
+* W. G. Knight, Practical Questions on Locomotive Operating (Boston, 1913)
+* G. R. Henderson, Recent Development of the Locomotive (Philadelphia, 1913)
+* Wright and Swift (editors) Locomotive Dictionary (third edition, Philadelphia, 1913)
+* Roberts and Smith, Practical Locomotive Operating (Philadelphia, 1913)
+* E. Prothero, Railways of the World (New York, 1914)
+* M. M. Kirkman, The Locomotive (Chicago, 1914)
+* C. L. Dickerson, The Locomotive and Things You Should Know About it (Clinton, Illinois, 1914)
+* P. W. B. Semmens, A. J. Goldfinch, How Steam Locomotives Really Work (Oxford University Press, US, 2004) 
+* Gerald A Dee, A Lifetime of Railway Photography in Photographer Profile, Train Hobby Publications, Studfield, 1998. (Australian steam)
+* Swengel, F. M. The American Steam Locomotive; Vol. 1. The Evolution of the American Steam Locomotive, Midwest Rail Publication, Iowa, 1967.
+* Раков В.А. Локомотивы отечественных железных дорог 1845–1955 Транспорт, Москва, 1995<br />(Rakov V.A. Locomotives of fatherland's railways 1845–1955 Transport, Moscow, 1995 (in Russian))
+* J.J.G. Koopmans: The fire burns much better . NL-Venray 2006, 
+==External links==
+* urltoken TV and Radio programmes from the BBC archives celebrating steam trains
+* urltoken Database of surviving steam locomotives in North America
+* urltoken UK heritage railways and preserved locomotives database
+* urltoken Advanced Steam Traction Trust
+
+A steam locomotive is a type of railway locomotive that produces its pulling power through a steam engine. These locomotives are fuelled by burning combustible material—usually coal, wood, or oil—to produce steam in a boiler. The steam moves reciprocating pistons which are mechanically connected to the locomotive's main wheels (drivers). Both fuel and water supplies are carried with the locomotive, either on the locomotive itself or in Tender (rail) pulled behind.
+Steam locomotives were first developed in the United Kingdom during the early 19th century and used for railway transport until the middle of the 20th century. Richard Trevithick built the first steam locomotive in 1802. The first commercially successful steam locomotive was built in 1812–13 by John Blenkinsop,<ref></ref> the Salamanca (locomotive); the Locomotion No. 1, built by George Stephenson and his son Robert's company Robert Stephenson and Company, was the first steam locomotive to haul passengers on a public railway, the Stockton and Darlington Railway in 1825. In 1830 George Stephenson opened the first public inter-city railway, the Liverpool and Manchester Railway. Robert Stephenson and Company was the pre-eminent builder of steam locomotives in the first decades of steam for railways in the United Kingdom, the United States, and much of Europe.<ref>Ellis, Hamilton (1968). The Pictorial Encyclopedia of Railways. pp. 24-30. Hamlyn Publishing Group.</ref>
+In the 20th century, Chief Mechanical Engineer of the London and North Eastern Railway (LNER) Nigel Gresley designed some of the most famous locomotives, including the Flying Scotsman, the first steam locomotive officially recorded over 100&nbsp;mph in passenger service, and a LNER Class A4, 4468 Mallard, which still holds the record for being the fastest steam locomotive in the world (126&nbsp;mph).<ref> urltoken "Magnificent Mallard: World's fastest steam locomotive". BBC. 17 February 2018</ref>
+From the early 1900s, steam locomotives were gradually superseded by electric and diesel locomotives, with railways fully converting to electric and diesel power beginning in the late 1930s. The majority of steam locomotives were retired from regular service by the 1980s, although several continue to run on tourist and heritage lines.

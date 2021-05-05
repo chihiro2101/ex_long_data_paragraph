@@ -1,0 +1,100 @@
+Rothamsted Research
+
+==History==
+thumb
+left
+The Rothamsted Experimental Station was founded in 1843 by John Bennet Lawes, a noted Victorian era entrepreneur and scientist who had founded one of the first artificial fertilizer manufacturing factories in 1842, on his 16th century estate, Rothamsted Manor, to investigate the impact of inorganic and organic fertilizers on crop yield.
+thumb
+Lawes had Henry King conduct studies on the application of bone dust to turnip fields between 1836 and 1838. In 1840 he hired Dobson, a chemist. He had experiments conducted with bone ash treated with sulphuric acid and various other mixtures. It is thought that the experiments were at least to some extent influenced by Justus von Liebig who had attended a meeting of the British Association at Liverpool in 1837. Lawes took out patents on manure mixtures and began a factory to manufacture them in 1843, the same year that Joseph Henry Gilbert replaced Dobson who had moved to Australia. Gilbert had trained under Liebig and with Lawes support, he launched the first of a series of long-term field experiments, some of which still continue.<ref></ref> Over 57 years, Lawes and Gilbert established the foundations of modern scientific agriculture and the principles of crop nutrition.
+In 1902 Daniel Hall moved from Wye College to become director, taking a lower salary to join an establishment lacking money, staff, and direction. Hall decided that Rothamsted needed to specialise and was eventually successful in obtaining state support for agricultural research. In 1912 E. John Russell, who had come from Wye in 1907, took over as director until 1943, overseeing a major expansion in the 1920s, when Sir William Gammie Ogg took over until 1958 and increasing the number of staff from 140 to 471 and creating new biochemistry, nematode, and pedology departments. The site in Harpenden grew to cover .<ref></ref>
+===Statistical science===
+Many distinguished scientists have been associated with Rothamsted. In 1919 Russell hired Ronald Fisher to investigate the possibility of analysing the vast amount of data accumulated from the "Classical Field Experiments." Fisher analysed the data and stayed to create the theory of experimental design, making Rothamsted a major centre for research in statistics and genetics. Among his appointments and successors in the Statistics department were Oscar Irwin, John Wishart, Frank Yates, William Cochran and John Nelder. Indeed, many consider Rothamsted to be the most important birthplace of modern statistical theory and practice.
+thumb
+Partly through these methods, researchers at Rothamsted have made significant contributions to agricultural science, including the discovery and development of systemic herbicides and pyrethroid insecticides, as well as pioneering contributions to the fields of virology, nematology, soil science and pesticide resistance. During World War II, aiming to increase crop yields for a nation at war, a team under the leadership of Judah Hirsch Quastel developed 2,4-D, still the most widely used weed-killer in the world.
+===Recent history===
+In 1987, Rothamsted, the Long Ashton Research Station, and Broom's Barn Experimental Station merged to form the Institute of Arable Crops Research (IACR). The Long Ashton Research Station was closed in 2002, with some of its staff moved to Rothamsted, whilst Broom's Barn is operated as an experimental farm for Rothamsted.
+Rothamsted is now operated by a grouping of private organizations under the name of Rothamsted Research and is mainly funded by various branches of the UK government through the Biotechnology and Biological Sciences Research Council and Department for Environment, Food and Rural Affairs (Defra). Rothamsted Research supports around 350 scientists (including 50 visiting scientists), 150 administrative staff and 60 PhD students.<ref name="AboutUs"></ref>
+As well as the Rothamsted site Rothamsted Research operates:<ref name="AboutUs"/>
+* Broom's Barn, a experimental farm near Bury St Edmunds, Suffolk, which is the UK's national centre for sugar beet research.
+* North Wyke, of grassland near Okehampton, Devon. It provides a "Farm Platform" allowing research teams to conduct experiments on three mini farms. It was formerly part of the Institute of Grassland and Environmental Research.
+Its research program has four main areas:<ref></ref>
+* 20:20 Wheat: increasing wheat productivity to yield 20 (metric) tonnes per hectare in 20 years from the current nine tonnes per hectare in 2012.<ref name="url20:20 Wheat-Businessweek"></ref>
+* Cropping carbon: optimising carbon capture by grasslands and perennial energy crops, such as willow.
+* Designing seeds: improved health and nutrition through seeds.
+* Delivering sustainable systems: investigating sustainable agricultural systems to increase productivity while minimising environmental impact.
+It also operates:
+* The Insect Survey: two national networks for monitoring insect populations in the UK.<ref>Harrington, Richard and Woiwod, Ian (February 2007) urltoken Foresight from hindsight: The Rothamsted Insect Survey Outlooks on Pest Management, Volume 18 , Number 1, Retrieved 22 May 2012</ref>
+* PHI-base: a database of multiple pathogen-host interactions.<ref></ref>
+== GM protest ==
+In 2012 Rothamsted started testing Genetically modified wheat wheat which had been modified to produce an aphid alarm pheromone produced by aphids when under attack to helps deter pests.<ref></ref> This trial attracted criticism from anti-GM groups and "about 200" people attempted to occupy the site on 27 May 2012.<ref></ref> They were prevented by a large police presence and the protest ended peacefully.<ref></ref> However one protester did trespass and damage the crop. The protester was later arrested, tried and fined £4,000.<ref name=fordham>(19 July 2014) urltoken GM Crop Damage Fine ITV News, Retrieved 9 July 20915</ref>
+A video appeal by scientists at Rothamsted led to over 6,000 people signing a "Don't destroy research" petition organised by Sense About Science.<ref name="Don't destroy research"></ref> Sense About Science also organised a question and answer session with scientists.<ref name="SAS Q&A"></ref> The author Mark Lynas commented that Rothamsted's successful campaign may be a turning point for GMOs.<ref></ref>
+The results published in 2015 showed that the trial wheat variety was no better than standard wheat varieties in deterring pests.<ref></ref>
+==People associated with Rothamsted==
+===Directors<ref></ref>===
+* John Bennet Lawes (1843-1900)
+* Alfred Daniel Hall<ref></ref> (1902-1912)
+* E. John Russell<ref></ref> (1912-1943)
+* William Gammie Ogg (1943-1958)
+* Frederick Charles Bawden (1958-1972)
+* Leslie Fowden (1973-1988)
+* Kenneth Treharne (1988-1989)
+* Trevor Lewis (1989-1993)
+* Benjamin J. Miflin (1994-1998)
+* Ian R. Crute (1999-2009)
+*Maurice Moloney (2010-2013)
+* Achim Dobermann (2014-2019)<ref> urltoken 
+*Angela Karp (2020-Present)<ref></ref>
+===Entomologists===
+*Horace Francis Barnes
+*Colin Butler
+*Augustus Daniel Imms
+*Carrington Bonsor Williams
+*Linda M Field
+===Environmental meteorologists===
+*John Monteith
+*Howard Penman
+===Botanists===
+*Winifred Brenchley
+*Mary Dilys Glynne (plant pathologist)
+*Frances Sheffield
+*Katherine Warington
+===Chemists and biochemists===
+*George W. Cooke
+*Edward Mortimer Crowther
+*Michael Elliott
+* Joseph Henry Gilbert
+* Juda Hirsch Quastel
+*Norman Pirie
+* John A. Pickett
+Some of the chemists associated with Rothamsted can be found by searching on Rothamsted on the Biographical Database of the British Chemical Community, 1880-1970.<ref name="BCC data"></ref>
+===Statisticians===
+*Frank Anscombe
+*William Cochran
+*Ronald Fisher, statistician, evolutionary biologist, eugenics and genetics.
+*Michael Healy
+*Oscar Irwin
+*John Nelder
+*John Wishart
+*Robert Wedderburn
+*Frank Yates
+===Geologists and soil scientists===
+* John Catt
+*Jackie Stroud <ref></ref><ref></ref><ref></ref><ref></ref><ref></ref>
+===Librarians===
+* Donald H. Boalch (1950-1962)
+==See also==
+* Long-term experiment
+*Genstat, a statistical package originally developed at Rothamsted Research, which is reflected in its capacity to handle complex block designs of the type likely to occur in agricultural multi-treatment experiments.
+==References==
+==Further reading==
+*A History of Agricultural Science in Great Britain 1620-1954, by E. J. Russell (1966) London, George Allen & Unwin. Sir John Russell was a director of Rothamsted and his book emphasises the role of Rothamsted in the development of agricultural science in Britain.
+==External links==
+* urltoken Rothamsted Research
+* urltoken Lawes Agricultural Trust
+* urltoken Rothamsted History
+* urltoken Rothamsted Manor
+* urltoken The electronic Rothamsted Documents Archive: digital collection of annual reports, guides, maps and documents relating to the various long-term experiments at Rothamsted
+* urltoken Rothamsted Repository - research publications of the Institute back to 1843
+
+Rothamsted Research, previously known as the Rothamsted Experimental Station and then the Institute of Arable Crops Research, is one of the oldest agricultural experiment station in the world, having been founded in 1843. It is located at Harpenden in the English county of Hertfordshire and is a registered charity under English law.<ref></ref>
+One of the station's best known and longest-running experiments is the Park Grass Experiment, a biological study that started in 1856 and has been continuously monitored ever since.<ref></ref>

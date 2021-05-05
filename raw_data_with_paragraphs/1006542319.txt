@@ -1,0 +1,361 @@
+Timeline of operating systems
+
+==1950s==
+* 1951
+** LEO I 'Lyons Electronic Office'<ref></ref> was the commercial development of EDSAC computing platform, supported by British firm J. Lyons and Co.
+* 1955
+** MIT's Tape Director operating system made for UNIVAC 1103<ref></ref><ref>Douglas Ross. 1986. A personal view of the personal work station: some firsts in the Fifties. In Proceedings of the ACM Conference on The history of personal workstations (HPW '86), John R White and Kathi Anderson (Eds.). ACM, New York, NY, USA, 19–48. DOI= urltoken 10.1145/12178.12180 urltoken 
+* 1955
+** General Motors Operating System made for IBM 701<ref></ref>
+* 1956
+** GM-NAA I/O for IBM 704, based on General Motors Operating System
+* 1957
+** Atlas Supervisor (Manchester University) (Atlas computer project start)
+** BESYS (Bell Labs), for IBM 704, later IBM 7090 and IBM 7094
+* 1958
+** University of Michigan Executive System (UMES), for IBM 704, 709, and 7090
+* 1959
+** SHARE Operating System (SOS), based on GM-NAA I/O
+==1960s==
+* 1960
+** IBSYS (IBM for its 7090 and 7094)
+* 1961
+** CTSS demonstration (MIT's Compatible Time-Sharing System for the IBM 7094)
+** MCP (Burroughs Master Control Program)
+* 1962
+** Atlas Supervisor (Manchester University) (Atlas computer commissioned)
+** BBN Time-Sharing System
+** GCOS (GE's General Comprehensive Operating System, originally GECOS, General Electric Comprehensive Operating Supervisor)
+* 1963
+** AN/FSQ-32, another early time-sharing system begun
+** CTSS becomes operational (MIT's Compatible Time-Sharing System for the IBM 7094)
+** JOSS, an interactive time-shared system that did not distinguish between operating system and language
+** Titan Supervisor, early time-sharing system begun
+* 1964
+** English Electric KDF9 (English Electric) – an early, fully hardware secured, fully pre-emptive process switching, multi-programming operating system for KDF9 (originally announced in 1960)
+** Berkeley Timesharing System (for Scientific Data Systems' SDS 940)
+** Dartmouth Time Sharing System (Dartmouth College's DTSS for GE computers)
+** OS/360 (IBM's primary OS for its S/360 series) (announced)
+** SCOPE (CDC 3000 series)
+** PDP-6 Monitor (DEC) descendant renamed TOPS-10 in 1970
+** EXEC 8 (UNIVAC)
+* 1965
+** THE multiprogramming system (Technische Hogeschool Eindhoven) development
+** Multics (MIT, GE, Bell Labs for the GE-645) (announced)
+** BOS/360 (IBM's Basic Operating System)
+** TOS/360 (IBM's Tape Operating System)
+** TSOS (later VMOS) (RCA)
+** Pick operating system
+* 1966
+** OS/360 (IBM's primary OS for its S/360 series) PCP and MFT (shipped)
+** DOS/360 (IBM's Disk Operating System)
+** MS/8 (Richard F. Lary's DEC PDP-8 system)
+** GEORGE 1 & 2 for ICT 1900 series
+** SODA for Elwro's Odra 1204
+* 1967
+** CP-40, predecessor to CP-67 on modified IBM System/360 Model 40
+** CP-67 (IBM, also known as CP/CMS)
+** Michigan Terminal System (MTS)<ref></ref> (time-sharing system for the IBM S/360-67 and successors)
+** ITS (MIT's Incompatible Timesharing System for the DEC PDP-6 and PDP-10)
+** ORVYL (Stanford University's time-sharing system for the IBM S/360)
+** TSS/360 (IBM's Time-sharing System for the S/360-67, never officially released, canceled in 1969 and again in 1971)
+** OS/360 MVT
+** WAITS (SAIL, Stanford Artificial Intelligence Laboratory, time-sharing system for DEC PDP-6 and PDP-10, later TOPS-10)
+* 1968
+** IBM Airline Control Program (IBM)
+** THE multiprogramming system (Eindhoven University of Technology) publication
+** TSS/8 (DEC for the PDP-8)
+* 1969
+** TENEX (BBN Technologies for DEC systems, later TOPS-20)
+** Unix (AT&T, initially on DEC computers)
+** RC 4000 Multiprogramming System (RC)
+** Multics (MIT, GE, Bell Labs for the GE-645 and later the Honeywell 6180) (opened for paying customers in October<ref></ref>)
+** GEORGE 3 For ICL 1900 series
+==1970s==
+* 1970
+** DOS-11 (PDP-11)
+* 1971
+** RSTS/E 2A-19 (First released version; PDP-11)
+** OS/8
+* 1972
+** Data General RDOS
+** Edos
+** OS/VS1 (OS/VS1)
+** OS/VS2 (SVS) (OS/VS2 SVS)
+** VM (operating system) (VM/370), sometimes known as VM/CMS
+** Virtual Machine/Basic System Extensions Program Product (BSEPP or VM/SE)
+** Virtual Machine/System Extensions Program Product (SEPP or VM/BSE)
+** MUSIC/SP
+** PRIMOS (written in FORTRAN IV, that didn't have pointers, while later versions, around version 18, written in a version of PL/I, called PL/P)
+* 1973
+** Эльбрус-1 (Elbrus-1) – Soviet computer – created using high-level language uЭль-76 (ALGOL 68)
+** VME – implementation language S3 (ALGOL 68)
+** RSX-11D
+** RT-11
+** Alto OS
+* 1974
+** DOS-11 V09-20C (Last stable release, June 1974)
+** Sintran III
+** MONECS
+** Multi-Programming Executive (MPE) – Hewlett-Packard
+** Hydra<ref></ref> – capability-based, multiprocessing OS kernel
+** MVS (MVS)
+* 1975
+** CP/M
+** BS2000 V2.0 (First released version)
+** Version 6 Unix
+* 1976
+** CAP computer<ref></ref> – all operating system procedures written in ALGOL 68C, with some closely associated protected procedures in BCPL
+** Cray Operating System
+** FLEX<ref></ref>
+** TOPS-20
+** Tandem Computers
+* 1977
+** 1BSD
+** KERNAL
+** OASIS operating system
+** TRSDOS
+** OpenVMS V1.0 (Initial commercial release, October 25)
+* 1978
+** 2BSD
+** Apple DOS
+** HDOS
+** PTDOS<ref></ref>
+** TRIPOS
+** UCSD Pascal (First released version)
+** Lisp machine (CADR)
+** KVM/370<ref></ref> – security retro-fit of IBM VM/370
+** KSOS<ref></ref> – secure OS design from Ford Aerospace
+** MVS/System Extensions (MVS/SE)
+* 1979
+** 3BSD
+** Atari DOS
+** POS
+** NLTSS
+** UNIX/32V
+** Version 7 Unix
+** UCLA Secure UNIX<ref></ref> – an early secure UNIX OS based on security kernel
+** MVS/System Extensions R2 (MVS/SE2)
+** MP/M
+==1980s==
+* 1980
+** 86-DOS
+** CTOS<ref> urltoken </ref>
+** NewDos/80
+** OS-9
+** SOS
+** MVS/System Product (MVS/SP) V1
+** VM (operating system) (VM/SP)
+** Xenix
+** AOS/VS (Data General)
+* 1981
+** Acorn MOS
+** Xinu first release
+** Business Operating System
+** Aegis SR1 (First Apollo/DOMAIN systems shipped on March 27<ref></ref>)
+** PC DOS
+** Pilot (Xerox Star operating system)
+** MS-DOS
+** UTS
+** iMAX – OS for Intel's iAPX 432 capability machine
+** CP/M-86
+* 1982
+** Commodore DOS
+** LDOS (By Logical Systems, Inc. – for the Radio Shack TRS-80 Models I, II & III)
+** QNX
+** Sun UNIX (later SunOS) 0.7
+** Ultrix
+** Stratus VOS<ref>ftp://ftp.stratus.com/vos/doc/reference/machine_history.txt</ref>
+** Unix System III
+** pSOS
+* 1983
+** Apple Lisa
+** Coherent
+** GNU (project start)
+** NetWare (S-Net)
+** ProDOS
+** SunOS 1.0
+** STOP<ref></ref> – TCSEC A1-class, secure OS for SCOMP hardware
+** LOCUS<ref> urltoken </ref> – UNIX compatible, high reliability, distributed OS
+** DNIX
+** MVS/Extended Architecture (MVS/XA)
+* 1984
+** AMSDOS
+** Mac OS (System 1.0)
+** MSX-DOS
+** PC/IX
+** Sinclair QDOS
+** QNX
+** UNICOS
+** Venix 2.0
+** VM (operating system) (VM/XA MA)
+* 1985
+** Windows 1.0
+** AmigaOS
+** Atari TOS
+** DG/UX
+** DOS Plus
+** MIPS RISC/os
+** Oberon – written in Oberon
+** SunOS 2.0
+** Version 8 Unix
+** Windows 1.01 
+** Xenix 2.0
+** VM (operating system) (VM/XA SF)
+** Graphics Environment Manager
+* 1986
+** AIX 1.0
+** GS-OS
+** Genera 7.0
+** HP-UX
+** SunOS 3.0
+** GEOS
+** Version 9 Unix
+** GEMSOS<ref></ref> – TCSEC A1-class, secure kernel for BLACKER VPN & GTNP
+** Cronus distributed OS<ref>Vinter, S. T. and Schantz, R. E. 1986. The Cronus distributed operating system. In Proceedings of the 2nd Workshop on Making Distributed Systems Work (Amsterdam, Netherlands, September 8–10, 1986). EW 2. ACM, New York, NY, 1-3.</ref>
+* 1987
+** Topaz<ref>ftp://ftp.hpl.external.hp.com/pub/dec/SRC/research-reports/SRC-023.pdf</ref> – semi-distributed OS for DEC Firefly workstation written in Modula-2+ and garbage collected
+** Arthur (much improved version came in 1989 under the name RISC OS)
+** IRIX (3.0 is first SGI version)
+** MINIX 1.0
+** BS2000 V9.0
+** OS/2 (1.0)
+** PC-MOS/386
+** Windows 2.0 
+* 1988
+** A/UX (Apple Computer)
+** RISC iX
+** KeyKOS – capability-based microkernel for IBM mainframes with automated persistence of app data
+** LynxOS
+** CP/M rebranded as DR-DOS
+** Mac OS (System 6)
+** MVS/Enterprise Systems Architecture (MVS/ESA)
+** OS/2 (1.1)
+** IBM i
+** SpartaDOS X
+** SunOS 4.0
+** TOPS-10 7.04 (Last stable release, July 1988)
+** HeliOS 1.0
+** VAX VMM<ref></ref> – TCSEC A1-class, VMM for VAX computers (limited use before cancellation)
+** Flex machine – tagged, capability machine with OS and other software written in ALGOL 68RS
+** VM (operating system) (VM/XA SP)
+* 1989
+** EPOC
+** NeXTSTEP (1.0)
+** OS/2 (1.2)
+** RISC OS (First release was to be called Arthur 2, but was renamed to RISC OS 2, and was first sold as RISC OS 2.00 in April 1989)
+** SCO UNIX (Release 3)
+** TSX-32
+** Version 10 Unix
+** Xenix 2.3.4 (Last stable release)
+** ASOS<ref> urltoken </ref> – TCSEC A1-class secure, real-time OS for Ada applications
+==1990s==
+* 1990
+** AmigaOS 2.0
+** BeOS (v1)
+** DOS/V
+** Genera 8.0
+** OS/2 1.3
+** OSF/1
+** AIX 3.0
+** NetWare 3
+** Windows 3.0 
+** LOCK<ref></ref> – TCSEC A1-class secure system with kernel & hardware support for type enforcement
+** VM (operating system) (VM/XA ESA)
+** PC/GEOS
+* 1991
+** Linux 0.01-0.1
+** Mac OS (System 7)
+** MINIX 1.5
+** PenPoint OS
+** RISC OS 3<ref></ref>
+** Trusted Xenix<ref></ref> – rewritten & security enhanced Xenix evaluated at TCSEC B2-class
+** Amoeba – microkernel-based, POSIX-compliant, distributed OS
+* 1992
+** 386BSD 0.1
+** BSD/OS, by BSDi and later known as BSD/OS.
+** AmigaOS 3.0
+** Amiga Unix 2.01 (Latest stable release)
+** RSTS/E 10.1 (Last stable release, September 1992)
+** SLS
+** Solaris 2.0 (Successor to SunOS 4.x; based on SVR4 instead of BSD)
+** OpenVMS V1.0 (First OpenVMS AXP (Alpha) specific version, November 1992)
+** OS/2 2.0 (First i386 32-bit based version)
+** Plan 9 First Edition (First public release was made available to universities)
+** Windows 3.1 
+** LGX
+* 1993
+** FreeBSD
+** NetBSD
+** Newton OS
+** Windows NT 3.1 (First Windows NT kernel public release)
+** Open Genera 1.0
+** 4690 Operating System
+** NetWare 4
+** OS/2 2.1
+** Slackware 1.0
+** Spring
+* 1994
+** AIX 4.0, 4.1
+** OS/2 3.0
+** RISC OS 3.5
+** NetBSD 1.0 (First multi-platform release, October 1994)
+** SPIN – extensible OS written in Modula-3
+** Red Hat
+* 1995
+** Tru64 UNIX (aka Tru64 UNIX)
+** OpenBSD
+** OS/390
+** Plan 9 Second Edition (Commercial second release version was made available to the general public.)
+** Ultrix 4.5 (Last major release)
+** Windows 95
+* 1996
+** Mac OS 7.6 (First officially-named Mac OS)
+** Windows NT 4.0
+** Windows CE 1.0
+** RISC OS 3.6
+** AIX 4.2
+** OS/2 4.0
+** Palm OS
+** Debian 1.1
+** JN<ref></ref> – microkernel OS for embedded, Java apps
+* 1997
+** Inferno
+** Mac OS 8
+** Windows CE 2.0
+** SkyOS
+** MINIX 2.0
+** RISC OS 3.7
+** AIX 4.3
+** DR-WebSpyder 1.0
+** Nemesis<ref>various 1997 publications listed on urltoken the Nemesis website, retrieved 2013-08-13</ref>
+* 1998
+** Solaris 7 (first 64-bit Solaris release – names from this point drop "2.", otherwise would've been Solaris 2.7)
+** Windows 98
+** RT-11 5.7 (Last stable release, October 1998)
+** Novell NetWare 5
+** Junos
+** DR-WebSpyder 2.0
+* 1999
+** AROS (Boot for the first time in Stand Alone version)
+** RISC OS 4
+** Mac OS 9
+** OS/2 4.5
+** Windows 98 (2nd edition)
+** Inferno Second Edition (Last distribution (Release 2.3, from Lucent's Inferno Business Unit)<ref></ref>
+==2000s==
+==See also==
+* Comparison of operating systems
+* List of operating systems
+* Comparison of real-time operating systems
+* Timeline of DOS operating systems
+* :File:Gldt1009.svg
+==References==
+==External links==
+* urltoken UNIX History – a timeline of Unix 1969 and its descendants at present
+* urltoken Concise Microsoft O.S. Timeline – a color-coded concise timeline for various Microsoft operating systems (1981–present)
+* urltoken Bitsavers – an effort to capture, salvage, and archive historical computer software and manuals from minicomputers and mainframes of the 1950s, 1960s, 1970s, and 1980s
+* urltoken A brief history of operating systems
+* urltoken Microsoft operating system time-line
+
+This article presents a timeline of events in the history of computer operating systems from 1951 to the current day. For a narrative explaining the overall developments, see the History of operating systems.

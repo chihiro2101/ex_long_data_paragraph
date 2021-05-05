@@ -1,0 +1,66 @@
+Ramsey's theorem
+
+==Examples==
+===R(3, 3) = 6===
+frame
+Suppose the edges of a complete graph on 6 vertices are coloured red and blue. Pick a vertex, v. There are 5 edges incident to v and so (by the pigeonhole principle) at least 3 of them must be the same colour. Without loss of generality we can assume at least 3 of these edges, connecting the vertex, v, to vertices, r, s and t, are blue. (If not, exchange red and blue in what follows.) If any of the edges, (r, s), (r, t), (s, t), are also blue then we have an entirely blue triangle. If not, then those three edges are all red and we have an entirely red triangle. Since this argument works for any colouring, any K<sub>6</sub> contains a monochromatic K<sub>3</sub>, and therefore R(3, 3) ≤ 6. The popular version of this is called the theorem on friends and strangers.
+An alternative proof works by double counting. It goes as follows: Count the number of ordered triples of vertices, x, y, z, such that the edge, (xy), is red and the edge, (yz), is blue. Firstly, any given vertex will be the middle of either 0&nbsp;×&nbsp;5&nbsp;=&nbsp;0 (all edges from the vertex are the same colour), 1&nbsp;×&nbsp;4&nbsp;=&nbsp;4 (four are the same colour, one is the other colour), or 2&nbsp;×&nbsp;3&nbsp;=&nbsp;6 (three are the same colour, two are the other colour) such triples. Therefore, there are at most 6&nbsp;×&nbsp;6&nbsp;=&nbsp;36 such triples. Secondly, for any non-monochromatic triangle (xyz), there exist precisely two such triples. Therefore, there are at most 18 non-monochromatic triangles. Therefore, at least 2 of the 20 triangles in the K<sub>6</sub> are monochromatic.
+Conversely, it is possible to 2-colour a K<sub>5</sub> without creating any monochromatic K<sub>3</sub>, showing that R(3, 3)&nbsp;>&nbsp;5. The unique<ref>up to automorphisms of the graph</ref> colouring is shown to the right. Thus R(3, 3)&nbsp;=&nbsp;6.
+The task of proving that R(3, 3)&nbsp;≤&nbsp;6 was one of the problems of William Lowell Putnam Mathematical Competition in 1953, as well as in the Hungarian Math Olympiad in 1947.
+=== A multicolour example: R(3, 3, 3) = 17 ===
+right
+right
+A multicolour Ramsey number is a Ramsey number using 3 or more colours. There are (up to symmetries) only two non-trivial multicolour Ramsey numbers for which the exact value is known, namely R(3, 3, 3)&nbsp;=&nbsp;17 and R(3, 3, 4)&nbsp;=&nbsp;30.<ref name="bananas" />
+Suppose that we have an edge colouring of a complete graph using 3 colours, red, green and blue. Suppose further that the edge colouring has no monochromatic triangles. Select a vertex v. Consider the set of vertices that have a red edge to the vertex v. This is called the red neighbourhood of v. The red neighbourhood of v cannot contain any red edges, since otherwise there would be a red triangle consisting of the two endpoints of that red edge and the vertex v. Thus, the induced edge colouring on the red neighbourhood of v has edges coloured with only two colours, namely green and blue. Since R(3, 3) = 6, the red neighbourhood of v can contain at most 5 vertices. Similarly, the green and blue neighbourhoods of v can contain at most 5 vertices each. Since every vertex, except for v itself, is in one of the red, green or blue neighbourhoods of v, the entire complete graph can have at most 1 + 5 + 5 + 5 = 16 vertices. Thus, we have R(3, 3, 3) ≥ 17.
+To see that R(3, 3, 3) = 17, it suffices to draw an edge colouring on the complete graph on 16 vertices with 3 colours that avoids monochromatic triangles. It turns out that there are exactly two such colourings on K<sub>16</sub>, the so-called untwisted and twisted colourings. Both colourings are shown in the figures to the right, with the untwisted colouring on the top, and the twisted colouring on the bottom.
+Image:Clebsch graph.svg|thumb|right|Clebsch graphIf we select any colour of either the untwisted or twisted colouring on K<sub>16</sub>, and consider the graph whose edges are precisely those edges that have the specified colour, we will get the Clebsch graph.
+It is known that there are exactly two edge colourings with 3 colours on K<sub>15</sub> that avoid monochromatic triangles, which can be constructed by deleting any vertex from the untwisted and twisted colourings on K<sub>16</sub>, respectively.
+It is also known that there are exactly 115 edge colourings with 3 colours on K<sub>14</sub> that avoid monochromatic triangles, provided that we consider edge colourings that differ by a permutation of the colours as being the same.
+==Proof==
+===2-colour case===
+The theorem for the 2-colour case can be proved by induction on .<ref></ref> It is clear from the definition that for all , = . This starts the induction. We prove that exists by finding an explicit bound for it. By the inductive hypothesis and exist.
+:Lemma 1. :
+Proof. Consider a complete graph on vertices whose edges are coloured with two colours. Pick a vertex from the graph, and partition the remaining vertices into two sets and , such that for every vertex , is in if is blue, and is in if is red. Because the graph has = </math> without any monochromatic set of size T. This contradicts the infinite Ramsey theorem.
+If a suitable topological viewpoint is taken, this argument becomes a standard compactness theorem showing that the infinite version of the theorem implies the finite version.<ref></ref>
+=== Hypergraphs ===
+The theorem can also be extended to hypergraphs. An m-hypergraph is a graph whose "edges" are sets of m vertices – in a normal graph an edge is a set of 2 vertices. The full statement of Ramsey's theorem for hypergraphs is that for any integers m and c, and any integers n<sub>1</sub>, …, n<sub>c</sub>, there is an integer R(n<sub>1</sub>, …, n<sub>c</sub>;c, m) such that if the hyperedges of a complete m-hypergraph of order R(n<sub>1</sub>, …, n<sub>c</sub>;c, m) are coloured with c different colours, then for some i between 1 and c, the hypergraph must contain a complete sub-m-hypergraph of order n<sub>i</sub> whose hyperedges are all colour i. This theorem is usually proved by induction on m, the 'hyper-ness' of the graph. The base case for the proof is m&nbsp;=&nbsp;2, which is exactly the theorem above.
+=== Directed graphs ===
+It is also possible to define Ramsey numbers for directed graphs; these were introduced by . Let R(n) be the smallest number Q such that any complete graph with singly directed arcs (also called a "tournament") and with ≥&nbsp;Q nodes contains an acyclic (also called "transitive") n-node subtournament.
+This is the directed-graph analogue of what (above) has been called R(n,&nbsp;n;&nbsp;2), the smallest number Z such that any 2-colouring of the edges of a complete undirected graph with ≥&nbsp;Z nodes, contains a monochromatic complete graph on n nodes. (The directed analogue of the two possible arc colours is the two directions of the arcs, the analogue of "monochromatic" is "all arc-arrows point the same way"; i.e., "acyclic.")
+We have R(0)&nbsp;=&nbsp;0, R(1)&nbsp;=&nbsp;1, R(2)&nbsp;=&nbsp;2, R(3)&nbsp;=&nbsp;4, R(4)&nbsp;=&nbsp;8, R(5)&nbsp;=&nbsp;14, R(6)&nbsp;=&nbsp;28, and 32&nbsp;≤&nbsp;R(7)&nbsp;≤&nbsp;54.<ref></ref>
+==Relationship to the axiom of choice==
+In reverse mathematics, there is a significant difference in proof strength between the version of Ramsey's theorem for infinite graphs (the case n = 2) and for infinite multigraphs (the case n ≥ 3). The multigraph version of the theorem is equivalent in strength to the arithmetical comprehension axiom, making it part of the subsystem ACA<sub>0</sub> of second-order arithmetic, one of the big five subsystems in reverse mathematics. In contrast, by a theorem of David Seetapun, the graph version of the theorem is weaker than ACA<sub>0</sub>, and (combining Seetapun's result with others) it does not fall into one of the big five subsystems.<ref></ref> Over ZF, however, the graph version is equivalent to the classical Kőnig's lemma.<ref></ref>
+==See also==
+*Ramsey cardinal
+*Paris–Harrington theorem
+*Sim (pencil game)
+*Infinite Ramsey theory
+*Van der Waerden number
+*Ramsey game
+*Erdős–Rado theorem
+==Notes==
+==References==
+*.
+*
+*
+*.
+*.
+*
+*.
+*.
+*.
+*
+*
+*.
+*.
+*.
+==External links==
+* 
+* urltoken Ramsey@Home is a distributed computing project designed to find new lower bounds for various Ramsey numbers using a host of different techniques.
+* urltoken The Electronic Journal of Combinatorics dynamic survey of small Ramsey numbers (by Stanisław Radziszowski)
+* urltoken Ramsey Number – from MathWorld (contains lower and upper bounds up to R(19, 19))
+* urltoken Ramsey Number – Geoffrey Exoo (Contains R(5, 5) > 42 counter-proof)
+
+In combinatorics, Ramsey's theorem, in one of its Graph theory forms, states that one will find monochromatic cliques in any graph labeling (with colours) of a sufficiently large complete graph. To demonstrate the theorem for two colours (say, blue and red), let r and s be any two positive integers.<ref>Some authors restrict the values to be greater than one, for example and , thus avoiding a discussion of edge colouring a graph with no edges, while others rephrase the statement of the theorem to require, in a simple graph, either an r-clique or an s-independent set, see or . In this form, the consideration of graphs with one vertex is more natural.</ref> Ramsey's theorem states that there exists a least positive integer for which every blue-red edge colouring of the complete graph on vertices contains a blue clique on r vertices or a red clique on s vertices. (Here signifies an integer that depends on both r and s.)
+Ramsey's theorem is a foundational result in combinatorics. The first version of this result was proved by F. P. Ramsey. This initiated the combinatorial theory now called Ramsey theory, that seeks regularity amid disorder: general conditions for the existence of substructures with regular properties. In this application it is a question of the existence of monochromatic subsets, that is, subsets of connected edges of just one colour.
+An extension of this theorem applies to any finite number of colours, rather than just two. More precisely, the theorem states that for any given number of colours, c, and any given integers n<sub>1</sub>, …, n<sub>c</sub>, there is a number, R(n<sub>1</sub>, …, n<sub>c</sub>), such that if the edges of a complete graph of order R(n<sub>1</sub>, ., n<sub>c</sub>) are coloured with c different colours, then for some i between 1 and c, it must contain a complete subgraph of order n<sub>i</sub> whose edges are all colour i. The special case above has c&thinsp;=&thinsp;2 (and n<sub>1</sub>&thinsp;=&thinsp;r and n<sub>2</sub>&thinsp;=&thinsp;s).

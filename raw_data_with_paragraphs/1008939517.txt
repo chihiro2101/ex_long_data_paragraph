@@ -1,0 +1,87 @@
+Interest rate swap
+
+==Interest rate swaps==
+===General description===
+An interest rate swap's (IRS's) effective description is a derivative contract, agreed between two counterparty, which specifies the nature of an exchange of payments benchmarked against an interest rate index. 
+The most common IRS is a fixed for floating swap, whereby one party will make payments to the other based on an initially agreed fixed rate of interest, to receive back payments based on a floating interest rate index. 
+Each of these series of payments is termed a "leg", so a typical IRS has both a fixed and a floating leg. 
+The floating index is commonly an interbank rate (IBOR) of specific tenor in the appropriate currency of the IRS, for example LIBOR in GBP, EURIBOR in EUR, or STIBOR in SEK.
+To completely determine any IRS a number of parameters must be specified for each leg: <ref name=PTIRDs> urltoken Pricing and Trading Interest Rate Derivatives: A Practical Guide to Swaps, J H M Darbyshire, 2017, </ref>
+*the notional principal amount (or varying notional schedule); 
+*the start and end dates, value-, trade- and settlement dates, and date scheduling (date rolling); 
+*the fixed rate (i.e. "swap rate", sometimes quoted as a "swap spread" over a benchmark); 
+*the chosen floating interest rate index tenor; 
+*the day count conventions for interest calculations.
+Each currency has its own standard market conventions regarding the frequency of payments, the day count conventions and the end-of-month rule.<ref>" urltoken Interest Rate Instruments and Market Conventions Guide" Quantitative Research, OpenGamma, 2012.</ref>
+===Extended description===
+ d_i x_i</math> for self-discounting). This shows that the PV of an IRS is roughly linear in the swap par rate (though small non-linearities arise from the co-dependency of the swap rate with the discount factors in the Annuity sum). 
+During the life of the swap the same valuation technique is used, but since, over time, both the discounting factors and the forward rates change, the PV of the swap will deviate from its initial value. Therefore, the swap will be an asset to one party and a liability to the other. 
+The way these changes in value are reported is the subject of IAS 39 for jurisdictions following IFRS, and FAS 133 for U.S. GAAP. 
+Swaps are marked to market by debt security traders to visualize their inventory at a certain time. 
+As regards P&L Attribution, and hedging, the new framework adds complexity in that the trader's position is now potentially affected by numerous instruments not obviously related to the trade in question.
+==Risks==
+Interest rate swaps expose users to many different types of financial risk.<ref name=PTIRDs /> 
+Predominantly they expose the user to market risks and specifically interest rate risk. 
+The value of an interest rate swap will change as market interest rates rise and fall. In market terminology this is often referred to as delta risk. 
+Interest rate swaps also exhibit gamma risk whereby their delta risk increases or decreases as market interest rates fluctuate. 
+(See Greeks (finance), Value at risk #Computation methods, Value at risk #VaR risk management. )
+Other specific types of market risk that interest rate swaps have exposure to are basis risks - where various IBOR tenor indexes can deviate from one another - 
+and reset risks - where the Libor#Calculation are subject to daily fluctuation. 
+Uncollateralised interest rate swaps - those executed bilaterally without a CSA in place - expose the trading counterparties to funding risks and credit risks. 
+Funding risks because the value of the swap might deviate to become so negative that it is unaffordable and cannot be funded. 
+Credit risks because the respective counterparty, for whom the value of the swap is positive, will be concerned about the opposing counterparty defaulting on its obligations. Collateralised interest rate swaps, on the other hand, expose the users to collateral risks: here, depending upon the terms of the CSA, the type of posted collateral that is permitted might become more or less expensive due to other extraneous market movements. 
+Credit and funding risks still exist for collateralised trades but to a much lesser extent. 
+Regardless, due to regulations set out in the Basel III Regulatory Frameworks, trading interest rate derivatives regulatory capital. The consequence of this is that, dependent upon their specific nature, interest rate swaps might command more capital usage, and this can deviate with market movements. Thus capital risks are another concern for users. 
+Given these concerns, banks will typically calculate a credit valuation adjustment, as well as other XVAs, which then incorporate these risks into the instrument value.
+Reputation risks also exist. The mis-selling of swaps, over-exposure of municipalities to derivative contracts, and IBOR manipulation are examples of high-profile cases where trading interest rate swaps has led to a loss of reputation and fines by regulators.
+Hedging interest rate swaps can be complicated and relies on numerical processes of well designed risk models to suggest reliable benchmark trades that mitigate all market risks; although, see the discussion above re hedging in a multi-curve environment. The other, aforementioned risks must be hedged using other systematic processes.
+==Quotation and Market-Making==
+=== ICE Swap Rate ===
+ICE Swap rate<ref>ICE Swap Rate. urltoken replaced the rate formerly known as ISDAFIX in 2015. Swap Rate benchmark rates are calculated using eligible prices and volumes for specified interest rate derivative products. The prices are provided by trading venues in accordance with a “Waterfall” Methodology. The first level of the Waterfall (“Level 1”) uses eligible, executable prices and volumes provided by regulated, electronic, trading venues. Multiple, randomised snapshots of market data are taken during a short window before calculation. This enhances the benchmark's robustness and reliability by protecting against attempted manipulation and temporary aberrations in the underlying market.
+===Market-Making===
+The market-making of IRSs is an involved process involving multiple tasks; curve construction with reference to interbank markets, individual derivative contract pricing, risk management of credit, cash and capital. The cross disciplines required include quantitative analysis and mathematical expertise, disciplined and organized approach towards profits and losses, and coherent psychological and subjective assessment of financial market information and price-taker analysis. The time sensitive nature of markets also creates a pressurized environment. Many tools and techniques have been designed to improve efficiency of market-making in a drive to efficiency and consistency.<ref name=PTIRDs />
+==Controversy==
+In June 1988 the Audit Commission was tipped off by someone working on the swaps desk of Goldman Sachs that the London Borough of Hammersmith and Fulham had a massive exposure to interest rate swaps. When the commission contacted the council, the chief executive told them not to worry as "everybody knows that interest rates are going to fall"; the treasurer thought the interest rate swaps were a "nice little earner". The Commission's Controller, Howard Davies, realised that the council had put all of its positions on interest rates going down and ordered an investigation.
+By January 1989 the Commission obtained legal opinions from two Queen's Counsel. Although they did not agree, the commission preferred the opinion that it was ultra vires for councils to engage in interest rate swaps (ie. that they had no lawful power to do so). Moreover, interest rates had increased from 8% to 15%. The auditor and the commission then went to court and had the contracts declared void (appeals all the way up to the House of Lords failed in Hazell v Hammersmith and Fulham LBC); the five banks involved lost millions of pounds. Many other local authorities had been engaging in interest rate swaps in the 1980s.<ref name="Audit Commission">Duncan Campbell-Smith, "Follow the Money: The Audit Commission, Public Money, and the Management of Public Services 1983-2008", Allen Lane, 2008, chapter 6 passim.</ref> This resulted in several cases in which the banks generally lost their claims for compound interest on debts to councils, finalised in Westdeutsche Landesbank Girozentrale v Islington London Borough Council.<ref>1996 urltoken UKHL 12, 1996 AC 669</ref> Banks did, however, recover some funds where the derivatives were "in the money" for the Councils (ie, an asset showing a profit for the council, which it now had to return to the bank, not a debt)
+The controversy surrounding interest rate swaps reached a peak in the UK during the financial crisis where banks sold unsuitable interest rate hedging products on a large scale to SMEs. The practice has been widely criticised<ref></ref> by the media and Parliament.
+==See also==
+* Swap rate
+* Interest rate cap and floor
+* Equity swap
+* Total return swap
+* Inflation derivative
+* Eurodollar
+* Constant maturity swap
+* FTSE MTIRS Index
+==Further reading==
+General:
+*
+*
+* Richard Flavell (2010). urltoken Swaps and other derivatives (2nd ed.) Wiley. 
+* Miron P. & Swannell P. (1991). Pricing and Hedging Swaps, Euromoney books
+Early literature on the incoherence of the one curve pricing approach:
+* Boenkost W. and Schmidt W. (2004). Cross Currency Swap Valuation, Working Paper 2, HfB - Business School of Finance & Management urltoken SSRN preprint.
+* Henrard M. (2007). The Irony in the Derivatives Discounting, Wilmott Magazine, pp.&nbsp;92–98, July 2007. urltoken SSRN preprint.
+* Tuckman B. and Porfirio P. (2003). Interest Rate Parity, Money Market Basis Swaps and Cross-Currency Basis Swaps, Fixed income liquid markets research, Lehman Brothers
+Multi-curves framework:
+* Bianchetti M. (2010). Two Curves, One Price: Pricing & Hedging Interest Rate Derivatives Decoupling Forwarding and Discounting Yield Curves, Risk Magazine, August 2010. urltoken SSRN preprint.
+* Henrard M. (2010). The Irony in the Derivatives Discounting Part II: The Crisis, Wilmott Journal, Vol. 2, pp.&nbsp;301–316, 2010. urltoken SSRN preprint.
+* Henrard M. (2014) Interest Rate Modelling in the Multi-curve Framework: Foundations, Evolution, and Implementation. Palgrave Macmillan. Applied Quantitative Finance series. June 2014. .
+* Kijima M., Tanaka K., and Wong T. (2009). A Multi-Quality Model of Interest Rates, Quantitative Finance, pages 133-145, 2009.
+==References==
+<references/>
+==External links==
+* urltoken Pricing and Trading Interest Rate Derivatives by J H M Darbyshire
+* urltoken Understanding Derivatives: Markets and Infrastructure Federal Reserve Bank of Chicago, Financial Markets Group
+* urltoken Bank for International Settlements - Semiannual OTC derivatives statistics
+* urltoken Glossary - Interest rate swap glossary
+* urltoken Investopedia - Spreadlock - An interest rate swap future (not an option)
+* urltoken Basic Fixed Income Derivative Hedging - Article on Financial-edu.com.
+* urltoken Hussman Funds - Freight Trains and Steep Curves
+* urltoken Historical LIBOR Swaps data
+* urltoken "All about money rates in the world: Real estate interest rates", WorldwideInterestRates.com
+* urltoken Interest Rate Swap Calculators and Portfolio Management Tool
+
+In finance, an interest rate swap (IRS) is an interest rate derivative. It involves exchange of interest rates between two parties. In particular it is a "linear" IRD and one of the most liquid, benchmark products. It has associations with forward rate agreement, and with zero coupon swap.
+In its December 2014 statistics release, the Bank for International Settlements reported that interest rate swaps were the largest component of the global OTC derivative market, representing 60%, with the notional amount outstanding in OTC interest rate swaps of $381 trillion, and the gross market value of $14 trillion.<ref></ref>
+Interest rate swaps can be traded as an index through the FTSE MTIRS Index.

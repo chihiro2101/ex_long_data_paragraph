@@ -1,0 +1,71 @@
+Project manager
+
+== Overview ==
+A project manager is the person responsible for accomplishing the project objectives. Key project management responsibilities include 
+* defining and communicating project objectives that are clear, useful and attainable
+* procuring the project requirements like workforce, required information, various agreements and material or technology needed to accomplish project objectives
+* managing the constraints of the project management triangle, which are cost, time, scope and quality
+A project manager is a client representative and has to determine and implement the exact needs of the client, based on knowledge of the organization they are representing. An expertise is required in the domain the project managers are working to efficiently handle all the aspects of the project. The ability to adapt to the various internal procedures of the client and to form close links with the nominated representatives, is essential in ensuring that the key issues of cost, time, quality and above all, client satisfaction, can be realized.
+== Project management key topics ==
+* to specify the reason why a project is important
+* to specify the quality of the deliverables
+* resource estimate
+* timescale
+* Investment, corporate agreement and funding
+* Implementation of management plan on to the project
+* team building and motivation
+* risk assessments and change in the project
+* maintain sustaining project
+* monitoring
+* stakeholder management
+* provider management
+* closing the project.<ref></ref>
+;
+;Project tools
+:The tools, knowledge and techniques for managing projects are often unique to project management. For example: work breakdown structures, critical path analysis and earned value management. Understanding and applying the tools and techniques which are generally recognized as good practices are not sufficient alone for effective project management. Effective project management requires that the project manager understands and uses the knowledge and skills from at least four areas of expertise. Examples are PMBOK, Application Area Knowledge: standards and regulations set forth by ISO for project management, General Management Skills and Project Environment Management<ref>PMBOK Guide Third Edition 2004 p.12</ref> There are also many options for project management software to assist in executing projects for the project manager and his/her team.
+;Project teams
+:When recruiting and building an effective team, the manager must consider not only the technical skills of each person, but also the critical roles and chemistry between workers. A project team has mainly three separate components: project manager, core team and contracted team.
+;Risk
+:Most of the project management issues that influence a project arise from risk, which in turn arises from uncertainty. The successful project manager focuses on this as his/her main concern and attempts to reduce risk significantly, often by adhering to a policy of open communication, ensuring that project participants can voice their opinions and concerns.
+== Responsibilities ==
+The project manager is accountable for ensuring that everyone on the team knows and executes his or her role, feels empowered and supported in the role, knows the roles of the other team members and acts upon the belief that those roles will be performed.<ref>Russell, PMP, D. (2011). Accountability. In Succeeding in the project management jungle: How to manage the people side of projects (p. 29). New York, NY: AMACOM.</ref> The specific responsibilities of the project manager may vary depending on the industry, the company size, the company maturity, and the company culture. However, there are some responsibilities that are common to all project managers, noting:<ref name="PMH">Berrie, Michele, urltoken Project Manager Responsibilities, PM Hut. Accessed 17. Oct 2009.</ref>
+* Developing the project plans
+* Managing the project stakeholders
+* Managing communication
+* Managing the project team
+* Project risk management
+* Managing the project schedule
+*Project cost management
+* Managing the project conflicts
+* Managing the project delivery
+*Contract administration
+== Types ==
+=== Architectural project manager ===
+Architectural project manager are project managers in the field of architecture. They have many of the same skills as their counterpart in the construction industry. And will often work closely with the construction project manager in the office of the general contractor (GC), and at the same time, coordinate the work of the design team and numerous consultants who contribute to a construction project, and manage communication with the client. The issues of budget, scheduling, and quality control are the responsibility of the project manager in an architect's office.
+=== Construction project manager ===
+Until recently, the American construction industry lacked any level of standardization, with individual States determining the eligibility requirements within their jurisdiction. However, several trade associations based in the United States have made strides in creating a commonly accepted set of qualifications and tests to determine a project manager's competency.
+* The Construction Management Association of America (CMAA) maintains the Certified Construction Manager (CCM) designation. The purpose of the CCM is to standardize the education, experience and professional understanding needed to practice construction management at the highest level.
+* The Project Management Institute has made some headway into being a standardizing body with its creation of the Project Management Professional (PMP) designation.
+* The Constructor Certification Commission of the American Institute of Constructors holds semiannual nationwide tests. Eight American Construction Management programs require that students take these exams before they may receive their Bachelor of Science in construction management degree, and 15 other universities actively encourage their students to consider the exams.
+* The Associated Colleges of Construction Education and the Associated Schools of Construction have made considerable progress in developing national standards for construction education programs.
+The profession has recently grown to accommodate several dozen construction management Bachelor of Science programs.
+Many universities have also begun offering a master's degree in project management. These programs generally are tailored to working professionals who have project management experience or project related experience; they provide a more intense and in depth education surrounding the knowledge areas within the project management body of knowledge.
+The United States Navy construction battalions, nicknamed the SeaBees, puts their command through strenuous training and certifications at every level. To become a chief petty officer in the SeaBees is equivalent to a BS in construction management with the added benefit of several years of experience to their credit. See ACE accreditation.
+=== Engineering project manager ===
+In engineering, project management involves seeing a product or device through the developing and manufacturing stages, working with various professionals in different fields of engineering and manufacturing to go from concept to finished product. Optionally, this can include different versions and standards as required by different countries, requiring knowledge of laws, requirements and infrastructure.
+=== Insurance claim project manager ===
+In the insurance industry project managers often oversee and manage the restoration of a client's home/office after a fire, flood, or other disaster, covering the fields from electronics through to the demolition and construction contractors.
+=== IT project Manager ===
+IT project management generally falls into two categories, namely software (development) project manager and infrastructure project manager.
+====Software project manager====
+A software project manager has many of the same skills as their counterparts in other industries. Beyond the skills normally associated with traditional project management in industries such as construction and manufacturing, a software project manager will typically have an extensive background in software development. Many software project managers hold a degree in computer science, information technology, management of information systems or another related field.
+In traditional project management a heavyweight, predictive methodology such as the waterfall model is often employed, but software project managers must also be skilled in more lightweight, adaptive methodologies such as DSDM, Scrum and XP. These project management methodologies are based on the uncertainty of developing a new software system and advocate smaller, incremental development cycles. These incremental or iterative cycles are time boxed (constrained to a known period of time, typically from one to four weeks) and produce a working subset of the entire system deliverable at the end of each iteration. The increasing adoption of lightweight approaches is due largely to the fact that software requirements are very susceptible to change, and it is extremely difficult to illuminate all the potential requirements in a single project phase before the software development commences.
+The software project manager is also expected to be familiar with the software development life cycle (SDLC). This may require in-depth knowledge of requirements solicitation, application development, logical and physical database design and networking. This knowledge is typically the result of the aforementioned education and experience. There is not a widely accepted certification for software project managers, but many will hold the Project Management Professional (PMP) designation offered by the Project Management Institute, PRINCE2 or an advanced degree in project management, such as a MSPM or other graduate degree in technology management.
+====IT infrastructure project management==== 
+An infrastructure IT PM is concerned with the nuts and bolts of the IT department, including computers, servers, storage, networking, and such aspects of them as backup, business continuity, upgrades, replacement, and growth. Often, a secondary data center will be constructed in a remote location to help protect the business from outages caused by natural disaster or weather. Recently, cyber security has become a significant growth area within IT infrastructure management.
+The infrastructure PM usually has an undergraduate degree in engineering or computer science, while a master's degree in project management is required for senior level positions. Along with the formal education, most senior level PMs are certified, by the Project Management Institute, as a Project Management Professional. PMI also has several additional certification options, but PMP is by far the most popular.
+Infrastructure PMs are responsible for managing projects that have budgets from a few thousand dollars up to many millions of dollars. They must understand the business and the business goals of the sponsor and the capabilities of the technology in order to reach the desired goals of the project. The most difficult part of the infrastructure PM's job may be this translation of business needs / wants into technical specifications. Oftentimes, business analysts are engaged to help with this requirement. The team size of a large infrastructure project may run into several hundred engineers and technicians, many of whom have strong personalities and require strong leadership if the project goals are to be met.
+Due to the high operations expense of maintaining a large staff of highly skilled IT engineering talent, many organizations outsource their infrastructure implementations and upgrades to third party companies. Many of these companies have strong project management organizations with the ability to not only manage their clients projects, but to also generate high quality revenue at the same time.
+
+A project manager is a professional in the field of project management. Project managers have the responsibility of the planning, procurement and execution of a project, in any undertaking that has a defined scope, defined start and a defined finish; regardless of industry. Project managers are first point of contact for any issues or discrepancies arising from within the heads of various departments in an organization before the problem escalates to higher authorities, as project representative.
+Project management is the responsibility of a project manager. This individual seldom participates directly in the activities that produce the end result, but rather strives to maintain the progress, mutual interaction and tasks of various parties in such a way that reduces the risk of overall failure, maximizes benefits, and minimizes costs.

@@ -1,0 +1,90 @@
+Skald
+
+==Etymology==
+The word skald is perhaps ultimately related to . Old High German has , and . The Old High German variant stem etymologically identical to the skald- stem means "to scold, blame, accuse, insult". The person doing the insulting is a or . The West Germanic counterpart of the skald is the . Like the , which is related to Modern English scoff, the name skald is continued in English scold, reflecting the central position of mocking taunts in Germanic poetry.<ref name="etymonline"></ref>
+==History==
+Skaldic poetry can be traced to the earlier-9th century with Bragi Boddason and his Ragnarsdrápa, considered among the oldest surviving Norse poems. Brage is the earliest skald whose verse has survived.<ref></ref><ref></ref>
+However, many skalds came after him, like Egill Skallagrímsson and Þorbjörn Hornklofi (Þorbjörn Hornklofi), who gained much fame in the 10th century for the poems composed for the kings they served of their own exploits. At the time, the Icelanders and Nordic people were still pagan, and their work reflected that by many references to gods like Thor and Odin and to seers and runes.<ref name="fathom.lib.uchicago.edu"></ref> The poetry from then also can be noted for its portrayal of a "heroic age" for the Vikings and "praise poetry, designed to commemorate kings and other prominent people, often in the form of quite long poems."<ref name="fathom.lib.uchicago.edu"/><ref></ref><ref></ref>
+As time went on, skalds became the main source of Icelandic and Norse history and culture, as it was the skalds who learned and shared the largely oral history.<ref></ref>
+That led to a shift in the role of the skald, allowing them to gain more prominent positions. Every king and chieftain needed a skald to record their feats and ensure their legacy lived on, as well as becoming the main historians of their society. The written artefacts of that time come from skalds, as they were the first from the time and place to record on paper. Some skalds became clerical workers, recording laws and happenings of the government, some even being elected to the Thing and Althing, while others worked with churches to record the lives and miracles of Saints, along with passing on the ideals of Christianity. The last point is very important, as skalds were the main agents of culture when they began glorifying and passing on Christianity over the old pagan beliefs, the Viking culture shifted towards Christianity, as well.
+As time passed, the skald profession was threatened with extinction until Snorri Sturluson compiled the Prose Edda, as a manual to preserve an appreciative understanding of their art. Snorri, born in Iceland during the 12th century, played a very important part in the history of Skaldic poetry. In addition to being a great poet, he was leader of the Althing for part of his life, leading the government of Iceland. His Prose Edda preserved and passed on the traditions and methods of the Skalds, adding a much needed stimulus to the profession, and providing much of the information now known about skalds and how they worked. For example, the Prose Edda broke down and explained kennings used in skaldic poetry, allowing many of them to be understood today. Beyond writing the Prose Edda, Snorri wrote other important works, from retelling old Norse legends to tales of the exploits of kings, which gave him much fame and made his reputation live on beyond his death.<ref></ref><ref></ref>
+==Skaldic poetry==
+Eddic verse was usually simple, in terms of content, style and metre, dealing largely with mythological or heroic content. Skaldic verse, conversely, was complex, and usually composed as a tribute or homage to a particular Earl or king. There is debate over the performance of skaldic poetry, but there is a general scholarly consensus that it was spoken rather than sung.<ref name="Gade 1995"></ref>
+Unlike many other literary forms of the time, much skaldic poetry is attributable to an author (called a skald), and those attributions may be relied on with a reasonable degree of confidence. Many skalds were men of influence and power and so were biographically noted. The metre is ornate, usually dróttkvætt or a variation thereof. The syntax is complex, with sentences commonly interwoven, with kennings and heiti being used frequently and gratuitously.
+Skaldic poetry was written in variants and dialects of Old Norse. Technically, the verse was usually a form of alliterative verse and almost always used the dróttkvætt stanza (also known as the Court or Lordly Metre). Dróttkvætt is effectively an eight-line form, and each pair of lines is an original single long line which is conventionally written as two lines.
+===Forms===
+These are forms of skaldic poetry:
+* Drápa, a long series of stanzas (usually dróttkvætt), with a refrain (stef) at intervals.
+* Flokkr, vísur or dræplingr, a shorter series of such stanzas without refrain.
+* Lausavísa, a single stanza of dróttkvætt, said to have been improvised impromptu for the occasion that it marks.
+Skalds also composed insult (níðvísur) and very occasionally, erotic verse (mansöngr).
+===Kennings===
+The verses of the skalds contain a great profusion of kennings, the fixed metaphors found in most Northern European poetry of the time. Kennings are devices ready to supply a standard image to form an alliterating half-line to fit the requirements of dróttkvætt, but the substantially greater technical demands of skaldic verse required the devices to be multiplied and compounded to meet its demands for skill and wordplay. The images can therefore become somewhat hermetic, at least to those who fail to grasp the allusions that are at the root of many of them.<ref></ref>
+===Skaldic poems===
+Most skaldic poetry are poems composed to individual kings by their court poets. They typically have historical content, relating battles and other deeds from the king's career.
+* Glymdrápa ‒ the deeds of Harald Fairhair.
+* Vellekla ‒ the deeds of Haakon Sigurdsson.
+* Bandadrápa ‒ the deeds of Eiríkr Hákonarson by Eyjólfr dáðaskáld
+* Knútsdrápa ‒ the deeds of Cnut the Great.
+A few surviving skaldic poems have mythological content.
+* Þórsdrápa ‒ a drápa to the god Thor telling the tale of one of his giant-bashing expeditions.
+* Haustlöng ‒ relates two tales from the mythology as painted on a shield given to the poet.
+* Ragnarsdrápa ‒ relates four tales from the mythology as painted on a shield given to the poet.
+* Húsdrápa ‒ describes mythological scenes as carved on kitchen panels.
+* Ynglingatal ‒ describes the origin of the Norwegian kings and the history of the Ynglings. It is preserved in the Heimskringla.
+To that could be added two poems relating the death of a king and his reception in Valhalla.
+* Hákonarmál ‒ the death of king Haakon the Good and his reception in Valhalla.
+* Eiríksmál ‒ the death of king Eiríkr and his reception in Valhalla.
+Some other were composed as circumstance pieces, such as those by Egill Skallagrímsson
+* Sonatorrek ‒ a lament on the death of Egill's sons.
+* Höfuðlausn ‒ a praise for Eric Bloodaxe, that saved its author's head.
+* Arinbjarnarkviða ‒ in praise of the poet's friend Arinbjörn.
+==Notable skalds==
+More than 300 skalds are known from the period between 800 and 1200 AD. Many are listed in the Skáldatal, not all of whom are known from extant material. Notable names include:
+* Bragi Boddason "the Old" (early-9th century), author of Ragnarsdrápa
+* Þorbjörn Hornklofi (9th century) court poet of King Harald Fairhair 
+* Þjóðólfr of Hvinir (fl. c. 900), author of Haustlöng and Ynglingatal
+* Eyvindr skáldaspillir (10th century), or Eyvindr the Plagiarist, the author of Hákonarmál and Háleygjatal
+* Egill Skallagrímsson (10th century), author of Sonatorrek, Höfuðlausn and Arinbjarnarkviða
+* Kormákr Ögmundarson (mid-10th century), the main character of Kormáks saga
+* Eilífr Goðrúnarson (late-10th century), author of Þórsdrápa
+* Þórvaldr Hjaltason (later-10th century), a skald of king Eric the Victorious
+* Hallfreðr vandræðaskáld (late-10th century) court poet of Olaf Tryggvason
+* Einarr Helgason "Skálaglamm" (late-10th century), "of the gleaming coins" ‒ author of Vellekla
+* Úlfr Uggason (late-10th century), author of the Húsdrápa
+* Tindr Hallkelsson (fl. c. 1000), one of Haakon Sigurdsson's court poets
+* Gunnlaugr Ormstunga (10/11th century), nicknamed Ormstunga "Wormtongue" on account of his propensity for satire and invective
+* Sigvatr Þórðarson (earlier-11th century), court poet to King Olaf II of Norway 
+* Þórarinn loftunga (earlier-11th century) court poet to Sveinn Knútsson 
+* Óttarr svarti (earlier-11th century), a skald at the court of king Olof Skötkonung and Olaf the Stout
+* Valgarðr á Velli (mid-11th century), court poet to Harald Hardrada
+* Þjóðólfr Arnórsson (mid-11th century), court poet to Magnus the Good and Harald Hardrada
+* Arnórr jarlaskáld (mid-11th century), Jarlaskald "the Earls' Skald"
+* Einarr Skúlason (12th century), author of Geisli
+* Þórir Jökull Steinfinnsson (13th century) Icelandic poet
+==See also==
+* Old Norse poetry
+* Old Norse Women's Poetry: The Voices of Female Skalds
+* Alliterative verse
+* Scop
+* Bard
+* Nīþ Puts the role of the skald into context as one who "shouted in their faces what they were in most derogatory terms".
+==References==
+==Sources==
+*K. E. Gade (ed.) Poetry from the Kings' Sagas 2 from c. 1035 to c. 1300 (Brepols, 2009) 
+*Margaret Clunies Ross (2007) Eddic, Skaldic, and Beyond: Poetic Variety in Medieval Iceland and Norway (Fordham University Press, 2014) 
+==External links==
+* urltoken Dróttkvæði, skjaldkvæði og rímur from heimskringla.no.
+* Finnur Jónsson, ed. urltoken Den norsk-islandske skjaldedigtning, from heimskringla.no.
+* Finnur Jónsson, ed. urltoken Den norsk-islandske skjaldedigtning. 4 vols. Copenhagen: Villadsen og Christensen, 1912–15. Photographic reprint Copenhagen: Rosenkilde og Bagger, 1967. Still the definitive edition.
+* urltoken Skaldic Project homepage: Skaldic poetry currently under edition (Clunies Ross et al.).
+* urltoken Index of Old Norse/Icelandic Skaldic Poetry at the urltoken Jörmungrund database
+* Sveinbjörn Egilsson and Finnur Jónsson, eds. urltoken Lexicon poeticum antiquæ linguæ septentriolanis: ordbog over det norsk-islandske skjaldesprog. 2nd ed. Copenhagen: Det kongelige nordiske oldskriftselskab, 1913–16 Also in partial form at the urltoken Jörmungrund database
+* urltoken Corpus poeticum boreale. V. II. Court Poetry by G. Vigfússon and F. Y. Powell, 1883 at the Internet Archive: Skaldic poems with literal English translations
+
+Image:Olav den helliges saga - Skalden Berse - C. Krogh.jpg|right|thumb|250px|Bersi Skáldtorfuson, in chains, composing poetry after he was captured by King Óláfr Haraldsson (Christian Krohg's illustration from Heimskringla, 1899 edition)
+Skald, or skáld (Old Norse: , later ; , meaning "poet"), is generally a term used for poets who composed at the courts of Scandinavian leaders during the Viking Age, 793–1066 AD, and continuing into the Middle Ages (5th century – 15th century). Skaldic poetry forms one of two main groupings of Old Norse poetry, the other being the anonymous Poetic Edda.<ref name="Store norske leksikon"></ref>
+<ref></ref>
+The most prevalent metre of skaldic poetry is dróttkvætt. The subject is usually historical and encomium, detailing the deeds of the skald's patron. There is no evidence that the skalds employed musical instruments, but some speculate that they may have accompanied their verses with the harp or lyre.<ref name="Helle2003"></ref><ref></ref>
+The corpus of skaldic poetry comprise 5797 verses by 447 Skald preserved in 718 manuscripts.<ref></ref> It is currently being edited by the Skaldic Poetry of the Scandinavian Middle Ages project.<ref></ref>
+right
