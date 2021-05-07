@@ -382,8 +382,8 @@ def start_run(processID, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, sub_storie
             preprocessed_abs_sentences_list.append(preprocessed_abs_sent)  
 
 
-        # if len(preprocessed_abs_sentences_list)   <  3 or len(preprocessed_sentences) <  7:
-        #     continue
+        if len(preprocessed_abs_sentences_list)   <  4 or len(preprocessed_sentences) <  7:
+            continue
         preprocessed_abs_sentences = (" ").join(preprocessed_abs_sentences_list)        
 
 
