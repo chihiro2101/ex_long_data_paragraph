@@ -254,7 +254,7 @@ class Summerizer(object):
    #MASingleDocSum    
     def solve(self):
         population = self.generate_population(self.population_size)
-        best_individual = sorted(population, key=lambda x: x[1], reverse=True)[1]
+        best_individual = sorted(population, key=lambda x: x[1], reverse=True)[0]
         best_fitness_value = best_individual[1]
         tmp_arr = []
         tmp_arr.append(best_fitness_value)
